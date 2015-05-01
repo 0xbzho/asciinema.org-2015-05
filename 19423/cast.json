@@ -1,0 +1,1342 @@
+{
+  "version": 1,
+  "width": 124,
+  "height": 51,
+  "duration": 24.668903,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "gnome-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.049525,
+      "\u001b[0m\u000f"
+    ],
+    [
+      0.088511,
+      "\u001b[1m\u001b[38;5;37mctf \u001b[38;5;244mat \u001b[38;5;37mubuntu \u001b[38;5;244min \u001b[38;5;33m~/ctfs\u001b[38;5;244m\u001b[38;5;136m\u001b[38;5;244m\r\r\n$ \u001b[0m\u000f"
+    ],
+    [
+      0.630071,
+      "cat *"
+    ],
+    [
+      0.408332,
+      "\r\u001b[C\u001b[C\u001b[3Pll"
+    ],
+    [
+      1.080072,
+      "\u0008\u0008cd files/"
+    ],
+    [
+      0.711870,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.096392,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.112256,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.111898,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.111669,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.127845,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.111866,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.120138,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.104547,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.120013,
+      "\u0007"
+    ],
+    [
+      0.095755,
+      "\u0007"
+    ],
+    [
+      0.167673,
+      "g"
+    ],
+    [
+      0.055963,
+      "d"
+    ],
+    [
+      0.120573,
+      "b"
+    ],
+    [
+      0.255701,
+      " "
+    ],
+    [
+      1.288098,
+      "p"
+    ],
+    [
+      0.064517,
+      "l"
+    ],
+    [
+      0.080192,
+      "a"
+    ],
+    [
+      0.152356,
+      "\u0007"
+    ],
+    [
+      0.000057,
+      "i"
+    ],
+    [
+      0.590898,
+      "d"
+    ],
+    [
+      0.103002,
+      "\u0007"
+    ],
+    [
+      0.000049,
+      "-ctf-201"
+    ],
+    [
+      0.898154,
+      "3"
+    ],
+    [
+      0.950993,
+      "/"
+    ],
+    [
+      0.138353,
+      "ropas "
+    ],
+    [
+      0.142570,
+      "\u0007"
+    ],
+    [
+      0.575213,
+      "\r\n"
+    ],
+    [
+      0.041742,
+      "GNU gdb (Ubuntu 7.7.1-0ubuntu5~14.04.2) 7.7.1\r\nCopyright (C) 2014 Free Software Foundation, Inc.\r\nLicense GPLv3+: GNU GPL version 3 or later \u003chttp://gnu.org/licenses/gpl.html\u003e\r\nThis is free software: you are free to change and redistribute it.\r\nThere is NO WARRANTY, to the extent permitted by law.  Type \"show copying\"\r\nand \"show warranty\" for details.\r\nThis GDB was configured as \"x86_64-linux-gnu\".\r\nType \"show configuration\" for configuration details."
+    ],
+    [
+      0.000011,
+      "\r\nFor bug reporting instructions, please see:\r\n\u003chttp://www.gnu.org/software/gdb/bugs/\u003e.\r\nFind the GDB manual and other documentation resources online at:\r\n\u003chttp://www.gnu.org/software/gdb/documentation/\u003e.\r\nFor help, type \"help\".\r\nType \"apropos word\" to search for commands related to \"word\"...\r\n"
+    ],
+    [
+      0.066244,
+      "\u001b[31mLoaded 40 commands.  Type pwndbg for a list.\u001b[0m\r\n"
+    ],
+    [
+      0.000247,
+      "Reading symbols from plaid-ctf-2013/ropas..."
+    ],
+    [
+      0.000121,
+      "(no debugging symbols found)...done."
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000330,
+      "pwn\u003e "
+    ],
+    [
+      0.691635,
+      "r"
+    ],
+    [
+      0.199950,
+      "\r\n"
+    ],
+    [
+      0.000204,
+      "Starting program: /home/ctf/ctfs/plaid-ctf-2013/ropas "
+    ],
+    [
+      0.000060,
+      "\r\n"
+    ],
+    [
+      0.871961,
+      "^C"
+    ],
+    [
+      0.000665,
+      "\r\nProgram received signal SIGINT, Interrupt.\r\n"
+    ],
+    [
+      0.000220,
+      "0xf7fd9d70 in __kernel_vsyscall ()\r\n"
+    ],
+    [
+      0.017310,
+      "color  '\\x1b[31m0xf7ee2bf3\\x1b[0m     ' 24\r\n"
+    ],
+    [
+      0.000217,
+      "color  '\\x1b[35m0xf7fb2000\\x1b[0m     ' 24\r\n"
+    ],
+    [
+      0.000058,
+      "color  '\\x1b[31m0x804841b\\x1b[0m      ' 24\r\n"
+    ],
+    [
+      0.000131,
+      "normal '\\x1b[0m0\\x1b[0m              ' 23\r\n"
+    ],
+    [
+      0.000096,
+      "color  '\\x1b[31m0x804841b\\x1b[0m      ' 24\r\n"
+    ],
+    [
+      0.000067,
+      "normal '\\x1b[0m0\\x1b[0m              ' 23\r\n"
+    ],
+    [
+      0.000137,
+      "color  '\\x1b[33m0xffffcb90\\x1b[0m     ' 24\r\n"
+    ],
+    [
+      0.000038,
+      "normal '\\x1b[0m0x100\\x1b[0m          ' 23\r\n"
+    ],
+    [
+      0.000164,
+      "color  '\\x1b[31m0x804842b\\x1b[0m      ' 24\r\n"
+    ],
+    [
+      0.000037,
+      "color  '\\x1b[35m0xf7fb23c4\\x1b[0m     ' 24\r\n"
+    ],
+    [
+      0.000061,
+      "color  '\\x1b[35m0xf7ffd000\\x1b[0m     ' 24\r\n"
+    ],
+    [
+      0.000097,
+      "color  '\\x1b[31m0x804846b\\x1b[0m      ' 24\r\n"
+    ],
+    [
+      0.000099,
+      "color  '\\x1b[31m0xf7e21a83\\x1b[0m     ' 24\r\n"
+    ],
+    [
+      0.000093,
+      "normal '\\x1b[0m1\\x1b[0m              ' 23\r\n"
+    ],
+    [
+      0.000090,
+      "color  '\\x1b[33m0xffffccd4\\x1b[0m     ' 24\r\n"
+    ],
+    [
+      0.000088,
+      "color  '\\x1b[33m0xffffccdc\\x1b[0m     ' 24\r\n"
+    ],
+    [
+      0.000310,
+      "color  '\\x1b[31m0x8048361\\x1b[0m      ' 24\r\n"
+    ],
+    [
+      0.000054,
+      "color  '\\x1b[31m0x804841d\\x1b[0m      ' 24\r\n"
+    ],
+    [
+      0.000039,
+      "normal '\\x1b[0m1\\x1b[0m              ' 23\r\n"
+    ],
+    [
+      0.000109,
+      "color  '\\x1b[33m0xffffccd4\\x1b[0m     ' 24\r\n"
+    ],
+    [
+      0.000103,
+      "LEGEND: \u001b[33mSTACK\u001b[0m | \u001b[34mHEAP\u001b[0m | \u001b[31mCODE\u001b[0m | \u001b[35mDATA\u001b[0m | \u001b[4mRWX\u001b[0m | RODATA\r\n\u001b[34m[--------------------------------------------------------REGISTERS---------------------------------------------------------]\u001b[0m\r\n\u001b[1mEAX \u001b[0m 0xfffffe00"
+    ],
+    [
+      0.000003,
+      "\r\n\u001b[1mEBX \u001b[0m 0x0\r\n\u001b[1mECX \u001b[0m \u001b[33m0xffffcb90\u001b[0m \u003c-- 1\r\n\u001b[1mEDX \u001b[0m 0x100\r\n\u001b[1mEDI \u001b[0m 0x0"
+    ],
+    [
+      0.000002,
+      "\r\n\u001b[1mESI \u001b[0m 0x0"
+    ],
+    [
+      0.000002,
+      "\r\n\u001b[1mEBP \u001b[0m \u001b[33m0xffffcc18\u001b[0m --\u003e \u001b[33m0xffffcc38\u001b[0m \u003c-- 0"
+    ],
+    [
+      0.000001,
+      "\r\n"
+    ],
+    [
+      0.000042,
+      "\u001b[1mESP \u001b[0m \u001b[33m0xffffcb68\u001b[0m --\u003e \u001b[33m0xffffcc18\u001b[0m --\u003e \u001b[33m0xffffcc38\u001b[0m \u003c-- 0\r\n\u001b[1m$PC \u001b[0m \u001b[31m0xf7fd9d70 (__kernel_vsyscall+16)\u001b[0m \u003c-- pop    ebp\r\n\u001b[34m[-----------------------------------------------------------CODE-----------------------------------------------------------]\u001b[0m\r\n    \u003c__kernel_vsyscall+10\u003e  nop\r\n    \u003c__kernel_vsyscall+11\u003e  nop\r\n"
+    ],
+    [
+      0.000007,
+      "    \u003c__kernel_vsyscall+12\u003e  nop\r\n    \u003c__kernel_vsyscall+13\u003e  nop\r\n    \u003c__kernel_vsyscall+14\u003e  int    0x80\r\n =\u003e \u003c__kernel_vsyscall+16\u003e  pop    ebp\r\n    \u003c__kernel_vsyscall+17\u003e  pop    edx\r\n    \u003c__kernel_vsyscall+18\u003e  pop    ecx"
+    ],
+    [
+      0.000008,
+      "\r\n    \u003c__kernel_vsyscall+19\u003e  \u001b[1mret    \u001b[0m\r\n\r\n                            int3   \r\n"
+    ],
+    [
+      0.000001,
+      "                            stc    \r\n"
+    ],
+    [
+      0.000001,
+      "\u001b[34m[----------------------------------------------------------STACK-----------------------------------------------------------]\u001b[0m"
+    ],
+    [
+      0.000001,
+      "\r\n"
+    ],
+    [
+      0.000001,
+      "00:0000| esp  \u001b[33m0xffffcb68\u001b[0m --\u003e \u001b[33m0xffffcc18\u001b[0m --\u003e \u001b[33m0xffffcc38\u001b[0m \u003c-- 0\r\n"
+    ],
+    [
+      0.000001,
+      "01:0004|      \u001b[33m0xffffcb6c\u001b[0m \u003c-- 0x100"
+    ],
+    [
+      0.000001,
+      "\r\n"
+    ],
+    [
+      0.000001,
+      "02:0008|      \u001b[33m0xffffcb70\u001b[0m --\u003e \u001b[33m0xffffcb90\u001b[0m \u003c-- 1"
+    ],
+    [
+      0.000002,
+      "\r\n03:000c|      \u001b[33m0xffffcb74\u001b[0m --\u003e \u001b[31m0xf7ee2bf3 (__read_nocancel+25)\u001b[0m \u003c-- pop    ebx"
+    ],
+    [
+      0.000001,
+      "\r\n"
+    ],
+    [
+      0.000001,
+      "04:0010|      \u001b[33m0xffffcb78\u001b[0m --\u003e \u001b[35m0xf7fb2000 (_GLOBAL_OFFSET_TABLE_)\u001b[0m \u003c-- 0x1a9da8"
+    ],
+    [
+      0.000005,
+      "\r\n05:0014|      \u001b[33m0xffffcb7c\u001b[0m --\u003e \u001b[31m0x804841b\u001b[0m \u003c-- leave  "
+    ],
+    [
+      0.000002,
+      "\r\n06:0018|      \u001b[33m0xffffcb80\u001b[0m \u003c-- 0\r\n07:001c|      \u001b[33m0xffffcb84\u001b[0m --\u003e \u001b[33m0xffffcb90\u001b[0m \u003c-- 1\r\n"
+    ],
+    [
+      0.000002,
+      "\u001b[34m[--------------------------------------------------------BACKTRACE---------------------------------------------------------]\u001b[0m\r\n"
+    ],
+    [
+      0.000002,
+      "\u001b[32mStack Addr     \u001b[0m\u001b[32mRet Addr       \u001b[0m\u001b[32mArgv[0]        \u001b[0m\u001b[32mArgv[1]        \u001b[0m\u001b[32mArg"
+    ],
+    [
+      0.000001,
+      "v[2]        \u001b[0m\u001b[32mSymbol         \u001b[0m"
+    ],
+    [
+      0.000001,
+      "\r\n"
+    ],
+    [
+      0.000001,
+      "\u001b[33m0xffffcb74\u001b[0m     \u001b[31m0xf7ee2bf3\u001b[0m     \u001b[35m0xf7fb2000\u001b[0m     \u001b[31m0x804841b\u001b[0m      \u001b[0m0\u001b[0m              __kernel_vsyscall+16"
+    ],
+    [
+      0.000001,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[33m0xffffcb7c\u001b[0m     \u001b[31m0x804841b\u001b[0m      \u001b[0m0\u001b[0m              \u001b[33m0xffffcb90\u001b[0m     \u001b[0m0x100\u001b[0m          __read_nocancel+25\r\n"
+    ],
+    [
+      0.000002,
+      "\u001b[33m0xffffcc1c\u001b[0m     \u001b[31m0x804842b\u001b[0m      \u001b[35m0xf7fb23c4\u001b[0m     \u001b[35m0xf7ffd000\u001b[0m     \u001b[31m0x804846b\u001b[0m      no symbol\r\n"
+    ],
+    [
+      0.000002,
+      "\u001b[33m0xffffcc3c\u001b[0m     \u001b[31m0xf7e21a83\u001b[0m     \u001b[0m1\u001b[0m              \u001b[33m0xffffccd4\u001b[0m     \u001b[33m0xffffccdc\u001b[0m     no symbol"
+    ],
+    [
+      0.000001,
+      "\r\n"
+    ],
+    [
+      0.000015,
+      "\u001b[33m0xffffccac\u001b[0m     \u001b[31m0x8048361\u001b[0m      \u001b[31m0x804841d\u001b[0m      \u001b[0m1\u001b[0m              \u001b[33m0xffffccd4\u001b[0m     __libc_start_main+243\r\n"
+    ],
+    [
+      0.000024,
+      "\u001b[1m\u001b[31mProgram received signal SIGINT\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000040,
+      "pwn\u003e "
+    ],
+    [
+      2.139491,
+      "q"
+    ],
+    [
+      1.200108,
+      "\r\n"
+    ],
+    [
+      0.022800,
+      "\u001b[1m\u001b[38;5;37mctf \u001b[38;5;244mat \u001b[38;5;37mubuntu \u001b[38;5;244min \u001b[38;5;33m~/ctfs\u001b[38;5;244m\u001b[38;5;136m\u001b[38;5;244m\r\r\n$ \u001b[0m\u000f"
+    ],
+    [
+      0.337960,
+      "gdb plaid-ctf-2013/ropas "
+    ],
+    [
+      0.663724,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.500985,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.052364,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.050644,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.051198,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.050659,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.050641,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.131909,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.175999,
+      "5"
+    ],
+    [
+      0.096630,
+      "/"
+    ],
+    [
+      0.511529,
+      "p"
+    ],
+    [
+      0.080264,
+      "l"
+    ],
+    [
+      0.123244,
+      "aiddb/"
+    ],
+    [
+      1.004161,
+      "p"
+    ],
+    [
+      0.064457,
+      "l"
+    ],
+    [
+      0.073544,
+      "aiddb "
+    ],
+    [
+      0.678306,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.487935,
+      "\r\n"
+    ],
+    [
+      0.040992,
+      "GNU gdb (Ubuntu 7.7.1-0ubuntu5~14.04.2) 7.7.1\r\nCopyright (C) 2014 Free Software Foundation, Inc.\r\nLicense GPLv3+: GNU GPL version 3 or later \u003chttp://gnu.org/licenses/gpl.html\u003e\r\nThis is free software: you are free to change and redistribute it.\r\nThere is NO WARRANTY, to the extent permitted by law.  Type \"show copying\"\r\nand \"show warranty\" for details.\r\nThis GDB was configured as \"x86_64-linux-gnu\".\r\nType \"show configuration\" for configuration details."
+    ],
+    [
+      0.000006,
+      "\r\nFor bug reporting instructions, please see:\r\n\u003chttp://www.gnu.org/software/gdb/bugs/\u003e.\r\nFind the GDB manual and other documentation resources online at:\r\n\u003chttp://www.gnu.org/software/gdb/documentation/\u003e.\r\nFor help, type \"help\".\r\nType \"apropos word\" to search for commands related to \"word\"...\r\n"
+    ],
+    [
+      0.062797,
+      "\u001b[31mLoaded 40 commands.  Type pwndbg for a list.\u001b[0m\r\n"
+    ],
+    [
+      0.000210,
+      "Reading symbols from plaid-ctf-2015/plaiddb/plaiddb..."
+    ],
+    [
+      0.000193,
+      "(no debugging symbols found)...done.\r\n"
+    ],
+    [
+      0.000315,
+      "pwn\u003e "
+    ],
+    [
+      0.479703,
+      "r"
+    ],
+    [
+      0.520211,
+      "\r\n"
+    ],
+    [
+      0.000232,
+      "Starting program: /home/ctf/ctfs/plaid-ctf-2015/plaiddb/plaiddb "
+    ],
+    [
+      0.000065,
+      "\r\n"
+    ],
+    [
+      0.076582,
+      "INFO: Welcome to the PlaidDB data storage service.\r\nINFO: Valid commands are GET, PUT, DUMP, DEL, EXIT\r\nPROMPT: Enter command:\r\n"
+    ],
+    [
+      0.939371,
+      "^C"
+    ],
+    [
+      0.001266,
+      "\r\n"
+    ],
+    [
+      0.000056,
+      "Program received signal SIGINT, Interrupt."
+    ],
+    [
+      0.000043,
+      "\r\n"
+    ],
+    [
+      0.000091,
+      "0x00007ffff7b00810 in __read_nocancel () at ../sysdeps/unix/syscall-template.S:81"
+    ],
+    [
+      0.000035,
+      "\r\n"
+    ],
+    [
+      0.000065,
+      "81"
+    ],
+    [
+      0.000032,
+      "\t"
+    ],
+    [
+      0.000037,
+      "../sysdeps/unix/syscall-template.S: No such file or directory."
+    ],
+    [
+      0.000028,
+      "\r\n"
+    ],
+    [
+      0.027904,
+      "normal '\\x1b[0m0xffffd9b000007fff\\x1b[0m ' 27"
+    ],
+    [
+      0.000023,
+      "\r\n"
+    ],
+    [
+      0.000136,
+      "color  '\\x1b[33m0x7fffffffd9b0\\x1b[0m     ' 28"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.000216,
+      "normal '\\x1b[0m0xf7dd464000007fff\\x1b[0m ' 27"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000093,
+      "color  '\\x1b[35m0x7ffff7dd4640\\x1b[0m     ' 28"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000252,
+      "normal '\\x1b[0m0xffffda1000007fff\\x1b[0m ' 27"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000119,
+      "color  '\\x1b[33m0x7fffffffda10\\x1b[0m     ' 28"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000165,
+      "normal '\\x1b[0m0xf7a8434400007fff\\x1b[0m ' 27"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000098,
+      "color  '\\x1b[31m0x7ffff7a84344\\x1b[0m     ' 28"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000239,
+      "normal '\\x1b[0m0x100007fff\\x1b[0m        ' 27"
+    ],
+    [
+      0.000037,
+      "\r\n"
+    ],
+    [
+      0.000122,
+      "normal '\\x1b[0m1\\x1b[0m                  ' 27"
+    ],
+    [
+      0.000029,
+      "\r\n"
+    ],
+    [
+      0.000193,
+      "normal '\\x1b[0m0xffffda1000000000\\x1b[0m ' 27"
+    ],
+    [
+      0.000034,
+      "\r\n"
+    ],
+    [
+      0.000122,
+      "color  '\\x1b[33m0x7fffffffda10\\x1b[0m     ' 28"
+    ],
+    [
+      0.000034,
+      "\r\n"
+    ],
+    [
+      0.000248,
+      "normal '\\x1b[0m0x5575801000007fff\\x1b[0m ' 27"
+    ],
+    [
+      0.000030,
+      "\r\n"
+    ],
+    [
+      0.000119,
+      "color  '\\x1b[34m0x555555758010\\x1b[0m     ' 28"
+    ],
+    [
+      0.000033,
+      "\r\n"
+    ],
+    [
+      0.000109,
+      "normal '\\x1b[0m0x5555\\x1b[0m             ' 27"
+    ],
+    [
+      0.000025,
+      "\r\n"
+    ],
+    [
+      0.000119,
+      "normal '\\x1b[0m0\\x1b[0m                  ' 27"
+    ],
+    [
+      0.000025,
+      "\r\n"
+    ],
+    [
+      0.000247,
+      "normal '\\x1b[0m0x55554bc700005555\\x1b[0m ' 27"
+    ],
+    [
+      0.000030,
+      "\r\n"
+    ],
+    [
+      0.000153,
+      "color  '\\x1b[31m0x555555554bc7\\x1b[0m     ' 28"
+    ],
+    [
+      0.000025,
+      "\r\n"
+    ],
+    [
+      0.000185,
+      "normal '\\x1b[0m0x55555a4e00005555\\x1b[0m ' 27"
+    ],
+    [
+      0.000026,
+      "\r\n"
+    ],
+    [
+      0.000114,
+      "color  '\\x1b[31m0x555555555a4e\\x1b[0m     ' 28"
+    ],
+    [
+      0.000029,
+      "\r\n"
+    ],
+    [
+      0.000308,
+      "normal '\\x1b[0m0x5575801000005555\\x1b[0m ' 27"
+    ],
+    [
+      0.000028,
+      "\r\n"
+    ],
+    [
+      0.000104,
+      "color  '\\x1b[34m0x555555758010\\x1b[0m     ' 28"
+    ],
+    [
+      0.000027,
+      "\r\n"
+    ],
+    [
+      0.000138,
+      "normal '\\x1b[0m0xf3cd9c0000005555\\x1b[0m ' 27"
+    ],
+    [
+      0.000031,
+      "\r\n"
+    ],
+    [
+      0.000131,
+      "normal '\\x1b[0m0xc91ef26ef3cd9c00\\x1b[0m ' 27"
+    ],
+    [
+      0.000030,
+      "\r\n"
+    ],
+    [
+      0.000246,
+      "normal '\\x1b[0m0x5555\\x1b[0m             ' 27"
+    ],
+    [
+      0.000026,
+      "\r\n"
+    ],
+    [
+      0.000101,
+      "normal '\\x1b[0m0\\x1b[0m                  ' 27"
+    ],
+    [
+      0.000027,
+      "\r\n"
+    ],
+    [
+      0.000151,
+      "normal '\\x1b[0m0xf7a36ec500000000\\x1b[0m ' 27"
+    ],
+    [
+      0.000030,
+      "\r\n"
+    ],
+    [
+      0.000099,
+      "color  '\\x1b[31m0x7ffff7a36ec5\\x1b[0m     ' 28"
+    ],
+    [
+      0.000023,
+      "\r\n"
+    ],
+    [
+      0.000268,
+      "normal '\\x1b[0m0xffffdb1800007fff\\x1b[0m ' 27"
+    ],
+    [
+      0.000027,
+      "\r\n"
+    ],
+    [
+      0.000145,
+      "color  '\\x1b[33m0x7fffffffdb18\\x1b[0m     ' 28"
+    ],
+    [
+      0.000023,
+      "\r\n"
+    ],
+    [
+      0.000101,
+      "normal '\\x1b[0m0xffffdb1800007fff\\x1b[0m ' 27"
+    ],
+    [
+      0.000029,
+      "\r\n"
+    ],
+    [
+      0.000098,
+      "color  '\\x1b[33m0x7fffffffdb18\\x1b[0m     ' 28"
+    ],
+    [
+      0.000023,
+      "\r\n"
+    ],
+    [
+      0.000308,
+      "normal '\\x1b[0m0xffffdb0800005555\\x1b[0m ' 27"
+    ],
+    [
+      0.000025,
+      "\r\n"
+    ],
+    [
+      0.000110,
+      "color  '\\x1b[33m0x7fffffffdb08\\x1b[0m     ' 28"
+    ],
+    [
+      0.000029,
+      "\r\n"
+    ],
+    [
+      0.000120,
+      "normal '\\x1b[0m0x1c00007fff\\x1b[0m       ' 27"
+    ],
+    [
+      0.000026,
+      "\r\n"
+    ],
+    [
+      0.000096,
+      "normal '\\x1b[0m28\\x1b[0m                 ' 27"
+    ],
+    [
+      0.000022,
+      "\r\n"
+    ],
+    [
+      0.000143,
+      "LEGEND: \u001b[33mSTACK\u001b[0m | \u001b[34mHEAP\u001b[0m | \u001b[31mCODE\u001b[0m | \u001b[35mDATA\u001b[0m | \u001b[4mRWX\u001b[0m | RODATA"
+    ],
+    [
+      0.000022,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[34m[--------------------------------------------------------REGISTERS---------------------------------------------------------]\u001b[0m"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1mRAX \u001b[0m 0xfffffffffffffe00"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1mRBX \u001b[0m \u001b[35m0x7ffff7dd4640 (_IO_2_1_stdin_)\u001b[0m \u003c-- 0xfbad208b /* ' ' */"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[1mRCX \u001b[0m 0xffffffffffffffff"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1mRDX \u001b[0m 0x1"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1mRDI \u001b[0m 0x0"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1mRSI \u001b[0m \u001b[35m0x7ffff7dd46c3 (_IO_2_1_stdin_+131)\u001b[0m \u003c-- 0xdd59f00000000000"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[1mR8  \u001b[0m \u001b[35m0x7ffff7fd2740\u001b[0m \u003c-- 0x7ffff7fd2740"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1mR9  \u001b[0m 0x0"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[1mR10 \u001b[0m 0x0"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1mR11 \u001b[0m 0x246"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1mR12 \u001b[0m 0x0"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1mR13 \u001b[0m \u001b[35m0x7ffff7dd46c3 (_IO_2_1_stdin_+131)\u001b[0m \u003c-- 0xdd59f00000000000"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[1mR14 \u001b[0m \u001b[35m0x7ffff7dd4640 (_IO_2_1_stdin_)\u001b[0m \u003c-- 0xfbad208b /* ' ' */"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1mR15 \u001b[0m 0x7"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1mRBP \u001b[0m \u001b[35m0x7ffff7dd4400 (_IO_2_1_stdout_)\u001b[0m \u003c-- 0xfbad2887 /* '(' */"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[1mRSP \u001b[0m \u001b[33m0x7fffffffd948\u001b[0m --\u003e \u001b[31m0x7ffff7a8f6a0 (_IO_file_underflow+304)\u001b[0m \u003c-- cmp    rax,0x0 /* 'H' */"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[1m$PC \u001b[0m \u001b[31m0x7ffff7b00810 (__"
+    ],
+    [
+      0.000009,
+      "read_nocancel+7)\u001b[0m \u003c-- cmp    rax,0xfffffffffffff001"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[34m[-----------------------------------------------------------CODE-----------------------------------------------------------]\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "                          nop    DWORD PTR [rax+0x0]"
+    ],
+    [
+      0.000017,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "    \u003cread\u003e                cmp    DWORD PTR [rip+0x2d886d],0x0        # 0x7ffff7dd9074 \u003c__libc_multiple_threads\u003e"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "    \u003cread+7\u003e              \u001b[1mjne    0x7ffff7b00819 \u003cread+25\u003e\u001b[0m"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "    \u003c__read_nocancel\u003e     mov    eax,0x0"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "    \u003c__read_nocancel+5\u003e   syscall "
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      " =\u003e \u003c__read_nocancel+7\u003e   cmp    rax,0xfffffffffffff001"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "    \u003c__read_nocancel+13\u003e  \u001b[1mjae    0x7ffff7b00849 \u003cread+73\u003e\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "    \u003c__read_nocancel+15\u003e  \u001b[1mret    \u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "    \u003cread+25\u003e             sub    rsp,0x8"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "    \u003cread+29\u003e             \u001b[1mcall   0x7ffff7b1d170 \u003c__libc_enable_asynccancel\u003e\u001b[0m"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "    \u003cread+34\u003e             mov    QWORD PTR [rsp],rax"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[34m[----------------------------------------------------------STACK-----------------------------------------------------------]\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "00:0000| rsp  \u001b[33m0x7fffffffd948\u001b[0m --\u003e \u001b[31m0x7ffff7a8f6a0 (_IO_file_underflow+304)\u001b[0m \u003c-- cmp    rax,0x0 /* 'H' */"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "01:0008|      \u001b[33m0x7fffffffd950\u001b[0m --\u003e \u001b[33m0x7fffffffd9b0\u001b[0m --\u003e \u001b[33m0x7fffffffda10\u001b[0m --\u003e \u001b[34m0x555555758010\u001b[0m \u003c-- ..."
+    ],
+    [
+      0.000021,
+      "\r\n"
+    ],
+    [
+      0.000033,
+      "02:0010|      \u001b[33m0x7fffffffd958\u001b[0m --\u003e \u001b[35m0x7ffff7dd4640 (_IO_2_1_stdin_)\u001b[0m \u003c-- 0xfbad208b /* ' ' */"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "03:0018|      \u001b[33m0x7fffffffd960\u001b[0m \u003c-- 0xa /* '\\n' */"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "04:0020|      \u001b[33m0x7fffffffd968\u001b[0m --\u003e \u001b[31m0x7ffff7a9062e (_IO_default_uflow+14)\u001b[0m \u003c-- cmp    eax,0xffffffff"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "05:0028|      \u001b[33m0x7fffffffd970\u001b[0m --\u003e \u001b[33m0x7fffffffda10\u001b[0m --\u003e \u001b[34m0x555555758010\u001b[0m --\u003e \u001b[34m0x555555758050\u001b[0m \u003c-- ..."
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "06:0030|      \u001b[33m0x7fffffffd978\u001b[0m --\u003e \u001b[31m0x7ffff7a84344 (_IO_getline_info+164)\u001b[0m \u003c-- cmp    eax,0xffffffff"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "07:0038|      \u001b[33m0x7fffffffd980\u001b[0m \u003c-- 1"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[34m[--------------------------------------------------------BACKTRACE---------------------------------------------------------]\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[32mStack Addr         \u001b[0m\u001b[32mRet Addr           \u001b[0m\u001b[32mArgv[0]            \u001b[0m\u001b[32mArgv[1]            \u001b[0m\u001b[32mAr"
+    ],
+    [
+      0.000007,
+      "gv[2]            \u001b[0m\u001b[32mSymbol             \u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[33m0x7fffffffd94c\u001b[0m     \u001b[0m0xffffd9b000007fff\u001b[0m \u001b[33m0x7fffffffd9b0\u001b[0m     \u001b[0m0xf7dd464000007fff\u001b[0m \u001b[35m0x7ffff7dd4640\u001b[0m     __read_nocancel+7"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[33m0x7fffffffd96c\u001b[0m     \u001b[0m0xffffda1000007fff\u001b[0m \u001b[33m0x7fffffffda10\u001b[0m     \u001b[0m0xf7a8434400007fff\u001b[0m \u001b[31m0x7ffff7a84344\u001b[0m     _IO_file_underflow+304"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[33m0x7fffffffd97c\u001b[0m     \u001b[0m0x100007fff\u001b[0m        \u001b[0m1\u001b[0m                  \u001b[0m0xffffda1000000000\u001b[0m \u001b[33m0x7fffffffda10\u001b[0m     _IO_default_uflow+14"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[33m0x7fffffffd9dc\u001b[0m     \u001b[0m0x5575801000007fff\u001b[0m \u001b[34m0x555555758010\u001b[0m     \u001b[0m0x5555\u001b[0m             \u001b[0m0\u001b[0m                  _IO_getline_info+164"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[33m0x7fffffffd9fc\u001b[0m     \u001b[0m0x55554bc700005555\u001b[0m \u001b[31m0x555555554bc7\u001b[0m     \u001b[0m0x55555a4e00005555\u001b[0m \u001b[31m0x555555555a4e\u001b[0m     fgets+166"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[33m0x7fffffffda0c\u001b[0m     \u001b[0m0x5575801000005555\u001b[0m \u001b[34m0x555555758010\u001b[0m     \u001b[0m0xf3cd9c0000005555\u001b[0m \u001b[0m0xc91ef26ef3cd9c00\u001b[0m no symbol"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[33m0x7fffffffda2c\u001b[0m     \u001b[0m0x5555\u001b[0m    "
+    ],
+    [
+      0.000010,
+      "         \u001b[0m0\u001b[0m                  \u001b[0m0xf7a36ec500000000\u001b[0m \u001b[31m0x7ffff7a36ec5\u001b[0m     no symbol"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[33m0x7fffffffda3c\u001b[0m     \u001b[0m0xffffdb1800007fff\u001b[0m \u001b[33m0x7fffffffdb18\u001b[0m     \u001b[0m0xffffdb1800007fff\u001b[0m \u001b[33m0x7fffffffdb18\u001b[0m     no symbol"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[33m0x7fffffffdafc\u001b[0m     \u001b[0m0xffffdb0800005555\u001b[0m \u001b[33m0x7fffffffdb08\u001b[0m     \u001b[0m0x1c00007fff\u001b[0m       \u001b[0m28\u001b[0m                 __libc_start_main+245"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000017,
+      "\u001b[1m\u001b[31mProgram received signal SIGINT\u001b[0m\u001b[0m"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000064,
+      "pwn\u003e "
+    ],
+    [
+      1.195219,
+      "q"
+    ],
+    [
+      0.792331,
+      "\r\n"
+    ],
+    [
+      0.022142,
+      "\u001b[1m\u001b[38;5;37mctf \u001b[38;5;244mat \u001b[38;5;37mubuntu \u001b[38;5;244min \u001b[38;5;33m~/ctfs\u001b[38;5;244m\u001b[38;5;136m\u001b[38;5;244m\r\r\n$ \u001b[0m\u000f"
+    ],
+    [
+      0.393633,
+      "exit"
+    ],
+    [
+      0.000078,
+      "\r\n"
+    ]
+  ]
+}
