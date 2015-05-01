@@ -1,0 +1,450 @@
+{
+  "version": 1,
+  "width": 181,
+  "height": 48,
+  "duration": 28.765203,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm-color",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.598930,
+      "\u001b[1m\u001b[7m%\u001b[m\u001b[1m\u001b[m                                                                                                                                                                                    \r \r"
+    ],
+    [
+      0.000009,
+      "\u001b]2;/Users/duff\u0007"
+    ],
+    [
+      0.000027,
+      "\u001b]1;Users/duff\u0007"
+    ],
+    [
+      0.014577,
+      "\r\u001b[m\u001b[m\u001b[m\u001b[J\r\n[\u001b[00m \u001b[36m~ \u001b[00m]\u001b[00m ✦\u001b[00m  "
+    ],
+    [
+      0.000006,
+      "\u001b[K"
+    ],
+    [
+      1.307384,
+      "b"
+    ],
+    [
+      0.190633,
+      "\u0008br"
+    ],
+    [
+      0.088524,
+      "e"
+    ],
+    [
+      0.024141,
+      "w"
+    ],
+    [
+      0.111977,
+      " "
+    ],
+    [
+      0.031566,
+      "l"
+    ],
+    [
+      0.128554,
+      "i"
+    ],
+    [
+      0.096080,
+      "s"
+    ],
+    [
+      0.135461,
+      "t"
+    ],
+    [
+      0.096146,
+      "\r\r\n"
+    ],
+    [
+      0.005233,
+      "\u001b]1; duff: brew list \u0007"
+    ],
+    [
+      0.122750,
+      "ab\t\t\tfaad2\t\t\tgo\t\t\tlibgpg-error\t\tluarocks\t\tpcre\t\t\tthe_silver_searcher\r\nack\t\t\tfreetype\t\tgpg-agent\t\tlibksba\t\t\tmacvim\t\t\tphp54\t\t\ttmux\r\nautoconf\t\tgdbm\t\t\thtop-osx\t\tlibpng\t\t\tmad\t\t\tpidof\t\t\tunixodbc\r\nautomake\t\tgettext\t\t\thub\t\t\tlibtasn1\t\tmtr\t\t\tpinentry\t\tvifm\r\n"
+    ],
+    [
+      0.000015,
+      "cmake\t\t\tgh\t\t\ticu4c\t\t\tlibtiff\t\t\tnettle\t\t\tpkg-config\t\twget\r\ncolordiff\t\tgit\t\t\tjpeg\t\t\tlibtool\t\t\tnginx\t\t\tpostgresql\t\twrk\r\ncscope\t\t\tgmp\t\t\tjson-c\t\t\tlibusb\t\t\tnode\t\t\tpstree\t\t\twxmac\r\nctags\t\t\tgnu-typist\t\tlibao\t\t\tlibusb-compat\t\topenssl\t\t\tpth\t\t\txz\r\ndirmngr\t\t\tgnupg\t\t\tlibassuan\t\tlibxml2\t\t\tossp-uuid\t\tqt\t\t\tzlib\r\n"
+    ],
+    [
+      0.000005,
+      "docker\t\t\tgnupg2\t\t\tlibevent\t\tlibxslt\t\t\tp11-kit\t\t\treadline\t\tzsh\r\ndvm\t\t\tgnutls\t\t\tlibgcrypt\t\tlua\t\t\tp7zip\t\t\tredis\t\t\tzsh-completions\r\n"
+    ],
+    [
+      0.000635,
+      "\u001b[1m\u001b[7m%\u001b[m\u001b[1m\u001b[m                                                                                                                                                                                    \r \r\u001b]2;/Users/duff\u0007\u001b]1;Users/duff\u0007"
+    ],
+    [
+      0.012144,
+      "\r\u001b[m\u001b[m\u001b[m\u001b[J\r\n[\u001b[00m \u001b[36m~ \u001b[00m]\u001b[00m ✦\u001b[00m  "
+    ],
+    [
+      0.000006,
+      "\u001b[K"
+    ],
+    [
+      1.475596,
+      "b"
+    ],
+    [
+      0.235813,
+      "\u0008br"
+    ],
+    [
+      0.476049,
+      "e"
+    ],
+    [
+      0.120518,
+      "w"
+    ],
+    [
+      0.343612,
+      " "
+    ],
+    [
+      0.200002,
+      "u"
+    ],
+    [
+      0.192281,
+      "n"
+    ],
+    [
+      0.079721,
+      "i"
+    ],
+    [
+      0.103526,
+      "n"
+    ],
+    [
+      0.109164,
+      "s"
+    ],
+    [
+      0.123560,
+      "t"
+    ],
+    [
+      0.079888,
+      "a"
+    ],
+    [
+      0.056275,
+      "l"
+    ],
+    [
+      0.163556,
+      "l"
+    ],
+    [
+      0.084500,
+      " "
+    ],
+    [
+      0.103587,
+      "n"
+    ],
+    [
+      0.096327,
+      "o"
+    ],
+    [
+      0.207645,
+      "d"
+    ],
+    [
+      0.167621,
+      "e"
+    ],
+    [
+      4.496277,
+      "\r\r\n"
+    ],
+    [
+      0.004886,
+      "\u001b]1; duff: brew uninstall node \u0007"
+    ],
+    [
+      0.208028,
+      "Uninstalling /usr/local/Cellar/node/0.12.2_1... (2603 files, 28M)\r\n"
+    ],
+    [
+      0.337323,
+      "\u001b[1m\u001b[7m%\u001b[m\u001b[1m\u001b[m                                                                                                                                                                                    \r \r"
+    ],
+    [
+      0.000008,
+      "\u001b]2;/Users/duff\u0007"
+    ],
+    [
+      0.000032,
+      "\u001b]1;Users/duff\u0007"
+    ],
+    [
+      0.011926,
+      "\r\u001b[m\u001b[m\u001b[m\u001b[J\r\n[\u001b[00m \u001b[36m~ \u001b[00m]\u001b[00m ✦\u001b[00m  \u001b[K"
+    ],
+    [
+      2.534793,
+      "b"
+    ],
+    [
+      0.215444,
+      "\u0008br"
+    ],
+    [
+      0.088393,
+      "e"
+    ],
+    [
+      0.000654,
+      "w"
+    ],
+    [
+      0.087226,
+      " "
+    ],
+    [
+      0.143696,
+      "i"
+    ],
+    [
+      0.080113,
+      "n"
+    ],
+    [
+      0.095437,
+      "s"
+    ],
+    [
+      0.104516,
+      "t"
+    ],
+    [
+      0.079476,
+      "a"
+    ],
+    [
+      0.056549,
+      "l"
+    ],
+    [
+      0.172525,
+      "l"
+    ],
+    [
+      0.075355,
+      " "
+    ],
+    [
+      0.064067,
+      "n"
+    ],
+    [
+      0.112271,
+      "o"
+    ],
+    [
+      0.207721,
+      "d"
+    ],
+    [
+      0.155858,
+      "e"
+    ],
+    [
+      0.084339,
+      "\r\r\n"
+    ],
+    [
+      0.006124,
+      "\u001b]1; duff: brew install node \u0007"
+    ],
+    [
+      0.290623,
+      "\u001b[1;34m==\u003e\u001b[1;39m Downloading https://homebrew.bintray.com/bottles/node-0.12.2_1.yosemite.bottle.tar.gz\u001b[0m\r\n"
+    ],
+    [
+      0.000013,
+      "Already downloaded: /Library/Caches/Homebrew/node-0.12.2_1.yosemite.bottle.tar.gz\r\n"
+    ],
+    [
+      0.048205,
+      "\u001b[1;34m==\u003e\u001b[1;39m Pouring node-0.12.2_1.yosemite.bottle.tar.gz\u001b[0m\r\n"
+    ],
+    [
+      1.247618,
+      "\u001b[1;34m==\u003e\u001b[1;39m Caveats\u001b[0m\r\n"
+    ],
+    [
+      0.000007,
+      "Bash completion has been installed to:\r\n  /usr/local/etc/bash_completion.d\r\n"
+    ],
+    [
+      0.970190,
+      "\u001b[4;31mWarning\u001b[0m: The post-install step did not complete successfully\r\n"
+    ],
+    [
+      0.000007,
+      "You can try again using `brew postinstall node`\r\n"
+    ],
+    [
+      0.002980,
+      "\u001b[1;34m==\u003e\u001b[1;39m Summary\u001b[0m\r\n"
+    ],
+    [
+      0.070992,
+      "🍺  /usr/local/Cellar/node/0.12.2_1: 2603 files, 28M\r\n"
+    ],
+    [
+      0.016739,
+      "\u001b[1m\u001b[7m%\u001b[m\u001b[1m\u001b[m                                                                                                                                                                                    \r \r"
+    ],
+    [
+      0.000007,
+      "\u001b]2;/Users/duff\u0007"
+    ],
+    [
+      0.000039,
+      "\u001b]1;Users/duff\u0007"
+    ],
+    [
+      0.015792,
+      "\r\u001b[m\u001b[m\u001b[m\u001b[J\r\n[\u001b[00m \u001b[36m~ \u001b[00m]\u001b[00m ✦\u001b[00m  \u001b[K"
+    ],
+    [
+      0.878413,
+      "b"
+    ],
+    [
+      0.204264,
+      "\u0008br"
+    ],
+    [
+      0.111795,
+      "e"
+    ],
+    [
+      0.000297,
+      "w"
+    ],
+    [
+      1.136242,
+      " "
+    ],
+    [
+      0.215600,
+      "p"
+    ],
+    [
+      0.160021,
+      "o"
+    ],
+    [
+      0.267499,
+      "s"
+    ],
+    [
+      2.236757,
+      "t"
+    ],
+    [
+      0.079938,
+      "i"
+    ],
+    [
+      0.111984,
+      "n"
+    ],
+    [
+      0.263988,
+      "s"
+    ],
+    [
+      0.176141,
+      "t"
+    ],
+    [
+      0.088013,
+      "a"
+    ],
+    [
+      0.072067,
+      "l"
+    ],
+    [
+      0.135771,
+      "l"
+    ],
+    [
+      0.127990,
+      " "
+    ],
+    [
+      0.143953,
+      "n"
+    ],
+    [
+      0.112081,
+      "o"
+    ],
+    [
+      0.139655,
+      "d"
+    ],
+    [
+      0.156492,
+      "e"
+    ],
+    [
+      0.127955,
+      "\r\r\n"
+    ],
+    [
+      0.005542,
+      "\u001b]1; duff: brew postinstall node \u0007"
+    ],
+    [
+      0.444078,
+      "\u001b[4;31mError\u001b[0m: Permission denied - /usr/local/lib/node_modules/npm/lib/config/clear-credentials-by-uri.js\r\n"
+    ],
+    [
+      0.009792,
+      "\u001b[1m\u001b[7m%\u001b[m\u001b[1m\u001b[m                                                                                                                                                                                    \r \r"
+    ],
+    [
+      0.000007,
+      "\u001b]2;/Users/duff\u0007"
+    ],
+    [
+      0.000031,
+      "\u001b]1;Users/duff\u0007"
+    ],
+    [
+      0.012243,
+      "\r\u001b[m\u001b[m\u001b[m\u001b[J\r\n[\u001b[00m \u001b[36m~ \u001b[00m]\u001b[00m ✦\u001b[00m  \u001b[K"
+    ],
+    [
+      1.852921,
+      "\r\r\n"
+    ]
+  ]
+}
