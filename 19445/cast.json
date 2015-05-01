@@ -1,0 +1,1430 @@
+{
+  "version": 1,
+  "width": 79,
+  "height": 23,
+  "duration": 22.406570,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.115193,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                              \r \r"
+    ],
+    [
+      0.000021,
+      "\u001b]2;amiard@c64: ~/PycharmProjects/libadalang\u0007"
+    ],
+    [
+      0.000021,
+      "\u001b]1;..ts/libadalang\u0007"
+    ],
+    [
+      0.014007,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[32m % \u001b[K\u001b[28C\u001b[37mPycharmProjects/libadalang \u001b[33m(topic/typing\u001b[31m ⚡\u001b[33m)\u001b[00m \u001b[01;34mc64\u001b[00m\u001b[75D"
+    ],
+    [
+      0.000047,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.723956,
+      "asciinema rec "
+    ],
+    [
+      0.851160,
+      "\u001b[14D             \u001b[13D"
+    ],
+    [
+      0.431198,
+      "\u001b[32ms\u001b[39m"
+    ],
+    [
+      0.355424,
+      "\u0008\u001b[4m\u001b[33ms\u001b[4m\u001b[33mo\u001b[24m\u001b[39m"
+    ],
+    [
+      0.086012,
+      "\u0008\u0008\u001b[4m\u001b[33ms\u001b[4m\u001b[33mo\u001b[4m\u001b[33mu\u001b[24m\u001b[39m"
+    ],
+    [
+      0.087843,
+      "\u0008\u001b[4m\u001b[33mu\u001b[4m\u001b[33mr\u001b[24m\u001b[39m"
+    ],
+    [
+      0.191079,
+      "\u0008\u0008\u0008\u0008\u001b[24m\u001b[1m\u001b[31ms\u001b[24m\u001b[1m\u001b[31mo\u001b[24m\u001b[1m\u001b[31mu\u001b[24m\u001b[1m\u001b[31mr\u001b[1m\u001b[31mc\u001b[0m\u001b[39m"
+    ],
+    [
+      0.061349,
+      "\u0008\u0008\u0008\u0008\u0008\u001b[0m\u001b[32ms\u001b[0m\u001b[32mo\u001b[0m\u001b[32mu\u001b[0m\u001b[32mr\u001b[0m\u001b[32mc\u001b[32me\u001b[39m"
+    ],
+    [
+      0.119257,
+      " "
+    ],
+    [
+      0.089872,
+      "~/envs/libadalang_env/bin/activate\u001b[K\u001b[4C"
+    ],
+    [
+      0.385861,
+      "\u001b[38D/opt/intel/vtune_amplifier_xe_2015.2.0.393444/amplxe-vars.sh"
+    ],
+    [
+      0.290876,
+      "\u001b[60D~/envs/libadalang_env/bin/activate                          \u001b[22D"
+    ],
+    [
+      0.399970,
+      "\u001b[38D\u001b[4m~\u001b[4m/\u001b[4me\u001b[4mn\u001b[4mv\u001b[4ms\u001b[4m/\u001b[4ml\u001b[4mi\u001b[4mb\u001b[4ma\u001b[4md\u001b[4ma\u001b[4ml\u001b[4ma\u001b[4mn\u001b[4mg\u001b[4m_\u001b[4me\u001b[4mn\u001b[4mv\u001b[4m/\u001b[4mb\u001b[4mi\u001b[4mn\u001b[4m/\u001b[4ma\u001b[4mc\u001b[4mt\u001b[4mi\u001b[4mv\u001b[4ma\u001b[4mt\u001b[4me\u001b[24m\u001b[4C"
+    ],
+    [
+      0.000030,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000145,
+      "\r\r\n"
+    ],
+    [
+      0.002025,
+      "\u001b]2;source ~/envs/libadalang_env/bin/activate\u0007"
+    ],
+    [
+      0.000012,
+      "\u001b]1;source\u0007"
+    ],
+    [
+      0.013841,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                              \r \r"
+    ],
+    [
+      0.000084,
+      "\u001b]2;amiard@c64: ~/PycharmProjects/libadalang\u0007"
+    ],
+    [
+      0.000006,
+      "\u001b]1;..ts/libadalang\u0007"
+    ],
+    [
+      0.032522,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J(libadalang_env)\u001b[32m % \u001b[K\u001b[12C\u001b[37mPycharmProjects/libadalang \u001b[33m(topic/typing\u001b[31m ⚡\u001b[33m)\u001b[00m \u001b[01;34mc64\u001b[00m\u001b[59D"
+    ],
+    [
+      0.000029,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.591467,
+      "\u001b[4mp\u001b[24m"
+    ],
+    [
+      0.107638,
+      "\u0008\u001b[4mp\u001b[4my\u001b[24m"
+    ],
+    [
+      0.096238,
+      "\u0008\u0008\u001b[4mp\u001b[4my\u001b[4mt\u001b[24m"
+    ],
+    [
+      0.225551,
+      "hon ada/manage.py test -- -j10\u001b[K"
+    ],
+    [
+      1.524527,
+      "\u001b[33D\u001b[24m\u001b[32mp\u001b[24m\u001b[32my\u001b[24m\u001b[32mt\u001b[32mh\u001b[32mo\u001b[32mn\u001b[39m \u001b[4ma\u001b[4md\u001b[4ma\u001b[4m/\u001b[4mm\u001b[4ma\u001b[4mn\u001b[4ma\u001b[4mg\u001b[4me\u001b[4m.\u001b[4mp\u001b[4my\u001b[24m \u001b[4mt\u001b[4me\u001b[4ms\u001b[4mt\u001b[24m\u001b[8C"
+    ],
+    [
+      0.000023,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000105,
+      "\r\r\n"
+    ],
+    [
+      0.001608,
+      "\u001b]2;python ada/manage.py test -- -j10\u0007"
+    ],
+    [
+      0.000016,
+      "\u001b]1;python\u0007"
+    ],
+    [
+      0.482552,
+      "INFO     (1/200): indent__comment_0               : \u001b[32mPASSED\u001b[m \r\n"
+    ],
+    [
+      0.003572,
+      "INFO     (2/200): indent__procedure_1             : \u001b[32mPASSED\u001b[m "
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.003828,
+      "INFO     (3/200): indent__multi_line_call_0       : \u001b[33mUOK\u001b[m Failure was expected: Work in progress for O313-038"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.003838,
+      "INFO     (4/200): indent__multi_line_call_1       : \u001b[33mUOK\u001b[m Failure was expected: Work in progress for O313-038"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.003486,
+      "INFO     (5/200): indent__procedure_0             : \u001b[32mPASSED\u001b[m "
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.003798,
+      "INFO     (6/200): indent__comment_1               : \u001b[33mUOK\u001b[m Failure was expected: Work in progress for O313-038\r\n"
+    ],
+    [
+      0.295555,
+      "INFO     (7/200): c-api__no_such_unit             : \u001b[31mXFAIL\u001b[m /tmp/tmp-testsuite-16888/c-api__no_such_unit/c-api__no_such_unit returned status code 255 (Pending resolution of O402-026)\r\n"
+    ],
+    [
+      0.003550,
+      "INFO     (8/200): python__tree_dump               : \u001b[32mPASSED\u001b[m "
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.003286,
+      "INFO     (9/200): python__tree_full_dump          : \u001b[32mPASSED\u001b[m \r\n"
+    ],
+    [
+      0.002108,
+      "INFO     (10/200): python__field_access            : \u001b[32mPASSED\u001b[m \r\n"
+    ],
+    [
+      0.002110,
+      "INFO     (11/200): python__parsing_error           : \u001b[32mPASSED\u001b[m \r\n"
+    ],
+    [
+      0.089248,
+      "INFO     (12/200): c-api__tree_dump                : \u001b[32mPASSED\u001b[m \r\n"
+    ],
+    [
+      0.003849,
+      "INFO     (13/200): c-api__parsing_error            : \u001b[32mPASSED\u001b[m \r\n"
+    ],
+    [
+      0.003508,
+      "INFO     (14/200): python__node_identity           : \u001b[32mPASSED\u001b[m \r\n"
+    ],
+    [
+      0.004065,
+      "INFO     (15/200): python__no_such_unit            : \u001b[31mXFAIL\u001b[m python returned status code 255 (Pending resolution of O402-026)"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.069190,
+      "INFO     (16/200): c-api__field_access             : \u001b[32mPASSED\u001b[m \r\n"
+    ],
+    [
+      0.004260,
+      "INFO     (17/200): parser__subprogram_spec_2       : \u001b[32mPASSED\u001b[m "
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.004638,
+      "INFO     (18/200): parser__raise_expression_0      : \u001b[32mPASSED\u001b[m "
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.004910,
+      "INFO     (19/200): parser__basic_decl_11           : \u001b[32mPASSED\u001b[m "
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.057534,
+      "INFO     (20/200): parser__full_type_decl_15       : \u001b[32mPASSED\u001b[m \r\n"
+    ],
+    [
+      0.003147,
+      "INFO     (21/200): parser__statement_5             : \u001b[32mPASSED\u001b[m \r\n"
+    ],
+    [
+      0.003415,
+      "INFO     (22/200): parser__statement_0             : \u001b[32mPASSED\u001b[m "
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.039742,
+      "INFO     (23/200): parser__subprogram_spec_3       : \u001b[32mPASSED\u001b[m "
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.003503,
+      "INFO     (24/200): parser__task_body_0             : \u001b[32mPASSED\u001b[m "
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.003452,
+      "INFO     (25/200): parser__basic_decl_0            : \u001b[32mPASSED\u001b[m \r\n"
+    ],
+    [
+      0.033070,
+      "INFO     (26/200): parser__aggregate_3             : \u001b[32mPASSED\u001b[m \r\n"
+    ],
+    [
+      0.036249,
+      "INFO     (27/200): parser__full_type_decl_14       : \u001b[32mPASSED\u001b[m \r\n"
+    ],
+    [
+      0.021508,
+      "INFO     (28/200): parser__basic_decl_10           : \u001b[32mPASSED\u001b[m \r\n"
+    ],
+    [
+      0.003334,
+      "INFO     (29/200): parser__statement_7             : \u001b[32mPASSED\u001b[m "
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.026814,
+      "INFO     (30/200): parser__formal_subp_decl_0      : \u001b[32mPASSED\u001b[m "
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.003314,
+      "INFO     (31/200): parser__raise_statement_0       : \u001b[32mPASSED\u001b[m \r\n"
+    ],
+    [
+      0.017680,
+      "INFO     (32/200): parser__package_decl_0          : \u001b[32mPASSED\u001b[m \r\n"
+    ],
+    [
+      0.003324,
+      "INFO     (33/200): parser__basic_decl_4            : \u001b[32mPASSED\u001b[m \r\n"
+    ],
+    [
+      0.013119,
+      "INFO     (34/200): parser__enum_rep_clause_0       : \u001b[32mPASSED\u001b[m "
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.005053,
+      "INFO     (35/200): parser__array_type_def_0        : \u001b[32mPASSED\u001b[m "
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.050507,
+      "INFO     (36/200): parser__object_decl_0           : \u001b[32mPASSED\u001b[m \r\n"
+    ],
+    [
+      0.035801,
+      "INFO     (37/200): parser__allocator_0             : \u001b[32mPASSED\u001b[m \r\n"
+    ],
+    [
+      0.012799,
+      "INFO     (38/200): parser__if_expression_1         : \u001b[32mPASSED\u001b[m \r\n"
+    ],
+    [
+      0.019645,
+      "INFO     (39/200): parser__expression_1            : \u001b[32mPASSED\u001b[m \r\n"
+    ],
+    [
+      0.003314,
+      "INFO     (40/200): parser__decimal_fixed_point_def_1: \u001b[32mPASSED\u001b[m "
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.003366,
+      "INFO     (41/200): parser__delay_statement_1       : \u001b[32mPASSED\u001b[m \r\n"
+    ],
+    [
+      0.003369,
+      "INFO     (42/200): parser__string_literal_0        : \u001b[32mPASSED\u001b[m \r\n"
+    ],
+    [
+      0.013315,
+      "INFO     (43/200): parser__statements_0            : \u001b[32mPASSED\u001b[m "
+    ],
+    [
+      0.001992,
+      "\r\n"
+    ],
+    [
+      0.018666,
+      "INFO     (44/200): parser__select_statement_0      : \u001b[32mPASSED\u001b[m "
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.024335,
+      "INFO     (45/200): parser__record_type_def_0       : \u001b[32mPASSED\u001b[m "
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.016246,
+      "INFO     (46/200): parser__basic_decl_9            : \u001b[32mPASSED\u001b[m \r\n"
+    ],
+    [
+      0.027622,
+      "INFO     (47/200): parser__term_1                  : \u001b[32mPASSED\u001b[m "
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.028670,
+      "INFO     (48/200): parser__exception_handler_0     : \u001b[32mPASSED\u001b[m "
+    ],
+    [
+      0.015042,
+      "\r\n"
+    ],
+    [
+      0.003844,
+      "INFO     (49/200): parser__subprogram_spec_1       : \u001b[32mPASSED\u001b[m "
+    ],
+    [
+      0.000032,
+      "\r\n"
+    ],
+    [
+      0.016746,
+      "INFO     (50/200): parser__delay_statement_0       : \u001b[32mPASSED\u001b[m "
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.003707,
+      "INFO     (51/200): parser__range_expression_0      : \u001b[32mPASSED\u001b[m \r\n"
+    ],
+    [
+      0.002128,
+      "INFO     (52/200): parser__basic_decl_5            : \u001b[32mPASSED\u001b[m \r\n"
+    ],
+    [
+      0.026328,
+      "INFO     (53/200): parser__package_decl_2          : \u001b[32mPASSED\u001b[m "
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.002777,
+      "INFO     (54/200): parser__full_type_decl_12       : \u001b[32mPASSED\u001b[m \r\n"
+    ],
+    [
+      0.015772,
+      "INFO     (55/200): parser__compilation_unit_2      : \u001b[32mPASSED\u001b[m "
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.007079,
+      "INFO     (56/200): parser__expression_6            : \u001b[32mPASSED\u001b[m \r\n"
+    ],
+    [
+      0.017321,
+      "INFO     (57/200): parser__full_type_decl_0        : \u001b[32mPASSED\u001b[m "
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.060425,
+      "INFO     (58/200): parser__subprogram_decl_1       : \u001b[32mPASSED\u001b[m "
+    ],
+    [
+      0.000031,
+      "\r\n"
+    ],
+    [
+      0.006507,
+      "INFO     (59/200): parser__statement_8             : \u001b[32mPASSED\u001b[m "
+    ],
+    [
+      0.000031,
+      "\r\n"
+    ],
+    [
+      0.009351,
+      "INFO     (60/200): parser__for_loop_parameter_spec_0: \u001b[32mPASSED\u001b[m "
+    ],
+    [
+      0.001745,
+      "\r\n"
+    ],
+    [
+      0.016254,
+      "INFO     (61/200): parser__loop_statement_0        : \u001b[32mPASSED\u001b[m "
+    ],
+    [
+      0.000028,
+      "\r\n"
+    ],
+    [
+      0.017170,
+      "INFO     (62/200): parser__generic_instantiation_1 : \u001b[32mPASSED\u001b[m "
+    ],
+    [
+      0.000046,
+      "\r\n"
+    ],
+    [
+      0.014088,
+      "INFO     (63/200): parser__full_type_decl_20       : \u001b[32mPASSED\u001b[m "
+    ],
+    [
+      0.000027,
+      "\r\n"
+    ],
+    [
+      0.021703,
+      "INFO     (64/200): parser__variant_0               : \u001b[32mPASSED\u001b[m "
+    ],
+    [
+      0.000030,
+      "\r\n"
+    ],
+    [
+      0.012964,
+      "INFO     (65/200): parser__record_rep_clause_0     : \u001b[32mPASSED\u001b[m "
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.003395,
+      "INFO     (66/200): parser__delay_statement_2       : \u001b[32mPASSED\u001b[m \r\n"
+    ],
+    [
+      0.003319,
+      "INFO     (67/200): parser__statement_3             : \u001b[32mPASSED\u001b[m "
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.034547,
+      "INFO     (68/200): parser__protected_type_decl_0   : \u001b[32mPASSED\u001b[m \r\n"
+    ],
+    [
+      0.026071,
+      "INFO     (69/200): parser__requeue_statement_0     : \u001b[32mPASSED\u001b[m \r\n"
+    ],
+    [
+      0.017716,
+      "INFO     (70/200): parser__expression_7            : \u001b[32mPASSED\u001b[m "
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.012124,
+      "INFO     (71/200): parser__if_statement_0          : \u001b[32mPASSED\u001b[m \r\n"
+    ],
+    [
+      0.004136,
+      "INFO     (72/200): parser__object_decl_2           : \u001b[32mPASSED\u001b[m \r\n"
+    ],
+    [
+      0.048564,
+      "INFO     (73/200): parser__full_type_decl_4        : \u001b[32mPASSED\u001b[m "
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.007725,
+      "INFO     (74/200): parser__lookup_0                : \u001b[32mPASSED\u001b[m \r\n"
+    ],
+    [
+      0.014903,
+      "INFO     (75/200): parser__expression_8            : \u001b[32mPASSED\u001b[m "
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.003346,
+      "INFO     (76/200): parser__expression_9            : \u001b[32mPASSED\u001b[m "
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.012755,
+      "INFO     (77/200): parser__basic_decl_12           : \u001b[32mPASSED\u001b[m "
+    ],
+    [
+      0.000033,
+      "\r\n"
+    ],
+    [
+      0.022807,
+      "INFO     (78/200): parser__basic_decl_1            : \u001b[32mPASSED\u001b[m \r\n"
+    ],
+    [
+      0.012478,
+      "INFO     (79/200): parser__subprogram_decl_0       : \u001b[32mPASSED\u001b[m \r\n"
+    ],
+    [
+      0.012332,
+      "INFO     (80/200): parser__attribute_def_clause_0  : \u001b[32mPASSED\u001b[m "
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.008056,
+      "INFO     (81/200): parser__simple_expr_3           : \u001b[32mPASSED\u001b[m \r\n"
+    ],
+    [
+      0.012580,
+      "INFO     (82/200): parser__expression_11           : \u001b[32mPASSED\u001b[m "
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.058072,
+      "INFO     (83/200): parser__basic_decl_3            : \u001b[32mPASSED\u001b[m \r\n"
+    ],
+    [
+      0.016981,
+      "INFO     (84/200): parser__ordinary_fixed_point_def_0: \u001b[32mPASSED\u001b[m \r\n"
+    ],
+    [
+      0.022074,
+      "INFO     (85/200): parser__full_type_decl_1        : \u001b[32mPASSED\u001b[m "
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.005734,
+      "INFO     (86/200): parser__expression_14           : \u001b[32mPASSED\u001b[m \r\n"
+    ],
+    [
+      0.011178,
+      "INFO     (87/200): parser__case_expression_0       : \u001b[32mPASSED\u001b[m "
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.004454,
+      "INFO     (88/200): parser__factor_1                : \u001b[32mPASSED\u001b[m \r\n"
+    ],
+    [
+      0.014079,
+      "INFO     (89/200): parser__basic_decl_6            : \u001b[32mPASSED\u001b[m "
+    ],
+    [
+      0.000035,
+      "\r\n"
+    ],
+    [
+      0.003644,
+      "INFO     (90/200): parser__use_decl_0              : \u001b[32mPASSED\u001b[m "
+    ],
+    [
+      0.000032,
+      "\r\n"
+    ],
+    [
+      0.003450,
+      "INFO     (91/200): parser__compilation_unit_4      : \u001b[32mPASSED\u001b[m "
+    ],
+    [
+      0.000031,
+      "\r\n"
+    ],
+    [
+      0.002723,
+      "INFO     (92/200): parser__full_type_decl_6        : \u001b[32mPASSED\u001b[m \r\n"
+    ],
+    [
+      0.080134,
+      "INFO     (93/200): parser__full_type_decl_11       : \u001b[32mPASSED\u001b[m \r\n"
+    ],
+    [
+      0.003381,
+      "INFO     (94/200): parser__aggregate_2             : \u001b[32mPASSED\u001b[m "
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.029601,
+      "INFO     (95/200): parser__decimal_fixed_point_def_0: \u001b[32mPASSED\u001b[m \r\n"
+    ],
+    [
+      0.003590,
+      "INFO     (96/200): parser__full_type_decl_16       : \u001b[32mPASSED\u001b[m "
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.020929,
+      "INFO     (97/200): parser__expression_0            : \u001b[32mPASSED\u001b[m \r\n"
+    ],
+    [
+      0.003200,
+      "INFO     (98/200): parser__full_type_decl_5        : \u001b[32mPASSED\u001b[m \r\n"
+    ],
+    [
+      0.014797,
+      "INFO     (99/200): parser__package_decl_1          : \u001b[32mPASSED\u001b[m "
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.003434,
+      "INFO     (100/200): parser__number_decl_0           : \u001b[32mPASSED\u001b[m \r\n"
+    ],
+    [
+      0.003518,
+      "INFO     (101/200): parser__full_type_decl_10       : \u001b[32mPASSED\u001b[m "
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.003435,
+      "INFO     (102/200): parser__factor_0                : \u001b[32mPASSED\u001b[m \r\n"
+    ],
+    [
+      0.070178,
+      "INFO     (103/200): parser__task_decl_0             : \u001b[32mPASSED\u001b[m "
+    ],
+    [
+      0.007248,
+      "\r\n"
+    ],
+    [
+      0.007212,
+      "INFO     (104/200): parser__aspect_specification_0  : \u001b[32mPASSED\u001b[m \r\n"
+    ],
+    [
+      0.016824,
+      "INFO     (105/200): parser__expression_2            : \u001b[32mPASSED\u001b[m \r\n"
+    ],
+    [
+      0.017879,
+      "INFO     (106/200): parser__compilation_unit_3      : \u001b[32mPASSED\u001b[m \r\n"
+    ],
+    [
+      0.010504,
+      "INFO     (107/200): parser__loop_statement_1        : \u001b[32mPASSED\u001b[m "
+    ],
+    [
+      0.000627,
+      "\r\n"
+    ],
+    [
+      0.009785,
+      "INFO     (108/200): parser__if_expression_0         : \u001b[32mPASSED\u001b[m "
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.003146,
+      "INFO     (109/200): parser__simple_expr_1           : \u001b[32mPASSED\u001b[m \r\n"
+    ],
+    [
+      0.015622,
+      "INFO     (110/200): parser__case_statement_0        : \u001b[32mPASSED\u001b[m "
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.018485,
+      "INFO     (111/200): parser__statement_1             : \u001b[32mPASSED\u001b[m "
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.028640,
+      "INFO     (112/200): parser__object_decl_1           : \u001b[32mPASSED\u001b[m \r\n"
+    ],
+    [
+      0.017845,
+      "INFO     (113/200): parser__requeue_statement_1     : \u001b[32mPASSED\u001b[m "
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.014683,
+      "INFO     (114/200): parser__aggregate_field_0       : \u001b[32mPASSED\u001b[m "
+    ],
+    [
+      0.000026,
+      "\r\n"
+    ],
+    [
+      0.034784,
+      "INFO     (115/200): parser__basic_decl_8            : \u001b[32mPASSED\u001b[m \r\n"
+    ],
+    [
+      0.010831,
+      "INFO     (116/200): parser__entry_body_0            : \u001b[32mPASSED\u001b[m "
+    ],
+    [
+      0.000036,
+      "\r\n"
+    ],
+    [
+      0.006283,
+      "INFO     (117/200): parser__simple_expr_0           : \u001b[32mPASSED\u001b[m "
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.011263,
+      "INFO     (118/200): parser__expression_4            : \u001b[32mPASSED\u001b[m "
+    ],
+    [
+      0.000031,
+      "\r\n"
+    ],
+    [
+      0.028963,
+      "INFO     (119/200): parser__if_expression_2         : \u001b[32mPASSED\u001b[m "
+    ],
+    [
+      0.000030,
+      "\r\n"
+    ],
+    [
+      0.010338,
+      "INFO     (120/200): parser__protected_body_0        : \u001b[32mPASSED\u001b[m "
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.009719,
+      "INFO     (121/200): parser__full_type_decl_7        : \u001b[32mPASSED\u001b[m \r\n"
+    ],
+    [
+      0.015225,
+      "INFO     (122/200): parser__generic_renaming_decl_0 : \u001b[32mPASSED\u001b[m "
+    ],
+    [
+      0.007623,
+      "\r\n"
+    ],
+    [
+      0.020263,
+      "INFO     (123/200): parser__exit_statement_0        : \u001b[32mPASSED\u001b[m "
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.016304,
+      "INFO     (124/200): parser__exception_decl_0        : \u001b[32mPASSED\u001b[m \r\n"
+    ],
+    [
+      0.023679,
+      "INFO     (125/200): parser__task_type_decl_0        : \u001b[32mPASSED\u001b[m "
+    ],
+    [
+      0.002043,
+      "\r\n"
+    ],
+    [
+      0.014785,
+      "INFO     (126/200): parser__full_type_decl_9        : \u001b[32mPASSED\u001b[m \r\n"
+    ],
+    [
+      0.004710,
+      "INFO     (127/200): parser__statement_4             : \u001b[32mPASSED\u001b[m \r\n"
+    ],
+    [
+      0.019174,
+      "INFO     (128/200): parser__generic_declaration_0   : \u001b[32mPASSED\u001b[m \r\n"
+    ],
+    [
+      0.004749,
+      "INFO     (129/200): parser__full_type_decl_3        : \u001b[32mPASSED\u001b[m "
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.010994,
+      "INFO     (130/200): parser__return_statement_0      : \u001b[32mPASSED\u001b[m \r\n"
+    ],
+    [
+      0.031131,
+      "INFO     (131/200): parser__type_discriminant_0     : \u001b[32mPASSED\u001b[m "
+    ],
+    [
+      0.000403,
+      "\r\n"
+    ],
+    [
+      0.003436,
+      "INFO     (132/200): parser__full_type_decl_2        : \u001b[32mPASSED\u001b[m "
+    ],
+    [
+      0.003121,
+      "\r\n"
+    ],
+    [
+      0.022764,
+      "INFO     (133/200): parser__abort_statement_0       : \u001b[32mPASSED\u001b[m "
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.033468,
+      "INFO     (134/200): parser__compilation_unit_1      : \u001b[32mPASSED\u001b[m "
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.025155,
+      "INFO     (135/200): parser__use_decl_1              : \u001b[32mPASSED\u001b[m \r\n"
+    ],
+    [
+      0.011758,
+      "INFO     (136/200): parser__entry_declaration_0     : \u001b[32mPASSED\u001b[m "
+    ],
+    [
+      0.001338,
+      "\r\n"
+    ],
+    [
+      0.003456,
+      "INFO     (137/200): parser__term_0                  : \u001b[32mPASSED\u001b[m "
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.001919,
+      "INFO     (138/200): parser__generic_instantiation_3 : \u001b[32mPASSED\u001b[m \r\n"
+    ],
+    [
+      0.008865,
+      "INFO     (139/200): parser__type_discriminant_1     : \u001b[32mPASSED\u001b[m "
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.007953,
+      "INFO     (140/200): parser__statement_2             : \u001b[32mPASSED\u001b[m \r\n"
+    ],
+    [
+      0.024843,
+      "INFO     (141/200): parser__record_def_0            : \u001b[32mPASSED\u001b[m "
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.031987,
+      "INFO     (142/200): parser__qualified_expression_0  : \u001b[32mPASSED\u001b[m "
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.011000,
+      "INFO     (143/200): parser__generic_declaration_1   : \u001b[32mPASSED\u001b[m "
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.048806,
+      "INFO     (144/200): parser__full_type_decl_19       : \u001b[32mPASSED\u001b[m "
+    ],
+    [
+      0.000027,
+      "\r\n"
+    ],
+    [
+      0.003453,
+      "INFO     (145/200): parser__floating_point_def_0    : \u001b[32mPASSED\u001b[m "
+    ],
+    [
+      0.000025,
+      "\r\n"
+    ],
+    [
+      0.017112,
+      "INFO     (146/200): parser__expression_13           : \u001b[32mPASSED\u001b[m \r\n"
+    ],
+    [
+      0.012239,
+      "INFO     (147/200): parser__generic_instantiation_0 : \u001b[32mPASSED\u001b[m "
+    ],
+    [
+      0.000028,
+      "\r\n"
+    ],
+    [
+      0.003568,
+      "INFO     (148/200): parser__exit_statement_1        : \u001b[32mPASSED\u001b[m "
+    ],
+    [
+      0.000027,
+      "\r\n"
+    ],
+    [
+      0.009957,
+      "INFO     (149/200): parser__full_type_decl_18       : \u001b[32mPASSED\u001b[m "
+    ],
+    [
+      0.000032,
+      "\r\n"
+    ],
+    [
+      0.006167,
+      "INFO     (150/200): parser__generic_decl_0          : \u001b[32mPASSED\u001b[m \r\n"
+    ],
+    [
+      0.011491,
+      "INFO     (151/200): parser__goto_statement_0        : \u001b[32mPASSED\u001b[m "
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.018793,
+      "INFO     (152/200): parser__with_decl_0             : \u001b[32mPASSED\u001b[m "
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.060997,
+      "INFO     (153/200): parser__expression_10           : \u001b[32mPASSED\u001b[m \r\n"
+    ],
+    [
+      0.026362,
+      "INFO     (154/200): parser__full_type_decl_17       : \u001b[32mPASSED\u001b[m "
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.005241,
+      "INFO     (155/200): parser__subprogram_spec_0       : \u001b[32mPASSED\u001b[m \r\n"
+    ],
+    [
+      0.004165,
+      "INFO     (156/200): parser__basic_decl_7            : \u001b[32mPASSED\u001b[m "
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.008552,
+      "INFO     (157/200): parser__basic_decl_2            : \u001b[32mPASSED\u001b[m \r\n"
+    ],
+    [
+      0.003235,
+      "INFO     (158/200): parser__full_type_decl_22       : \u001b[32mPASSED\u001b[m "
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.017252,
+      "INFO     (159/200): parser__subprogram_spec_4       : \u001b[32mPASSED\u001b[m "
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.010355,
+      "INFO     (160/200): parser__subtype_decl_0          : \u001b[32mPASSED\u001b[m \r\n"
+    ],
+    [
+      0.006958,
+      "INFO     (161/200): parser__assignment_statement_0  : \u001b[32mPASSED\u001b[m \r\n"
+    ],
+    [
+      0.023317,
+      "INFO     (162/200): parser__generic_instantiation_2 : \u001b[32mPASSED\u001b[m "
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.068758,
+      "INFO     (163/200): parser__full_type_decl_8        : \u001b[32mPASSED\u001b[m \r\n"
+    ],
+    [
+      0.001879,
+      "INFO     (164/200): parser__compilation_unit_0      : \u001b[32mPASSED\u001b[m \r\n"
+    ],
+    [
+      0.012886,
+      "INFO     (165/200): parser__aggregate_0             : \u001b[32mPASSED\u001b[m \r\n"
+    ],
+    [
+      0.007483,
+      "INFO     (166/200): parser__protected_decl_0        : \u001b[32mPASSED\u001b[m "
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.022752,
+      "INFO     (167/200): parser__simple_expr_2           : \u001b[32mPASSED\u001b[m "
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.003619,
+      "INFO     (168/200): parser__statement_6             : \u001b[32mPASSED\u001b[m "
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.003451,
+      "INFO     (169/200): parser__ext_return_statement_0  : \u001b[32mPASSED\u001b[m "
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.011739,
+      "INFO     (170/200): parser__expression_3            : \u001b[32mPASSED\u001b[m "
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.011381,
+      "INFO     (171/200): parser__primary_0               : \u001b[32mPASSED\u001b[m \r\n"
+    ],
+    [
+      0.019027,
+      "INFO     (172/200): parser__expression_5            : \u001b[32mPASSED\u001b[m \r\n"
+    ],
+    [
+      0.051903,
+      "INFO     (173/200): parser__pragma_0                : \u001b[32mPASSED\u001b[m "
+    ],
+    [
+      0.004003,
+      "\r\n"
+    ],
+    [
+      0.003637,
+      "INFO     (174/200): parser__basic_decl_13           : \u001b[32mPASSED\u001b[m "
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.019637,
+      "INFO     (175/200): parser__accept_statement_0      : \u001b[32mPASSED\u001b[m \r\n"
+    ],
+    [
+      0.029882,
+      "INFO     (176/200): parser__full_type_decl_13       : \u001b[32mPASSED\u001b[m \r\n"
+    ],
+    [
+      0.009327,
+      "INFO     (177/200): parser__full_type_decl_21       : \u001b[32mPASSED\u001b[m "
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.003322,
+      "INFO     (178/200): parser__aggregate_1             : \u001b[32mPASSED\u001b[m "
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.016428,
+      "INFO     (179/200): parser__expression_12           : \u001b[32mPASSED\u001b[m "
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.009664,
+      "INFO     (180/200): parser__protected_type_decl_1   : \u001b[32mPASSED\u001b[m "
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.013278,
+      "INFO     (181/200): parser__raise_statement_1       : \u001b[32mPASSED\u001b[m "
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.132457,
+      "INFO     (182/200): typing__tagged_records_3        : \u001b[32mPASSED\u001b[m "
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.031127,
+      "INFO     (183/200): typing__std                     : \u001b[32mPASSED\u001b[m "
+    ],
+    [
+      0.000030,
+      "\r\n"
+    ],
+    [
+      0.003453,
+      "INFO     (184/200): typing__private_2               : \u001b[32mPASSED\u001b[m "
+    ],
+    [
+      0.000025,
+      "\r\n"
+    ],
+    [
+      0.028512,
+      "INFO     (185/200): typing__numbers                 : \u001b[32mPASSED\u001b[m "
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.014496,
+      "INFO     (186/200): typing__accesses_tagged         : \u001b[32mPASSED\u001b[m \r\n"
+    ],
+    [
+      0.003438,
+      "INFO     (187/200): typing__default_expr            : \u001b[32mPASSED\u001b[m "
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.019475,
+      "INFO     (188/200): typing__subp_overload           : \u001b[32mPASSED\u001b[m \r\n"
+    ],
+    [
+      0.014202,
+      "INFO     (189/200): typing__enums                   : \u001b[32mPASSED\u001b[m \r\n"
+    ],
+    [
+      0.015997,
+      "INFO     (190/200): typing__tagged_records          : \u001b[32mPASSED\u001b[m "
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.018236,
+      "INFO     (191/200): typing__tagged_records_2        : \u001b[32mPASSED\u001b[m \r\n"
+    ],
+    [
+      0.202663,
+      "INFO     (192/200): typing__accesses_2              : \u001b[32mPASSED\u001b[m \r\n"
+    ],
+    [
+      0.102093,
+      "INFO     (193/200): typing__proc_call               : \u001b[32mPASSED\u001b[m \r\n"
+    ],
+    [
+      0.202322,
+      "INFO     (194/200): typing__private                 : \u001b[32mPASSED\u001b[m \r\n"
+    ],
+    [
+      0.102129,
+      "INFO     (195/200): typing__enums_2                 : \u001b[32mPASSED\u001b[m \r\n"
+    ],
+    [
+      0.102134,
+      "INFO     (196/200): typing__records                 : \u001b[32mPASSED\u001b[m \r\n"
+    ],
+    [
+      0.102305,
+      "INFO     (197/200): typing__accesses_1              : \u001b[32mPASSED\u001b[m \r\n"
+    ],
+    [
+      0.102048,
+      "INFO     (198/200): typing__proc_call_named         : \u001b[32mPASSED\u001b[m \r\n"
+    ],
+    [
+      0.102208,
+      "INFO     (199/200): typing__arrays_1                : \u001b[32mPASSED\u001b[m \r\n"
+    ],
+    [
+      0.102193,
+      "INFO     (200/200): typing__packages                : \u001b[32mPASSED\u001b[m \r\n"
+    ],
+    [
+      1.208021,
+      "INFO     Summary:\r\n  \u001b[32mPASSED\u001b[m: 195 tests\r\n  \u001b[33mUOK\u001b[m: 3 tests\r\n  \u001b[31mXFAIL\u001b[m: 2 tests"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.029535,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                              \r \r"
+    ],
+    [
+      0.000056,
+      "\u001b]2;amiard@c64: ~/PycharmProjects/libadalang\u0007"
+    ],
+    [
+      0.000003,
+      "\u001b]1;..ts/libadalang\u0007"
+    ],
+    [
+      0.033972,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J(libadalang_env)\u001b[32m % \u001b[K\u001b[12C\u001b[37mPycharmProjects/libadalang \u001b[33m(topic/typing\u001b[31m ⚡\u001b[33m)\u001b[00m \u001b[01;34mc64\u001b[00m\u001b[59D"
+    ],
+    [
+      0.000018,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      5.236420,
+      "python ada/manage.py test -- -j10\u001b[K"
+    ],
+    [
+      2.208147,
+      "\u001b[33D\u001b[K\u001b[12C\u001b[37mPycharmProjects/libadalang \u001b[33m(topic/typing\u001b[31m ⚡\u001b[33m)\u001b[00m \u001b[01;34mc64\u001b[00m\u001b[59D"
+    ],
+    [
+      1.766072,
+      "\r\r\n"
+    ]
+  ]
+}
