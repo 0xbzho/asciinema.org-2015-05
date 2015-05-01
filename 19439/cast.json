@@ -1,0 +1,98 @@
+{
+  "version": 1,
+  "width": 63,
+  "height": 19,
+  "duration": 18.229846,
+  "command": "/usr/local/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/usr/local/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.572660,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                              \r \r"
+    ],
+    [
+      0.000187,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J% "
+    ],
+    [
+      0.000006,
+      "\u001b[K"
+    ],
+    [
+      0.000190,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000220,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J% \u001b[K"
+    ],
+    [
+      4.207857,
+      "asciinema rec"
+    ],
+    [
+      0.591903,
+      "\u001b[13Dclear        \u001b[8D"
+    ],
+    [
+      1.224258,
+      "\u0008\u0008\u0008\u0008\u0008brew install asciinema"
+    ],
+    [
+      1.023927,
+      "\u001b[22Dhttp POST :8080/authenticate \\\r\r\nemail=test \\\u001b[K\r\r\npassword=test\u001b[K"
+    ],
+    [
+      0.919742,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000205,
+      "\u001b[A\u001b[A\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J% "
+    ],
+    [
+      0.000012,
+      "http POST :8080/authenticate \\\u001b[K\r\r\nemail=test \\\u001b[K\r\r\npassword=test\u001b[K"
+    ],
+    [
+      0.000154,
+      "\r\r\n"
+    ],
+    [
+      0.185590,
+      "\u001b[34mHTTP\u001b[39;49;00m/\u001b[39;49;00m\u001b[34m1.1\u001b[39;49;00m \u001b[39;49;00m\u001b[34m200\u001b[39;49;00m \u001b[39;49;00m\u001b[36mOK\u001b[39;49;00m\r\n\u001b[36mContent-Length\u001b[39;49;00m:\u001b[39;49;00m \u001b[39;49;00m\u001b[33m86\u001b[39;49;00m\r\n\u001b[36mContent-Type\u001b[39;49;00m:\u001b[39;49;00m \u001b[39;49;00m\u001b[33mtext/plain; charset=utf-8\u001b[39;49;00m\r\n\u001b[36mDate\u001b[39;49;00m:\u001b[39;49;00m \u001b[39;49;00m\u001b[33mFri, 01 May 2015 17:03:03 GMT\u001b[39;49;00m\r\r\n\r\r\n"
+    ],
+    [
+      0.000579,
+      "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.e30=.EmQuz7Ql1sAfdAKFgFXx0vqAvopS9fsH1euSPX9y2qk=\u001b[39;49;00m"
+    ],
+    [
+      0.000010,
+      "\r\n\r\n"
+    ],
+    [
+      0.010130,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                              \r \r"
+    ],
+    [
+      0.000036,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J% \u001b[K"
+    ],
+    [
+      0.000081,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000158,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J% \u001b[K"
+    ],
+    [
+      9.458742,
+      "\r\r\n"
+    ]
+  ]
+}
