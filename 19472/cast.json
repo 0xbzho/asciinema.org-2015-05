@@ -1,0 +1,2870 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 23,
+  "duration": 206.789783,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.227522,
+      "\u001b]0;ra016120@Flavio: ~/Gitprojects/djangogirls\u0007ra016120@Flavio:~/Gitprojects/djangogirls$ "
+    ],
+    [
+      0.687644,
+      "\r\n"
+    ],
+    [
+      0.000263,
+      "\u001b]0;ra016120@Flavio: ~/Gitprojects/djangogirls\u0007ra016120@Flavio:~/Gitprojects/djangogirls$ "
+    ],
+    [
+      0.962036,
+      "\u001b[H\u001b[2J\u001b]0;ra016120@Flavio: ~/Gitprojects/djangogirls\u0007ra016120@Flavio:~/Gitprojects/djangogirls$ "
+    ],
+    [
+      0.429114,
+      "l"
+    ],
+    [
+      0.087131,
+      "s"
+    ],
+    [
+      0.168719,
+      "\r\n"
+    ],
+    [
+      0.001507,
+      "\u001b[0m\u001b[01;34mblog\u001b[0m        \u001b[01;34mdjangogirls\u001b[0m  \u001b[01;32mmanage.py\u001b[0m  README.md         runtime.txt  \u001b[01;32mtty2gif.py\u001b[0m\r\n"
+    ],
+    [
+      0.000013,
+      "db.sqlite3  logs         Procfile   requirements.txt  \u001b[01;34mstatic\u001b[0m       ttyrecord\r\n"
+    ],
+    [
+      0.000414,
+      "\u001b]0;ra016120@Flavio: ~/Gitprojects/djangogirls\u0007ra016120@Flavio:~/Gitprojects/djangogirls$ "
+    ],
+    [
+      2.083533,
+      "g"
+    ],
+    [
+      0.106108,
+      "i"
+    ],
+    [
+      0.187622,
+      "t"
+    ],
+    [
+      0.213765,
+      " "
+    ],
+    [
+      0.195345,
+      "r"
+    ],
+    [
+      0.106778,
+      "e"
+    ],
+    [
+      0.033161,
+      "m"
+    ],
+    [
+      0.217631,
+      "o"
+    ],
+    [
+      0.177715,
+      "t"
+    ],
+    [
+      0.106473,
+      "e"
+    ],
+    [
+      0.107106,
+      " "
+    ],
+    [
+      0.492067,
+      "-"
+    ],
+    [
+      0.096352,
+      "v"
+    ],
+    [
+      0.162980,
+      "\r\n"
+    ],
+    [
+      0.004248,
+      "heroku\thttps://git.heroku.com/flavio-django-blog.git (fetch)\r\nheroku\thttps://git.heroku.com/flavio-django-blog.git (push)\r\norigin"
+    ],
+    [
+      0.000047,
+      "\tgit@github.com:flaviobarros/djangogirls.git (fetch)\r\norigin\tgit@github.com:flaviobarros/djangogirls.git (push)\r\n"
+    ],
+    [
+      0.001329,
+      "\u001b]0;ra016120@Flavio: ~/Gitprojects/djangogirls\u0007ra016120@Flavio:~/Gitprojects/djangogirls$ "
+    ],
+    [
+      2.139801,
+      "\u001b[H\u001b[2J\u001b]0;ra016120@Flavio: ~/Gitprojects/djangogirls\u0007ra016120@Flavio:~/Gitprojects/djangogirls$ "
+    ],
+    [
+      1.257349,
+      "g"
+    ],
+    [
+      0.071362,
+      "i"
+    ],
+    [
+      0.143339,
+      "t"
+    ],
+    [
+      0.120556,
+      " "
+    ],
+    [
+      0.284666,
+      "r"
+    ],
+    [
+      0.105532,
+      "e"
+    ],
+    [
+      0.032773,
+      "m"
+    ],
+    [
+      0.219946,
+      "o"
+    ],
+    [
+      0.133957,
+      "t"
+    ],
+    [
+      0.106954,
+      "e"
+    ],
+    [
+      0.406990,
+      " "
+    ],
+    [
+      0.349677,
+      "a"
+    ],
+    [
+      1.292633,
+      "d"
+    ],
+    [
+      0.164296,
+      "d"
+    ],
+    [
+      0.685787,
+      " "
+    ],
+    [
+      0.662787,
+      "d"
+    ],
+    [
+      0.197635,
+      "o"
+    ],
+    [
+      0.279626,
+      "k"
+    ],
+    [
+      0.136035,
+      "k"
+    ],
+    [
+      0.260514,
+      "u"
+    ],
+    [
+      0.408776,
+      " "
+    ],
+    [
+      4.306172,
+      "d"
+    ],
+    [
+      0.140898,
+      "o"
+    ],
+    [
+      0.209459,
+      "k"
+    ],
+    [
+      0.149136,
+      "k"
+    ],
+    [
+      0.571853,
+      "u"
+    ],
+    [
+      0.924663,
+      "@"
+    ],
+    [
+      0.760777,
+      "f"
+    ],
+    [
+      0.105300,
+      "l"
+    ],
+    [
+      0.137702,
+      "a"
+    ],
+    [
+      0.238477,
+      "v"
+    ],
+    [
+      0.069514,
+      "i"
+    ],
+    [
+      0.070713,
+      "o"
+    ],
+    [
+      0.566907,
+      "b"
+    ],
+    [
+      0.110059,
+      "a"
+    ],
+    [
+      0.234102,
+      "r"
+    ],
+    [
+      0.155193,
+      "r \r"
+    ],
+    [
+      0.133499,
+      "o"
+    ],
+    [
+      0.192326,
+      "s"
+    ],
+    [
+      1.110525,
+      "."
+    ],
+    [
+      0.328378,
+      "n"
+    ],
+    [
+      0.120720,
+      "e"
+    ],
+    [
+      0.129974,
+      "t"
+    ],
+    [
+      0.800252,
+      "/"
+    ],
+    [
+      0.436553,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.694180,
+      ":"
+    ],
+    [
+      0.371422,
+      "d"
+    ],
+    [
+      0.106528,
+      "j"
+    ],
+    [
+      0.087718,
+      "a"
+    ],
+    [
+      0.141563,
+      "n"
+    ],
+    [
+      0.155578,
+      "g"
+    ],
+    [
+      0.126474,
+      "o"
+    ],
+    [
+      0.814090,
+      "g"
+    ],
+    [
+      0.109278,
+      "i"
+    ],
+    [
+      0.146746,
+      "r"
+    ],
+    [
+      0.104678,
+      "l"
+    ],
+    [
+      0.193614,
+      "s"
+    ],
+    [
+      0.734967,
+      "\r\n"
+    ],
+    [
+      0.020489,
+      "\u001b]0;ra016120@Flavio: ~/Gitprojects/djangogirls\u0007ra016120@Flavio:~/Gitprojects/djangogirls$ "
+    ],
+    [
+      1.968986,
+      "g"
+    ],
+    [
+      0.071304,
+      "i"
+    ],
+    [
+      0.128313,
+      "t"
+    ],
+    [
+      0.119490,
+      " "
+    ],
+    [
+      0.303939,
+      "p"
+    ],
+    [
+      0.249479,
+      "u"
+    ],
+    [
+      0.119984,
+      "s"
+    ],
+    [
+      0.106341,
+      "h"
+    ],
+    [
+      0.218952,
+      " "
+    ],
+    [
+      0.488431,
+      "d"
+    ],
+    [
+      0.106568,
+      "o"
+    ],
+    [
+      0.212528,
+      "k"
+    ],
+    [
+      0.140948,
+      "k"
+    ],
+    [
+      0.171029,
+      "u"
+    ],
+    [
+      0.269416,
+      " "
+    ],
+    [
+      0.264584,
+      "m"
+    ],
+    [
+      0.049295,
+      "a"
+    ],
+    [
+      0.108133,
+      "s"
+    ],
+    [
+      0.364971,
+      "t"
+    ],
+    [
+      0.175985,
+      "e"
+    ],
+    [
+      0.104237,
+      "r"
+    ],
+    [
+      0.491521,
+      "\r\n"
+    ],
+    [
+      12.807590,
+      "Counting objects: 186, done."
+    ],
+    [
+      0.000040,
+      "\r\n"
+    ],
+    [
+      0.005090,
+      "Delta compression using up to 8 threads."
+    ],
+    [
+      0.000038,
+      "\r\n"
+    ],
+    [
+      0.000496,
+      "Compressing objects:   0% (1/165)   \r"
+    ],
+    [
+      0.000030,
+      "Compressing objects:   1% (2/165)   \rCompressing objects:   2% (4/165)   \r"
+    ],
+    [
+      0.000024,
+      "Compressing objects:   3% (5/165)   \r"
+    ],
+    [
+      0.000603,
+      "Compressing objects:   4% (7/165)   \r"
+    ],
+    [
+      0.000404,
+      "Compressing objects:   5% (9/165)   \r"
+    ],
+    [
+      0.000027,
+      "Compressing objects:   6% (10/165)   \r"
+    ],
+    [
+      0.000134,
+      "Compressing objects:   7% (12/165)   \r"
+    ],
+    [
+      0.000152,
+      "Compressing objects:   8% (14/165)   \r"
+    ],
+    [
+      0.000026,
+      "Compressing objects:   9% (15/165)   \r"
+    ],
+    [
+      0.000023,
+      "Compressing objects:  10% (17/165)   \r"
+    ],
+    [
+      0.000058,
+      "Compressing objects:  11% (19/165)   \r"
+    ],
+    [
+      0.000020,
+      "Compressing objects:  12% (20/165)   \r"
+    ],
+    [
+      0.000071,
+      "Compressing objects:  13% (22/165)   \r"
+    ],
+    [
+      0.000047,
+      "Compressing objects:  14% (24/165)   \r"
+    ],
+    [
+      0.000093,
+      "Compressing objects:  15% (25/165)   \r"
+    ],
+    [
+      0.000360,
+      "Compressing objects:  16% (27/165)   \r"
+    ],
+    [
+      0.000343,
+      "Compressing objects:  17% (29/165)   \r"
+    ],
+    [
+      0.000166,
+      "Compressing objects:  18% (30/165)   \r"
+    ],
+    [
+      0.000169,
+      "Compressing objects:  19% (32/165)   \r"
+    ],
+    [
+      0.000286,
+      "Compressing objects:  20% (33/165)   \r"
+    ],
+    [
+      0.000096,
+      "Compressing objects:  21% (35/165)   \r"
+    ],
+    [
+      0.000197,
+      "Compressing objects:  22% (37/165)   \r"
+    ],
+    [
+      0.000075,
+      "Compressing objects:  23% (38/165)   \r"
+    ],
+    [
+      0.000092,
+      "Compressing objects:  24% (40/165)   \r"
+    ],
+    [
+      0.000119,
+      "Compressing objects:  25% (42/165)   \r"
+    ],
+    [
+      0.000200,
+      "Compressing objects:  26% (43/165)   \r"
+    ],
+    [
+      0.000152,
+      "Compressing objects:  27% (45/165)   \r"
+    ],
+    [
+      0.000187,
+      "Compressing objects:  28% (47/165)   \r"
+    ],
+    [
+      0.000100,
+      "Compressing objects:  29% (48/165)   \r"
+    ],
+    [
+      0.000160,
+      "Compressing objects:  30% (50/165)   \r"
+    ],
+    [
+      0.000087,
+      "Compressing objects:  31% (52/165)   \r"
+    ],
+    [
+      0.000120,
+      "Compressing objects:  32% (53/165)   \r"
+    ],
+    [
+      0.000726,
+      "Compressing objects:  33% (55/165)   \r"
+    ],
+    [
+      0.000129,
+      "Compressing objects:  34% (57/165)   \r"
+    ],
+    [
+      0.000173,
+      "Compressing objects:  35% (58/165)   \r"
+    ],
+    [
+      0.000365,
+      "Compressing objects:  36% (60/165)   \r"
+    ],
+    [
+      0.000038,
+      "Compressing objects:  37% (62/165)   \r"
+    ],
+    [
+      0.000057,
+      "Compressing objects:  38% (63/165)   \r"
+    ],
+    [
+      0.000203,
+      "Compressing objects:  39% (65/165)   \r"
+    ],
+    [
+      0.000119,
+      "Compressing objects:  40% (66/165)   \r"
+    ],
+    [
+      0.000158,
+      "Compressing objects:  41% (68/165)   \r"
+    ],
+    [
+      0.000299,
+      "Compressing objects:  42% (70/165)   \r"
+    ],
+    [
+      0.000018,
+      "Compressing objects:  43% (71/165)   \r"
+    ],
+    [
+      0.000200,
+      "Compressing objects:  44% (73/165)   \r"
+    ],
+    [
+      0.000427,
+      "Compressing objects:  45% (75/165)   \r"
+    ],
+    [
+      0.000165,
+      "Compressing objects:  46% (76/165)   \r"
+    ],
+    [
+      0.000131,
+      "Compressing objects:  47% (78/165)   \r"
+    ],
+    [
+      0.000196,
+      "Compressing objects:  48% (80/165)   \r"
+    ],
+    [
+      0.000016,
+      "Compressing objects:  49% (81/165)   \r"
+    ],
+    [
+      0.000337,
+      "Compressing objects:  50% (83/165)   \r"
+    ],
+    [
+      0.000161,
+      "Compressing objects:  51% (85/165)   \r"
+    ],
+    [
+      0.000151,
+      "Compressing objects:  52% (86/165)   \r"
+    ],
+    [
+      0.000075,
+      "Compressing objects:  53% (88/165)   \r"
+    ],
+    [
+      0.000090,
+      "Compressing objects:  54% (90/165)   \r"
+    ],
+    [
+      0.000140,
+      "Compressing objects:  55% (91/165)   \r"
+    ],
+    [
+      0.000193,
+      "Compressing objects:  56% (93/165)   \r"
+    ],
+    [
+      0.000247,
+      "Compressing objects:  57% (95/165)   \r"
+    ],
+    [
+      0.000050,
+      "Compressing objects:  58% (96/165)   \r"
+    ],
+    [
+      0.000105,
+      "Compressing objects:  59% (98/165)   \r"
+    ],
+    [
+      0.000114,
+      "Compressing objects:  60% (99/165)   \r"
+    ],
+    [
+      0.000124,
+      "Compressing objects:  61% (101/165)   \r"
+    ],
+    [
+      0.000102,
+      "Compressing objects:  62% (103/165)   \r"
+    ],
+    [
+      0.000176,
+      "Compressing objects:  63% (104/165)   \r"
+    ],
+    [
+      0.000099,
+      "Compressing objects:  64% (106/165)   \r"
+    ],
+    [
+      0.000134,
+      "Compressing objects:  65% (108/165)   \r"
+    ],
+    [
+      0.000118,
+      "Compressing objects:  66% (109/165)   \r"
+    ],
+    [
+      0.000040,
+      "Compressing objects:  67% (111/165)   \r"
+    ],
+    [
+      0.000145,
+      "Compressing objects:  68% (113/165)   \r"
+    ],
+    [
+      0.000073,
+      "Compressing objects:  69% (114/165)   \r"
+    ],
+    [
+      0.000188,
+      "Compressing objects:  70% (116/165)   \r"
+    ],
+    [
+      0.000061,
+      "Compressing objects:  71% (118/165)   \r"
+    ],
+    [
+      0.000037,
+      "Compressing objects:  72% (119/165)   \r"
+    ],
+    [
+      0.000277,
+      "Compressing objects:  73% (121/165)   \r"
+    ],
+    [
+      0.000280,
+      "Compressing objects:  74% (123/165)   \r"
+    ],
+    [
+      0.000132,
+      "Compressing objects:  75% (124/165)   \r"
+    ],
+    [
+      0.000231,
+      "Compressing objects:  76% (126/165)   \r"
+    ],
+    [
+      0.000117,
+      "Compressing objects:  77% (128/165)   \r"
+    ],
+    [
+      0.001187,
+      "Compressing objects:  78% (129/165)   \r"
+    ],
+    [
+      0.000142,
+      "Compressing objects:  79% (131/165)   \r"
+    ],
+    [
+      0.000016,
+      "Compressing objects:  80% (132/165)   \r"
+    ],
+    [
+      0.000398,
+      "Compressing objects:  81% (134/165)   \r"
+    ],
+    [
+      0.000264,
+      "Compressing objects:  82% (136/165)   \r"
+    ],
+    [
+      0.000022,
+      "Compressing objects:  83% (137/165)   \r"
+    ],
+    [
+      0.000198,
+      "Compressing objects:  84% (139/165)   \r"
+    ],
+    [
+      0.000254,
+      "Compressing objects:  85% (141/165)   \r"
+    ],
+    [
+      0.000102,
+      "Compressing objects:  86% (142/165)   \r"
+    ],
+    [
+      0.000735,
+      "Compressing objects:  87% (144/165)   \r"
+    ],
+    [
+      0.000209,
+      "Compressing objects:  88% (146/165)   \r"
+    ],
+    [
+      0.000172,
+      "Compressing objects:  89% (147/165)   \r"
+    ],
+    [
+      0.000260,
+      "Compressing objects:  90% (149/165)   \r"
+    ],
+    [
+      0.000451,
+      "Compressing objects:  91% (151/165)   \r"
+    ],
+    [
+      0.000026,
+      "Compressing objects:  92% (152/165)   \r"
+    ],
+    [
+      0.000639,
+      "Compressing objects:  93% (154/165)   \r"
+    ],
+    [
+      0.000208,
+      "Compressing objects:  94% (156/165)   \r"
+    ],
+    [
+      0.000234,
+      "Compressing objects:  95% (157/165)   \r"
+    ],
+    [
+      0.000147,
+      "Compressing objects:  96% (159/165)   \r"
+    ],
+    [
+      0.000288,
+      "Compressing objects:  97% (161/165)   \r"
+    ],
+    [
+      0.000115,
+      "Compressing objects:  98% (162/165)   \r"
+    ],
+    [
+      0.001688,
+      "Compressing objects:  99% (164/165)   \r"
+    ],
+    [
+      0.000537,
+      "Compressing objects: 100% (165/165)   \r"
+    ],
+    [
+      0.000393,
+      "Compressing objects: 100% (165/165), done."
+    ],
+    [
+      0.000030,
+      "\r\n"
+    ],
+    [
+      0.000498,
+      "Writing objects:   0% (1/186)   \r"
+    ],
+    [
+      0.000309,
+      "Writing objects:   1% (2/186)   \r"
+    ],
+    [
+      0.000564,
+      "Writing objects:   2% (4/186)   \r"
+    ],
+    [
+      0.000478,
+      "Writing objects:   3% (6/186)   \r"
+    ],
+    [
+      0.000489,
+      "Writing objects:   4% (8/186)   \r"
+    ],
+    [
+      0.000513,
+      "Writing objects:   5% (10/186)   \r"
+    ],
+    [
+      0.000588,
+      "Writing objects:   6% (12/186)   \r"
+    ],
+    [
+      0.000406,
+      "Writing objects:   7% (14/186)   \r"
+    ],
+    [
+      0.000252,
+      "Writing objects:   8% (15/186)   \r"
+    ],
+    [
+      0.000523,
+      "Writing objects:   9% (17/186)   \r"
+    ],
+    [
+      0.000487,
+      "Writing objects:  10% (19/186)   \r"
+    ],
+    [
+      0.000472,
+      "Writing objects:  11% (21/186)   \r"
+    ],
+    [
+      0.000583,
+      "Writing objects:  12% (23/186)   \r"
+    ],
+    [
+      0.000536,
+      "Writing objects:  13% (25/186)   \r"
+    ],
+    [
+      0.000458,
+      "Writing objects:  14% (27/186)   \r"
+    ],
+    [
+      0.000311,
+      "Writing objects:  15% (28/186)   \r"
+    ],
+    [
+      0.000492,
+      "Writing objects:  16% (30/186)   \r"
+    ],
+    [
+      0.000475,
+      "Writing objects:  17% (32/186)   \r"
+    ],
+    [
+      0.001194,
+      "Writing objects:  18% (34/186)   \r"
+    ],
+    [
+      0.000631,
+      "Writing objects:  19% (37/186)   \r"
+    ],
+    [
+      0.000249,
+      "Writing objects:  20% (38/186)   \r"
+    ],
+    [
+      0.000682,
+      "Writing objects:  21% (40/186)   \r"
+    ],
+    [
+      0.002978,
+      "Writing objects:  22% (41/186)   \r"
+    ],
+    [
+      0.000944,
+      "Writing objects:  23% (43/186)   \r"
+    ],
+    [
+      0.000616,
+      "Writing objects:  24% (45/186)   \r"
+    ],
+    [
+      0.000836,
+      "Writing objects:  25% (47/186)   \r"
+    ],
+    [
+      0.000568,
+      "Writing objects:  26% (49/186)   \r"
+    ],
+    [
+      0.000452,
+      "Writing objects:  27% (51/186)   \r"
+    ],
+    [
+      0.000486,
+      "Writing objects:  28% (53/186)   \r"
+    ],
+    [
+      0.000371,
+      "Writing objects:  29% (54/186)   \r"
+    ],
+    [
+      0.000581,
+      "Writing objects:  30% (56/186)   \r"
+    ],
+    [
+      0.000518,
+      "Writing objects:  31% (58/186)   \r"
+    ],
+    [
+      0.000483,
+      "Writing objects:  32% (60/186)   \r"
+    ],
+    [
+      0.000658,
+      "Writing objects:  33% (62/186)   \r"
+    ],
+    [
+      0.000473,
+      "Writing objects:  34% (64/186)   \r"
+    ],
+    [
+      0.000531,
+      "Writing objects:  35% (66/186)   \r"
+    ],
+    [
+      0.000283,
+      "Writing objects:  36% (67/186)   \r"
+    ],
+    [
+      0.000688,
+      "Writing objects:  37% (69/186)   \r"
+    ],
+    [
+      0.002513,
+      "Writing objects:  38% (71/186)   \r"
+    ],
+    [
+      0.000841,
+      "Writing objects:  39% (73/186)   \r"
+    ],
+    [
+      0.001429,
+      "Writing objects:  40% (75/186)   \r"
+    ],
+    [
+      0.000645,
+      "Writing objects:  41% (77/186)   \r"
+    ],
+    [
+      0.000325,
+      "Writing objects:  42% (79/186)   \r"
+    ],
+    [
+      0.000268,
+      "Writing objects:  43% (80/186)   \r"
+    ],
+    [
+      0.000451,
+      "Writing objects:  44% (82/186)   \r"
+    ],
+    [
+      0.000449,
+      "Writing objects:  45% (84/186)   \r"
+    ],
+    [
+      0.000307,
+      "Writing objects:  46% (86/186)   \r"
+    ],
+    [
+      0.000327,
+      "Writing objects:  47% (88/186)   \r"
+    ],
+    [
+      0.000331,
+      "Writing objects:  48% (90/186)   \r"
+    ],
+    [
+      0.000345,
+      "Writing objects:  49% (92/186)   \r"
+    ],
+    [
+      0.000161,
+      "Writing objects:  50% (93/186)   \r"
+    ],
+    [
+      0.000268,
+      "Writing objects:  51% (95/186)   \r"
+    ],
+    [
+      0.000324,
+      "Writing objects:  52% (97/186)   \r"
+    ],
+    [
+      0.000364,
+      "Writing objects:  53% (99/186)   \r"
+    ],
+    [
+      0.000378,
+      "Writing objects:  54% (101/186)   \r"
+    ],
+    [
+      0.000469,
+      "Writing objects:  55% (103/186)   \r"
+    ],
+    [
+      0.000314,
+      "Writing objects:  56% (105/186)   \r"
+    ],
+    [
+      0.000327,
+      "Writing objects:  57% (107/186)   \r"
+    ],
+    [
+      0.000261,
+      "Writing objects:  58% (108/186)   \r"
+    ],
+    [
+      0.000544,
+      "Writing objects:  59% (111/186)   \r"
+    ],
+    [
+      0.000161,
+      "Writing objects:  60% (112/186)   \r"
+    ],
+    [
+      0.000425,
+      "Writing objects:  61% (114/186)   \r"
+    ],
+    [
+      0.000499,
+      "Writing objects:  62% (116/186)   \r"
+    ],
+    [
+      0.000302,
+      "Writing objects:  63% (118/186)   \r"
+    ],
+    [
+      0.000558,
+      "Writing objects:  64% (120/186)   \r"
+    ],
+    [
+      0.000161,
+      "Writing objects:  65% (121/186)   \r"
+    ],
+    [
+      0.000314,
+      "Writing objects:  66% (123/186)   \r"
+    ],
+    [
+      0.000307,
+      "Writing objects:  67% (125/186)   \r"
+    ],
+    [
+      0.000353,
+      "Writing objects:  68% (127/186)   \r"
+    ],
+    [
+      0.000476,
+      "Writing objects:  69% (129/186)   \r"
+    ],
+    [
+      0.000435,
+      "Writing objects:  70% (131/186)   \r"
+    ],
+    [
+      0.000279,
+      "Writing objects:  71% (133/186)   \r"
+    ],
+    [
+      0.000161,
+      "Writing objects:  72% (134/186)   \r"
+    ],
+    [
+      0.000323,
+      "Writing objects:  73% (136/186)   \r"
+    ],
+    [
+      0.000370,
+      "Writing objects:  74% (138/186)   \r"
+    ],
+    [
+      0.000406,
+      "Writing objects:  75% (140/186)   \r"
+    ],
+    [
+      0.000350,
+      "Writing objects:  76% (142/186)   \r"
+    ],
+    [
+      0.000637,
+      "Writing objects:  77% (144/186)   \r"
+    ],
+    [
+      0.000347,
+      "Writing objects:  78% (146/186)   \r"
+    ],
+    [
+      0.000253,
+      "Writing objects:  79% (147/186)   \r"
+    ],
+    [
+      0.000527,
+      "Writing objects:  80% (149/186)   \r"
+    ],
+    [
+      0.000336,
+      "Writing objects:  81% (151/186)   \r"
+    ],
+    [
+      0.000352,
+      "Writing objects:  82% (153/186)   \r"
+    ],
+    [
+      0.000608,
+      "Writing objects:  83% (155/186)   \r"
+    ],
+    [
+      0.000400,
+      "Writing objects:  84% (157/186)   \r"
+    ],
+    [
+      0.000353,
+      "Writing objects:  85% (159/186)   \r"
+    ],
+    [
+      0.000128,
+      "Writing objects:  86% (160/186)   \r"
+    ],
+    [
+      0.000324,
+      "Writing objects:  87% (162/186)   \r"
+    ],
+    [
+      0.000756,
+      "Writing objects:  88% (164/186)   \r"
+    ],
+    [
+      0.000318,
+      "Writing objects:  89% (166/186)   \r"
+    ],
+    [
+      0.000405,
+      "Writing objects:  90% (168/186)   \r"
+    ],
+    [
+      0.000413,
+      "Writing objects:  91% (170/186)   \r"
+    ],
+    [
+      0.000352,
+      "Writing objects:  92% (172/186)   \r"
+    ],
+    [
+      0.000479,
+      "Writing objects:  93% (173/186)   \r"
+    ],
+    [
+      0.000351,
+      "Writing objects:  94% (175/186)   \r"
+    ],
+    [
+      0.000509,
+      "Writing objects:  95% (177/186)   \r"
+    ],
+    [
+      0.000304,
+      "Writing objects:  96% (179/186)   \r"
+    ],
+    [
+      0.000384,
+      "Writing objects:  97% (181/186)   \r"
+    ],
+    [
+      0.000303,
+      "Writing objects:  98% (183/186)   \r"
+    ],
+    [
+      0.000330,
+      "Writing objects:  99% (185/186)   \r"
+    ],
+    [
+      0.000155,
+      "Writing objects: 100% (186/186)   \r"
+    ],
+    [
+      0.000098,
+      "Writing objects: 100% (186/186), 40.51 KiB | 0 bytes/s, done."
+    ],
+    [
+      0.000021,
+      "\r\n"
+    ],
+    [
+      0.000017,
+      "Total 186 (delta 80), reused 0 (delta 0)\r\n"
+    ],
+    [
+      1.878061,
+      "remote: Cloning into '/tmp/tmp.rue55L5rzL'...\u001b[K\r\nremote: warning: You appear to have cloned an empty repository.\u001b[K\r\nremote: done.\u001b[K\r\n"
+    ],
+    [
+      0.024483,
+      "remote: HEAD is now at e33229b... Included exampla database\u001b[K\r\n"
+    ],
+    [
+      0.078979,
+      "remote: -----\u003e Building djangogirls using buildstep...\u001b[K\r\n"
+    ],
+    [
+      0.974131,
+      "remote: -----\u003e Installing ENV in build environment ...\u001b[K\r\n"
+    ],
+    [
+      1.607321,
+      "remote: \u001b[1G-----\u003e Using u1000 to run an application\u001b[K\r\n"
+    ],
+    [
+      0.576248,
+      "remote: \u001b[1G-----\u003e Python app detected\u001b[K\r\n"
+    ],
+    [
+      4.046653,
+      "remote: \u001b[1G-----\u003e Stack changed, re-installing runtime\u001b[K\r\n"
+    ],
+    [
+      0.571399,
+      "remote: \u001b[1G-----\u003e Installing runtime (python-2.7.8)\u001b[K\r\n"
+    ],
+    [
+      14.806762,
+      "remote: \u001b[1G-----\u003e Installing dependencies with pip\u001b[K\r\n"
+    ],
+    [
+      2.114130,
+      "remote: \u001b[1G       Collecting Babel==1.3 (from -r requirements.txt (line 1))\u001b[K\r\n"
+    ],
+    [
+      0.238143,
+      "remote: \u001b[1G       Downloading Babel-1.3.tar.gz (3.4MB)\u001b[K\r\n"
+    ],
+    [
+      1.453591,
+      "remote: \u001b[1G       Collecting Django==1.7.7 (from -r requirements.txt (line 2))\u001b[K\r\n"
+    ],
+    [
+      0.202147,
+      "remote: \u001b[1G       Downloading Django-1.7.7-py2.py3-none-any.whl (7.4MB)\u001b[K\r\n"
+    ],
+    [
+      1.980793,
+      "remote: \u001b[1G       Collecting Jinja2==2.7.3 (from -r requirements.txt (line 3))\u001b[K\r\n"
+    ],
+    [
+      0.074175,
+      "remote: \u001b[1G       Downloading Jinja2-2.7.3.tar.gz (378kB)\u001b[K\r\n"
+    ],
+    [
+      0.395493,
+      "remote: \u001b[1G       Collecting MarkupSafe==0.23 (from -r requirements.txt (line 4))\u001b[K\r\n"
+    ],
+    [
+      0.072142,
+      "remote: \u001b[1G       Downloading MarkupSafe-0.23.tar.gz\u001b[K\r\n"
+    ],
+    [
+      0.261322,
+      "remote: \u001b[1G       Collecting Pillow==2.7.0 (from -r requirements.txt (line 5))\u001b[K\r\n"
+    ],
+    [
+      0.478960,
+      "remote: \u001b[1G       Downloading Pillow-2.7.0.tar.gz (7.4MB)\u001b[K\r\n"
+    ],
+    [
+      1.371652,
+      "remote: \u001b[1G       Single threaded build, not installing mp_compile: 1 processes\u001b[K\r\n"
+    ],
+    [
+      0.013810,
+      "remote: \u001b[1G       Collecting PyYAML==3.11 (from -r requirements.txt (line 6))\u001b[K\r\n"
+    ],
+    [
+      0.076311,
+      "remote: \u001b[1G       Downloading PyYAML-3.11.tar.gz (248kB)\u001b[K\r\n"
+    ],
+    [
+      0.460924,
+      "remote: \u001b[1G       Collecting Pygments==2.0.2 (from -r requirements.txt (line 7))\u001b[K\r\n"
+    ],
+    [
+      0.125279,
+      "remote: \u001b[1G       Downloading Pygments-2.0.2-py2-none-any.whl (672kB)\u001b[K\r\n"
+    ],
+    [
+      0.103731,
+      "remote: \u001b[1G       Collecting Sphinx==1.3.1 (from -r requirements.txt (line 8))\u001b[K\r\n"
+    ],
+    [
+      0.236666,
+      "remote: \u001b[1G       Downloading Sphinx-1.3.1-py2.py3-none-any.whl (1.3MB)\u001b[K\r\n"
+    ],
+    [
+      0.325124,
+      "remote: \u001b[1G       Collecting Unidecode==0.04.17 (from -r requirements.txt (line 9))\u001b[K\r\n"
+    ],
+    [
+      0.073919,
+      "remote: \u001b[1G       Downloading Unidecode-0.04.17.tar.gz (201kB)\u001b[K\r\n"
+    ],
+    [
+      0.337860,
+      "remote: \u001b[1G       /app/.heroku/python/lib/python2.7/site-packages/setuptools-11.3.1-py2.7.egg/setuptools/dist.py:283: UserWarning: The version specified requires normalization, consider using '0.4.17' instead of '0.04.17'.\u001b[K\r\n"
+    ],
+    [
+      0.011189,
+      "remote: \u001b[1G       Collecting Werkzeug==0.10.1 (from -r requirements.txt (line 10))\u001b[K\r\n"
+    ],
+    [
+      0.095629,
+      "remote: \u001b[1G       Downloading Werkzeug-0.10.1.tar.gz (1.1MB)\u001b[K\r\n"
+    ],
+    [
+      0.532286,
+      "remote: \u001b[1G       Collecting alabaster==0.7.3 (from -r requirements.txt (line 11))\u001b[K\r\n"
+    ],
+    [
+      0.078626,
+      "remote: \u001b[1G       Downloading alabaster-0.7.3.tar.gz\u001b[K\r\n"
+    ],
+    [
+      0.222263,
+      "remote: \u001b[1G       Collecting argparse==1.2.1 (from -r requirements.txt (line 12))\u001b[K\r\n"
+    ],
+    [
+      0.096112,
+      "remote: \u001b[1G       Downloading argparse-1.2.1.tar.gz (69kB)\u001b[K\r\n"
+    ],
+    [
+      0.296876,
+      "remote: \u001b[1G       Collecting binaryornot==0.3.0 (from -r requirements.txt (line 13))\u001b[K\r\n"
+    ],
+    [
+      0.119106,
+      "remote: \u001b[1G       Downloading binaryornot-0.3.0.tar.gz (217kB)\u001b[K\r\n"
+    ],
+    [
+      0.250807,
+      "remote: \u001b[1G       Collecting click==3.3 (from -r requirements.txt (line 14))\u001b[K\r\n"
+    ],
+    [
+      0.083962,
+      "remote: \u001b[1G       Downloading click-3.3-py2.py3-none-any.whl (58kB)\u001b[K\r\n"
+    ],
+    [
+      0.022500,
+      "remote: \u001b[1G       Collecting cookiecutter==1.0.0 (from -r requirements.txt (line 15))\u001b[K\r\n"
+    ],
+    [
+      0.192819,
+      "remote: \u001b[1G       Downloading cookiecutter-1.0.0-py2.py3-none-any.whl\u001b[K"
+    ],
+    [
+      0.000029,
+      "\r\n"
+    ],
+    [
+      0.022290,
+      "remote: \u001b[1G       Collecting coverage==3.7.1 (from -r requirements.txt (line 16))\u001b[K\r\n"
+    ],
+    [
+      0.193137,
+      "remote: \u001b[1G       Downloading coverage-3.7.1.tar.gz (284kB)\u001b[K\r\n"
+    ],
+    [
+      0.358636,
+      "remote: \u001b[1G       Collecting dj-database-url==0.3.0 (from -r requirements.txt (line 17))\u001b[K\r\n"
+    ],
+    [
+      0.057334,
+      "remote: \u001b[1G       Downloading dj_database_url-0.3.0-py2.py3-none-any.whl\u001b[K\r\n"
+    ],
+    [
+      0.014493,
+      "remote: \u001b[1G       Collecting django-allauth==0.19.1 (from -r requirements.txt (line 18))\u001b[K\r\n"
+    ],
+    [
+      0.211907,
+      "remote: \u001b[1G       Downloading django-allauth-0.19.1.tar.gz (283kB)\u001b[K\r\n"
+    ],
+    [
+      0.501746,
+      "remote: \u001b[1G       Collecting django-appconf==1.0.1 (from -r requirements.txt (line 19))\u001b[K\r\n"
+    ],
+    [
+      0.135780,
+      "remote: \u001b[1G       Downloading django_appconf-1.0.1-py2.py3-none-any.whl\u001b[K\r\n"
+    ],
+    [
+      0.002412,
+      "remote: \u001b[1G       Collecting django-autoslug==1.7.2 (from -r requirements.txt (line 20))\u001b[K\r\n"
+    ],
+    [
+      0.018871,
+      "remote: \u001b[1G       Downloading django-autoslug-1.7.2.tar.gz\u001b[K\r\n"
+    ],
+    [
+      0.226595,
+      "remote: \u001b[1G       Collecting django-avatar==2.0 (from -r requirements.txt (line 21))\u001b[K\r\n"
+    ],
+    [
+      0.144295,
+      "remote: \u001b[1G       Downloading django-avatar-2.0.tar.gz (1.6MB)\u001b[K\r\n"
+    ],
+    [
+      0.450181,
+      "remote: \u001b[1G       Collecting django-braces==1.4.0 (from -r requirements.txt (line 22))\u001b[K\r\n"
+    ],
+    [
+      0.136168,
+      "remote: \u001b[1G       Downloading django_braces-1.4.0-py2.py3-none-any.whl\u001b[K\r\n"
+    ],
+    [
+      0.017363,
+      "remote: \u001b[1G       Collecting django-cache-url==0.8.0 (from -r requirements.txt (line 23))\u001b[K\r\n"
+    ],
+    [
+      0.145320,
+      "remote: \u001b[1G       Downloading django_cache_url-0.8.0-py2.py3-none-any.whl\u001b[K\r\n"
+    ],
+    [
+      0.014743,
+      "remote: \u001b[1G       Collecting django-configurations==0.8 (from -r requirements.txt (line 24))\u001b[K\r\n"
+    ],
+    [
+      0.156288,
+      "remote: \u001b[1G       Downloading django_configurations-0.8-py2.py3-none-any.whl\u001b[K\r\n"
+    ],
+    [
+      0.022646,
+      "remote: \u001b[1G       Collecting django-crispy-forms==1.4.0 (from -r requirements.txt (line 25))\u001b[K\r\n"
+    ],
+    [
+      0.215184,
+      "remote: \u001b[1G       Downloading django-crispy-forms-1.4.0.tar.gz (47kB)\u001b[K\r\n"
+    ],
+    [
+      0.270787,
+      "remote: \u001b[1G       Collecting django-debug-toolbar==1.3.0 (from -r requirements.txt (line 26))\u001b[K\r\n"
+    ],
+    [
+      0.082956,
+      "remote: \u001b[1G       Downloading django_debug_toolbar-1.3.0-py2.py3-none-any.whl (203kB)\u001b[K\r\n"
+    ],
+    [
+      0.059027,
+      "remote: \u001b[1G       Collecting django-extensions==1.5.1 (from -r requirements.txt (line 27))\u001b[K\r\n"
+    ],
+    [
+      0.102506,
+      "remote: \u001b[1G       Downloading django_extensions-1.5.1-py2.py3-none-any.whl (242kB)\u001b[K\r\n"
+    ],
+    [
+      0.084010,
+      "remote: \u001b[1G       Collecting django-floppyforms==1.3.0 (from -r requirements.txt (line 28))\u001b[K\r\n"
+    ],
+    [
+      0.169076,
+      "remote: \u001b[1G       Downloading django-floppyforms-1.3.0.tar.gz (2.2MB)\u001b[K\r\n"
+    ],
+    [
+      0.505678,
+      "remote: \u001b[1G       Collecting django-model-utils==2.2 (from -r requirements.txt (line 29))\u001b[K\r\n"
+    ],
+    [
+      0.132648,
+      "remote: \u001b[1G       Downloading django-model-utils-2.2.tar.gz\u001b[K\r\n"
+    ],
+    [
+      0.228023,
+      "remote: \u001b[1G       Collecting django-secure==1.0.1 (from -r requirements.txt (line 30))\u001b[K"
+    ],
+    [
+      0.000027,
+      "\r\n"
+    ],
+    [
+      0.054822,
+      "remote: \u001b[1G       Downloading django-secure-1.0.1.tar.gz\u001b[K\r\n"
+    ],
+    [
+      0.240258,
+      "remote: \u001b[1G       Collecting docutils==0.12 (from -r requirements.txt (line 31))\u001b[K\r\n"
+    ],
+    [
+      0.074663,
+      "remote: \u001b[1G       Downloading docutils-0.12.tar.gz (1.6MB)\u001b[K\r\n"
+    ],
+    [
+      0.717930,
+      "remote: \u001b[1G       Collecting gunicorn==19.3.0 (from -r requirements.txt (line 32))\u001b[K\r\n"
+    ],
+    [
+      0.319055,
+      "remote: \u001b[1G       Downloading gunicorn-19.3.0-py2.py3-none-any.whl (110kB)\u001b[K\r\n"
+    ],
+    [
+      0.033288,
+      "remote: \u001b[1G       Collecting mock==1.0.1 (from -r requirements.txt (line 33))\u001b[K\r\n"
+    ],
+    [
+      0.070379,
+      "remote: \u001b[1G       Downloading mock-1.0.1.tar.gz (818kB)\u001b[K\r\n"
+    ],
+    [
+      0.466511,
+      "remote: \u001b[1G       Collecting oauthlib==0.7.2 (from -r requirements.txt (line 34))\u001b[K"
+    ],
+    [
+      0.000028,
+      "\r\n"
+    ],
+    [
+      0.111480,
+      "remote: \u001b[1G       Downloading oauthlib-0.7.2.tar.gz (106kB)\u001b[K\r\n"
+    ],
+    [
+      0.307497,
+      "remote: \u001b[1G       Collecting psycopg2==2.6 (from -r requirements.txt (line 35))\u001b[K"
+    ],
+    [
+      0.000029,
+      "\r\n"
+    ],
+    [
+      0.109278,
+      "remote: \u001b[1G       Downloading psycopg2-2.6.tar.gz (367kB)\u001b[K\r\n"
+    ],
+    [
+      0.462461,
+      "remote: \u001b[1G       Collecting python-openid==2.2.5 (from -r requirements.txt (line 36))\u001b[K\r\n"
+    ],
+    [
+      0.181100,
+      "remote: \u001b[1G       Downloading python-openid-2.2.5.tar.gz (301kB)\u001b[K\r\n"
+    ],
+    [
+      0.414489,
+      "remote: \u001b[1G       Collecting pytz==2014.10 (from -r requirements.txt (line 37))\u001b[K\r\n"
+    ],
+    [
+      0.422596,
+      "remote: \u001b[1G       Downloading pytz-2014.10-py2.py3-none-any.whl (477kB)\u001b[K\r\n"
+    ],
+    [
+      0.178767,
+      "remote: \u001b[1G       Collecting requests==2.6.0 (from -r requirements.txt (line 38))\u001b[K\r\n"
+    ],
+    [
+      0.133060,
+      "remote: \u001b[1G       Downloading requests-2.6.0-py2.py3-none-any.whl (469kB)\u001b[K\r\n"
+    ],
+    [
+      0.074158,
+      "remote: \u001b[1G       Collecting requests-oauthlib==0.4.2 (from -r requirements.txt (line 39))\u001b[K\r\n"
+    ],
+    [
+      0.055533,
+      "remote: \u001b[1G       Downloading requests_oauthlib-0.4.2-py2.py3-none-any.whl\u001b[K\r\n"
+    ],
+    [
+      0.024887,
+      "remote: \u001b[1G       Collecting six==1.9.0 (from -r requirements.txt (line 40))\u001b[K\r\n"
+    ],
+    [
+      0.083621,
+      "remote: \u001b[1G       Downloading six-1.9.0-py2.py3-none-any.whl\u001b[K\r\n"
+    ],
+    [
+      0.018096,
+      "remote: \u001b[1G       Collecting snowballstemmer==1.2.0 (from -r requirements.txt (line 41))\u001b[K\r\n"
+    ],
+    [
+      0.051836,
+      "remote: \u001b[1G       Downloading snowballstemmer-1.2.0.tar.gz (49kB)\u001b[K\r\n"
+    ],
+    [
+      0.267275,
+      "remote: \u001b[1G       Collecting sphinx-rtd-theme==0.1.7 (from -r requirements.txt (line 42))\u001b[K\r\n"
+    ],
+    [
+      0.064346,
+      "remote: \u001b[1G       Downloading sphinx_rtd_theme-0.1.7-py2-none-any.whl (220kB)\u001b[K\r\n"
+    ],
+    [
+      0.033092,
+      "remote: \u001b[1G       Collecting sqlparse==0.1.14 (from -r requirements.txt (line 43))\u001b[K\r\n"
+    ],
+    [
+      0.064714,
+      "remote: \u001b[1G       Downloading sqlparse-0.1.14.tar.gz (55kB)\u001b[K\r\n"
+    ],
+    [
+      0.246879,
+      "remote: \u001b[1G       Collecting unicode-slugify==0.1.3 (from -r requirements.txt (line 44))\u001b[K\r\n"
+    ],
+    [
+      0.121516,
+      "remote: \u001b[1G       Downloading unicode-slugify-0.1.3.tar.gz\u001b[K\r\n"
+    ],
+    [
+      0.205839,
+      "remote: \u001b[1G       Collecting whitenoise==1.0.6 (from -r requirements.txt (line 45))\u001b[K\r\n"
+    ],
+    [
+      0.198475,
+      "remote: \u001b[1G       Downloading whitenoise-1.0.6-py2.py3-none-any.whl\u001b[K\r\n"
+    ],
+    [
+      0.026707,
+      "remote: \u001b[1G       Installing collected packages: whitenoise, unicode-slugify, sqlparse, sphinx-rtd-theme, snowballstemmer, six, requests-oauthlib, requests, pytz, python-openid, psycopg2, oauthlib, mock, gunicorn, docutils, django-secure, django-model-utils, django-floppyforms, django-extensions, django-debug-toolbar, django-crispy-forms, django-configurations, django-cache-url, django-br"
+    ],
+    [
+      0.000018,
+      "aces, django-avatar, django-autoslug, django-appconf, django-allauth, dj-database-url, coverage, cookiecutter, click, binaryornot, argparse, alabaster, Werkzeug, Unidecode, Sphinx, Pygments, PyYAML, Pillow, MarkupSafe, Jinja2, Django, Babel\u001b[K\r\n"
+    ],
+    [
+      0.018073,
+      "remote: \u001b[1G       \u001b[K\r\n"
+    ],
+    [
+      0.009023,
+      "remote: \u001b[1G       Running setup.py install for unicode-slugify\u001b[K\r\n"
+    ],
+    [
+      0.252133,
+      "remote: \u001b[1G       Running setup.py install for sqlparse\u001b[K\r\n"
+    ],
+    [
+      0.261307,
+      "remote: \u001b[1G       changing mode of build/scripts-2.7/sqlformat from 644 to 755\u001b[K"
+    ],
+    [
+      0.000028,
+      "\r\n"
+    ],
+    [
+      0.002395,
+      "remote: \u001b[1G       changing mode of /app/.heroku/python/bin/sqlformat to 755\u001b[K\r\n"
+    ],
+    [
+      0.007441,
+      "remote: \u001b[1G       \u001b[K\r\n"
+    ],
+    [
+      0.012591,
+      "remote: \u001b[1G       Running setup.py install for snowballstemmer\u001b[K\r\n"
+    ],
+    [
+      0.348435,
+      "remote: \u001b[1G       \u001b[K"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.016552,
+      "remote: \u001b[1G       \u001b[K\r\n"
+    ],
+    [
+      0.297747,
+      "remote: \u001b[1G       \u001b[K\r\n"
+    ],
+    [
+      0.102504,
+      "remote: \u001b[1G       \u001b[K\r\n"
+    ],
+    [
+      0.282639,
+      "remote: \u001b[1G       Running setup.py install for python-openid\u001b[K\r\n"
+    ],
+    [
+      0.421809,
+      "remote: \u001b[1G       Running setup.py install for psycopg2\u001b[K\r\n"
+    ],
+    [
+      8.584105,
+      "remote: \u001b[1G       building 'psycopg2._psycopg' extension\u001b[K\r\n"
+    ],
+    [
+      0.005848,
+      "remote: \u001b[1G       gcc -pthread -fno-strict-aliasing -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -fPIC -DPSYCOPG_DEFAULT_PYDATETIME=1 -DPSYCOPG_VERSION=\"2.6 (dt dec pq3 ext lo64)\" -DPG_VERSION_HEX=0x090306 -DHAVE_LO64=1 -I/app/.heroku/python/include/python2.7 -I. -I/usr/include/postgresql -I/usr/include/postgresql/9.3/server -c psycopg/psycopgmodule.c -o build/temp.linux-x86_64-2.7/psycopg/psycopgmodule.o -Wdeclaration-after-statement\u001b[K"
+    ],
+    [
+      0.000049,
+      "\r\n"
+    ],
+    [
+      0.006005,
+      "remote: \u001b[1G       gcc -pthread -fno-strict-aliasing -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -fPIC -DPSYCOPG_DEFAULT_PYDATETIME=1 -DPSYCOPG_VERSION=\"2.6 (dt dec pq3 ext lo64)\" -DPG_VERSION_HEX=0x090306 -DHAVE_LO64=1 -I/app/.heroku/python/include/python2.7 -I. -I/usr/include/postgresql -I/usr/include/postgresql/9.3/server -c psycopg/green.c -o build/temp.linux-x86_64-2.7/psycopg/green.o -Wdeclaration-after-statement\u001b[K"
+    ],
+    [
+      0.000053,
+      "\r\n"
+    ],
+    [
+      0.007347,
+      "remote: \u001b[1G       gcc -pthread -fno-strict-aliasing -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -fPIC -DPSYCOPG_DEFAULT_PYDATETIME=1 -DPSYCOPG_VERSION=\"2.6 (dt dec pq3 ext lo64)\" -DPG_VERSION_HEX=0x090306 -DHAVE_LO64=1 -I/app/.heroku/python/include/python2.7 -I. -I/usr/include/postgresql -I/usr/include/postgresql/9.3/server -c psycopg/pqpath.c -o build/temp.linux-x86_64-2.7/psycopg/pqpath.o -Wdeclaration-after-statement\u001b[K"
+    ],
+    [
+      0.000029,
+      "\r\n"
+    ],
+    [
+      0.006117,
+      "remote: \u001b[1G       gcc -pthread -fno-strict-aliasing -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -fPIC -DPSYCOPG_DEFAULT_PYDATETIME=1 -DPSYCOPG_VERSION=\"2.6 (dt dec pq3 ext lo64)\" -DPG_VERSION_HEX=0x090306 -DHAVE_LO64=1 -I/app/.heroku/python/include/python2.7 -I. -I/usr/include/postgresql -I/usr/include/postgresql/9.3/server -c psycopg/utils.c -o build/temp.linux-x86_64-2.7/psycopg/utils.o -Wdeclaration-after-statement\u001b[K"
+    ],
+    [
+      0.000029,
+      "\r\n"
+    ],
+    [
+      0.007563,
+      "remote: \u001b[1G       gcc -pthread -fno-strict-aliasing -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -fPIC -DPSYCOPG_DEFAULT_PY"
+    ],
+    [
+      0.000045,
+      "DATETIME=1 -DPSYCOPG_VERSION=\"2.6 (dt dec pq3 ext lo64)\" -DPG_VERSION_HEX=0x090306 -DHAVE_LO64=1 -I/app/.heroku/python/include/python2.7 -I. -I/usr/include/postgresql -I/usr/include/postgresql/9.3/server -c psycopg/bytes_format.c -o build/temp.linux-x86_64-2.7/psycopg/bytes_format.o -Wdeclaration-after-statement\u001b[K\r\n"
+    ],
+    [
+      0.007339,
+      "remote: \u001b[1G       gcc -pthread -fno-strict-aliasing -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -fPIC -DPSYCOPG_DEFAULT_PYDATETIME=1 -DPSYCOPG_VERSION=\"2.6 (dt dec pq3 ext lo64)\" -DPG_VERSION_HEX=0x090306 -DHAVE_LO64=1 -I/app/.heroku/python/include/python2.7 -I. -I/usr/include/postgresql -I/usr/include/postgresql/9.3/server -c psycopg/connection_int.c -o build/temp.linux-x86_64-2.7/psycopg/connection_int.o -Wdeclaration-after-statement\u001b[K\r\n"
+    ],
+    [
+      0.010521,
+      "remote: \u001b[1G       gcc -pthread -fno-strict-aliasing -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -fPIC -DPSYCOPG_DEFAULT_PYDATETIME=1 -DPSYCOPG_VERSION=\"2.6 (dt dec pq3 ext lo64)\" -DPG_VERSION_HEX=0x090306 -DHAVE_LO64=1 -I/app/.heroku/python/include/python2.7 -I. -I/usr/include/postgresql -I/usr/include/postgresql/9.3/server -c psycopg/connection_type.c -o build/temp.linux-x86_64-2.7/psycopg/connection_type.o -Wdeclaration-after-statement\u001b[K\r\n"
+    ],
+    [
+      0.003663,
+      "remote: \u001b[1G       gcc -pthread -fno-strict-aliasing -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -fPIC -DPSYCOPG_DEFAULT_PYDATETIME=1 -DPSYCOPG_VERSION=\"2.6 (dt dec pq3 ext lo64)\" -DPG_VERSION_HEX=0x090306 -DHAVE_LO64=1 -I/app/.heroku/python/include/python2.7 -I. -I/usr/include/postgresql -I/usr/include/postgresql/9.3/server -c psycopg/cursor_int.c -o build/temp.linux-x86_64-2.7/psycopg/cursor_int.o -Wdeclaration-after-statement\u001b[K"
+    ],
+    [
+      0.000026,
+      "\r\n"
+    ],
+    [
+      0.006598,
+      "remote: \u001b[1G       gcc -pthread -fno-strict-aliasing -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -fPIC -DPSYCOPG_DEFAULT_PYDATETIME=1 -DPSYCOPG_VERSION=\"2.6 (dt dec pq3 ext lo64)\" -DPG_VERSION_HEX=0x090306 -DHAVE_LO64=1 -I/app/.heroku/python/include/python2.7 -I. -I/usr/include/postgresql -I/usr/include/postgresql/9.3/server -c psycopg/cursor_type.c -o build/temp.linux-x86_64-2.7/psycopg/cursor_type.o -Wdeclaration-after-statement\u001b[K\r\n"
+    ],
+    [
+      0.202687,
+      "remote: \u001b[1G       gcc -pthread -fno-strict-aliasing -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -fPIC -DPSYCOPG_DEFAULT_PYDATETIME=1 -DPSYCOPG_VERSION=\"2.6 (dt dec pq3 ext lo64)\" -DPG_VERSION_HEX=0x090306 -DHAVE_LO64=1 -I/app/.heroku/python/include/python2.7 -I. -I/usr/include/postgresql -I/usr/include/postgresql/9.3/server -c psycopg/diagnostics_type.c -o build/temp.linux-x86_64-2.7/psycopg/diagnostics_type.o -Wdeclaration-after-statement\u001b[K\r\n"
+    ],
+    [
+      0.000035,
+      "remote: \u001b[1G       gcc -pthread -fno-strict-aliasing -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -fPIC -DPSYCOPG_DEFAULT_PYDATETIME=1 -DPSYCOPG_VERSION=\"2.6 (dt dec pq3 ext lo64)\" -DPG_VERSION_HEX=0x090306 -DHAVE_LO64=1 -I/app/.heroku/python/include/python2.7 -I. -I/usr/include/postgresql -I/usr/include/postgresql/9.3/server -c psycopg/error_type.c -o build/temp.linux-x86_64-2.7/psycopg/error_type.o -Wdeclaration-after-statement\u001b[K\r\n"
+    ],
+    [
+      0.017023,
+      "remote: \u001b[1G       gcc -pthread -fno-strict-aliasing -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -fPIC -DPSYCOPG_DEFAULT_PYDATETIME=1 -DPSYCOPG_VERSION=\"2.6 (dt dec pq3 ext lo64)\" -DPG_VERSION_HEX=0x090306 -DHAVE_LO64=1 -I/app/.heroku/python/include/python2.7 -I. -I/usr/include/postgresql -I/usr/include/postgresql/9.3/server -c psycopg/lobject_int.c -o build/temp.linux-x86_64-2.7/psycopg/lobject_int.o -Wdeclaration-after-statement\u001b[K\r\n"
+    ],
+    [
+      0.000032,
+      "remote: \u001b[1G       gcc -pthread -fno-strict-aliasing -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -fPIC -DPSYCOPG_DEFAULT_PYDATETIME=1 -DPSYCOPG_VERSION=\"2.6 (dt dec pq3 ext lo64)\" -DPG_VERSION_HEX=0x090306 -DHAVE_LO64=1 -I/app/.heroku/python/include/python2.7 -I. -I/usr/include/postgresql -I/usr/include/postgresql/9.3/server -c psycopg/lobject_type.c -o build/temp.linux-x86_64-2.7/psycopg/lobject_type.o -Wdeclaration-after-statement\u001b[K\r\n"
+    ],
+    [
+      0.000018,
+      "remote: \u001b[1G       gcc -pthread -fno-strict-aliasing -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -fPIC -DPSYCOPG_DEFAULT_PYDATETIME=1 -DPSYCOPG_VERSION=\"2.6 (dt dec pq3 ext lo64)\" -DPG_VERSION_HEX=0x090306 -DHAVE_LO64=1 -I/app/.heroku/python/include/python2.7 -I. -I/usr/include/postgresql -I/usr/include/postgresql/9.3/server -c psycopg/notify_type.c -o build/temp.linux-x86_64-"
+    ],
+    [
+      0.000018,
+      "2.7/psycopg/notify_type.o -Wdeclaration-after-statement\u001b[K"
+    ],
+    [
+      0.000017,
+      "\r\n"
+    ],
+    [
+      0.018170,
+      "remote: \u001b[1G       gcc -pthread -fno-strict-aliasing -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -fPIC -DPSYCOPG_DEFAULT_PYDATETIME=1 -DPSYCOPG_VERSION=\"2.6 (dt dec pq3 ext lo64)\" -DPG_VERSION_HEX=0x090306 -DHAVE_LO64=1 -I/app/.heroku/python/include/python2.7 -I. -I/usr/include/postgresql -I/usr/include/postgresql/9.3/server -c psycopg/xid_type.c -o build/temp.linux-x86_64-2.7/psycopg/xid_type.o -Wdeclaration-after-statement\u001b[K\r\n"
+    ],
+    [
+      0.000041,
+      "remote: \u001b[1G       gcc -pthread -fno-strict-aliasing -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -fPIC -DPSYCOPG_DEFAULT_PYDATETIME=1 -DPSYCOPG_VERSION=\"2.6 (dt dec pq3 ext lo64)\" -DPG_VERSION_HEX=0x090306 -DHAVE_LO64=1 -I/app/.heroku/python/include/python2.7 -I. -I/usr/include/postgresql -I/usr/include/postgresql/9.3/server -c psycopg/adapter_asis.c -o build/temp.linux-x86_64-2.7/psycopg/adapter_asis.o -Wdeclaration-after-statement\u001b[K\r\nremote: \u001b[1G       gcc -pthread -fno-strict-aliasing -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -fPIC -DPSYCOPG_DEFAULT_PY"
+    ],
+    [
+      0.000042,
+      "DATETIME=1 -DPSYCOPG_VERSION=\"2.6 (dt dec pq3 ext lo64)\" -DPG_VERSION_HEX=0x090306 -DHAVE_LO64=1 -I/app/.heroku/python/include/python2.7 -I. -I/usr/include/postgresql -I/usr/include/postgresql/9.3/server -c psycopg/adapter_binary.c -o build/temp.linux-x86_64-2.7/psycopg/adapter_binary.o -Wdeclaration-after-statement\u001b[K\r\n"
+    ],
+    [
+      0.016643,
+      "remote: \u001b[1G       gcc -pthread -fno-strict-aliasing -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -fPIC -DPSYCOPG_DEFAULT_PYDATETIME=1 -DPSYCOPG_VERSION=\"2.6 (dt dec pq3 ext lo64)\" -DPG_VERSION_HEX=0x090306 -DHAVE_LO64=1 -I/app/.heroku/python/include/python2.7 -I. -I/usr/include/postgresql -I/usr/include/postgresql/9.3/server -c psycopg/adapter_datetime.c -o build/temp.linux-x86_64-2.7/psycopg/adapter_datetime.o -Wdeclaration-after-statement\u001b[K\r\n"
+    ],
+    [
+      0.000038,
+      "remote: \u001b[1G       gcc -pthread -fno-strict-aliasing -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -fPIC -DPSYCOPG_DEFAULT_PYDATETIME=1 -DPSYCOPG_VERSION=\"2.6 (dt dec pq3 ext lo64)\" -DPG_VERSION_HEX=0x090306 -DHAVE_LO64=1 -I/app/.heroku/python/include/python2.7 -I. -I/usr/include/postgresql -I/usr/include/postgresql/9.3/server -c psycopg/adapter_list.c -o build/temp.linux-x86_64-2.7/psycopg/adapter_list.o -Wdeclaration-after-statement\u001b[K\r\nremote: \u001b[1G       gcc -pthread -fno-strict-aliasing -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -fPIC -DPSYCOPG_DEFAULT_PY"
+    ],
+    [
+      0.000021,
+      "DATETIME=1 -DPSYCOPG_VERSION=\"2.6 (dt dec pq3 ext lo64)\" -DPG_VERSION_HEX=0x090306 -DHAVE_LO64=1 -I/app/.heroku/python/include/python2.7 -I. -I/usr/include/postgresql -I/usr/include/postgresql/9.3/server -c psycopg/adapter_pboolean.c -o build/temp.linux-x8"
+    ],
+    [
+      0.000019,
+      "6_64-2.7/psycopg/adapter_pboolean.o -Wdeclaration-after-statement\u001b[K\r\n"
+    ],
+    [
+      0.015789,
+      "remote: \u001b[1G       gcc -pthread -fno-strict-aliasing -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -fPIC -DPSYCOPG_DEFAULT_PYDATETIME=1 -DPSYCOPG_VERSION=\"2.6 (dt dec pq3 ext lo64)\" -DPG_VERSION_HEX=0x090306 -DHAVE_LO64=1 -I/app/.heroku/python/include/python2.7 -I. -I/usr/include/postgresql -I/usr/include/postgresql/9.3/server -c psycopg/adapter_pdecimal.c -o build/temp.linux-x86_64-2.7/psycopg/adapter_pdecimal.o -Wdeclaration-after-statement\u001b[K\r\n"
+    ],
+    [
+      0.000037,
+      "remote: \u001b[1G       gcc -pthread -fno-strict-aliasing -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -fPIC -DPSYCOPG_DEFAULT_PYDATETIME=1 -DPSYCOPG_VERSION=\"2.6 (dt dec pq3 ext lo64)\" -DPG_VERSION_HEX=0x090306 -DHAVE_LO64=1 -I/app/.heroku/python/include/python2.7 -I. -I/usr/include/postgresql -I/usr/include/postgresql/9.3/server -c psycopg/adapter_pint.c -o build/temp.linux-x86_64-2.7/psycopg/adapter_pint.o -Wdeclaration-after-statement\u001b[K\r\nremote: \u001b[1G       gcc -pthread -fno-strict-aliasing -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -fPIC -DPSYCOPG_DEFAULT_PY"
+    ],
+    [
+      0.000022,
+      "DATETIME=1 -DPSYCOPG_VERSION=\"2.6 (dt dec pq3 ext lo64)\" -DPG_VERSION_HEX=0x090306 -DHAVE_LO64=1 -I/app/.heroku/python/include/python2.7 -I. -I/usr/include/postgresql -I/usr/include/postgresql/9.3/server -c psycopg/adapter_pfloat.c -o build/temp.linux-x86_"
+    ],
+    [
+      0.000018,
+      "64-2.7/psycopg/adapter_pfloat.o -Wdeclaration-after-statement\u001b[K\r\n"
+    ],
+    [
+      0.017514,
+      "remote: \u001b[1G       gcc -pthread -fno-strict-aliasing -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -fPIC -DPSYCOPG_DEFAULT_PYDATETIME=1 -DPSYCOPG_VERSION=\"2.6 (dt dec pq3 ext lo64)\" -DPG_VERSION_HEX=0x090306 -DHAVE_LO64=1 -I/app/.heroku/python/include/python2.7 -I. -I/usr/include/postgresql -I/usr/include/postgresql/9.3/server -c psycopg/adapter_qstring.c -o build/temp.linux-x86_64-2.7/psycopg/adapter_qstring.o -Wdeclaration-after-statement\u001b[K\r\n"
+    ],
+    [
+      0.000042,
+      "remote: \u001b[1G       gcc -pthread -fno-strict-aliasing -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -fPIC -DPSYCOPG_DEFAULT_PYDATETIME=1 -DPSYCOPG_VERSION=\"2.6 (dt dec pq3 ext lo64)\" -DPG_VERSION_HEX=0x090306 -DHAVE_LO64=1 -I/app/.heroku/python/include/python2.7 -I. -I/usr/include/postgresql -I/usr/include/postgresql/9.3/server -c psycopg/microprotocols.c -o build/temp.linux-x86_64-2.7/psycopg/microprotocols.o -Wdeclaration-after-statement\u001b[K\r\nremote: \u001b[1G       gcc -pthread -fno-strict-aliasing -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -fPIC -DPSYCOPG_DEFAULT_PY"
+    ],
+    [
+      0.000019,
+      "DATETIME=1 -DPSYCOPG_VERSION=\"2.6 (dt dec pq3 ext lo64)\" -DPG_VERSION_HEX=0x090306 -DHAVE_LO64=1 -I/app/.heroku/python/include/python2.7 -I. -I/usr/include/postgresql -I/usr/include/postgresql/9.3/server -c psycopg/microprotocols_proto.c -o build/temp.linux-x86_64-2.7/psycopg/microprotocols_proto.o -Wdeclaration-after-statement\u001b[K"
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.017125,
+      "remote: \u001b[1G       gcc -pthread -fno-strict-aliasing -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -fPIC -DPSYCOPG_DEFAULT_PYDATETIME=1 -DPSYCOPG_VERSION=\"2.6 (dt dec pq3 ext lo64)\" -DPG_VERSION_HEX=0x090306 -DHAVE_LO64=1 -I/app/.heroku/python/include/python2.7 -I. -I/usr/include/postgresql -I/usr/include/postgresql/9.3/server -c psycopg/typecast.c -o build/temp.linux-x86_64-2.7/psycopg/typecast.o -Wdeclaration-after-statement\u001b[K\r\n"
+    ],
+    [
+      0.011696,
+      "remote: \u001b[1G       gcc -pthread -shared build/temp.linux-x86_64-2.7/psycopg/psycopgmodule.o build/temp.linux-x86_64-2.7/psycopg/green.o build/temp.linux-x86_64-2.7/psycopg/pqpath.o build/temp.linux-x86_64-2.7/psycopg/utils.o build/temp.linux-x86_64-2.7/psycopg/bytes_format.o build/temp.linux-x86_64-2.7/psycopg/connection_int.o build/temp.linux-x86_64-2.7/psycopg/connection_type.o build/temp.linux-x86_64-2.7/psycopg/cursor_int.o build/temp.linux-x86_64-2.7/psycopg/cursor_type.o build/temp.linux-x86_64-2.7/psycopg/di"
+    ],
+    [
+      0.000038,
+      "agnostics_type.o build/temp.linux-x86_64-2.7/psycopg/error_type.o build/temp.linux-x86_64-2.7/psycopg/lobject_int.o build/temp.linux-x86_64-2.7/psycopg/lobject_type.o build/temp.linux-x86_64-2.7/psycopg/notify_type.o build/temp.linux-x86_64-2.7/psycopg/xid_type.o build/temp.linux-x86_64-2.7/psycopg/adapter_asis.o build/temp.linux-x86_64-2.7/psycopg/adapter_binary.o build/temp.linux-x86_64-2.7/psycopg/adapter_datetime.o build/temp.linux-x86_64-2.7/psycopg/adapter_list.o build/temp.linux-x86_64-2.7/psycopg/adapter_pboolean.o build/temp.linux-x86_64-2.7/psycopg/adapter_pdecimal.o build/temp.linux-x86_64-2.7/psycopg/adapter_pint.o build/temp.linux-x86_64-2.7/psycopg/adapter_pfloat.o build/temp.linux-x86_64-2.7/psycopg/adapter_qstring.o build/temp.linux-x86_64-2."
+    ],
+    [
+      0.000730,
+      "7/psycopg/microprotocols.o build/temp.linux-x86_64-2.7/psycopg/microprotocols_proto.o build/temp.linux-x86_64-2.7/psycopg/typecast.o -L/usr/lib -lpq -o build/lib.linux-x86_64-2.7/psycopg2/_psycopg.so\u001b[K\r\nremote: \u001b[1G       Running setup.py install for oauthlib\u001b[K\r\n"
+    ],
+    [
+      0.069186,
+      "remote: \u001b[1G       Running setup.py install for mock\u001b[K\r\n"
+    ],
+    [
+      0.364755,
+      "remote: \u001b[1G       Compiling /tmp/pip-build-L74tWD/gunicorn/gunicorn/workers/_gaiohttp.py\u001b[K\r\n"
+    ],
+    [
+      0.001309,
+      "remote: \u001b[1G       \u001b[K\r\n"
+    ],
+    [
+      0.002182,
+      "remote: \u001b[1G       \u001b[K\r\n"
+    ],
+    [
+      0.042510,
+      "remote: \u001b[1G       Running setup.py install for docutils\u001b[K\r\n"
+    ],
+    [
+      0.799680,
+      "remote: \u001b[1G       changing mode of build/scripts-2.7/rst2html.py from 644 to 755\u001b[K\r\n"
+    ],
+    [
+      0.002620,
+      "remote: \u001b[1G       changing mode of build/scripts-2.7/rst2s5.py from 644 to 755\u001b[K\r\n"
+    ],
+    [
+      0.004967,
+      "remote: \u001b[1G       changing mode of build/scripts-2.7/rst2latex.py from 644 to 755\u001b[K\r\n"
+    ],
+    [
+      0.001478,
+      "remote: \u001b[1G       changing mode of build/scripts-2.7/rst2xetex.py from 644 to 755\u001b[K\r\n"
+    ],
+    [
+      0.002813,
+      "remote: \u001b[1G       changing mode of build/scripts-2.7/rst2man.py from 644 to 755\u001b[K\r\n"
+    ],
+    [
+      0.002097,
+      "remote: \u001b[1G       changing mode of build/scripts-2.7/rst2xml.py from 644 to 755\u001b[K\r\n"
+    ],
+    [
+      0.004276,
+      "remote: \u001b[1G       changing mode of build/scripts-2.7/rst2pseudoxml.py from 644 to 755\u001b[K\r\nremote: \u001b[1G       changing mode of build/scripts-2.7/rstpep2html.py from 644 to 755\u001b[K\r\n"
+    ],
+    [
+      0.002935,
+      "remote: \u001b[1G       changing mode of build/scripts-2.7/rst2odt.py from 644 to 755\u001b[K\r\n"
+    ],
+    [
+      0.003888,
+      "remote: \u001b[1G       changing mode of build/scripts-2.7/rst2odt_prepstyles.py from 644 to 755\u001b[K\r\n"
+    ],
+    [
+      0.236341,
+      "remote: \u001b[1G       changing mode of /app/.heroku/python/bin/rst2odt_prepstyles.py to 755\u001b[K\r\nremote: \u001b[1G       changing mode of /app/.heroku/python/bin/rst2man.py to 755\u001b[K\r\nremote: \u001b[1G       changing mode of /app/.heroku/python/bin/rst2s5.py to 755\u001b[K\r\n"
+    ],
+    [
+      0.000100,
+      "remote: \u001b[1G       changing mode of /app/.heroku/python/bin/rstpep2html.py to 755\u001b[K\r\nremote: \u001b[1G       changing mode of /app/.heroku/python/bin/rst2odt.py to 755\u001b[K\r\nremote: \u001b[1G       changing mode of /app/.heroku/python/bin/rst2xetex.py to 755\u001b[K\r\nremote: \u001b[1G       changing mode of /app/.heroku/python/bin/rst2latex.py to 755\u001b[K\r\nremote: \u001b[1G       changing mode of /app/.heroku/python/bin/rst2pseudoxml.py to 755\u001b[K\r\nremote: \u001b[1G       changing mode of /app/.heroku/python/bin/rst2xml.py to 755\u001b[K\r\nremote: \u001b[1G       changing mode of /app/.heroku/python/bin/rst2html.py to 755\u001b[K\r\nremote: \u001b[1G       Running setup.py install for django-secure\u001b[K\r\n"
+    ],
+    [
+      0.059697,
+      "remote: \u001b[1G       Running setup.py install for django-model-utils\u001b[K\r\n"
+    ],
+    [
+      0.311549,
+      "remote: \u001b[1G       Running setup.py install for django-floppyforms\u001b[K\r\n"
+    ],
+    [
+      0.473837,
+      "remote: \u001b[1G       \u001b[K\r\n"
+    ],
+    [
+      0.250215,
+      "remote: \u001b[1G       \u001b[K\r\n"
+    ],
+    [
+      0.081178,
+      "remote: \u001b[1G       Running setup.py install for django-crispy-forms\u001b[K\r\n"
+    ],
+    [
+      0.447255,
+      "remote: \u001b[1G       \u001b[K\r\n"
+    ],
+    [
+      0.023788,
+      "remote: \u001b[1G       \u001b[K\r\n"
+    ],
+    [
+      0.025551,
+      "remote: \u001b[1G       \u001b[K\r\n"
+    ],
+    [
+      0.013015,
+      "remote: \u001b[1G       Running setup.py install for django-avatar\u001b[K\r\n"
+    ],
+    [
+      0.343140,
+      "remote: \u001b[1G       Running setup.py install for django-autoslug\u001b[K\r\n"
+    ],
+    [
+      0.255570,
+      "remote: \u001b[1G       \u001b[K\r\n"
+    ],
+    [
+      0.005747,
+      "remote: \u001b[1G       Running setup.py install for django-allauth\u001b[K\r\n"
+    ],
+    [
+      1.089033,
+      "remote: \u001b[1G       \u001b[K\r\n"
+    ],
+    [
+      0.017416,
+      "remote: \u001b[1G       Running setup.py install for coverage\u001b[K\r\n"
+    ],
+    [
+      0.674299,
+      "remote: \u001b[1G       building 'coverage.tracer' extension\u001b[K\r\n"
+    ],
+    [
+      0.000572,
+      "remote: \u001b[1G       gcc -pthread -fno-strict-aliasing -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -fPIC -I/app/.heroku/python/include/python2.7 -c coverage/tracer.c -o build/temp.linux-x86_64-2.7/coverage/tracer.o\u001b[K\r\n"
+    ],
+    [
+      0.003817,
+      "remote: \u001b[1G       gcc -pthread -shared build/temp.linux-x86_64-2.7/coverage/tracer.o -o build/lib.linux-x86_64-2.7/coverage/tracer.so\u001b[K\r\n"
+    ],
+    [
+      0.002479,
+      "remote: \u001b[1G       Installing coverage2 script to /app/.heroku/python/bin\u001b[K\r\n"
+    ],
+    [
+      0.002306,
+      "remote: \u001b[1G       Installing coverage-2.7 script to /app/.heroku/python/bin\u001b[K\r\n"
+    ],
+    [
+      0.002168,
+      "remote: \u001b[1G       Installing coverage script to /app/.heroku/python/bin\u001b[K\r\n"
+    ],
+    [
+      0.017718,
+      "remote: \u001b[1G       \u001b[K\r\n"
+    ],
+    [
+      0.065175,
+      "remote: \u001b[1G       \u001b[K\r\n"
+    ],
+    [
+      0.015474,
+      "remote: \u001b[1G       Running setup.py install for binaryornot\u001b[K\r\n"
+    ],
+    [
+      0.300802,
+      "remote: \u001b[1G       Running setup.py install for argparse\u001b[K\r\n"
+    ],
+    [
+      0.263843,
+      "remote: \u001b[1G       Running setup.py install for alabaster\u001b[K\r\n"
+    ],
+    [
+      0.253845,
+      "remote: \u001b[1G       Running setup.py install for Werkzeug\u001b[K\r\n"
+    ],
+    [
+      0.471186,
+      "remote: \u001b[1G       Running setup.py install for Unidecode\u001b[K\r\n"
+    ],
+    [
+      0.793447,
+      "remote: \u001b[1G       /app/.heroku/python/lib/python2.7/site-packages/setuptools-11.3.1-py2.7.egg/setuptools/dist.py:283: UserWarning: The version specified requires normalization, consider using '0.4.17' instead of '0.04.17'.\u001b[K\r\n"
+    ],
+    [
+      0.625611,
+      "remote: \u001b[1G       \u001b[K\r\n"
+    ],
+    [
+      1.016479,
+      "remote: \u001b[1G       \u001b[K\r\n"
+    ],
+    [
+      0.162264,
+      "remote: \u001b[1G       Running setup.py install for PyYAML\u001b[K\r\n"
+    ],
+    [
+      0.494431,
+      "remote: \u001b[1G       checking if libyaml is compilable\u001b[K\r\n"
+    ],
+    [
+      0.000271,
+      "remote: \u001b[1G       gcc -pthread -fno-strict-aliasing -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -fPIC -I/app/.heroku/python/include/python2.7 -c build/temp.linux-x86_64-2.7/check_libyaml.c -o build/temp.linux-x86_64-2.7/check_libyaml.o\u001b[K\r\n"
+    ],
+    [
+      0.002918,
+      "remote: \u001b[1G       build/temp.linux-x86_64-2.7/check_libyaml.c:2:18: fatal error: yaml.h: No such file or directory\u001b[K\r\n"
+    ],
+    [
+      0.002466,
+      "remote: \u001b[1G       #include \u003cyaml.h\u003e\u001b[K\r\n"
+    ],
+    [
+      0.001501,
+      "remote: \u001b[1G       ^\u001b[K\r\n"
+    ],
+    [
+      0.005432,
+      "remote: \u001b[1G       compilation terminated.\u001b[K\r\n"
+    ],
+    [
+      0.000309,
+      "remote: \u001b[1G       libyaml is not found or a compiler error: forcing --without-libyaml\u001b[K\r\n"
+    ],
+    [
+      0.001274,
+      "remote: \u001b[1G       (if libyaml is installed correctly, you may need to\u001b[K\r\n"
+    ],
+    [
+      0.002247,
+      "remote: \u001b[1G       specify the option --include-dirs or uncomment and\u001b[K\r\n"
+    ],
+    [
+      0.002912,
+      "remote: \u001b[1G       modify the parameter include_dirs in setup.cfg)\u001b[K\r\n"
+    ],
+    [
+      0.227983,
+      "remote: \u001b[1G       Running setup.py install for Pillow\u001b[K\r\n"
+    ],
+    [
+      25.731466,
+      "remote: \u001b[1G       Single threaded build, not installing mp_compile: 1 processes\u001b[K\r\n"
+    ],
+    [
+      0.002272,
+      "remote: \u001b[1G       building 'PIL._imaging' extension\u001b[K"
+    ],
+    [
+      0.000026,
+      "\r\n"
+    ],
+    [
+      0.006542,
+      "remote: \u001b[1G       gcc -pthread -fno-strict-aliasing -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -fPIC -DHAVE_LIBJPEG -DHAVE_LIBZ -DHAVE_LIBTIFF -I/usr/include/freetype2 -I/tmp/pip-build-L74tWD/Pillow/libImaging -I/app/.heroku/python/include -I/usr/local/include -I/usr/include -I/app/.heroku/python/include/python2.7 -I/usr/include/x86_64-linux-gnu -c _imaging.c -o build/temp.linux-x86_64-2.7/_imaging.o\u001b[K\r\n"
+    ],
+    [
+      0.005580,
+      "remote: \u001b[1G       gcc -pthread -fno-strict-aliasing -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -fPIC -DHAVE_LIBJPEG -DHAVE_LIBZ -DHAVE_LIBTIFF -I/usr/include/freetype2 -I/tmp/pip-build-L74tWD/Pillow/libImaging -I/app/.heroku/python/include -I/usr/lo"
+    ],
+    [
+      0.000027,
+      "cal/include -I/usr/include -I/app/.heroku/python/include/python2.7 -I/usr/include/x86_64-linux-gnu -c decode.c -o build/temp.linux-x86_64-2.7/decode.o\u001b[K\r\n"
+    ],
+    [
+      0.008145,
+      "remote: \u001b[1G       gcc -pthread -fno-strict-aliasing -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -fPIC -DHAVE_LIBJPEG -DHAVE_LIBZ -DHAVE_LIBTIFF -I/usr/include/freetype2 -I/tmp/pip-build-L74tWD/Pillow/libImaging -I/app/.heroku/python/include -I/usr/local/include -I/usr/include -I/app/.heroku/python/include/python2.7 -I/usr/include/x86_64-linux-gnu -c encode.c -o build/temp.linux-x86_64-2.7/encode.o\u001b[K\r\n"
+    ],
+    [
+      0.008379,
+      "remote: \u001b[1G       gcc -pthread -fno-strict-aliasing -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -fPIC -DHAVE_LIBJPEG -DHAVE_LIBZ -DHAVE_LIBTIFF -I/usr/include/freetype2 -I/tmp/pip-build-L74tWD/Pillow/libImaging -I/app/.heroku/python/include -I/usr/local/include -I/usr/include -I/app/.heroku/python/include/python2.7 -I/usr/include/x86_64-linux-gnu -c map.c -o build/temp.linux-x86_64-2.7/map.o\u001b[K\r\n"
+    ],
+    [
+      0.004765,
+      "remote: \u001b[1G       gcc -pthread -fno-strict-aliasing -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -fPIC -DHAVE_LIBJPEG -DHAVE_LIBZ -DHAVE_LIBTIFF -I/usr/include/freetype2 -I/tmp/pip-build-L74tWD/Pillow/libImaging -I/app/.heroku/python/include -I/usr/lo"
+    ],
+    [
+      0.000031,
+      "cal/include -I/usr/include -I/app/.heroku/python/include/python2.7 -I/usr/include/x86_64-linux-gnu -c display.c -o build/temp.linux-x86_64-2.7/display.o\u001b[K\r\n"
+    ],
+    [
+      0.007526,
+      "remote: \u001b[1G       gcc -pthread -fno-strict-aliasing -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -fPIC -DHAVE_LIBJPEG -DHAVE_LIBZ -DHAVE_LIBTIFF -I/usr/include/freetype2 -I/tmp/pip-build-L74tWD/Pillow/libImaging -I/app/.heroku/python/include -I/usr/local/include -I/usr/include -I/app/.heroku/python/include/python2.7 -I/usr/include/x86_64-linux-gnu -c outline.c -o build/temp.linux-x86_64-2.7/outline.o\u001b[K\r\n"
+    ],
+    [
+      0.006198,
+      "remote: \u001b[1G       gcc -pthread -fno-strict-aliasing -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -fPIC -DHAVE_LIBJPEG -DHAVE_LIBZ -DHAVE_LIBTIFF -I/usr/include/freetype2 -I/tmp/pip-build-L74tWD/Pillow/libImaging -I/app/.heroku/python/include -I/usr/lo"
+    ],
+    [
+      0.000028,
+      "cal/include -I/usr/include -I/app/.heroku/python/include/python2.7 -I/usr/include/x86_64-linux-gnu -c path.c -o build/temp.linux-x86_64-2.7/path.o\u001b[K\r\n"
+    ],
+    [
+      0.006320,
+      "remote: \u001b[1G       gcc -pthread -fno-strict-aliasing -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -fPIC -DHAVE_LIBJPEG -DHAVE_LIBZ -DHAVE_LIBTIFF -I/usr/include/freetype2 -I/tmp/pip-build-L74tWD/Pillow/libImaging -I/app/.heroku/python/include -I/usr/local/include -I/usr/include -I/app/.heroku/python/include/python2.7 -I/usr/include/x86_64-linux-gnu -c libImaging/Access.c -o build/temp.linux-x86_64-2.7/libImaging/Access.o\u001b[K\r\n"
+    ],
+    [
+      0.208788,
+      "remote: \u001b[1G       gcc -pthread -fno-strict-aliasing -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -fPIC -DHAVE_LIBJPEG -DHAVE_LIBZ -DHAVE_LIBTIFF -I/usr/include/freetype2 -I/tmp/pip-build-L74tWD/Pillow/libImaging -I/app/.heroku/python/include -I/usr/local/include -I/usr/include -I/app/.heroku/python/include/python2.7 -I/usr/include/x86_64-linux-gnu -c libImaging/AlphaComposite.c -o build/temp.linux-x86_64-2.7/libImaging/AlphaComposite.o\u001b[K\r\n"
+    ],
+    [
+      0.000058,
+      "remote: \u001b[1G       gcc -pthread -fno-strict-aliasing -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -fPIC -DHAVE_LIBJPEG -DHAVE_LIBZ -DHAVE_LIBTIFF -I/usr/include/freetype2 -I/tmp/pip-build-L74tWD/Pillow/libImaging -I/app/.heroku/python/include -I/usr/local/include -I/usr/include -I/app/.heroku/python/include/python2.7 -I/usr/include/x86_64-linux-gnu -c libImaging/Resample.c -o build/temp.linux-x86_64-2.7/libImaging/Resample.o\u001b[K\r\nremote: \u001b[1G       libImaging/Resample.c:87:45: warning: always_inline function might not be inlinable [-Wattributes]\u001b[K\r\nremote: \u001b[1G       static float __attribute__((always_inline)) i2f(int v) {\u001b[K\r\n"
+    ],
+    [
+      0.000019,
+      "remote: \u001b[1G       ^\u001b[K\r\n"
+    ],
+    [
+      0.016983,
+      "remote: \u001b[1G       gcc -pthread -fno-strict-aliasing -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -fPIC -DHAVE_LIBJPEG -DHAV"
+    ],
+    [
+      0.000038,
+      "E_LIBZ -DHAVE_LIBTIFF -I/usr/include/freetype2 -I/tmp/pip-build-L74tWD/Pillow/libImaging -I/app/.heroku/python/include -I/usr/local/include -I/usr/include -I/app/.heroku/python/include/python2.7 -I/usr/include/x86_64-linux-gnu -c libImaging/Bands.c -o build/temp.linux-x86_64-2.7/libImaging/Bands.o\u001b[K\r\nremote: \u001b[1G       gcc -pthread -fno-strict-aliasing -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -fPIC -DHAVE_LIBJPEG -DHAV"
+    ],
+    [
+      0.000019,
+      "E_LIBZ -DHAVE_LIBTIFF -I/usr/include/freetype2 -I/tmp/pip-build-L74tWD/Pillow/libImaging -I/app/.heroku/python/include -I/usr/local/include -I/usr/include -I/app/.heroku/python/include/python2.7 -I/usr/include/x86_64-linux-gnu -c libImaging/BitDecode.c -o "
+    ],
+    [
+      0.000019,
+      "build/temp.linux-x86_64-2.7/libImaging/BitDecode.o\u001b[K\r\n"
+    ],
+    [
+      0.000014,
+      "remote: \u001b[1G       gcc -pthread -fno-strict-aliasing -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -fPIC -DHAVE_LIBJPEG -DHAV"
+    ],
+    [
+      0.000013,
+      "E_LIBZ -DHAVE_LIBTIFF -I/usr/include/freetype2 -I/tmp/pip-build-L74tWD/Pillow/libImaging -I/app/.heroku/python/include -I/usr/lo"
+    ],
+    [
+      0.000058,
+      "cal/include -I/usr/include -I/app/.heroku/python/include/python2.7 -I/usr/include/x86_64-linux-gnu -c libImaging/Blend.c -o buil"
+    ],
+    [
+      0.000019,
+      "d/temp.linux-x86_64-2.7/libImaging/Blend.o\u001b[K\r\n"
+    ],
+    [
+      0.017009,
+      "remote: \u001b[1G       gcc -pthread -fno-strict-aliasing -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -fPIC -DHAVE_LIBJPEG -DHAVE_LIBZ -DHAVE_LIBTIFF -I/usr/include/freetype2 -I/tmp/pip-build-L74tWD/Pillow/libImaging -I/app/.heroku/python/include -I/usr/local/include -I/usr/include -I/app/.heroku/python/include/python2.7 -I/usr/include/x86_64-linux-gnu -c libImaging/Chops.c -o build/temp.linux-x86_64-2.7/libImaging/Chops.o\u001b[K\r\n"
+    ],
+    [
+      0.000038,
+      "remote: \u001b[1G       gcc -pthread -fno-strict-aliasing -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -fPIC -DHAVE_LIBJPEG -DHAVE_LIBZ -DHAVE_LIBTIFF -I/usr/include/freetype2 -I/tmp/pip-build-L74tWD/Pillow/libImaging -I/app/.heroku/python/include -I/usr/local/include -I/usr/include -I/app/.heroku/python/include/python2.7 -I/usr/include/x86_64-linux-gnu -c libImaging/Convert.c -o build/temp.linux-x86_64-2.7/libImaging/Convert.o\u001b[K\r\nremote: \u001b[1G       gcc -pthread -fno-strict-aliasing -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -fPIC -DHAVE_LIBJPEG -DHAV"
+    ],
+    [
+      0.000026,
+      "E_LIBZ -DHAVE_LIBTIFF -I/usr/include/freetype2 -I/tmp/pip-build-L74tWD/Pillow/libImaging -I/app/.heroku/python/include -I/usr/local/include -I/usr/include -I/app/.heroku/python/include/python2.7 -I/usr/include/x86_64-linux-gnu -c libImaging/ConvertYCbCr.c "
+    ],
+    [
+      0.000019,
+      "-o build/temp.linux-x86_64-2.7/libImaging/ConvertYCbCr.o\u001b[K\r\n"
+    ],
+    [
+      0.016279,
+      "remote: \u001b[1G       gcc -pthread -fno-strict-aliasing -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -fPIC -DHAVE_LIBJPEG -DHAVE_LIBZ -DHAVE_LIBTIFF -I/usr/include/freetype2 -I/tmp/pip-build-L74tWD/Pillow/libImaging -I/app/.heroku/python/include -I/usr/local/include -I/usr/include -I/app/.heroku/python/include/python2.7 -I/usr/include/x86_64-linux-gnu -c libImaging/Copy.c -o build/temp.linux-x86_64-2.7/libImaging/Copy.o\u001b[K\r\n"
+    ],
+    [
+      0.000057,
+      "remote: \u001b[1G       gcc -pthread -fno-strict-aliasing -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -fPIC -DHAVE_LIBJPEG -DHAVE_LIBZ -DHAVE_LIBTIFF -I/usr/include/freetype2 -I/tmp/pip-build-L74tWD/Pillow/libImaging -I/app/.heroku/python/include -I/usr/local/include -I/usr/include -I/app/.heroku/python/include/python2.7 -I/usr/include/x86_64-linux-gnu -c libImaging/Crc32.c -o build/temp.linux-x86_64-2.7/libImaging/Crc32.o\u001b[K\r\nremote: \u001b[1G       gcc -pthread -fno-strict-aliasing -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -fPIC -DHAVE_LIBJPEG -DHAVE_LIBZ -DHAVE_LIBTIFF -I/usr/include/freetype2 -I/tmp/pip-build-L74tWD/Pillow/libImaging -I/app/.heroku/python/include -I/usr/lo"
+    ],
+    [
+      0.000034,
+      "cal/include -I/usr/include -I/app/.heroku/python/include/python2.7 -I/usr/include/x86_64-linux-gnu -c libImaging/Crop.c -o build/temp.linux-x86_64-2.7/libImaging/Crop.o\u001b[K\r\n"
+    ],
+    [
+      0.018146,
+      "remote: \u001b[1G       gcc -pthread -fno-strict-aliasing -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -fPIC -DHAVE_LIBJPEG -DHAVE_LIBZ -DHAVE_LIBTIFF -I/usr/include/freetype2 -I/tmp/pip-build-L74tWD/Pillow/libImaging -I/app/.heroku/python/include -I/usr/local/include -I/usr/include -I/app/.heroku/python/include/python2.7 -I/usr/include/x86_64-linux-gnu -c libImaging/Dib.c -o build/temp.linux-x86_64-2.7/libImaging/Dib.o\u001b[K"
+    ],
+    [
+      0.000070,
+      "\r\nremote: \u001b[1G       gcc -pthread -fno-strict-aliasing -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -fPIC -DHAVE_LIBJPEG -DHAVE_LIBZ -DHAVE_LIBTIFF -I/usr/include/freetype2 -I/tmp/pip-build-L74tWD/Pillow/libImaging -I/app/.heroku/python/include -I/usr/local/include -I/usr/include -I/app/.heroku/python/include/python2.7 -I/usr/include/x86_64-linux-gnu -c libImaging/Draw.c -o build/temp.linux-x86_64-2.7/libImaging/Draw.o\u001b[K\r\nremote: \u001b[1G       gcc -pthread -fno-strict-aliasing -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -fPIC -DHAVE_LIBJPEG -DHAV"
+    ],
+    [
+      0.000035,
+      "E_LIBZ -DHAVE_LIBTIFF -I/usr/include/freetype2 -I/tmp/pip-build-L74tWD/Pillow/libImaging -I/app/.heroku/python/include -I/usr/local/include -I/usr/include -I/app/.heroku/python/include/python2.7 -I/usr/include/x86_64-linux-gnu -c libImaging/Effects.c -o build/temp.linux-x86_64-2.7/libImaging/Effects.o\u001b[K\r\n"
+    ],
+    [
+      0.019306,
+      "remote: \u001b[1G       gcc -pthread -fno-strict-aliasing -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -fPIC -DHAVE_LIBJPEG -DHAVE_LIBZ -DHAVE_LIBTIFF -I/usr/include/freetype2 -I/tmp/pip-build-L74tWD/Pillow/libImaging -I/app/.heroku/python/include -I/usr/local/include -I/usr/include -I/app/.heroku/python/include/python2.7 -I/usr/include/x86_64-linux-gnu -c libImaging/EpsEncode.c -o build/temp.linux-x86_64-2.7/libImaging/EpsEncode.o\u001b[K\r\n"
+    ],
+    [
+      0.000069,
+      "remote: \u001b[1G       gcc -pthread -fno-strict-aliasing -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -fPIC -DHAVE_LIBJPEG -DHAVE_LIBZ -DHAVE_LIBTIFF -I/usr/include/freetype2 -I/tmp/pip-build-L74tWD/Pillow/libImaging -I/app/.heroku/python/include -I/usr/local/include -I/usr/include -I/app/.heroku/python/include/python2.7 -I/usr/include/x86_64-linux-gnu -c libImaging/File.c -o build/temp.linux-x86_64-2.7/libImaging/File.o\u001b[K\r\nremote: \u001b[1G       gcc -pthread -fno-strict-aliasing -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -fPIC -DHAVE_LIBJPEG -DHAVE_LIBZ -DHAVE_LIBTIFF -I/usr/include/freetype2 -I/tmp/pip-build-L74tWD/Pillow/libImaging -I/app/.heroku/python/include -I/usr/local/include -I/usr/include -I/app/.heroku/python/include/python2.7 -I/usr/include/x86_64-linux-gnu -c libImaging/Fill.c -o build/temp.linux-x86_64-2.7/libImaging/Fill.o\u001b[K\r\n"
+    ],
+    [
+      0.014388,
+      "remote: \u001b[1G       gcc -pthread -fno-strict-aliasing -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -fPIC -DHAVE_LIBJPEG -DHAV"
+    ],
+    [
+      0.000063,
+      "E_LIBZ -DHAVE_LIBTIFF -I/usr/include/freetype2 -I/tmp/pip-build-L74tWD/Pillow/libImaging -I/app/.heroku/python/include -I/usr/local/include -I/usr/include -I/app/.heroku/python/include/python2.7 -I/usr/include/x86_64-linux-gnu -c libImaging/Filter.c -o build/temp.linux-x86_64-2.7/libImaging/Filter.o\u001b[K\r\nremote: \u001b[1G       gcc -pthread -fno-strict-aliasing -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -fPIC -DHAVE_LIBJPEG -DHAVE_LIBZ -DHAVE_LIBTIFF -I/usr/include/freetype2 -I/tmp/pip-build-L74tWD/Pillow/libImaging -I/app/.heroku/python/include -I/usr/local/include -I/usr/include -I/app/.heroku/python/include/python2.7 -I/usr/include/x86_64-linux-gnu -c libImaging/FliDecode.c -o "
+    ],
+    [
+      0.000061,
+      "build/temp.linux-x86_64-2.7/libImaging/FliDecode.o\u001b[K\r\nremote: \u001b[1G       gcc -pthread -fno-strict-aliasing -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -fPIC -DHAVE_LIBJPEG -DHAVE_LIBZ -DHAVE_LIBTIFF -I/usr/include/freetype2 -I/tmp/pip-build-L74tWD/Pillow/libImaging -I/app/.heroku/python/include -I/usr/local/include -I/usr/include -I/app/.heroku/python/include/python2.7 -I/usr/include/x86_64-linux-gnu -c libImaging/Geometry.c -o build/temp.linux-x86_64-2.7/libImaging/Geometry.o\u001b[K\r\n"
+    ],
+    [
+      0.017944,
+      "remote: \u001b[1G       gcc -pthread -fno-strict-aliasing -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -fPIC -DHAVE_LIBJPEG -DHAVE_LIBZ -DHAVE_LIBTIFF -I/usr/include/freetype2 -I/tmp/pip-build-L74tWD/Pillow/libImaging -I/app/.heroku/python/include -I/usr/local/include -I/usr/include -I/app/.heroku/python/include/python2.7 -I/usr/include/x86_64-linux-gnu -c libImaging/GetBBox.c -o build/temp.linux-x86_64-2.7/libImaging/GetBBox.o\u001b[K\r\n"
+    ],
+    [
+      0.000073,
+      "remote: \u001b[1G       gcc -pthread -fno-strict-aliasing -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -fPIC -DHAVE_LIBJPEG -DHAVE_LIBZ -DHAVE_LIBTIFF -I/usr/include/freetype2 -I/tmp/pip-build-L74tWD/Pillow/libImaging -I/app/.heroku/python/include -I/usr/local/include -I/usr/include -I/app/.heroku/python/include/python2.7 -I/usr/include/x86_64-linux-gnu -c libImaging/GifDecode.c -o build/temp.linux-x86_64-2.7/libImaging/GifDecode.o\u001b[K\r\nremote: \u001b[1G       gcc -pthread -fno-strict-aliasing -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -fPIC -DHAVE_LIBJPEG -DHAVE_LIBZ -DHAVE_LIBTIFF -I/usr/include/freetype2 -I/tmp/pip-build-L74tWD/Pillow/libImaging -I/app/.heroku/python/include -I/usr/local/include -I/usr/include -I/app/.heroku/python/include/python2.7 -I/usr/include/x86_64-linux-gnu -c libImaging/GifEncode.c -o build/temp.linux-x86_64-2.7/libImaging/GifEncode.o\u001b[K\r\n"
+    ],
+    [
+      0.016635,
+      "remote: \u001b[1G       gcc -pthread -fno-strict-aliasing -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -fPIC -DHAVE_LIBJPEG -DHAVE_LIBZ -DHAVE_LIBTIFF -I/usr/include/freetype2 -I/tmp/pip-build-L74tWD/Pillow/libImaging -I/app/.heroku/python/include -I/usr/local/include -I/usr/include -I/app/.heroku/python/include/python2.7 -I/usr/include/x86_64-linux-gnu -c libImaging/HexDecode.c -o build/temp.linux-x86_64-2.7/libImaging/HexDecode.o\u001b[K"
+    ],
+    [
+      0.000052,
+      "\r\nremote: \u001b[1G       gcc -pthread -fno-strict-aliasing -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -fPIC -DHAVE_LIBJPEG -DHAVE_LIBZ -DHAVE_LIBTIFF -I/usr/include/freetype2 -I/tmp/pip-build-L74tWD/Pillow/libImaging -I/app/.heroku/python/include -I/usr/local/include -I/usr/include -I/app/.heroku/python/include/python2.7 -I/usr/include/x86_64-linux-gnu -c libImaging/Histo.c -o buil"
+    ],
+    [
+      0.000039,
+      "d/temp.linux-x86_64-2.7/libImaging/Histo.o\u001b[K\r\nremote: \u001b[1G       gcc -pthread -fno-strict-aliasing -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -fPIC -DHAVE_LIBJPEG -DHAV"
+    ],
+    [
+      0.000024,
+      "E_LIBZ -DHAVE_LIBTIFF -I/usr/include/freetype2 -I/tmp/pip-build-L74tWD/Pillow/libImaging -I/app/.heroku/python/include -I/usr/local/include -I/usr/include -I/app/.heroku/python/include/python2.7 -I/usr/include/x86_64-linux-gnu -c libImaging/JpegDecode.c -o"
+    ],
+    [
+      0.000029,
+      " build/temp.linux-x86_64-2.7/libImaging/JpegDecode.o\u001b[K\r\n"
+    ],
+    [
+      0.020542,
+      "remote: \u001b[1G       gcc -pthread -fno-strict-aliasing -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -fPIC -DHAVE_LIBJPEG -DHAV"
+    ],
+    [
+      0.000043,
+      "E_LIBZ -DHAVE_LIBTIFF -I/usr/include/freetype2 -I/tmp/pip-build-L74tWD/Pillow/libImaging -I/app/.heroku/python/include -I/usr/local/include -I/usr/include -I/app/.heroku/python/include/python2.7 -I/usr/include/x86_64-linux-gnu -c libImaging/JpegEncode.c -o build/temp.linux-x86_64-2.7/libImaging/JpegEncode.o\u001b[K\r\n"
+    ],
+    [
+      0.000028,
+      "remote: \u001b[1G       gcc -pthread -fno-strict-aliasing -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -fPIC -DHAVE_LIBJPEG -DHAVE_LIBZ -DHAVE_LIBTIFF -I/usr/include/freetype2 -I/tmp/pip-build-L74tWD/Pillow/libImaging -I/app/.heroku/python/include -I/usr/local/include -I/usr/include -I/app/.heroku/python/include/python2.7 -I/usr/include/x86_64-linux-gnu -c libImaging/LzwDecode.c -o "
+    ],
+    [
+      0.000027,
+      "build/temp.linux-x86_64-2.7/libImaging/LzwDecode.o\u001b[K\r\n"
+    ],
+    [
+      0.000069,
+      "remote: \u001b[1G       gcc -pthread -fno-strict-aliasing -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -fPIC -DHAVE_LIBJPEG -DHAV"
+    ],
+    [
+      0.000041,
+      "E_LIBZ -DHAVE_LIBTIFF -I/usr/include/freetype2 -I/tmp/pip-build-L74tWD/Pillow/libImaging -I/app/.heroku/python/include -I/usr/local/include -I/usr/include -I/app/.heroku/python/include/python2.7 -I/usr/include/x86_64-linux-gnu -c libImaging/Matrix.c -o build/temp.linux-x86_64-2.7/libImaging/Matrix.o\u001b[K\r\n"
+    ],
+    [
+      0.013648,
+      "remote: \u001b[1G       gcc -pthread -fno-strict-aliasing -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -fPIC -DHAVE_LIBJPEG -DHAV"
+    ],
+    [
+      0.000032,
+      "E_LIBZ -DHAVE_LIBTIFF -I/usr/include/freetype2 -I/tmp/pip-build-L74tWD/Pillow/libImaging -I/app/.heroku/python/include -I/usr/local/include -I/usr/include -I/app/.heroku/python/include/python2.7 -I/usr/include/x86_64-linux-gnu -c libImaging/ModeFilter.c -o build/temp.linux-x86_64-2.7/libImaging/ModeFilter.o\u001b[K"
+    ],
+    [
+      0.000041,
+      "\r\nremote: \u001b[1G       gcc -pthread -fno-strict-aliasing -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -fPIC -DHAVE_LIBJPEG -DHAV"
+    ],
+    [
+      0.000022,
+      "E_LIBZ -DHAVE_LIBTIFF -I/usr/include/freetype2 -I/tmp/pip-build-L74tWD/Pillow/libImaging -I/app/.heroku/python/include -I/usr/local/include -I/usr/include -I/app/.heroku/python/include/python2.7 -I/usr/include/x86_64-linux-gnu -c libImaging/MspDecode.c -o "
+    ],
+    [
+      0.000029,
+      "build/temp.linux-x86_64-2.7/libImaging/MspDecode.o\u001b[K\r\n"
+    ],
+    [
+      0.017303,
+      "remote: \u001b[1G       gcc -pthread -fno-strict-aliasing -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -fPIC -DHAVE_LIBJPEG -DHAV"
+    ],
+    [
+      0.000041,
+      "E_LIBZ -DHAVE_LIBTIFF -I/usr/include/freetype2 -I/tmp/pip-build-L74tWD/Pillow/libImaging -I/app/.heroku/python/include -I/usr/local/include -I/usr/include -I/app/.heroku/python/include/python2.7 -I/usr/include/x86_64-linux-gnu -c libImaging/Negative.c -o build/temp.linux-x86_64-2.7/libImaging/Negative.o\u001b[K\r\n"
+    ],
+    [
+      0.000026,
+      "remote: \u001b[1G       gcc -pthread -fno-strict-aliasing -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -fPIC -DHAVE_LIBJPEG -DHAVE_LIBZ -DHAVE_LIBTIFF -I/usr/include/freetype2 -I/tmp/pip-build-L74tWD/Pillow/libImaging -I/app/.heroku/python/include -I/usr/lo"
+    ],
+    [
+      0.000022,
+      "cal/include -I/usr/include -I/app/.heroku/python/include/python2.7 -I/usr/include/x86_64-linux-gnu -c libImaging/Offset.c -o bui"
+    ],
+    [
+      0.000027,
+      "ld/temp.linux-x86_64-2.7/libImaging/Offset.o\u001b[K\r\n"
+    ],
+    [
+      0.000021,
+      "remote: \u001b[1G       gcc -pthread -fno-strict-aliasing -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -fPIC -DHAVE_LIBJPEG -DHAV"
+    ],
+    [
+      0.000021,
+      "E_LIBZ -DHAVE_LIBTIFF -I/usr/include/freetype2 -I/tmp/pip-build-L74tWD/Pillow/libImaging -I/app/.heroku/python/include -I/usr/lo"
+    ],
+    [
+      0.000025,
+      "cal/include -I/usr/include -I/app/.heroku/python/include/python2.7 -I/usr/include/x86_64-linux-gnu -c libImaging/Pack.c -o build/temp.linux-x86_64-2.7/libImaging/Pack.o\u001b[K"
+    ],
+    [
+      0.000027,
+      "\r\n"
+    ],
+    [
+      0.018430,
+      "remote: \u001b[1G       gcc -pthread -fno-strict-aliasing -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -fPIC -DHAVE_LIBJPEG -DHAV"
+    ],
+    [
+      0.000043,
+      "E_LIBZ -DHAVE_LIBTIFF -I/usr/include/freetype2 -I/tmp/pip-build-L74tWD/Pillow/libImaging -I/app/.heroku/python/include -I/usr/local/include -I/usr/include -I/app/.heroku/python/include/python2.7 -I/usr/include/x86_64-linux-gnu -c libImaging/PackDecode.c -o build/temp.linux-x86_64-2.7/libImaging/PackDecode.o\u001b[K\r\n"
+    ],
+    [
+      0.000027,
+      "remote: \u001b[1G       gcc -pthread -fno-strict-aliasing -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -fPIC -DHAVE_LIBJPEG -DHAVE_LIBZ -DHAVE_LIBTIFF -I/usr/include/freetype2 -I/tmp/pip-build-L74tWD/Pillow/libImaging -I/app/.heroku/python/include -I/usr/lo"
+    ],
+    [
+      0.000020,
+      "cal/include -I/usr/include -I/app/.heroku/python/include/python2.7 -I/usr/include/x86_64-linux-gnu -c libImaging/Palette.c -o bu"
+    ],
+    [
+      0.000028,
+      "ild/temp.linux-x86_64-2.7/libImaging/Palette.o\u001b[K\r\n"
+    ],
+    [
+      0.000021,
+      "remote: \u001b[1G       gcc -pthread -fno-strict-aliasing -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -fPIC -DHAVE_LIBJPEG -DHAV"
+    ],
+    [
+      0.000021,
+      "E_LIBZ -DHAVE_LIBTIFF -I/usr/include/freetype2 -I/tmp/pip-build-L74tWD/Pillow/libImaging -I/app/.heroku/python/include -I/usr/lo"
+    ],
+    [
+      0.000019,
+      "cal/include -I/usr/include -I/app/.heroku/python/include/python2.7 -I/usr/include/x86_64-linux-gnu -c libImaging/Paste.c -o buil"
+    ],
+    [
+      0.000027,
+      "d/temp.linux-x86_64-2.7/libImaging/Paste.o\u001b[K\r\n"
+    ],
+    [
+      0.017138,
+      "remote: \u001b[1G       gcc -pthread -fno-strict-aliasing -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -fPIC -DHAVE_LIBJPEG -DHAV"
+    ],
+    [
+      0.000042,
+      "E_LIBZ -DHAVE_LIBTIFF -I/usr/include/freetype2 -I/tmp/pip-build-L74tWD/Pillow/libImaging -I/app/.heroku/python/include -I/usr/local/include -I/usr/include -I/app/.heroku/python/include/python2.7 -I/usr/include/x86_64-linux-gnu -c libImaging/Quant.c -o build/temp.linux-x86_64-2.7/libImaging/Quant.o\u001b[K\r\n"
+    ],
+    [
+      0.000025,
+      "remote: \u001b[1G       gcc -pthread -fno-strict-aliasing -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -fPIC -DHAVE_LIBJPEG -DHAVE_LIBZ -DHAVE_LIBTIFF -I/usr/include/freetype2 -I/tmp/pip-build-L74tWD/Pillow/libImaging -I/app/.heroku/python/include -I/usr/lo"
+    ],
+    [
+      0.000021,
+      "cal/include -I/usr/include -I/app/.heroku/python/include/python2.7 -I/usr/include/x86_64-linux-gnu -c libImaging/QuantOctree.c -"
+    ],
+    [
+      0.000020,
+      "o build/temp.linux-x86_64-2.7/libImaging/QuantOctree.o\u001b[K"
+    ],
+    [
+      0.000026,
+      "\r\n"
+    ],
+    [
+      0.000024,
+      "remote: \u001b[1G       gcc -pthread -fno-strict-aliasing -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -fPIC -DHAVE_LIBJPEG -DHAVE_LIBZ -DHAVE_LIBTIFF -I/usr/include/freetype2 -I/tmp/pip-build-L74tWD/Pillow/libImaging -I/app/.heroku/python/include -I/usr/lo"
+    ],
+    [
+      0.000021,
+      "cal/include -I/usr/include -I/app/.heroku/python/include/python2.7 -I/usr/include/x86_64-linux-gnu -c libImaging/QuantHash.c -o "
+    ],
+    [
+      0.000027,
+      "build/temp.linux-x86_64-2.7/libImaging/QuantHash.o\u001b[K\r\n"
+    ],
+    [
+      0.021534,
+      "remote: \u001b[1G       gcc -pthread -fno-strict-aliasing -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -fPIC -DHAVE_LIBJPEG -DHAV"
+    ],
+    [
+      0.000057,
+      "E_LIBZ -DHAVE_LIBTIFF -I/usr/include/freetype2 -I/tmp/pip-build-L74tWD/Pillow/libImaging -I/app/.heroku/python/include -I/usr/local/include -I/usr/include -I/app/.heroku/python/include/python2.7 -I/usr/include/x86_64-linux-gnu -c libImaging/QuantHeap.c -o build/temp.linux-x86_64-2.7/libImaging/QuantHeap.o\u001b[K\r\nremote: \u001b[1G       gcc -pthread -fno-strict-aliasing -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -fPIC -DHAVE_LIBJPEG -DHAV"
+    ],
+    [
+      0.000028,
+      "E_LIBZ -DHAVE_LIBTIFF -I/usr/include/freetype2 -I/tmp/pip-build-L74tWD/Pillow/libImaging -I/app/.heroku/python/include -I/usr/local/include -I/usr/include -I/app/.heroku/python/include/python2.7 -I/usr/include/x86_64-linux-gnu -c libImaging/PcdDecode.c -o build/temp.linux-x86_64-2.7/libImaging/PcdDecode.o\u001b[K"
+    ],
+    [
+      0.000038,
+      "\r\nremote: \u001b[1G       gcc -pthread -fno-strict-aliasing -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -fPIC -DHAVE_LIBJPEG -DHAV"
+    ],
+    [
+      0.000024,
+      "E_LIBZ -DHAVE_LIBTIFF -I/usr/include/freetype2 -I/tmp/pip-build-L74tWD/Pillow/libImaging -I/app/.heroku/python/include -I/usr/local/include -I/usr/include -I/app/.heroku/python/include/python2.7 -I/usr/include/x86_64-linux-gnu -c libImaging/PcxDecode.c -o "
+    ],
+    [
+      0.000028,
+      "build/temp.linux-x86_64-2.7/libImaging/PcxDecode.o\u001b[K\r\n"
+    ],
+    [
+      0.013951,
+      "remote: \u001b[1G       gcc -pthread -fno-strict-aliasing -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -fPIC -DHAVE_LIBJPEG -DHAV"
+    ],
+    [
+      0.000034,
+      "E_LIBZ -DHAVE_LIBTIFF -I/usr/include/freetype2 -I/tmp/pip-build-L74tWD/Pillow/libImaging -I/app/.heroku/python/include -I/usr/local/include -I/usr/include -I/app/.heroku/python/include/python2.7 -I/usr/include/x86_64-linux-gnu -c libImaging/PcxEncode.c -o build/temp.linux-x86_64-2.7/libImaging/PcxEncode.o\u001b[K"
+    ],
+    [
+      0.000038,
+      "\r\nremote: \u001b[1G       gcc -pthread -fno-strict-aliasing -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -fPIC -DHAVE_LIBJPEG -DHAV"
+    ],
+    [
+      0.000023,
+      "E_LIBZ -DHAVE_LIBTIFF -I/usr/include/freetype2 -I/tmp/pip-build-L74tWD/Pillow/libImaging -I/app/.heroku/python/include -I/usr/local/include -I/usr/include -I/app/.heroku/python/include/python2.7 -I/usr/include/x86_64-linux-gnu -c libImaging/Point.c -o buil"
+    ],
+    [
+      0.000027,
+      "d/temp.linux-x86_64-2.7/libImaging/Point.o\u001b[K\r\n"
+    ],
+    [
+      0.000021,
+      "remote: \u001b[1G       gcc -pthread -fno-strict-aliasing -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -fPIC -DHAVE_LIBJPEG -DHAV"
+    ],
+    [
+      0.000021,
+      "E_LIBZ -DHAVE_LIBTIFF -I/usr/include/freetype2 -I/tmp/pip-build-L74tWD/Pillow/libImaging -I/app/.heroku/python/include -I/usr/lo"
+    ],
+    [
+      0.000019,
+      "cal/include -I/usr/include -I/app/.heroku/python/include/python2.7 -I/usr/include/x86_64-linux-gnu -c libImaging/RankFilter.c -o"
+    ],
+    [
+      0.000025,
+      " build/temp.linux-x86_64-2.7/libImaging/RankFilter.o\u001b[K\r\n"
+    ],
+    [
+      0.018768,
+      "remote: \u001b[1G       gcc -pthread -fno-strict-aliasing -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -fPIC -DHAVE_LIBJPEG -DHAV"
+    ],
+    [
+      0.000042,
+      "E_LIBZ -DHAVE_LIBTIFF -I/usr/include/freetype2 -I/tmp/pip-build-L74tWD/Pillow/libImaging -I/app/.heroku/python/include -I/usr/local/include -I/usr/include -I/app/.heroku/python/include/python2.7 -I/usr/include/x86_64-linux-gnu -c libImaging/RawDecode.c -o build/temp.linux-x86_64-2.7/libImaging/RawDecode.o\u001b[K\r\n"
+    ],
+    [
+      0.000036,
+      "remote: \u001b[1G       gcc -pthread -fno-strict-aliasing -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -fPIC -DHAVE_LIBJPEG -DHAVE_LIBZ -DHAVE_LIBTIFF -I/usr/include/freetype2 -I/tmp/pip-build-L74tWD/Pillow/libImaging -I/app/.heroku/python/include -I/usr/local/include -I/usr/include -I/app/.heroku/python/include/python2.7 -I/usr/include/x86_64-linux-gnu -c libImaging/RawEncode.c -o "
+    ],
+    [
+      0.000031,
+      "build/temp.linux-x86_64-2.7/libImaging/RawEncode.o\u001b[K\r\n"
+    ],
+    [
+      0.000022,
+      "remote: \u001b[1G       gcc -pthread -fno-strict-aliasing -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -fPIC -DHAVE_LIBJPEG -DHAV"
+    ],
+    [
+      0.000021,
+      "E_LIBZ -DHAVE_LIBTIFF -I/usr/include/freetype2 -I/tmp/pip-build-L74tWD/Pillow/libImaging -I/app/.heroku/python/include -I/usr/lo"
+    ],
+    [
+      0.000025,
+      "cal/include -I/usr/include -I/app/.heroku/python/include/python2.7 -I/usr/include/x86_64-linux-gnu -c libImaging/Storage.c -o build/temp.linux-x86_64-2.7/libImaging/Storage.o\u001b[K"
+    ],
+    [
+      0.000036,
+      "\r\n"
+    ],
+    [
+      0.017142,
+      "remote: \u001b[1G       gcc -pthread -fno-strict-aliasing -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -fPIC -DHAVE_LIBJPEG -DHAV"
+    ],
+    [
+      0.000054,
+      "E_LIBZ -DHAVE_LIBTIFF -I/usr/include/freetype2 -I/tmp/pip-build-L74tWD/Pillow/libImaging -I/app/.heroku/python/include -I/usr/local/include -I/usr/include -I/app/.heroku/python/include/python2.7 -I/usr/include/x86_64-linux-gnu -c libImaging/SunRleDecode.c -o build/temp.linux-x86_64-2.7/libImaging/SunRleDecode.o\u001b[K\r\nremote: \u001b[1G       gcc -pthread -fno-strict-aliasing -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -fPIC -DHAVE_LIBJPEG -DHAV"
+    ],
+    [
+      0.000028,
+      "E_LIBZ -DHAVE_LIBTIFF -I/usr/include/freetype2 -I/tmp/pip-build-L74tWD/Pillow/libImaging -I/app/.heroku/python/include -I/usr/local/include -I/usr/include -I/app/.heroku/python/include/python2.7 -I/usr/include/x86_64-linux-gnu -c libImaging/TgaRleDecode.c -o build/temp.linux-x86_64-2.7/libImaging/TgaRleDecode.o\u001b[K"
+    ],
+    [
+      0.000036,
+      "\r\nremote: \u001b[1G       gcc -pthread -fno-strict-aliasing -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -fPIC -DHAVE_LIBJPEG -DHAV"
+    ],
+    [
+      0.000033,
+      "E_LIBZ -DHAVE_LIBTIFF -I/usr/include/freetype2 -I/tmp/pip-build-L74tWD/Pillow/libImaging -I/app/.heroku/python/include -I/usr/local/include -I/usr/include -I/app/.heroku/python/include/python2.7 -I/usr/include/x86_64-linux-gnu -c libImaging/Unpack.c -o bui"
+    ],
+    [
+      0.000026,
+      "ld/temp.linux-x86_64-2.7/libImaging/Unpack.o\u001b[K\r\n"
+    ],
+    [
+      0.017104,
+      "remote: \u001b[1G       gcc -pthread -fno-strict-aliasing -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -fPIC -DHAVE_LIBJPEG -DHAVE_LIBZ -DHAVE_LIBTIFF -I/usr/include/freetype2 -I/tmp/pip-build-L74tWD/Pillow/libImaging -I/app/.heroku/python/include -I/usr/local/include -I/usr/include -I/app/.heroku/python/include/python2.7 -I/usr/include/x86_64-linux-gnu -c libImaging/UnpackYCC.c -o build/temp.linux-x86_64-2.7/libImaging/UnpackYCC.o\u001b[K\r\n"
+    ],
+    [
+      0.000212,
+      "remote: \u001b[1G       gcc -pthread -fno-strict-aliasing -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -fPIC -DHAVE_LIBJPEG -DHAVE_LIBZ -DHAVE_LIBTIFF -I/usr/include/freetype2 -I/tmp/pip-build-L74tWD/Pillow/libImaging -I/app/.heroku/python/include -I/usr/local/include -I/usr/include -I/app/.heroku/python/include/python2.7 -I/usr/include/x86_64-linux-gnu -c libImaging/UnsharpMask.c -o build/temp.linux-x86_64-2.7/libImaging/UnsharpMask.o\u001b[K\r\nremote: \u001b[1G       gcc -pthread -fno-strict-aliasing -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -fPIC -DHAVE_LIBJPEG -DHAVE_LIBZ -DHAVE_LIBTIFF -I/usr/include/freetype2 -I/tmp/pip-build-L74tWD/Pillow/libImaging -I/app/.heroku/python/include -I/usr/local/include -I/usr/include -I/app/.heroku/python/include/python2.7 -I/usr/include/x86_64-linux-gnu -c libImaging/XbmDecode.c -o build/temp.linux-x86_64-2.7/libImaging/XbmDecode.o\u001b[K\r\n"
+    ],
+    [
+      0.017448,
+      "remote: \u001b[1G       gcc -pthread -fno-strict-aliasing -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -fPIC -DHAVE_LIBJPEG -DHAVE_LIBZ -DHAVE_LIBTIFF -I/usr/include/freetype2 -I/tmp/pip-build-L74tWD/Pillow/libImaging -I/app/.heroku/python/include -I/usr/local/include -I/usr/include -I/app/.heroku/python/include/python2.7 -I/usr/include/x86_64-linux-gnu -c libImaging/XbmEncode.c -o build/temp.linux-x86_64-2.7/libImaging/XbmEncode.o\u001b[K\r\n"
+    ],
+    [
+      0.000062,
+      "remote: \u001b[1G       gcc -pthread -fno-strict-aliasing -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -fPIC -DHAVE_LIBJPEG -DHAVE_LIBZ -DHAVE_LIBTIFF -I/usr/include/freetype2 -I/tmp/pip-build-L74tWD/Pillow/libImaging -I/app/.heroku/python/include -I/usr/local/include -I/usr/include -I/app/.heroku/python/include/python2.7 -I/usr/include/x86_64-linux-gnu -c libImaging/ZipDecode.c -o build/temp.linux-x86_64-2.7/libImaging/ZipDecode.o\u001b[K\r\nremote: \u001b[1G       gcc -pthread -fno-strict-aliasing -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -fPIC -DHAVE_LIBJPEG -DHAVE_LIBZ -DHAVE_LIBTIFF -I/usr/include/freetype2 -I/tmp/pip-build-L74tWD/Pillow/libImaging -I/app/.heroku/python/include -I/usr/local/include -I/usr/include -I/app/.heroku/python/include/python2.7 -I/usr/include/x86_64-linux-gnu -c libImaging/ZipEncode.c -o build/temp.linux-x86_64-2.7/libImaging/ZipEncode.o\u001b[K"
+    ],
+    [
+      0.000030,
+      "\r\n"
+    ],
+    [
+      0.017011,
+      "remote: \u001b[1G       gcc -pthread -fno-strict-aliasing -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -fPIC -DHAVE_LIBJPEG -DHAVE_LIBZ -DHAVE_LIBTIFF -I/usr/include/freetype2 -I/tmp/pip-build-L74tWD/Pillow/libImaging -I/app/.heroku/python/include -I/usr/local/include -I/usr/include -I/app/.heroku/python/include/python2.7 -I/usr/include/x86_64-linux-gnu -c libImaging/TiffDecode.c -o build/temp.linux-x86_64-2.7/libImaging/TiffDecode.o\u001b[K"
+    ],
+    [
+      0.000080,
+      "\r\nremote: \u001b[1G       gcc -pthread -fno-strict-aliasing -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -fPIC -DHAVE_LIBJPEG -DHAVE_LIBZ -DHAVE_LIBTIFF -I/usr/include/freetype2 -I/tmp/pip-build-L74tWD/Pillow/libImaging -I/app/.heroku/python/include -I/usr/local/include -I/usr/include -I/app/.heroku/python/include/python2.7 -I/usr/include/x86_64-linux-gnu -c libImaging/Incremental.c -o build/temp.linux-x86_64-2.7/libImaging/Incremental.o\u001b[K\r\nremote: \u001b[1G       gcc -pthread -fno-strict-aliasing -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -fPIC -DHAVE_LIBJPEG -DHAVE_LIBZ -DHAVE_LIBTIFF -I/usr/include/freetype2 -I/tmp/pip-build-L74tWD/Pillow/libImaging -I/app/.heroku/python/include -I/usr/local/include -I/usr/include -I/app/.heroku/python/include/python2.7 -I/usr/include/x86_64-linux-gnu -c libImaging/Jpeg2KDecode.c "
+    ],
+    [
+      0.000041,
+      "-o build/temp.linux-x86_64-2.7/libImaging/Jpeg2KDecode.o\u001b[K\r\n"
+    ],
+    [
+      0.016994,
+      "remote: \u001b[1G       gcc -pthread -fno-strict-aliasing -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -fPIC -DHAVE_LIBJPEG -DHAVE_LIBZ -DHAVE_LIBTIFF -I/usr/include/freetype2 -I/tmp/pip-build-L74tWD/Pillow/libImaging -I/app/.heroku/python/include -I/usr/local/include -I/usr/include -I/app/.heroku/python/include/python2.7 -I/usr/include/x86_64-linux-gnu -c libImaging/Jpeg2KEncode.c -o build/temp.linux-x86_64-2.7/libImaging/Jpeg2KEncode.o\u001b[K\r\n"
+    ],
+    [
+      0.000143,
+      "remote: \u001b[1G       gcc -pthread -fno-strict-aliasing -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -fPIC -DHAVE_LIBJPEG -DHAVE_LIBZ -DHAVE_LIBTIFF -I/usr/include/freetype2 -I/tmp/pip-build-L74tWD/Pillow/libImaging -I/app/.heroku/python/include -I/usr/local/include -I/usr/include -I/app/.heroku/python/include/python2.7 -I/usr/include/x86_64-linux-gnu -c libImaging/BoxBlur.c -o build/temp.linux-x86_64-2.7/libImaging/BoxBlur.o\u001b[K\r\n"
+    ],
+    [
+      0.050814,
+      "remote: \u001b[1G       gcc -pthread -shared build/temp.linux-x86_64-2.7/_imaging.o build/temp.linux-x86_64-2.7/decode.o build/temp.linux-x86_64-2.7/encode.o build/temp.linux-x86_64-2.7/map.o build/temp.linux-x86_64-2.7/display.o build/temp.linux-x86_64-2.7/outline.o build/temp.linux-x86_64-2.7/path.o build/temp.linux-x86_64-2.7/libImaging/Access.o build/temp.linux-x86_64-2.7/libImaging/AlphaComposite.o build/temp.linux-x86_64-2.7/libImaging/Resample.o build/temp.linux-x86_64-2.7/libImaging/Bands.o build/temp.linux-x86_"
+    ],
+    [
+      0.000057,
+      "64-2.7/libImaging/BitDecode.o build/temp.linux-x86_64-2.7/libImaging/Blend.o build/temp.linux-x86_64-2.7/libImaging/Chops.o build/temp.linux-x86_64-2.7/libImaging/Convert.o build/temp.linux-x86_64-2.7/libImaging/ConvertYCbCr.o build/temp.linux-x86_64-2.7/libImaging/Copy.o build/temp.linux-x86_64-2.7/libImaging/Crc32.o build/temp.linux-x86_64-2.7/libImaging/Crop.o build/temp.linux-x86_64-2.7/libImaging/Dib.o build/temp.linux-x86_64-2.7/libImaging/Draw.o build/temp.linux-x86_64-2.7/libImaging/Effects.o build/temp.linux-x86_64-2.7/libImaging/EpsEncode.o build/temp.linux-x86_64-2.7/libImaging/File.o build/temp.linux-x86_64-2.7/libImaging/Fill.o build/temp.linux-x86_64-2.7/libImaging/Filter.o build/temp.linux-x86_64-2.7/libImaging/FliDecode.o build/temp.linux-x86_64-2.7/libImaging/Geometry.o build/temp.linux-x86_64-2.7/libImaging/GetBBox.o build/temp.linux-x86_64-2.7/libImaging/GifDecode.o build/temp.linux-x86_64-2.7/libImaging/GifEncode.o build/temp.linux-x86_64-2.7/libImaging/HexDecode.o build/temp.linux-x86_64-2.7/libImaging/Histo.o build/temp.linux-x86_64-2.7/libImaging/JpegDecode.o build/temp.linux-x86_64-2.7/libImaging/JpegEncode.o b"
+    ],
+    [
+      0.000100,
+      "uild/temp.linux-x86_64-2.7/libImaging/LzwDecode.o build/temp.linux-x86_64-2.7/libImaging/Matrix.o build/temp.linux-x86_64-2.7/libImaging/ModeFilter.o build/temp.linux-x86_64-2.7/libImaging/MspDecode.o build/temp.linux-x86_64-2.7/libImaging/Negative.o build/temp.linux-x86_64-2.7/libImaging/Offset.o build/temp.linux-x86_64-2.7/libImaging/Pack.o build/temp.linux-x86_64-2.7/libImaging/PackDecode.o build/temp.linux-x86_64-2.7/libImaging/Palette.o build/temp.linux-x86_64-2.7/libImaging/Paste.o build/temp.linux-x86_64-2.7/libImaging/Quant.o build/temp.linux-x86_64-2.7/libImaging/QuantOctree.o build/temp.linux-x86_64-2.7/libImaging/QuantHash.o build/temp.linux-x86_64-2.7/libImaging/QuantHeap.o build/temp.linux-x86_64-2.7/libImaging/PcdDecode.o build/temp.linux-x86_64-2.7/libImaging/PcxDecode.o build/temp.linux-x86_64-2.7/libImaging/PcxEncode.o build/temp.linux-x86_64-2.7/libImaging/Point.o build/temp.linux-x86_64-2.7/libImaging/RankFilter.o build/temp.linux-x86_64-2.7/libImaging/RawDecode.o build/temp.linux-x86_64-2."
+    ],
+    [
+      0.000039,
+      "7/libImaging/RawEncode.o build/temp.linux-x86_64-2.7/libImaging/Storage.o build/temp.linux-x86_64-2.7/libImaging/SunRleDecode.o build/temp.linux-x86_64-2.7/libImaging/TgaRleDecode.o build/temp.linux-x86_64-2.7/libImaging/Unpack.o build/temp.linux-x86_64-2.7/libImaging/UnpackYCC.o build/temp.linux-x86_64-2.7/libImaging/UnsharpMask.o build/temp.linux-x86_64-2.7/libImaging/XbmDecode.o build/temp.linux-x86_64-2.7/libImaging/XbmEncode.o build/temp.linux-x86_64-2.7/libImaging/ZipDecode.o build/temp.linux-x86_64-2.7/libImaging/ZipEncode.o build/temp.linux-x86_64-2.7/libImaging/TiffDecode.o build/temp.linux-x86_64-2.7/libImaging/Incremental"
+    ],
+    [
+      0.000055,
+      ".o build/temp.linux-x86_64-2.7/libImaging/Jpeg2KDecode.o build/temp.linux-x86_64-2.7/libImaging/Jpeg2KEncode.o build/temp.linux-x86_64-2.7/libImaging/BoxBlur.o -L/app/.heroku/python/lib -L/lib64 -L/usr/lib/x86_64-linux-gnu -L/usr/local/lib -L/usr/lib -L/usr/lib/x86_64-linux-gnu -ljpeg -lz -ltiff -o build/lib.linux-x86_64-2.7/PIL/_imaging.so\u001b[K\r\nremote: \u001b[1G       building 'PIL._imagingft' extension\u001b[K"
+    ],
+    [
+      0.000056,
+      "\r\nremote: \u001b[1G       gcc -pthread -fno-strict-aliasing -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -fPIC -I/usr/include/freetype2 -I/tmp/pip-build-L74tWD/Pillow/libImaging -I/app/.heroku/python/include -I/usr/local/include -I/usr/include -I/app/.heroku/python/include/python2.7 -I/usr/include/x86_64-linux-gnu -c _imagingft.c -o build/temp.linux-x86_64-2.7/_imagingft.o\u001b[K\r\n"
+    ],
+    [
+      0.000051,
+      "remote: \u001b[1G       gcc -pthread -shared build/temp.linux-x86_64-2.7/_imagingft.o -L/app/.heroku/python/lib -L/lib64 -L/usr/lib/x86_64-linux-gnu -L/usr/local/lib -L/usr/lib -L/usr/lib/x86_64-linux-gnu -lfreetype -o build/lib.linux-x86_64-2.7/PIL/_imagingft.so\u001b[K\r\nremote: \u001b[1G       building 'PIL._imagingcms' extension\u001b[K\r\n"
+    ],
+    [
+      0.016947,
+      "remote: \u001b[1G       gcc -pthread -fno-strict-aliasing -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -fPIC -I/usr/include/freetype2 -I/tmp/pip-build-L74tWD/Pillow/libImaging -I/app/.heroku/python/include -I/usr/local/include -I/usr/include -I/app/.heroku/python/include/python2.7 -I/usr/include/x86_64-linux-gnu -c _imagingcms.c -o build/temp.linux-x86_64-2.7/_imagingcms.o\u001b[K\r\nremote: \u001b[1G       gcc -pthread -shared build/temp.linux-x86_64-2.7/_imagingcms.o -L/app/.heroku"
+    ],
+    [
+      0.000101,
+      "/python/lib -L/lib64 -L/usr/lib/x86_64-linux-gnu -L/usr/local/lib -L/usr/lib -L/usr/lib/x86_64-linux-gnu -llcms2 -o build/lib.linux-x86_64-2.7/PIL/_imagingcms.so\u001b[K\r\nremote: \u001b[1G       building 'PIL._imagingmath' extension\u001b[K\r\nremote: \u001b[1G       gcc -pthread -fno-strict-aliasing -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -fPIC -I/usr/include/freetype2 -I/tmp/pip-build-L74tWD/Pillow/libImaging -I/app/.heroku/python/include -I/usr/local/include -I/usr/include -I/app/.heroku/python/include/python2.7 -I/usr/include/x86_64-linux-gnu -c _imagingmath.c -o build/temp.linux-x86_64-2.7/_imagingmath.o\u001b[K\r\nremote: \u001b[1G       gcc -pthread -shared build/temp.linux-x86_64-2.7/_imagingmath.o -L/app/.heroku/python/lib -L/lib64 -L/usr/lib/x86_64-"
+    ],
+    [
+      0.000055,
+      "linux-gnu -L/usr/local/lib -L/usr/lib -L/usr/lib/x86_64-linux-gnu -o build/lib.linux-x86_64-2.7/PIL/_imagingmath.so\u001b[K\r\nremote: \u001b[1G       building 'PIL._imagingmorph' extension\u001b[K\r\n"
+    ],
+    [
+      0.019799,
+      "remote: \u001b[1G       gcc -pthread -fno-strict-aliasing -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -fPIC -I/usr/include/freet"
+    ],
+    [
+      0.000089,
+      "ype2 -I/tmp/pip-build-L74tWD/Pillow/libImaging -I/app/.heroku/python/include -I/usr/local/include -I/usr/include -I/app/.heroku/python/include/python2.7 -I/usr/include/x86_64-linux-gnu -c _imagingmorph.c -o build/temp.linux-x86_64-2.7/_imagingmorph.o\u001b[K\r\nremote: \u001b[1G       gcc -pthread -shared build/temp.linux-x86_64-2.7/_imagingmorph.o -L/app/.heroku/python/lib -L/lib64 -L/usr/lib/x86_64-linux-gnu -L/usr/local/lib -L/usr/lib -L/usr/lib/x86_64-linux-gnu -o build/lib.linux-x86_64-2.7/PIL/_imagingmorph.so\u001b[K\r\n"
+    ],
+    [
+      0.000114,
+      "remote: \u001b[1G--------------------------------------------------------------------\u001b[K\r\nremote: \u001b[1G       PIL SETUP SUMMARY\u001b[K\r\nremote: \u001b[1G--------------------------------------------------------------------\u001b[K\r\nremote: \u001b[1G       version      Pillow 2.7.0\u001b[K\r\nremote: \u001b[1G       platform     linux2 2.7.8 (default, Jul 15 2014, 15:37:51)\u001b[K\r\n"
+    ],
+    [
+      0.000078,
+      "remote: \u001b[1G       [GCC 4.8.2]\u001b[K\r\nremote: \u001b[1G--------------------------------------------------------------------\u001b[K\r\nremote: \u001b[1G       *** TKINTER support not available\u001b[K\r\nremote: \u001b[1G--- JPEG support available\u001b[K\r\n"
+    ],
+    [
+      0.014714,
+      "remote: \u001b[1G       *** OPENJPEG (JPEG2000) support not available\u001b[K\r\nremote: \u001b[1G--- ZLIB (PNG/ZIP) support available\u001b[K\r\nremote: \u001b[1G--- LIBTIFF support available\u001b[K\r\n"
+    ],
+    [
+      0.000145,
+      "remote: \u001b[1G--- FREETYPE2 support available\u001b[K\r\nremote: \u001b[1G--- LITTLECMS2 support available\u001b[K\r\nremote: \u001b[1G       *** WEBP support not available\u001b[K\r\nremote: \u001b[1G       *** WEBPMUX support not available\u001b[K\r\nremote: \u001b[1G--------------------------------------------------------------------\u001b[K\r\nremote: \u001b[1G       To add a missing option, make sure you have the required\u001b[K\r\nremote: \u001b[1G       library, and set the corresponding ROOT variable in the\u001b[K\r\nremote: \u001b[1G       setup.py script.\u001b[K"
+    ],
+    [
+      0.000098,
+      "\r\nremote: \u001b[1G       To check the build, run the selftest.py script.\u001b[K\r\nremote: \u001b[1G       changing mode of build/scripts-2.7/pilprint.py from 644 to 755\u001b[K\r\nremote: \u001b[1G       changing mode of build/scripts-2.7/pilconvert.py from 644 to 755\u001b[K\r\nremote: \u001b[1G       changing mode of build/scripts-2.7/pilfont.py from 644 to 755\u001b[K\r\n"
+    ],
+    [
+      0.009588,
+      "remote: \u001b[1G       changing mode of build/scripts-2.7/pilfile.py from 644 to 755\u001b[K\r\nremote: \u001b[1G       changing mode of build/scripts-2.7/pildriver.py from 644 to 755\u001b[K\r\nremote: \u001b[1G       changing mode of /app/.heroku/python/bin/pilprint.py to 755\u001b[K\r\n"
+    ],
+    [
+      0.000103,
+      "remote: \u001b[1G       changing mode of /app/.heroku/python/bin/pilconvert.py to 755\u001b[K\r\nremote: \u001b[1G       changing mode of /app/.heroku/python/bin/pilfont.py to 755\u001b[K\r\nremote: \u001b[1G       changing mode of /app/.heroku/python/bin/pilfile.py to 755\u001b[K\r\nremote: \u001b[1G       changing mode of /app/.heroku/python/bin/pildriver.py to 755\u001b[K\r\nremote: \u001b[1G       Running setup.py install for MarkupSafe\u001b[K\r\n"
+    ],
+    [
+      0.003345,
+      "remote: \u001b[1G       building 'markupsafe._speedups' extension\u001b[K"
+    ],
+    [
+      0.000032,
+      "\r\n"
+    ],
+    [
+      0.005019,
+      "remote: \u001b[1G       gcc -pthread -fno-strict-aliasing -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -fPIC -I/app/.heroku/python/include/python2.7 -c markupsafe/_speedups.c -o build/temp.linux-x86_64-2.7/markupsafe/_speedups.o\u001b[K\r\n"
+    ],
+    [
+      0.001900,
+      "remote: \u001b[1G       gcc -pthread -shared build/temp.linux-x86_64-2.7/markupsafe/_speedups.o -o build/lib.linux-x86_64-2.7/markupsafe/_speedups.so\u001b[K\r\n"
+    ],
+    [
+      0.002488,
+      "remote: \u001b[1G       Running setup.py install for Jinja2\u001b[K\r\n"
+    ],
+    [
+      2.665403,
+      "remote: \u001b[1G       \u001b[K"
+    ],
+    [
+      0.000029,
+      "\r\n"
+    ],
+    [
+      4.629716,
+      "remote: \u001b[1G       Running setup.py install for Babel\u001b[K\r\n"
+    ],
+    [
+      1.523921,
+      "remote: \u001b[1G       Installing pybabel script to /app/.heroku/python/bin\u001b[K\r\n"
+    ],
+    [
+      1.079246,
+      "remote: \u001b[1G       Successfully installed Babel-1.3 Django-1.7.7 Jinja2-2.7.3 MarkupSafe-0.23 Pillow-2.7.0 PyYAML-3.11 Pygments-2.0.2 Sphinx-1.3.1 Unidecode-0.4.17 Werkzeug-0.10.1 alabaster-0.7.3 argparse-1.2.1 binaryornot-0.3.0 click-3.3 cookiecutter-1.0.0 coverage-3.7.1 dj-database-url-0.3.0 django-allauth-0.19.1 django-appconf-1.0.1 django-autoslug-1.7.2 django-avatar-2.0 django-braces-1.4.0 django-cache-url-0.8.0 django-configurations-0.8 django-crispy-forms-1.4.0 django-debug-toolbar-1.3.0 django-extensions-1.5.1 django-floppyforms-1.3.0 django-model-utils-2.2 django-secure-1.0.1 docutils-0.12 gunicorn-19.3.0 mock-1.0.1 oauthlib-0.7.2 psycopg2-2.6 python-openid-2.2.5 pytz-2014.10 requests-2.6.0 requests-oauthlib-0.4.2 six-1.9.0 snowballstemmer-1.2.0 sphinx-rtd-theme-0.1.7 sqlparse-0.1.14 unicode-slugify-0.1.3 whitenoise-1.0.6\u001b[K"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      4.942094,
+      "remote: \u001b[1G       \u001b[K\r\n"
+    ],
+    [
+      0.212173,
+      "remote: \u001b[1G-----\u003e Preparing static assets\u001b[K\r\n"
+    ],
+    [
+      0.644871,
+      "remote: \u001b[1G       Running collectstatic...\u001b[K\r\n"
+    ],
+    [
+      0.528579,
+      "remote: \u001b[1G       62 static files copied to '/app/staticfiles'.\u001b[K"
+    ],
+    [
+      0.000029,
+      "\r\n"
+    ],
+    [
+      0.037989,
+      "remote: \u001b[1G       \u001b[K"
+    ],
+    [
+      0.000024,
+      "\r\n"
+    ],
+    [
+      21.209388,
+      "remote: \u001b[1G-----\u003e Discovering process types\u001b[K\r\n"
+    ],
+    [
+      0.122246,
+      "remote: \u001b[1G       Procfile declares types -\u003e web\u001b[K\r\n"
+    ],
+    [
+      10.939979,
+      "remote: -----\u003e Injecting git revision\u001b[K\r\n"
+    ],
+    [
+      0.565555,
+      "remote: -----\u003e Releasing djangogirls ...\u001b[K\r\n"
+    ],
+    [
+      1.322126,
+      "remote: -----\u003e Deploying djangogirls ...\u001b[K\r\n"
+    ],
+    [
+      0.356932,
+      "remote: -----\u003e Shutting down old containers\u001b[K\r\n"
+    ],
+    [
+      1.274091,
+      "remote: =====\u003e Application deployed:\u001b[K\r\n"
+    ],
+    [
+      0.475730,
+      "remote:        http://djangogirls.flaviobarros.net\u001b[K\r\n"
+    ],
+    [
+      0.220433,
+      "remote: -----\u003e Cleaning up ...\u001b[K\r\n"
+    ],
+    [
+      1.846056,
+      "To dokku@flaviobarros.net:djangogirls\r\n * [new branch]      master -\u003e master\r\n"
+    ],
+    [
+      0.025498,
+      "\u001b]0;ra016120@Flavio: ~/Gitprojects/djangogirls\u0007ra016120@Flavio:~/Gitprojects/djangogirls$ "
+    ],
+    [
+      5.605981,
+      "exit\r\n"
+    ]
+  ]
+}
