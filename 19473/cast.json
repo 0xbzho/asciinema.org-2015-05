@@ -1,0 +1,2498 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 24,
+  "duration": 230.554547,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.166587,
+      "\u001b]0;gabriel@spaceCore:~\u0007"
+    ],
+    [
+      0.015933,
+      "[gabriel@spaceCore ~]$ "
+    ],
+    [
+      1.157147,
+      "ssh jarvis.titaniumsystem.es"
+    ],
+    [
+      0.209739,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[7Proot@192.168.1.14"
+    ],
+    [
+      0.538942,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008jarvis.titaniumsystem.es"
+    ],
+    [
+      0.601121,
+      "\r\n"
+    ],
+    [
+      5.440017,
+      "\r\nThe programs included with the Debian GNU/Linux system are free software;"
+    ],
+    [
+      0.000787,
+      "\r\nthe exact distribution terms for each program are described in the\r\nindividual files in /usr/share/doc/*/copyright.\r\n\r\nDebian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent\r\npermitted by applicable law.\r\nLast login: Sat May  2 23:59:34 2015 from 46.234.157.177\r\r\n"
+    ],
+    [
+      0.097093,
+      "\u001b]0;gabriel@JARVIS: ~\u0007gabriel@JARVIS:~$ "
+    ],
+    [
+      1.355724,
+      "exit"
+    ],
+    [
+      0.529308,
+      "\u0008\u0008\u0008\u0008ssh galera@192.168.1.16"
+    ],
+    [
+      0.974121,
+      "\r\n"
+    ],
+    [
+      0.081723,
+      "galera@192.168.1.16's password: "
+    ],
+    [
+      4.821572,
+      "\r\n"
+    ],
+    [
+      0.032941,
+      "\r\nThe programs included with the Debian GNU/Linux system are free software;"
+    ],
+    [
+      0.001031,
+      "\r\nthe exact distribution terms for each program are described in the\r\nindividual files in /usr/share/doc/*/copyright.\r\n\r\nDebian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent\r\npermitted by applicable law.\r\nLast login: Sun May  3 00:38:20 2015 from jarvis.titaniumsystem.es\r\r\n"
+    ],
+    [
+      0.061505,
+      "\u001b]0;galera@galera1: ~\u0007galera@galera1:~$ "
+    ],
+    [
+      0.414792,
+      "exit"
+    ],
+    [
+      0.359771,
+      "\u0008\u0008\u0008\u0008\u001b[2Psu"
+    ],
+    [
+      0.758736,
+      "\u0008\u0008exit"
+    ],
+    [
+      0.339953,
+      "\u0008\u0008\u0008\u0008\u001b[K"
+    ],
+    [
+      0.019652,
+      "exit"
+    ],
+    [
+      0.451030,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.251345,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.501594,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.028594,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.030111,
+      "\u0007"
+    ],
+    [
+      0.031097,
+      "\u0007"
+    ],
+    [
+      0.029868,
+      "\u0007"
+    ],
+    [
+      0.030765,
+      "\u0007"
+    ],
+    [
+      0.030502,
+      "\u0007"
+    ],
+    [
+      0.106417,
+      "s"
+    ],
+    [
+      0.111102,
+      "u"
+    ],
+    [
+      0.249916,
+      "\r\n"
+    ],
+    [
+      0.005006,
+      "Contraseña: "
+    ],
+    [
+      1.920201,
+      "\r\n"
+    ],
+    [
+      0.006329,
+      "root@galera1:/home/galera# "
+    ],
+    [
+      0.615521,
+      "exit"
+    ],
+    [
+      0.377988,
+      "\u0008\u0008\u0008\u0008apt-get install python-software-properties"
+    ],
+    [
+      0.880498,
+      "\r\n"
+    ],
+    [
+      0.031812,
+      "\rLeyendo lista de paquetes... 0%\r"
+    ],
+    [
+      0.022182,
+      "\rLeyendo lista de paquetes... 100%\r\rLeyendo lista de paquetes... Hecho\r\r\n"
+    ],
+    [
+      0.028740,
+      "\rCreando árbol de dependencias... 0%\r"
+    ],
+    [
+      0.000706,
+      "\rCreando árbol de dependencias... 0%\r"
+    ],
+    [
+      0.022682,
+      "\rCreando árbol de dependencias... 50%\r"
+    ],
+    [
+      0.000580,
+      "\rCreando árbol de dependencias... 50%\r"
+    ],
+    [
+      0.144733,
+      "\rCreando árbol de dependencias       \r\r\n\rLeyendo la información de estado... 0%\r\rLeyendo la información de estado... 0%\r\rLeyendo la información de estado... Hecho\r\r\npython-software-properties ya está en su versión más reciente.\r\n"
+    ],
+    [
+      0.030213,
+      "0 actualizados, 0 nuevos se instalarán, 0 para eliminar y 0 no actualizados."
+    ],
+    [
+      0.000594,
+      "\r\n"
+    ],
+    [
+      0.001792,
+      "root@galera1:/home/galera# "
+    ],
+    [
+      2.035168,
+      "a"
+    ],
+    [
+      0.403355,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.176423,
+      "e"
+    ],
+    [
+      0.061117,
+      "s"
+    ],
+    [
+      0.123616,
+      "o"
+    ],
+    [
+      0.093026,
+      " "
+    ],
+    [
+      0.106905,
+      "e"
+    ],
+    [
+      0.070632,
+      "s"
+    ],
+    [
+      0.131680,
+      "t"
+    ],
+    [
+      0.092386,
+      "a"
+    ],
+    [
+      0.092891,
+      " "
+    ],
+    [
+      0.096623,
+      "r"
+    ],
+    [
+      0.071594,
+      "e"
+    ],
+    [
+      0.182452,
+      "c"
+    ],
+    [
+      0.118940,
+      "i"
+    ],
+    [
+      0.300817,
+      "é"
+    ],
+    [
+      0.094629,
+      "n"
+    ],
+    [
+      0.101658,
+      " "
+    ],
+    [
+      0.117092,
+      "i"
+    ],
+    [
+      0.110399,
+      "n"
+    ],
+    [
+      0.030367,
+      "s"
+    ],
+    [
+      0.150638,
+      "t"
+    ],
+    [
+      0.093192,
+      "a"
+    ],
+    [
+      0.059737,
+      "l"
+    ],
+    [
+      0.130245,
+      "a"
+    ],
+    [
+      0.170261,
+      "d"
+    ],
+    [
+      0.094736,
+      "o"
+    ],
+    [
+      1.145146,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.500019,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.030739,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.030158,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.030992,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.030021,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.035131,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.025802,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.030670,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.030418,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.030067,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.030311,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.030177,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.030447,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.030605,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.029424,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.030458,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.030399,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.029864,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.030060,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.030567,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.030700,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.031463,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.030261,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.029925,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.030221,
+      "\u0007"
+    ],
+    [
+      0.030810,
+      "\u0007"
+    ],
+    [
+      0.030762,
+      "\u0007"
+    ],
+    [
+      0.029511,
+      "\u0007"
+    ],
+    [
+      23.634999,
+      "apt-key adv --keyserver keyserver.ubuntu.com\r\n"
+    ],
+    [
+      0.274357,
+      "Executing: gpg --ignore-time-conflict --no-options --no-default-keyring --homedir /tmp/tmp.aLGHUqQPHx --no-auto-check-trustdb --trust-model always --primary-keyring /etc/apt/trusted.gpg --keyring /etc/apt/trusted.gpg.d/debian-archive-jessie-automatic.gpg --keyring /etc/apt/trusted.gpg.d/debian-archive-jessie-security-automatic.gpg --keyring /etc/apt/trusted.gpg.d/debian-archive-jessie-stable.gpg --keyring /etc/apt/trusted.gpg.d/debian-archive-squeeze-automatic.gpg --keyring /etc/apt/trusted.gpg.d/debian-archive-squeeze-stable.gpg --keyring /etc/apt/trusted.gpg.d/debian-archive-wheezy-automatic.gpg --keyring /etc/apt/trusted.gpg.d/debian-archive-wheezy-stable.gpg --keyserver keyserver.ubuntu.com\r\n"
+    ],
+    [
+      0.006890,
+      "gpg: Adelante, teclee su mensaje...\r\n"
+    ],
+    [
+      2.626809,
+      "\r\n"
+    ],
+    [
+      1.709881,
+      "^C\r\ngpg: Interrupt caught ... exiting\r\n"
+    ],
+    [
+      0.003702,
+      "root@galera1:/home/galera# "
+    ],
+    [
+      0.326476,
+      "^C\r\nroot@galera1:/home/galera# "
+    ],
+    [
+      6.772973,
+      "apt-key adv --keyserver keyserver.ubuntu.com"
+    ],
+    [
+      6.590814,
+      " "
+    ],
+    [
+      0.421996,
+      " --recv  \rBC19DDBA"
+    ],
+    [
+      0.884896,
+      "\r\n"
+    ],
+    [
+      0.238228,
+      "Executing: gpg --ignore-time-conflict --no-options --no-default-keyring --homedir /tmp/tmp.AXVjQuV4fi --no-auto-check-trustdb --trust-model always --keyring /etc/apt/trusted.gpg --primary-keyring /etc/apt/trusted.gpg --keyring /etc/apt/trusted.gpg.d/debian-archive-jessie-automatic.gpg --keyring /etc/apt/trusted.gpg.d/debian-archive-jessie-security-automatic.gpg --keyring /etc/apt/trusted.gpg.d/debian-archive-jessie-stable.gpg --keyring /etc/apt/trusted.gpg.d/debian-archive-squeeze-automatic.gpg --keyring /etc/apt/trusted.gpg.d/debian-archive-squeeze-stable.gpg --keyring /etc/apt/trusted.gpg.d/debian-archive-wheezy-automatic.gpg --keyring /etc/apt/trusted.gpg.d/debian-archive-wheezy-stable.gpg --keyserver keyserver.ubuntu.com --recv BC19DDBA\r\n"
+    ],
+    [
+      0.001878,
+      "gpg: "
+    ],
+    [
+      0.000785,
+      "solicitando clave BC19DDBA de hkp servidor keyserver.ubuntu.com\r\n"
+    ],
+    [
+      0.189712,
+      "gpg: clave BC19DDBA: clave pública \"Codership Oy \u003cinfo@galeracluster.com\u003e\" importada\r\ngpg: Cantidad total procesada: 1\r\ngpg:               importadas: 1  (RSA: 1)\r\n"
+    ],
+    [
+      0.002860,
+      "root@galera1:/home/galera# "
+    ],
+    [
+      10.086718,
+      "n"
+    ],
+    [
+      0.073831,
+      "a"
+    ],
+    [
+      0.088176,
+      "n"
+    ],
+    [
+      0.070480,
+      "o"
+    ],
+    [
+      0.075611,
+      " "
+    ],
+    [
+      0.318231,
+      "/"
+    ],
+    [
+      0.187463,
+      "e"
+    ],
+    [
+      0.111764,
+      "t"
+    ],
+    [
+      0.101178,
+      "c/"
+    ],
+    [
+      0.639924,
+      "s"
+    ],
+    [
+      0.086327,
+      "o"
+    ],
+    [
+      0.165067,
+      "u"
+    ],
+    [
+      0.132960,
+      "\u0007"
+    ],
+    [
+      0.347169,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.149547,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.141533,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.270203,
+      "a"
+    ],
+    [
+      0.091467,
+      "p"
+    ],
+    [
+      0.171034,
+      "t/"
+    ],
+    [
+      0.619606,
+      "s"
+    ],
+    [
+      0.117921,
+      "o"
+    ],
+    [
+      0.164331,
+      "\u0007urces.list"
+    ],
+    [
+      1.060382,
+      "."
+    ],
+    [
+      0.267903,
+      "d"
+    ],
+    [
+      0.172701,
+      "/"
+    ],
+    [
+      0.799768,
+      "g"
+    ],
+    [
+      0.062447,
+      "a"
+    ],
+    [
+      0.085072,
+      "l"
+    ],
+    [
+      0.107068,
+      "e"
+    ],
+    [
+      0.210437,
+      "r"
+    ],
+    [
+      0.082946,
+      "a"
+    ],
+    [
+      2.305770,
+      "."
+    ],
+    [
+      0.367743,
+      "l"
+    ],
+    [
+      0.131873,
+      "i"
+    ],
+    [
+      0.049171,
+      "s"
+    ],
+    [
+      0.132023,
+      "t"
+    ],
+    [
+      0.123512,
+      "\r\n"
+    ],
+    [
+      0.029709,
+      "\u001b[?1049h\u001b[1;24r\u001b(B\u001b[m\u001b[4l\u001b[?7h\u001b[?12l\u001b[?25h\u001b[?1h\u001b="
+    ],
+    [
+      0.000342,
+      "\u001b[?1h\u001b=\u001b[?1h\u001b="
+    ],
+    [
+      0.001672,
+      "\u001b[39;49m\u001b[39;49m\u001b(B\u001b[m\u001b[H\u001b[2J\u001b(B\u001b[0;7m  GNU nano 2.2.6    Fichero: /etc/apt/sources.list.d/galera.list                \u001b[22;32H[ Nuevo Fichero ]\r\u001b[23d^G\u001b(B\u001b[m Ver ayuda \u001b(B\u001b[0;7m^O\u001b(B\u001b[m Guardar   \u001b(B\u001b[0;7m^R\u001b(B\u001b[m Leer Fich \u001b(B\u001b[0;7m^Y\u001b(B\u001b[m Pág Ant   \u001b(B\u001b[0;7m^K\u001b(B\u001b[m CortarTxt \u001b(B\u001b[0;7m^C\u001b(B\u001b[m Pos actual\r\u001b[24d\u001b(B\u001b[0;7m^X\u001b(B\u001b[m Salir     \u001b(B\u001b[0;7m^J\u001b(B\u001b[m Justificar\u001b(B\u001b[0;7m^W\u001b(B\u001b[m Buscar    \u001b(B\u001b[0;7m^V\u001b(B\u001b[m Pág Sig   \u001b(B\u001b[0;7m^U\u001b(B\u001b[m PegarTxt  \u001b(B\u001b[0;7m^T\u001b(B\u001b[m Ortografía\r\u001b[3d"
+    ],
+    [
+      3.563687,
+      "\u001b[1;69H\u001b(B\u001b[0;7mModificado\r\u001b[3d\u001b(B\u001b[0m\u001b[33mdeb\u001b(B\u001b[0;1m\u001b[31m \u001b[32mhttp://releases.galeracluster.com/DIST\u001b[31m RELEASE\u001b[35m main\r\u001b[22d\u001b[39m\u001b(B\u001b[m\u001b[K\u001b[3;56H"
+    ],
+    [
+      0.845967,
+      "\u0008"
+    ],
+    [
+      0.121108,
+      "\u0008"
+    ],
+    [
+      0.130174,
+      "\u0008"
+    ],
+    [
+      0.177968,
+      "\u0008"
+    ],
+    [
+      0.232178,
+      "\u0008"
+    ],
+    [
+      0.119100,
+      "\u0008"
+    ],
+    [
+      0.780039,
+      "\r\u001b[4d"
+    ],
+    [
+      0.570765,
+      "\u001b[3;56H"
+    ],
+    [
+      3.263279,
+      "\u0008"
+    ],
+    [
+      0.500265,
+      "\u0008"
+    ],
+    [
+      0.029342,
+      "\u0008"
+    ],
+    [
+      0.030138,
+      "\u0008"
+    ],
+    [
+      0.030547,
+      "\u0008"
+    ],
+    [
+      0.030653,
+      "\u0008"
+    ],
+    [
+      0.029581,
+      "\u0008"
+    ],
+    [
+      0.030372,
+      "\u0008"
+    ],
+    [
+      0.031491,
+      "\u0008"
+    ],
+    [
+      0.028003,
+      "\u0008"
+    ],
+    [
+      0.031126,
+      "\u0008"
+    ],
+    [
+      0.029397,
+      "\u0008"
+    ],
+    [
+      0.175143,
+      "\u0008"
+    ],
+    [
+      0.263261,
+      "\u0008"
+    ],
+    [
+      0.269804,
+      "\u001b[C"
+    ],
+    [
+      0.324014,
+      "\u0008\u001b[1P"
+    ],
+    [
+      0.137543,
+      "\u0008\u001b[1P"
+    ],
+    [
+      0.131315,
+      "\u0008\u001b[1P"
+    ],
+    [
+      0.140394,
+      "\u0008\u001b[1P"
+    ],
+    [
+      0.277567,
+      "\u001b(B\u001b[0;1m\u001b[32md\u001b[31m RELEASE\u001b[35m main\u001b[3;40H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.150642,
+      "\u001b(B\u001b[0;1m\u001b[32me\u001b[31m RELEASE\u001b[35m main\u001b[3;41H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.200252,
+      "\u001b(B\u001b[0;1m\u001b[32mb\u001b[31m RELEASE\u001b[35m main\u001b[3;42H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.131216,
+      "\u001b(B\u001b[0;1m\u001b[32mi\u001b[31m RELEASE\u001b[35m main\u001b[3;43H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.121343,
+      "\u001b(B\u001b[0;1m\u001b[32ma\u001b[31m RELEASE\u001b[35m main\u001b[3;44H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.105792,
+      "\u001b(B\u001b[0;1m\u001b[32mn\u001b[31m RELEASE\u001b[35m main\u001b[3;45H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.293674,
+      "\u001b[C"
+    ],
+    [
+      0.171553,
+      "\u001b[C"
+    ],
+    [
+      0.120148,
+      "\u001b[C"
+    ],
+    [
+      0.139884,
+      "\u001b[C"
+    ],
+    [
+      0.129706,
+      "\u001b[C"
+    ],
+    [
+      0.129629,
+      "\u001b[C"
+    ],
+    [
+      0.130479,
+      "\u001b[C"
+    ],
+    [
+      0.370880,
+      "\u001b[C"
+    ],
+    [
+      0.339953,
+      "\u0008\u001b(B\u001b[0;1m\u001b[35m main\u001b[39m\u001b(B\u001b[m\u001b[K\u001b[52G"
+    ],
+    [
+      0.139680,
+      "\u0008\u001b(B\u001b[0;1m\u001b[35m main\u001b[39m\u001b(B\u001b[m\u001b[K\u001b[51G"
+    ],
+    [
+      0.129857,
+      "\u0008\u001b(B\u001b[0;1m\u001b[35m main\u001b[39m\u001b(B\u001b[m\u001b[K\u001b[50G"
+    ],
+    [
+      0.129890,
+      "\u0008\u001b(B\u001b[0;1m\u001b[35m main\u001b[39m\u001b(B\u001b[m\u001b[K\u001b[49G"
+    ],
+    [
+      0.139771,
+      "\u0008\u001b(B\u001b[0;1m\u001b[35m main\u001b[39m\u001b(B\u001b[m\u001b[K\u001b[48G"
+    ],
+    [
+      0.130268,
+      "\u0008\u001b(B\u001b[0;1m\u001b[35m main\u001b[39m\u001b(B\u001b[m\u001b[K\u001b[47G"
+    ],
+    [
+      0.148991,
+      "\u0008\u001b(B\u001b[0;1m\u001b[31m main\u001b[39m\u001b(B\u001b[m\u001b[K\u001b[46G"
+    ],
+    [
+      0.270102,
+      "\u001b(B\u001b[0;1m\u001b[31mj\u001b[35m main\u001b[47G\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.190150,
+      "\u001b(B\u001b[0;1m\u001b[31me\u001b[35m main\u001b[48G\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.192512,
+      "\u001b(B\u001b[0;1m\u001b[31ms\u001b[35m main\u001b[49G\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.160725,
+      "\u0008\u001b(B\u001b[0;1m\u001b[31mss\u001b[35m main\u001b[50G\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.101144,
+      "\u001b(B\u001b[0;1m\u001b[31mi\u001b[35m main\u001b[51G\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.090623,
+      "\u001b(B\u001b[0;1m\u001b[31me\u001b[35m main\u001b[52G\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.501419,
+      "\r\u001b[22d\u001b(B\u001b[0;7mNombre del fichero a escribir: /etc/apt/sources.list.d/galera.list              \u001b[23;14H\u001b(B\u001b[m       \u001b(B\u001b[0;7mM-D\u001b(B\u001b[m Formato DOS     \u001b(B\u001b[0;7mM-A\u001b(B\u001b[m Añadir          \u001b(B\u001b[0;7mM-B\u001b(B\u001b[m Respaldar fich\u001b[24;2H\u001b(B\u001b[0;7mC\u001b(B\u001b[m Cancelar         \u001b(B\u001b[0;7mM-M\u001b(B\u001b[m Formato Mac     \u001b(B\u001b[0;7mM-P\u001b(B\u001b[m Anteponer\u001b[K\u001b[22;67H"
+    ],
+    [
+      0.352971,
+      "\u001b[1;69H\u001b[39;49m\u001b(B\u001b[0;7m          \u001b[22;30H\u001b(B\u001b[m\u001b[1K \u001b(B\u001b[0;7m[ Escrita línea 1 ]\u001b(B\u001b[m\u001b[K\u001b[23;14H\u001b(B\u001b[0;7m^O\u001b(B\u001b[m Guardar   \u001b(B\u001b[0;7m^R\u001b(B\u001b[m Leer Fich \u001b(B\u001b[0;7m^Y\u001b(B\u001b[m Pág Ant   \u001b(B\u001b[0;7m^K\u001b(B\u001b[m CortarTxt \u001b(B\u001b[0;7m^C\u001b(B\u001b[m Pos actual\u001b[24;2H\u001b(B\u001b[0;7mX\u001b(B\u001b[m Salir     \u001b(B\u001b[0;7m^J\u001b(B\u001b[m Justificar\u001b(B\u001b[0;7m^W\u001b(B\u001b[m Buscar    \u001b(B\u001b[0;7m^V\u001b(B\u001b[m Pág Sig   \u001b(B\u001b[0;7m^U\u001b(B\u001b[m PegarTxt  \u001b(B\u001b[0;7m^T\u001b(B\u001b[m Ortografía\u001b[3;52H"
+    ],
+    [
+      0.379262,
+      "\r\u001b[23d\u001b[J\u001b[24;80H\u001b[24;1H\u001b[?1049l\r\u001b[?1l\u001b\u003eroot@galera1:/home/galera# "
+    ],
+    [
+      0.417565,
+      "a"
+    ],
+    [
+      0.114489,
+      "p"
+    ],
+    [
+      0.126890,
+      "t"
+    ],
+    [
+      0.084763,
+      "-"
+    ],
+    [
+      0.526304,
+      "g"
+    ],
+    [
+      0.100836,
+      "e"
+    ],
+    [
+      0.122872,
+      "t"
+    ],
+    [
+      0.085180,
+      " "
+    ],
+    [
+      0.106674,
+      "u"
+    ],
+    [
+      0.084756,
+      "p"
+    ],
+    [
+      0.097098,
+      "d"
+    ],
+    [
+      0.101005,
+      "a"
+    ],
+    [
+      0.120544,
+      "t"
+    ],
+    [
+      0.091069,
+      "e"
+    ],
+    [
+      0.092393,
+      "\r\n"
+    ],
+    [
+      0.133636,
+      "\r\r0% [Trabajando]"
+    ],
+    [
+      0.199419,
+      "\r               \rObj http://security.debian.org jessie/updates InRelease\r\n\r               \r0% [Esperando las cabeceras] [Conectando a releases.galeracluster.com]\r                                                                      \rDes:1 http://ftp.es.debian.org jessie InRelease [128 kB]\r\n\r                                                                      \r11% [1 InRelease 13,8 kB/128 kB 11%] [Conectando a releases.galeracluster.com ("
+    ],
+    [
+      0.001254,
+      "\r11% [InRelease gpgv 63,1 kB] [1 InRelease 13,8 kB/128 kB 11%] [Conectando a rel"
+    ],
+    [
+      0.042013,
+      "\r                                                                               \r23% [1 InRelease 29,2 kB/128 kB 23%] [Esperando las cabeceras]"
+    ],
+    [
+      0.092256,
+      "\r                                                              \rObj http://security.debian.org jessie/updates/main Sources\r\n\r36% [1 InRelease 46,0 kB/128 kB 36%] [Esperando las cabeceras]\r                                                              \rIgn http://releases.galeracluster.com jessie InRelease\r\n\r                                                              \r36% [1 InRelease 46,0 kB/128 kB 36%]"
+    ],
+    [
+      0.001499,
+      "\r                                    \r36% [Sources 0 B] [1 InRelease 46,0 kB/128 kB 36%] [Esperando las cabeceras] [C"
+    ],
+    [
+      0.012343,
+      "\r86% [1 InRelease 65,6 kB/128 kB 51%] [Esperando las cabeceras] [Conectando a re"
+    ],
+    [
+      0.032711,
+      "\r                                                                               \rObj http://security.debian.org jessie/updates/main amd64 Packages\r\n\r86% [1 InRelease 65,6 kB/128 kB 51%] [Esperando las cabeceras] [Conectando a re"
+    ],
+    [
+      0.000843,
+      "\r86% [Packages 242 kB] [1 InRelease 65,6 kB/128 kB 51%] [Esperando las cabeceras"
+    ],
+    [
+      0.003218,
+      "\r91% [1 InRelease 65,6 kB/128 kB 51%] [Esperando las cabeceras] [Conectando a re"
+    ],
+    [
+      0.037537,
+      "\r                                                                               \rObj http://security.debian.org jessie/updates/main Translation-en\r\n\r                                                                               \r91% [1 InRelease 65,6 kB/128 kB 51%] [Esperando las cabeceras]"
+    ],
+    [
+      0.002367,
+      "\r                                                              \r91% [Translation-en 191 kB] [1 InRelease 65,6 kB/128 kB 51%] [Esperando las cab"
+    ],
+    [
+      0.005148,
+      "\r                                                                               \r93% [1 InRelease 65,6 kB/128 kB 51%] [Esperando las cabeceras]"
+    ],
+    [
+      0.049516,
+      "\r                                                              \rIgn http://releases.galeracluster.com jessie Release.gpg\r\n\r                                                              \r93% [1 InRelease 65,6 kB/128 kB 51%]"
+    ],
+    [
+      0.146629,
+      "\r                                    \rIgn http://releases.galeracluster.com jessie Release\r\n\r                                    \r98% [1 InRelease 112 kB/128 kB 87%]"
+    ],
+    [
+      0.061001,
+      "\r                                   \r100% [Esperando las cabeceras] [Conectando a releases.galeracluster.com (62.109\r100% [1 InRelease gpgv 128 kB] [Esperando las cabeceras] [Conectando a releases"
+    ],
+    [
+      0.043627,
+      "\r                                                                               \r100% [Esperando las cabeceras] [Esperando las cabeceras]"
+    ],
+    [
+      0.022992,
+      "\r                                                        \rDes:2 http://ftp.es.debian.org jessie-updates InRelease [126 kB]\r\n\r                                                        \r90% [2 InRelease 27,8 kB/126 kB 22%] [Esperando las cabeceras]"
+    ],
+    [
+      0.263760,
+      "\r                                                              \r100% [Esperando las cabeceras]"
+    ],
+    [
+      0.000526,
+      "\r                              \r100% [2 InRelease gpgv 126 kB] [Esperando las cabeceras]"
+    ],
+    [
+      0.059393,
+      "\r                                                        \r100% [Esperando las cabeceras] [Conectando a releases.galeracluster.com (62.109"
+    ],
+    [
+      0.007525,
+      "\r                                                                               \rObj http://ftp.es.debian.org jessie/main Sources"
+    ],
+    [
+      0.000760,
+      "\r\n"
+    ],
+    [
+      0.000669,
+      "\r100% [Conectando a ftp.es.debian.org (82.194.78.250)] [Conectando a releases.ga"
+    ],
+    [
+      0.000300,
+      "\r100% [Sources 0 B] [Conectando a ftp.es.debian.org (82.194.78.250)] [Conectando"
+    ],
+    [
+      0.130768,
+      "\r                                                                               \rObj http://ftp.es.debian.org jessie/main amd64 Packages\r\n\r100% [Sources 0 B] [Conectando a ftp.es.debian.org (82.194.78.250)] [Conectando"
+    ],
+    [
+      0.131468,
+      "\r                                                                               \rDes:3 http://ftp.es.debian.org jessie/main Translation-es [314 kB]\r\n\r77% [Sources 32,3 MB] [3 Translation-es 13,8 kB/314 kB 4%] [Esperando las cabec"
+    ],
+    [
+      0.380773,
+      "\r                                                                               \r99% [3 Translation-es 141 kB/314 kB 45%] [Esperando las cabeceras]\r                                                                  \r99% [Packages 0 B] [3 Translation-es 141 kB/314 kB 45%] [Esperando las cabecera"
+    ],
+    [
+      0.256514,
+      "\r100% [Packages 33,8 MB] [Conectando a releases.galeracluster.com (62.109.61.219"
+    ],
+    [
+      0.001008,
+      "\r100% [3 Translation-es bzip2 0 B] [Packages 33,8 MB] [Esperando las cabeceras] "
+    ],
+    [
+      0.024060,
+      "\r                                                                               \rDes:4 http://ftp.es.debian.org jessie/main Translation-en [4.585 kB]\r\n\r88% [3 Translation-es bzip2 0 B] [Packages 33,8 MB] [4 Translation-en 51,6 kB/4"
+    ],
+    [
+      0.052469,
+      "\r88% [Packages 33,8 MB] [4 Translation-en 51,6 kB/4.585 kB 1%] [Esperando las ca"
+    ],
+    [
+      0.266807,
+      "\r                                                                               \r94% [4 Translation-en 281 kB/4.585 kB 6%] [Esperando las cabeceras]"
+    ],
+    [
+      0.500970,
+      "\r                                                                   \r95% [4 Translation-en 812 kB/4.585 kB 18%] [Conectando a releases.galeracluster"
+    ],
+    [
+      0.264035,
+      "\r                                                                               \rErr http://releases.galeracluster.com jessie/main amd64 Packages\r\n  404  Not Found\r\n\r95% [4 Translation-en 1.170 kB/4.585 kB 26%] [Conectando a releases.galeraclust"
+    ],
+    [
+      0.145353,
+      "\r                                                                               \rIgn http://releases.galeracluster.com jessie/main Translation-es_ES\r\n\r96% [4 Translation-en 1.363 kB/4.585 kB 30%] [Conectando a releases.galeraclust"
+    ],
+    [
+      0.145473,
+      "\r                                                                               \rIgn http://releases.galeracluster.com jessie/main Translation-es\r\n\r96% [4 Translation-en 1.618 kB/4.585 kB 35%] [Conectando a releases.galeraclust"
+    ],
+    [
+      0.146648,
+      "\r                                                                               \rIgn http://releases.galeracluster.com jessie/main Translation-en\r\n\r                                                                               \r96% [4 Translation-en 1.937 kB/4.585 kB 42%]"
+    ],
+    [
+      0.500285,
+      "\r98% [4 Translation-en 3.211 kB/4.585 kB 70%]"
+    ],
+    [
+      0.443860,
+      "\r                                            \r100% [Trabajando]"
+    ],
+    [
+      0.003417,
+      "\r                 \r100% [4 Translation-en bzip2 0 B]"
+    ],
+    [
+      0.068701,
+      "\r                                 \rDes:5 http://ftp.es.debian.org jessie-updates/main Sources [2.481 B]\r\n\r100% [4 Translation-en bzip2 0 B]"
+    ],
+    [
+      0.066955,
+      "\r                                 \rDes:6 http://ftp.es.debian.org jessie-updates/main amd64 Packages/DiffIndex [229 B]\r\n\r100% [4 Translation-en bzip2 0 B]"
+    ],
+    [
+      0.066933,
+      "\r                                 \rDes:7 http://ftp.es.debian.org jessie-updates/main Translation-en/DiffIndex [229 B]\r\n\r100% [4 Translation-en bzip2 0 B]"
+    ],
+    [
+      0.500545,
+      "\r100% [4 Translation-en bzip2 0 B]"
+    ],
+    [
+      0.410720,
+      "\r                                 \r100% [Trabajando]"
+    ],
+    [
+      0.001542,
+      "\r100% [Trabajando]\r                 \rDescargados 5.155 kB en 5s (921 kB/s)\r\n"
+    ],
+    [
+      0.010039,
+      "W"
+    ],
+    [
+      0.001084,
+      ": "
+    ],
+    [
+      0.000761,
+      "Fallo al obtener http://releases.galeracluster.com/debian/dists/jessie/main/binary-amd64/Packages  404  Not Found\r\n\r\nE"
+    ],
+    [
+      0.001004,
+      ": No se han podido descargar algunos archivos de índice, se han omitido, o se han utilizado unos antiguos en su lugar.\r\n"
+    ],
+    [
+      0.000721,
+      "root@galera1:/home/galera# "
+    ],
+    [
+      53.014068,
+      "apt-get update"
+    ],
+    [
+      0.210216,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008nano /etc/apt/sources.list.d/galera.list"
+    ],
+    [
+      0.822280,
+      "\r\n"
+    ],
+    [
+      0.017755,
+      "\u001b[?1049h\u001b[1;24r\u001b(B\u001b[m\u001b[4l\u001b[?7h\u001b[?12l\u001b[?25h\u001b[?1h\u001b=\u001b[?1h\u001b=\u001b[?1h\u001b="
+    ],
+    [
+      0.001905,
+      "\u001b[39;49m\u001b[39;49m\u001b(B\u001b[m\u001b[H\u001b[2J\u001b(B\u001b[0;7m  GNU nano 2.2.6    Fichero: /etc/apt/sources.list.d/galera.list                \u001b[3;1H\u001b(B\u001b[0m\u001b[33mdeb\u001b(B\u001b[0;1m\u001b[31m \u001b[32mhttp://releases.galeracluster.com/debian\u001b[31m jessie\u001b[35m main\u001b[22;32H\u001b[39m\u001b(B\u001b[0;7m[ 1 línea leída ]\r\u001b[23d^G\u001b(B\u001b[m Ver ayuda \u001b(B\u001b[0;7m^O\u001b(B\u001b[m Guardar   \u001b(B\u001b[0;7m^R\u001b(B\u001b[m Leer Fich \u001b(B\u001b[0;7m^Y\u001b(B\u001b[m Pág Ant   \u001b(B\u001b[0;7m^K\u001b(B\u001b[m CortarTxt \u001b(B\u001b[0;7m^C\u001b(B\u001b[m Pos actual\r\u001b[24d\u001b(B\u001b[0;7m^X\u001b(B\u001b[m Salir     \u001b(B\u001b[0;7m^J\u001b(B\u001b[m Justificar\u001b(B\u001b[0;7m^W\u001b(B\u001b[m Buscar    \u001b(B\u001b[0;7m^V\u001b(B\u001b[m Pág Sig   \u001b(B\u001b[0;7m^U\u001b(B\u001b[m PegarTxt  \u001b(B\u001b[0;7m^T\u001b(B\u001b[m Ortografía\r\u001b[3d"
+    ],
+    [
+      0.536734,
+      "\u001b[C"
+    ],
+    [
+      0.500073,
+      "\u001b[C"
+    ],
+    [
+      0.032284,
+      "\u001b[C"
+    ],
+    [
+      0.029990,
+      "\u001b[C"
+    ],
+    [
+      0.030062,
+      "\u001b[C"
+    ],
+    [
+      0.030202,
+      "\u001b[C"
+    ],
+    [
+      0.030193,
+      "\u001b[C"
+    ],
+    [
+      0.030194,
+      "\u001b[C"
+    ],
+    [
+      0.029508,
+      "\u001b[C"
+    ],
+    [
+      0.030766,
+      "\u001b[C"
+    ],
+    [
+      0.029760,
+      "\u001b[C"
+    ],
+    [
+      0.029689,
+      "\u001b[C"
+    ],
+    [
+      0.030579,
+      "\u001b[C"
+    ],
+    [
+      0.029473,
+      "\u001b[C"
+    ],
+    [
+      0.030111,
+      "\u001b[C"
+    ],
+    [
+      0.031109,
+      "\u001b[C"
+    ],
+    [
+      0.030014,
+      "\u001b[C"
+    ],
+    [
+      0.030424,
+      "\u001b[C"
+    ],
+    [
+      0.032236,
+      "\u001b[C"
+    ],
+    [
+      0.028115,
+      "\u001b[C"
+    ],
+    [
+      0.030809,
+      "\u001b[C"
+    ],
+    [
+      0.029876,
+      "\u001b[C"
+    ],
+    [
+      0.030125,
+      "\u001b[C"
+    ],
+    [
+      0.029957,
+      "\u001b[C"
+    ],
+    [
+      0.031038,
+      "\u001b[C"
+    ],
+    [
+      0.029138,
+      "\r\u001b[22d\u001b[K\u001b[3;27H"
+    ],
+    [
+      0.030290,
+      "\u001b[C"
+    ],
+    [
+      0.030116,
+      "\u001b[C"
+    ],
+    [
+      0.031985,
+      "\u001b[C"
+    ],
+    [
+      0.027973,
+      "\u001b[C"
+    ],
+    [
+      0.030298,
+      "\u001b[C"
+    ],
+    [
+      0.030839,
+      "\u001b[C"
+    ],
+    [
+      0.030092,
+      "\u001b[C"
+    ],
+    [
+      0.031608,
+      "\u001b[C"
+    ],
+    [
+      0.028432,
+      "\u001b[C"
+    ],
+    [
+      0.030486,
+      "\u001b[C"
+    ],
+    [
+      0.032979,
+      "\u001b[C"
+    ],
+    [
+      0.030554,
+      "\u001b[C"
+    ],
+    [
+      0.029949,
+      "\u001b[C"
+    ],
+    [
+      0.029938,
+      "\u001b[C"
+    ],
+    [
+      0.030029,
+      "\u001b[C"
+    ],
+    [
+      0.031094,
+      "\u001b[C"
+    ],
+    [
+      3.777156,
+      "\u001b[C"
+    ],
+    [
+      0.189391,
+      "\u001b[C"
+    ],
+    [
+      0.169932,
+      "\u001b[C"
+    ],
+    [
+      0.229368,
+      "\u0008"
+    ],
+    [
+      0.704941,
+      "\u001b[1;69H\u001b(B\u001b[0;7mModificado\u001b[3;45H\u001b(B\u001b[0;1m\u001b[32m/\u001b[31m jessie\u001b[35m main\u001b[3;46H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.187888,
+      "\u001b(B\u001b[0;1m\u001b[32md\u001b[31m jessie\u001b[35m main\u001b[3;47H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.163021,
+      "\u001b(B\u001b[0;1m\u001b[32mi\u001b[31m jessie\u001b[35m main\u001b[3;48H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.168237,
+      "\u001b(B\u001b[0;1m\u001b[32ms\u001b[31m jessie\u001b[35m main\u001b[3;49H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.190995,
+      "\u001b(B\u001b[0;1m\u001b[32mt\u001b[31m jessie\u001b[35m main\u001b[3;50H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.150639,
+      "\u001b(B\u001b[0;1m\u001b[32ms\u001b[31m jessie\u001b[35m main\u001b[3;51H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.483168,
+      "\r\u001b[22d\u001b(B\u001b[0;7mNombre del fichero a escribir: /etc/apt/sources.list.d/galera.list              \u001b[23;14H\u001b(B\u001b[m       \u001b(B\u001b[0;7mM-D\u001b(B\u001b[m Formato DOS     \u001b(B\u001b[0;7mM-A\u001b(B\u001b[m Añadir          \u001b(B\u001b[0;7mM-B\u001b(B\u001b[m Respaldar fich\u001b[24;2H\u001b(B\u001b[0;7mC\u001b(B\u001b[m Cancelar         \u001b(B\u001b[0;7mM-M\u001b(B\u001b[m Formato Mac     \u001b(B\u001b[0;7mM-P\u001b(B\u001b[m Anteponer\u001b[K\u001b[22;67H"
+    ],
+    [
+      0.300567,
+      "\u001b[1;69H\u001b[39;49m\u001b(B\u001b[0;7m          \u001b[22;30H\u001b(B\u001b[m\u001b[1K \u001b(B\u001b[0;7m[ Escrita línea 1 ]\u001b(B\u001b[m\u001b[K\u001b[23;14H\u001b(B\u001b[0;7m^O\u001b(B\u001b[m Guardar   \u001b(B\u001b[0;7m^R\u001b(B\u001b[m Leer Fich \u001b(B\u001b[0;7m^Y\u001b(B\u001b[m Pág Ant   \u001b(B\u001b[0;7m^K\u001b(B\u001b[m CortarTxt \u001b(B\u001b[0;7m^C\u001b(B\u001b[m Pos actual\u001b[24;2H\u001b(B\u001b[0;7mX\u001b(B\u001b[m Salir     \u001b(B\u001b[0;7m^J\u001b(B\u001b[m Justificar\u001b(B\u001b[0;7m^W\u001b(B\u001b[m Buscar    \u001b(B\u001b[0;7m^V\u001b(B\u001b[m Pág Sig   \u001b(B\u001b[0;7m^U\u001b(B\u001b[m PegarTxt  \u001b(B\u001b[0;7m^T\u001b(B\u001b[m Ortografía\u001b[3;51H"
+    ],
+    [
+      0.397514,
+      "\r\u001b[23d\u001b[J\u001b[24;80H\u001b[24;1H\u001b[?1049l\r\u001b[?1l\u001b\u003eroot@galera1:/home/galera# "
+    ],
+    [
+      0.441445,
+      "nano /etc/apt/sources.list.d/galera.list"
+    ],
+    [
+      0.242403,
+      "\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[26Papt-get update"
+    ],
+    [
+      0.823667,
+      "\r\n"
+    ],
+    [
+      0.144281,
+      "\r\r0% [Trabajando]"
+    ],
+    [
+      0.220680,
+      "\r               \rIgn http://releases.galeracluster.com jessie InRelease\r\n\r               \r10% [Conectando a ftp.es.debian.org (82.194.78.250)] [Esperando las cabeceras]"
+    ],
+    [
+      0.097069,
+      "\r                                                                              \rObj http://security.debian.org jessie/updates InRelease\r\n\r                                                                              \r17% [Conectando a ftp.es.debian.org (82.194.78.250)] [Conectando a releases.gal"
+    ],
+    [
+      0.000527,
+      "\r17% [InRelease gpgv 63,1 kB] [Conectando a ftp.es.debian.org (82.194.78.250)] ["
+    ],
+    [
+      0.035725,
+      "\r                                                                               \r22% [Conectando a ftp.es.debian.org (82.194.78.250)] [Esperando las cabeceras]"
+    ],
+    [
+      0.011340,
+      "\r                                                                              \rIgn http://releases.galeracluster.com jessie Release.gpg\r\n\r30% [Conectando a ftp.es.debian.org (82.194.78.250)] [Esperando las cabeceras]"
+    ],
+    [
+      0.114720,
+      "\r30% [Conectando a ftp.es.debian.org (82.194.78.250)] [Esperando las cabeceras]"
+    ],
+    [
+      0.030804,
+      "\r                                                                              \rIgn http://releases.galeracluster.com jessie Release\r\n\r33% [Conectando a ftp.es.debian.org (82.194.78.250)] [Esperando las cabeceras]"
+    ],
+    [
+      0.095622,
+      "\r                                                                              \r33% [Conectando a ftp.es.debian.org (82.194.78.250)] [Esperando las cabeceras] "
+    ],
+    [
+      0.125802,
+      "\r33% [Conectando a ftp.es.debian.org (82.194.78.250)] [Esperando las cabeceras] "
+    ],
+    [
+      0.185003,
+      "\r                                                                               \rObj http://security.debian.org jessie/updates/main Sources\r\n\r33% [Conectando a ftp.es.debian.org (82.194.78.250)] [Esperando las cabeceras] "
+    ],
+    [
+      0.000586,
+      "\r33% [Sources 0 B] [Conectando a ftp.es.debian.org (82.194.78.250)] [Esperando l"
+    ],
+    [
+      0.005769,
+      "\r100% [Conectando a ftp.es.debian.org (82.194.78.250)] [Esperando las cabeceras]"
+    ],
+    [
+      0.060512,
+      "\r                                                                               \rObj http://security.debian.org jessie/updates/main amd64 Packages\r\n\r100% [Conectando a ftp.es.debian.org (82.194.78.250)] [Esperando las cabeceras]"
+    ],
+    [
+      0.000345,
+      "\r100% [Packages 0 B] [Conectando a ftp.es.debian.org (82.194.78.250)] [Esperando"
+    ],
+    [
+      0.004015,
+      "\r100% [Conectando a ftp.es.debian.org (82.194.78.250)] [Esperando las cabeceras]"
+    ],
+    [
+      0.121588,
+      "\r                                                                               \rObj http://security.debian.org jessie/updates/main Translation-en\r\n\r100% [Esperando las cabeceras] [Conectando a releases.galeracluster.com (62.109"
+    ],
+    [
+      0.002160,
+      "\r100% [Translation-en 0 B] [Esperando las cabeceras] [Conectando a releases.gale"
+    ],
+    [
+      0.007495,
+      "\r100% [Esperando las cabeceras] [Conectando a releases.galeracluster.com (62.109"
+    ],
+    [
+      0.312722,
+      "\r                                                                               \rDes:1 http://ftp.es.debian.org jessie InRelease [128 kB]\r\n\r87% [1 InRelease 13,8 kB/128 kB 11%] [Conectando a releases.galeracluster.com ("
+    ],
+    [
+      0.396502,
+      "\r                                                                               \r100% [Conectando a releases.galeracluster.com (62.109.61.219)]"
+    ],
+    [
+      0.000782,
+      "\r                                                              \r100% [1 InRelease gpgv 128 kB] [Conectando a releases.galeracluster.com (62.109"
+    ],
+    [
+      0.039608,
+      "\r100% [Esperando las cabeceras] [Conectando a releases.galeracluster.com (62.109"
+    ],
+    [
+      0.027039,
+      "\r                                                                               \rDes:2 http://ftp.es.debian.org jessie-updates InRelease [126 kB]\r\n"
+    ],
+    [
+      0.000362,
+      "\r                                                                               \r90% [2 InRelease 29,2 kB/126 kB 23%] [Esperando las cabeceras]"
+    ],
+    [
+      0.199161,
+      "\r                                                              \r100% [Esperando las cabeceras]\r                              \r100% [2 InRelease gpgv 126 kB] [Esperando las cabeceras]"
+    ],
+    [
+      0.044764,
+      "\r                                                        \r100% [Esperando las cabeceras] [Conectando a releases.galeracluster.com (62.109"
+    ],
+    [
+      0.024861,
+      "\r100% [Esperando las cabeceras] [Conectando a releases.galeracluster.com (62.109"
+    ],
+    [
+      0.073481,
+      "\r                                                                               \r100% [Esperando las cabeceras]"
+    ],
+    [
+      0.333145,
+      "\r                              \rDes:3 http://ftp.es.debian.org jessie/main Translation-es [314 kB]\r\n\r                              \r76% [3 Translation-es 0 B/314 kB 0%] [Conectando a releases.galeracluster.com ("
+    ],
+    [
+      0.409147,
+      "\r                                                                               \rErr http://releases.galeracluster.com jessie/main amd64 Packages\r\n  404  Not Found\r\n\r93% [3 Translation-es 218 kB/314 kB 69%] [Conectando a releases.galeracluster.c"
+    ],
+    [
+      0.146127,
+      "\r                                                                               \rIgn http://releases.galeracluster.com jessie/main Translation-es_ES\r\n\r98% [3 Translation-es 285 kB/314 kB 91%] [Conectando a releases.galeracluster.c"
+    ],
+    [
+      0.145114,
+      "\r                                                                               \rIgn http://releases.galeracluster.com jessie/main Translation-es\r\n\r98% [3 Translation-es 285 kB/314 kB 91%] [Conectando a releases.galeracluster.c"
+    ],
+    [
+      0.145523,
+      "\r                                                                               \rIgn http://releases.galeracluster.com jessie/main Translation-en\r\n\r                                                                               \r98% [3 Translation-es 285 kB/314 kB 91%]"
+    ],
+    [
+      0.074933,
+      "\r                                        \r100% [Trabajando]"
+    ],
+    [
+      0.001165,
+      "\r                 \r100% [3 Translation-es bzip2 0 B] [Esperando las cabeceras]"
+    ],
+    [
+      0.072902,
+      "\r                                                           \r100% [Esperando las cabeceras]"
+    ],
+    [
+      0.473177,
+      "\r                              \rDes:4 http://ftp.es.debian.org jessie/main Translation-en [4.585 kB]\r\n\r                              \r23% [4 Translation-en 16,6 kB/4.585 kB 0%]"
+    ],
+    [
+      0.500770,
+      "\r                                          \r25% [4 Translation-en 176 kB/4.585 kB 4%]"
+    ],
+    [
+      0.500771,
+      "\r                                         \r30% [4 Translation-en 445 kB/4.585 kB 10%]"
+    ],
+    [
+      0.500348,
+      "\r35% [4 Translation-en 747 kB/4.585 kB 16%]"
+    ],
+    [
+      0.500673,
+      "\r                                          \r41% [4 Translation-en 1.100 kB/4.585 kB 24%]                        399 kB/s 8s"
+    ],
+    [
+      0.500714,
+      "\r49% [4 Translation-en 1.590 kB/4.585 kB 35%]                        399 kB/s 7s"
+    ],
+    [
+      0.501539,
+      "\r61% [4 Translation-en 2.297 kB/4.585 kB 50%]                        399 kB/s 5s"
+    ],
+    [
+      0.499985,
+      "\r75% [4 Translation-en 3.118 kB/4.585 kB 68%]                        399 kB/s 3s"
+    ],
+    [
+      0.500528,
+      "\r94% [4 Translation-en 4.224 kB/4.585 kB 92%]                        399 kB/s 0s"
+    ],
+    [
+      0.194156,
+      "\r100% [Trabajando]                                                   399 kB/s 0s"
+    ],
+    [
+      0.000703,
+      "\r100% [4 Translation-en bzip2 0 B]                                   399 kB/s 0s"
+    ],
+    [
+      0.067888,
+      "\r                                                                               \rDes:5 http://ftp.es.debian.org jessie-updates/main Sources [2.481 B]\r\n\r100% [4 Translation-en bzip2 0 B] [5 Sources 0 B/2.481 B 0%]        399 kB/s 0s"
+    ],
+    [
+      0.000540,
+      "\r100% [4 Translation-en bzip2 0 B]                                   399 kB/s 0s"
+    ],
+    [
+      0.067186,
+      "\r                                                                               \rDes:6 http://ftp.es.debian.org jessie-updates/main amd64 Packages/DiffIndex [229 B]\r\n\r100% [4 Translation-en bzip2 0 B] [6 Packages 0 B/229 B 0%]         399 kB/s 0s"
+    ],
+    [
+      0.001171,
+      "\r100% [4 Translation-en bzip2 0 B]                                   399 kB/s 0s"
+    ],
+    [
+      0.068115,
+      "\r                                                                               \rDes:7 http://ftp.es.debian.org jessie-updates/main Translation-en/DiffIndex [229 B]\r\n\r100% [4 Translation-en bzip2 0 B] [7 Translation-en 0 B/229 B 0%]   399 kB/s 0s"
+    ],
+    [
+      0.001237,
+      "\r100% [4 Translation-en bzip2 0 B]                                   399 kB/s 0s"
+    ],
+    [
+      0.074367,
+      "\r                                                                               \rObj http://ftp.es.debian.org jessie/main Sources\r\n\r100% [4 Translation-en bzip2 0 B]                                   399 kB/s 0s\r100% [4 Translation-en bzip2 0 B] [Sources 0 B]                     399 kB/s 0s"
+    ],
+    [
+      0.137482,
+      "\r                                                                               \rObj http://ftp.es.debian.org jessie/main amd64 Packages\r\n\r100% [4 Translation-en bzip2 0 B] [Sources 32,3 MB]                 399 kB/s 0s"
+    ],
+    [
+      0.403774,
+      "\r100% [4 Translation-en bzip2 0 B]                                   399 kB/s 0s"
+    ],
+    [
+      0.000634,
+      "\r100% [4 Translation-en bzip2 0 B] [Packages 0 B]                    399 kB/s 0s"
+    ],
+    [
+      0.272500,
+      "\r100% [Packages 33,8 MB]                                             399 kB/s 0s"
+    ],
+    [
+      0.000791,
+      "\r100% [Packages 33,8 MB]                                             399 kB/s 0s"
+    ],
+    [
+      0.283970,
+      "\r100% [Trabajando]                                                   399 kB/s 0s"
+    ],
+    [
+      0.000422,
+      "\r                                                                               \rDescargados 5.155 kB en 9s (536 kB/s)\r\n"
+    ],
+    [
+      0.003065,
+      "W"
+    ],
+    [
+      0.000644,
+      ": Fallo al obtener http://releases.galeracluster.com/debian/dists/dists/jessie/main/binary-amd64/Packages  404  Not Found\r\n\r\nE: No se han podido descargar algunos archivos de índice, se han omitido, o se han utilizado unos antiguos en su lugar.\r\n"
+    ],
+    [
+      0.001023,
+      "root@galera1:/home/galera# "
+    ],
+    [
+      0.668356,
+      "apt-get update"
+    ],
+    [
+      0.689687,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008nano /etc/apt/sources.list.d/galera.list"
+    ],
+    [
+      0.331077,
+      "\r\n"
+    ],
+    [
+      0.008717,
+      "\u001b[?1049h\u001b[1;24r\u001b(B\u001b[m\u001b[4l\u001b[?7h\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000822,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000576,
+      "\u001b[?1h\u001b=\u001b[?1h\u001b="
+    ],
+    [
+      0.003475,
+      "\u001b[39;49m\u001b[39;49m\u001b(B\u001b[m\u001b[H\u001b[2J\u001b(B\u001b[0;7m  GNU nano 2.2.6    Fichero: /etc/apt/sources.list.d/galera.list                \u001b[3;1H\u001b(B\u001b[0m\u001b[33mdeb\u001b(B\u001b[0;1m\u001b[31m \u001b[32mhttp://releases.galeracluster.com/debian/dists\u001b[31m jessie\u001b[35m main\u001b[22;32H\u001b[39m\u001b(B\u001b[0;7m[ 1 línea leída ]\r\u001b[23d^G\u001b(B\u001b[m Ver ayuda \u001b(B\u001b[0;7m^O\u001b(B\u001b[m Guardar   \u001b(B\u001b[0;7m^R\u001b(B\u001b[m Leer Fich \u001b(B\u001b[0;7m^Y\u001b(B\u001b[m Pág Ant   \u001b(B\u001b[0;7m^K\u001b(B\u001b[m CortarTxt \u001b(B\u001b[0;7m^C\u001b(B\u001b[m Pos actual\r\u001b[24d\u001b(B\u001b[0;7m^X\u001b(B\u001b[m Salir     \u001b(B\u001b[0;7m^J\u001b(B\u001b[m Justificar\u001b(B\u001b[0;7m^W\u001b(B\u001b[m Buscar    \u001b(B\u001b[0;7m^V\u001b(B\u001b[m Pág Sig   \u001b(B\u001b[0;7m^U\u001b(B\u001b[m PegarTxt  \u001b(B\u001b[0;7m^T\u001b(B\u001b[m Ortografía\r\u001b[3d"
+    ],
+    [
+      0.603493,
+      "\u001b[C"
+    ],
+    [
+      0.502329,
+      "\u001b[C"
+    ],
+    [
+      0.028225,
+      "\u001b[C"
+    ],
+    [
+      0.030496,
+      "\u001b[C"
+    ],
+    [
+      0.030365,
+      "\u001b[C"
+    ],
+    [
+      0.030831,
+      "\u001b[C"
+    ],
+    [
+      0.030228,
+      "\u001b[C"
+    ],
+    [
+      0.033990,
+      "\u001b[C"
+    ],
+    [
+      0.031129,
+      "\u001b[C"
+    ],
+    [
+      0.026183,
+      "\u001b[C"
+    ],
+    [
+      0.030380,
+      "\u001b[C"
+    ],
+    [
+      0.030014,
+      "\u001b[C"
+    ],
+    [
+      0.030708,
+      "\u001b[C"
+    ],
+    [
+      0.029961,
+      "\u001b[C"
+    ],
+    [
+      0.029610,
+      "\u001b[C"
+    ],
+    [
+      0.031091,
+      "\u001b[C"
+    ],
+    [
+      0.029875,
+      "\u001b[C"
+    ],
+    [
+      0.031257,
+      "\u001b[C"
+    ],
+    [
+      0.029017,
+      "\u001b[C"
+    ],
+    [
+      0.032379,
+      "\u001b[C"
+    ],
+    [
+      0.027929,
+      "\u001b[C"
+    ],
+    [
+      0.029877,
+      "\u001b[C"
+    ],
+    [
+      0.029231,
+      "\u001b[C"
+    ],
+    [
+      0.030694,
+      "\u001b[C"
+    ],
+    [
+      0.029857,
+      "\u001b[C"
+    ],
+    [
+      0.029447,
+      "\r\u001b[22d\u001b[K\u001b[3;27H"
+    ],
+    [
+      0.031041,
+      "\u001b[C"
+    ],
+    [
+      0.031621,
+      "\u001b[C"
+    ],
+    [
+      0.028538,
+      "\u001b[C"
+    ],
+    [
+      0.029784,
+      "\u001b[C"
+    ],
+    [
+      0.030875,
+      "\u001b[C"
+    ],
+    [
+      0.030097,
+      "\u001b[C"
+    ],
+    [
+      0.031124,
+      "\u001b[C"
+    ],
+    [
+      0.029857,
+      "\u001b[C"
+    ],
+    [
+      0.030663,
+      "\u001b[C"
+    ],
+    [
+      0.030183,
+      "\u001b[C"
+    ],
+    [
+      0.031173,
+      "\u001b[C"
+    ],
+    [
+      0.029395,
+      "\u001b[C"
+    ],
+    [
+      0.031236,
+      "\u001b[C"
+    ],
+    [
+      0.030239,
+      "\u001b[C"
+    ],
+    [
+      0.029473,
+      "\u001b[C"
+    ],
+    [
+      0.029993,
+      "\u001b[C"
+    ],
+    [
+      0.031547,
+      "\u001b[C"
+    ],
+    [
+      0.030741,
+      "\u001b[C"
+    ],
+    [
+      0.029405,
+      "\u001b[C"
+    ],
+    [
+      0.030314,
+      "\u001b[C"
+    ],
+    [
+      0.030860,
+      "\u001b[C"
+    ],
+    [
+      0.029187,
+      "\u001b[C"
+    ],
+    [
+      0.029609,
+      "\u001b[C"
+    ],
+    [
+      0.030647,
+      "\u001b[C"
+    ],
+    [
+      0.033043,
+      "\u001b[C"
+    ],
+    [
+      0.027718,
+      "\u001b[C"
+    ],
+    [
+      0.030014,
+      "\u001b[C"
+    ],
+    [
+      0.030184,
+      "\u001b[C"
+    ],
+    [
+      0.030360,
+      "\u001b[C"
+    ],
+    [
+      0.030347,
+      "\u001b[C"
+    ],
+    [
+      0.030281,
+      "\u001b[C"
+    ],
+    [
+      0.654612,
+      "\u001b[1;69H\u001b(B\u001b[0;7mModificado\u001b[3;57H\u001b(B\u001b[0;1m\u001b[35m main\u001b[39m\u001b(B\u001b[m\u001b[K\u001b[57G"
+    ],
+    [
+      0.149489,
+      "\u0008\u001b(B\u001b[0;1m\u001b[35m main\u001b[39m\u001b(B\u001b[m\u001b[K\u001b[56G"
+    ],
+    [
+      0.139644,
+      "\u0008\u0008\u001b[1P\u001b[C"
+    ],
+    [
+      0.139635,
+      "\u0008\u001b(B\u001b[0;1m\u001b[35m main\u001b[39m\u001b(B\u001b[m\u001b[K\u001b[54G"
+    ],
+    [
+      0.132113,
+      "\u0008\u001b(B\u001b[0;1m\u001b[35m main\u001b[39m\u001b(B\u001b[m\u001b[K\u001b[53G"
+    ],
+    [
+      0.138963,
+      "\u0008\u001b(B\u001b[0;1m\u001b[31m main\u001b[39m\u001b(B\u001b[m\u001b[K\u001b[52G"
+    ],
+    [
+      0.291809,
+      "\u001b(B\u001b[0;1m\u001b[31mw\u001b[35m main\u001b[53G\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.101103,
+      "\u001b(B\u001b[0;1m\u001b[31mh\u001b[35m main\u001b[54G\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.159154,
+      "\u001b(B\u001b[0;1m\u001b[31me\u001b[35m main\u001b[55G\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.150942,
+      "\u0008\u001b(B\u001b[0;1m\u001b[31mee\u001b[35m main\u001b[56G\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.260530,
+      "\u001b(B\u001b[0;1m\u001b[31mz\u001b[35m main\u001b[57G\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.105608,
+      "\u001b(B\u001b[0;1m\u001b[31my\u001b[35m main\u001b[58G\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.277587,
+      "\r\u001b[22d\u001b(B\u001b[0;7mNombre del fichero a escribir: /etc/apt/sources.list.d/galera.list              \u001b[23;14H\u001b(B\u001b[m       \u001b(B\u001b[0;7mM-D\u001b(B\u001b[m Formato DOS     \u001b(B\u001b[0;7mM-A\u001b(B\u001b[m Añadir          \u001b(B\u001b[0;7mM-B\u001b(B\u001b[m Respaldar fich\u001b[24;2H\u001b(B\u001b[0;7mC\u001b(B\u001b[m Cancelar         \u001b(B\u001b[0;7mM-M\u001b(B\u001b[m Formato Mac     \u001b(B\u001b[0;7mM-P\u001b(B\u001b[m Anteponer\u001b[K\u001b[22;67H"
+    ],
+    [
+      0.294016,
+      "\u001b[1;69H\u001b[39;49m\u001b(B\u001b[0;7m          \u001b[22;30H\u001b(B\u001b[m\u001b[1K \u001b(B\u001b[0;7m[ Escrita línea 1 ]\u001b(B\u001b[m\u001b[K\u001b[23;14H\u001b(B\u001b[0;7m^O\u001b(B\u001b[m Guardar   \u001b(B\u001b[0;7m^R\u001b(B\u001b[m Leer Fich \u001b(B\u001b[0;7m^Y\u001b(B\u001b[m Pág Ant   \u001b(B\u001b[0;7m^K\u001b(B\u001b[m CortarTxt \u001b(B\u001b[0;7m^C\u001b(B\u001b[m Pos actual\u001b[24;2H\u001b(B\u001b[0;7mX\u001b(B\u001b[m Salir     \u001b(B\u001b[0;7m^J\u001b(B\u001b[m Justificar\u001b(B\u001b[0;7m^W\u001b(B\u001b[m Buscar    \u001b(B\u001b[0;7m^V\u001b(B\u001b[m Pág Sig   \u001b(B\u001b[0;7m^U\u001b(B\u001b[m PegarTxt  \u001b(B\u001b[0;7m^T\u001b(B\u001b[m Ortografía\u001b[3;58H"
+    ],
+    [
+      0.269357,
+      "\r\u001b[23d\u001b[J\u001b[24;80H\u001b[24;1H\u001b[?1049l\r\u001b[?1l\u001b\u003eroot@galera1:/home/galera# "
+    ],
+    [
+      0.376131,
+      "nano /etc/apt/sources.list.d/galera.list"
+    ],
+    [
+      0.230058,
+      "\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[26Papt-get update"
+    ],
+    [
+      0.552713,
+      "\r\n"
+    ],
+    [
+      0.106431,
+      "\r\r0% [Trabajando]"
+    ],
+    [
+      0.156886,
+      "\r               \rObj http://security.debian.org jessie/updates InRelease\r\n\r               \r0% [Esperando las cabeceras] [Esperando las cabeceras]\r                                                      \rDes:1 http://ftp.es.debian.org jessie InRelease [128 kB]\r\n\r                                                      \rIgn http://releases.galeracluster.com wheezy InRelease\r\n\r                                                      \r11% [1 InRelease 13,8 kB/128 kB 11%]"
+    ],
+    [
+      0.000517,
+      "\r                                    \r11% [InRelease gpgv 63,1 kB] [1 InRelease 13,8 kB/128 kB 11%] [Conectando a rel"
+    ],
+    [
+      0.032000,
+      "\r11% [1 InRelease 13,8 kB/128 kB 11%] [Conectando a releases.galeracluster.com ("
+    ],
+    [
+      0.045197,
+      "\r                                                                               \r11% [1 InRelease 13,8 kB/128 kB 11%] [Esperando las cabeceras]"
+    ],
+    [
+      0.047326,
+      "\r                                                              \r11% [1 InRelease 13,8 kB/128 kB 11%] [Esperando las cabeceras] [Esperando las c"
+    ],
+    [
+      0.021087,
+      "\r                                                                               \rIgn http://releases.galeracluster.com wheezy Release.gpg\r\n\r                                                                               \r11% [1 InRelease 13,8 kB/128 kB 11%] [Esperando las cabeceras]"
+    ],
+    [
+      0.021349,
+      "\r                                                              \r11% [1 InRelease 13,8 kB/128 kB 11%] [Conectando a releases.galeracluster.com ("
+    ],
+    [
+      0.088412,
+      "\r                                                                               \rObj http://security.debian.org jessie/updates/main Sources\r\n\r12% [1 InRelease 15,2 kB/128 kB 12%] [Esperando las cabeceras] [Conectando a re"
+    ],
+    [
+      0.001884,
+      "\r                                                                               \rObj http://security.debian.org jessie/updates/main amd64 Packages\r\n\r12% [1 InRelease 15,2 kB/128 kB 12%] [Esperando las cabeceras] [Esperando las c\r12% [Sources 0 B] [1 InRelease 15,2 kB/128 kB 12%] [Esperando las cabeceras] [E"
+    ],
+    [
+      0.004732,
+      "\r75% [1 InRelease 15,2 kB/128 kB 12%] [Esperando las cabeceras] [Esperando las c"
+    ],
+    [
+      0.000768,
+      "\r75% [Packages 0 B] [1 InRelease 15,2 kB/128 kB 12%] [Esperando las cabeceras] ["
+    ],
+    [
+      0.003676,
+      "\r84% [1 InRelease 15,2 kB/128 kB 12%] [Esperando las cabeceras] [Esperando las c"
+    ],
+    [
+      0.023685,
+      "\r                                                                               \rIgn http://releases.galeracluster.com wheezy Release\r\n\r                                                                               \r84% [1 InRelease 15,2 kB/128 kB 12%] [Esperando las cabeceras]"
+    ],
+    [
+      0.010495,
+      "\r                                                              \rObj http://security.debian.org jessie/updates/main Translation-en\r\n\r                                                              \r84% [1 InRelease 15,2 kB/128 kB 12%] [Conectando a releases.galeracluster.com ("
+    ],
+    [
+      0.000600,
+      "\r84% [Translation-en 0 B] [1 InRelease 15,2 kB/128 kB 12%] [Conectando a release"
+    ],
+    [
+      0.005262,
+      "\r87% [1 InRelease 15,2 kB/128 kB 12%] [Conectando a releases.galeracluster.com ("
+    ],
+    [
+      0.402686,
+      "\r                                                                               \r100% [Esperando las cabeceras]"
+    ],
+    [
+      0.000882,
+      "\r                              \r100% [1 InRelease gpgv 128 kB] [Esperando las cabeceras]"
+    ],
+    [
+      0.034441,
+      "\r                                                        \r100% [Esperando las cabeceras] [Conectando a releases.galeracluster.com (62.109"
+    ],
+    [
+      0.033391,
+      "\r                                                                               \rDes:2 http://ftp.es.debian.org jessie-updates InRelease [126 kB]\r\n\r90% [2 InRelease 27,8 kB/126 kB 22%] [Conectando a releases.galeracluster.com ("
+    ],
+    [
+      0.268387,
+      "\r                                                                               \r100% [Conectando a releases.galeracluster.com (62.109.61.219)]\r                                                              \r100% [2 InRelease gpgv 126 kB] [Conectando a releases.galeracluster.com (62.109"
+    ],
+    [
+      0.033172,
+      "\r100% [Esperando las cabeceras] [Conectando a releases.galeracluster.com (62.109"
+    ],
+    [
+      0.042227,
+      "\r                                                                               \r100% [Esperando las cabeceras]"
+    ],
+    [
+      0.080164,
+      "\r                              \r100% [Conectando a releases.galeracluster.com (62.109.61.219)]"
+    ],
+    [
+      0.070566,
+      "\r                                                              \rDes:3 http://ftp.es.debian.org jessie/main Translation-es [314 kB]\r\n\r                                                              \r79% [3 Translation-es 37,6 kB/314 kB 12%] [Esperando las cabeceras]"
+    ],
+    [
+      0.454226,
+      "\r                                                                   \r100% [Conectando a releases.galeracluster.com (62.109.61.219)]"
+    ],
+    [
+      0.000553,
+      "\r                                                              \r100% [3 Translation-es bzip2 0 B] [Esperando las cabeceras] [Esperando las cabe"
+    ],
+    [
+      0.011384,
+      "\r                                                                               \rDes:4 http://ftp.es.debian.org jessie/main Translation-en [4.585 kB]\r\n\r23% [3 Translation-es bzip2 0 B] [4 Translation-en 64,2 kB/4.585 kB 1%] [Espera"
+    ],
+    [
+      0.063645,
+      "\r23% [4 Translation-en 64,2 kB/4.585 kB 1%] [Conectando a releases.galeracluster"
+    ],
+    [
+      0.500682,
+      "\r                                                                               \r35% [4 Translation-en 759 kB/4.585 kB 17%] [Esperando las cabeceras]"
+    ],
+    [
+      0.464141,
+      "\r                                                                    \rErr http://releases.galeracluster.com wheezy/main amd64 Packages\r\n  404  Not Found\r\n\r                                                                    \r53% [4 Translation-en 1.806 kB/4.585 kB 39%]"
+    ],
+    [
+      0.145260,
+      "\r                                            \rIgn http://releases.galeracluster.com wheezy/main Translation-es_ES\r\n\r61% [4 Translation-en 2.260 kB/4.585 kB 49%]"
+    ],
+    [
+      0.145676,
+      "\r                                            \rIgn http://releases.galeracluster.com wheezy/main Translation-es\r\n\r68% [4 Translation-en 2.677 kB/4.585 kB 58%]"
+    ],
+    [
+      0.146529,
+      "\r                                            \rIgn http://releases.galeracluster.com wheezy/main Translation-en\r\n\r77% [4 Translation-en 3.220 kB/4.585 kB 70%]"
+    ],
+    [
+      0.367355,
+      "\r                                            \r100% [Trabajando]"
+    ],
+    [
+      0.004457,
+      "\r                 \r100% [4 Translation-en bzip2 0 B]"
+    ],
+    [
+      0.067076,
+      "\r                                 \rDes:5 http://ftp.es.debian.org jessie-updates/main Sources [2.481 B]\r\n\r                                 \r100% [4 Translation-en bzip2 0 B] [5 Sources 0 B/2.481 B 0%]"
+    ],
+    [
+      0.000744,
+      "\r                                                            \r100% [4 Translation-en bzip2 0 B]"
+    ],
+    [
+      0.067039,
+      "\r                                 \rDes:6 http://ftp.es.debian.org jessie-updates/main amd64 Packages/DiffIndex [229 B]\r\n\r                                 \r100% [4 Translation-en bzip2 0 B] [6 Packages 0 B/229 B 0%]"
+    ],
+    [
+      0.000533,
+      "\r                                                           \r100% [4 Translation-en bzip2 0 B]"
+    ],
+    [
+      0.066460,
+      "\r                                 \rDes:7 http://ftp.es.debian.org jessie-updates/main Translation-en/DiffIndex [229 B]\r\n\r                                 \r100% [4 Translation-en bzip2 0 B] [7 Translation-en 0 B/229 B 0%]"
+    ],
+    [
+      0.000474,
+      "\r                                                                 \r100% [4 Translation-en bzip2 0 B]"
+    ],
+    [
+      0.069723,
+      "\r                                 \rObj http://ftp.es.debian.org jessie/main Sources\r\n\r100% [4 Translation-en bzip2 0 B]\r                                 \r100% [4 Translation-en bzip2 0 B] [Sources 0 B]"
+    ],
+    [
+      0.141680,
+      "\r                                               \rObj http://ftp.es.debian.org jessie/main amd64 Packages\r\n\r                                               \r100% [4 Translation-en bzip2 0 B] [Sources 32,3 MB]"
+    ],
+    [
+      0.500615,
+      "\r100% [4 Translation-en bzip2 0 B] [Sources 32,3 MB]"
+    ],
+    [
+      0.077629,
+      "\r                                                   \r100% [4 Translation-en bzip2 0 B]"
+    ],
+    [
+      0.000345,
+      "\r                                 \r100% [4 Translation-en bzip2 0 B] [Packages 0 B]"
+    ],
+    [
+      0.246336,
+      "\r                                                \r100% [Packages 33,8 MB]"
+    ],
+    [
+      0.000748,
+      "\r100% [Packages 33,8 MB]"
+    ],
+    [
+      0.348473,
+      "\r                       \r100% [Trabajando]\r                 \r"
+    ],
+    [
+      0.000744,
+      "Descargados 5.155 kB en 5s (969 kB/s)\r\n"
+    ],
+    [
+      0.004491,
+      "W: Fallo al obtener http://releases.galeracluster.com/debian/dists/dists/wheezy/main/binary-amd64/Packages  404  Not Found\r\n\r\nE: No se han podido descargar algunos archivos de índice, se han omitido, o se han utilizado unos antiguos en su lugar.\r\nroot@galera1:/home/galera# "
+    ],
+    [
+      1.927477,
+      "F"
+    ],
+    [
+      0.292261,
+      "U"
+    ],
+    [
+      0.188885,
+      "C"
+    ],
+    [
+      0.094583,
+      "K"
+    ],
+    [
+      0.146477,
+      " "
+    ],
+    [
+      0.120209,
+      "Y"
+    ],
+    [
+      0.109426,
+      "O"
+    ],
+    [
+      0.070221,
+      "U"
+    ],
+    [
+      0.191239,
+      " "
+    ],
+    [
+      0.119247,
+      "D"
+    ],
+    [
+      0.162638,
+      "E"
+    ],
+    [
+      0.170875,
+      "B"
+    ],
+    [
+      0.130609,
+      "I"
+    ],
+    [
+      0.092754,
+      "A"
+    ],
+    [
+      0.092031,
+      "N"
+    ],
+    [
+      0.298993,
+      "\r\n"
+    ],
+    [
+      0.000988,
+      "bash: FUCK: no se encontró la orden\r\n"
+    ],
+    [
+      0.000424,
+      "root@galera1:/home/galera# "
+    ],
+    [
+      2.727545,
+      "r"
+    ],
+    [
+      0.160834,
+      "m"
+    ],
+    [
+      0.123862,
+      " "
+    ],
+    [
+      0.136830,
+      "-"
+    ],
+    [
+      0.748133,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.500573,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.030293,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.031426,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.029895,
+      "\u0007"
+    ],
+    [
+      0.031587,
+      "\u0007"
+    ],
+    [
+      0.031358,
+      "\u0007"
+    ],
+    [
+      0.026383,
+      "\u0007"
+    ],
+    [
+      0.031368,
+      "\u0007"
+    ],
+    [
+      0.030465,
+      "\u0007"
+    ],
+    [
+      0.255379,
+      "r"
+    ],
+    [
+      0.252560,
+      "m"
+    ],
+    [
+      0.171847,
+      " "
+    ],
+    [
+      0.148579,
+      "-"
+    ],
+    [
+      0.159924,
+      "r"
+    ],
+    [
+      0.270460,
+      "f"
+    ],
+    [
+      0.339794,
+      " "
+    ],
+    [
+      0.482534,
+      "/"
+    ],
+    [
+      3.524445,
+      "\r\n"
+    ],
+    [
+      0.001789,
+      "rm: es peligroso operar recursivamente sobre «/»\r\nrm: utilice --no-preserve-root para saltarse esta medida de seguridad\r\n"
+    ],
+    [
+      0.000699,
+      "root@galera1:/home/galera# "
+    ],
+    [
+      1.536715,
+      "e"
+    ],
+    [
+      0.161593,
+      "i"
+    ],
+    [
+      0.071708,
+      "x"
+    ],
+    [
+      0.348488,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.129485,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.089934,
+      "x"
+    ],
+    [
+      0.124939,
+      "i"
+    ],
+    [
+      0.146753,
+      "t"
+    ],
+    [
+      0.065398,
+      "\r\nexit\r\n"
+    ],
+    [
+      0.001361,
+      "\u001b]0;galera@galera1: ~\u0007galera@galera1:~$ "
+    ],
+    [
+      0.244025,
+      "e"
+    ],
+    [
+      0.201840,
+      "x"
+    ],
+    [
+      0.094841,
+      "i"
+    ],
+    [
+      0.236275,
+      "t"
+    ],
+    [
+      0.291614,
+      "\r\nlogout\r\n"
+    ],
+    [
+      0.002936,
+      "Connection to 192.168.1.16 closed.\r\r\n"
+    ],
+    [
+      0.000581,
+      "\u001b]0;gabriel@JARVIS: ~\u0007gabriel@JARVIS:~$ "
+    ],
+    [
+      0.296399,
+      "e"
+    ],
+    [
+      0.190402,
+      "x"
+    ],
+    [
+      0.150976,
+      "i"
+    ],
+    [
+      0.170588,
+      "t"
+    ],
+    [
+      0.152018,
+      "\r\nlogout\r\n"
+    ],
+    [
+      0.004013,
+      "Connection to jarvis.titaniumsystem.es closed.\r\r\n\u001b]0;gabriel@spaceCore:~\u0007[gabriel@spaceCore ~]$ "
+    ],
+    [
+      0.289947,
+      "e"
+    ],
+    [
+      0.190605,
+      "x"
+    ],
+    [
+      0.120975,
+      "i"
+    ],
+    [
+      0.140804,
+      "t"
+    ],
+    [
+      0.091297,
+      "\r\nexit\r\n"
+    ]
+  ]
+}
