@@ -1,0 +1,2042 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 24,
+  "duration": 84.966152,
+  "command": "/usr/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/usr/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.976534,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000071,
+      "\u001b]2;joe@arch: ~\u0007\u001b]1;~\u0007"
+    ],
+    [
+      0.118958,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[38;5;117m~\u001b[00m \u001b[38;5;012m\u001b[38;5;133m \u001b[00m\u001b[38;5;077mᐅ\u001b[00m \u001b[K"
+    ],
+    [
+      0.000057,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.178299,
+      "\u001b[32md\u001b[39m"
+    ],
+    [
+      0.087607,
+      "\u0008\u001b[39m\u001b[4md\u001b[4me\u001b[24m"
+    ],
+    [
+      0.243065,
+      "\u0008\u0008\u001b[4md\u001b[4me\u001b[4mv\u001b[24m"
+    ],
+    [
+      1.099560,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000013,
+      "\r\r\n"
+    ],
+    [
+      0.001352,
+      "\u001b]2;dev\u0007\u001b]1;dev\u0007"
+    ],
+    [
+      0.000233,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000048,
+      "\u001b]2;joe@arch: ~/dev\u0007"
+    ],
+    [
+      0.000041,
+      "\u001b]1;~/dev\u0007"
+    ],
+    [
+      0.155375,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[38;5;117m~/dev\u001b[00m \u001b[38;5;012m\u001b[38;5;133m \u001b[00m\u001b[38;5;077mᐅ\u001b[00m \u001b[K"
+    ],
+    [
+      0.000013,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.759698,
+      "\u001b[32mc\u001b[39m"
+    ],
+    [
+      0.075392,
+      "\u0008\u001b[32mc\u001b[32md\u001b[39m"
+    ],
+    [
+      0.148997,
+      " "
+    ],
+    [
+      0.210549,
+      "\u0007"
+    ],
+    [
+      0.000065,
+      "\r\r\n"
+    ],
+    [
+      0.000180,
+      "\u001b[1;31mbash\u001b[0m/              \u001b[1;31mfsharp\u001b[0m/            \u001b[1;31mncurses_programs\u001b[0m/  \u001b[1;31mscala\u001b[0m/           \r\n\u001b[1;31mc\u001b[0m/                 \u001b[1;31mhaskell\u001b[0m/           \u001b[1;31mnode\u001b[0m/              \u001b[1;31msts\u001b[0m/             \r\n\u001b[1;31mclj\u001b[0m/               \u001b[1;31mjava\u001b[0m/              \u001b[1;31mpython\u001b[0m/            \u001b[1;31mtypescript\u001b[0m/      \r\n\u001b[1;31mcsharp\u001b[0m/            \u001b[1;31mjs\u001b[0m/                \u001b[1;31mracket\u001b[0m/                             \r\n\u001b[1;31mcss\u001b[0m/               \u001b[1;31mlua\u001b[0m/               \u001b[1;31mrethinkdb\u001b[0m/                          \r\n\u001b[J\u001b[1;31mdocker\u001b[0m/            \u001b[J\u001b[1;31mmono\u001b[0m/              \u001b[J\u001b[1;31mrust\u001b[0m/              \u001b[J                 \u001b[6A\u001b[0m\u001b[27m\u001b[24m\r\u001b[9C"
+    ],
+    [
+      0.000019,
+      "\u001b[32mcd\u001b[39m\u001b[K\u001b[1C"
+    ],
+    [
+      0.580629,
+      "bash\u001b[1m/\u001b[0m"
+    ],
+    [
+      0.000014,
+      "\r\r\n"
+    ],
+    [
+      0.000197,
+      "\u001b[7mbash/            \u001b[0m  \u001b[1;31mfsharp\u001b[0m/            \u001b[1;31mncurses_programs\u001b[0m/  \u001b[1;31mscala\u001b[0m/           \u001b[K\r\n\u001b[1;31mc\u001b[0m/                 \u001b[1;31mhaskell\u001b[0m/           \u001b[1;31mnode\u001b[0m/              \u001b[1;31msts\u001b[0m/             \u001b[K\r\n\u001b[1;31mclj\u001b[0m/               \u001b[1;31mjava\u001b[0m/              \u001b[1;31mpython\u001b[0m/            \u001b[1;31mtypescript\u001b[0m/      \u001b[K\r\n\u001b[1;31mcsharp\u001b[0m/            \u001b[1;31mjs\u001b[0m/                \u001b[1;31mracket\u001b[0m/                             \u001b[K\r\n\u001b[1;31mcss\u001b[0m/               \u001b[1;31mlua\u001b[0m/               \u001b[1;31mrethinkdb\u001b[0m/                          \u001b[K\r\n\u001b[J\u001b[1;31mdocker\u001b[0m/            \u001b[J\u001b[1;31mmono\u001b[0m/              \u001b[J\u001b[1;31mrust\u001b[0m/              \u001b[J                 \u001b[6A\u001b[0m\u001b[27m\u001b[24m\r\u001b[9C"
+    ],
+    [
+      0.000006,
+      "\u001b[32mcd\u001b[39m bash\u001b[1m/\u001b[0m\u001b[K"
+    ],
+    [
+      0.407076,
+      "\r\r\n\u001b[7mbash/            \u001b[0m  \r\u001b[7mbash/            \u001b[0m  \r\u001b[A\u001b[0m\u001b[27m\u001b[24m\r\u001b[9C\u001b[32mcd\u001b[39m bash\u001b[1m/\u001b[0m\u001b[K\u0008\u0008\u0008\u0008\u0008fsha\u001b[0mrp\u001b[1m/\u001b[0m\r\r\n\u001b[19C\u001b[7mfsharp/          \u001b[0m  \r\u001b[1;31mbash\u001b[0m/              \r\u001b[A\u001b[0m\u001b[27m\u001b[24m\r\u001b[9C\u001b[32mcd\u001b[39m fsharp\u001b[1m/\u001b[0m\u001b[K"
+    ],
+    [
+      0.478257,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008ncurse\u001b[0ms_programs\u001b[1m/\u001b[0m\r\r\n\u001b[38C\u001b[7mncurses_programs/\u001b[0m  \r\u001b[19C\u001b[1;31mfsharp\u001b[0m/            \r\u001b[A\u001b[0m\u001b[27m\u001b[24m\r\u001b[9C\u001b[32mcd\u001b[39m ncurses_programs\u001b[1m/\u001b[0m\u001b[K"
+    ],
+    [
+      0.305710,
+      "\u001b[16Dode\u001b[1m/\u001b[0m           \u001b[0m \u001b[12D\r\r\n\u001b[38C\u001b[1;31mncurses_programs\u001b[0m/  \r\u001b[1B\u001b[38C\u001b[7mnode/            \u001b[0m  \r\u001b[A\u001b[A\u001b[0m\u001b[27m\u001b[24m\r\u001b[9C\u001b[32mcd\u001b[39m node\u001b[1m/\u001b[0m\u001b[K"
+    ],
+    [
+      0.842381,
+      "\r\r\n\u001b[J\u001b[A\u001b[17C"
+    ],
+    [
+      0.001709,
+      "\u0008\u0008\u0008\u0008\u0008\u001b[4mn\u001b[4mo\u001b[4md\u001b[4me\u001b[1m\u001b[4m/\u001b[0m\u001b[24m"
+    ],
+    [
+      0.408270,
+      "\u0008\u0008\u001b[4me\u001b[24m\u001b[0m\u001b[24m \u0008"
+    ],
+    [
+      0.000014,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000025,
+      "\r\r\n\u001b[J"
+    ],
+    [
+      0.000884,
+      "\u001b]2;cd node\u0007\u001b]1;cd\u0007"
+    ],
+    [
+      0.000149,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000150,
+      "\u001b]2;joe@arch: ~/dev/node\u0007"
+    ],
+    [
+      0.000034,
+      "\u001b]1;~/dev/node\u0007"
+    ],
+    [
+      0.153786,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[38;5;117m~/dev/node\u001b[00m \u001b[38;5;012m\u001b[38;5;133m \u001b[00m\u001b[38;5;077mᐅ\u001b[00m \u001b[K"
+    ],
+    [
+      0.000086,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.807914,
+      "\u001b[32m.\u001b[39m"
+    ],
+    [
+      0.240942,
+      "\u0008\u001b[39m\u001b[4m.\u001b[4m.\u001b[24m"
+    ],
+    [
+      0.200388,
+      "\u0008\u0008\u001b[24m\u001b[32m.\u001b[24m\u001b[32m.\u001b[32m.\u001b[39m"
+    ],
+    [
+      0.401048,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000011,
+      "\r\r\n"
+    ],
+    [
+      0.001010,
+      "\u001b]2;../..\u0007\u001b]1;...\u0007"
+    ],
+    [
+      0.000186,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000132,
+      "\u001b]2;joe@arch: ~\u0007\u001b]1;~\u0007"
+    ],
+    [
+      0.160501,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[38;5;117m~\u001b[00m \u001b[38;5;012m\u001b[38;5;133m \u001b[00m\u001b[38;5;077mᐅ\u001b[00m \u001b[K"
+    ],
+    [
+      0.000036,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.137699,
+      "\u001b[32md\u001b[39m"
+    ],
+    [
+      0.119396,
+      "\u0008\u001b[33md\u001b[33mo\u001b[39m"
+    ],
+    [
+      0.139667,
+      "\u0008\u0008\u001b[4m\u001b[33md\u001b[4m\u001b[33mo\u001b[4m\u001b[33mc\u001b[24m\u001b[39m"
+    ],
+    [
+      0.114972,
+      "\u0008\u0008\u0008\u001b[24m\u001b[1m\u001b[31md\u001b[24m\u001b[1m\u001b[31mo\u001b[24m\u001b[1m\u001b[31mc\u001b[1m\u001b[31mk\u001b[0m\u001b[39m"
+    ],
+    [
+      0.195470,
+      "\u0008\u001b[1m\u001b[31mk\u001b[1m\u001b[31me\u001b[0m\u001b[39m"
+    ],
+    [
+      0.125808,
+      "\u0008\u0008\u0008\u0008\u0008\u001b[0m\u001b[32md\u001b[0m\u001b[32mo\u001b[0m\u001b[32mc\u001b[0m\u001b[32mk\u001b[0m\u001b[32me\u001b[32mr\u001b[39m"
+    ],
+    [
+      0.149734,
+      " "
+    ],
+    [
+      0.785582,
+      "\u001b[4mr\u001b[24m"
+    ],
+    [
+      0.351229,
+      "\u0007\u0008\u001b[24mr"
+    ],
+    [
+      0.000010,
+      "\r\r\n"
+    ],
+    [
+      0.000179,
+      "\u001b[0mrestart  -- Restart a running container\r\nrm       -- Remove one or more containers\r\nrmi      -- Remove one or more images\r\n\u001b[Jrun      -- Run a command in a new container\u001b[J\u001b[4A\u001b[0m\u001b[27m\u001b[24m\r\u001b[5C\u001b[32mdocker\u001b[39m r\u001b[K"
+    ],
+    [
+      0.560338,
+      "estart"
+    ],
+    [
+      0.000010,
+      "\r\r\n"
+    ],
+    [
+      0.000196,
+      "\u001b[7mrestart  -- Restart a running container\u001b[K\u001b[0m\u001b[K\r\nrm       -- Remove one or more containers\u001b[K\u001b[K\r\nrmi      -- Remove one or more images\u001b[K\u001b[K\r\n\u001b[Jrun      -- Run a command in a new container\u001b[K\u001b[J\u001b[4A\u001b[0m\u001b[27m\u001b[24m\r\u001b[5C\u001b[32mdocker\u001b[39m restart\u001b[K"
+    ],
+    [
+      0.169749,
+      "\r\r\n"
+    ],
+    [
+      0.000070,
+      "\u001b[7mrestart  -- Restart a running container\u001b[K\u001b[0m\r\u001b[7mrestart  -- Restart a running container\u001b[K\u001b[0m\r\u001b[A\u001b[0m\u001b[27m\u001b[24m\r\u001b[5C"
+    ],
+    [
+      0.000007,
+      "\u001b[32mdocker\u001b[39m restart\u001b[K"
+    ],
+    [
+      0.000060,
+      "\u0008\u0008\u0008\u0008\u0008\u0008m     \u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.000007,
+      "\r\r\n"
+    ],
+    [
+      0.000067,
+      "\u001b[0mrestart  -- Restart a running container\u001b[K\r\u001b[1B\u001b[7mrm       -- Remove one or more containers\u001b[K\u001b[0m\r\u001b[A\u001b[A\u001b[0m\u001b[27m\u001b[24m\r\u001b[5C"
+    ],
+    [
+      0.000021,
+      "\u001b[32mdocker\u001b[39m rm\u001b[K"
+    ],
+    [
+      0.188621,
+      "i"
+    ],
+    [
+      0.000016,
+      "\r\r\n"
+    ],
+    [
+      0.000055,
+      "\u001b[1B\u001b[0mrm       -- Remove one or more containers\u001b[K\r\u001b[1B\u001b[7mrmi      -- Remove one or more images\u001b[K\u001b[0m\r\u001b[3A\u001b[0m\u001b[27m\u001b[24m\r\u001b[5C"
+    ],
+    [
+      0.000008,
+      "\u001b[32mdocker\u001b[39m rmi\u001b[K"
+    ],
+    [
+      0.507916,
+      "\r\r\n\u001b[J\u001b[A\u001b[15C\u001b[1m \u001b[0m"
+    ],
+    [
+      0.005547,
+      "\u0008\u0008\u0008\u0008\u001b[4m\u001b[33mr\u001b[4m\u001b[33mm\u001b[4m\u001b[33mi\u001b[24m\u001b[39m\u001b[0m \u0008"
+    ],
+    [
+      0.169828,
+      "\u0008\u0008\u001b[4m\u001b[33mm\u001b[24m\u001b[39m\u001b[24m\u001b[39m \u0008"
+    ],
+    [
+      0.315908,
+      "\u0008\u0008\u001b[39m\u001b[4mr\u001b[24m\u001b[24m\u001b[39m \u0008"
+    ],
+    [
+      0.314615,
+      "\u0008\u001b[24m \u0008"
+    ],
+    [
+      0.663775,
+      "\u001b[4m\u001b[33me\u001b[24m\u001b[39m"
+    ],
+    [
+      0.458667,
+      "\u0007\u0008\u001b[24m\u001b[39me"
+    ],
+    [
+      0.000013,
+      "\r\r\n\u001b[J"
+    ],
+    [
+      0.000101,
+      "\u001b[0mevents  -- Get real time events from the server\r\nexec    -- Run a task inside a running container\r\n\u001b[Jexport  -- Stream the contents of a container as a tar archive\u001b[J\u001b[3A\u001b[0m\u001b[27m\u001b[24m\r\u001b[5C"
+    ],
+    [
+      0.000024,
+      "\u001b[32mdocker\u001b[39m e\u001b[K"
+    ],
+    [
+      1.075851,
+      "vents"
+    ],
+    [
+      0.000014,
+      "\r\r\n"
+    ],
+    [
+      0.000104,
+      "\u001b[7mevents  -- Get real time events from the server\u001b[K\u001b[0m\u001b[K\r\nexec    -- Run a task inside a running container\u001b[K\u001b[K\r\n\u001b[Jexport  -- Stream the contents of a container as a tar archive\u001b[K\u001b[J\u001b[3A\u001b[0m\u001b[27m\u001b[24m\r\u001b[5C"
+    ],
+    [
+      0.000006,
+      "\u001b[32mdocker\u001b[39m events\u001b[K"
+    ],
+    [
+      0.180622,
+      "\r\r\n"
+    ],
+    [
+      0.000090,
+      "\u001b[7mevents  -- Get real time events from the server\u001b[K\u001b[0m\r\u001b[7mevents  -- Get real time events from the server\u001b[K\u001b[0m\r\u001b[A\u001b[0m\u001b[27m\u001b[24m\r\u001b[5C\u001b[32mdocker\u001b[39m events\u001b[K"
+    ],
+    [
+      0.000048,
+      "\u0008\u0008\u0008\u0008\u0008xec  \u0008\u0008"
+    ],
+    [
+      0.000009,
+      "\r\r\n"
+    ],
+    [
+      0.000061,
+      "\u001b[0mevents  -- Get real time events from the server\u001b[K\r\u001b[1B\u001b[7mexec    -- Run a task inside a running container\u001b[K\u001b[0m\r\u001b[A\u001b[A\u001b[0m\u001b[27m\u001b[24m\r\u001b[5C"
+    ],
+    [
+      0.000009,
+      "\u001b[32mdocker\u001b[39m exec\u001b[K"
+    ],
+    [
+      1.576044,
+      "\r\r\n\u001b[J\u001b[A\u001b[16C\u001b[1m \u001b[0m"
+    ],
+    [
+      0.002147,
+      "\u0008\u001b[0m "
+    ],
+    [
+      0.968742,
+      "\u001b[4m\u001b[33m-\u001b[24m\u001b[39m"
+    ],
+    [
+      0.137336,
+      "\u0008\u001b[24m\u001b[1m\u001b[31m-\u001b[1m\u001b[31m-\u001b[0m\u001b[39m"
+    ],
+    [
+      0.305967,
+      "\u0007\u0008\u0008\u001b[0m\u001b[39m-\u001b[0m\u001b[39m-"
+    ],
+    [
+      0.000011,
+      "\r\r\n\u001b[J"
+    ],
+    [
+      0.000042,
+      "\u001b[0m--detach       -- Detached mode: run command in the background\r\n--interactive  -- Keep STDIN open even if not attached\r\n\u001b[J--tty          -- Allocate a pseudo-TTY\u001b[J\u001b[3A\u001b[0m\u001b[27m\u001b[24m\r\u001b[5C"
+    ],
+    [
+      0.000008,
+      "\u001b[32mdocker\u001b[39m exec --\u001b[K"
+    ],
+    [
+      0.522246,
+      "detach\u001b[1m=\u001b[0m"
+    ],
+    [
+      0.000008,
+      "\r\r\n"
+    ],
+    [
+      0.000073,
+      "\u001b[7m--detach       -- Detached mode: run command in the background\u001b[K\u001b[0m\u001b[K\r\n--interactive  -- Keep STDIN open even if not attached\u001b[K\u001b[K\r\n\u001b[J--tty          -- Allocate a pseudo-TTY\u001b[K\u001b[J\u001b[3A\u001b[0m\u001b[27m\u001b[24m\r\u001b[5C"
+    ],
+    [
+      0.000003,
+      "\u001b[32mdocker\u001b[39m exec --detach\u001b[1m=\u001b[0m\u001b[K"
+    ],
+    [
+      0.124060,
+      "\r\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[7m--detach       -- Detached mode: run command in the background\u001b[K\u001b[0m\r\u001b[7m--detach       -- Detached mode: run command in the background\u001b[K\u001b[0m\r\u001b[A\u001b[0m\u001b[27m\u001b[24m\r\u001b[5C"
+    ],
+    [
+      0.000004,
+      "\u001b[32mdocker\u001b[39m exec --detach\u001b[1m=\u001b[0m\u001b[K"
+    ],
+    [
+      0.000078,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008intera\u001b[0mctive\u001b[1m=\u001b[0m\r\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[0m--detach       -- Detached mode: run command in the background\u001b[K\r\u001b[1B\u001b[7m--interactive  -- Keep STDIN open even if not attached\u001b[K\u001b[0m\r\u001b[A\u001b[A\u001b[0m\u001b[27m\u001b[24m\r\u001b[5C"
+    ],
+    [
+      0.000025,
+      "\u001b[32mdocker\u001b[39m exec --interactive\u001b[1m=\u001b[0m\u001b[K"
+    ],
+    [
+      1.571025,
+      "\u0007\u0007\r\r\n\u001b[J\u001b[A\u001b[31C\u001b[26D\u001b[39md\u001b[39mo\u001b[39mc\u001b[39mk\u001b[39me\u001b[39mr\u001b[8C           \u001b[0m \u001b[12D"
+    ],
+    [
+      0.680512,
+      "\r\r\n\u001b[J\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r\u001b]2;joe@arch: ~\u0007\u001b]1;~\u0007"
+    ],
+    [
+      0.103036,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[38;5;117m~\u001b[00m \u001b[38;5;012m\u001b[38;5;133m \u001b[00m\u001b[38;5;077mᐅ\u001b[00m \u001b[K"
+    ],
+    [
+      0.000039,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      3.340761,
+      "\u001b[32mc\u001b[39m"
+    ],
+    [
+      0.108190,
+      "\u0008\u001b[32mc\u001b[32md\u001b[39m"
+    ],
+    [
+      0.170086,
+      " "
+    ],
+    [
+      0.849999,
+      "\u0007"
+    ],
+    [
+      0.000011,
+      "\r\r\n"
+    ],
+    [
+      0.000250,
+      "\u001b[1;31mCoin\u001b[0m/               \u001b[1;31mdev\u001b[0m/                \u001b[1;31mIdeaProjects\u001b[0m/       \u001b[1;31mVirtualBox\\ VMs\u001b[0m/  \r\n\u001b[1;31mcuekeeper-bin-0.1\u001b[0m/  \u001b[1;31mDownloads\u001b[0m/          \u001b[1;31mnotes\u001b[0m/              \u001b[1;31mWebstormProjects\u001b[0m/ \r\n\u001b[J\u001b[1;31mDesktop\u001b[0m/            \u001b[J\u001b[1;31mgit\u001b[0m/                \u001b[J\u001b[1;31mrns\u001b[0m/                \u001b[J                  \u001b[3A\u001b[0m\u001b[27m\u001b[24m\r\u001b[5C\u001b[32mcd\u001b[39m\u001b[K\u001b[1C"
+    ],
+    [
+      0.921966,
+      "Coin\u001b[1m/\u001b[0m"
+    ],
+    [
+      0.000011,
+      "\r\r\n"
+    ],
+    [
+      0.000245,
+      "\u001b[7mCoin/             \u001b[0m  \u001b[1;31mdev\u001b[0m/                \u001b[1;31mIdeaProjects\u001b[0m/       \u001b[1;31mVirtualBox\\ VMs\u001b[0m/  \u001b[K\r\n\u001b[1;31mcuekeeper-bin-0.1\u001b[0m/  \u001b[1;31mDownloads\u001b[0m/          \u001b[1;31mnotes\u001b[0m/              \u001b[1;31mWebstormProjects\u001b[0m/ \u001b[K\r\n\u001b[J\u001b[1;31mDesktop\u001b[0m/            \u001b[J\u001b[1;31mgit\u001b[0m/                \u001b[J\u001b[1;31mrns\u001b[0m/                \u001b[J                  \u001b[3A\u001b[0m\u001b[27m\u001b[24m\r\u001b[5C\u001b[32mcd\u001b[39m Coin\u001b[1m/\u001b[0m\u001b[K"
+    ],
+    [
+      0.140225,
+      "\r\r\n"
+    ],
+    [
+      0.000084,
+      "\u001b[7mCoin/             \u001b[0m  \r\u001b[7mCoin/             \u001b[0m  \r\u001b[A\u001b[0m\u001b[27m\u001b[24m\r\u001b[5C\u001b[32mcd\u001b[39m Coin\u001b[1m/\u001b[0m\u001b[K"
+    ],
+    [
+      0.000076,
+      "\u0008\u0008\u0008\u0008\u0008cuek\u001b[0meeper-bin-0.1\u001b[1m/\u001b[0m"
+    ],
+    [
+      0.000031,
+      "\r\r\n"
+    ],
+    [
+      0.000066,
+      "\u001b[1;31mCoin\u001b[0m/               \r\u001b[1B\u001b[7mcuekeeper-bin-0.1/\u001b[0m  \r\u001b[A\u001b[A\u001b[0m\u001b[27m\u001b[24m\r\u001b[5C"
+    ],
+    [
+      0.000009,
+      "\u001b[32mcd\u001b[39m cuekeeper-bin-0.1\u001b[1m/\u001b[0m\u001b[K"
+    ],
+    [
+      0.169740,
+      "\u001b[18DDesktop\u001b[1m/\u001b[0m         \u001b[0m \u001b[10D\r\r\n"
+    ],
+    [
+      0.000076,
+      "\u001b[1B\u001b[1;31mcuekeeper-bin-0.1\u001b[0m/  \r\u001b[1B\u001b[7mDesktop/          \u001b[0m  \r\u001b[3A\u001b[0m\u001b[27m\u001b[24m\r\u001b[5C\u001b[32mcd\u001b[39m Desktop\u001b[1m/\u001b[0m\u001b[K"
+    ],
+    [
+      0.253149,
+      "\u001b[8Ddev\u001b[1m/\u001b[0m   \u001b[0m \u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.000013,
+      "\r\r\n"
+    ],
+    [
+      0.000082,
+      "\u001b[20C\u001b[7mdev/              \u001b[0m  \r\u001b[2B\u001b[1;31mDesktop\u001b[0m/            \r\u001b[3A\u001b[0m\u001b[27m\u001b[24m\r\u001b[5C"
+    ],
+    [
+      0.000010,
+      "\u001b[32mcd\u001b[39m dev\u001b[1m/\u001b[0m\u001b[K"
+    ],
+    [
+      0.252587,
+      "\r\r\n\u001b[J\u001b[A\u001b[12C"
+    ],
+    [
+      0.002811,
+      "\u0008\u0008\u0008\u0008\u001b[4md\u001b[4me\u001b[4mv\u001b[1m\u001b[4m/\u001b[0m\u001b[24m"
+    ],
+    [
+      0.243863,
+      "\u0008\u0008\u001b[4mv\u001b[24m\u001b[0m\u001b[24m \u0008"
+    ],
+    [
+      0.000011,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000042,
+      "\r\r\n\u001b[J"
+    ],
+    [
+      0.000907,
+      "\u001b]2;cd dev\u0007\u001b]1;cd\u0007"
+    ],
+    [
+      0.000236,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000077,
+      "\u001b]2;joe@arch: ~/dev\u0007"
+    ],
+    [
+      0.000009,
+      "\u001b]1;~/dev\u0007"
+    ],
+    [
+      0.100462,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[38;5;117m~/dev\u001b[00m \u001b[38;5;012m\u001b[38;5;133m \u001b[00m\u001b[38;5;077mᐅ\u001b[00m \u001b[K"
+    ],
+    [
+      0.000087,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      2.465525,
+      "\u001b[32ml\u001b[39m"
+    ],
+    [
+      0.379592,
+      "\u0008\u001b[32ml\u001b[32ms\u001b[39m"
+    ],
+    [
+      0.208857,
+      " "
+    ],
+    [
+      0.468186,
+      "-"
+    ],
+    [
+      0.565478,
+      "l"
+    ],
+    [
+      0.290322,
+      "h"
+    ],
+    [
+      0.271625,
+      " "
+    ],
+    [
+      1.074853,
+      "\u001b[34m*\u001b[39m"
+    ],
+    [
+      0.129857,
+      "\u0008\u001b[34m*\u001b[34m*\u001b[39m"
+    ],
+    [
+      0.553551,
+      "\u0008\u001b[34m*\u001b[34m/\u001b[39m"
+    ],
+    [
+      0.735948,
+      "\u0008\u001b[34m/\u001b[34mp\u001b[39m"
+    ],
+    [
+      0.215170,
+      "\u0008\u001b[34mp\u001b[34ma\u001b[39m"
+    ],
+    [
+      0.223732,
+      "\u0008\u001b[34ma\u001b[34mn\u001b[39m"
+    ],
+    [
+      0.150235,
+      "\u0008\u001b[34mn\u001b[34me\u001b[39m"
+    ],
+    [
+      0.129897,
+      "\u0008\u001b[34me\u001b[34ml\u001b[39m"
+    ],
+    [
+      0.259208,
+      "\u0008\u001b[34ml\u001b[34ms\u001b[39m"
+    ],
+    [
+      0.435913,
+      "\u0008\u001b[34ms\u001b[34m/\u001b[39m"
+    ],
+    [
+      1.111080,
+      "\u0008\u001b[34m/\u001b[34m*\u001b[39m"
+    ],
+    [
+      0.379130,
+      "\u0008\u001b[34m*\u001b[34m.\u001b[39m"
+    ],
+    [
+      0.161923,
+      "\u0008\u001b[34m.\u001b[34mc\u001b[39m"
+    ],
+    [
+      0.522657,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b]2;ls --color=tty -lh **/panels/*.c\u0007\u001b]1;ls\u0007"
+    ],
+    [
+      0.065819,
+      "-rw-r--r-- 1 joe wheel 2.8K Jun 17  2005 ncurses_programs/panels/panel_browse.c\r\n-rw-r--r-- 1 joe wheel 3.8K Jun 17  2005 ncurses_programs/panels/panel_hide.c\r\n"
+    ],
+    [
+      0.000015,
+      "-rw-r--r-- 1 joe wheel 5.6K Jun 17  2005 ncurses_programs/panels/panel_resize.c\r\n-rw-r--r-- 1 joe wheel  942 Jun 17  2005 ncurses_programs/panels/panel_simple.c\r\n"
+    ],
+    [
+      0.000922,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r\u001b]2;joe@arch: ~/dev\u0007\u001b]1;~/dev\u0007"
+    ],
+    [
+      0.097629,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[38;5;117m~/dev\u001b[00m \u001b[38;5;012m\u001b[38;5;133m \u001b[00m\u001b[38;5;077mᐅ\u001b[00m \u001b[K"
+    ],
+    [
+      0.000047,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      6.127281,
+      "\u001b[32mc\u001b[39m"
+    ],
+    [
+      0.109038,
+      "\u0008\u001b[32mc\u001b[32md\u001b[39m"
+    ],
+    [
+      0.149704,
+      " "
+    ],
+    [
+      2.201742,
+      "\u001b[4m.\u001b[24m"
+    ],
+    [
+      0.145359,
+      "\u0008\u001b[4m.\u001b[4m.\u001b[24m"
+    ],
+    [
+      0.054470,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b]2;cd ..\u0007\u001b]1;cd\u0007\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r\u001b]2;joe@arch: ~\u0007\u001b]1;~\u0007"
+    ],
+    [
+      0.100129,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[38;5;117m~\u001b[00m \u001b[38;5;012m\u001b[38;5;133m \u001b[00m\u001b[38;5;077mᐅ\u001b[00m \u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      1.970376,
+      "\u001b[32mc\u001b[39m"
+    ],
+    [
+      0.075384,
+      "\u0008\u001b[32mc\u001b[32md\u001b[39m"
+    ],
+    [
+      0.138756,
+      " "
+    ],
+    [
+      0.307571,
+      "\u001b[4m\u001b[33mw\u001b[24m\u001b[39m"
+    ],
+    [
+      0.145162,
+      "\u0008\u001b[4m\u001b[33mw\u001b[4m\u001b[33me\u001b[24m\u001b[39m"
+    ],
+    [
+      0.270315,
+      "\u0008\u0008\u001b[39m\u001b[4mW\u001b[39m\u001b[4me\u001b[4mbstormProjects\u001b[1m\u001b[4m/\u001b[0m\u001b[24m"
+    ],
+    [
+      0.675790,
+      "\u0008\u0008\u001b[4ms\u001b[24m\u001b[0m\u001b[24m \u0008"
+    ],
+    [
+      0.000094,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000041,
+      "\r\r\n"
+    ],
+    [
+      0.000887,
+      "\u001b]2;cd WebstormProjects\u0007\u001b]1;cd\u0007"
+    ],
+    [
+      0.000170,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000045,
+      "\u001b]2;joe@arch: ~/WebstormProjects\u0007"
+    ],
+    [
+      0.000040,
+      "\u001b]1;..stormProjects\u0007"
+    ],
+    [
+      0.097065,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[38;5;117m~/WebstormProjects\u001b[00m \u001b[38;5;012m\u001b[38;5;133m \u001b[00m\u001b[38;5;077mᐅ\u001b[00m \u001b[K"
+    ],
+    [
+      0.000097,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      3.447069,
+      "\u001b[32mc\u001b[39m"
+    ],
+    [
+      0.064569,
+      "\u0008\u001b[32mc\u001b[32md\u001b[39m"
+    ],
+    [
+      0.138513,
+      " "
+    ],
+    [
+      0.255311,
+      "\u0007"
+    ],
+    [
+      0.000010,
+      "\r\r\n"
+    ],
+    [
+      0.000209,
+      "\u001b[1;31mexpress-ejs\u001b[0m/         \u001b[1;31msqlite-crud\u001b[0m/         \u001b[1;31mtry-react\u001b[0m/         \r\n\u001b[1;31mexpress-typescript\u001b[0m/  \u001b[1;31msupport-console\u001b[0m/     \u001b[1;31mTypeScriptSamples\u001b[0m/ \r\n\u001b[J\u001b[1;31mlearnTypescript\u001b[0m/     \u001b[J\u001b[1;31mTest1\u001b[0m/               \u001b[J\u001b[1;31mwintersmithsite\u001b[0m/   \u001b[J\u001b[3A\u001b[0m\u001b[27m\u001b[24m\r\u001b[22C\u001b[32mcd\u001b[39m\u001b[K\u001b[1C"
+    ],
+    [
+      0.455488,
+      "express-ejs\u001b[1m/\u001b[0m"
+    ],
+    [
+      0.000011,
+      "\r\r\n"
+    ],
+    [
+      0.000213,
+      "\u001b[7mexpress-ejs/       \u001b[0m  \u001b[1;31msqlite-crud\u001b[0m/         \u001b[1;31mtry-react\u001b[0m/         \u001b[K\r\n\u001b[1;31mexpress-typescript\u001b[0m/  \u001b[1;31msupport-console\u001b[0m/     \u001b[1;31mTypeScriptSamples\u001b[0m/ \u001b[K\r\n\u001b[J\u001b[1;31mlearnTypescript\u001b[0m/     \u001b[J\u001b[1;31mTest1\u001b[0m/               \u001b[J\u001b[1;31mwintersmithsite\u001b[0m/   \u001b[J\u001b[3A\u001b[0m\u001b[27m\u001b[24m\r\u001b[22C\u001b[32mcd\u001b[39m express-ejs\u001b[1m/\u001b[0m\u001b[K"
+    ],
+    [
+      0.500913,
+      "\r\r\n"
+    ],
+    [
+      0.000014,
+      "\u001b[7mexpress-ejs/       \u001b[0m  \r\u001b[7mexpress-ejs/       \u001b[0m  \r\u001b[A\u001b[0m\u001b[27m\u001b[24m\r\u001b[22C"
+    ],
+    [
+      0.000083,
+      "\u001b[32mcd\u001b[39m express-ejs\u001b[1m/\u001b[0m\u001b[K"
+    ],
+    [
+      0.000080,
+      "\r\r\n\u001b[J\u001b[A\u001b[37C"
+    ],
+    [
+      0.002696,
+      "\u001b[12D\u001b[4me\u001b[4mx\u001b[4mp\u001b[4mr\u001b[4me\u001b[4ms\u001b[4ms\u001b[4m-\u001b[4me\u001b[4mj\u001b[4ms\u001b[1m\u001b[4m/\u001b[0m\u001b[24m"
+    ],
+    [
+      0.293711,
+      "\u0008\u0008\u001b[4ms\u001b[24m\u001b[0m\u001b[24m \u0008"
+    ],
+    [
+      0.000011,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000090,
+      "\r\r\n\u001b[J"
+    ],
+    [
+      0.000839,
+      "\u001b]2;cd express-ejs\u0007\u001b]1;cd\u0007"
+    ],
+    [
+      0.000194,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000161,
+      "\u001b]2;joe@arch: ~/WebstormProjects/express-ejs\u0007"
+    ],
+    [
+      0.000010,
+      "\u001b]1;..s/express-ejs\u0007"
+    ],
+    [
+      0.101179,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[38;5;117m~/WebstormProjects/express-ejs\u001b[00m \u001b[38;5;012m\u001b[38;5;133m \u001b[00m\u001b[38;5;077mᐅ\u001b[00m \u001b[K"
+    ],
+    [
+      0.000045,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      2.690062,
+      "\u001b[4m\u001b[33mt\u001b[24m\u001b[39m"
+    ],
+    [
+      0.087151,
+      "\u0008\u001b[24m\u001b[32mt\u001b[32mr\u001b[39m"
+    ],
+    [
+      0.073545,
+      "\u0008\u0008\u001b[1m\u001b[31mt\u001b[1m\u001b[31mr\u001b[1m\u001b[31me\u001b[0m\u001b[39m"
+    ],
+    [
+      0.167056,
+      "\u0008\u0008\u0008\u001b[0m\u001b[32mt\u001b[0m\u001b[32mr\u001b[0m\u001b[32me\u001b[32me\u001b[39m"
+    ],
+    [
+      0.320473,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000009,
+      "\r\r\n"
+    ],
+    [
+      0.000904,
+      "\u001b]2;tree\u0007\u001b]1;tree\u0007"
+    ],
+    [
+      0.009208,
+      ".\r\n├── app.js\r\n├── bin\r\n│   ├── title.js\r\n│   └── www\r\n├── node_modules\r\n│   ├── body-parser\r\n│   │   ├── HISTORY.md\r\n│   │   ├── index.js\r\n│   │   ├── lib\r\n│   │   │   ├── read.js\r\n│   │   │   └── types\r\n│   │   │       ├── json.js\r\n│   │   │       ├── raw.js\r\n│   │   │       ├── text.js\r\n│   │   │       └── urlencoded.js\r\n│   │   ├── LICENSE\r\n│   │   ├── node_modules\r\n│   │   │   ├── bytes\r\n│   │   │   │   ├── component.json\r\n│   │   │   │   ├── History.md\r\n│   │   │   │   ├── index.js\r\n│   │   │   │   ├── Makefile\r\n│   │   │   │   ├── package.json\r\n│   │   │   │   └── Readme.md\r\n│   │   │   ├── content-type\r\n│   │   │   │   ├── HISTORY.md\r\n│   │   │   │   ├── index.js\r\n│   │   │   │   ├── LICENSE\r\n│   │   │   │   ├── package.json\r\n│   │   │   │   └── README.md\r\n│   │   │   ├── depd\r\n│   │   │   │   ├── History.md\r\n│   │   │   │   ├── index.js\r\n│   │   │   │   ├── lib\r\n│   │   │   │   │   └── compat\r\n│   │   │   │   │       ├── buffer-concat.js\r\n│   │   │   │   │       ├── callsite-tostring.js\r\n│   │   │   │   │       └── index.js\r\n│   │   │   │   ├── LICENSE\r\n│   │   │   │   ├── package.json\r\n│   │   │   │   └── Readme.md\r\n│   │   │   ├── iconv-lite\r\n│   │   │   │   ├── Changelog.md\r\n│   │   │   │   ├── encodings\r\n│   │   │   │   │   ├── dbcs-codec.js\r\n│   │   │   │   │   ├── dbcs-data.js\r\n│   │   │   │   │   ├── index.js\r\n│   │   │   │   │   ├── internal.js\r\n│   │   │   │   │   ├── sbcs-codec.js\r\n│   │   │   │   │   ├── sbcs-data-generated.js\r\n│   │   │   │   │   ├── sbcs-data.js\r\n│   │   │   │   │   ├── tables\r\n│   │   │   │   │   │   ├── big5-added.json\r\n│   │   │   │   │   │   ├── cp936.json\r\n│   │   │   │   │   │   ├── cp949.json\r\n│   │   │   │   │   │   ├── cp950.json\r\n│   │   │   │   │   │   ├── eucjp.json\r\n│   │   │   │   │   │   ├── gb18030-ranges.json\r\n│   │   │   │   │   │   ├── gbk-added.json\r\n│   │   │   │   │   │   └── shiftjis.json\r\n│   │   │   │   │   ├── utf16.js\r\n│   │   │   │   │   └── utf7.js\r\n│   │   │   │   ├── lib\r\n│   │   │   │   │   ├── extend-node.js\r\n│   │   │   │   │   ├── index.js\r\n│   │   │   │   │   └── streams.js\r\n│   │   │   │   ├── LICENSE\r\n│   │   │   │   ├── package.json\r\n│   │   │   │   └── README.md\r\n│   │   │   ├── on-finished\r\n│   │   │   │   ├── HISTORY.md\r\n│   │   │   │   ├── index.js\r\n│   │   │   │   ├── LICENSE\r\n│   │   │   │   ├── node_modules\r\n│   │   │   │   │   └── ee-first\r\n│   │   │   │   │       ├── index.js\r\n│   │   │   │   │       \ufffd\ufffd"
+    ],
+    [
+      0.000097,
+      "\ufffd── LICENSE\r\n│   │   │   │   │       ├── package.json\r\n│   │   │   │   │       └── README.md\r\n│   │   │   │   ├── package.json\r\n│   │   │   │   └── README.md\r\n│   │   │   ├── qs\r\n│   │   │   │   ├── CHANGELOG.md\r\n│   │   │   │   ├── CONTRIBUTING.md\r\n│   │   │   │   ├── index.js\r\n│   │   │   │   ├── lib\r\n│   │   │   │   │   ├── index.js\r\n│   │   │   │   │   ├── parse.js\r\n│   │   │   │   │   ├── stringify.js\r\n│   │   │   │   │   └── utils.js\r\n│   │   │   │   ├── LICENSE\r\n│   │   │   │   ├── Makefile\r\n│   │   │   │   ├── package.json\r\n│   │   │   │   ├── README.md\r\n│   │   │   │   └── test\r\n│   │   │   │       ├── parse.js\r\n│   │   │   │       └── stringify.js\r\n│   │   │   ├── raw-body\r\n│   │   │   │   ├── HISTORY.md\r\n│   │   │   │   ├── index.js\r\n│   │   │   │   ├── LICENSE\r\n│   │   │   │   ├── package.json\r\n│   │   │   │   └── README.md\r\n│   │   │   └── type-is\r\n│   │   │       ├── HISTORY.md\r\n│   │   │       ├── index.js\r\n│   │   │       ├── LICENSE\r\n│   │   │       ├── node_modules\r\n│   │   │       │   ├── media-typer\r\n│   │   │       │   │   ├── HISTORY.md\r\n│   │   │       │   │   ├── index.js\r\n│   │   │       │   │   ├── LICENSE\r\n│   │   │       │   │   ├── package.json\r\n│   │   │       │   │   └── README.md\r\n│   │   │       │   └── mime-types\r\n│   │   │       │       ├── HISTORY.md\r\n│   │   │       │       ├── index.js\r\n│   │   │       │       ├── LICENSE\r\n│   │   │       │       ├── node_modules\r\n│   │   │       │       │   └── mime-db\r\n│   │   │       │       │       ├── db.json\r\n│   │   │       │       │       ├── HISTORY.md\r\n│   │   │       │       │       ├── index.js\r\n│   │   │       │       │       ├── LICENSE\r\n│   │   │       │       │       ├── package.json\r\n│   │   │       │       │       └── README.md\r\n│   │   │       │       ├── package.json\r\n│   │   │       │       └── README.md\r\n│   │   │       ├── package.json\r\n│   │   │       └── README.md\r\n│   │   ├── package.json\r\n│   │   └── README.md\r\n│   ├── cookie-parser\r\n│   │   ├── HISTORY.md\r\n│   │   ├── index.js\r\n│   │   ├── lib\r\n│   │   │   └── parse.js\r\n│   │   ├── LICENSE\r\n│   │   ├── node_modules\r\n│   │   │   ├── cookie\r\n│   │   │   │   ├── index.js\r\n│   │   │   │   ├── LICENSE\r\n│   │   │   │   ├── package.json\r\n│   │   │   │   └── README.md\r\n│   │   │   └── cookie-signature\r\n│   │   │       ├── History.md\r\n│   │   │       ├── index.js\r\n│   │   │       ├── package.json\r\n│   │   │       └── Readme.md\r\n│   │   ├── package.json\r\n│   │   └── README.md\r\n│   ├── debug\r\n│   │   ├── bower.json\r\n│   │   \ufffd"
+    ],
+    [
+      0.000067,
+      "\ufffd\ufffd── browser.js\r\n│   │   ├── component.json\r\n│   │   ├── debug.js\r\n│   │   ├── History.md\r\n│   │   ├── Makefile\r\n│   │   ├── node.js\r\n│   │   ├── node_modules\r\n│   │   │   └── ms\r\n│   │   │       ├── index.js\r\n│   │   │       ├── LICENSE\r\n│   │   │       ├── package.json\r\n│   │   │       └── README.md\r\n│   │   ├── package.json\r\n│   │   └── Readme.md\r\n│   ├── ejs\r\n│   │   ├── ejs.js\r\n│   │   ├── ejs.min.js\r\n│   │   ├── Jakefile\r\n│   │   ├── lib\r\n│   │   │   ├── ejs.js\r\n│   │   │   └── utils.js\r\n│   │   ├── package.json\r\n│   │   ├── README.md\r\n│   │   └── test\r\n│   │       ├── ejs.js\r\n│   │       ├── fixtures\r\n│   │       │   ├── backslash.ejs\r\n│   │       │   ├── backslash.html\r\n│   │       │   ├── comments.ejs\r\n│   │       │   ├── comments.html\r\n│   │       │   ├── consecutive-tags.ejs\r\n│   │       │   ├── consecutive-tags.html\r\n│   │       │   ├── double-quote.ejs\r\n│   │       │   ├── double-quote.html\r\n│   │       │   ├── error.ejs\r\n│   │       │   ├── error.out\r\n│   │       │   ├── fail.ejs\r\n│   │       │   ├── hello-world.ejs\r\n│   │       │   ├── include-abspath.ejs\r\n│   │       │   ├── include_cache.ejs\r\n│   │       │   ├── include_cache.html\r\n│   │       │   ├── include.css.ejs\r\n│   │       │   ├── include.css.html\r\n│   │       │   ├── include.ejs\r\n│   │       │   ├── include.html\r\n│   │       │   ├── include_preprocessor_cache.ejs\r\n│   │       │   ├── include_preprocessor_cache.html\r\n│   │       │   ├── include_preprocessor.css.ejs\r\n│   │       │   ├── include_preprocessor.css.html\r\n│   │       │   ├── include_preprocessor.ejs\r\n│   │       │   ├── include_preprocessor.html\r\n│   │       │   ├── includes\r\n│   │       │   │   ├── bom.ejs\r\n│   │       │   │   ├── menu\r\n│   │       │   │   │   └── item.ejs\r\n│   │       │   │   └── menu-item.ejs\r\n│   │       │   ├── include-simple.ejs\r\n│   │       │   ├── include-simple.html\r\n│   │       │   ├── literal.ejs\r\n│   │       │   ├── literal.html\r\n│   │       │   ├── menu.ejs\r\n│   │       │   ├── menu.html\r\n│   │       │   ├── menu_preprocessor.ejs\r\n│   │       │   ├── menu_preprocessor.html\r\n│   │       │   ├── menu_var.ejs\r\n│   │       │   ├── messed.ejs\r\n│   │       │   ├── messed.html\r\n│   │       │   ├── newlines.ejs\r\n│   │       │   ├── newlines.html\r\n│   │       │   ├── newlines.mixed.ejs\r\n│   │       │   ├── newlines.mixed.html\r\n│   │       │   ├── no.newlines.ejs\r\n│   │       │   ├── no.newlines.error.ejs\r\n│   │       │   ├── no.newlines.html\r\n│   │       │   ├── no.semicolons.ejs\r\n│   │       │   ├── no.semicolons.html\r\n│   │       │   ├── para.ejs\r\n│   │       │   ├── pet.ejs\r\n│   │       │   ├── rmWhitespace.ejs\r\n│   │       │   ├── rmWhitespace.html\r\n│   │       │   ├── single-quote.ejs\r\n│   │ "
+    ],
+    [
+      0.000172,
+      "      │   ├── single-quote.html\r\n│   │       │   ├── style.css\r\n│   │       │   ├── user.ejs\r\n│   │       │   └── user-no-with.ejs\r\n│   │       ├── mocha.opts\r\n│   │       └── tmp\r\n│   │           ├── include.ejs\r\n│   │           ├── include_preprocessor.ejs\r\n│   │           └── renderFile.ejs\r\n│   ├── express\r\n│   │   ├── History.md\r\n│   │   ├── index.js\r\n│   │   ├── lib\r\n│   │   │   ├── application.js\r\n│   │   │   ├── express.js\r\n│   │   │   ├── middleware\r\n│   │   │   │   ├── init.js\r\n│   │   │   │   └── query.js\r\n│   │   │   ├── request.js\r\n│   │   │   ├── response.js\r\n│   │   │   ├── router\r\n│   │   │   │   ├── index.js\r\n│   │   │   │   ├── layer.js\r\n│   │   │   │   └── route.js\r\n│   │   │   ├── utils.js\r\n│   │   │   └── view.js\r\n│   │   ├── LICENSE\r\n│   │   ├── node_modules\r\n│   │   │   ├── accepts\r\n│   │   │   │   ├── HISTORY.md\r\n│   │   │   │   ├── index.js\r\n│   │   │   │   ├── LICENSE\r\n│   │   │   │   ├── node_modules\r\n│   │   │   │   │   ├── mime-types\r\n│   │   │   │   │   │   ├── HISTORY.md\r\n│   │   │   │   │   │   ├── index.js\r\n│   │   │   │   │   │   ├── LICENSE\r\n│   │   │   │   │   │   ├── node_modules\r\n│   │   │   │   │   │   │   └── mime-db\r\n│   │   │   │   │   │   │       ├── db.json\r\n│   │   │   │   │   │   │       ├── HISTORY.md\r\n│   │   │   │   │   │   │       ├── index.js\r\n│   │   │   │   │   │   │       ├── LICENSE\r\n│   │   │   │   │   │   │       ├── package.json\r\n│   │   │   │   │   │   │       └── README.md\r\n│   │   │   │   │   │   ├── package.json\r\n│   │   │   │   │   │   └── README.md\r\n│   │   │   │   │   └── negotiator\r\n│   │   │   │   │       ├── HISTORY.md\r\n│   │   │   │   │       ├── index.js\r\n│   │   │   │   │       ├── lib\r\n│   │   │   │   │       │   ├── charset.js\r\n│   │   │   │   │       │   ├── encoding.js\r\n│   │   │   │   │       │   ├── language.js\r\n│   │   │   │   │       │   └── mediaType.js\r\n│   │   │   │   │       ├── LICENSE\r\n│   │   │   │   │       ├── package.json\r\n│   │   │   │   │       └── README.md\r\n│   │   │   │   ├── package.json\r\n│   │   │   │   └── README.md\r\n"
+    ],
+    [
+      0.000045,
+      "│   │   │   ├── content-disposition\r\n│   │   │   │   ├── HISTORY.md\r\n│   │   │   │   ├── index.js\r\n│   │   │   │   ├── LICENSE\r\n│   │   │   │   ├── package.json\r\n│   │   │   │   └── README.md\r\n"
+    ],
+    [
+      0.000007,
+      "│   │   │   ├── content-type\r\n"
+    ],
+    [
+      0.000071,
+      "│   │   │   │   ├── HISTORY.md\r\n│   │   │   │   ├── index.js\r\n│   │   │   │   ├── LICENSE\r\n"
+    ],
+    [
+      0.000010,
+      "│   │   │   │   ├── package.json\r\n│   │   │   │   └── README.md\r\n"
+    ],
+    [
+      0.000067,
+      "│   │   │   ├── cookie\r\n│   │   │   │   ├── index.js\r\n"
+    ],
+    [
+      0.000007,
+      "│   │   │   │   ├── LICENSE\r\n"
+    ],
+    [
+      0.000006,
+      "│   │   │   │   ├── package.json\r\n"
+    ],
+    [
+      0.000072,
+      "│   │   │   │   └── README.md\r\n"
+    ],
+    [
+      0.000010,
+      "│   │   │   ├── cookie-signature\r\n"
+    ],
+    [
+      0.000005,
+      "│   │   │   │   ├── History.md\r\n"
+    ],
+    [
+      0.000071,
+      "│   │   │   │   ├── index.js\r\n│   │   │   │   ├── package.json\r\n│   │   │   │   └── Readme.md\r\n"
+    ],
+    [
+      0.000041,
+      "│   │   │   ├── depd\r\n"
+    ],
+    [
+      0.000006,
+      "│   │   │   │   ├── History.md\r\n"
+    ],
+    [
+      0.000067,
+      "│   │   │   │   ├── index.js\r\n"
+    ],
+    [
+      0.000009,
+      "│   │   │   │   ├── lib\r\n"
+    ],
+    [
+      0.000088,
+      "│   │   │   │   │   └── compat\r\n"
+    ],
+    [
+      0.000011,
+      "│   │   │   │   │       ├── buffer-concat.js\r\n│   │   │   │   │       ├── callsite-tostring.js\r\n"
+    ],
+    [
+      0.000010,
+      "│   │   │   │   │       └── index.js\r\n"
+    ],
+    [
+      0.000004,
+      "│   │   │   │   ├── LICENSE\r\n"
+    ],
+    [
+      0.000066,
+      "│   │   │   │   ├── package.json\r\n│   │   │   │   └── Readme.md\r\n"
+    ],
+    [
+      0.000068,
+      "│   │   │   ├── escape-html\r\n│   │   │   │   ├── component.json\r\n│   │   │   │   ├── index.js\r\n"
+    ],
+    [
+      0.000010,
+      "│   │   │   │   ├── Makefile\r\n│   │   │   │   ├── package.json\r\n"
+    ],
+    [
+      0.000005,
+      "│   │   │   │   └── Readme.md\r\n"
+    ],
+    [
+      0.000105,
+      "│   │   │   ├── etag\r\n│   │   │   │   ├── HISTORY.md\r\n│   │   │   │   ├── index.js\r\n"
+    ],
+    [
+      0.000008,
+      "│   │   │   │   ├── LICENSE\r\n"
+    ],
+    [
+      0.000064,
+      "│   │   │   │   ├── node_modules\r\n"
+    ],
+    [
+      0.000035,
+      "│   │   │   │   │   └── crc\r\n"
+    ],
+    [
+      0.000061,
+      "│   │   │   │   │       ├── lib\r\n"
+    ],
+    [
+      0.000006,
+      "│   │   │   │   │       │   ├── crc16_ccitt.js\r\n"
+    ],
+    [
+      0.000060,
+      "│   │   │   │   │       │   ├── crc16.js\r\n│   │   │   │   │       │   ├── crc16_modbus.js\r\n│   │   │   │   │       │   ├── crc1.js\r\n"
+    ],
+    [
+      0.000010,
+      "│   │   │   │   │       │   ├── crc24.js\r\n│   │   │   │   │       │   ├── crc32.js\r\n"
+    ],
+    [
+      0.000005,
+      "│   │   │   │   │       │   ├── crc8_1wire.js\r\n"
+    ],
+    [
+      0.000067,
+      "│   │   │   │   │       │   ├── crc8.js\r\n│   │   │   │   │       │   ├── crc.js\r\n│   │   │   │   │       │   ├── create.js\r\n│   │   │   │   │       │   ├── hex.js\r\n"
+    ],
+    [
+      0.000010,
+      "│   │   │   │   │       │   └── index.js\r\n│   │   │   │   │       ├── LICENSE\r\n"
+    ],
+    [
+      0.000062,
+      "│   │   │   │   │       ├── package.json\r\n│   │   │   │   │       └── README.md\r\n│   │   │   │   ├── package.json\r\n"
+    ],
+    [
+      0.000008,
+      "│   │   │   │   └── README.md\r\n"
+    ],
+    [
+      0.000044,
+      "│   │   │   ├── finalhandler\r\n"
+    ],
+    [
+      0.000006,
+      "│   │   │   │   ├── HISTORY.md\r\n"
+    ],
+    [
+      0.000017,
+      "│   │   │   │   ├── index.js\r\n"
+    ],
+    [
+      0.000029,
+      "│   │   │   │   ├── LICENSE\r\n"
+    ],
+    [
+      0.000006,
+      "│   │   │   │   ├── package.json\r\n"
+    ],
+    [
+      0.000004,
+      "│   │   │   │   └── README.md\r\n"
+    ],
+    [
+      0.000056,
+      "│   │   │   ├── fresh\r\n"
+    ],
+    [
+      0.000010,
+      "│   │   │   │   ├── HISTORY.md\r\n"
+    ],
+    [
+      0.000024,
+      "│   │   │   │   ├── index.js\r\n"
+    ],
+    [
+      0.000005,
+      "│   │   │   │   ├── LICENSE\r\n"
+    ],
+    [
+      0.000019,
+      "│   │   │   │   ├── package.json\r\n"
+    ],
+    [
+      0.000005,
+      "│   │   │   │   └── README.md\r\n"
+    ],
+    [
+      0.000101,
+      "│   │   │   ├── merge-descriptors\r\n│   │   │   │   ├── index.js\r\n│   │   │   │   ├── LICENSE\r\n│   │   │   │   ├── package.json\r\n"
+    ],
+    [
+      0.000008,
+      "│   │   │   │   └── README.md\r\n"
+    ],
+    [
+      0.000092,
+      "│   │   │   ├── methods\r\n│   │   │   │   ├── HISTORY.md\r\n"
+    ],
+    [
+      0.000026,
+      "│   │   │   │   ├── index.js\r\n"
+    ],
+    [
+      0.000006,
+      "│   │   │   │   ├── LICENSE\r\n"
+    ],
+    [
+      0.000005,
+      "│   │   │   │   ├── package.json\r\n"
+    ],
+    [
+      0.000031,
+      "│   │   │   │   └── README.md\r\n"
+    ],
+    [
+      0.000089,
+      "│   │   │   ├── on-finished\r\n│   │   │   │   ├── HISTORY.md\r\n│   │   │   │   ├── index.js\r\n"
+    ],
+    [
+      0.000008,
+      "│   │   │   │   ├── LICENSE\r\n"
+    ],
+    [
+      0.000032,
+      "│   │   │   │   ├── node_modules\r\n"
+    ],
+    [
+      0.000032,
+      "│   │   │   │   │   └── ee-first\r\n"
+    ],
+    [
+      0.000021,
+      "│   │   │   │   │       ├── index.js\r\n"
+    ],
+    [
+      0.000014,
+      "│   │   │   │   │       ├── LICENSE\r\n"
+    ],
+    [
+      0.000014,
+      "│   │   │   │   │       ├── package.json\r\n"
+    ],
+    [
+      0.000020,
+      "│   │   │   │   │       └── README.md\r\n"
+    ],
+    [
+      0.000006,
+      "│   │   │   │   ├── package.json\r\n"
+    ],
+    [
+      0.000017,
+      "│   │   │   │   └── README.md\r\n"
+    ],
+    [
+      0.000053,
+      "│   │   │   ├── parseurl\r\n"
+    ],
+    [
+      0.000026,
+      "│   │   │   │   ├── HISTORY.md\r\n"
+    ],
+    [
+      0.000005,
+      "│   │   │   │   ├── index.js\r\n"
+    ],
+    [
+      0.000019,
+      "│   │   │   │   ├── LICENSE\r\n"
+    ],
+    [
+      0.000007,
+      "│   │   │   │   ├── package.json\r\n"
+    ],
+    [
+      0.000018,
+      "│   │   │   │   └── README.md\r\n"
+    ],
+    [
+      0.000077,
+      "│   │   │   ├── path-to-regexp\r\n"
+    ],
+    [
+      0.000016,
+      "│   │   │   │   ├── component.json\r\n"
+    ],
+    [
+      0.000079,
+      "│   │   │   │   ├── History.md\r\n│   │   │   │   ├── index.js\r\n│   │   │   │   ├── package.json\r\n"
+    ],
+    [
+      0.000009,
+      "│   │   │   │   ├── Readme.md\r\n│   │   │   │   └── test.js\r\n"
+    ],
+    [
+      0.000132,
+      "│   │   │   ├── proxy-addr\r\n│   │   │   │   ├── HISTORY.md\r\n│   │   │   │   ├── index.js\r\n"
+    ],
+    [
+      0.000012,
+      "│   │   │   │   ├── LICENSE\r\n"
+    ],
+    [
+      0.000023,
+      "│   │   │   │   ├── node_modules\r\n"
+    ],
+    [
+      0.000094,
+      "│   │   │   │   │   ├── forwarded\r\n│   │   │   │   │   │   ├── HISTORY.md\r\n"
+    ],
+    [
+      0.000006,
+      "│   │   │   │   │   │   ├── index.js\r\n"
+    ],
+    [
+      0.000019,
+      "│   │   │   │   │   │   ├── LICENSE\r\n"
+    ],
+    [
+      0.000029,
+      "│   │   │   │   │   │   ├── package.json\r\n"
+    ],
+    [
+      0.000025,
+      "│   │   │   │   │   │   └── README.md\r\n"
+    ],
+    [
+      0.000066,
+      "│   │   │   │   │   └── ipaddr.js\r\n"
+    ],
+    [
+      0.000079,
+      "│   │   │   │   │       ├── Cakefile\r\n│   │   │   │   │       ├── ipaddr.min.js\r\n"
+    ],
+    [
+      0.000009,
+      "│   │   │   │   │       ├── lib\r\n"
+    ],
+    [
+      0.000005,
+      "│   │   │   │   │       │   └── ipaddr.js\r\n"
+    ],
+    [
+      0.000019,
+      "│   │   │   │   │       ├── LICENSE\r\n"
+    ],
+    [
+      0.000019,
+      "│   │   │   │   │       ├── package.json\r\n"
+    ],
+    [
+      0.000028,
+      "│   │   │   │   │       ├── README.md\r\n"
+    ],
+    [
+      0.000037,
+      "│   │   │   │   │       ├── src\r\n"
+    ],
+    [
+      0.000023,
+      "│   │   │   │   │       │   └── ipaddr.coffee\r\n"
+    ],
+    [
+      0.000034,
+      "│   │   │   │   │       └── test\r\n"
+    ],
+    [
+      0.000023,
+      "│   │   │   │   │           └── ipaddr.test.coffee\r\n"
+    ],
+    [
+      0.000023,
+      "│   │   │   │   ├── package.json\r\n"
+    ],
+    [
+      0.000077,
+      "│   │   │   │   └── README.md\r\n"
+    ],
+    [
+      0.000031,
+      "│   │   │   ├── qs\r\n"
+    ],
+    [
+      0.000005,
+      "│   │   │   │   ├── CHANGELOG.md\r\n"
+    ],
+    [
+      0.000026,
+      "│   │   │   │   ├── CONTRIBUTING.md\r\n"
+    ],
+    [
+      0.000005,
+      "│   │   │   │   ├── index.js\r\n"
+    ],
+    [
+      0.000142,
+      "│   │   │   │   ├── lib\r\n│   │   │   │   │   ├── index.js\r\n│   │   │   │   │   ├── parse.js\r\n"
+    ],
+    [
+      0.000010,
+      "│   │   │   │   │   ├── stringify.js\r\n│   │   │   │   │   └── utils.js\r\n│   │   │   │   ├── LICENSE\r\n"
+    ],
+    [
+      0.000004,
+      "│   │   │   │   ├── Makefile\r\n"
+    ],
+    [
+      0.000018,
+      "│   │   │   │   ├── package.json\r\n"
+    ],
+    [
+      0.000005,
+      "│   │   │   │   ├── README.md\r\n"
+    ],
+    [
+      0.000063,
+      "│   │   │   │   └── test\r\n"
+    ],
+    [
+      0.000016,
+      "│   │   │   │       ├── parse.js\r\n"
+    ],
+    [
+      0.000013,
+      "│   │   │   │       └── stringify.js\r\n"
+    ],
+    [
+      0.000059,
+      "│   │   │   ├── range-parser\r\n"
+    ],
+    [
+      0.000016,
+      "│   │   │   │   ├── HISTORY.md\r\n"
+    ],
+    [
+      0.000020,
+      "│   │   │   │   ├── index.js\r\n"
+    ],
+    [
+      0.000016,
+      "│   │   │   │   ├── LICENSE\r\n"
+    ],
+    [
+      0.000012,
+      "│   │   │   │   ├── package.json\r\n"
+    ],
+    [
+      0.000015,
+      "│   │   │   │   └── README.md\r\n"
+    ],
+    [
+      0.000062,
+      "│   │   │   ├── send\r\n"
+    ],
+    [
+      0.000016,
+      "│   │   │   │   ├── HISTORY.md\r\n"
+    ],
+    [
+      0.000017,
+      "│   │   │   │   ├── index.js\r\n"
+    ],
+    [
+      0.000005,
+      "│   │   │   │   ├── LICENSE\r\n"
+    ],
+    [
+      0.000056,
+      "│   │   │   │   ├── node_modules\r\n"
+    ],
+    [
+      0.000044,
+      "│   │   │   │   │   ├── destroy\r\n"
+    ],
+    [
+      0.000021,
+      "│   │   │   │   │   │   ├── index.js\r\n"
+    ],
+    [
+      0.000014,
+      "│   │   │   │   │   │   ├── package.json\r\n"
+    ],
+    [
+      0.000015,
+      "│   │   │   │   │   │   └── README.md\r\n"
+    ],
+    [
+      0.000109,
+      "│   │   │   │   │   ├── mime\r\n"
+    ],
+    [
+      0.000089,
+      "│   │   │   │   │   │   ├── build\r\n│   │   │   │   │   │   │   ├── build.js\r\n│   │   │   │   │   │   │   └── test.js\r\n│   │   │   │   │   │   ├── cli.js\r\n"
+    ],
+    [
+      0.000009,
+      "│   │   │   │   │   │   ├── LICENSE\r\n│   │   │   │   │   │   ├── mime.js\r\n"
+    ],
+    [
+      0.000066,
+      "│   │   │   │   │   │   ├── package.json\r\n│   │   │   │   │   │   ├── README.md\r\n│   │   │   │   │   │   └── types.json\r\n"
+    ],
+    [
+      0.000032,
+      "│   │   │   │   │   └── ms\r\n"
+    ],
+    [
+      0.000006,
+      "│   │   │   │   │       ├── index.js\r\n"
+    ],
+    [
+      0.000015,
+      "│   │   │   │   │       ├── LICENSE\r\n"
+    ],
+    [
+      0.000014,
+      "│   │   │   │   │       ├── package.json\r\n"
+    ],
+    [
+      0.000014,
+      "│   │   │   │   │       └── README.md\r\n"
+    ],
+    [
+      0.000043,
+      "│   │   │   │   ├── package.json\r\n│   │   │   │   └── README.md\r\n"
+    ],
+    [
+      0.000091,
+      "│   │   │   ├── serve-static\r\n│   │   │   │   ├── HISTORY.md\r\n│   │   │   │   ├── index.js\r\n│   │   │   │   ├── LICENSE\r\n"
+    ],
+    [
+      0.000009,
+      "│   │   │   │   ├── package.json\r\n│   │   │   │   └── README.md\r\n"
+    ],
+    [
+      0.000100,
+      "│   │   │   ├── type-is\r\n│   │   │   │   ├── HISTORY.md\r\n│   │   │   │   ├── index.js\r\n│   │   │   │   ├── LICENSE\r\n"
+    ],
+    [
+      0.000035,
+      "│   │   │   │   ├── node_modules\r\n"
+    ],
+    [
+      0.000092,
+      "│   │   │   │   │   ├── media-typer\r\n│   │   │   │   │   │   ├── HISTORY.md\r\n│   │   │   │   │   │   ├── index.js\r\n"
+    ],
+    [
+      0.000010,
+      "│   │   │   │   │   │   ├── LICENSE\r\n│   │   │   │   │   │   ├── package.json\r\n│   │   │   │   │   │   └── README.md\r\n"
+    ],
+    [
+      0.000065,
+      "│   │   │   │   │   └── mime-types\r\n"
+    ],
+    [
+      0.000005,
+      "│   │   │   │   │       ├── HISTORY.md\r\n"
+    ],
+    [
+      0.000016,
+      "│   │   │   │   │       ├── index.js\r\n"
+    ],
+    [
+      0.000017,
+      "│   │   │   │   │       ├── LICENSE\r\n"
+    ],
+    [
+      0.000038,
+      "│   │   │   │   │       ├── node_modules\r\n"
+    ],
+    [
+      0.000052,
+      "│   │   │   │   │       │   └── mime-db\r\n"
+    ],
+    [
+      0.000019,
+      "│   │   │   │   │       │       ├── db.json\r\n"
+    ],
+    [
+      0.000013,
+      "│   │   │   │   │       │       ├── HISTORY.md\r\n"
+    ],
+    [
+      0.000013,
+      "│   │   │   │   │       │       ├── index.js\r\n"
+    ],
+    [
+      0.000012,
+      "│   │   │   │   │       │       ├── LICENSE\r\n"
+    ],
+    [
+      0.000017,
+      "│   │   │   │   │       │       ├── package.json\r\n"
+    ],
+    [
+      0.000020,
+      "│   │   │   │   │       │       └── README.md\r\n"
+    ],
+    [
+      0.000015,
+      "│   │   │   │   │       ├── package.json\r\n"
+    ],
+    [
+      0.000061,
+      "│   │   │   │   │       └── README.md\r\n│   │   │   │   ├── package.json\r\n│   │   │   │   └── README.md\r\n"
+    ],
+    [
+      0.000032,
+      "│   │   │   ├── utils-merge\r\n"
+    ],
+    [
+      0.000014,
+      "│   │   │   │   ├── index.js\r\n"
+    ],
+    [
+      0.000005,
+      "│   │   │   │   ├── LICENSE\r\n"
+    ],
+    [
+      0.000016,
+      "│   │   │   │   ├── package.json\r\n"
+    ],
+    [
+      0.000023,
+      "│   │   │   │   └── README.md\r\n"
+    ],
+    [
+      0.000088,
+      "│   │   │   └── vary\r\n│   │   │       ├── History.md\r\n│   │   │       ├── index.js\r\n"
+    ],
+    [
+      0.000009,
+      "│   │   │       ├── LICENSE\r\n│   │   │       ├── package.json\r\n"
+    ],
+    [
+      0.000005,
+      "│   │   │       └── README.md\r\n"
+    ],
+    [
+      0.000019,
+      "│   │   ├── package.json\r\n"
+    ],
+    [
+      0.000005,
+      "│   │   └── Readme.md\r\n"
+    ],
+    [
+      0.000059,
+      "│   ├── morgan\r\n"
+    ],
+    [
+      0.000013,
+      "│   │   ├── HISTORY.md\r\n"
+    ],
+    [
+      0.000015,
+      "│   │   ├── index.js\r\n"
+    ],
+    [
+      0.000013,
+      "│   │   ├── LICENSE\r\n"
+    ],
+    [
+      0.000043,
+      "│   │   ├── node_modules\r\n"
+    ],
+    [
+      0.000039,
+      "│   │   │   ├── basic-auth\r\n"
+    ],
+    [
+      0.000018,
+      "│   │   │   │   ├── index.js\r\n"
+    ],
+    [
+      0.000012,
+      "│   │   │   │   ├── package.json\r\n"
+    ],
+    [
+      0.000012,
+      "│   │   │   │   └── Readme.md\r\n"
+    ],
+    [
+      0.000059,
+      "│   │   │   ├── depd\r\n"
+    ],
+    [
+      0.000016,
+      "│   │   │   │   ├── History.md\r\n"
+    ],
+    [
+      0.000019,
+      "│   │   │   │   ├── index.js\r\n"
+    ],
+    [
+      0.000045,
+      "│   │   │   │   ├── lib\r\n"
+    ],
+    [
+      0.000037,
+      "│   │   │   │   │   └── compat\r\n"
+    ],
+    [
+      0.000006,
+      "│   │   │   │   │       ├── buffer-concat.js\r\n"
+    ],
+    [
+      0.000017,
+      "│   │   │   │   │       ├── callsite-tostring.js\r\n"
+    ],
+    [
+      0.000017,
+      "│   │   │   │   │       └── index.js\r\n"
+    ],
+    [
+      0.000012,
+      "│   │   │   │   ├── LICENSE\r\n"
+    ],
+    [
+      0.000016,
+      "│   │   │   │   ├── package.json\r\n"
+    ],
+    [
+      0.000014,
+      "│   │   │   │   └── Readme.md\r\n"
+    ],
+    [
+      0.000057,
+      "│   │   │   └── on-finished\r\n"
+    ],
+    [
+      0.000015,
+      "│   │   │       ├── HISTORY.md\r\n"
+    ],
+    [
+      0.000060,
+      "│   │   │       ├── index.js\r\n│   │   │       ├── LICENSE\r\n"
+    ],
+    [
+      0.000008,
+      "│   │   │       ├── node_modules\r\n"
+    ],
+    [
+      0.000055,
+      "│   │   │       │   └── ee-first\r\n│   │   │       │       ├── index.js\r\n"
+    ],
+    [
+      0.000006,
+      "│   │   │       │       ├── LICENSE\r\n"
+    ],
+    [
+      0.000022,
+      "│   │   │       │       ├── package.json\r\n"
+    ],
+    [
+      0.000006,
+      "│   │   │       │       └── README.md\r\n"
+    ],
+    [
+      0.000016,
+      "│   │   │       ├── package.json\r\n"
+    ],
+    [
+      0.000005,
+      "│   │   │       └── README.md\r\n"
+    ],
+    [
+      0.000037,
+      "│   │   ├── package.json\r\n"
+    ],
+    [
+      0.000006,
+      "│   │   └── README.md\r\n"
+    ],
+    [
+      0.000062,
+      "│   └── serve-favicon\r\n│       ├── HISTORY.md\r\n"
+    ],
+    [
+      0.000005,
+      "│       ├── index.js\r\n"
+    ],
+    [
+      0.000018,
+      "│       ├── LICENSE\r\n"
+    ],
+    [
+      0.013499,
+      "│       ├── node_modules\r\n"
+    ],
+    [
+      0.000088,
+      "│       │   ├── etag\r\n│       │   │   ├── HISTORY.md\r\n│       │   │   ├── index.js\r\n│       │   │   ├── LICENSE\r\n│       │   │   ├── node_modules\r\n│       │   │   │   └── crc\r\n│       │   │   │       ├── lib\r\n│       │   │   │       │   ├── crc16_ccitt.js\r\n│       │   │   │       │   ├── crc16.js\r\n│       │   │   │       │   ├── crc16_modbus.js\r\n│       │   │   │       │   ├── crc1.js\r\n│       │   │   │       │   ├── crc24.js\r\n│       │   │   │       │   ├── crc32.js\r\n│       │   │   │       │   ├── crc8_1wire.js\r\n│       │   │   │       │   ├── crc8.js\r\n│       │   │   │       │   ├── crc.js\r\n│       │   │   │       │   ├── create.js\r\n│       │   │   │       │   ├── hex.js\r\n│       │   │   │       │   └── index.js\r\n│       │   │   │       ├── LICENSE\r\n│       │   │   │       ├── package.json\r\n│       │   │   │       └── README.md\r\n│       │   │   ├── package.json\r\n│       │   │   └── README.md\r\n│       │   ├── fresh\r\n│       │   │   ├── HISTORY.md\r\n│       │   │   ├── index.js\r\n│       │   │   ├── LICENSE\r\n│       │   │   ├── package.json\r\n│       │   │   └── README.md\r\n│       │   ├── ms\r\n│       │   │   ├── index.js\r\n│       │   │   ├── LICENSE\r\n│       │   │   ├── package.json\r\n│       │   │   └── README.md\r\n│       │   └── parseurl\r\n│       │       ├── HISTORY.md\r\n│       │       ├── index.js\r\n│       │       ├── LICENSE\r\n│       │       ├── package.json\r\n│       │       └── README.md\r\n│       ├── package.json\r\n│       └── README.md\r\n├── package.json\r\n├── public\r\n│   ├── images\r\n│   ├── javascripts\r\n│   └── stylesheets\r\n│       └── style.css\r\n├── routes\r\n│   ├── index.js\r\n│   └── users.js\r\n└── views\r\n    ├── error.ejs\r\n    └── index.ejs\r\n\r\n126 directories, 492 files\r\n\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r\u001b]2;joe@arch: ~/WebstormProjects/express-ejs\u0007\u001b]1;..s/express-ejs\u0007"
+    ],
+    [
+      0.086213,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[38;5;117m~/WebstormProjects/express-ejs\u001b[00m \u001b[38;5;012m\u001b[38;5;133m \u001b[00m\u001b[38;5;077mᐅ\u001b[00m \u001b[K"
+    ],
+    [
+      0.000038,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.715252,
+      "\u001b[4ma\u001b[24m"
+    ],
+    [
+      0.128912,
+      "\u0008\u001b[24m\u001b[32ma\u001b[32ml\u001b[39m"
+    ],
+    [
+      0.243764,
+      "\u0008\u0008\u001b[1m\u001b[31ma\u001b[1m\u001b[31ml\u001b[1m\u001b[31mi\u001b[0m\u001b[39m"
+    ],
+    [
+      0.201073,
+      "\u0008\u001b[1m\u001b[31mi\u001b[1m\u001b[31ma\u001b[0m\u001b[39m"
+    ],
+    [
+      0.076556,
+      "\u0008\u0008\u0008\u0008\u001b[0m\u001b[32ma\u001b[0m\u001b[32ml\u001b[0m\u001b[32mi\u001b[0m\u001b[32ma\u001b[32ms\u001b[39m"
+    ],
+    [
+      1.005190,
+      " "
+    ],
+    [
+      0.386944,
+      "\u001b[4mn\u001b[24m"
+    ],
+    [
+      0.128365,
+      "\u0008\u001b[4m\u001b[33mn\u001b[4m\u001b[33mp\u001b[24m\u001b[39m"
+    ],
+    [
+      0.101561,
+      "\u0008\u0008\u001b[24m\u001b[39mn\u001b[24m\u001b[39mpm"
+    ],
+    [
+      0.275079,
+      "t"
+    ],
+    [
+      0.099752,
+      "r"
+    ],
+    [
+      0.082322,
+      "e"
+    ],
+    [
+      0.136796,
+      "e"
+    ],
+    [
+      0.752124,
+      "="
+    ],
+    [
+      0.526550,
+      "\""
+    ],
+    [
+      1.008520,
+      "t"
+    ],
+    [
+      0.090652,
+      "r"
+    ],
+    [
+      0.085540,
+      "e"
+    ],
+    [
+      0.367536,
+      "e"
+    ],
+    [
+      0.567320,
+      " "
+    ],
+    [
+      0.413532,
+      "-"
+    ],
+    [
+      0.301242,
+      "I"
+    ],
+    [
+      0.252126,
+      " "
+    ],
+    [
+      0.204789,
+      "n"
+    ],
+    [
+      0.119381,
+      "o"
+    ],
+    [
+      0.172276,
+      "d"
+    ],
+    [
+      0.075630,
+      "e"
+    ],
+    [
+      0.570705,
+      "_"
+    ],
+    [
+      0.412135,
+      "m"
+    ],
+    [
+      0.121620,
+      "o"
+    ],
+    [
+      0.176670,
+      "d"
+    ],
+    [
+      0.130152,
+      "u"
+    ],
+    [
+      0.230978,
+      "l"
+    ],
+    [
+      0.115579,
+      "e"
+    ],
+    [
+      0.380244,
+      "s"
+    ],
+    [
+      1.500971,
+      "\""
+    ],
+    [
+      1.786059,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000017,
+      "\r\r\n"
+    ],
+    [
+      0.001082,
+      "\u001b]2;alias npmtree=\"tree -I node_modules\"\u0007"
+    ],
+    [
+      0.000010,
+      "\u001b]1;alias\u0007"
+    ],
+    [
+      0.000135,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000153,
+      "\u001b]2;joe@arch: ~/WebstormProjects/express-ejs\u0007"
+    ],
+    [
+      0.000010,
+      "\u001b]1;..s/express-ejs\u0007"
+    ],
+    [
+      0.104880,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[38;5;117m~/WebstormProjects/express-ejs\u001b[00m \u001b[38;5;012m\u001b[38;5;133m \u001b[00m\u001b[38;5;077mᐅ\u001b[00m \u001b[K"
+    ],
+    [
+      0.000043,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.592045,
+      "\u001b[4mn\u001b[24m"
+    ],
+    [
+      0.107443,
+      "\u0008\u001b[4m\u001b[33mn\u001b[4m\u001b[33mp\u001b[24m\u001b[39m"
+    ],
+    [
+      0.097731,
+      "\u0008\u0008\u001b[24m\u001b[32mn\u001b[24m\u001b[32mp\u001b[32mm\u001b[39m"
+    ],
+    [
+      0.348701,
+      "\u0008\u0008\u0008\u001b[1m\u001b[31mn\u001b[1m\u001b[31mp\u001b[1m\u001b[31mm\u001b[1m\u001b[31mt\u001b[0m\u001b[39m"
+    ],
+    [
+      0.142330,
+      "\u0008\u001b[1m\u001b[31mt\u001b[1m\u001b[31mr\u001b[0m\u001b[39m"
+    ],
+    [
+      0.095161,
+      "\u0008\u001b[1m\u001b[31mr\u001b[1m\u001b[31me\u001b[0m\u001b[39m"
+    ],
+    [
+      0.177929,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u001b[0m\u001b[32mn\u001b[0m\u001b[32mp\u001b[0m\u001b[32mm\u001b[0m\u001b[32mt\u001b[0m\u001b[32mr\u001b[0m\u001b[32me\u001b[32me\u001b[39m"
+    ],
+    [
+      0.851978,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b]2;tree -I node_modules\u0007\u001b]1;npmtree\u0007"
+    ],
+    [
+      0.001333,
+      ".\r\n"
+    ],
+    [
+      0.003615,
+      "├── app.js\r\n"
+    ],
+    [
+      0.000046,
+      "├── bin\r\n"
+    ],
+    [
+      0.000073,
+      "│   ├── title.js\r\n│   └── www\r\n├── package.json\r\n"
+    ],
+    [
+      0.000009,
+      "├── public\r\n"
+    ],
+    [
+      0.000038,
+      "│   ├── images\r\n"
+    ],
+    [
+      0.000036,
+      "│   ├── javascripts\r\n"
+    ],
+    [
+      0.000006,
+      "│   └── stylesheets\r\n"
+    ],
+    [
+      0.000028,
+      "│       └── style.css\r\n"
+    ],
+    [
+      0.000035,
+      "├── routes\r\n"
+    ],
+    [
+      0.000005,
+      "│   ├── index.js\r\n"
+    ],
+    [
+      0.000027,
+      "│   └── users.js\r\n"
+    ],
+    [
+      0.000028,
+      "└── views\r\n"
+    ],
+    [
+      0.000005,
+      "    ├── error.ejs\r\n"
+    ],
+    [
+      0.000021,
+      "    └── index.ejs\r\n"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "7 directories, 9 files\r\n"
+    ],
+    [
+      0.000848,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r\u001b]2;joe@arch: ~/WebstormProjects/express-ejs\u0007\u001b]1;..s/express-ejs\u0007"
+    ],
+    [
+      0.100610,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[38;5;117m~/WebstormProjects/express-ejs\u001b[00m \u001b[38;5;012m\u001b[38;5;133m \u001b[00m\u001b[38;5;077mᐅ\u001b[00m \u001b[K"
+    ],
+    [
+      0.000083,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      3.867751,
+      "\r\r\n"
+    ]
+  ]
+}
