@@ -1,0 +1,4254 @@
+{
+  "version": 1,
+  "width": 93,
+  "height": 26,
+  "duration": 466.594446,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.737901,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                            \r \r"
+    ],
+    [
+      0.000046,
+      "\u001b]2;jhass@jhass-laptop: ~/chroots/debian\u0007"
+    ],
+    [
+      0.000023,
+      "\u001b]1;..hroots/debian\u0007"
+    ],
+    [
+      0.165665,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[38;5;250m\u001b[48;5;240m jhass \u001b[48;5;238m\u001b[38;5;240m\u001b[38;5;250m\u001b[48;5;238m jhass-laptop \u001b[48;5;31m\u001b[38;5;238m\u001b[38;5;15m\u001b[48;5;31m ~ \u001b[48;5;237m\u001b[38;5;31m\u001b[38;5;250m\u001b[48;5;237m chroots \u001b[48;5;237m\u001b[38;5;244m\u001b[38;5;254m\u001b[48;5;237m debian \u001b[48;5;236m\u001b[38;5;237m\u001b[38;5;15m\u001b[48;5;236m $ \u001b[0m\u001b[38;5;236m\u001b[0m "
+    ],
+    [
+      0.000020,
+      "\u001b[K"
+    ],
+    [
+      0.000043,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.017142,
+      "\u001b[4ms\u001b[24m"
+    ],
+    [
+      0.075916,
+      "\u0008\u001b[24m\u001b[32ms\u001b[32mu\u001b[39m"
+    ],
+    [
+      0.083037,
+      "\u0008\u0008\u001b[1m\u001b[31ms\u001b[1m\u001b[31mu\u001b[1m\u001b[31md\u001b[0m\u001b[39m"
+    ],
+    [
+      0.032511,
+      "\u0008\u0008\u0008\u001b[0m\u001b[4m\u001b[32ms\u001b[0m\u001b[4m\u001b[32mu\u001b[0m\u001b[4m\u001b[32md\u001b[4m\u001b[32mo\u001b[24m\u001b[39m"
+    ],
+    [
+      0.128204,
+      " "
+    ],
+    [
+      0.210811,
+      "\u001b[4ms\u001b[24m"
+    ],
+    [
+      0.323151,
+      "\u0008\u001b[4m\u001b[33ms\u001b[4m\u001b[33my\u001b[24m\u001b[39m"
+    ],
+    [
+      0.172087,
+      "\u0008\u0008\u001b[24m\u001b[1m\u001b[31ms\u001b[24m\u001b[1m\u001b[31my\u001b[1m\u001b[31ms\u001b[0m\u001b[39m"
+    ],
+    [
+      0.218726,
+      "\u0008\u001b[1m\u001b[31ms\u001b[1m\u001b[31mt\u001b[0m\u001b[39m"
+    ],
+    [
+      0.143700,
+      "\u0008\u001b[1m\u001b[31mt\u001b[1m\u001b[31me\u001b[0m\u001b[39m"
+    ],
+    [
+      0.113631,
+      "\u0008\u001b[1m\u001b[31me\u001b[1m\u001b[31mm\u001b[0m\u001b[39m"
+    ],
+    [
+      0.127247,
+      "\u0008\u001b[1m\u001b[31mm\u001b[1m\u001b[31md\u001b[0m\u001b[39m"
+    ],
+    [
+      0.370257,
+      "\u0008\u001b[1m\u001b[31md\u001b[1m\u001b[31m-\u001b[0m\u001b[39m"
+    ],
+    [
+      0.427240,
+      "\u0008\u001b[1m\u001b[31m-\u001b[1m\u001b[31mn\u001b[0m\u001b[39m"
+    ],
+    [
+      0.116561,
+      "\u0008\u001b[1m\u001b[31mn\u001b[1m\u001b[31ms\u001b[0m\u001b[39m"
+    ],
+    [
+      0.204728,
+      "\u0008\u001b[1m\u001b[31ms\u001b[1m\u001b[31ma\u001b[0m\u001b[39m"
+    ],
+    [
+      0.610343,
+      "\u0008\u0008\u001b[1m\u001b[31ms\u001b[0m\u001b[39m\u001b[0m\u001b[39m \u0008"
+    ],
+    [
+      0.119981,
+      "\u0008\u001b[1m\u001b[31ms\u001b[1m\u001b[31mp\u001b[0m\u001b[39m"
+    ],
+    [
+      0.049222,
+      "\u0008\u001b[1m\u001b[31mp\u001b[1m\u001b[31ma\u001b[0m\u001b[39m"
+    ],
+    [
+      0.160068,
+      "\u0008\u001b[1m\u001b[31ma\u001b[1m\u001b[31mw\u001b[0m\u001b[39m"
+    ],
+    [
+      0.145047,
+      "\u001b[13D\u001b[0m\u001b[32ms\u001b[0m\u001b[32my\u001b[0m\u001b[32ms\u001b[0m\u001b[32mt\u001b[0m\u001b[32me\u001b[0m\u001b[32mm\u001b[0m\u001b[32md\u001b[0m\u001b[32m-\u001b[0m\u001b[32mn\u001b[0m\u001b[32ms\u001b[0m\u001b[32mp\u001b[0m\u001b[32ma\u001b[0m\u001b[32mw\u001b[32mn\u001b[39m"
+    ],
+    [
+      0.277768,
+      " "
+    ],
+    [
+      0.184730,
+      "-"
+    ],
+    [
+      0.343774,
+      "x"
+    ],
+    [
+      0.370976,
+      "D"
+    ],
+    [
+      0.121572,
+      " "
+    ],
+    [
+      0.202165,
+      "\u001b[4mw\u001b[24m"
+    ],
+    [
+      0.095905,
+      "\u0008\u001b[4mw\u001b[4mh\u001b[24m"
+    ],
+    [
+      0.112696,
+      "\u0008\u001b[4mh\u001b[4me\u001b[24m"
+    ],
+    [
+      0.109041,
+      "\u0008\u001b[4me\u001b[4me\u001b[24m"
+    ],
+    [
+      0.176479,
+      "\u0008\u001b[4me\u001b[4mz\u001b[24m"
+    ],
+    [
+      0.135928,
+      "\u0008\u001b[4mz\u001b[4my\u001b[24m"
+    ],
+    [
+      0.370374,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b]2;sudo systemd-nspawn -xD wheezy\u0007\u001b]1;systemd-nspawn\u0007"
+    ],
+    [
+      0.009030,
+      "[sudo] password: "
+    ],
+    [
+      3.000000,
+      "\r\n"
+    ],
+    [
+      0.238013,
+      "Spawning container wheezy-8750f6cc48008bfa on /home/jhass/chroots/debian/.#wheezy57d96c9305511f87.\r\nPress ^] three times within 1s to kill container.\r\n"
+    ],
+    [
+      0.466015,
+      "root@wheezy-8750f6cc48008bfa:~# "
+    ],
+    [
+      3.000000,
+      "apt-key adv --keyserver keys.gnupg.net --recv-keys 09617FD37C \rC06B54"
+    ],
+    [
+      0.480339,
+      "\r\n"
+    ],
+    [
+      0.452573,
+      "Executing: gpg --ignore-time-conflict --no-options --no-default-keyring --secret-keyring /tmp/tmp.V90RULBZoq --trustdb-name /etc/apt//trustdb.gpg --keyring /etc/apt/trusted.gpg --primary-keyring /etc/apt/trusted.gpg --keyring /etc/apt/trusted.gpg.d//debian-archive-jessie-automatic.gpg --keyring /etc/apt/trusted.gpg.d//debian-archive-jessie-security-automatic.gpg --keyring /etc/apt/trusted.gpg.d//debian-archive-jessie-stable.gpg --keyring /etc/apt/trusted.gpg.d//debian-archive-squeeze-automatic.gpg --keyring /etc/apt/trusted.gpg.d//debian-archive-squeeze-stable.gpg --keyring /etc/apt/trusted.gpg.d//debian-archive-wheezy-automatic.gpg --keyring /etc/apt/trusted.gpg.d//debian-archive-wheezy-stable.gpg --keyserver keys.gnupg.net --recv-keys 09617FD37CC06B54\r\n"
+    ],
+    [
+      0.063487,
+      "gpg: requesting key 7CC06B54 from hkp server keys.gnupg.net\r\n"
+    ],
+    [
+      0.855119,
+      "gpg: key 7CC06B54: public key \"Crystal Distribution Signing \u003cdist-sign@crystal-lang.org\u003e\" imported\r\n"
+    ],
+    [
+      0.000008,
+      "gpg: Total number processed: 1\r\ngpg: "
+    ],
+    [
+      0.000036,
+      "              imported: 1  (RSA: 1)\r\n"
+    ],
+    [
+      0.014462,
+      "root@wheezy-8750f6cc48008bfa:~# "
+    ],
+    [
+      3.000000,
+      "echo \"deb http://dist.crystal-lang.org/apt crystal main\" \u003e /e \rtc/apt/sources.list.d/crystal.list\r\nroot@wheezy-8750f6cc48008bfa:~# "
+    ],
+    [
+      2.842127,
+      "a"
+    ],
+    [
+      0.098744,
+      "p"
+    ],
+    [
+      0.139748,
+      "t"
+    ],
+    [
+      0.112594,
+      "-"
+    ],
+    [
+      0.059493,
+      "g"
+    ],
+    [
+      0.181467,
+      "e"
+    ],
+    [
+      0.153327,
+      "t"
+    ],
+    [
+      0.053011,
+      " "
+    ],
+    [
+      0.125489,
+      "u"
+    ],
+    [
+      0.146323,
+      "p"
+    ],
+    [
+      0.099357,
+      "s"
+    ],
+    [
+      0.420546,
+      "\u0008 \u0008"
+    ],
+    [
+      0.102176,
+      "d"
+    ],
+    [
+      0.176926,
+      "a"
+    ],
+    [
+      0.288331,
+      "e"
+    ],
+    [
+      0.308632,
+      "\u0008 \u0008"
+    ],
+    [
+      0.068400,
+      "t"
+    ],
+    [
+      0.144366,
+      "e"
+    ],
+    [
+      0.069821,
+      " "
+    ],
+    [
+      0.265183,
+      "\u0026"
+    ],
+    [
+      0.097509,
+      "\u0026"
+    ],
+    [
+      0.123321,
+      " "
+    ],
+    [
+      0.543477,
+      "a"
+    ],
+    [
+      0.105628,
+      "p"
+    ],
+    [
+      0.125454,
+      "t"
+    ],
+    [
+      0.268369,
+      "g"
+    ],
+    [
+      0.278012,
+      "\u0008 \u0008"
+    ],
+    [
+      0.207123,
+      "-"
+    ],
+    [
+      0.088514,
+      "g"
+    ],
+    [
+      0.156114,
+      "e"
+    ],
+    [
+      0.178627,
+      "t"
+    ],
+    [
+      0.068136,
+      " "
+    ],
+    [
+      0.173151,
+      "i"
+    ],
+    [
+      0.136235,
+      "n"
+    ],
+    [
+      0.089845,
+      "s"
+    ],
+    [
+      0.176214,
+      "t"
+    ],
+    [
+      0.201502,
+      "a"
+    ],
+    [
+      0.082328,
+      "l"
+    ],
+    [
+      0.128460,
+      "l"
+    ],
+    [
+      0.113344,
+      " "
+    ],
+    [
+      3.000000,
+      "b"
+    ],
+    [
+      0.110544,
+      "u"
+    ],
+    [
+      0.154610,
+      "i"
+    ],
+    [
+      0.306819,
+      "l"
+    ],
+    [
+      0.429127,
+      "d"
+    ],
+    [
+      0.124658,
+      "-"
+    ],
+    [
+      0.216144,
+      "e"
+    ],
+    [
+      0.180335,
+      "s"
+    ],
+    [
+      0.128255,
+      "s"
+    ],
+    [
+      0.133997,
+      "e"
+    ],
+    [
+      0.110351,
+      "n"
+    ],
+    [
+      0.108975,
+      "t"
+    ],
+    [
+      0.118798,
+      "i"
+    ],
+    [
+      0.135313,
+      "a"
+    ],
+    [
+      0.124736,
+      "l"
+    ],
+    [
+      0.170949,
+      " "
+    ],
+    [
+      0.265957,
+      "l"
+    ],
+    [
+      0.623224,
+      "i"
+    ],
+    [
+      0.105432,
+      "b"
+    ],
+    [
+      0.258844,
+      "s"
+    ],
+    [
+      0.137641,
+      "s"
+    ],
+    [
+      0.103311,
+      "l"
+    ],
+    [
+      0.535450,
+      "-"
+    ],
+    [
+      0.079262,
+      "d"
+    ],
+    [
+      0.121634,
+      "e"
+    ],
+    [
+      0.192147,
+      "v"
+    ],
+    [
+      0.140086,
+      "  \r"
+    ],
+    [
+      0.417535,
+      "g"
+    ],
+    [
+      0.126846,
+      "i"
+    ],
+    [
+      0.098432,
+      "t"
+    ],
+    [
+      0.103027,
+      " "
+    ],
+    [
+      0.378261,
+      "c"
+    ],
+    [
+      0.229426,
+      "r"
+    ],
+    [
+      0.214618,
+      "y"
+    ],
+    [
+      0.321032,
+      "s"
+    ],
+    [
+      0.485631,
+      "t"
+    ],
+    [
+      0.238905,
+      "a"
+    ],
+    [
+      0.164098,
+      "l"
+    ],
+    [
+      1.503844,
+      "\r\n"
+    ],
+    [
+      0.030625,
+      "\r\r0% [Working]"
+    ],
+    [
+      0.404177,
+      "\r            \rGet:1 http://ftp.us.debian.org wheezy Release.gpg [2390 B]\r\n\r            \r41% [1 Release.gpg 976 B/2390 B 41%] [Waiting for headers]"
+    ],
+    [
+      0.000734,
+      "\r                                                          \r100% [Waiting for headers]"
+    ],
+    [
+      0.039094,
+      "\r                          \rGet:2 http://dist.crystal-lang.org crystal Release.gpg [836 B]\r\n\r                          \r100% [Waiting for headers] [2 Release.gpg 836 B/836 B 100%]"
+    ],
+    [
+      0.000036,
+      "\r                                                           \r100% [Waiting for headers]"
+    ],
+    [
+      0.159354,
+      "\r                          \rHit http://ftp.us.debian.org wheezy Release\r\n\r100% [Waiting for headers]"
+    ],
+    [
+      0.000753,
+      "\r                          \r100% [Release gpgv 168 kB] [Waiting for headers]"
+    ],
+    [
+      0.046533,
+      "\r                                                \r100% [Waiting for headers]"
+    ],
+    [
+      0.018747,
+      "\r                          \rGet:3 http://dist.crystal-lang.org crystal Release [1619 B]\r\n\r                          \r87% [Waiting for headers] [3 Release 980 B/1619 B 61%]"
+    ],
+    [
+      0.000214,
+      "\r                                                      \r100% [Waiting for headers]"
+    ],
+    [
+      0.000166,
+      "\r                          \r100% [3 Release gpgv 1619 B] [Waiting for headers]"
+    ],
+    [
+      0.005148,
+      "\r                                                  \r100% [Waiting for headers]"
+    ],
+    [
+      0.142409,
+      "\r                          \rHit http://ftp.us.debian.org wheezy/main amd64 Packages\r\n\r100% [Waiting for headers]"
+    ],
+    [
+      0.000912,
+      "\r                          \r100% [Packages 28.5 MB] [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.021360,
+      "\r                                                                   \rGet:4 http://dist.crystal-lang.org crystal/main amd64 Packages [373 B]\r\n\r                                                                   \r100% [Packages 28.5 MB] [Waiting for headers] [4 Packages 373 B/373 B 100%]"
+    ],
+    [
+      0.012109,
+      "\r                                                                           \r100% [Packages 28.5 MB] [Waiting for headers]"
+    ],
+    [
+      0.000363,
+      "\r                                             \r100% [4 Packages gzip 0 B] [Packages 28.5 MB] [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.000757,
+      "\r                                                                                         \r100% [Packages 28.5 MB] [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.126259,
+      "\r                                                                   \rGet:5 http://ftp.us.debian.org wheezy/main Translation-en [3848 kB]\r\n\r                                                                   \r0% [Packages 28.5 MB] [5 Translation-en 973 B/3848 kB 0%] [Waiting for headers]"
+    ],
+    [
+      0.468370,
+      "\r                                                                               \r88% [5 Translation-en 50.5 kB/3848 kB 1%] [Waiting for headers]"
+    ],
+    [
+      0.141174,
+      "\r                                                               \rIgn http://dist.crystal-lang.org crystal/main Translation-en\r\n\r                                                               \r88% [5 Translation-en 77.1 kB/3848 kB 2%]"
+    ],
+    [
+      0.500421,
+      "\r                                         \r89% [5 Translation-en 195 kB/3848 kB 5%]"
+    ],
+    [
+      0.500679,
+      "\r                                        \r89% [5 Translation-en 446 kB/3848 kB 12%]"
+    ],
+    [
+      0.500604,
+      "\r90% [5 Translation-en 743 kB/3848 kB 19%]"
+    ],
+    [
+      0.500830,
+      "\r91% [5 Translation-en 977 kB/3848 kB 25%]"
+    ],
+    [
+      0.500656,
+      "\r                                         \r92% [5 Translation-en 1353 kB/3848 kB 35%]"
+    ],
+    [
+      0.500714,
+      "\r93% [5 Translation-en 1598 kB/3848 kB 42%]"
+    ],
+    [
+      0.500520,
+      "\r94% [5 Translation-en 1970 kB/3848 kB 51%]"
+    ],
+    [
+      0.500548,
+      "\r95% [5 Translation-en 2151 kB/3848 kB 56%]"
+    ],
+    [
+      0.500802,
+      "\r                                          \r95% [5 Translation-en 2259 kB/3848 kB 59%]                                      5044 kB/s 0s"
+    ],
+    [
+      0.500623,
+      "\r96% [5 Translation-en 2411 kB/3848 kB 63%]                                      5044 kB/s 0s"
+    ],
+    [
+      0.500619,
+      "\r96% [5 Translation-en 2557 kB/3848 kB 66%]                                      5044 kB/s 0s"
+    ],
+    [
+      0.500621,
+      "\r96% [5 Translation-en 2701 kB/3848 kB 70%]                                      5044 kB/s 0s"
+    ],
+    [
+      0.500708,
+      "\r97% [5 Translation-en 2805 kB/3848 kB 73%]                                      5044 kB/s 0s"
+    ],
+    [
+      0.500753,
+      "\r97% [5 Translation-en 2891 kB/3848 kB 75%]                                      5044 kB/s 0s"
+    ],
+    [
+      0.500654,
+      "\r97% [5 Translation-en 2993 kB/3848 kB 78%]                                      5044 kB/s 0s"
+    ],
+    [
+      0.500782,
+      "\r97% [5 Translation-en 3025 kB/3848 kB 79%]                                      5044 kB/s 0s"
+    ],
+    [
+      0.500561,
+      "\r98% [5 Translation-en 3115 kB/3848 kB 81%]                                      5044 kB/s 0s"
+    ],
+    [
+      0.500712,
+      "\r98% [5 Translation-en 3188 kB/3848 kB 83%]                                      5044 kB/s 0s"
+    ],
+    [
+      0.500847,
+      "\r98% [5 Translation-en 3248 kB/3848 kB 84%]                                      5044 kB/s 0s"
+    ],
+    [
+      0.500709,
+      "\r98% [5 Translation-en 3293 kB/3848 kB 86%]                                      5044 kB/s 0s"
+    ],
+    [
+      0.500686,
+      "\r98% [5 Translation-en 3325 kB/3848 kB 86%]                                       178 kB/s 2s"
+    ],
+    [
+      0.500475,
+      "\r99% [5 Translation-en 3434 kB/3848 kB 89%]                                       178 kB/s 2s"
+    ],
+    [
+      0.500859,
+      "\r99% [5 Translation-en 3514 kB/3848 kB 91%]                                       178 kB/s 1s"
+    ],
+    [
+      0.500582,
+      "\r99% [5 Translation-en 3601 kB/3848 kB 94%]                                       178 kB/s 1s"
+    ],
+    [
+      0.500637,
+      "\r100% [5 Translation-en 3714 kB/3848 kB 97%]                                      178 kB/s 0s"
+    ],
+    [
+      0.500771,
+      "\r100% [5 Translation-en 3797 kB/3848 kB 99%]                                      178 kB/s 0s"
+    ],
+    [
+      0.310438,
+      "\r100% [Working]                                                                   178 kB/s 0s"
+    ],
+    [
+      0.000623,
+      "\r100% [5 Translation-en bzip2 0 B]                                                178 kB/s 0s"
+    ],
+    [
+      0.500573,
+      "\r100% [5 Translation-en bzip2 0 B]                                                178 kB/s 0s"
+    ],
+    [
+      0.500539,
+      "\r100% [5 Translation-en bzip2 0 B]                                                178 kB/s 0s"
+    ],
+    [
+      0.349291,
+      "\r100% [Working]                                                                   178 kB/s 0s\r                                                                                            \rFetched 3853 kB in 16s (237 kB/s)\r\n"
+    ],
+    [
+      0.003236,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.069407,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.012683,
+      "\rReading package lists... 1%\r"
+    ],
+    [
+      0.687404,
+      "\rReading package lists... 60%\r"
+    ],
+    [
+      0.000009,
+      "\rReading package lists... 60%\r"
+    ],
+    [
+      0.012864,
+      "\rReading package lists... 63%\r"
+    ],
+    [
+      0.163752,
+      "\rReading package lists... 99%\r\rReading package lists... 99%\r"
+    ],
+    [
+      0.444189,
+      "\rReading package lists... 99%\r"
+    ],
+    [
+      0.022439,
+      "\rReading package lists... 99%\r"
+    ],
+    [
+      0.503019,
+      "\rReading package lists... Done\r\r\n"
+    ],
+    [
+      0.010068,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.002674,
+      "\rReading package lists... 100%\r\rReading package lists... Done\r\r\n"
+    ],
+    [
+      0.005936,
+      "\rBuilding dependency tree... 0%\r\rBuilding dependency tree... 0%\r"
+    ],
+    [
+      0.021851,
+      "\rBuilding dependency tree... 50%\r\rBuilding dependency tree... 50%\r"
+    ],
+    [
+      0.087763,
+      "\rBuilding dependency tree... Done\r\r\n"
+    ],
+    [
+      0.083342,
+      "The following extra packages will be installed:\r\n  binutils bzip2 cpp cpp-4.7 dpkg-dev fakeroot g++ g++-4.7 gcc gcc-4.7 git-man less\r\n  libalgorithm-diff-perl libalgorithm-diff-xs-perl libalgorithm-merge-perl libbsd0\r\n  libc-dev-bin libc6-dev libclass-isa-perl libdpkg-perl libedit2 liberror-perl libexpat1\r\n  libfile-fcntllock-perl libgmp10 libgomp1 libitm1 libmpc2 libmpfr4 libquadmath0 libssl-doc\r\n  libstdc++6-4.7-dev libswitch-perl libtimedate-perl libx11-6 libx11-data libxau6 libxcb1\r\n  libxdmcp6 libxext6 libxmuu1 linux-libc-dev make manpages-dev openssh-blacklist\r\n  openssh-blacklist-extra openssh-client patch perl perl-modules rsync xauth zlib1g-dev\r\n"
+    ],
+    [
+      0.001207,
+      "Suggested packages:\r\n  binutils-doc bzip2-doc cpp-doc gcc-4.7-locales debian-keyring g++-multilib\r\n  g++-4.7-multilib gcc-4.7-doc libstdc++6-4.7-dbg gcc-multilib autoconf automake1.9 libtool\r\n  flex bison gdb gcc-doc gcc-4.7-multilib libmudflap0-4.7-dev libgcc1-dbg libgomp1-dbg\r\n  libitm1-dbg libquadmath0-dbg libmudflap0-dbg libcloog-ppl0 libppl-c2 libppl7\r\n  binutils-gold gettext-base git-daemon-run git-daemon-sysvinit git-doc git-el git-arch\r\n  git-cvs git-svn git-email git-gui gitk gitweb glibc-doc libstdc++6-4.7-doc make-doc\r\n  ssh-askpass libpam-ssh keychain monkeysphere ed diffutils-doc perl-doc\r\n  libterm-readline-gnu-perl libterm-readline-perl-perl libpod-plainer-perl openssh-server\r\nRecommended packages:\r\n  ssh-client\r\n"
+    ],
+    [
+      0.001182,
+      "The following NEW packages will be installed:\r\n  binutils build-essential bzip2 cpp cpp-4.7 crystal dpkg-dev fakeroot g++ g++-4.7 gcc\r\n  gcc-4.7 git git-man less libalgorithm-diff-perl libalgorithm-diff-xs-perl\r\n  libalgorithm-merge-perl libbsd0 libc-dev-bin libc6-dev libclass-isa-perl libdpkg-perl\r\n  libedit2 liberror-perl libexpat1 libfile-fcntllock-perl libgmp10 libgomp1 libitm1 libmpc2\r\n  libmpfr4 libquadmath0 libssl-dev libssl-doc libstdc++6-4.7-dev libswitch-perl\r\n  libtimedate-perl libx11-6 libx11-data libxau6 libxcb1 libxdmcp6 libxext6 libxmuu1\r\n  linux-libc-dev make manpages-dev openssh-blacklist openssh-blacklist-extra openssh-client\r\n  patch perl perl-modules rsync xauth zlib1g-dev\r\n"
+    ],
+    [
+      0.003549,
+      "0 upgraded, 57 newly installed, 0 to remove and 0 not upgraded.\r\n"
+    ],
+    [
+      0.010980,
+      "Need to get 74.0 MB of archives.\r\nAfter this operation, 200 MB of additional disk space will be used.\r\nDo you want to continue [Y/n]? "
+    ],
+    [
+      3.000000,
+      "\r\n"
+    ],
+    [
+      0.007783,
+      "\r\r0% [Working]"
+    ],
+    [
+      0.306492,
+      "\r            \rGet:1 http://dist.crystal-lang.org/apt/ crystal/main crystal amd64 0.7.1-1 [10.5 MB]\r\n\r            \r0% [Waiting for headers] [1 crystal 967 B/10.5 MB 0%]"
+    ],
+    [
+      0.017093,
+      "\r                                                     \rGet:2 http://ftp.us.debian.org/debian/ wheezy/main libbsd0 amd64 0.4.2-1 [59.3 kB]\r\n\r                                                     \r0% [2 libbsd0 3391 B/59.3 kB 6%] [1 crystal 12.9 kB/10.5 MB 0%]"
+    ],
+    [
+      0.500744,
+      "\r                                                               \r0% [2 libbsd0 28.8 kB/59.3 kB 48%] [1 crystal 114 kB/10.5 MB 1%]"
+    ],
+    [
+      0.257702,
+      "\r                                                                \r0% [1 crystal 195 kB/10.5 MB 2%]"
+    ],
+    [
+      0.154446,
+      "\r                                \rGet:3 http://ftp.us.debian.org/debian/ wheezy/main libedit2 amd64 2.11-20080614-5 [72.9 kB]\r\n\r                                \r0% [3 libedit2 975 B/72.9 kB 1%] [1 crystal 239 kB/10.5 MB 2%]"
+    ],
+    [
+      0.500658,
+      "\r                                                              \r1% [3 libedit2 37.2 kB/72.9 kB 51%] [1 crystal 430 kB/10.5 MB 4%]"
+    ],
+    [
+      0.500787,
+      "\r1% [3 libedit2 72.2 kB/72.9 kB 99%] [1 crystal 591 kB/10.5 MB 6%]"
+    ],
+    [
+      0.001214,
+      "\r                                                                 \r1% [1 crystal 591 kB/10.5 MB 6%]"
+    ],
+    [
+      0.144078,
+      "\r                                \rGet:4 http://ftp.us.debian.org/debian/ wheezy/main libexpat1 amd64 2.1.0-1+deb7u1 [139 kB]\r\n\r                                \r1% [4 libexpat1 974 B/139 kB 1%] [1 crystal 638 kB/10.5 MB 6%]"
+    ],
+    [
+      0.500716,
+      "\r                                                              \r1% [4 libexpat1 61.4 kB/139 kB 44%] [1 crystal 800 kB/10.5 MB 8%]"
+    ],
+    [
+      0.399184,
+      "\r                                                                 \r2% [1 crystal 939 kB/10.5 MB 9%]"
+    ],
+    [
+      0.146903,
+      "\r                                \rGet:5 http://ftp.us.debian.org/debian/ wheezy/main libgmp10 amd64 2:5.0.5+dfsg-2 [250 kB]\r\n\r                                \r2% [5 libgmp10 974 B/250 kB 0%] [1 crystal 1006 kB/10.5 MB 10%]"
+    ],
+    [
+      0.500597,
+      "\r                                                               \r2% [5 libgmp10 122 kB/250 kB 49%] [1 crystal 1187 kB/10.5 MB 11%]"
+    ],
+    [
+      0.359697,
+      "\r                                                                 \r3% [1 crystal 1336 kB/10.5 MB 13%]"
+    ],
+    [
+      0.151417,
+      "\r                                  \rGet:6 http://ftp.us.debian.org/debian/ wheezy/main libgomp1 amd64 4.7.2-5 [27.5 kB]\r\n\r                                  \r3% [6 libgomp1 975 B/27.5 kB 4%] [1 crystal 1417 kB/10.5 MB 14%]"
+    ],
+    [
+      0.316220,
+      "\r                                                                \r3% [1 crystal 1531 kB/10.5 MB 15%]"
+    ],
+    [
+      0.140453,
+      "\r                                  \rGet:7 http://ftp.us.debian.org/debian/ wheezy/main libitm1 amd64 4.7.2-5 [36.6 kB]\r\n\r                                  \r3% [7 libitm1 975 B/36.6 kB 3%] [1 crystal 1601 kB/10.5 MB 15%]"
+    ],
+    [
+      0.500772,
+      "\r                                                               \r3% [7 libitm1 31.2 kB/36.6 kB 85%] [1 crystal 1801 kB/10.5 MB 17%]"
+    ],
+    [
+      0.078886,
+      "\r                                                                  \r3% [1 crystal 1836 kB/10.5 MB 18%]"
+    ],
+    [
+      0.134719,
+      "\r                                  \rGet:8 http://ftp.us.debian.org/debian/ wheezy/main libmpfr4 amd64 3.1.0-5 [538 kB]\r\n\r                                  \r3% [8 libmpfr4 974 B/538 kB 0%] [1 crystal 1893 kB/10.5 MB 18%]"
+    ],
+    [
+      0.500675,
+      "\r                                                               \r4% [8 libmpfr4 23.9 kB/538 kB 4%] [1 crystal 2069 kB/10.5 MB 20%]          438 kB/s 2min 42s"
+    ],
+    [
+      0.500750,
+      "\r4% [8 libmpfr4 50.5 kB/538 kB 9%] [1 crystal 2282 kB/10.5 MB 22%]          438 kB/s 2min 42s"
+    ],
+    [
+      0.500740,
+      "\r4% [8 libmpfr4 71.0 kB/538 kB 13%] [1 crystal 2507 kB/10.5 MB 24%]         438 kB/s 2min 41s"
+    ],
+    [
+      0.500680,
+      "\r5% [8 libmpfr4 108 kB/538 kB 20%] [1 crystal 2740 kB/10.5 MB 26%]          438 kB/s 2min 41s"
+    ],
+    [
+      0.500501,
+      "\r5% [8 libmpfr4 142 kB/538 kB 26%] [1 crystal 3034 kB/10.5 MB 29%]          438 kB/s 2min 40s"
+    ],
+    [
+      0.500735,
+      "\r6% [8 libmpfr4 195 kB/538 kB 36%] [1 crystal 3425 kB/10.5 MB 33%]          438 kB/s 2min 39s"
+    ],
+    [
+      0.500758,
+      "\r6% [8 libmpfr4 237 kB/538 kB 44%] [1 crystal 3903 kB/10.5 MB 37%]          438 kB/s 2min 38s"
+    ],
+    [
+      0.500743,
+      "\r7% [8 libmpfr4 290 kB/538 kB 54%] [1 crystal 4597 kB/10.5 MB 44%]          438 kB/s 2min 36s"
+    ],
+    [
+      0.500739,
+      "\r8% [8 libmpfr4 334 kB/538 kB 62%] [1 crystal 5148 kB/10.5 MB 49%]          438 kB/s 2min 34s"
+    ],
+    [
+      0.500626,
+      "\r9% [8 libmpfr4 375 kB/538 kB 70%] [1 crystal 5670 kB/10.5 MB 54%]          438 kB/s 2min 33s"
+    ],
+    [
+      0.500589,
+      "\r10% [8 libmpfr4 424 kB/538 kB 79%] [1 crystal 6308 kB/10.5 MB 60%]         438 kB/s 2min 32s"
+    ],
+    [
+      0.500632,
+      "\r11% [8 libmpfr4 454 kB/538 kB 84%] [1 crystal 6849 kB/10.5 MB 65%]         438 kB/s 2min 30s"
+    ],
+    [
+      0.500881,
+      "\r12% [8 libmpfr4 501 kB/538 kB 93%] [1 crystal 7457 kB/10.5 MB 71%]          976 kB/s 1min 7s"
+    ],
+    [
+      0.398022,
+      "\r12% [1 crystal 7914 kB/10.5 MB 75%]                                         976 kB/s 1min 6s"
+    ],
+    [
+      0.160547,
+      "\r                                                                                            \rGet:9 http://ftp.us.debian.org/debian/ wheezy/main libquadmath0 amd64 4.7.2-5 [125 kB]\r\n"
+    ],
+    [
+      0.000128,
+      "\r13% [9 libquadmath0 974 B/125 kB 1%] [1 crystal 8128 kB/10.5 MB 77%]        976 kB/s 1min 6s"
+    ],
+    [
+      0.500807,
+      "\r13% [9 libquadmath0 71.0 kB/125 kB 57%] [1 crystal 8688 kB/10.5 MB 83%]     976 kB/s 1min 5s"
+    ],
+    [
+      0.500599,
+      "\r14% [9 libquadmath0 119 kB/125 kB 95%] [1 crystal 9263 kB/10.5 MB 88%]      976 kB/s 1min 5s"
+    ],
+    [
+      0.082014,
+      "\r14% [1 crystal 9332 kB/10.5 MB 89%]                                         976 kB/s 1min 4s"
+    ],
+    [
+      0.195963,
+      "\r                                                                                            \rGet:10 http://ftp.us.debian.org/debian/ wheezy/main libxau6 amd64 1:1.0.7-1 [18.8 kB]\r\n\r15% [10 libxau6 975 B/18.8 kB 5%] [1 crystal 9602 kB/10.5 MB 92%]           976 kB/s 1min 4s"
+    ],
+    [
+      0.174111,
+      "\r15% [1 crystal 9795 kB/10.5 MB 93%]                                         976 kB/s 1min 4s"
+    ],
+    [
+      0.148489,
+      "\r                                                                                            \rGet:11 http://ftp.us.debian.org/debian/ wheezy/main libxdmcp6 amd64 1:1.1.1-1 [26.3 kB]\r\n\r15% [11 libxdmcp6 975 B/26.3 kB 4%] [1 crystal 9970 kB/10.5 MB 95%]         976 kB/s 1min 4s"
+    ],
+    [
+      0.159039,
+      "\r16% [1 crystal 10.2 MB/10.5 MB 97%]                                         976 kB/s 1min 3s"
+    ],
+    [
+      0.144419,
+      "\r                                                                                            \rGet:12 http://ftp.us.debian.org/debian/ wheezy/main libxcb1 amd64 1.8.1-2+deb7u1 [50.2 kB]\r\n\r16% [12 libxcb1 975 B/50.2 kB 2%] [1 crystal 10.4 MB/10.5 MB 99%]           976 kB/s 1min 3s"
+    ],
+    [
+      0.096960,
+      "\r16% [12 libxcb1 15.5 kB/50.2 kB 31%]                                        976 kB/s 1min 3s"
+    ],
+    [
+      0.195891,
+      "\r16% [Working]                                                               976 kB/s 1min 3s"
+    ],
+    [
+      0.139449,
+      "\r                                                                                            \rGet:13 http://ftp.us.debian.org/debian/ wheezy/main libx11-data all 2:1.5.0-1+deb7u1 [189 kB]\r\n\r16% [13 libx11-data 974 B/189 kB 1%]                                        976 kB/s 1min 3s"
+    ],
+    [
+      0.500558,
+      "\r16% [13 libx11-data 71.0 kB/189 kB 38%]                                     976 kB/s 1min 3s"
+    ],
+    [
+      0.500547,
+      "\r16% [13 libx11-data 123 kB/189 kB 65%]                                      976 kB/s 1min 3s"
+    ],
+    [
+      0.411432,
+      "\r16% [Working]                                                               976 kB/s 1min 3s"
+    ],
+    [
+      0.144613,
+      "\r                                                                                            \rGet:14 http://ftp.us.debian.org/debian/ wheezy/main libx11-6 amd64 2:1.5.0-1+deb7u1 [900 kB]\r\n\r16% [14 libx11-6 974 B/900 kB 0%]                                           976 kB/s 1min 3s"
+    ],
+    [
+      0.500843,
+      "\r16% [14 libx11-6 94.0 kB/900 kB 10%]                                        976 kB/s 1min 3s"
+    ],
+    [
+      0.500755,
+      "\r16% [14 libx11-6 174 kB/900 kB 19%]                                         976 kB/s 1min 3s"
+    ],
+    [
+      0.500452,
+      "\r17% [14 libx11-6 281 kB/900 kB 31%]                                         976 kB/s 1min 3s"
+    ],
+    [
+      0.500693,
+      "\r17% [14 libx11-6 381 kB/900 kB 42%]                                        598 kB/s 1min 42s"
+    ],
+    [
+      0.500805,
+      "\r17% [14 libx11-6 482 kB/900 kB 54%]                                        598 kB/s 1min 42s"
+    ],
+    [
+      0.500686,
+      "\r17% [14 libx11-6 652 kB/900 kB 72%]                                        598 kB/s 1min 42s"
+    ],
+    [
+      0.500808,
+      "\r17% [14 libx11-6 831 kB/900 kB 92%]                                        598 kB/s 1min 42s"
+    ],
+    [
+      0.199968,
+      "\r17% [Working]                                                              598 kB/s 1min 42s"
+    ],
+    [
+      0.154597,
+      "\r                                                                                            \rGet:15 http://ftp.us.debian.org/debian/ wheezy/main libxext6 amd64 2:1.3.1-2+deb7u1 [54.8 kB]\r\n\r17% [15 libxext6 975 B/54.8 kB 2%]                                         598 kB/s 1min 42s"
+    ],
+    [
+      0.134118,
+      "\r18% [Working]                                                              598 kB/s 1min 41s"
+    ],
+    [
+      0.133509,
+      "\r                                                                                            \rGet:16 http://ftp.us.debian.org/debian/ wheezy/main libxmuu1 amd64 2:1.1.1-1 [23.6 kB]\r\n\r18% [16 libxmuu1 975 B/23.6 kB 4%]                                         598 kB/s 1min 41s"
+    ],
+    [
+      0.012493,
+      "\r18% [Working]                                                              598 kB/s 1min 41s"
+    ],
+    [
+      0.164310,
+      "\r                                                                                            \rGet:17 http://ftp.us.debian.org/debian/ wheezy/main openssh-blacklist all 0.4.1+nmu1 [1835 kB]\r\n\r18% [17 openssh-blacklist 2181 B/1835 kB 0%]                               598 kB/s 1min 41s"
+    ],
+    [
+      0.500303,
+      "\r18% [17 openssh-blacklist 194 kB/1835 kB 11%]                              598 kB/s 1min 41s"
+    ],
+    [
+      0.500817,
+      "\r18% [17 openssh-blacklist 349 kB/1835 kB 19%]                              598 kB/s 1min 41s"
+    ],
+    [
+      0.500672,
+      "\r18% [17 openssh-blacklist 594 kB/1835 kB 32%]                              598 kB/s 1min 40s"
+    ],
+    [
+      0.500686,
+      "\r19% [17 openssh-blacklist 825 kB/1835 kB 45%]                              598 kB/s 1min 40s"
+    ],
+    [
+      0.500703,
+      "\r19% [17 openssh-blacklist 1023 kB/1835 kB 56%]                             598 kB/s 1min 40s"
+    ],
+    [
+      0.500732,
+      "\r19% [17 openssh-blacklist 1302 kB/1835 kB 71%]                             598 kB/s 1min 39s"
+    ],
+    [
+      0.500772,
+      "\r20% [17 openssh-blacklist 1516 kB/1835 kB 83%]                             598 kB/s 1min 39s"
+    ],
+    [
+      0.500693,
+      "\r20% [17 openssh-blacklist 1680 kB/1835 kB 92%]                             361 kB/s 2min 44s"
+    ],
+    [
+      0.500636,
+      "\r20% [17 openssh-blacklist 1779 kB/1835 kB 97%]                             361 kB/s 2min 43s"
+    ],
+    [
+      0.064568,
+      "\r20% [Working]                                                              361 kB/s 2min 43s"
+    ],
+    [
+      0.148484,
+      "\r                                                                                            \rGet:18 http://ftp.us.debian.org/debian/ wheezy/main openssh-blacklist-extra all 0.4.1+nmu1 [1835 kB]\r\n\r20% [18 openssh-blacklist-extra 973 B/1835 kB 0%]                          361 kB/s 2min 43s"
+    ],
+    [
+      0.500477,
+      "\r20% [18 openssh-blacklist-extra 19.1 kB/1835 kB 1%]                        361 kB/s 2min 43s"
+    ],
+    [
+      0.500852,
+      "\r20% [18 openssh-blacklist-extra 67.4 kB/1835 kB 4%]                        361 kB/s 2min 43s"
+    ],
+    [
+      0.500784,
+      "\r20% [18 openssh-blacklist-extra 198 kB/1835 kB 11%]                        361 kB/s 2min 43s"
+    ],
+    [
+      0.500736,
+      "\r21% [18 openssh-blacklist-extra 350 kB/1835 kB 19%]                        361 kB/s 2min 42s"
+    ],
+    [
+      0.500563,
+      "\r21% [18 openssh-blacklist-extra 504 kB/1835 kB 27%]                        361 kB/s 2min 42s"
+    ],
+    [
+      0.500601,
+      "\r21% [18 openssh-blacklist-extra 687 kB/1835 kB 37%]                        361 kB/s 2min 41s"
+    ],
+    [
+      0.500822,
+      "\r21% [18 openssh-blacklist-extra 839 kB/1835 kB 46%]                        361 kB/s 2min 41s"
+    ],
+    [
+      0.500653,
+      "\r21% [18 openssh-blacklist-extra 987 kB/1835 kB 54%]                        361 kB/s 2min 41s"
+    ],
+    [
+      0.500780,
+      "\r22% [18 openssh-blacklist-extra 1164 kB/1835 kB 63%]                       361 kB/s 2min 40s"
+    ],
+    [
+      0.500701,
+      "\r22% [18 openssh-blacklist-extra 1307 kB/1835 kB 71%]                       361 kB/s 2min 40s"
+    ],
+    [
+      0.500683,
+      "\r22% [18 openssh-blacklist-extra 1451 kB/1835 kB 79%]                       258 kB/s 3min 43s"
+    ],
+    [
+      0.500589,
+      "\r22% [18 openssh-blacklist-extra 1620 kB/1835 kB 88%]                       258 kB/s 3min 42s"
+    ],
+    [
+      0.500728,
+      "\r22% [18 openssh-blacklist-extra 1803 kB/1835 kB 98%]                       258 kB/s 3min 42s"
+    ],
+    [
+      0.062148,
+      "\r23% [Working]                                                              258 kB/s 3min 42s"
+    ],
+    [
+      0.146430,
+      "\r                                                                                            \rGet:19 http://ftp.us.debian.org/debian/ wheezy/main libmpc2 amd64 0.9-4 [40.1 kB]\r\n\r23% [19 libmpc2 975 B/40.1 kB 2%]                                          258 kB/s 3min 42s"
+    ],
+    [
+      0.010095,
+      "\r23% [Working]                                                              258 kB/s 3min 41s"
+    ],
+    [
+      0.135073,
+      "\r                                                                                            \rGet:20 http://ftp.us.debian.org/debian/ wheezy/main bzip2 amd64 1.0.6-4 [50.1 kB]\r\n\r23% [20 bzip2 975 B/50.1 kB 2%]                                            258 kB/s 3min 41s"
+    ],
+    [
+      0.142072,
+      "\r23% [Working]                                                              258 kB/s 3min 41s"
+    ],
+    [
+      0.134889,
+      "\r                                                                                            \rGet:21 http://ftp.us.debian.org/debian/ wheezy/main less amd64 444-4 [135 kB]\r\n\r23% [21 less 974 B/135 kB 1%]                                              258 kB/s 3min 41s"
+    ],
+    [
+      0.500793,
+      "\r23% [21 less 116 kB/135 kB 86%]                                            258 kB/s 3min 41s"
+    ],
+    [
+      0.098313,
+      "\r23% [Working]                                                              258 kB/s 3min 41s"
+    ],
+    [
+      0.131501,
+      "\r                                                                                            \rGet:22 http://ftp.us.debian.org/debian/ wheezy/main libclass-isa-perl all 0.36-3 [12.3 kB]\r\n\r23% [22 libclass-isa-perl 975 B/12.3 kB 8%]                                258 kB/s 3min 41s"
+    ],
+    [
+      0.006292,
+      "\r23% [Working]                                                              258 kB/s 3min 41s"
+    ],
+    [
+      0.160707,
+      "\r                                                                                            \rGet:23 http://ftp.us.debian.org/debian/ wheezy/main perl-modules all 5.14.2-21+deb7u2 [3442 kB]\r\n\r23% [23 perl-modules 973 B/3442 kB 0%]                                     258 kB/s 3min 41s"
+    ],
+    [
+      0.500822,
+      "\r23% [23 perl-modules 44.5 kB/3442 kB 1%]                                   258 kB/s 3min 40s"
+    ],
+    [
+      0.500844,
+      "\r23% [23 perl-modules 117 kB/3442 kB 3%]                                    258 kB/s 3min 40s"
+    ],
+    [
+      0.500729,
+      "\r23% [23 perl-modules 251 kB/3442 kB 7%]                                    258 kB/s 3min 40s"
+    ],
+    [
+      0.500433,
+      "\r23% [23 perl-modules 433 kB/3442 kB 13%]                                   258 kB/s 3min 39s"
+    ],
+    [
+      0.500589,
+      "\r24% [23 perl-modules 513 kB/3442 kB 15%]                                   258 kB/s 3min 39s"
+    ],
+    [
+      0.500933,
+      "\r24% [23 perl-modules 528 kB/3442 kB 15%]                                   258 kB/s 3min 39s"
+    ],
+    [
+      0.500754,
+      "\r24% [23 perl-modules 588 kB/3442 kB 17%]                                   201 kB/s 4min 41s"
+    ],
+    [
+      0.500672,
+      "\r24% [23 perl-modules 661 kB/3442 kB 19%]                                   201 kB/s 4min 41s"
+    ],
+    [
+      0.500529,
+      "\r24% [23 perl-modules 801 kB/3442 kB 23%]                                   201 kB/s 4min 40s"
+    ],
+    [
+      0.500689,
+      "\r24% [23 perl-modules 947 kB/3442 kB 28%]                                   201 kB/s 4min 39s"
+    ],
+    [
+      0.500717,
+      "\r24% [23 perl-modules 1104 kB/3442 kB 32%]                                  201 kB/s 4min 39s"
+    ],
+    [
+      0.500674,
+      "\r25% [23 perl-modules 1303 kB/3442 kB 38%]                                  201 kB/s 4min 38s"
+    ],
+    [
+      0.500834,
+      "\r25% [23 perl-modules 1463 kB/3442 kB 42%]                                  201 kB/s 4min 37s"
+    ],
+    [
+      0.500717,
+      "\r25% [23 perl-modules 1639 kB/3442 kB 48%]                                  201 kB/s 4min 36s"
+    ],
+    [
+      0.500363,
+      "\r25% [23 perl-modules 1837 kB/3442 kB 53%]                                  201 kB/s 4min 35s"
+    ],
+    [
+      0.500896,
+      "\r26% [23 perl-modules 2055 kB/3442 kB 60%]                                  201 kB/s 4min 34s"
+    ],
+    [
+      0.500719,
+      "\r26% [23 perl-modules 2222 kB/3442 kB 65%]                                  201 kB/s 4min 33s"
+    ],
+    [
+      0.500686,
+      "\r26% [23 perl-modules 2410 kB/3442 kB 70%]                                  201 kB/s 4min 32s"
+    ],
+    [
+      0.500724,
+      "\r26% [23 perl-modules 2598 kB/3442 kB 75%]                                  335 kB/s 2min 42s"
+    ],
+    [
+      0.500581,
+      "\r27% [23 perl-modules 2800 kB/3442 kB 81%]                                  335 kB/s 2min 42s"
+    ],
+    [
+      0.500570,
+      "\r27% [23 perl-modules 2976 kB/3442 kB 86%]                                  335 kB/s 2min 41s"
+    ],
+    [
+      0.500811,
+      "\r27% [23 perl-modules 3201 kB/3442 kB 93%]                                  335 kB/s 2min 40s"
+    ],
+    [
+      0.500652,
+      "\r27% [23 perl-modules 3400 kB/3442 kB 99%]                                  335 kB/s 2min 40s"
+    ],
+    [
+      0.076303,
+      "\r28% [Working]                                                              335 kB/s 2min 40s"
+    ],
+    [
+      0.135984,
+      "\r                                                                                            \rGet:24 http://ftp.us.debian.org/debian/ wheezy/main perl amd64 5.14.2-21+deb7u2 [4407 kB]\r\n\r28% [24 perl 973 B/4407 kB 0%]                                             335 kB/s 2min 40s"
+    ],
+    [
+      0.500553,
+      "\r28% [24 perl 209 kB/4407 kB 5%]                                            335 kB/s 2min 39s"
+    ],
+    [
+      0.500715,
+      "\r28% [24 perl 410 kB/4407 kB 9%]                                            335 kB/s 2min 39s"
+    ],
+    [
+      0.500781,
+      "\r28% [24 perl 613 kB/4407 kB 14%]                                           335 kB/s 2min 38s"
+    ],
+    [
+      0.500608,
+      "\r29% [24 perl 906 kB/4407 kB 21%]                                           335 kB/s 2min 37s"
+    ],
+    [
+      0.500696,
+      "\r29% [24 perl 1219 kB/4407 kB 28%]                                          335 kB/s 2min 36s"
+    ],
+    [
+      0.500489,
+      "\r30% [24 perl 1576 kB/4407 kB 36%]                                          335 kB/s 2min 35s"
+    ],
+    [
+      0.500538,
+      "\r30% [24 perl 1949 kB/4407 kB 44%]                                          335 kB/s 2min 34s"
+    ],
+    [
+      0.500906,
+      "\r31% [24 perl 2276 kB/4407 kB 52%]                                          502 kB/s 1min 42s"
+    ],
+    [
+      0.500634,
+      "\r31% [24 perl 2418 kB/4407 kB 55%]                                          502 kB/s 1min 42s"
+    ],
+    [
+      0.500571,
+      "\r31% [24 perl 2602 kB/4407 kB 59%]                                          502 kB/s 1min 41s"
+    ],
+    [
+      0.500626,
+      "\r31% [24 perl 2790 kB/4407 kB 63%]                                          502 kB/s 1min 41s"
+    ],
+    [
+      0.500897,
+      "\r31% [24 perl 2847 kB/4407 kB 65%]                                          502 kB/s 1min 41s"
+    ],
+    [
+      0.500693,
+      "\r31% [24 perl 2922 kB/4407 kB 66%]                                          502 kB/s 1min 41s"
+    ],
+    [
+      0.500530,
+      "\r32% [24 perl 2970 kB/4407 kB 67%]                                          502 kB/s 1min 40s"
+    ],
+    [
+      0.500741,
+      "\r32% [24 perl 3050 kB/4407 kB 69%]                                          502 kB/s 1min 40s"
+    ],
+    [
+      0.500513,
+      "\r32% [24 perl 3124 kB/4407 kB 71%]                                          502 kB/s 1min 40s"
+    ],
+    [
+      0.500859,
+      "\r32% [24 perl 3234 kB/4407 kB 73%]                                          502 kB/s 1min 40s"
+    ],
+    [
+      0.500829,
+      "\r32% [24 perl 3293 kB/4407 kB 75%]                                          502 kB/s 1min 40s"
+    ],
+    [
+      0.500581,
+      "\r32% [24 perl 3399 kB/4407 kB 77%]                                          502 kB/s 1min 40s"
+    ],
+    [
+      0.500756,
+      "\r32% [24 perl 3482 kB/4407 kB 79%]                                           201 kB/s 4min 9s"
+    ],
+    [
+      0.500601,
+      "\r32% [24 perl 3612 kB/4407 kB 82%]                                           201 kB/s 4min 8s"
+    ],
+    [
+      0.500678,
+      "\r32% [24 perl 3687 kB/4407 kB 84%]                                           201 kB/s 4min 8s"
+    ],
+    [
+      0.500856,
+      "\r33% [24 perl 3755 kB/4407 kB 85%]                                           201 kB/s 4min 8s"
+    ],
+    [
+      0.500513,
+      "\r33% [24 perl 3841 kB/4407 kB 87%]                                           201 kB/s 4min 7s"
+    ],
+    [
+      0.500777,
+      "\r33% [24 perl 4003 kB/4407 kB 91%]                                           201 kB/s 4min 7s"
+    ],
+    [
+      0.500690,
+      "\r33% [24 perl 4158 kB/4407 kB 94%]                                           201 kB/s 4min 6s"
+    ],
+    [
+      0.500509,
+      "\r33% [24 perl 4333 kB/4407 kB 98%]                                           201 kB/s 4min 5s"
+    ],
+    [
+      0.207393,
+      "\r33% [Working]                                                               201 kB/s 4min 5s"
+    ],
+    [
+      0.135797,
+      "\r                                                                                            \rGet:25 http://ftp.us.debian.org/debian/ wheezy/main libswitch-perl all 2.16-2 [21.0 kB]\r\n\r33% [25 libswitch-perl 975 B/21.0 kB 5%]                                    201 kB/s 4min 4s"
+    ],
+    [
+      0.006472,
+      "\r34% [Waiting for headers]                                                   201 kB/s 4min 4s"
+    ],
+    [
+      0.313755,
+      "\r                                                                                            \rGet:26 http://ftp.us.debian.org/debian/ wheezy/main openssh-client amd64 1:6.0p1-4+deb7u2 [1024 kB]\r\n\r34% [26 openssh-client 973 B/1024 kB 0%]                                    201 kB/s 4min 4s"
+    ],
+    [
+      0.500693,
+      "\r34% [26 openssh-client 215 kB/1024 kB 21%]                                  201 kB/s 4min 3s"
+    ],
+    [
+      0.500720,
+      "\r34% [26 openssh-client 355 kB/1024 kB 35%]                                  201 kB/s 4min 3s"
+    ],
+    [
+      0.500782,
+      "\r34% [26 openssh-client 493 kB/1024 kB 48%]                                  201 kB/s 4min 2s"
+    ],
+    [
+      0.500670,
+      "\r34% [26 openssh-client 632 kB/1024 kB 62%]                                  256 kB/s 3min 9s"
+    ],
+    [
+      0.500782,
+      "\r35% [26 openssh-client 838 kB/1024 kB 82%]                                  256 kB/s 3min 9s"
+    ],
+    [
+      0.425421,
+      "\r35% [Working]                                                               256 kB/s 3min 8s"
+    ],
+    [
+      0.134679,
+      "\r                                                                                            \rGet:27 http://ftp.us.debian.org/debian/ wheezy/main patch amd64 2.6.1-3 [121 kB]\r\n\r35% [27 patch 974 B/121 kB 1%]                                              256 kB/s 3min 8s"
+    ],
+    [
+      0.289707,
+      "\r35% [Working]                                                               256 kB/s 3min 7s"
+    ],
+    [
+      0.133130,
+      "\r                                                                                            \rGet:28 http://ftp.us.debian.org/debian/ wheezy/main binutils amd64 2.22-8 [4800 kB]\r\n\r35% [28 binutils 973 B/4800 kB 0%]                                          256 kB/s 3min 7s"
+    ],
+    [
+      0.500582,
+      "\r35% [28 binutils 54.1 kB/4800 kB 1%]                                        256 kB/s 3min 7s"
+    ],
+    [
+      0.500783,
+      "\r35% [28 binutils 136 kB/4800 kB 3%]                                         256 kB/s 3min 7s"
+    ],
+    [
+      0.500579,
+      "\r35% [28 binutils 286 kB/4800 kB 6%]                                         256 kB/s 3min 6s"
+    ],
+    [
+      0.500738,
+      "\r36% [28 binutils 443 kB/4800 kB 9%]                                         256 kB/s 3min 6s"
+    ],
+    [
+      0.500659,
+      "\r36% [28 binutils 565 kB/4800 kB 12%]                                        256 kB/s 3min 5s"
+    ],
+    [
+      0.500509,
+      "\r36% [28 binutils 699 kB/4800 kB 15%]                                        256 kB/s 3min 5s"
+    ],
+    [
+      0.500393,
+      "\r36% [28 binutils 816 kB/4800 kB 17%]                                        256 kB/s 3min 4s"
+    ],
+    [
+      0.500584,
+      "\r36% [28 binutils 960 kB/4800 kB 20%]                                        256 kB/s 3min 4s"
+    ],
+    [
+      0.500931,
+      "\r37% [28 binutils 1088 kB/4800 kB 23%]                                       256 kB/s 3min 3s"
+    ],
+    [
+      0.500679,
+      "\r37% [28 binutils 1199 kB/4800 kB 25%]                                      264 kB/s 2min 57s"
+    ],
+    [
+      0.500610,
+      "\r37% [28 binutils 1313 kB/4800 kB 27%]                                      264 kB/s 2min 57s"
+    ],
+    [
+      0.500706,
+      "\r37% [28 binutils 1428 kB/4800 kB 30%]                                      264 kB/s 2min 56s"
+    ],
+    [
+      0.500663,
+      "\r37% [28 binutils 1540 kB/4800 kB 32%]                                      264 kB/s 2min 56s"
+    ],
+    [
+      0.500738,
+      "\r37% [28 binutils 1650 kB/4800 kB 34%]                                      264 kB/s 2min 55s"
+    ],
+    [
+      0.500625,
+      "\r37% [28 binutils 1792 kB/4800 kB 37%]                                      264 kB/s 2min 55s"
+    ],
+    [
+      0.500512,
+      "\r38% [28 binutils 1882 kB/4800 kB 39%]                                      264 kB/s 2min 54s"
+    ],
+    [
+      0.500634,
+      "\r38% [28 binutils 2020 kB/4800 kB 42%]                                      264 kB/s 2min 54s"
+    ],
+    [
+      0.500640,
+      "\r38% [28 binutils 2133 kB/4800 kB 44%]                                      264 kB/s 2min 53s"
+    ],
+    [
+      0.500763,
+      "\r38% [28 binutils 2264 kB/4800 kB 47%]                                      264 kB/s 2min 53s"
+    ],
+    [
+      0.500732,
+      "\r38% [28 binutils 2399 kB/4800 kB 50%]                                      264 kB/s 2min 52s"
+    ],
+    [
+      0.500700,
+      "\r39% [28 binutils 2569 kB/4800 kB 54%]                                      264 kB/s 2min 52s"
+    ],
+    [
+      0.500489,
+      "\r39% [28 binutils 2711 kB/4800 kB 56%]                                       252 kB/s 3min 0s"
+    ],
+    [
+      0.500596,
+      "\r39% [28 binutils 2862 kB/4800 kB 60%]                                      252 kB/s 2min 59s"
+    ],
+    [
+      0.500624,
+      "\r39% [28 binutils 2996 kB/4800 kB 62%]                                      252 kB/s 2min 59s"
+    ],
+    [
+      0.500874,
+      "\r39% [28 binutils 3180 kB/4800 kB 66%]                                      252 kB/s 2min 58s"
+    ],
+    [
+      0.500696,
+      "\r40% [28 binutils 3346 kB/4800 kB 70%]                                      252 kB/s 2min 57s"
+    ],
+    [
+      0.500593,
+      "\r40% [28 binutils 3462 kB/4800 kB 72%]                                      252 kB/s 2min 57s"
+    ],
+    [
+      0.500683,
+      "\r40% [28 binutils 3527 kB/4800 kB 73%]                                      252 kB/s 2min 56s"
+    ],
+    [
+      0.500876,
+      "\r40% [28 binutils 3581 kB/4800 kB 75%]                                      252 kB/s 2min 56s"
+    ],
+    [
+      0.500622,
+      "\r40% [28 binutils 3708 kB/4800 kB 77%]                                      252 kB/s 2min 56s"
+    ],
+    [
+      0.500771,
+      "\r40% [28 binutils 3783 kB/4800 kB 79%]                                      252 kB/s 2min 55s"
+    ],
+    [
+      0.500375,
+      "\r40% [28 binutils 3910 kB/4800 kB 81%]                                      252 kB/s 2min 55s"
+    ],
+    [
+      0.500628,
+      "\r41% [28 binutils 4053 kB/4800 kB 84%]                                      252 kB/s 2min 54s"
+    ],
+    [
+      0.500794,
+      "\r41% [28 binutils 4149 kB/4800 kB 86%]                                       239 kB/s 3min 3s"
+    ],
+    [
+      0.500797,
+      "\r41% [28 binutils 4282 kB/4800 kB 89%]                                       239 kB/s 3min 2s"
+    ],
+    [
+      0.500613,
+      "\r41% [28 binutils 4386 kB/4800 kB 91%]                                       239 kB/s 3min 2s"
+    ],
+    [
+      0.500645,
+      "\r41% [28 binutils 4509 kB/4800 kB 94%]                                       239 kB/s 3min 1s"
+    ],
+    [
+      0.500753,
+      "\r41% [28 binutils 4588 kB/4800 kB 96%]                                       239 kB/s 3min 1s"
+    ],
+    [
+      0.500885,
+      "\r41% [28 binutils 4670 kB/4800 kB 97%]                                       239 kB/s 3min 1s"
+    ],
+    [
+      0.500717,
+      "\r42% [28 binutils 4779 kB/4800 kB 100%]                                      239 kB/s 3min 0s"
+    ],
+    [
+      0.119338,
+      "\r42% [Working]                                                               239 kB/s 3min 0s"
+    ],
+    [
+      0.154239,
+      "\r                                                                                            \rGet:29 http://ftp.us.debian.org/debian/ wheezy/main libc-dev-bin amd64 2.13-38+deb7u6 [227 kB]\r\n\r42% [29 libc-dev-bin 974 B/227 kB 0%]                                       239 kB/s 3min 0s"
+    ],
+    [
+      0.500762,
+      "\r42% [29 libc-dev-bin 59.0 kB/227 kB 26%]                                    239 kB/s 3min 0s"
+    ],
+    [
+      0.500653,
+      "\r42% [29 libc-dev-bin 182 kB/227 kB 80%]                                    239 kB/s 2min 59s"
+    ],
+    [
+      0.260352,
+      "\r42% [Working]                                                              239 kB/s 2min 59s"
+    ],
+    [
+      0.156020,
+      "\r                                                                                            \rGet:30 http://ftp.us.debian.org/debian/ wheezy/main linux-libc-dev amd64 3.2.65-1 [834 kB]\r\n\r42% [30 linux-libc-dev 974 B/834 kB 0%]                                    239 kB/s 2min 59s"
+    ],
+    [
+      0.500883,
+      "\r42% [30 linux-libc-dev 50.5 kB/834 kB 6%]                                  239 kB/s 2min 59s"
+    ],
+    [
+      0.500742,
+      "\r42% [30 linux-libc-dev 131 kB/834 kB 16%]                                  239 kB/s 2min 59s"
+    ],
+    [
+      0.500683,
+      "\r42% [30 linux-libc-dev 235 kB/834 kB 28%]                                  180 kB/s 3min 58s"
+    ],
+    [
+      0.500452,
+      "\r42% [30 linux-libc-dev 339 kB/834 kB 41%]                                  180 kB/s 3min 57s"
+    ],
+    [
+      0.500557,
+      "\r43% [30 linux-libc-dev 488 kB/834 kB 59%]                                  180 kB/s 3min 56s"
+    ],
+    [
+      0.500752,
+      "\r43% [30 linux-libc-dev 624 kB/834 kB 75%]                                  180 kB/s 3min 56s"
+    ],
+    [
+      0.500755,
+      "\r43% [30 linux-libc-dev 756 kB/834 kB 91%]                                  180 kB/s 3min 55s"
+    ],
+    [
+      0.349726,
+      "\r43% [Working]                                                              180 kB/s 3min 54s"
+    ],
+    [
+      0.179963,
+      "\r                                                                                            \rGet:31 http://ftp.us.debian.org/debian/ wheezy/main libc6-dev amd64 2.13-38+deb7u6 [2657 kB]\r\n\r43% [31 libc6-dev 973 B/2657 kB 0%]                                        180 kB/s 3min 54s"
+    ],
+    [
+      0.500442,
+      "\r43% [31 libc6-dev 137 kB/2657 kB 5%]                                       180 kB/s 3min 54s"
+    ],
+    [
+      0.500802,
+      "\r43% [31 libc6-dev 256 kB/2657 kB 10%]                                      180 kB/s 3min 53s"
+    ],
+    [
+      0.500750,
+      "\r44% [31 libc6-dev 406 kB/2657 kB 15%]                                      180 kB/s 3min 52s"
+    ],
+    [
+      0.500774,
+      "\r44% [31 libc6-dev 539 kB/2657 kB 20%]                                      180 kB/s 3min 51s"
+    ],
+    [
+      0.500656,
+      "\r44% [31 libc6-dev 647 kB/2657 kB 24%]                                      180 kB/s 3min 51s"
+    ],
+    [
+      0.500620,
+      "\r44% [31 libc6-dev 821 kB/2657 kB 31%]                                      180 kB/s 3min 50s"
+    ],
+    [
+      0.500596,
+      "\r44% [31 libc6-dev 931 kB/2657 kB 35%]                                      253 kB/s 2min 42s"
+    ],
+    [
+      0.500876,
+      "\r44% [31 libc6-dev 1033 kB/2657 kB 39%]                                     253 kB/s 2min 42s"
+    ],
+    [
+      0.500542,
+      "\r44% [31 libc6-dev 1092 kB/2657 kB 41%]                                     253 kB/s 2min 42s"
+    ],
+    [
+      0.500744,
+      "\r45% [31 libc6-dev 1176 kB/2657 kB 44%]                                     253 kB/s 2min 41s"
+    ],
+    [
+      0.500471,
+      "\r45% [31 libc6-dev 1254 kB/2657 kB 47%]                                     253 kB/s 2min 41s"
+    ],
+    [
+      0.500682,
+      "\r45% [31 libc6-dev 1343 kB/2657 kB 51%]                                     253 kB/s 2min 41s"
+    ],
+    [
+      0.500813,
+      "\r45% [31 libc6-dev 1428 kB/2657 kB 54%]                                     253 kB/s 2min 40s"
+    ],
+    [
+      0.500707,
+      "\r45% [31 libc6-dev 1512 kB/2657 kB 57%]                                     253 kB/s 2min 40s"
+    ],
+    [
+      0.500689,
+      "\r45% [31 libc6-dev 1568 kB/2657 kB 59%]                                     253 kB/s 2min 40s"
+    ],
+    [
+      0.500491,
+      "\r45% [31 libc6-dev 1644 kB/2657 kB 62%]                                     253 kB/s 2min 39s"
+    ],
+    [
+      0.500578,
+      "\r45% [31 libc6-dev 1676 kB/2657 kB 63%]                                     253 kB/s 2min 39s"
+    ],
+    [
+      0.500885,
+      "\r45% [31 libc6-dev 1742 kB/2657 kB 66%]                                     253 kB/s 2min 39s"
+    ],
+    [
+      0.500755,
+      "\r45% [31 libc6-dev 1789 kB/2657 kB 67%]                                     143 kB/s 4min 42s"
+    ],
+    [
+      0.500724,
+      "\r45% [31 libc6-dev 1858 kB/2657 kB 70%]                                     143 kB/s 4min 42s"
+    ],
+    [
+      0.500701,
+      "\r46% [31 libc6-dev 1922 kB/2657 kB 72%]                                     143 kB/s 4min 42s"
+    ],
+    [
+      0.500651,
+      "\r46% [31 libc6-dev 1977 kB/2657 kB 74%]                                     143 kB/s 4min 41s"
+    ],
+    [
+      0.500827,
+      "\r46% [31 libc6-dev 2036 kB/2657 kB 77%]                                     143 kB/s 4min 41s"
+    ],
+    [
+      0.500769,
+      "\r46% [31 libc6-dev 2094 kB/2657 kB 79%]                                     143 kB/s 4min 40s"
+    ],
+    [
+      0.500624,
+      "\r46% [31 libc6-dev 2146 kB/2657 kB 81%]                                     143 kB/s 4min 40s"
+    ],
+    [
+      0.500474,
+      "\r46% [31 libc6-dev 2183 kB/2657 kB 82%]                                     143 kB/s 4min 40s"
+    ],
+    [
+      0.500854,
+      "\r46% [31 libc6-dev 2253 kB/2657 kB 85%]                                     143 kB/s 4min 39s"
+    ],
+    [
+      0.500673,
+      "\r46% [31 libc6-dev 2303 kB/2657 kB 87%]                                     143 kB/s 4min 39s"
+    ],
+    [
+      0.500744,
+      "\r46% [31 libc6-dev 2358 kB/2657 kB 89%]                                     143 kB/s 4min 38s"
+    ],
+    [
+      0.500646,
+      "\r46% [31 libc6-dev 2430 kB/2657 kB 91%]                                     143 kB/s 4min 38s"
+    ],
+    [
+      0.500647,
+      "\r46% [31 libc6-dev 2468 kB/2657 kB 93%]                                     113 kB/s 5min 51s"
+    ],
+    [
+      0.500360,
+      "\r46% [31 libc6-dev 2499 kB/2657 kB 94%]                                     113 kB/s 5min 51s"
+    ],
+    [
+      0.500879,
+      "\r46% [31 libc6-dev 2524 kB/2657 kB 95%]                                     113 kB/s 5min 50s"
+    ],
+    [
+      0.500173,
+      "\r46% [31 libc6-dev 2551 kB/2657 kB 96%]                                     113 kB/s 5min 50s"
+    ],
+    [
+      0.500808,
+      "\r46% [31 libc6-dev 2570 kB/2657 kB 97%]                                     113 kB/s 5min 50s"
+    ],
+    [
+      0.500536,
+      "\r46% [31 libc6-dev 2601 kB/2657 kB 98%]                                     113 kB/s 5min 50s"
+    ],
+    [
+      0.500723,
+      "\r47% [31 libc6-dev 2625 kB/2657 kB 99%]                                     113 kB/s 5min 50s"
+    ],
+    [
+      0.448612,
+      "\r47% [Working]                                                              113 kB/s 5min 49s"
+    ],
+    [
+      0.136509,
+      "\r                                                                                            \rGet:32 http://ftp.us.debian.org/debian/ wheezy/main cpp-4.7 amd64 4.7.2-5 [5416 kB]\r\n\r47% [32 cpp-4.7 973 B/5416 kB 0%]                                          113 kB/s 5min 49s"
+    ],
+    [
+      0.500761,
+      "\r47% [32 cpp-4.7 38.4 kB/5416 kB 1%]                                        113 kB/s 5min 49s"
+    ],
+    [
+      0.500795,
+      "\r47% [32 cpp-4.7 85.5 kB/5416 kB 2%]                                        113 kB/s 5min 49s"
+    ],
+    [
+      0.500588,
+      "\r47% [32 cpp-4.7 113 kB/5416 kB 2%]                                         113 kB/s 5min 48s"
+    ],
+    [
+      0.500786,
+      "\r47% [32 cpp-4.7 173 kB/5416 kB 3%]                                         113 kB/s 5min 48s"
+    ],
+    [
+      0.500557,
+      "\r47% [32 cpp-4.7 217 kB/5416 kB 4%]                                        66.7 kB/s 9min 49s"
+    ],
+    [
+      0.500861,
+      "\r47% [32 cpp-4.7 269 kB/5416 kB 5%]                                        66.7 kB/s 9min 48s"
+    ],
+    [
+      0.500829,
+      "\r47% [32 cpp-4.7 334 kB/5416 kB 6%]                                        66.7 kB/s 9min 47s"
+    ],
+    [
+      0.499925,
+      "\r47% [32 cpp-4.7 389 kB/5416 kB 7%]                                        66.7 kB/s 9min 46s"
+    ],
+    [
+      0.500713,
+      "\r47% [32 cpp-4.7 456 kB/5416 kB 8%]                                        66.7 kB/s 9min 45s"
+    ],
+    [
+      0.500728,
+      "\r47% [32 cpp-4.7 512 kB/5416 kB 9%]                                        66.7 kB/s 9min 44s"
+    ],
+    [
+      0.500739,
+      "\r47% [32 cpp-4.7 578 kB/5416 kB 11%]                                       66.7 kB/s 9min 43s"
+    ],
+    [
+      0.500763,
+      "\r47% [32 cpp-4.7 661 kB/5416 kB 12%]                                       66.7 kB/s 9min 42s"
+    ],
+    [
+      0.500397,
+      "\r48% [32 cpp-4.7 734 kB/5416 kB 14%]                                       66.7 kB/s 9min 41s"
+    ],
+    [
+      0.500386,
+      "\r48% [32 cpp-4.7 843 kB/5416 kB 16%]                                       66.7 kB/s 9min 39s"
+    ],
+    [
+      0.500741,
+      "\r48% [32 cpp-4.7 955 kB/5416 kB 18%]                                       66.7 kB/s 9min 38s"
+    ],
+    [
+      0.500837,
+      "\r48% [32 cpp-4.7 1092 kB/5416 kB 20%]                                      66.7 kB/s 9min 36s"
+    ],
+    [
+      0.500718,
+      "\r48% [32 cpp-4.7 1248 kB/5416 kB 23%]                                       172 kB/s 3min 43s"
+    ],
+    [
+      0.500721,
+      "\r48% [32 cpp-4.7 1399 kB/5416 kB 26%]                                       172 kB/s 3min 42s"
+    ],
+    [
+      0.500713,
+      "\r49% [32 cpp-4.7 1539 kB/5416 kB 28%]                                       172 kB/s 3min 41s"
+    ],
+    [
+      0.500755,
+      "\r49% [32 cpp-4.7 1674 kB/5416 kB 31%]                                       172 kB/s 3min 40s"
+    ],
+    [
+      0.500624,
+      "\r49% [32 cpp-4.7 1825 kB/5416 kB 34%]                                       172 kB/s 3min 39s"
+    ],
+    [
+      0.500612,
+      "\r49% [32 cpp-4.7 2010 kB/5416 kB 37%]                                       172 kB/s 3min 38s"
+    ],
+    [
+      0.500669,
+      "\r50% [32 cpp-4.7 2206 kB/5416 kB 41%]                                       172 kB/s 3min 37s"
+    ],
+    [
+      0.500770,
+      "\r50% [32 cpp-4.7 2384 kB/5416 kB 44%]                                       172 kB/s 3min 36s"
+    ],
+    [
+      0.500755,
+      "\r50% [32 cpp-4.7 2514 kB/5416 kB 46%]                                       172 kB/s 3min 35s"
+    ],
+    [
+      0.500679,
+      "\r50% [32 cpp-4.7 2656 kB/5416 kB 49%]                                       172 kB/s 3min 34s"
+    ],
+    [
+      0.500662,
+      "\r50% [32 cpp-4.7 2801 kB/5416 kB 52%]                                       172 kB/s 3min 34s"
+    ],
+    [
+      0.500477,
+      "\r51% [32 cpp-4.7 2965 kB/5416 kB 55%]                                       172 kB/s 3min 33s"
+    ],
+    [
+      0.500926,
+      "\r51% [32 cpp-4.7 3096 kB/5416 kB 57%]                                       308 kB/s 1min 58s"
+    ],
+    [
+      0.500762,
+      "\r51% [32 cpp-4.7 3240 kB/5416 kB 60%]                                       308 kB/s 1min 57s"
+    ],
+    [
+      0.500697,
+      "\r51% [32 cpp-4.7 3400 kB/5416 kB 63%]                                       308 kB/s 1min 57s"
+    ],
+    [
+      0.500574,
+      "\r51% [32 cpp-4.7 3532 kB/5416 kB 65%]                                       308 kB/s 1min 57s"
+    ],
+    [
+      0.500661,
+      "\r52% [32 cpp-4.7 3662 kB/5416 kB 68%]                                       308 kB/s 1min 56s"
+    ],
+    [
+      0.500585,
+      "\r52% [32 cpp-4.7 3737 kB/5416 kB 69%]                                       308 kB/s 1min 56s"
+    ],
+    [
+      0.500816,
+      "\r52% [32 cpp-4.7 3811 kB/5416 kB 70%]                                       308 kB/s 1min 56s"
+    ],
+    [
+      0.500475,
+      "\r52% [32 cpp-4.7 3917 kB/5416 kB 72%]                                       308 kB/s 1min 55s"
+    ],
+    [
+      0.500938,
+      "\r52% [32 cpp-4.7 4015 kB/5416 kB 74%]                                       308 kB/s 1min 55s"
+    ],
+    [
+      0.500513,
+      "\r52% [32 cpp-4.7 4118 kB/5416 kB 76%]                                       308 kB/s 1min 55s"
+    ],
+    [
+      0.500644,
+      "\r52% [32 cpp-4.7 4248 kB/5416 kB 78%]                                       308 kB/s 1min 54s"
+    ],
+    [
+      0.500867,
+      "\r52% [32 cpp-4.7 4364 kB/5416 kB 81%]                                       308 kB/s 1min 54s"
+    ],
+    [
+      0.500566,
+      "\r53% [32 cpp-4.7 4416 kB/5416 kB 82%]                                       220 kB/s 2min 39s"
+    ],
+    [
+      0.500823,
+      "\r53% [32 cpp-4.7 4495 kB/5416 kB 83%]                                       220 kB/s 2min 39s"
+    ],
+    [
+      0.500494,
+      "\r53% [32 cpp-4.7 4574 kB/5416 kB 84%]                                       220 kB/s 2min 39s"
+    ],
+    [
+      0.500600,
+      "\r53% [32 cpp-4.7 4658 kB/5416 kB 86%]                                       220 kB/s 2min 38s"
+    ],
+    [
+      0.500870,
+      "\r53% [32 cpp-4.7 4728 kB/5416 kB 87%]                                       220 kB/s 2min 38s"
+    ],
+    [
+      0.500697,
+      "\r53% [32 cpp-4.7 4823 kB/5416 kB 89%]                                       220 kB/s 2min 37s"
+    ],
+    [
+      0.500672,
+      "\r53% [32 cpp-4.7 4905 kB/5416 kB 91%]                                       220 kB/s 2min 37s"
+    ],
+    [
+      0.500503,
+      "\r53% [32 cpp-4.7 4979 kB/5416 kB 92%]                                       220 kB/s 2min 37s"
+    ],
+    [
+      0.500907,
+      "\r53% [32 cpp-4.7 5035 kB/5416 kB 93%]                                       220 kB/s 2min 36s"
+    ],
+    [
+      0.500758,
+      "\r53% [32 cpp-4.7 5116 kB/5416 kB 94%]                                       220 kB/s 2min 36s"
+    ],
+    [
+      0.500664,
+      "\r54% [32 cpp-4.7 5182 kB/5416 kB 96%]                                       220 kB/s 2min 36s"
+    ],
+    [
+      0.500732,
+      "\r54% [32 cpp-4.7 5257 kB/5416 kB 97%]                                       220 kB/s 2min 35s"
+    ],
+    [
+      0.500483,
+      "\r54% [32 cpp-4.7 5320 kB/5416 kB 98%]                                       150 kB/s 3min 47s"
+    ],
+    [
+      0.500822,
+      "\r54% [32 cpp-4.7 5385 kB/5416 kB 99%]                                       150 kB/s 3min 47s"
+    ],
+    [
+      0.267349,
+      "\r54% [Working]                                                              150 kB/s 3min 46s"
+    ],
+    [
+      0.136180,
+      "\r                                                                                            \rGet:33 http://ftp.us.debian.org/debian/ wheezy/main cpp amd64 4:4.7.2-1 [16.6 kB]\r\n\r54% [33 cpp 975 B/16.6 kB 6%]                                              150 kB/s 3min 46s"
+    ],
+    [
+      0.004521,
+      "\r54% [Working]                                                              150 kB/s 3min 46s"
+    ],
+    [
+      0.158138,
+      "\r                                                                                            \rGet:34 http://ftp.us.debian.org/debian/ wheezy/main gcc-4.7 amd64 4.7.2-5 [8296 kB]\r\n\r54% [34 gcc-4.7 973 B/8296 kB 0%]                                          150 kB/s 3min 46s"
+    ],
+    [
+      0.500753,
+      "\r54% [34 gcc-4.7 80.7 kB/8296 kB 1%]                                        150 kB/s 3min 46s"
+    ],
+    [
+      0.500723,
+      "\r54% [34 gcc-4.7 195 kB/8296 kB 2%]                                         150 kB/s 3min 45s"
+    ],
+    [
+      0.500587,
+      "\r54% [34 gcc-4.7 287 kB/8296 kB 3%]                                         150 kB/s 3min 44s"
+    ],
+    [
+      0.500815,
+      "\r54% [34 gcc-4.7 396 kB/8296 kB 5%]                                         150 kB/s 3min 44s"
+    ],
+    [
+      0.500706,
+      "\r55% [34 gcc-4.7 536 kB/8296 kB 6%]                                         150 kB/s 3min 43s"
+    ],
+    [
+      0.500731,
+      "\r55% [34 gcc-4.7 688 kB/8296 kB 8%]                                         150 kB/s 3min 42s"
+    ],
+    [
+      0.500625,
+      "\r55% [34 gcc-4.7 874 kB/8296 kB 11%]                                        150 kB/s 3min 40s"
+    ],
+    [
+      0.500643,
+      "\r55% [34 gcc-4.7 1108 kB/8296 kB 13%]                                       150 kB/s 3min 39s"
+    ],
+    [
+      0.500595,
+      "\r56% [34 gcc-4.7 1388 kB/8296 kB 17%]                                       150 kB/s 3min 37s"
+    ],
+    [
+      0.500833,
+      "\r56% [34 gcc-4.7 1672 kB/8296 kB 20%]                                       294 kB/s 1min 50s"
+    ],
+    [
+      0.500691,
+      "\r57% [34 gcc-4.7 2139 kB/8296 kB 26%]                                       294 kB/s 1min 48s"
+    ],
+    [
+      0.500753,
+      "\r57% [34 gcc-4.7 2524 kB/8296 kB 30%]                                       294 kB/s 1min 47s"
+    ],
+    [
+      0.500477,
+      "\r58% [34 gcc-4.7 2863 kB/8296 kB 35%]                                       294 kB/s 1min 46s"
+    ],
+    [
+      0.500840,
+      "\r58% [34 gcc-4.7 3368 kB/8296 kB 41%]                                       294 kB/s 1min 44s"
+    ],
+    [
+      0.500665,
+      "\r59% [34 gcc-4.7 3885 kB/8296 kB 47%]                                       294 kB/s 1min 42s"
+    ],
+    [
+      0.500787,
+      "\r60% [34 gcc-4.7 4593 kB/8296 kB 55%]                                       294 kB/s 1min 40s"
+    ],
+    [
+      0.500668,
+      "\r61% [34 gcc-4.7 5443 kB/8296 kB 66%]                                       294 kB/s 1min 37s"
+    ],
+    [
+      0.500652,
+      "\r62% [34 gcc-4.7 6302 kB/8296 kB 76%]                                       294 kB/s 1min 34s"
+    ],
+    [
+      0.500650,
+      "\r63% [34 gcc-4.7 6692 kB/8296 kB 81%]                                       294 kB/s 1min 33s"
+    ],
+    [
+      0.500800,
+      "\r63% [34 gcc-4.7 6802 kB/8296 kB 82%]                                       294 kB/s 1min 32s"
+    ],
+    [
+      0.500700,
+      "\r63% [34 gcc-4.7 6911 kB/8296 kB 83%]                                       294 kB/s 1min 32s"
+    ],
+    [
+      0.500850,
+      "\r63% [34 gcc-4.7 7039 kB/8296 kB 85%]                                            893 kB/s 30s"
+    ],
+    [
+      0.500652,
+      "\r64% [34 gcc-4.7 7135 kB/8296 kB 86%]                                            893 kB/s 30s"
+    ],
+    [
+      0.500773,
+      "\r64% [34 gcc-4.7 7189 kB/8296 kB 87%]                                            893 kB/s 30s"
+    ],
+    [
+      0.500650,
+      "\r64% [34 gcc-4.7 7270 kB/8296 kB 88%]                                            893 kB/s 30s"
+    ],
+    [
+      0.500577,
+      "\r64% [34 gcc-4.7 7370 kB/8296 kB 89%]                                            893 kB/s 29s"
+    ],
+    [
+      0.500855,
+      "\r64% [34 gcc-4.7 7501 kB/8296 kB 90%]                                            893 kB/s 29s"
+    ],
+    [
+      0.500727,
+      "\r64% [34 gcc-4.7 7610 kB/8296 kB 92%]                                            893 kB/s 29s"
+    ],
+    [
+      0.500627,
+      "\r64% [34 gcc-4.7 7755 kB/8296 kB 93%]                                            893 kB/s 29s"
+    ],
+    [
+      0.500608,
+      "\r65% [34 gcc-4.7 7854 kB/8296 kB 95%]                                            893 kB/s 29s"
+    ],
+    [
+      0.500839,
+      "\r65% [34 gcc-4.7 7960 kB/8296 kB 96%]                                            893 kB/s 29s"
+    ],
+    [
+      0.500625,
+      "\r65% [34 gcc-4.7 8075 kB/8296 kB 97%]                                            893 kB/s 29s"
+    ],
+    [
+      0.500478,
+      "\r65% [34 gcc-4.7 8184 kB/8296 kB 99%]                                            893 kB/s 29s"
+    ],
+    [
+      0.404146,
+      "\r65% [Working]                                                                   893 kB/s 28s"
+    ],
+    [
+      0.137620,
+      "\r                                                                                            \rGet:35 http://ftp.us.debian.org/debian/ wheezy/main gcc amd64 4:4.7.2-1 [5064 B]\r\n\r65% [35 gcc 976 B/5064 B 19%]                                               208 kB/s 2min 4s"
+    ],
+    [
+      0.003861,
+      "\r65% [Working]                                                               208 kB/s 2min 4s"
+    ],
+    [
+      0.160072,
+      "\r                                                                                            \rGet:36 http://ftp.us.debian.org/debian/ wheezy/main libstdc++6-4.7-dev amd64 4.7.2-5 [1726 kB]\r\n\r65% [36 libstdc++6-4.7-dev 973 B/1726 kB 0%]                                208 kB/s 2min 4s"
+    ],
+    [
+      0.500742,
+      "\r65% [36 libstdc++6-4.7-dev 115 kB/1726 kB 7%]                               208 kB/s 2min 3s"
+    ],
+    [
+      0.500822,
+      "\r65% [36 libstdc++6-4.7-dev 228 kB/1726 kB 13%]                              208 kB/s 2min 2s"
+    ],
+    [
+      0.500798,
+      "\r66% [36 libstdc++6-4.7-dev 402 kB/1726 kB 23%]                              208 kB/s 2min 2s"
+    ],
+    [
+      0.500658,
+      "\r66% [36 libstdc++6-4.7-dev 575 kB/1726 kB 33%]                              208 kB/s 2min 1s"
+    ],
+    [
+      0.500780,
+      "\r66% [36 libstdc++6-4.7-dev 810 kB/1726 kB 47%]                              208 kB/s 2min 0s"
+    ],
+    [
+      0.500754,
+      "\r67% [36 libstdc++6-4.7-dev 1106 kB/1726 kB 64%]                            208 kB/s 1min 58s"
+    ],
+    [
+      0.500760,
+      "\r67% [36 libstdc++6-4.7-dev 1397 kB/1726 kB 81%]                            208 kB/s 1min 57s"
+    ],
+    [
+      0.500696,
+      "\r67% [36 libstdc++6-4.7-dev 1654 kB/1726 kB 96%]                            208 kB/s 1min 56s"
+    ],
+    [
+      0.205919,
+      "\r67% [Working]                                                              208 kB/s 1min 55s"
+    ],
+    [
+      0.141700,
+      "\r                                                                                            \rGet:37 http://ftp.us.debian.org/debian/ wheezy/main g++-4.7 amd64 4.7.2-5 [8011 kB]\r\n\r67% [37 g++-4.7 973 B/8011 kB 0%]                                          208 kB/s 1min 55s"
+    ],
+    [
+      0.500779,
+      "\r68% [37 g++-4.7 37.2 kB/8011 kB 0%]                                        208 kB/s 1min 55s"
+    ],
+    [
+      0.500748,
+      "\r68% [37 g++-4.7 112 kB/8011 kB 1%]                                         208 kB/s 1min 55s"
+    ],
+    [
+      0.500774,
+      "\r68% [37 g++-4.7 245 kB/8011 kB 3%]                                         328 kB/s 1min 12s"
+    ],
+    [
+      0.500696,
+      "\r68% [37 g++-4.7 407 kB/8011 kB 5%]                                         328 kB/s 1min 12s"
+    ],
+    [
+      0.500634,
+      "\r68% [37 g++-4.7 568 kB/8011 kB 7%]                                         328 kB/s 1min 11s"
+    ],
+    [
+      0.500777,
+      "\r68% [37 g++-4.7 575 kB/8011 kB 7%]                                         328 kB/s 1min 11s"
+    ],
+    [
+      0.500719,
+      "\r68% [37 g++-4.7 657 kB/8011 kB 8%]                                         328 kB/s 1min 11s"
+    ],
+    [
+      0.500734,
+      "\r68% [37 g++-4.7 734 kB/8011 kB 9%]                                         328 kB/s 1min 11s"
+    ],
+    [
+      0.500569,
+      "\r69% [37 g++-4.7 779 kB/8011 kB 10%]                                        328 kB/s 1min 10s"
+    ],
+    [
+      0.500509,
+      "\r69% [37 g++-4.7 849 kB/8011 kB 11%]                                        328 kB/s 1min 10s"
+    ],
+    [
+      0.500758,
+      "\r69% [37 g++-4.7 940 kB/8011 kB 12%]                                        328 kB/s 1min 10s"
+    ],
+    [
+      0.500845,
+      "\r69% [37 g++-4.7 1007 kB/8011 kB 13%]                                       328 kB/s 1min 10s"
+    ],
+    [
+      0.500772,
+      "\r69% [37 g++-4.7 1072 kB/8011 kB 13%]                                       328 kB/s 1min 10s"
+    ],
+    [
+      0.500398,
+      "\r69% [37 g++-4.7 1146 kB/8011 kB 14%]                                        328 kB/s 1min 9s"
+    ],
+    [
+      0.500328,
+      "\r69% [37 g++-4.7 1225 kB/8011 kB 15%]                                       163 kB/s 2min 20s"
+    ],
+    [
+      0.500896,
+      "\r69% [37 g++-4.7 1297 kB/8011 kB 16%]                                       163 kB/s 2min 19s"
+    ],
+    [
+      0.500713,
+      "\r69% [37 g++-4.7 1402 kB/8011 kB 18%]                                       163 kB/s 2min 18s"
+    ],
+    [
+      0.500724,
+      "\r70% [37 g++-4.7 1509 kB/8011 kB 19%]                                       163 kB/s 2min 18s"
+    ],
+    [
+      0.500851,
+      "\r70% [37 g++-4.7 1635 kB/8011 kB 20%]                                       163 kB/s 2min 17s"
+    ],
+    [
+      0.500028,
+      "\r70% [37 g++-4.7 1766 kB/8011 kB 22%]                                       163 kB/s 2min 16s"
+    ],
+    [
+      0.500596,
+      "\r70% [37 g++-4.7 1896 kB/8011 kB 24%]                                       163 kB/s 2min 15s"
+    ],
+    [
+      0.500713,
+      "\r70% [37 g++-4.7 2071 kB/8011 kB 26%]                                       163 kB/s 2min 14s"
+    ],
+    [
+      0.500876,
+      "\r70% [37 g++-4.7 2121 kB/8011 kB 26%]                                       163 kB/s 2min 14s"
+    ],
+    [
+      0.500812,
+      "\r70% [37 g++-4.7 2201 kB/8011 kB 27%]                                       163 kB/s 2min 14s"
+    ],
+    [
+      0.500540,
+      "\r71% [37 g++-4.7 2271 kB/8011 kB 28%]                                       163 kB/s 2min 13s"
+    ],
+    [
+      0.500663,
+      "\r71% [37 g++-4.7 2358 kB/8011 kB 29%]                                       163 kB/s 2min 13s"
+    ],
+    [
+      0.500865,
+      "\r71% [37 g++-4.7 2523 kB/8011 kB 31%]                                       216 kB/s 1min 39s"
+    ],
+    [
+      0.500670,
+      "\r71% [37 g++-4.7 2657 kB/8011 kB 33%]                                       216 kB/s 1min 39s"
+    ],
+    [
+      0.500803,
+      "\r71% [37 g++-4.7 2790 kB/8011 kB 35%]                                       216 kB/s 1min 38s"
+    ],
+    [
+      0.500239,
+      "\r71% [37 g++-4.7 2909 kB/8011 kB 36%]                                       216 kB/s 1min 37s"
+    ],
+    [
+      0.500599,
+      "\r72% [37 g++-4.7 3022 kB/8011 kB 38%]                                       216 kB/s 1min 37s"
+    ],
+    [
+      0.500773,
+      "\r72% [37 g++-4.7 3098 kB/8011 kB 39%]                                       216 kB/s 1min 37s"
+    ],
+    [
+      0.500815,
+      "\r72% [37 g++-4.7 3174 kB/8011 kB 40%]                                       216 kB/s 1min 36s"
+    ],
+    [
+      0.500769,
+      "\r72% [37 g++-4.7 3315 kB/8011 kB 41%]                                       216 kB/s 1min 36s"
+    ],
+    [
+      0.500421,
+      "\r72% [37 g++-4.7 3404 kB/8011 kB 42%]                                       216 kB/s 1min 35s"
+    ],
+    [
+      0.500568,
+      "\r72% [37 g++-4.7 3534 kB/8011 kB 44%]                                       216 kB/s 1min 34s"
+    ],
+    [
+      0.500729,
+      "\r72% [37 g++-4.7 3592 kB/8011 kB 45%]                                       216 kB/s 1min 34s"
+    ],
+    [
+      0.500557,
+      "\r73% [37 g++-4.7 3788 kB/8011 kB 47%]                                       216 kB/s 1min 33s"
+    ],
+    [
+      0.500948,
+      "\r73% [37 g++-4.7 3933 kB/8011 kB 49%]                                       235 kB/s 1min 25s"
+    ],
+    [
+      0.500361,
+      "\r73% [37 g++-4.7 4101 kB/8011 kB 51%]                                       235 kB/s 1min 25s"
+    ],
+    [
+      0.500673,
+      "\r73% [37 g++-4.7 4160 kB/8011 kB 52%]                                       235 kB/s 1min 24s"
+    ],
+    [
+      0.500585,
+      "\r73% [37 g++-4.7 4256 kB/8011 kB 53%]                                       235 kB/s 1min 24s"
+    ],
+    [
+      0.500456,
+      "\r73% [37 g++-4.7 4365 kB/8011 kB 54%]                                       235 kB/s 1min 23s"
+    ],
+    [
+      0.500580,
+      "\r73% [37 g++-4.7 4452 kB/8011 kB 56%]                                       235 kB/s 1min 23s"
+    ],
+    [
+      0.500533,
+      "\r74% [37 g++-4.7 4562 kB/8011 kB 57%]                                       235 kB/s 1min 23s"
+    ],
+    [
+      0.500701,
+      "\r74% [37 g++-4.7 4665 kB/8011 kB 58%]                                       235 kB/s 1min 22s"
+    ],
+    [
+      0.500537,
+      "\r74% [37 g++-4.7 4785 kB/8011 kB 60%]                                       235 kB/s 1min 22s"
+    ],
+    [
+      0.500654,
+      "\r74% [37 g++-4.7 4890 kB/8011 kB 61%]                                       235 kB/s 1min 21s"
+    ],
+    [
+      0.500582,
+      "\r74% [37 g++-4.7 4992 kB/8011 kB 62%]                                       235 kB/s 1min 21s"
+    ],
+    [
+      0.500733,
+      "\r74% [37 g++-4.7 5087 kB/8011 kB 63%]                                       235 kB/s 1min 20s"
+    ],
+    [
+      0.500769,
+      "\r75% [37 g++-4.7 5223 kB/8011 kB 65%]                                       215 kB/s 1min 27s"
+    ],
+    [
+      0.500814,
+      "\r75% [37 g++-4.7 5325 kB/8011 kB 66%]                                       215 kB/s 1min 27s"
+    ],
+    [
+      0.500502,
+      "\r75% [37 g++-4.7 5418 kB/8011 kB 68%]                                       215 kB/s 1min 26s"
+    ],
+    [
+      0.500745,
+      "\r75% [37 g++-4.7 5495 kB/8011 kB 69%]                                       215 kB/s 1min 26s"
+    ],
+    [
+      0.500905,
+      "\r75% [37 g++-4.7 5615 kB/8011 kB 70%]                                       215 kB/s 1min 25s"
+    ],
+    [
+      0.500694,
+      "\r75% [37 g++-4.7 5739 kB/8011 kB 72%]                                       215 kB/s 1min 25s"
+    ],
+    [
+      0.500492,
+      "\r75% [37 g++-4.7 5869 kB/8011 kB 73%]                                       215 kB/s 1min 24s"
+    ],
+    [
+      0.500792,
+      "\r76% [37 g++-4.7 6004 kB/8011 kB 75%]                                       215 kB/s 1min 24s"
+    ],
+    [
+      0.500510,
+      "\r76% [37 g++-4.7 6138 kB/8011 kB 77%]                                       215 kB/s 1min 23s"
+    ],
+    [
+      0.500703,
+      "\r76% [37 g++-4.7 6283 kB/8011 kB 78%]                                       215 kB/s 1min 22s"
+    ],
+    [
+      0.500721,
+      "\r76% [37 g++-4.7 6420 kB/8011 kB 80%]                                       215 kB/s 1min 22s"
+    ],
+    [
+      0.500788,
+      "\r76% [37 g++-4.7 6563 kB/8011 kB 82%]                                       215 kB/s 1min 21s"
+    ],
+    [
+      0.500498,
+      "\r76% [37 g++-4.7 6669 kB/8011 kB 83%]                                       241 kB/s 1min 12s"
+    ],
+    [
+      0.500641,
+      "\r77% [37 g++-4.7 6838 kB/8011 kB 85%]                                       241 kB/s 1min 11s"
+    ],
+    [
+      0.500502,
+      "\r77% [37 g++-4.7 6984 kB/8011 kB 87%]                                       241 kB/s 1min 10s"
+    ],
+    [
+      0.500728,
+      "\r77% [37 g++-4.7 7140 kB/8011 kB 89%]                                       241 kB/s 1min 10s"
+    ],
+    [
+      0.500732,
+      "\r77% [37 g++-4.7 7338 kB/8011 kB 92%]                                        241 kB/s 1min 9s"
+    ],
+    [
+      0.500681,
+      "\r78% [37 g++-4.7 7495 kB/8011 kB 94%]                                        241 kB/s 1min 8s"
+    ],
+    [
+      0.500444,
+      "\r78% [37 g++-4.7 7673 kB/8011 kB 96%]                                        241 kB/s 1min 8s"
+    ],
+    [
+      0.500763,
+      "\r78% [37 g++-4.7 7855 kB/8011 kB 98%]                                        241 kB/s 1min 7s"
+    ],
+    [
+      0.441619,
+      "\r78% [Working]                                                               241 kB/s 1min 6s"
+    ],
+    [
+      0.186253,
+      "\r                                                                                            \rGet:38 http://ftp.us.debian.org/debian/ wheezy/main g++ amd64 4:4.7.2-1 [1374 B]\r\n\r78% [38 g++ 976 B/1374 B 71%]                                               241 kB/s 1min 6s"
+    ],
+    [
+      0.000408,
+      "\r78% [Working]                                                               241 kB/s 1min 6s"
+    ],
+    [
+      0.131840,
+      "\r                                                                                            \rGet:39 http://ftp.us.debian.org/debian/ wheezy/main make amd64 3.81-8.2 [396 kB]\r\n\r78% [39 make 974 B/396 kB 0%]                                               241 kB/s 1min 6s"
+    ],
+    [
+      0.500401,
+      "\r78% [39 make 94.0 kB/396 kB 24%]                                            241 kB/s 1min 6s"
+    ],
+    [
+      0.500621,
+      "\r79% [39 make 291 kB/396 kB 74%]                                             241 kB/s 1min 5s"
+    ],
+    [
+      0.167854,
+      "\r79% [Working]                                                               241 kB/s 1min 5s"
+    ],
+    [
+      0.171335,
+      "\r                                                                                            \rGet:40 http://ftp.us.debian.org/debian/ wheezy/main libtimedate-perl all 1.2000-1 [41.2 kB]\r\n\r79% [40 libtimedate-perl 975 B/41.2 kB 2%]                                  241 kB/s 1min 5s"
+    ],
+    [
+      0.006433,
+      "\r79% [Working]                                                               241 kB/s 1min 4s"
+    ],
+    [
+      0.167351,
+      "\r                                                                                            \rGet:41 http://ftp.us.debian.org/debian/ wheezy/main libdpkg-perl all 1.16.15 [958 kB]\r\n\r79% [41 libdpkg-perl 974 B/958 kB 0%]                                       241 kB/s 1min 4s"
+    ],
+    [
+      0.500579,
+      "\r79% [41 libdpkg-perl 195 kB/958 kB 20%]                                         315 kB/s 49s"
+    ],
+    [
+      0.500587,
+      "\r79% [41 libdpkg-perl 408 kB/958 kB 43%]                                         315 kB/s 48s"
+    ],
+    [
+      0.500588,
+      "\r80% [41 libdpkg-perl 559 kB/958 kB 58%]                                         315 kB/s 47s"
+    ],
+    [
+      0.500611,
+      "\r80% [41 libdpkg-perl 683 kB/958 kB 71%]                                         315 kB/s 47s"
+    ],
+    [
+      0.500831,
+      "\r80% [41 libdpkg-perl 884 kB/958 kB 92%]                                         315 kB/s 46s"
+    ],
+    [
+      0.172949,
+      "\r80% [Working]                                                                   315 kB/s 46s"
+    ],
+    [
+      0.156629,
+      "\r                                                                                            \rGet:42 http://ftp.us.debian.org/debian/ wheezy/main dpkg-dev all 1.16.15 [1356 kB]\r\n\r80% [42 dpkg-dev 973 B/1356 kB 0%]                                              315 kB/s 46s"
+    ],
+    [
+      0.500493,
+      "\r80% [42 dpkg-dev 222 kB/1356 kB 16%]                                            315 kB/s 45s"
+    ],
+    [
+      0.500685,
+      "\r81% [42 dpkg-dev 412 kB/1356 kB 30%]                                            315 kB/s 45s"
+    ],
+    [
+      0.500551,
+      "\r81% [42 dpkg-dev 648 kB/1356 kB 48%]                                            315 kB/s 44s"
+    ],
+    [
+      0.500642,
+      "\r81% [42 dpkg-dev 857 kB/1356 kB 63%]                                            315 kB/s 43s"
+    ],
+    [
+      0.500838,
+      "\r82% [42 dpkg-dev 1097 kB/1356 kB 81%]                                           315 kB/s 43s"
+    ],
+    [
+      0.500716,
+      "\r82% [42 dpkg-dev 1325 kB/1356 kB 98%]                                           315 kB/s 42s"
+    ],
+    [
+      0.075958,
+      "\r82% [Working]                                                                   315 kB/s 42s"
+    ],
+    [
+      0.156759,
+      "\r                                                                                            \rGet:43 http://ftp.us.debian.org/debian/ wheezy/main build-essential amd64 11.5 [7178 B]\r\n\r82% [43 build-essential 976 B/7178 B 14%]                                       315 kB/s 42s"
+    ],
+    [
+      0.005866,
+      "\r82% [Working]                                                                   315 kB/s 42s"
+    ],
+    [
+      0.136502,
+      "\r                                                                                            \rGet:44 http://ftp.us.debian.org/debian/ wheezy/main fakeroot amd64 1.18.4-2 [109 kB]\r\n\r82% [44 fakeroot 974 B/109 kB 1%]                                               315 kB/s 42s"
+    ],
+    [
+      0.182393,
+      "\r82% [Working]                                                                   315 kB/s 41s"
+    ],
+    [
+      0.141781,
+      "\r                                                                                            \rGet:45 http://ftp.us.debian.org/debian/ wheezy/main liberror-perl all 0.17-1 [23.6 kB]\r\n\r82% [45 liberror-perl 975 B/23.6 kB 4%]                                         370 kB/s 35s"
+    ],
+    [
+      0.145695,
+      "\r82% [Working]                                                                   370 kB/s 35s"
+    ],
+    [
+      0.148587,
+      "\r                                                                                            \rGet:46 http://ftp.us.debian.org/debian/ wheezy/main git-man all 1:1.7.10.4-1+wheezy1 [1074 kB]\r\n\r82% [46 git-man 973 B/1074 kB 0%]                                               370 kB/s 35s"
+    ],
+    [
+      0.500781,
+      "\r82% [46 git-man 139 kB/1074 kB 13%]                                             370 kB/s 35s"
+    ],
+    [
+      0.500685,
+      "\r83% [46 git-man 321 kB/1074 kB 30%]                                             370 kB/s 34s"
+    ],
+    [
+      0.500606,
+      "\r83% [46 git-man 553 kB/1074 kB 51%]                                             370 kB/s 34s"
+    ],
+    [
+      0.500852,
+      "\r83% [46 git-man 763 kB/1074 kB 71%]                                             370 kB/s 33s"
+    ],
+    [
+      0.500678,
+      "\r83% [46 git-man 924 kB/1074 kB 86%]                                             370 kB/s 33s"
+    ],
+    [
+      0.471549,
+      "\r84% [Working]                                                                   370 kB/s 32s"
+    ],
+    [
+      0.136898,
+      "\r                                                                                            \rGet:47 http://ftp.us.debian.org/debian/ wheezy/main git amd64 1:1.7.10.4-1+wheezy1 [6683 kB]\r\n\r84% [47 git 973 B/6683 kB 0%]                                                   370 kB/s 32s"
+    ],
+    [
+      0.500614,
+      "\r84% [47 git 20.3 kB/6683 kB 0%]                                                 370 kB/s 32s"
+    ],
+    [
+      0.500363,
+      "\r84% [47 git 48.1 kB/6683 kB 1%]                                                 370 kB/s 32s"
+    ],
+    [
+      0.500658,
+      "\r84% [47 git 142 kB/6683 kB 2%]                                                  370 kB/s 32s"
+    ],
+    [
+      0.500662,
+      "\r84% [47 git 229 kB/6683 kB 3%]                                                  370 kB/s 32s"
+    ],
+    [
+      0.500720,
+      "\r84% [47 git 296 kB/6683 kB 4%]                                                  370 kB/s 31s"
+    ],
+    [
+      0.500732,
+      "\r84% [47 git 383 kB/6683 kB 6%]                                                  231 kB/s 50s"
+    ],
+    [
+      0.500702,
+      "\r84% [47 git 453 kB/6683 kB 7%]                                                  231 kB/s 50s"
+    ],
+    [
+      0.500425,
+      "\r84% [47 git 529 kB/6683 kB 8%]                                                  231 kB/s 50s"
+    ],
+    [
+      0.500636,
+      "\r84% [47 git 619 kB/6683 kB 9%]                                                  231 kB/s 49s"
+    ],
+    [
+      0.500595,
+      "\r85% [47 git 699 kB/6683 kB 10%]                                                 231 kB/s 49s"
+    ],
+    [
+      0.500574,
+      "\r85% [47 git 775 kB/6683 kB 12%]                                                 231 kB/s 49s"
+    ],
+    [
+      0.500596,
+      "\r85% [47 git 863 kB/6683 kB 13%]                                                 231 kB/s 48s"
+    ],
+    [
+      0.500923,
+      "\r85% [47 git 965 kB/6683 kB 14%]                                                 231 kB/s 48s"
+    ],
+    [
+      0.500655,
+      "\r85% [47 git 1100 kB/6683 kB 16%]                                                231 kB/s 47s"
+    ],
+    [
+      0.500625,
+      "\r85% [47 git 1242 kB/6683 kB 19%]                                                231 kB/s 47s"
+    ],
+    [
+      0.500383,
+      "\r86% [47 git 1395 kB/6683 kB 21%]                                                231 kB/s 46s"
+    ],
+    [
+      0.500569,
+      "\r86% [47 git 1448 kB/6683 kB 22%]                                                231 kB/s 46s"
+    ],
+    [
+      0.500764,
+      "\r86% [47 git 1569 kB/6683 kB 23%]                                                197 kB/s 53s"
+    ],
+    [
+      0.500550,
+      "\r86% [47 git 1698 kB/6683 kB 25%]                                                197 kB/s 52s"
+    ],
+    [
+      0.500869,
+      "\r86% [47 git 1858 kB/6683 kB 28%]                                                197 kB/s 51s"
+    ],
+    [
+      0.500600,
+      "\r86% [47 git 2052 kB/6683 kB 31%]                                                197 kB/s 50s"
+    ],
+    [
+      0.500061,
+      "\r87% [47 git 2230 kB/6683 kB 33%]                                                197 kB/s 49s"
+    ],
+    [
+      0.500728,
+      "\r87% [47 git 2429 kB/6683 kB 36%]                                                197 kB/s 48s"
+    ],
+    [
+      0.500747,
+      "\r87% [47 git 2622 kB/6683 kB 39%]                                                197 kB/s 47s"
+    ],
+    [
+      0.500777,
+      "\r87% [47 git 2835 kB/6683 kB 42%]                                                197 kB/s 46s"
+    ],
+    [
+      0.500758,
+      "\r88% [47 git 3009 kB/6683 kB 45%]                                                197 kB/s 45s"
+    ],
+    [
+      0.500496,
+      "\r88% [47 git 3199 kB/6683 kB 48%]                                                197 kB/s 45s"
+    ],
+    [
+      0.500787,
+      "\r88% [47 git 3392 kB/6683 kB 51%]                                                197 kB/s 44s"
+    ],
+    [
+      0.500747,
+      "\r88% [47 git 3560 kB/6683 kB 53%]                                                197 kB/s 43s"
+    ],
+    [
+      0.500764,
+      "\r89% [47 git 3751 kB/6683 kB 56%]                                                363 kB/s 22s"
+    ],
+    [
+      0.500774,
+      "\r89% [47 git 4008 kB/6683 kB 60%]                                                363 kB/s 22s"
+    ],
+    [
+      0.500755,
+      "\r89% [47 git 4260 kB/6683 kB 64%]                                                363 kB/s 21s"
+    ],
+    [
+      0.500671,
+      "\r90% [47 git 4559 kB/6683 kB 68%]                                                363 kB/s 20s"
+    ],
+    [
+      0.500229,
+      "\r90% [47 git 4921 kB/6683 kB 74%]                                                363 kB/s 19s"
+    ],
+    [
+      0.500489,
+      "\r91% [47 git 5262 kB/6683 kB 79%]                                                363 kB/s 18s"
+    ],
+    [
+      0.500865,
+      "\r91% [47 git 5639 kB/6683 kB 84%]                                                363 kB/s 17s"
+    ],
+    [
+      0.500614,
+      "\r92% [47 git 5921 kB/6683 kB 89%]                                                363 kB/s 16s"
+    ],
+    [
+      0.500840,
+      "\r92% [47 git 6252 kB/6683 kB 94%]                                                363 kB/s 16s"
+    ],
+    [
+      0.500552,
+      "\r92% [47 git 6525 kB/6683 kB 98%]                                                363 kB/s 15s"
+    ],
+    [
+      0.405023,
+      "\r93% [Working]                                                                   363 kB/s 14s"
+    ],
+    [
+      0.149827,
+      "\r                                                                                            \rGet:48 http://ftp.us.debian.org/debian/ wheezy/main libalgorithm-diff-perl all 1.19.02-2 [51.5 kB]\r\n\r93% [48 libalgorithm-diff-perl 975 B/51.5 kB 2%]                                363 kB/s 14s"
+    ],
+    [
+      0.024933,
+      "\r93% [Working]                                                                   363 kB/s 14s"
+    ],
+    [
+      0.143891,
+      "\r                                                                                            \rGet:49 http://ftp.us.debian.org/debian/ wheezy/main libalgorithm-diff-xs-perl amd64 0.04-2+b1 [12.9 kB]\r\n\r93% [49 libalgorithm-diff-xs-perl 975 B/12.9 kB 8%]                             363 kB/s 14s"
+    ],
+    [
+      0.014246,
+      "\r93% [Working]                                                                   363 kB/s 14s"
+    ],
+    [
+      0.316253,
+      "\r                                                                                            \rGet:50 http://ftp.us.debian.org/debian/ wheezy/main libalgorithm-merge-perl all 0.08-2 [13.5 kB]\r\n\r93% [50 libalgorithm-merge-perl 975 B/13.5 kB 7%]                               363 kB/s 14s"
+    ],
+    [
+      0.020777,
+      "\r93% [Working]                                                                   363 kB/s 14s"
+    ],
+    [
+      0.136395,
+      "\r                                                                                            \rGet:51 http://ftp.us.debian.org/debian/ wheezy/main libfile-fcntllock-perl amd64 0.14-2 [17.2 kB]\r\n\r93% [51 libfile-fcntllock-perl 975 B/17.2 kB 6%]                                363 kB/s 14s"
+    ],
+    [
+      0.065863,
+      "\r93% [Working]                                                                   363 kB/s 14s"
+    ],
+    [
+      0.185426,
+      "\r                                                                                            \rGet:52 http://ftp.us.debian.org/debian/ wheezy/main zlib1g-dev amd64 1:1.2.7.dfsg-13 [215 kB]\r\n\r93% [52 zlib1g-dev 974 B/215 kB 0%]                                             363 kB/s 14s"
+    ],
+    [
+      0.500729,
+      "\r93% [52 zlib1g-dev 160 kB/215 kB 75%]                                           493 kB/s 10s"
+    ],
+    [
+      0.233314,
+      "\r93% [Working]                                                                   493 kB/s 10s"
+    ],
+    [
+      0.173065,
+      "\r                                                                                            \rGet:53 http://ftp.us.debian.org/debian/ wheezy/main libssl-dev amd64 1.0.1e-2+deb7u13 [1755 kB]\r\n\r93% [53 libssl-dev 973 B/1755 kB 0%]                                            493 kB/s 10s"
+    ],
+    [
+      0.500542,
+      "\r93% [53 libssl-dev 272 kB/1755 kB 15%]                                           493 kB/s 9s"
+    ],
+    [
+      0.500862,
+      "\r94% [53 libssl-dev 522 kB/1755 kB 30%]                                           493 kB/s 9s"
+    ],
+    [
+      0.500518,
+      "\r94% [53 libssl-dev 657 kB/1755 kB 37%]                                           493 kB/s 9s"
+    ],
+    [
+      0.500462,
+      "\r94% [53 libssl-dev 740 kB/1755 kB 42%]                                           493 kB/s 8s"
+    ],
+    [
+      0.500883,
+      "\r94% [53 libssl-dev 825 kB/1755 kB 47%]                                           493 kB/s 8s"
+    ],
+    [
+      0.500757,
+      "\r94% [53 libssl-dev 990 kB/1755 kB 56%]                                           493 kB/s 8s"
+    ],
+    [
+      0.500540,
+      "\r95% [53 libssl-dev 1185 kB/1755 kB 68%]                                          493 kB/s 7s"
+    ],
+    [
+      0.500697,
+      "\r95% [53 libssl-dev 1329 kB/1755 kB 76%]                                          493 kB/s 7s"
+    ],
+    [
+      0.500880,
+      "\r95% [53 libssl-dev 1493 kB/1755 kB 85%]                                          493 kB/s 7s"
+    ],
+    [
+      0.500176,
+      "\r95% [53 libssl-dev 1609 kB/1755 kB 92%]                                          493 kB/s 7s"
+    ],
+    [
+      0.391266,
+      "\r95% [Working]                                                                    493 kB/s 6s"
+    ],
+    [
+      0.155050,
+      "\r                                                                                            \rGet:54 http://ftp.us.debian.org/debian/ wheezy/main libssl-doc all 1.0.1e-2+deb7u13 [1198 kB]\r\n\r95% [54 libssl-doc 973 B/1198 kB 0%]                                             493 kB/s 6s"
+    ],
+    [
+      0.500836,
+      "\r96% [54 libssl-doc 215 kB/1198 kB 18%]                                           313 kB/s 9s"
+    ],
+    [
+      0.500758,
+      "\r96% [54 libssl-doc 415 kB/1198 kB 35%]                                           313 kB/s 9s"
+    ],
+    [
+      0.500570,
+      "\r96% [54 libssl-doc 606 kB/1198 kB 51%]                                           313 kB/s 8s"
+    ],
+    [
+      0.500616,
+      "\r97% [54 libssl-doc 866 kB/1198 kB 72%]                                           313 kB/s 7s"
+    ],
+    [
+      0.500507,
+      "\r97% [54 libssl-doc 1069 kB/1198 kB 89%]                                          313 kB/s 7s"
+    ],
+    [
+      0.271155,
+      "\r97% [Working]                                                                    313 kB/s 6s"
+    ],
+    [
+      0.146540,
+      "\r                                                                                            \rGet:55 http://ftp.us.debian.org/debian/ wheezy/main manpages-dev all 3.44-1 [1737 kB]\r\n\r97% [55 manpages-dev 973 B/1737 kB 0%]                                           313 kB/s 6s"
+    ],
+    [
+      0.500745,
+      "\r97% [55 manpages-dev 118 kB/1737 kB 7%]                                          313 kB/s 6s"
+    ],
+    [
+      0.500392,
+      "\r97% [55 manpages-dev 290 kB/1737 kB 17%]                                         313 kB/s 5s"
+    ],
+    [
+      0.500868,
+      "\r98% [55 manpages-dev 485 kB/1737 kB 28%]                                         313 kB/s 5s"
+    ],
+    [
+      0.500750,
+      "\r98% [55 manpages-dev 700 kB/1737 kB 40%]                                         313 kB/s 4s"
+    ],
+    [
+      0.500736,
+      "\r98% [55 manpages-dev 908 kB/1737 kB 52%]                                         313 kB/s 3s"
+    ],
+    [
+      0.500424,
+      "\r99% [55 manpages-dev 1120 kB/1737 kB 64%]                                        313 kB/s 3s"
+    ],
+    [
+      0.500793,
+      "\r99% [55 manpages-dev 1367 kB/1737 kB 79%]                                        313 kB/s 2s"
+    ],
+    [
+      0.500585,
+      "\r99% [55 manpages-dev 1622 kB/1737 kB 93%]                                        406 kB/s 1s"
+    ],
+    [
+      0.296685,
+      "\r99% [Working]                                                                    406 kB/s 1s"
+    ],
+    [
+      0.184523,
+      "\r                                                                                            \rGet:56 http://ftp.us.debian.org/debian/ wheezy/main rsync amd64 3.0.9-4 [369 kB]\r\n\r99% [56 rsync 974 B/369 kB 0%]                                                   406 kB/s 0s"
+    ],
+    [
+      0.500626,
+      "\r100% [56 rsync 94.0 kB/369 kB 25%]                                               406 kB/s 0s"
+    ],
+    [
+      0.500834,
+      "\r100% [56 rsync 244 kB/369 kB 66%]                                                406 kB/s 0s"
+    ],
+    [
+      0.500496,
+      "\r100% [56 rsync 357 kB/369 kB 97%]                                                406 kB/s 0s"
+    ],
+    [
+      0.061079,
+      "\r100% [Working]                                                                   406 kB/s 0s"
+    ],
+    [
+      0.150216,
+      "\r                                                                                            \rGet:57 http://ftp.us.debian.org/debian/ wheezy/main xauth amd64 1:1.0.7-1 [37.2 kB]\r\n\r100% [57 xauth 975 B/37.2 kB 3%]                                                 406 kB/s 0s"
+    ],
+    [
+      0.148943,
+      "\r100% [Working]                                                                   406 kB/s 0s\r                                                                                            \rFetched 74.0 MB in 4min 1s (307 kB/s)\r\n"
+    ],
+    [
+      0.547627,
+      "\rExtracting templates from packages: 52%"
+    ],
+    [
+      0.044903,
+      "\rExtracting templates from packages: 100%\r\n"
+    ],
+    [
+      1.293699,
+      "Selecting previously unselected package libbsd0:amd64.\r\n(Reading database ... \r"
+    ],
+    [
+      0.052443,
+      "(Reading database ... 5%\r"
+    ],
+    [
+      0.025827,
+      "(Reading database ... 10%\r"
+    ],
+    [
+      0.117433,
+      "(Reading database ... 15%\r"
+    ],
+    [
+      0.031430,
+      "(Reading database ... 20%\r"
+    ],
+    [
+      0.037212,
+      "(Reading database ... 25%\r"
+    ],
+    [
+      0.018481,
+      "(Reading database ... 30%\r"
+    ],
+    [
+      0.026900,
+      "(Reading database ... 35%\r(Reading database ... 40%\r(Reading database ... 45%\r(Reading database ... 50%\r(Reading database ... 55%\r(Reading database ... 60%\r(Reading database ... 65%\r(Reading database ... 70%\r(Reading database ... 75%\r(Reading database ... 80%\r(Reading database ... 85%\r(Reading database ... 90%\r(Reading database ... 95%\r(Reading database ... 100%\r(Reading database ... 9690 files and directories currently installed.)\r\nUnpacking libbsd0:amd64 (from .../libbsd0_0.4.2-1_amd64.deb) ...\r\n"
+    ],
+    [
+      0.994889,
+      "Selecting previously unselected package libedit2:amd64.\r\n"
+    ],
+    [
+      0.002257,
+      "Unpacking libedit2:amd64 (from .../libedit2_2.11-20080614-5_amd64.deb) ...\r\n"
+    ],
+    [
+      0.810671,
+      "Selecting previously unselected package libexpat1:amd64.\r\nUnpacking libexpat1:amd64 (from .../libexpat1_2.1.0-1+deb7u1_amd64.deb) ...\r\n"
+    ],
+    [
+      1.465273,
+      "Selecting previously unselected package libgmp10:amd64.\r\nUnpacking libgmp10:amd64 (from .../libgmp10_2%3a5.0.5+dfsg-2_amd64.deb) ...\r\n"
+    ],
+    [
+      0.888169,
+      "Selecting previously unselected package libgomp1:amd64.\r\n"
+    ],
+    [
+      0.000861,
+      "Unpacking libgomp1:amd64 (from .../libgomp1_4.7.2-5_amd64.deb) ...\r\n"
+    ],
+    [
+      0.645615,
+      "Selecting previously unselected package libitm1:amd64.\r\nUnpacking libitm1:amd64 (from .../libitm1_4.7.2-5_amd64.deb) ...\r\n"
+    ],
+    [
+      0.577003,
+      "Selecting previously unselected package libmpfr4:amd64.\r\nUnpacking libmpfr4:amd64 (from .../libmpfr4_3.1.0-5_amd64.deb) ...\r\n"
+    ],
+    [
+      1.109941,
+      "Selecting previously unselected package libquadmath0:amd64.\r\n"
+    ],
+    [
+      0.002055,
+      "Unpacking libquadmath0:amd64 (from .../libquadmath0_4.7.2-5_amd64.deb) ...\r\n"
+    ],
+    [
+      0.620885,
+      "Selecting previously unselected package libxau6:amd64.\r\nUnpacking libxau6:amd64 (from .../libxau6_1%3a1.0.7-1_amd64.deb) ...\r\n"
+    ],
+    [
+      1.443627,
+      "Selecting previously unselected package libxdmcp6:amd64.\r\n"
+    ],
+    [
+      0.000830,
+      "Unpacking libxdmcp6:amd64 (from .../libxdmcp6_1%3a1.1.1-1_amd64.deb) ...\r\n"
+    ],
+    [
+      0.865863,
+      "Selecting previously unselected package libxcb1:amd64.\r\n"
+    ],
+    [
+      0.001011,
+      "Unpacking libxcb1:amd64 (from .../libxcb1_1.8.1-2+deb7u1_amd64.deb) ...\r\n"
+    ],
+    [
+      0.832398,
+      "Selecting previously unselected package libx11-data.\r\n"
+    ],
+    [
+      0.001212,
+      "Unpacking libx11-data (from .../libx11-data_2%3a1.5.0-1+deb7u1_all.deb) ...\r\n"
+    ],
+    [
+      3.000000,
+      "Selecting previously unselected package libx11-6:amd64.\r\nUnpacking libx11-6:amd64 (from .../libx11-6_2%3a1.5.0-1+deb7u1_amd64.deb) ...\r\n"
+    ],
+    [
+      1.107924,
+      "Selecting previously unselected package libxext6:amd64.\r\n"
+    ],
+    [
+      0.001385,
+      "Unpacking libxext6:amd64 (from .../libxext6_2%3a1.3.1-2+deb7u1_amd64.deb) ...\r\n"
+    ],
+    [
+      0.977875,
+      "Selecting previously unselected package libxmuu1:amd64.\r\nUnpacking libxmuu1:amd64 (from .../libxmuu1_2%3a1.1.1-1_amd64.deb) ...\r\n"
+    ],
+    [
+      0.724357,
+      "Selecting previously unselected package openssh-blacklist.\r\nUnpacking openssh-blacklist (from .../openssh-blacklist_0.4.1+nmu1_all.deb) ...\r\n"
+    ],
+    [
+      1.089023,
+      "Selecting previously unselected package openssh-blacklist-extra.\r\nUnpacking openssh-blacklist-extra (from .../openssh-blacklist-extra_0.4.1+nmu1_all.deb) ...\r\n"
+    ],
+    [
+      1.243841,
+      "Selecting previously unselected package libmpc2:amd64.\r\nUnpacking libmpc2:amd64 (from .../libmpc2_0.9-4_amd64.deb) ...\r\n"
+    ],
+    [
+      0.741679,
+      "Selecting previously unselected package bzip2.\r\n"
+    ],
+    [
+      0.002232,
+      "Unpacking bzip2 (from .../bzip2_1.0.6-4_amd64.deb) ...\r\n"
+    ],
+    [
+      1.942570,
+      "Selecting previously unselected package less.\r\n"
+    ],
+    [
+      0.002152,
+      "Unpacking less (from .../archives/less_444-4_amd64.deb) ...\r\n"
+    ],
+    [
+      1.331955,
+      "Selecting previously unselected package libclass-isa-perl.\r\nUnpacking libclass-isa-perl (from .../libclass-isa-perl_0.36-3_all.deb) ...\r\n"
+    ],
+    [
+      1.091766,
+      "Selecting previously unselected package perl-modules.\r\nUnpacking perl-modules (from .../perl-modules_5.14.2-21+deb7u2_all.deb) ...\r\n"
+    ],
+    [
+      3.000000,
+      "Selecting previously unselected package perl.\r\n"
+    ],
+    [
+      0.001839,
+      "Unpacking perl (from .../perl_5.14.2-21+deb7u2_amd64.deb) ...\r\n"
+    ],
+    [
+      2.474670,
+      "Selecting previously unselected package libswitch-perl.\r\n"
+    ],
+    [
+      0.001098,
+      "Unpacking libswitch-perl (from .../libswitch-perl_2.16-2_all.deb) ...\r\n"
+    ],
+    [
+      1.079121,
+      "Selecting previously unselected package openssh-client.\r\nUnpacking openssh-client (from .../openssh-client_1%3a6.0p1-4+deb7u2_amd64.deb) ...\r\n"
+    ],
+    [
+      2.809809,
+      "Selecting previously unselected package patch.\r\n"
+    ],
+    [
+      0.000546,
+      "Unpacking patch (from .../patch_2.6.1-3_amd64.deb) ...\r\n"
+    ],
+    [
+      0.999792,
+      "Selecting previously unselected package binutils.\r\nUnpacking binutils (from .../binutils_2.22-8_amd64.deb) ...\r\n"
+    ],
+    [
+      3.000000,
+      "Selecting previously unselected package libc-dev-bin.\r\n"
+    ],
+    [
+      0.002076,
+      "Unpacking libc-dev-bin (from .../libc-dev-bin_2.13-38+deb7u6_amd64.deb) ...\r\n"
+    ],
+    [
+      1.210438,
+      "Selecting previously unselected package linux-libc-dev:amd64.\r\nUnpacking linux-libc-dev:amd64 (from .../linux-libc-dev_3.2.65-1_amd64.deb) ...\r\n"
+    ],
+    [
+      3.000000,
+      "Selecting previously unselected package libc6-dev:amd64.\r\n"
+    ],
+    [
+      0.002410,
+      "Unpacking libc6-dev:amd64 (from .../libc6-dev_2.13-38+deb7u6_amd64.deb) ...\r\n"
+    ],
+    [
+      3.000000,
+      "Selecting previously unselected package cpp-4.7.\r\nUnpacking cpp-4.7 (from .../cpp-4.7_4.7.2-5_amd64.deb) ...\r\n"
+    ],
+    [
+      0.988006,
+      "Selecting previously unselected package cpp.\r\n"
+    ],
+    [
+      0.002439,
+      "Unpacking cpp (from .../cpp_4%3a4.7.2-1_amd64.deb) ...\r\n"
+    ],
+    [
+      0.699724,
+      "Selecting previously unselected package gcc-4.7.\r\nUnpacking gcc-4.7 (from .../gcc-4.7_4.7.2-5_amd64.deb) ...\r\n"
+    ],
+    [
+      3.000000,
+      "Selecting previously unselected package gcc.\r\nUnpacking gcc (from .../gcc_4%3a4.7.2-1_amd64.deb) ...\r\n"
+    ],
+    [
+      0.889573,
+      "Selecting previously unselected package libstdc++6-4.7-dev.\r\nUnpacking libstdc++6-4.7-dev (from .../libstdc++6-4.7-dev_4.7.2-5_amd64.deb) ...\r\n"
+    ],
+    [
+      3.000000,
+      "Selecting previously unselected package g++-4.7.\r\nUnpacking g++-4.7 (from .../g++-4.7_4.7.2-5_amd64.deb) ...\r\n"
+    ],
+    [
+      1.677712,
+      "Selecting previously unselected package g++.\r\nUnpacking g++ (from .../g++_4%3a4.7.2-1_amd64.deb) ...\r\n"
+    ],
+    [
+      0.809925,
+      "Selecting previously unselected package make.\r\n"
+    ],
+    [
+      0.001817,
+      "Unpacking make (from .../make_3.81-8.2_amd64.deb) ...\r\n"
+    ],
+    [
+      1.977407,
+      "Selecting previously unselected package libtimedate-perl.\r\nUnpacking libtimedate-perl (from .../libtimedate-perl_1.2000-1_all.deb) ...\r\n"
+    ],
+    [
+      2.254178,
+      "Selecting previously unselected package libdpkg-perl.\r\n"
+    ],
+    [
+      0.002593,
+      "Unpacking libdpkg-perl (from .../libdpkg-perl_1.16.15_all.deb) ...\r\n"
+    ],
+    [
+      3.000000,
+      "Selecting previously unselected package dpkg-dev.\r\n"
+    ],
+    [
+      0.002292,
+      "Unpacking dpkg-dev (from .../dpkg-dev_1.16.15_all.deb) ...\r\n"
+    ],
+    [
+      3.000000,
+      "Selecting previously unselected package build-essential.\r\nUnpacking build-essential (from .../build-essential_11.5_amd64.deb) ...\r\n"
+    ],
+    [
+      0.996485,
+      "Selecting previously unselected package fakeroot.\r\n"
+    ],
+    [
+      0.001906,
+      "Unpacking fakeroot (from .../fakeroot_1.18.4-2_amd64.deb) ...\r\n"
+    ],
+    [
+      2.956003,
+      "Selecting previously unselected package liberror-perl.\r\nUnpacking liberror-perl (from .../liberror-perl_0.17-1_all.deb) ...\r\n"
+    ],
+    [
+      1.120591,
+      "Selecting previously unselected package git-man.\r\n"
+    ],
+    [
+      0.002637,
+      "Unpacking git-man (from .../git-man_1%3a1.7.10.4-1+wheezy1_all.deb) ...\r\n"
+    ],
+    [
+      2.576138,
+      "Selecting previously unselected package git.\r\nUnpacking git (from .../git_1%3a1.7.10.4-1+wheezy1_amd64.deb) ...\r\n"
+    ],
+    [
+      3.000000,
+      "Selecting previously unselected package libalgorithm-diff-perl.\r\n"
+    ],
+    [
+      0.002977,
+      "Unpacking libalgorithm-diff-perl (from .../libalgorithm-diff-perl_1.19.02-2_all.deb) ...\r\n"
+    ],
+    [
+      1.030390,
+      "Selecting previously unselected package libalgorithm-diff-xs-perl.\r\n"
+    ],
+    [
+      0.002165,
+      "Unpacking libalgorithm-diff-xs-perl (from .../libalgorithm-diff-xs-perl_0.04-2+b1_amd64.deb) ...\r\n"
+    ],
+    [
+      0.730862,
+      "Selecting previously unselected package libalgorithm-merge-perl.\r\n"
+    ],
+    [
+      0.001823,
+      "Unpacking libalgorithm-merge-perl (from .../libalgorithm-merge-perl_0.08-2_all.deb) ...\r\n"
+    ],
+    [
+      0.668156,
+      "Selecting previously unselected package libfile-fcntllock-perl.\r\nUnpacking libfile-fcntllock-perl (from .../libfile-fcntllock-perl_0.14-2_amd64.deb) ...\r\n"
+    ],
+    [
+      0.822384,
+      "Selecting previously unselected package zlib1g-dev:amd64.\r\nUnpacking zlib1g-dev:amd64 (from .../zlib1g-dev_1%3a1.2.7.dfsg-13_amd64.deb) ...\r\n"
+    ],
+    [
+      1.641626,
+      "Selecting previously unselected package libssl-dev.\r\n"
+    ],
+    [
+      0.000738,
+      "Unpacking libssl-dev (from .../libssl-dev_1.0.1e-2+deb7u13_amd64.deb) ...\r\n"
+    ],
+    [
+      3.000000,
+      "Selecting previously unselected package libssl-doc.\r\n"
+    ],
+    [
+      0.002440,
+      "Unpacking libssl-doc (from .../libssl-doc_1.0.1e-2+deb7u13_all.deb) ...\r\n"
+    ],
+    [
+      3.000000,
+      "Selecting previously unselected package manpages-dev.\r\n"
+    ],
+    [
+      0.002933,
+      "Unpacking manpages-dev (from .../manpages-dev_3.44-1_all.deb) ...\r\n"
+    ],
+    [
+      3.000000,
+      "Selecting previously unselected package rsync.\r\nUnpacking rsync (from .../rsync_3.0.9-4_amd64.deb) ...\r\n"
+    ],
+    [
+      1.662202,
+      "Selecting previously unselected package xauth.\r\n"
+    ],
+    [
+      0.000324,
+      "Unpacking xauth (from .../xauth_1%3a1.0.7-1_amd64.deb) ...\r\n"
+    ],
+    [
+      0.968854,
+      "Selecting previously unselected package crystal.\r\nUnpacking crystal (from .../crystal_0.7.1-1_amd64.deb) ...\r\n"
+    ],
+    [
+      0.089850,
+      "You're about to install crystal!\r\n"
+    ],
+    [
+      3.000000,
+      "Processing triggers for man-db ...\r\n"
+    ],
+    [
+      3.000000,
+      "Setting up libbsd0:amd64 (0.4.2-1) ...\r\n"
+    ],
+    [
+      0.994082,
+      "Setting up libedit2:amd64 (2.11-20080614-5) ...\r\n"
+    ],
+    [
+      0.299402,
+      "Setting up libexpat1:amd64 (2.1.0-1+deb7u1) ...\r\n"
+    ],
+    [
+      0.266658,
+      "Setting up libgmp10:amd64 (2:5.0.5+dfsg-2) ...\r\n"
+    ],
+    [
+      0.289213,
+      "Setting up libgomp1:amd64 (4.7.2-5) ...\r\n"
+    ],
+    [
+      0.289235,
+      "Setting up libitm1:amd64 (4.7.2-5) ...\r\n"
+    ],
+    [
+      0.267064,
+      "Setting up libmpfr4:amd64 (3.1.0-5) ...\r\n"
+    ],
+    [
+      0.265806,
+      "Setting up libquadmath0:amd64 (4.7.2-5) ...\r\n"
+    ],
+    [
+      0.578346,
+      "Setting up libxau6:amd64 (1:1.0.7-1) ...\r\n"
+    ],
+    [
+      0.277889,
+      "Setting up libxdmcp6:amd64 (1:1.1.1-1) ...\r\n"
+    ],
+    [
+      0.377796,
+      "Setting up libxcb1:amd64 (1.8.1-2+deb7u1) ...\r\n"
+    ],
+    [
+      0.344412,
+      "Setting up libx11-data (2:1.5.0-1+deb7u1) ...\r\n"
+    ],
+    [
+      0.222096,
+      "Setting up libx11-6:amd64 (2:1.5.0-1+deb7u1) ...\r\n"
+    ],
+    [
+      0.277743,
+      "Setting up libxext6:amd64 (2:1.3.1-2+deb7u1) ...\r\n"
+    ],
+    [
+      0.288319,
+      "Setting up libxmuu1:amd64 (2:1.1.1-1) ...\r\n"
+    ],
+    [
+      0.277989,
+      "Setting up openssh-blacklist (0.4.1+nmu1) ...\r\n"
+    ],
+    [
+      0.200199,
+      "Setting up openssh-blacklist-extra (0.4.1+nmu1) ...\r\n"
+    ],
+    [
+      0.210716,
+      "Setting up libmpc2:amd64 (0.9-4) ...\r\n"
+    ],
+    [
+      0.289239,
+      "Setting up bzip2 (1.0.6-4) ...\r\n"
+    ],
+    [
+      0.210953,
+      "Setting up less (444-4) ...\r\n"
+    ],
+    [
+      0.511120,
+      "Setting up libclass-isa-perl (0.36-3) ...\r\n"
+    ],
+    [
+      0.222479,
+      "Setting up openssh-client (1:6.0p1-4+deb7u2) ...\r\n"
+    ],
+    [
+      0.899836,
+      "Setting up patch (2.6.1-3) ...\r\n"
+    ],
+    [
+      0.244651,
+      "Setting up binutils (2.22-8) ...\r\n"
+    ],
+    [
+      0.289206,
+      "Setting up libc-dev-bin (2.13-38+deb7u6) ...\r\n"
+    ],
+    [
+      0.199336,
+      "Setting up linux-libc-dev:amd64 (3.2.65-1) ...\r\n"
+    ],
+    [
+      0.222631,
+      "Setting up libc6-dev:amd64 (2.13-38+deb7u6) ...\r\n"
+    ],
+    [
+      0.199537,
+      "Setting up cpp-4.7 (4.7.2-5) ...\r\n"
+    ],
+    [
+      0.233566,
+      "Setting up cpp (4:4.7.2-1) ...\r\n"
+    ],
+    [
+      0.233235,
+      "Setting up gcc-4.7 (4.7.2-5) ...\r\n"
+    ],
+    [
+      0.222389,
+      "Setting up gcc (4:4.7.2-1) ...\r\n"
+    ],
+    [
+      0.378056,
+      "Setting up make (3.81-8.2) ...\r\n"
+    ],
+    [
+      0.210975,
+      "Setting up fakeroot (1.18.4-2) ...\r\n"
+    ],
+    [
+      0.138327,
+      "update-alternatives: using /usr/bin/fakeroot-sysv to provide /usr/bin/fakeroot (fakeroot) in auto mode\r\n"
+    ],
+    [
+      0.161740,
+      "Setting up git-man (1:1.7.10.4-1+wheezy1) ...\r\n"
+    ],
+    [
+      0.221943,
+      "Setting up zlib1g-dev:amd64 (1:1.2.7.dfsg-13) ...\r\n"
+    ],
+    [
+      0.211556,
+      "Setting up libssl-dev (1.0.1e-2+deb7u13) ...\r\n"
+    ],
+    [
+      0.221899,
+      "Setting up libssl-doc (1.0.1e-2+deb7u13) ...\r\n"
+    ],
+    [
+      0.211188,
+      "Setting up manpages-dev (3.44-1) ...\r\n"
+    ],
+    [
+      0.310965,
+      "Setting up rsync (3.0.9-4) ...\r\n"
+    ],
+    [
+      0.360331,
+      "update-rc.d: using dependency based boot sequencing\r\n"
+    ],
+    [
+      0.350483,
+      "Setting up xauth (1:1.0.7-1) ...\r\n"
+    ],
+    [
+      0.211379,
+      "Setting up crystal (0.7.1-1) ...\r\n"
+    ],
+    [
+      0.257407,
+      "Setting up libswitch-perl (2.16-2) ...\r\n"
+    ],
+    [
+      0.198392,
+      "Setting up perl-modules (5.14.2-21+deb7u2) ...\r\n"
+    ],
+    [
+      0.345095,
+      "Setting up perl (5.14.2-21+deb7u2) ...\r\n"
+    ],
+    [
+      0.137082,
+      "update-alternatives: using /usr/bin/prename to provide /usr/bin/rename (rename) in auto mode\r\n"
+    ],
+    [
+      0.129140,
+      "Setting up libstdc++6-4.7-dev (4.7.2-5) ...\r\n"
+    ],
+    [
+      0.211572,
+      "Setting up g++-4.7 (4.7.2-5) ...\r\n"
+    ],
+    [
+      0.421807,
+      "Setting up g++ (4:4.7.2-1) ...\r\n"
+    ],
+    [
+      0.210624,
+      "update-alternatives: using /usr/bin/g++ to provide /usr/bin/c++ (c++) in auto mode\r\n"
+    ],
+    [
+      0.111170,
+      "Setting up libtimedate-perl (1.2000-1) ...\r\n"
+    ],
+    [
+      0.244921,
+      "Setting up libdpkg-perl (1.16.15) ...\r\n"
+    ],
+    [
+      0.233430,
+      "Setting up dpkg-dev (1.16.15) ...\r\n"
+    ],
+    [
+      0.377696,
+      "Setting up build-essential (11.5) ...\r\n"
+    ],
+    [
+      0.221804,
+      "Setting up liberror-perl (0.17-1) ...\r\n"
+    ],
+    [
+      0.200250,
+      "Setting up git (1:1.7.10.4-1+wheezy1) ...\r\n"
+    ],
+    [
+      0.411511,
+      "Setting up libalgorithm-diff-perl (1.19.02-2) ...\r\n"
+    ],
+    [
+      0.299328,
+      "Setting up libalgorithm-diff-xs-perl (0.04-2+b1) ...\r\n"
+    ],
+    [
+      0.211723,
+      "Setting up libalgorithm-merge-perl (0.08-2) ...\r\n"
+    ],
+    [
+      0.233157,
+      "Setting up libfile-fcntllock-perl (0.14-2) ...\r\n"
+    ],
+    [
+      1.633096,
+      "root@wheezy-8750f6cc48008bfa:~# "
+    ],
+    [
+      3.000000,
+      "a"
+    ],
+    [
+      0.184699,
+      "d"
+    ],
+    [
+      0.136882,
+      "d"
+    ],
+    [
+      0.213294,
+      "u"
+    ],
+    [
+      0.081543,
+      "s"
+    ],
+    [
+      0.164423,
+      "e"
+    ],
+    [
+      0.161431,
+      "r"
+    ],
+    [
+      0.162061,
+      " "
+    ],
+    [
+      1.801808,
+      "-"
+    ],
+    [
+      0.136372,
+      "-"
+    ],
+    [
+      0.142593,
+      "d"
+    ],
+    [
+      0.236208,
+      "i"
+    ],
+    [
+      0.136051,
+      "s"
+    ],
+    [
+      0.183400,
+      "a"
+    ],
+    [
+      0.082728,
+      "b"
+    ],
+    [
+      0.179222,
+      "l"
+    ],
+    [
+      0.089030,
+      "e"
+    ],
+    [
+      0.164705,
+      "-"
+    ],
+    [
+      0.453902,
+      "\u0008 \u0008"
+    ],
+    [
+      0.055944,
+      "d"
+    ],
+    [
+      0.204720,
+      "-"
+    ],
+    [
+      0.190252,
+      "p"
+    ],
+    [
+      0.098123,
+      "a"
+    ],
+    [
+      0.139583,
+      "s"
+    ],
+    [
+      0.133366,
+      "s"
+    ],
+    [
+      0.134657,
+      "w"
+    ],
+    [
+      0.099561,
+      "o"
+    ],
+    [
+      0.587153,
+      "r"
+    ],
+    [
+      0.175024,
+      "d"
+    ],
+    [
+      0.222406,
+      " "
+    ],
+    [
+      0.586090,
+      "c"
+    ],
+    [
+      0.169642,
+      "r"
+    ],
+    [
+      0.613257,
+      "y"
+    ],
+    [
+      0.237446,
+      "s"
+    ],
+    [
+      0.225647,
+      "t"
+    ],
+    [
+      0.256852,
+      "a"
+    ],
+    [
+      0.130470,
+      "l"
+    ],
+    [
+      0.468949,
+      "\r\n"
+    ],
+    [
+      0.081532,
+      "Adding user `crystal' ...\r\n"
+    ],
+    [
+      0.000067,
+      "Adding new group `crystal' (1000) ...\r\n"
+    ],
+    [
+      0.212541,
+      "Adding new user `crystal' (1000) with group `crystal' ...\r\n"
+    ],
+    [
+      0.279107,
+      "Creating home directory `/home/crystal' ...\r\nCopying files from `/etc/skel' ...\r\n"
+    ],
+    [
+      0.223411,
+      "Changing the user information for crystal\r\nEnter the new value, or press ENTER for the default\r\n\tFull Name []: "
+    ],
+    [
+      0.496074,
+      "\r\n\tRoom Number []: "
+    ],
+    [
+      0.290158,
+      "\r\n\tWork Phone []: "
+    ],
+    [
+      0.377837,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "\tHome Phone []: "
+    ],
+    [
+      0.365632,
+      "\r\n\tOther []: "
+    ],
+    [
+      0.380863,
+      "\r\n"
+    ],
+    [
+      0.076519,
+      "Is the information correct? [Y/n] "
+    ],
+    [
+      0.981279,
+      "\r\n"
+    ],
+    [
+      0.003498,
+      "root@wheezy-8750f6cc48008bfa:~# "
+    ],
+    [
+      0.469052,
+      "s"
+    ],
+    [
+      0.110382,
+      "u"
+    ],
+    [
+      0.120595,
+      " "
+    ],
+    [
+      0.111472,
+      "c"
+    ],
+    [
+      0.188651,
+      "r"
+    ],
+    [
+      0.199230,
+      "y"
+    ],
+    [
+      0.214092,
+      "s"
+    ],
+    [
+      0.244892,
+      "t"
+    ],
+    [
+      0.200245,
+      "a"
+    ],
+    [
+      0.139379,
+      "l"
+    ],
+    [
+      1.292894,
+      "\r\n"
+    ],
+    [
+      0.034940,
+      "\u001b]0;crystal@wheezy-8750f6cc48008bfa: /root\u0007crystal@wheezy-8750f6cc48008bfa:/root$ "
+    ],
+    [
+      0.190259,
+      "c"
+    ],
+    [
+      0.143855,
+      "d"
+    ],
+    [
+      0.163564,
+      "\r\n\u001b]0;crystal@wheezy-8750f6cc48008bfa: ~\u0007crystal@wheezy-8750f6cc48008bfa:~$ "
+    ],
+    [
+      0.787190,
+      "g"
+    ],
+    [
+      0.101152,
+      "i"
+    ],
+    [
+      0.105757,
+      "t"
+    ],
+    [
+      0.045044,
+      " "
+    ],
+    [
+      0.181697,
+      "c"
+    ],
+    [
+      0.082602,
+      "o"
+    ],
+    [
+      0.410200,
+      "\u0008 \u0008"
+    ],
+    [
+      0.171101,
+      "l"
+    ],
+    [
+      0.155083,
+      "o"
+    ],
+    [
+      0.145623,
+      "n"
+    ],
+    [
+      0.067159,
+      "e"
+    ],
+    [
+      0.060467,
+      " "
+    ],
+    [
+      3.000000,
+      "https://github.com/manastech/frank.git"
+    ],
+    [
+      0.876209,
+      "\r\n"
+    ],
+    [
+      0.032017,
+      "Cloning into 'frank'...\r\n"
+    ],
+    [
+      1.620933,
+      "remote: Counting objects: 82, done.\u001b[K\r\n"
+    ],
+    [
+      0.125796,
+      "remote: Total 82 (delta 0), reused 0 (delta 0), pack-reused 82\u001b[K\r\n"
+    ],
+    [
+      0.009483,
+      "Unpacking objects:   1% (1/82)   \rUnpacking objects:   2% (2/82)   \rUnpacking objects:   3% (3/82)   \rUnpacking objects:   4% (4/82)   \rUnpacking objects:   6% (5/82)   \rUnpacking objects:   7% (6/82)   \rUnpacking objects:   8% (7/82)   \rUnpacking objects:   9% (8/82)   \rUnpacking objects:  10% (9/82)   \rUnpacking objects:  12% (10/82)   \rUnpacking objects:  13% (11/82)   \rUnpacking objects:  14% (12/82)   \rUnpacking objects:  15% (13/82)   \rUnpacking objects:  17% (14/82)   \rUnpacking objects:  18% (15/82)   \rUnpacking objects:  19% (16/82)   \rUnpacking objects:  20% (17/82)   \rUnpacking objects:  21% (18/82)   \rUnpacking objects:  23% (19/82)   \rUnpacking objects:  24% (20/82)   \r"
+    ],
+    [
+      0.004909,
+      "Unpacking objects:  25% (21/82)   \rUnpacking objects:  26% (22/82)   \rUnpacking objects:  28% (23/82)   \rUnpacking objects:  29% (24/82)   \rUnpacking objects:  30% (25/82)   \rUnpacking objects:  31% (26/82)   \rUnpacking objects:  32% (27/82)   \rUnpacking objects:  34% (28/82)   \rUnpacking objects:  35% (29/82)   \rUnpacking objects:  36% (30/82)   \rUnpacking objects:  37% (31/82)   \rUnpacking objects:  39% (32/82)   \rUnpacking objects:  40% (33/82)   \rUnpacking objects:  41% (34/82)   \rUnpacking objects:  42% (35/82)   \r"
+    ],
+    [
+      0.008672,
+      "Unpacking objects:  43% (36/82)   \rUnpacking objects:  45% (37/82)   \rUnpacking objects:  46% (38/82)   \rUnpacking objects:  47% (39/82)   \rUnpacking objects:  48% (40/82)   \rUnpacking objects:  50% (41/82)   \rUnpacking objects:  51% (42/82)   \rUnpacking objects:  52% (43/82)   \rUnpacking objects:  53% (44/82)   \rUnpacking objects:  54% (45/82)   \rUnpacking objects:  56% (46/82)   \rUnpacking objects:  57% (47/82)   \rUnpacking objects:  58% (48/82)   \rUnpacking objects:  59% (49/82)   \rUnpacking objects:  60% (50/82)   \rUnpacking objects:  62% (51/82)   \rUnpacking objects:  63% (52/82)   \rUnpacking objects:  64% (53/82)   \rUnpacking objects:  65% (54/82)   \rUnpacking objects:  67% (55/82)   \rUnpacking objects:  68% (56/82)   \rUnpacking objects:  69% (57/82)   \rUnpacking objects:  70% (58/82)   \rUnpacking objects:  71% (59/82)   \rUnpacking objects:  73% (60/82)   \r"
+    ],
+    [
+      0.000075,
+      "Unpacking objects:  74% (61/82)   \r"
+    ],
+    [
+      0.000329,
+      "Unpacking objects:  75% (62/82)   \r"
+    ],
+    [
+      0.000306,
+      "Unpacking objects:  76% (63/82)   \r"
+    ],
+    [
+      0.000276,
+      "Unpacking objects:  78% (64/82)   \r"
+    ],
+    [
+      0.000265,
+      "Unpacking objects:  79% (65/82)   \r"
+    ],
+    [
+      0.000171,
+      "Unpacking objects:  80% (66/82)   \r"
+    ],
+    [
+      0.000424,
+      "Unpacking objects:  81% (67/82)   \r"
+    ],
+    [
+      0.000264,
+      "Unpacking objects:  82% (68/82)   \r"
+    ],
+    [
+      0.000475,
+      "Unpacking objects:  84% (69/82)   \r"
+    ],
+    [
+      0.000228,
+      "Unpacking objects:  85% (70/82)   \r"
+    ],
+    [
+      0.000342,
+      "Unpacking objects:  86% (71/82)   \r"
+    ],
+    [
+      0.000275,
+      "Unpacking objects:  87% (72/82)   \r"
+    ],
+    [
+      0.000398,
+      "Unpacking objects:  89% (73/82)   \r"
+    ],
+    [
+      0.000435,
+      "Unpacking objects:  90% (74/82)   \r"
+    ],
+    [
+      0.000284,
+      "Unpacking objects:  91% (75/82)   \r"
+    ],
+    [
+      0.000208,
+      "Unpacking objects:  92% (76/82)   \r"
+    ],
+    [
+      0.000304,
+      "Unpacking objects:  93% (77/82)   \r"
+    ],
+    [
+      0.000299,
+      "Unpacking objects:  95% (78/82)   \r"
+    ],
+    [
+      0.000236,
+      "Unpacking objects:  96% (79/82)   \r"
+    ],
+    [
+      0.000328,
+      "Unpacking objects:  97% (80/82)   \r"
+    ],
+    [
+      0.000288,
+      "Unpacking objects:  98% (81/82)   \r"
+    ],
+    [
+      0.000208,
+      "Unpacking objects: 100% (82/82)   \rUnpacking objects: 100% (82/82), done.\r\n"
+    ],
+    [
+      0.439852,
+      "\u001b]0;crystal@wheezy-8750f6cc48008bfa: ~\u0007crystal@wheezy-8750f6cc48008bfa:~$ \u001b[K"
+    ],
+    [
+      1.073568,
+      "c"
+    ],
+    [
+      0.180849,
+      "d"
+    ],
+    [
+      0.103129,
+      " "
+    ],
+    [
+      0.668982,
+      "f"
+    ],
+    [
+      0.179747,
+      "r"
+    ],
+    [
+      0.209108,
+      "a"
+    ],
+    [
+      0.129119,
+      "n"
+    ],
+    [
+      0.285392,
+      "k/"
+    ],
+    [
+      0.667860,
+      "\r\n\u001b]0;crystal@wheezy-8750f6cc48008bfa: ~/frank\u0007crystal@wheezy-8750f6cc48008bfa:~/frank$ "
+    ],
+    [
+      0.194832,
+      "c"
+    ],
+    [
+      0.197283,
+      "r"
+    ],
+    [
+      0.200481,
+      "y"
+    ],
+    [
+      0.179720,
+      "s"
+    ],
+    [
+      0.134128,
+      "tal "
+    ],
+    [
+      0.361744,
+      "s"
+    ],
+    [
+      0.285204,
+      "a"
+    ],
+    [
+      0.139520,
+      "mples/"
+    ],
+    [
+      0.575425,
+      "hello_world.cr "
+    ],
+    [
+      1.682651,
+      "\r\n"
+    ],
+    [
+      0.545759,
+      "Listening on http://0.0.0.0:3000\r\n"
+    ],
+    [
+      3.000000,
+      "^C"
+    ],
+    [
+      0.000598,
+      "Program terminated abnormally with error code: 2\r\n"
+    ],
+    [
+      0.003716,
+      "\u001b]0;crystal@wheezy-8750f6cc48008bfa: ~/frank\u0007crystal@wheezy-8750f6cc48008bfa:~/frank$ "
+    ],
+    [
+      2.535416,
+      "exit\r\n"
+    ],
+    [
+      0.000879,
+      "root@wheezy-8750f6cc48008bfa:~# "
+    ],
+    [
+      0.346909,
+      "logout\r\n"
+    ],
+    [
+      0.080483,
+      "Container wheezy-8750f6cc48008bfa failed with error code 1.\r\n"
+    ],
+    [
+      0.073947,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                            \r \r\u001b]2;jhass@jhass-laptop: ~/chroots/debian\u0007\u001b]1;..hroots/debian\u0007"
+    ],
+    [
+      0.173220,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[38;5;250m\u001b[48;5;240m jhass \u001b[48;5;238m\u001b[38;5;240m\u001b[38;5;250m\u001b[48;5;238m jhass-laptop \u001b[48;5;31m\u001b[38;5;238m\u001b[38;5;15m\u001b[48;5;31m ~ \u001b[48;5;237m\u001b[38;5;31m\u001b[38;5;250m\u001b[48;5;237m chroots \u001b[48;5;237m\u001b[38;5;244m\u001b[38;5;254m\u001b[48;5;237m debian \u001b[48;5;161m\u001b[38;5;237m\u001b[38;5;15m\u001b[48;5;161m $ \u001b[0m\u001b[38;5;161m\u001b[0m \u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      0.212778,
+      "\r\r\n"
+    ]
+  ]
+}
