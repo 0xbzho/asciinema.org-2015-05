@@ -1,0 +1,1998 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 25,
+  "duration": 126.742531,
+  "command": "/usr/local/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/usr/local/bin/bash"
+  },
+  "stdout": [
+    [
+      1.115598,
+      "~ $ "
+    ],
+    [
+      0.589575,
+      "m"
+    ],
+    [
+      0.123708,
+      "k"
+    ],
+    [
+      0.182921,
+      "d"
+    ],
+    [
+      0.104114,
+      "i"
+    ],
+    [
+      0.145102,
+      "r"
+    ],
+    [
+      0.215115,
+      " "
+    ],
+    [
+      0.279866,
+      "/"
+    ],
+    [
+      0.128020,
+      "t"
+    ],
+    [
+      0.084031,
+      "m"
+    ],
+    [
+      0.212726,
+      "p"
+    ],
+    [
+      0.290313,
+      "/"
+    ],
+    [
+      0.756093,
+      "t"
+    ],
+    [
+      0.278966,
+      "f"
+    ],
+    [
+      0.230963,
+      "t"
+    ],
+    [
+      0.348808,
+      "p"
+    ],
+    [
+      0.625130,
+      "b"
+    ],
+    [
+      0.099991,
+      "o"
+    ],
+    [
+      0.139809,
+      "o"
+    ],
+    [
+      0.111053,
+      "t"
+    ],
+    [
+      0.785992,
+      "\r\n"
+    ],
+    [
+      0.014747,
+      "~ $ "
+    ],
+    [
+      0.646435,
+      "c"
+    ],
+    [
+      0.165759,
+      "d"
+    ],
+    [
+      0.157232,
+      " "
+    ],
+    [
+      1.285806,
+      "/tmp/tftpboot"
+    ],
+    [
+      0.943255,
+      "\r\n"
+    ],
+    [
+      0.012679,
+      "/tmp/tftpboot $ "
+    ],
+    [
+      1.695963,
+      "w"
+    ],
+    [
+      0.163239,
+      "g"
+    ],
+    [
+      0.111880,
+      "e"
+    ],
+    [
+      0.103984,
+      "t"
+    ],
+    [
+      0.640178,
+      " "
+    ],
+    [
+      0.254719,
+      "h"
+    ],
+    [
+      0.084235,
+      "t"
+    ],
+    [
+      0.149961,
+      "t"
+    ],
+    [
+      0.171909,
+      "p"
+    ],
+    [
+      1.905967,
+      ":"
+    ],
+    [
+      0.674980,
+      "/"
+    ],
+    [
+      0.143045,
+      "/"
+    ],
+    [
+      0.297127,
+      "/"
+    ],
+    [
+      0.000012,
+      "/"
+    ],
+    [
+      0.000033,
+      "r"
+    ],
+    [
+      0.000008,
+      "e"
+    ],
+    [
+      0.000026,
+      "p"
+    ],
+    [
+      0.000035,
+      "o"
+    ],
+    [
+      0.000011,
+      "."
+    ],
+    [
+      0.000007,
+      "k"
+    ],
+    [
+      0.000028,
+      "a"
+    ],
+    [
+      0.000009,
+      "l"
+    ],
+    [
+      0.000027,
+      "i"
+    ],
+    [
+      0.000008,
+      "."
+    ],
+    [
+      0.000029,
+      "o"
+    ],
+    [
+      0.000024,
+      "r"
+    ],
+    [
+      0.000025,
+      "g"
+    ],
+    [
+      0.000024,
+      "/"
+    ],
+    [
+      0.000029,
+      "k"
+    ],
+    [
+      0.000024,
+      "a"
+    ],
+    [
+      0.000033,
+      "l"
+    ],
+    [
+      0.000010,
+      "i"
+    ],
+    [
+      0.000024,
+      "/"
+    ],
+    [
+      0.000028,
+      "d"
+    ],
+    [
+      0.000026,
+      "i"
+    ],
+    [
+      0.000033,
+      "s"
+    ],
+    [
+      0.000008,
+      "t"
+    ],
+    [
+      0.000026,
+      "s"
+    ],
+    [
+      0.000014,
+      "/"
+    ],
+    [
+      0.000019,
+      "k"
+    ],
+    [
+      0.000021,
+      "a"
+    ],
+    [
+      0.000008,
+      "l"
+    ],
+    [
+      0.000051,
+      "i"
+    ],
+    [
+      0.000009,
+      "/"
+    ],
+    [
+      0.000021,
+      "m"
+    ],
+    [
+      0.000023,
+      "a"
+    ],
+    [
+      0.000038,
+      "i"
+    ],
+    [
+      0.000006,
+      "n"
+    ],
+    [
+      0.000034,
+      "/"
+    ],
+    [
+      0.000023,
+      "i"
+    ],
+    [
+      0.000025,
+      "n"
+    ],
+    [
+      0.000019,
+      "s"
+    ],
+    [
+      0.000037,
+      "t"
+    ],
+    [
+      0.000019,
+      "a"
+    ],
+    [
+      0.000039,
+      "l"
+    ],
+    [
+      0.000010,
+      "l"
+    ],
+    [
+      0.000041,
+      "e"
+    ],
+    [
+      0.000070,
+      "r-"
+    ],
+    [
+      0.000011,
+      "a"
+    ],
+    [
+      0.000026,
+      "m"
+    ],
+    [
+      0.000023,
+      "d"
+    ],
+    [
+      0.000020,
+      "6"
+    ],
+    [
+      0.000049,
+      "4 \r"
+    ],
+    [
+      0.000008,
+      "/"
+    ],
+    [
+      0.000005,
+      "c"
+    ],
+    [
+      0.000010,
+      "u"
+    ],
+    [
+      0.000006,
+      "r"
+    ],
+    [
+      0.000018,
+      "r"
+    ],
+    [
+      0.000005,
+      "e"
+    ],
+    [
+      0.000020,
+      "n"
+    ],
+    [
+      0.000007,
+      "t"
+    ],
+    [
+      0.000004,
+      "/"
+    ],
+    [
+      0.000019,
+      "i"
+    ],
+    [
+      0.000008,
+      "m"
+    ],
+    [
+      0.000011,
+      "a"
+    ],
+    [
+      0.000023,
+      "ge"
+    ],
+    [
+      0.000016,
+      "s"
+    ],
+    [
+      0.000012,
+      "/"
+    ],
+    [
+      0.000022,
+      "n"
+    ],
+    [
+      0.000010,
+      "e"
+    ],
+    [
+      0.000022,
+      "t"
+    ],
+    [
+      0.000006,
+      "b"
+    ],
+    [
+      0.000024,
+      "o"
+    ],
+    [
+      0.000008,
+      "o"
+    ],
+    [
+      0.000018,
+      "t"
+    ],
+    [
+      0.000007,
+      "/"
+    ],
+    [
+      0.000019,
+      "n"
+    ],
+    [
+      0.000012,
+      "e"
+    ],
+    [
+      0.000020,
+      "t"
+    ],
+    [
+      0.000011,
+      "b"
+    ],
+    [
+      0.000017,
+      "o"
+    ],
+    [
+      0.000023,
+      "o"
+    ],
+    [
+      0.000013,
+      "t"
+    ],
+    [
+      0.000051,
+      "."
+    ],
+    [
+      0.000006,
+      "t"
+    ],
+    [
+      0.000044,
+      "a"
+    ],
+    [
+      0.000010,
+      "r"
+    ],
+    [
+      0.000044,
+      "."
+    ],
+    [
+      0.000008,
+      "g"
+    ],
+    [
+      0.000025,
+      "z"
+    ],
+    [
+      1.625285,
+      "\u001b[A\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.190030,
+      "\u001b[C"
+    ],
+    [
+      0.251001,
+      "\u001b[C"
+    ],
+    [
+      0.040258,
+      "\u001b[C"
+    ],
+    [
+      0.028768,
+      "\u001b[C"
+    ],
+    [
+      0.034481,
+      "\u001b[C"
+    ],
+    [
+      0.033769,
+      "\u001b[C"
+    ],
+    [
+      0.034391,
+      "\u001b[C"
+    ],
+    [
+      0.036123,
+      "\u001b[C"
+    ],
+    [
+      0.032552,
+      "\u001b[C"
+    ],
+    [
+      0.034431,
+      "\u001b[C"
+    ],
+    [
+      0.048453,
+      "\u001b[C"
+    ],
+    [
+      0.641733,
+      "\u001b[C\u001b[Crepo.kali.org/kali/dists/kali/main/installer-amd64/c\u001b[1Purrent/images/netboot/netboot.tar.gz\u001b[A\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.140088,
+      "\u001b[Crepo.kali.org/kali/dists/kali/main/installer-amd64/cu\u001b[1Prrent/images/netboot/netboot.tar.gz\u001b[A\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.539574,
+      "\r\n"
+    ],
+    [
+      0.000047,
+      "\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      2.000000,
+      "\r\n"
+    ],
+    [
+      0.027433,
+      "--2015-05-02 12:04:07--  http://repo.kali.org/kali/dists/kali/main/installer-amd64/current/images/netboot/netboot.tar.gz\r\n"
+    ],
+    [
+      0.000815,
+      "Resolving repo.kali.org... "
+    ],
+    [
+      1.886794,
+      "192.95.30.159\r\n"
+    ],
+    [
+      0.000014,
+      "Connecting to repo.kali.org|192.95.30.159|:80... "
+    ],
+    [
+      0.714643,
+      "connected.\r\n"
+    ],
+    [
+      0.000036,
+      "HTTP request sent, awaiting response... "
+    ],
+    [
+      0.614822,
+      "200 OK\r\n"
+    ],
+    [
+      0.000014,
+      "Length: "
+    ],
+    [
+      0.000008,
+      "17736865"
+    ],
+    [
+      0.000032,
+      " (17M) [application/x-gzip]\r\n"
+    ],
+    [
+      0.000245,
+      "Saving to: 'netboot.tar.gz'\r\n"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000036,
+      "\rnetboot.tar.gz        0%[                      ]       0  --.-KB/s             "
+    ],
+    [
+      0.511370,
+      "\rnetboot.tar.gz        0%[                      ]  14.26K  27.9KB/s             "
+    ],
+    [
+      0.333316,
+      "\rnetboot.tar.gz        0%[                      ]  38.08K  45.1KB/s             "
+    ],
+    [
+      0.222196,
+      "\rnetboot.tar.gz        0%[                      ]  43.37K  40.7KB/s             "
+    ],
+    [
+      0.212637,
+      "\rnetboot.tar.gz        0%[                      ]  61.90K  48.4KB/s             "
+    ],
+    [
+      0.384370,
+      "\rnetboot.tar.gz        0%[                      ]  89.68K  53.9KB/s             "
+    ],
+    [
+      0.246228,
+      "\rnetboot.tar.gz        0%[                      ] 113.50K  59.4KB/s             "
+    ],
+    [
+      0.220231,
+      "\rnetboot.tar.gz        0%[                      ] 122.77K  57.6KB/s             "
+    ],
+    [
+      0.200702,
+      "\rnetboot.tar.gz        0%[                      ] 145.26K  62.3KB/s             "
+    ],
+    [
+      0.244355,
+      "\rnetboot.tar.gz        0%[                      ] 161.14K  62.6KB/s             "
+    ],
+    [
+      0.203482,
+      "\rnetboot.tar.gz        1%[                      ] 178.34K  64.2KB/s             "
+    ],
+    [
+      0.235006,
+      "\rnetboot.tar.gz        1%[                      ] 198.19K  65.8KB/s   eta 4m 20s"
+    ],
+    [
+      0.205701,
+      "\rnetboot.tar.gz        1%[                      ] 214.07K  66.5KB/s   eta 4m 20s"
+    ],
+    [
+      0.212918,
+      "\rnetboot.tar.gz        1%[                      ] 229.95K  67.0KB/s   eta 4m 20s"
+    ],
+    [
+      0.200356,
+      "\rnetboot.tar.gz        1%[                      ] 253.77K  69.9KB/s   eta 4m 20s"
+    ],
+    [
+      0.199969,
+      "\rnetboot.tar.gz        1%[                      ] 273.62K  71.4KB/s   eta 4m 20s"
+    ],
+    [
+      0.213232,
+      "\rnetboot.tar.gz        1%[                      ] 289.49K  71.6KB/s   eta 3m 58s"
+    ],
+    [
+      0.224186,
+      "\rnetboot.tar.gz        1%[                      ] 314.64K  79.9KB/s   eta 3m 58s"
+    ],
+    [
+      0.225051,
+      "\rnetboot.tar.gz        1%[                      ] 337.13K  85.7KB/s   eta 3m 58s"
+    ],
+    [
+      0.200373,
+      "\rnetboot.tar.gz        2%[                      ] 359.63K  87.9KB/s   eta 3m 58s"
+    ],
+    [
+      0.201973,
+      "\rnetboot.tar.gz        2%[                      ] 384.77K  88.5KB/s   eta 3m 58s"
+    ],
+    [
+      0.248314,
+      "\rnetboot.tar.gz        2%[                      ] 407.26K  91.2KB/s   eta 3m 34s"
+    ],
+    [
+      0.200072,
+      "\r"
+    ],
+    [
+      0.000013,
+      "netboot.tar.gz        2%[                      ] 429.76K  92.3KB/s   eta 3m 34s"
+    ],
+    [
+      0.200414,
+      "\rnetboot.tar.gz        2%[                      ] 453.58K  97.9KB/s   eta 3m 34s"
+    ],
+    [
+      0.248557,
+      "\rnetboot.tar.gz        2%[                      ] 477.39K  96.4KB/s   eta 3m 34s"
+    ],
+    [
+      0.201158,
+      "\rnetboot.tar.gz        2%[                      ] 499.89K  99.0KB/s   eta 3m 34s"
+    ],
+    [
+      0.363081,
+      "\rnetboot.tar.gz        3%[                      ] 522.38K  95.4KB/s   eta 3m 24s"
+    ],
+    [
+      0.200038,
+      "\rnetboot.tar.gz        3%[                      ] 548.85K  98.4KB/s   eta 3m 24s"
+    ],
+    [
+      0.249782,
+      "\rnetboot.tar.gz        3%[                      ] 572.67K  98.6KB/s   eta 3m 24s"
+    ],
+    [
+      0.200050,
+      "\rnetboot.tar.gz        3%[                      ] 595.16K   102KB/s   eta 3m 24s"
+    ],
+    [
+      0.202022,
+      "\rnetboot.tar.gz        3%[                      ] 618.98K   102KB/s   eta 3m 24s"
+    ],
+    [
+      0.246382,
+      "\rnetboot.tar.gz        3%[                      ] 641.48K   103KB/s   eta 3m 14s"
+    ],
+    [
+      0.200880,
+      "\rnetboot.tar.gz        3%[                      ] 665.29K   104KB/s   eta 3m 14s"
+    ],
+    [
+      0.202919,
+      "\rnetboot.tar.gz        3%[                      ] 689.11K   105KB/s   eta 3m 14s"
+    ],
+    [
+      0.258370,
+      "\rnetboot.tar.gz        4%[                      ] 706.32K   101KB/s   eta 3m 14s"
+    ],
+    [
+      0.200219,
+      "\rnetboot.tar.gz        4%[                      ] 734.10K   104KB/s   eta 3m 14s"
+    ],
+    [
+      0.209316,
+      "\rnetboot.tar.gz        4%[                      ] 752.63K   102KB/s   eta 3m 8s "
+    ],
+    [
+      0.241140,
+      "\rnetboot.tar.gz        4%[                      ] 777.77K   102KB/s   eta 3m 8s "
+    ],
+    [
+      0.447711,
+      "\rnetboot.tar.gz        4%[\u003e                     ] 800.27K  94.8KB/s   eta 3m 8s "
+    ],
+    [
+      0.210490,
+      "\rnetboot.tar.gz        4%[\u003e                     ] 837.32K  98.7KB/s   eta 3m 8s "
+    ],
+    [
+      0.200093,
+      "\rnetboot.tar.gz        4%[\u003e                     ] 855.84K  98.1KB/s   eta 3m 5s "
+    ],
+    [
+      0.201279,
+      "\rnetboot.tar.gz        5%[\u003e                     ] 879.66K  98.6KB/s   eta 3m 5s "
+    ],
+    [
+      0.202917,
+      "\rnetboot.tar.gz        5%[\u003e                     ] 903.48K   102KB/s   eta 3m 5s "
+    ],
+    [
+      0.245966,
+      "\rnetboot.tar.gz        5%[\u003e                     ] 925.97K   101KB/s   eta 3m 5s "
+    ],
+    [
+      0.202773,
+      "\rnetboot.tar.gz        5%[\u003e                     ] 949.79K   101KB/s   eta 3m 5s "
+    ],
+    [
+      0.248094,
+      "\rnetboot.tar.gz        5%[\u003e                     ] 976.26K   102KB/s   eta 3m 0s "
+    ],
+    [
+      0.200438,
+      "\rnetboot.tar.gz        5%[\u003e                     ]   1001K   103KB/s   eta 3m 0s "
+    ],
+    [
+      0.203509,
+      "\rnetboot.tar.gz        5%[\u003e                     ]   1020K   101KB/s   eta 3m 0s "
+    ],
+    [
+      0.245473,
+      "\rnetboot.tar.gz        6%[\u003e                     ]   1.02M   101KB/s   eta 3m 0s "
+    ],
+    [
+      0.202539,
+      "\rnetboot.tar.gz        6%[\u003e                     ]   1.04M   102KB/s   eta 3m 0s "
+    ],
+    [
+      0.247888,
+      "\rnetboot.tar.gz        6%[\u003e                     ]   1.07M   103KB/s   eta 2m 55s"
+    ],
+    [
+      0.251669,
+      "\rnetboot.tar.gz        6%[\u003e                     ]   1.09M   101KB/s   eta 2m 55s"
+    ],
+    [
+      0.250043,
+      "\rnetboot.tar.gz        6%[\u003e                     ]   1.12M   105KB/s   eta 2m 55s"
+    ],
+    [
+      0.200236,
+      "\rnetboot.tar.gz        6%[\u003e                     ]   1.14M   110KB/s   eta 2m 55s"
+    ],
+    [
+      0.246865,
+      "\rnetboot.tar.gz        6%[\u003e                     ]   1.16M   106KB/s   eta 2m 55s"
+    ],
+    [
+      0.200847,
+      "\rnetboot.tar.gz        7%[\u003e                     ]   1.19M   106KB/s   eta 2m 52s"
+    ],
+    [
+      0.200063,
+      "\rnetboot.tar.gz        7%[\u003e                     ]   1.21M   106KB/s   eta 2m 52s"
+    ],
+    [
+      0.201019,
+      "\rnetboot.tar.gz        7%[\u003e                     ]   1.23M   107KB/s   eta 2m 52s"
+    ],
+    [
+      0.200012,
+      "\rnetboot.tar.gz        7%[\u003e                     ]   1.25M   107KB/s   eta 2m 52s"
+    ],
+    [
+      0.200166,
+      "\rnetboot.tar.gz        7%[\u003e                     ]   1.27M   108KB/s   eta 2m 52s"
+    ],
+    [
+      0.202781,
+      "\rnetboot.tar.gz        7%[\u003e                     ]   1.29M   108KB/s   eta 2m 49s"
+    ],
+    [
+      0.248203,
+      "\rnetboot.tar.gz        7%[\u003e                     ]   1.31M   103KB/s   eta 2m 49s"
+    ],
+    [
+      0.249803,
+      "\rnetboot.tar.gz        7%[\u003e                     ]   1.34M   105KB/s   eta 2m 49s"
+    ],
+    [
+      0.247143,
+      "\rnetboot.tar.gz        8%[\u003e                     ]   1.36M   104KB/s   eta 2m 49s"
+    ],
+    [
+      0.200864,
+      "\rnetboot.tar.gz        8%[\u003e                     ]   1.39M   105KB/s   eta 2m 49s"
+    ],
+    [
+      0.200431,
+      "\rnetboot.tar.gz        8%[\u003e                     ]   1.41M   107KB/s   eta 2m 46s"
+    ],
+    [
+      0.200129,
+      "\rnetboot.tar.gz        8%[\u003e                     ]   1.43M   106KB/s   eta 2m 46s"
+    ],
+    [
+      0.247875,
+      "\rnetboot.tar.gz        8%[\u003e                     ]   1.45M   105KB/s   eta 2m 46s"
+    ],
+    [
+      0.200217,
+      "\rnetboot.tar.gz        8%[\u003e                     ]   1.47M   105KB/s   eta 2m 46s"
+    ],
+    [
+      0.200165,
+      "\rnetboot.tar.gz        8%[\u003e                     ]   1.50M   105KB/s   eta 2m 46s"
+    ],
+    [
+      0.200834,
+      "\rnetboot.tar.gz        8%[\u003e                     ]   1.52M   108KB/s   eta 2m 44s"
+    ],
+    [
+      0.203063,
+      "\rnetboot.tar.gz        9%[=\u003e                    ]   1.55M   108KB/s   eta 2m 44s"
+    ],
+    [
+      0.245898,
+      "\rnetboot.tar.gz        9%[=\u003e                    ]   1.57M   108KB/s   eta 2m 44s"
+    ],
+    [
+      0.202430,
+      "\rnetboot.tar.gz        9%[=\u003e                    ]   1.59M   107KB/s   eta 2m 44s"
+    ],
+    [
+      0.249033,
+      "\rnetboot.tar.gz        9%[=\u003e                    ]   1.62M   108KB/s   eta 2m 44s"
+    ],
+    [
+      0.200501,
+      "\rnetboot.tar.gz        9%[=\u003e                    ]   1.64M   109KB/s   eta 2m 41s"
+    ],
+    [
+      0.248865,
+      "\rnetboot.tar.gz        9%[=\u003e                    ]   1.67M   113KB/s   eta 2m 41s"
+    ],
+    [
+      0.200108,
+      "\rnetboot.tar.gz       10%[=\u003e                    ]   1.69M   111KB/s   eta 2m 41s"
+    ],
+    [
+      0.395490,
+      "\rnetboot.tar.gz       10%[=\u003e                    ]   1.71M   103KB/s   eta 2m 41s"
+    ],
+    [
+      0.212840,
+      "\rnetboot.tar.gz       10%[=\u003e                    ]   1.75M   109KB/s   eta 2m 39s"
+    ],
+    [
+      0.201436,
+      "\rnetboot.tar.gz       10%[=\u003e                    ]   1.77M   109KB/s   eta 2m 39s"
+    ],
+    [
+      0.200695,
+      "\rnetboot.tar.gz       10%[=\u003e                    ]   1.79M   109KB/s   eta 2m 39s"
+    ],
+    [
+      0.202464,
+      "\rnetboot.tar.gz       10%[=\u003e                    ]   1.81M   110KB/s   eta 2m 39s"
+    ],
+    [
+      0.249136,
+      "\rnetboot.tar.gz       10%[=\u003e                    ]   1.84M   107KB/s   eta 2m 39s"
+    ],
+    [
+      0.247935,
+      "\rnetboot.tar.gz       11%[=\u003e                    ]   1.86M   108KB/s   eta 2m 37s"
+    ],
+    [
+      0.200198,
+      "\rnetboot.tar.gz       11%[=\u003e                    ]   1.89M   109KB/s   eta 2m 37s"
+    ],
+    [
+      0.201527,
+      "\rnetboot.tar.gz       11%[=\u003e                    ]   1.91M   108KB/s   eta 2m 37s"
+    ],
+    [
+      0.248267,
+      "\rnetboot.tar.gz       11%[=\u003e                    ]   1.93M   108KB/s   eta 2m 37s"
+    ],
+    [
+      0.200583,
+      "\rnetboot.tar.gz       11%[=\u003e                    ]   1.96M   109KB/s   eta 2m 37s"
+    ],
+    [
+      0.201023,
+      "\rnetboot.tar.gz       11%[=\u003e                    ]   1.98M   108KB/s   eta 2m 34s"
+    ],
+    [
+      0.247480,
+      "\rnetboot.tar.gz       11%[=\u003e                    ]   2.00M   107KB/s   eta 2m 34s"
+    ],
+    [
+      0.200234,
+      "\rnetboot.tar.gz       11%[=\u003e                    ]   2.03M   109KB/s   eta 2m 34s"
+    ],
+    [
+      0.200774,
+      "\rnetboot.tar.gz       12%[=\u003e                    ]   2.05M   109KB/s   eta 2m 34s"
+    ],
+    [
+      0.200576,
+      "\rnetboot.tar.gz       12%[=\u003e                    ]   2.07M   116KB/s   eta 2m 34s"
+    ],
+    [
+      0.201832,
+      "\rnetboot.tar.gz       12%[=\u003e                    ]   2.10M   112KB/s   eta 2m 32s"
+    ],
+    [
+      0.246359,
+      "\rnetboot.tar.gz       12%[=\u003e                    ]   2.12M   110KB/s   eta 2m 32s"
+    ],
+    [
+      0.200586,
+      "\rnetboot.tar.gz       12%[=\u003e                    ]   2.14M   111KB/s   eta 2m 32s"
+    ],
+    [
+      0.200296,
+      "\rnetboot.tar.gz       12%[=\u003e                    ]   2.16M   111KB/s   eta 2m 32s"
+    ],
+    [
+      0.200077,
+      "\rnetboot.tar.gz       12%[=\u003e                    ]   2.19M   112KB/s   eta 2m 32s"
+    ],
+    [
+      0.200441,
+      "\rnetboot.tar.gz       13%[=\u003e                    ]   2.21M   112KB/s   eta 2m 30s"
+    ],
+    [
+      0.200928,
+      "\rnetboot.tar.gz       13%[=\u003e                    ]   2.23M   113KB/s   eta 2m 30s"
+    ],
+    [
+      0.249952,
+      "\rnetboot.tar.gz       13%[=\u003e                    ]   2.26M   111KB/s   eta 2m 30s"
+    ],
+    [
+      0.249041,
+      "\rnetboot.tar.gz       13%[=\u003e                    ]   2.28M   111KB/s   eta 2m 30s"
+    ],
+    [
+      0.200689,
+      "\rnetboot.tar.gz       13%[==\u003e                   ]   2.31M   112KB/s   eta 2m 30s"
+    ],
+    [
+      0.201851,
+      "\rnetboot.tar.gz       13%[==\u003e                   ]   2.33M   112KB/s   eta 2m 28s"
+    ],
+    [
+      0.246734,
+      "\rnetboot.tar.gz       13%[==\u003e                   ]   2.35M   111KB/s   eta 2m 28s"
+    ],
+    [
+      0.200639,
+      "\rnetboot.tar.gz       14%[==\u003e                   ]   2.38M   112KB/s   eta 2m 28s"
+    ],
+    [
+      0.200291,
+      "\rnetboot.tar.gz       14%[==\u003e                   ]   2.40M   113KB/s   eta 2m 28s"
+    ],
+    [
+      0.200315,
+      "\rnetboot.tar.gz       14%[==\u003e                   ]   2.42M   112KB/s   eta 2m 28s"
+    ],
+    [
+      0.248295,
+      "\rnetboot.tar.gz       14%[==\u003e                   ]   2.45M   112KB/s   eta 2m 27s"
+    ],
+    [
+      0.200450,
+      "\rnetboot.tar.gz       14%[==\u003e                   ]   2.47M   111KB/s   eta 2m 27s"
+    ],
+    [
+      0.200228,
+      "\rnetboot.tar.gz       14%[==\u003e                   ]   2.49M   112KB/s   eta 2m 27s"
+    ],
+    [
+      0.200240,
+      "\rnetboot.tar.gz       14%[==\u003e                   ]   2.52M   113KB/s   eta 2m 27s"
+    ],
+    [
+      0.200368,
+      "\rnetboot.tar.gz       15%[==\u003e                   ]   2.54M   112KB/s   eta 2m 27s"
+    ],
+    [
+      0.200443,
+      "\rnetboot.tar.gz       15%[==\u003e                   ]   2.56M   112KB/s   eta 2m 25s"
+    ],
+    [
+      0.249701,
+      "\rnetboot.tar.gz       15%[==\u003e                   ]   2.58M   112KB/s   eta 2m 25s"
+    ],
+    [
+      0.200906,
+      "\rnetboot.tar.gz       15%[==\u003e                   ]   2.61M   112KB/s   eta 2m 25s"
+    ],
+    [
+      0.247789,
+      "\rnetboot.tar.gz       15%[==\u003e                   ]   2.63M   112KB/s   eta 2m 25s"
+    ],
+    [
+      0.207339,
+      "\rnetboot.tar.gz       15%[==\u003e                   ]   2.66M   112KB/s   eta 2m 25s"
+    ],
+    [
+      0.243739,
+      "\rnetboot.tar.gz       15%[==\u003e                   ]   2.67M   109KB/s   eta 2m 23s"
+    ],
+    [
+      0.248754,
+      "\rnetboot.tar.gz       15%[==\u003e                   ]   2.70M   109KB/s   eta 2m 23s"
+    ],
+    [
+      0.247514,
+      "\rnetboot.tar.gz       16%[==\u003e                   ]   2.73M   108KB/s   eta 2m 23s"
+    ],
+    [
+      0.200372,
+      "\rnetboot.tar.gz       16%[==\u003e                   ]   2.75M   108KB/s   eta 2m 23s"
+    ],
+    [
+      0.200198,
+      "\rnetboot.tar.gz       16%[==\u003e                   ]   2.77M   108KB/s   eta 2m 23s"
+    ],
+    [
+      0.200177,
+      "\rnetboot.tar.gz       16%[==\u003e                   ]   2.79M   108KB/s   eta 2m 22s"
+    ],
+    [
+      0.200256,
+      "\rnetboot.tar.gz       16%[==\u003e                   ]   2.82M   108KB/s   eta 2m 22s"
+    ],
+    [
+      0.200889,
+      "\rnetboot.tar.gz       16%[==\u003e                   ]   2.83M   106KB/s   eta 2m 22s"
+    ],
+    [
+      0.200116,
+      "\rnetboot.tar.gz       16%[==\u003e                   ]   2.86M   107KB/s   eta 2m 22s"
+    ],
+    [
+      0.200930,
+      "\rnetboot.tar.gz       17%[==\u003e                   ]   2.88M   109KB/s   eta 2m 22s"
+    ],
+    [
+      0.228615,
+      "^C"
+    ],
+    [
+      0.009431,
+      "\r\n"
+    ],
+    [
+      0.013320,
+      "/tmp/tftpboot $ "
+    ],
+    [
+      2.000000,
+      "m"
+    ],
+    [
+      0.116010,
+      "v"
+    ],
+    [
+      0.307849,
+      " "
+    ],
+    [
+      0.808084,
+      "."
+    ],
+    [
+      0.154131,
+      "."
+    ],
+    [
+      0.171842,
+      "/"
+    ],
+    [
+      2.000000,
+      "n"
+    ],
+    [
+      0.167012,
+      "e"
+    ],
+    [
+      0.287982,
+      "tboot.tar.gz "
+    ],
+    [
+      1.178021,
+      "."
+    ],
+    [
+      0.317036,
+      "\r\n"
+    ],
+    [
+      0.025734,
+      "/tmp/tftpboot $ "
+    ],
+    [
+      1.864167,
+      "\u001b[H\u001b[2J/tmp/tftpboot $ "
+    ],
+    [
+      0.360869,
+      "l"
+    ],
+    [
+      0.096010,
+      "s"
+    ],
+    [
+      0.175168,
+      "\r\n"
+    ],
+    [
+      0.004587,
+      "netboot.tar.gz\r\n"
+    ],
+    [
+      0.010937,
+      "/tmp/tftpboot $ "
+    ],
+    [
+      1.958473,
+      "c"
+    ],
+    [
+      0.171750,
+      "a"
+    ],
+    [
+      0.130185,
+      "t"
+    ],
+    [
+      0.206027,
+      " "
+    ],
+    [
+      1.173878,
+      "\u003e"
+    ],
+    [
+      0.267495,
+      " "
+    ],
+    [
+      1.470617,
+      "d"
+    ],
+    [
+      0.182197,
+      "n"
+    ],
+    [
+      0.121555,
+      "s"
+    ],
+    [
+      0.496090,
+      "m"
+    ],
+    [
+      0.215087,
+      "a"
+    ],
+    [
+      0.155854,
+      "s"
+    ],
+    [
+      0.293093,
+      "q"
+    ],
+    [
+      0.578114,
+      "."
+    ],
+    [
+      1.289915,
+      "c"
+    ],
+    [
+      0.059885,
+      "o"
+    ],
+    [
+      0.088100,
+      "n"
+    ],
+    [
+      0.064026,
+      "f"
+    ],
+    [
+      1.422862,
+      "\r\n"
+    ],
+    [
+      2.000000,
+      "no-daemon\r\ninterface=en0\r\nbind-interfaces\r\ndhcp-range=192.168.1.100,192.168.1.254,12h\r\ndhcp-boot=pxelinux.0\r\ndhcp-host=08:00:27:2d:a4:5a,kali,192.168.1.111\r\ndhcp-leasefile=dnsmasq.leases\r\nenable-tftp\r\ntftp-root=/tmp/tftpboot/"
+    ],
+    [
+      1.228550,
+      "\r\n"
+    ],
+    [
+      1.232585,
+      "^D\u0008\u0008"
+    ],
+    [
+      0.012998,
+      "/tmp/tftpboot $ "
+    ],
+    [
+      0.456792,
+      "\r\n"
+    ],
+    [
+      0.012159,
+      "/tmp/tftpboot $ "
+    ],
+    [
+      1.017957,
+      "l"
+    ],
+    [
+      0.080035,
+      "s"
+    ],
+    [
+      0.214025,
+      "\r\n"
+    ],
+    [
+      0.013023,
+      "dnsmasq.conf   netboot.tar.gz\r\n"
+    ],
+    [
+      0.013264,
+      "/tmp/tftpboot $ "
+    ],
+    [
+      2.000000,
+      "t"
+    ],
+    [
+      0.111775,
+      "a"
+    ],
+    [
+      0.111993,
+      "r"
+    ],
+    [
+      0.437924,
+      " "
+    ],
+    [
+      0.932033,
+      "x"
+    ],
+    [
+      0.148954,
+      "z"
+    ],
+    [
+      0.221068,
+      "f"
+    ],
+    [
+      0.270100,
+      " "
+    ],
+    [
+      0.589747,
+      "n"
+    ],
+    [
+      0.116239,
+      "e"
+    ],
+    [
+      0.123863,
+      "t"
+    ],
+    [
+      0.184135,
+      "boot.tar.gz "
+    ],
+    [
+      2.000000,
+      "\r\n"
+    ],
+    [
+      0.222616,
+      "/tmp/tftpboot $ "
+    ],
+    [
+      1.787316,
+      "\u001b[H\u001b[2J/tmp/tftpboot $ "
+    ],
+    [
+      0.217973,
+      "l"
+    ],
+    [
+      0.088101,
+      "s"
+    ],
+    [
+      0.187926,
+      "\r\n"
+    ],
+    [
+      0.004861,
+      "\u001b[34mdebian-installer\u001b[39;49m\u001b[0m \u001b[35mldlinux.c32\u001b[39;49m\u001b[0m      \u001b[35mpxelinux.0\u001b[39;49m\u001b[0m       version.info\r\n"
+    ],
+    [
+      0.000016,
+      "dnsmasq.conf     netboot.tar.gz   \u001b[35mpxelinux.cfg\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.010910,
+      "/tmp/tftpboot $ "
+    ],
+    [
+      2.000000,
+      "\r\n"
+    ],
+    [
+      0.012299,
+      "/tmp/tftpboot $ "
+    ],
+    [
+      0.194413,
+      "t"
+    ],
+    [
+      0.189198,
+      "r"
+    ],
+    [
+      0.180980,
+      "e"
+    ],
+    [
+      0.144727,
+      "e"
+    ],
+    [
+      0.210296,
+      " "
+    ],
+    [
+      0.266990,
+      "-"
+    ],
+    [
+      1.368003,
+      "L"
+    ],
+    [
+      2.000000,
+      " "
+    ],
+    [
+      0.243307,
+      "2"
+    ],
+    [
+      0.751956,
+      " "
+    ],
+    [
+      1.455716,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.143235,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.138750,
+      "3"
+    ],
+    [
+      0.230023,
+      " "
+    ],
+    [
+      0.284278,
+      "-"
+    ],
+    [
+      0.142066,
+      "d"
+    ],
+    [
+      0.346826,
+      "\r\n"
+    ],
+    [
+      0.018146,
+      ".\r\n"
+    ],
+    [
+      0.000063,
+      "├── debian-installer\r\n"
+    ],
+    [
+      0.000108,
+      "│   └── amd64\r\n"
+    ],
+    [
+      0.000011,
+      "│       ├── boot-screens\r\n"
+    ],
+    [
+      0.000018,
+      "│       └── pxelinux.cfg\r\n"
+    ],
+    [
+      0.000041,
+      "└── pxelinux.cfg -\u003e debian-installer/amd64/pxelinux.cfg\r\n\r\n"
+    ],
+    [
+      0.000008,
+      "5 directories\r\n"
+    ],
+    [
+      0.012994,
+      "/tmp/tftpboot $ "
+    ],
+    [
+      2.000000,
+      "tree -L 3 -d"
+    ],
+    [
+      2.000000,
+      "\u0008\u0008\u001b[K"
+    ],
+    [
+      0.699850,
+      "\r\n"
+    ],
+    [
+      0.005902,
+      ".\r\n"
+    ],
+    [
+      0.000038,
+      "├── debian-installer\r\n"
+    ],
+    [
+      0.000126,
+      "│   └── amd64\r\n"
+    ],
+    [
+      0.000013,
+      "│       ├── boot-screens\r\n│       ├── initrd.gz\r\n"
+    ],
+    [
+      0.000008,
+      "│       ├── linux\r\n"
+    ],
+    [
+      0.000034,
+      "│       ├── pxelinux.0\r\n"
+    ],
+    [
+      0.000011,
+      "│       └── pxelinux.cfg\r\n"
+    ],
+    [
+      0.000007,
+      "├── dnsmasq.conf\r\n"
+    ],
+    [
+      0.000068,
+      "├── ldlinux.c32 -\u003e debian-installer/amd64/boot-screens/ldlinux.c32\r\n"
+    ],
+    [
+      0.000008,
+      "├── netboot.tar.gz\r\n"
+    ],
+    [
+      0.000062,
+      "├── pxelinux.0 -\u003e debian-installer/amd64/pxelinux.0\r\n├── pxelinux.cfg -\u003e debian-installer/amd64/pxelinux.cfg\r\n"
+    ],
+    [
+      0.000010,
+      "└── version.info\r\n\r\n"
+    ],
+    [
+      0.000009,
+      "5 directories, 8 files\r\n"
+    ],
+    [
+      0.010295,
+      "/tmp/tftpboot $ "
+    ],
+    [
+      2.000000,
+      "\u001b[H\u001b[2J/tmp/tftpboot $ "
+    ],
+    [
+      1.231710,
+      "s"
+    ],
+    [
+      0.129325,
+      "u"
+    ],
+    [
+      0.067752,
+      "d"
+    ],
+    [
+      0.080086,
+      "o"
+    ],
+    [
+      0.136205,
+      " "
+    ],
+    [
+      0.293969,
+      "p"
+    ],
+    [
+      0.749101,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.492983,
+      "d"
+    ],
+    [
+      0.148690,
+      "n"
+    ],
+    [
+      0.096234,
+      "s"
+    ],
+    [
+      0.502038,
+      "m"
+    ],
+    [
+      0.179974,
+      "a"
+    ],
+    [
+      0.157027,
+      "s"
+    ],
+    [
+      0.246144,
+      "q"
+    ],
+    [
+      0.275869,
+      " "
+    ],
+    [
+      0.263758,
+      "-"
+    ],
+    [
+      0.309140,
+      "C"
+    ],
+    [
+      0.250781,
+      " "
+    ],
+    [
+      0.205248,
+      "d"
+    ],
+    [
+      0.092002,
+      "n"
+    ],
+    [
+      0.143092,
+      "smasq.conf "
+    ],
+    [
+      1.103851,
+      "\r\n"
+    ],
+    [
+      0.045900,
+      "dnsmasq: started, version 2.72 cachesize 150\r\n"
+    ],
+    [
+      0.000202,
+      "dnsmasq: compile time options: IPv6 GNU-getopt no-DBus no-i18n no-IDN DHCP DHCPv6 no-Lua TFTP no-conntrack no-ipset auth no-DNSSEC loop-detect\r\n"
+    ],
+    [
+      0.000522,
+      "dnsmasq-dhcp: DHCP, IP range 192.168.1.100 -- 192.168.1.254, lease time 12h\r\n"
+    ],
+    [
+      0.000256,
+      "dnsmasq-tftp: TFTP root is /tmp/tftpboot/ \r\n"
+    ],
+    [
+      0.000733,
+      "dnsmasq: reading /etc/resolv.conf\r\n"
+    ],
+    [
+      0.000009,
+      "dnsmasq: using nameserver 192.168.1.2#53\r\n"
+    ],
+    [
+      0.000350,
+      "dnsmasq: read /etc/hosts - 18 addresses\r\n"
+    ],
+    [
+      2.000000,
+      "dnsmasq-dhcp: DHCPDISCOVER(en0) 08:00:27:2d:a4:5a \r\n"
+    ],
+    [
+      0.000044,
+      "dnsmasq-dhcp: DHCPOFFER(en0) 192.168.1.111 08:00:27:2d:a4:5a \r\n"
+    ],
+    [
+      1.974946,
+      "dnsmasq-dhcp: DHCPREQUEST(en0) 192.168.1.111 08:00:27:2d:a4:5a \r\n"
+    ],
+    [
+      0.008427,
+      "dnsmasq-dhcp: DHCPACK(en0) 192.168.1.111 08:00:27:2d:a4:5a kali\r\n"
+    ],
+    [
+      0.095162,
+      "dnsmasq-tftp: error 0 TFTP Aborted received from 192.168.1.111\r\n"
+    ],
+    [
+      0.000012,
+      "dnsmasq-tftp: failed sending /tmp/tftpboot/pxelinux.0 to 192.168.1.111\r\n"
+    ],
+    [
+      0.105405,
+      "dnsmasq-tftp: sent /tmp/tftpboot/pxelinux.0 to 192.168.1.111\r\n"
+    ],
+    [
+      0.716741,
+      "dnsmasq-tftp: sent /tmp/tftpboot/ldlinux.c32 to 192.168.1.111"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.104820,
+      "dnsmasq-tftp: file /tmp/tftpboot/pxelinux.cfg/42e0b25c-834a-4929-8d5e-f8faa41cbbea not found\r\n"
+    ],
+    [
+      0.000576,
+      "dnsmasq-tftp: file /tmp/tftpboot/pxelinux.cfg/01-08-00-27-2d-a4-5a not found\r\n"
+    ],
+    [
+      0.000374,
+      "dnsmasq-tftp: file /tmp/tftpboot/pxelinux.cfg/C0A8016F not found\r\n"
+    ],
+    [
+      0.000351,
+      "dnsmasq-tftp: file /tmp/tftpboot/pxelinux.cfg/C0A8016 not found\r\n"
+    ],
+    [
+      0.094369,
+      "dnsmasq-tftp: file /tmp/tftpboot/pxelinux.cfg/C0A801 not found\r\n"
+    ],
+    [
+      0.000701,
+      "dnsmasq-tftp: file /tmp/tftpboot/pxelinux.cfg/C0A80 not found\r\n"
+    ],
+    [
+      0.000632,
+      "dnsmasq-tftp: file /tmp/tftpboot/pxelinux.cfg/C0A8 not found\r\n"
+    ],
+    [
+      0.000519,
+      "dnsmasq-tftp: file /tmp/tftpboot/pxelinux.cfg/C0A not found\r\n"
+    ],
+    [
+      0.000562,
+      "dnsmasq-tftp: file /tmp/tftpboot/pxelinux.cfg/C0 not found\r\n"
+    ],
+    [
+      0.000525,
+      "dnsmasq-tftp: file /tmp/tftpboot/pxelinux.cfg/C not found\r\n"
+    ],
+    [
+      0.098931,
+      "dnsmasq-tftp: sent /tmp/tftpboot/pxelinux.cfg/default to 192.168.1.111\r\n"
+    ],
+    [
+      0.001488,
+      "dnsmasq-tftp: sent /tmp/tftpboot/debian-installer/amd64/boot-screens/menu.cfg to 192.168.1.111\r\n"
+    ],
+    [
+      0.001193,
+      "dnsmasq-tftp: sent /tmp/tftpboot/debian-installer/amd64/boot-screens/stdmenu.cfg to 192.168.1.111\r\n"
+    ],
+    [
+      0.001660,
+      "dnsmasq-tftp: sent /tmp/tftpboot/debian-installer/amd64/boot-screens/txt.cfg to 192.168.1.111\r\n"
+    ],
+    [
+      0.000163,
+      "dnsmasq-tftp: file /tmp/tftpboot/debian-installer/amd64/boot-screens/amdtxt.cfg not found\r\n"
+    ],
+    [
+      0.000469,
+      "dnsmasq-tftp: file /tmp/tftpboot/debian-installer/amd64/boot-screens/gtk.cfg not found\r\n"
+    ],
+    [
+      0.000443,
+      "dnsmasq-tftp: file /tmp/tftpboot/debian-installer/amd64/boot-screens/amdgtk.cfg not found\r\n"
+    ],
+    [
+      0.000936,
+      "dnsmasq-tftp: sent /tmp/tftpboot/debian-installer/amd64/boot-screens/stdmenu.cfg to 192.168.1.111\r\n"
+    ],
+    [
+      0.096439,
+      "dnsmasq-tftp: sent /tmp/tftpboot/debian-installer/amd64/boot-screens/adtxt.cfg to 192.168.1.111\r\n"
+    ],
+    [
+      0.009123,
+      "dnsmasq-tftp: sent /tmp/tftpboot/debian-installer/amd64/boot-screens/rqtxt.cfg to 192.168.1.111"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.096208,
+      "dnsmasq-tftp: file /tmp/tftpboot/debian-installer/amd64/boot-screens/amdadtxt.cfg not found\r\n"
+    ],
+    [
+      0.000714,
+      "dnsmasq-tftp: file /tmp/tftpboot/debian-installer/amd64/boot-screens/adgtk.cfg not found\r\n"
+    ],
+    [
+      0.000830,
+      "dnsmasq-tftp: file /tmp/tftpboot/debian-installer/amd64/boot-screens/amdadgtk.cfg not found\r\n"
+    ],
+    [
+      0.104182,
+      "dnsmasq-tftp: sent /tmp/tftpboot/debian-installer/amd64/boot-screens/spk.cfg to 192.168.1.111\r\n"
+    ],
+    [
+      0.000381,
+      "dnsmasq-tftp: file /tmp/tftpboot/debian-installer/amd64/boot-screens/amdspk.cfg not found\r\n"
+    ],
+    [
+      0.000538,
+      "dnsmasq-tftp: file /tmp/tftpboot/debian-installer/amd64/boot-screens/spkgtk.cfg not found\r\n"
+    ],
+    [
+      0.000483,
+      "dnsmasq-tftp: file /tmp/tftpboot/debian-installer/amd64/boot-screens/amdspgtk.cfg not found\r\n"
+    ],
+    [
+      0.104841,
+      "dnsmasq-tftp: sent /tmp/tftpboot/debian-installer/amd64/boot-screens/vesamenu.c32 to 192.168.1.111\r\n"
+    ],
+    [
+      0.000284,
+      "dnsmasq-tftp: file /tmp/tftpboot/libcom32.c32 not found\r\n"
+    ],
+    [
+      0.516838,
+      "dnsmasq-tftp: sent /tmp/tftpboot/debian-installer/amd64/boot-screens/libcom32.c32 to 192.168.1.111\r\n"
+    ],
+    [
+      0.004453,
+      "dnsmasq-tftp: file /tmp/tftpboot/libutil.c32 not found\r\n"
+    ],
+    [
+      0.203012,
+      "dnsmasq-tftp: sent /tmp/tftpboot/debian-installer/amd64/boot-screens/libutil.c32 to 192.168.1.111\r\n"
+    ],
+    [
+      0.099894,
+      "dnsmasq-tftp: sent /tmp/tftpboot/pxelinux.cfg/default to 192.168.1.111\r\n"
+    ],
+    [
+      0.000800,
+      "dnsmasq-tftp: sent /tmp/tftpboot/debian-installer/amd64/boot-screens/menu.cfg to 192.168.1.111\r\n"
+    ],
+    [
+      0.000835,
+      "dnsmasq-tftp: sent /tmp/tftpboot/debian-installer/amd64/boot-screens/stdmenu.cfg to 192.168.1.111\r\n"
+    ],
+    [
+      0.000747,
+      "dnsmasq-tftp: sent /tmp/tftpboot/debian-installer/amd64/boot-screens/txt.cfg to 192.168.1.111\r\n"
+    ],
+    [
+      0.000134,
+      "dnsmasq-tftp: file /tmp/tftpboot/debian-installer/amd64/boot-screens/amdtxt.cfg not found\r\n"
+    ],
+    [
+      0.000373,
+      "dnsmasq-tftp: file /tmp/tftpboot/debian-installer/amd64/boot-screens/gtk.cfg not found\r\n"
+    ],
+    [
+      0.000398,
+      "dnsmasq-tftp: file /tmp/tftpboot/debian-installer/amd64/boot-screens/amdgtk.cfg not found\r\n"
+    ],
+    [
+      0.000906,
+      "dnsmasq-tftp: sent /tmp/tftpboot/debian-installer/amd64/boot-screens/stdmenu.cfg to 192.168.1.111\r\n"
+    ],
+    [
+      0.000743,
+      "dnsmasq-tftp: sent /tmp/tftpboot/debian-installer/amd64/boot-screens/adtxt.cfg to 192.168.1.111\r\n"
+    ],
+    [
+      0.000655,
+      "dnsmasq-tftp: sent /tmp/tftpboot/debian-installer/amd64/boot-screens/rqtxt.cfg to 192.168.1.111\r\n"
+    ],
+    [
+      0.000149,
+      "dnsmasq-tftp: file /tmp/tftpboot/debian-installer/amd64/boot-screens/amdadtxt.cfg not found\r\n"
+    ],
+    [
+      0.000318,
+      "dnsmasq-tftp: file /tmp/tftpboot/debian-installer/amd64/boot-screens/adgtk.cfg not found\r\n"
+    ],
+    [
+      0.000314,
+      "dnsmasq-tftp: file /tmp/tftpboot/debian-installer/amd64/boot-screens/amdadgtk.cfg not found\r\n"
+    ],
+    [
+      0.000730,
+      "dnsmasq-tftp: sent /tmp/tftpboot/debian-installer/amd64/boot-screens/spk.cfg to 192.168.1.111\r\n"
+    ],
+    [
+      0.000137,
+      "dnsmasq-tftp: file /tmp/tftpboot/debian-installer/amd64/boot-screens/amdspk.cfg not found\r\n"
+    ],
+    [
+      0.091728,
+      "dnsmasq-tftp: file /tmp/tftpboot/debian-installer/amd64/boot-screens/spkgtk.cfg not found\r\n"
+    ],
+    [
+      0.000439,
+      "dnsmasq-tftp: file /tmp/tftpboot/debian-installer/amd64/boot-screens/amdspgtk.cfg not found\r\n"
+    ],
+    [
+      2.000000,
+      "dnsmasq-tftp: sent /tmp/tftpboot/debian-installer/amd64/boot-screens/splash.png to 192.168.1.111\r\n"
+    ],
+    [
+      2.000000,
+      "^C"
+    ],
+    [
+      0.031780,
+      "/tmp/tftpboot $ "
+    ],
+    [
+      0.941569,
+      "exit\r\n"
+    ]
+  ]
+}
