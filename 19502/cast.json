@@ -1,0 +1,422 @@
+{
+  "version": 1,
+  "width": 44,
+  "height": 25,
+  "duration": 8.807177,
+  "command": "/usr/local/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/usr/local/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.198275,
+      "t"
+    ],
+    [
+      0.073235,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                           \r \r"
+    ],
+    [
+      0.000035,
+      "\u001b]2;david@Nine: ~\u0007"
+    ],
+    [
+      0.000030,
+      "\u001b]1;~\u0007"
+    ],
+    [
+      0.000068,
+      "\u001b]7;file:///Users/david\u0007"
+    ],
+    [
+      0.021473,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36m~ \u001b[01;34m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000007,
+      "\u001b[K"
+    ],
+    [
+      0.000098,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000568,
+      "t"
+    ],
+    [
+      0.012649,
+      "\u0008tm"
+    ],
+    [
+      0.178810,
+      "u"
+    ],
+    [
+      0.095800,
+      "x"
+    ],
+    [
+      0.176066,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000061,
+      "\r\r\n"
+    ],
+    [
+      0.000692,
+      "\u001b]2;tmux\u0007"
+    ],
+    [
+      0.000006,
+      "\u001b]1;tmux\u0007"
+    ],
+    [
+      0.008471,
+      "\u001b[?1049h\u001b(B\u001b[m\u001b[?1l\u001b\u003e\u001b[H\u001b[2J\u001b[?12l\u001b[?25h\u001b[?1000l\u001b[?1006l\u001b[?1005l\u001b[c\u001b]112\u0007\u001b[?25l\u001b[1;1H\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[38;5;248m\u001b[48;5;241m[3] 0:zsh*                            pane:0\u001b(B\u001b[m\u001b[25;1H\u001b[1;25r\u001b[H\u001b[?12l\u001b[?25h\u001b[?1005h\u001b[?1006h\u001b[?1000h"
+    ],
+    [
+      0.207258,
+      "\u001b[1;24rc\u001b[1;25r\u001b[H\u001b[C"
+    ],
+    [
+      0.059576,
+      "\u001b[1;24r\u001b[H\u001b[C\u001b[1m\u001b[7m%\u001b(B\u001b[m                                           \r \u001b[1;25r\u001b[H\r\n"
+    ],
+    [
+      0.000380,
+      "\u001b[?25l\u001b[25d\u001b[38;5;248m\u001b[48;5;241m[3] 0:~*                              pane:0\u001b(B\u001b[m\u001b[2;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.020622,
+      "\u001b[1;24r\u001b[H\r\n\u001b[K\r\n\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[2d\u001b[32m\u001b[1m➜  \u001b[36m~ \u001b[34m \u001b(B\u001b[m\u001b[K\u001b[1;25r\u001b[H\u001b[2;7H\u001b[?1h\u001b="
+    ],
+    [
+      0.000691,
+      "\u001b[1;24r\u001b[H\u001b[2;7Hc\u001b[1;25r\u001b[H\u001b[2;8H"
+    ],
+    [
+      0.031321,
+      "\u001b[1;24r\u001b[H\u001b[2;7Hca\u001b[1;25r\u001b[H\u001b[2;9H"
+    ],
+    [
+      0.087508,
+      "\u001b[1;24r\u001b[H\u001b[2;9Ht\u001b[1;25r\u001b[H\u001b[2;10H"
+    ],
+    [
+      0.080028,
+      "\u001b[1;24r\u001b[H\u001b[2;10H \u001b[1;25r\u001b[H\u001b[2;11H"
+    ],
+    [
+      0.040050,
+      "\u001b[1;24r\u001b[H\u001b[2;11H.\u001b[1;25r\u001b[H\u001b[2;12H"
+    ],
+    [
+      0.183872,
+      "\u001b[1;24r\u001b[H\u001b[2;12Ht\u001b[1;25r\u001b[H\u001b[2;13H"
+    ],
+    [
+      0.047986,
+      "\u001b[1;24r\u001b[H\u001b[2;13Hm\u001b[1;25r\u001b[H\u001b[2;14H"
+    ],
+    [
+      0.152353,
+      "\u001b[1;24r\u001b[H\u001b[2;14Hux.conf\u001b[1m \u001b[1;25r\u001b[H\u001b[2;22H\u001b(B\u001b[m"
+    ],
+    [
+      0.471612,
+      "\u001b[1;24r\u001b[H\u001b[2;21H \u001b[1;25r\u001b[H\u001b[2;21H\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000136,
+      "\r\n"
+    ],
+    [
+      0.001094,
+      "\u001b[?25l\u001b[25d\u001b[38;5;248m\u001b[48;5;241m[3] 0:cat*                            pane:0\u001b(B\u001b[m\u001b[3;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.002846,
+      "\u001b[1;24r\u001b[H\u001b[2B# edit HEAD 'url' in brew:\r\n# brew edit tmux\r\n# set to https://github.com/dv/tmux.git\r\n# then install\r\n# brew install tmux --HEAD\u001b[9;1Hunbind C-b\r\nset -g prefix C-s\u001b[12;1H# Vim keys in COPY and CHOICE mode\r\nset-window-option -g mode-keys vi\u001b[15;1H# Use emacs in tmux status bar\r\nset-option -g status-keys \"emacs\"\u001b[18;1H# Key bindings to navigate panes without prefix\r\nbind-key -n C-h select-pane -L\r\nbind-key -n C-j select-pane -D\r\nbind-key -n C-k select-pane -U\r\nbind-key -n C-l select-pane -R\r\n\nbind-key r source \"/Users/david/.tmux.conf\"\r\n\n# Fancy colours\r\nset-option -g default-terminal \"screen-256color\"\r\n\n# Set color of tmux status bar\r\nset -g status-bg '#666666'\r\nset -g status-fg '#aaaaaa'\r\n\n# Allow 50 chars in left status\r\nset -g status-left-length 50\r\n\n# Show current pane in right status\r\nset-option -g status-right \"pane:#P\"\r\n\n# - splits pane vertical\r\n# | splits pane horizontal\r\nbind-key - split-window -v -c '#{pane_current_path}'\r\nbind-key \\ split-window -h -c '#{pane_current_path}'\r\n\n# if ru"
+    ],
+    [
+      0.000403,
+      "n as \"tmux attach\"\u001b[1;25r\u001b[H\u001b[24;26H\u001b[1;24r\u001b[H\u001b[24;26H, create a session if one does not already exist\r\nnew-session -n $HOST\r\n\n# Lower escape timing from 500ms to 50ms for quicker response to scroll-buffer access.\r\nset -s escape-time 50\r\n\n# Mouse support for scrolling\r\n# Install EasySIMBL and MouseTerm\r\nset-option -g mouse on\r\n\nset -g mode-mouse on\r\nset -g mouse-resize-pane on\r\nset -g mouse-select-pane on\r\nset -g mouse-select-window on\r\n\n# Start copy mode when scrolling up\r\nbind -n WheelUpPane copy-mode\r\n\n# Enable our custom option to exit copy mode when scrolling past bottom\r\nset-window-option -g exit-copy-past-bottom on\r\n\u001b[1m\u001b[7m%\u001b(B\u001b[m                                           \u001b[24;1H \u001b[1;25r\u001b[H\u001b[24d"
+    ],
+    [
+      0.000446,
+      "\u001b[?25l\r\n\u001b[38;5;248m\u001b[48;5;241m[3] 0:~*                              pane:0\u001b(B\u001b[m\u001b[24;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.017898,
+      "\u001b[1;24r\u001b[H\u001b[24d\u001b[K\u001b[32m\u001b[1m➜  \u001b[36m~ \u001b[34m \u001b[1;25r\u001b[H\u001b[24;7H\u001b(B\u001b[m\u001b[K"
+    ],
+    [
+      0.000008,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      2.162111,
+      "\u001b[?25l\u001b[Hset-option -g status-right \"pane:#P\" \u001b[30m\u001b[43m[10/48]\u001b[2;1H\u001b(B\u001b[m\u001b[K\r\n# - splits pane vertical\u001b[K\r\n# | splits pane horizontal\u001b[K\r\nbind-key - split-window -v -c '#{pane_curren\u001b[6;1Ht_path}'\u001b[K\r\nbind-key \\ split-window -h -c '#{pane_curren\u001b[8;1Ht_path}'\u001b[K\r\n\u001b[K\r\n# if run as \"tmux attach\", create a session \u001b[11;1Hif one does not already exist\u001b[K\r\nnew-session -n $HOST\u001b[K\r\n\u001b[K\r\n# Lower escape timing from 500ms to 50ms for\u001b[15;1H quicker response to scroll-buffer access.\u001b[K\r\nset -s escape-time 50\u001b[K\r\n\u001b[K\r\n# Mouse support for scrolling\u001b[K\r\n# Install EasySIMBL and MouseTerm\u001b[K\r\nset-option -g mouse on\u001b[K\r\n\u001b[K\r\nset -g mode-mouse on\u001b[K\r\nset -g mouse-resize-pane on\u001b[K\r\nset -g mouse-select-pane on\u001b[K\u001b[?12l\u001b[?25h\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.047721,
+      "\u001b[1;24r\u001b[H\u001b[1L\u001b[37C\u001b[30m\u001b[43m[11/48]\u001b[1;1H\u001b[39m\u001b[49m# Show current pane in right status  \r\nset-option -g status-right \"pane:#P\"\u001b[K\u001b[24;1Hset -g mouse-resize-pane on\u001b[K\u001b[H\u001b[1L\u001b[37C\u001b[30m\u001b[43m[12/48]\u001b[1;1H\u001b[39m\u001b[49m                                     \r\n# Show current pane in right status\u001b[K\u001b[24;1Hset -g mode-mouse on\u001b[K\u001b[H\u001b[1L\u001b[37C\u001b[30m\u001b[43m[13/48]\u001b[1;1H\u001b[39m\u001b[49mset -g status-left-length 50         \r\n\u001b[K\u001b[24d\u001b[K\u001b[H\u001b[1L\u001b[37C\u001b[30m\u001b[43m[14/48]\u001b[1;1H\u001b[39m\u001b[49m# Allow 50 chars in left status      \r\nset -g status-left-length 50\u001b[K\u001b[24;1Hset-option -g mouse on\u001b[K\u001b[H\u001b[1L\u001b[37C\u001b[30m\u001b[43m[15/48]\u001b[1;1H\u001b[39m\u001b[49m                                     \r\n# Allow 50 chars in left status\u001b[K\u001b[24;1H# Install EasySIMBL and MouseTerm\u001b[K\u001b[H\u001b[1L\u001b[37C\u001b[30m\u001b[43m[16/48]\u001b[1;1H\u001b[39m\u001b[49mset -g status-fg '#aaaaaa'           \r\n\u001b[K\u001b[24d# Mouse support for scrolling\u001b[K\u001b[H\u001b[1L\u001b[37C\u001b[30m\u001b[43m[17/48]\u001b[1;1H\u001b[39m\u001b[49mset -g status-bg '#666666'           \r\nset -g status-fg '#aaaaaa'\u001b[K\u001b[24;1H\u001b[K\u001b[H\u001b[1L\u001b[37C\u001b[30m\u001b[43m[18/48]\u001b[1;1H\u001b[39m\u001b[49m# Set colo"
+    ],
+    [
+      0.000018,
+      "r of tmux status bar       \r\nset -g status-bg '#666666'\u001b[K\u001b[24;1Hset -s escape-time 50\u001b[K\u001b[H\u001b[1L\u001b[37C\u001b[30m\u001b[43m[19/48]\u001b[1;1H\u001b[39m\u001b[49m                                     \r\n# Set color of tmux status bar\u001b[K\u001b[24;1H quicker response to scroll-buffer access.\u001b[K\u001b[H\u001b[1L\u001b[37C\u001b[30m\u001b[43m[20/48]\u001b[1;1H\u001b[39m\u001b[49mlor\"                                 \r\n\u001b[K\u001b[24d# Lower escape timing from 500ms to 50ms for\u001b[24;1H# Lower escape timing from 500ms to 50ms for\u001b[24;44H$\u001b[24;1H\u001b[1;25r\u001b[H\u001b[24;44H"
+    ],
+    [
+      0.168919,
+      "\u001b[1;24r\u001b[H\u001b[1L\u001b[37C\u001b[30m\u001b[43m[21/48]\u001b[1;1H\u001b[39m\u001b[49mset-option -g default-terminal \"scree\r\nlor\"\u001b[K\u001b[24;1H\u001b[K\u001b[H\u001b[1L\u001b[37C\u001b[30m\u001b[43m[22/48]\u001b[1;1H\u001b[39m\u001b[49m# Fancy colours                      \r\nset-option -g default-terminal \"screen-256co\u001b[24;1Hnew-session -n $HOST\u001b[K\u001b[H\u001b[1L\u001b[37C\u001b[30m\u001b[43m[23/48]\u001b[1;1H\u001b[39m\u001b[49m                                     \r\n# Fancy colours\u001b[K\u001b[24;1Hif one does not already exist\u001b[K\u001b[H\u001b[1L\u001b[37C\u001b[30m\u001b[43m[24/48]\u001b[1;1H\u001b[39m\u001b[49mbind-key r source \"/Users/david/.tmux\r\n\u001b[K\u001b[24d# if run as \"tmux attach\", create a session \u001b[1;1H\u001b[1L\u001b[37C\u001b[30m\u001b[43m[25/48]\u001b[1;1H\u001b[39m\u001b[49m                                     \r\nbind-key r source \"/Users/david/.tmux.conf\"\u001b[K\u001b[24;1H\u001b[K\u001b[H\u001b[1L\u001b[37C\u001b[30m\u001b[43m[26/48]\u001b[1;1H\u001b[39m\u001b[49mbind-key -n C-l select-pane -R       \r\n\u001b[K\u001b[24dt_path}'\u001b[K\u001b[H\u001b[1L\u001b[37C\u001b[30m\u001b[43m[27/48]\u001b[1;1H\u001b[39m\u001b[49mbind-key -n C-k select-pane -U       \r\nbind-key -n C-l select-pane -R\u001b[K\u001b[24;1Hbind-key \\ split-window -h -c '#{pane_curren\u001b[24;1Hbind-key \\ split-window -h -c '#{pane_curren\u001b[24;44H$\u001b[1;1H\u001b"
+    ],
+    [
+      0.000109,
+      "[1L\u001b[37C\u001b[30m\u001b[43m[28/48]\u001b[1;1H\u001b[39m\u001b[49mbind-key -n C-j select-pane -D       \r\nbind-key -n C-k select-pane -U\u001b[K\u001b[24;1Ht_path}'\u001b[K\u001b[H\u001b[1L\u001b[37C\u001b[30m\u001b[43m[29/48]\u001b[1;1H\u001b[39m\u001b[49mbind-key -n C-h select-pane -L       \r\nbind-key -n C-j select-pane -D\u001b[K\u001b[24;1Hbind-key - split-window -v -c '#{pane_curren\u001b[24;1Hbind-key - split-window -v -c '#{pane_curren\u001b[24;44H$\u001b[1;1H\u001b[1L\u001b[37C\u001b[30m\u001b[43m[30/48]\u001b[1;1H\u001b[39m\u001b[49mfix                                  \r\nbind-key -n C-h select-pane -L\u001b[K\u001b[24;1H# | splits pane horizontal\u001b[K\u001b[H\u001b[1L\u001b[37C\u001b[30m\u001b[43m[31/48]\u001b[1;1H\u001b[39m\u001b[49m# Key bindings to navigate panes with\r\nfix\u001b[K\u001b[24;1H# - splits pane vertical\u001b[K\u001b[H\u001b[1L\u001b[37C\u001b[30m\u001b[43m[32/48]\u001b[1;1H\u001b[39m\u001b[49m                                     \r\n# Key bindings to navigate panes without pre\u001b[24;1H\u001b[K\u001b[H\u001b[1L\u001b[37C\u001b[30m\u001b[43m[33/48]\u001b[1;1H\u001b[39m\u001b[49mset-option -g status-keys \"emacs\"    \r\n\u001b[K\u001b[24dset-option -g status-right \"pane:#P\"\u001b[K\u001b[H\u001b[1L\u001b[37C\u001b[30m\u001b[43m[34/48]\u001b[1;1H\u001b[39m\u001b[49m# Use emacs in tmux status bar       \r\nset-option -g status-keys \"emacs"
+    ],
+    [
+      0.000013,
+      "\"\u001b[K\u001b[24;1H# Show current pane in right status\u001b[K\u001b[H\u001b[1L\u001b[37C\u001b[30m\u001b[43m[35/48]\u001b[1;1H\u001b[39m\u001b[49m                                     \r\n# Use emacs in tmux status bar\u001b[K\u001b[24;1H\u001b[K\u001b[1;25r\u001b[H\u001b[24d"
+    ],
+    [
+      0.087637,
+      "\u001b[1;24r\u001b[H\u001b[1L\u001b[37C\u001b[30m\u001b[43m[36/48]\u001b[1;1H\u001b[39m\u001b[49mset-window-option -g mode-keys vi    \r\n\u001b[K\u001b[24dset -g status-left-length 50\u001b[K\u001b[H\u001b[1L\u001b[37C\u001b[30m\u001b[43m[37/48]\u001b[1;1H\u001b[39m\u001b[49m# Vim keys in COPY and CHOICE mode   \r\nset-window-option -g mode-keys vi\u001b[K\u001b[24;1H# Allow 50 chars in left status\u001b[K\u001b[H\u001b[1L\u001b[37C\u001b[30m\u001b[43m[38/48]\u001b[1;1H\u001b[39m\u001b[49m                                     \r\n# Vim keys in COPY and CHOICE mode\u001b[K\u001b[24;1H\u001b[K\u001b[H\u001b[1L\u001b[37C\u001b[30m\u001b[43m[39/48]\u001b[1;1H\u001b[39m\u001b[49mset -g prefix C-s                    \r\n\u001b[K\u001b[24dset -g status-fg '#aaaaaa'\u001b[K\u001b[H\u001b[1L\u001b[37C\u001b[30m\u001b[43m[40/48]\u001b[1;1H\u001b[39m\u001b[49munbind C-b                           \r\nset -g prefix C-s\u001b[K\u001b[24;1Hset -g status-bg '#666666'\u001b[K\u001b[H\u001b[1L\u001b[37C\u001b[30m\u001b[43m[41/48]\u001b[1;1H\u001b[39m\u001b[49m                                     \r\nunbind C-b\u001b[K\u001b[24;1H# Set color of tmux status bar\u001b[K\u001b[H\u001b[1L\u001b[37C\u001b[30m\u001b[43m[42/48]\u001b[1;1H\u001b[39m\u001b[49m# brew install tmux --HEAD           \r\n\u001b[K\u001b[24d\u001b[K\u001b[H\u001b[1L\u001b[37C\u001b[30m\u001b[43m[43/48]\u001b[1;1H\u001b[39m\u001b[49m# then install                       \r\n# brew install tmux --HEA"
+    ],
+    [
+      0.000014,
+      "D\u001b[K\u001b[24;1Hlor\"\u001b[K\u001b[H\u001b[1L\u001b[37C\u001b[30m\u001b[43m[44/48]\u001b[1;1H\u001b[39m\u001b[49m# set to https://github.com/dv/tmux.g\r\n# then install\u001b[K\u001b[24;1Hset-option -g default-terminal \"screen-256co\u001b[24;1Hset-option -g default-terminal \"screen-256co\u001b[24;44H$\u001b[1;1H\u001b[1L\u001b[37C\u001b[30m\u001b[43m[45/48]\u001b[1;1H\u001b[39m\u001b[49m# brew edit tmux                     \r\n# set to https://github.com/dv/tmux.git\u001b[K\u001b[24;1H# Fancy colours\u001b[K\u001b[1;25r\u001b[H\u001b[24;16H"
+    ],
+    [
+      0.071671,
+      "\u001b[1;24r\u001b[H\u001b[1L\u001b[37C\u001b[30m\u001b[43m[46/48]\u001b[1;1H\u001b[39m\u001b[49m# edit HEAD 'url' in brew:           \r\n# brew edit tmux\u001b[K\u001b[24;1H\u001b[K\u001b[H\u001b[1L\u001b[37C\u001b[30m\u001b[43m[47/48]\u001b[1;1H\u001b[49m\u001b[32m\u001b[1m➜  \u001b[36m~ \u001b[34m \u001b(B\u001b[mcat .tmux.conf                 \r\n# edit HEAD 'url' in brew:\u001b[K\u001b[24;1Hbind-key r source \"/Users/david/.tmux.conf\"\u001b[K\u001b[H\u001b[1L\u001b[37C\u001b[30m\u001b[43m[48/48]\u001b[1;1H\u001b[39m\u001b[49mc\u001b[1m\u001b[7m%\u001b(B\u001b[m                                   \r\n\u001b[32m\u001b[1m➜  \u001b[36m~ \u001b[34m \u001b(B\u001b[mcat .tmux.conf \u001b[K\u001b[24;1H\u001b[K\u001b[K\u001b[K\u001b[K\u001b[K\u001b[K\u001b[K\u001b[K\u001b[1;25r\u001b[H\u001b[24d"
+    ],
+    [
+      0.071834,
+      "\u001b[K\u001b[K\u001b[K\u001b[K\u001b[K\u001b[K\u001b[K\u001b[K\u001b[K\u001b[K"
+    ],
+    [
+      0.088218,
+      "\u001b[K\u001b[K\u001b[K\u001b[K\u001b[K\u001b[K\u001b[K\u001b[K\u001b[K\u001b[K"
+    ],
+    [
+      0.264220,
+      "\u001b[1;24r\u001b[H\u001b[1M\u001b[24dbind-key r source \"/Users/david/.tmux.conf\"\u001b[K\u001b[1;38H\u001b[30m\u001b[43m[47/48]\u001b[1;1H\u001b[49m\u001b[32m\u001b[1m➜  \u001b[36m~ \u001b[34m \u001b(B\u001b[mcat .tmux.conf                 \r\n# edit HEAD 'url' in brew:\u001b[K\u001b[23;1H\u001b[K\u001b[K\r\nbind-key r source \"/Users/david/.tmux.conf\"\u001b[K\u001b[H\u001b[1M\u001b[24d\u001b[K\u001b[1;38H\u001b[30m\u001b[43m[46/48]\u001b[1;1H\u001b[39m\u001b[49m# edit HEAD 'url' in brew:           \r\n# brew edit tmux\u001b[K\u001b[23;1Hbind-key r source \"/Users/david/.tmux.conf\"\u001b[K\rbind-key r source \"/Users/david/.tmux.conf\"\u001b[K\r\n\u001b[K\u001b[H\u001b[1M\u001b[24d# Fancy colours\u001b[K\u001b[1;38H\u001b[30m\u001b[43m[45/48]\u001b[1;1H\u001b[39m\u001b[49m# brew edit tmux                     \r\n# set to https://github.com/dv/tmux.git\u001b[K\u001b[23;1H\u001b[K\u001b[K\r\n# Fancy colours\u001b[K\u001b[H\u001b[1M\u001b[24dset-option -g default-terminal \"screen-256co\u001b[1;38H\u001b[30m\u001b[43m[44/48]\u001b[1;1H\u001b[39m\u001b[49m# set to https://github.com/dv/tmux.g\r\n# then install\u001b[K\u001b[23;1H# Fancy colours\u001b[K\r# Fancy colours\u001b[K\r\nset-option -g default-terminal \"screen-256co\u001b[24;1Hset-option -g default-terminal \"screen-256co\u001b[24;44H$\u001b[1;1H\u001b[1M\u001b[24dlor\"\u001b[K\u001b[1;38H\u001b[30m\u001b[43m[43/48]\u001b[1;1H\u001b[39m\u001b[49m# "
+    ],
+    [
+      0.000081,
+      "then install                       \r\n# brew install tmux --HEAD\u001b[K\u001b[23;1Hset-option -g default-terminal \"screen-256co\u001b[23;1Hset-option -g default-terminal \"screen-256co\u001b[24;1Hlor\"\u001b[K\u001b[H\u001b[1M\u001b[24d\u001b[K\u001b[1;38H\u001b[30m\u001b[43m[42/48]\u001b[1;1H\u001b[39m\u001b[49m# brew install tmux --HEAD           \r\n\u001b[K\u001b[23dlor\"\u001b[K\rlor\"\u001b[K\r\n\u001b[K\u001b[H\u001b[1M\u001b[24d# Set color of tmux status bar\u001b[K\u001b[1;38H\u001b[30m\u001b[43m[41/48]\u001b[1;1H\u001b[39m\u001b[49m                                     \r\nunbind C-b\u001b[K\u001b[23;1H\u001b[K\u001b[K\r\n# Set color of tmux status bar\u001b[K\u001b[H\u001b[1M\u001b[24dset -g status-bg '#666666'\u001b[K\u001b[1;38H\u001b[30m\u001b[43m[40/48]\u001b[1;1H\u001b[39m\u001b[49munbind C-b                           \r\nset -g prefix C-s\u001b[K\u001b[23;1H# Set color of tmux status bar\u001b[K\r# Set color of tmux status bar\u001b[K\r\nset -g status-bg '#666666'\u001b[K\u001b[H\u001b[1M\u001b[24dset -g status-fg '#aaaaaa'\u001b[K\u001b[1;38H\u001b[30m\u001b[43m[39/48]\u001b[1;1H\u001b[39m\u001b[49mset -g prefix C-s                    \r\n\u001b[K\u001b[23dset -g status-bg '#666666'\u001b[K\rset -g status-bg '#666666'\u001b[K\r\nset -g status-fg '#aaaaaa'\u001b[K\u001b[H\u001b[1M\u001b[24d\u001b[K\u001b[1;38H\u001b[30m\u001b[43m[38/48]\u001b[1;1H\u001b[39m\u001b[49m                 "
+    ],
+    [
+      0.000009,
+      "                    \r\n# Vim keys in COPY and CHOICE mode\u001b[K\u001b[23;1Hset -g status-fg '#aaaaaa'\u001b[K\rset -g status-fg '#aaaaaa'\u001b[K\r\n\u001b[K\u001b[1;25r\u001b[H\u001b[24d"
+    ],
+    [
+      0.112867,
+      "\u001b[1;24r\u001b[H\u001b[1M\u001b[24d# Allow 50 chars in left status\u001b[K\u001b[1;38H\u001b[30m\u001b[43m[37/48]\u001b[1;1H\u001b[39m\u001b[49m# Vim keys in COPY and CHOICE mode   \r\nset-window-option -g mode-keys vi\u001b[K\u001b[23;1H\u001b[K\u001b[K\r\n# Allow 50 chars in left status\u001b[K\u001b[H\u001b[1M\u001b[24dset -g status-left-length 50\u001b[K\u001b[1;38H\u001b[30m\u001b[43m[36/48]\u001b[1;1H\u001b[39m\u001b[49mset-window-option -g mode-keys vi    \r\n\u001b[K\u001b[23d# Allow 50 chars in left status\u001b[K\r# Allow 50 chars in left status\u001b[K\r\nset -g status-left-length 50\u001b[K\u001b[H\u001b[1M\u001b[24d\u001b[K\u001b[1;38H\u001b[30m\u001b[43m[35/48]\u001b[1;1H\u001b[39m\u001b[49m                                     \r\n# Use emacs in tmux status bar\u001b[K\u001b[23;1Hset -g status-left-length 50\u001b[K\rset -g status-left-length 50\u001b[K\r\n\u001b[K\u001b[H\u001b[1M\u001b[24d# Show current pane in right status\u001b[K\u001b[1;38H\u001b[30m\u001b[43m[34/48]\u001b[1;1H\u001b[39m\u001b[49m# Use emacs in tmux status bar       \r\nset-option -g status-keys \"emacs\"\u001b[K\u001b[23;1H\u001b[K\u001b[K\r\n# Show current pane in right status\u001b[K\u001b[H\u001b[1M\u001b[24dset-option -g status-right \"pane:#P\"\u001b[K\u001b[1;38H\u001b[30m\u001b[43m[33/48]\u001b[1;1H\u001b[39m\u001b[49mset-option -g status-keys \"emacs\"    \r\n\u001b[K\u001b[23d# Show current pa"
+    ],
+    [
+      0.000073,
+      "ne in right status\u001b[K\r# Show current pane in right status\u001b[K\r\nset-option -g status-right \"pane:#P\"\u001b[K\u001b[H\u001b[1M\u001b[24d\u001b[K\u001b[1;38H\u001b[30m\u001b[43m[32/48]\u001b[1;1H\u001b[39m\u001b[49m                                     \r\n# Key bindings to navigate panes without pre\u001b[23;1Hset-option -g status-right \"pane:#P\"\u001b[K\rset-option -g status-right \"pane:#P\"\u001b[K\r\n\u001b[K\u001b[H\u001b[1M\u001b[24d# - splits pane vertical\u001b[K\u001b[1;38H\u001b[30m\u001b[43m[31/48]\u001b[1;1H\u001b[39m\u001b[49m# Key bindings to navigate panes with\r\nfix\u001b[K\u001b[23;1H\u001b[K\u001b[K\r\n# - splits pane vertical\u001b[K\u001b[H\u001b[1M\u001b[24d# | splits pane horizontal\u001b[K\u001b[1;38H\u001b[30m\u001b[43m[30/48]\u001b[1;1H\u001b[39m\u001b[49mfix                                  \r\nbind-key -n C-h select-pane -L\u001b[K\u001b[23;1H# - splits pane vertical\u001b[K\r# - splits pane vertical\u001b[K\r\n# | splits pane horizontal\u001b[K\u001b[H\u001b[1M\u001b[24dbind-key - split-window -v -c '#{pane_curren\u001b[1;38H\u001b[30m\u001b[43m[29/48]\u001b[1;1H\u001b[39m\u001b[49mbind-key -n C-h select-pane -L       \r\nbind-key -n C-j select-pane -D\u001b[K\u001b[23;1H# | splits pane horizontal\u001b[K\r# | splits pane horizontal\u001b[K\r\nbind-key - split-window -v -c '#{pane_curren\u001b["
+    ],
+    [
+      0.000015,
+      "24;1Hbind-key - split-window -v -c '#{pane_curren\u001b[24;44H$\u001b[1;1H\u001b[1M\u001b[24dt_path}'\u001b[K\u001b[1;38H\u001b[30m\u001b[43m[28/48]\u001b[1;1H\u001b[39m\u001b[49mbind-key -n C-j select-pane -D       \r\nbind-key -n C-k select-pane -U\u001b[K\u001b[23;1Hbind-key - split-window -v -c '#{pane_curren\u001b[23;1Hbind-key - split-window -v -c '#{pane_curren\u001b[24;1Ht_path}'\u001b[K\u001b[1;25r\u001b[H\u001b[24;9H"
+    ],
+    [
+      0.225338,
+      "\u001b[1;24r\u001b[H\u001b[1M\u001b[24dbind-key \\ split-window -h -c '#{pane_curren\u001b[1;38H\u001b[30m\u001b[43m[27/48]\u001b[1;1H\u001b[39m\u001b[49mbind-key -n C-k select-pane -U       \r\nbind-key -n C-l select-pane -R\u001b[K\u001b[23;1Ht_path}'\u001b[K\rt_path}'\u001b[K\r\nbind-key \\ split-window -h -c '#{pane_curren\u001b[24;1Hbind-key \\ split-window -h -c '#{pane_curren\u001b[24;44H$\u001b[1;1H\u001b[1M\u001b[24dt_path}'\u001b[K\u001b[1;38H\u001b[30m\u001b[43m[26/48]\u001b[1;1H\u001b[39m\u001b[49mbind-key -n C-l select-pane -R       \r\n\u001b[K\u001b[23dbind-key \\ split-window -h -c '#{pane_curren\u001b[23;1Hbind-key \\ split-window -h -c '#{pane_curren\u001b[24;1Ht_path}'\u001b[K\u001b[H\u001b[1M\u001b[24d\u001b[K\u001b[1;38H\u001b[30m\u001b[43m[25/48]\u001b[1;1H\u001b[39m\u001b[49m                                     \r\nbind-key r source \"/Users/david/.tmux.conf\"\u001b[K\u001b[23;1Ht_path}'\u001b[K\rt_path}'\u001b[K\r\n\u001b[K\u001b[H\u001b[1M\u001b[24d# if run as \"tmux attach\", create a session \u001b[1;38H\u001b[30m\u001b[43m[24/48]\u001b[1;1H\u001b[39m\u001b[49mbind-key r source \"/Users/david/.tmux\r\n\u001b[K\u001b[23d\u001b[K\u001b[K\r\n# if run as \"tmux attach\", create a session \u001b[1;1H\u001b[1M\u001b[24dif one does not already exist\u001b[K\u001b[1;38H\u001b[30m\u001b[43m[23/48]\u001b[1;1H\u001b[39m\u001b[49m                              "
+    ],
+    [
+      0.000055,
+      "       \r\n# Fancy colours\u001b[K\u001b[23;1H# if run as \"tmux attach\", create a session \u001b[23;1H# if run as \"tmux attach\", create a session \u001b[24;1Hif one does not already exist\u001b[K\u001b[H\u001b[1M\u001b[24dnew-session -n $HOST\u001b[K\u001b[1;38H\u001b[30m\u001b[43m[22/48]\u001b[1;1H\u001b[39m\u001b[49m# Fancy colours                      \r\nset-option -g default-terminal \"screen-256co\u001b[23;1Hif one does not already exist\u001b[K\rif one does not already exist\u001b[K\r\nnew-session -n $HOST\u001b[K\u001b[H\u001b[1M\u001b[24d\u001b[K\u001b[1;38H\u001b[30m\u001b[43m[21/48]\u001b[1;1H\u001b[39m\u001b[49mset-option -g default-terminal \"scree\r\nlor\"\u001b[K\u001b[23;1Hnew-session -n $HOST\u001b[K\rnew-session -n $HOST\u001b[K\r\n\u001b[K\u001b[H\u001b[1M\u001b[24d# Lower escape timing from 500ms to 50ms for\u001b[1;38H\u001b[30m\u001b[43m[20/48]\u001b[1;1H\u001b[39m\u001b[49mlor\"                                 \r\n\u001b[K\u001b[23d\u001b[K\u001b[K\r\n# Lower escape timing from 500ms to 50ms for\u001b[24;1H# Lower escape timing from 500ms to 50ms for\u001b[24;44H$\u001b[1;1H\u001b[1M\u001b[24d quicker response to scroll-buffer access.\u001b[K\u001b[1;38H\u001b[30m\u001b[43m[19/48]\u001b[1;1H\u001b[39m\u001b[49m                                     \r\n# Set color of tmux status bar\u001b[K\u001b[23;1H# Lower"
+    ],
+    [
+      0.000040,
+      " escape timing from 500ms to 50ms for\u001b[23;1H# Lower escape timing from 500ms to 50ms for\u001b[24;1H quicker response to scroll-buffer access.\u001b[K\u001b[H\u001b[1M\u001b[24dset -s escape-time 50\u001b[K\u001b[1;38H\u001b[30m\u001b[43m[18/48]\u001b[1;1H\u001b[39m\u001b[49m# Set color of tmux status bar       \r\nset -g status-bg '#666666'\u001b[K\u001b[23;1H quicker response to scroll-buffer access.\u001b[K\r quicker response to scroll-buffer access.\u001b[K\r\nset -s escape-time 50\u001b[K\u001b[H\u001b[1M\u001b[24d\u001b[K\u001b[1;38H\u001b[30m\u001b[43m[17/48]\u001b[1;1H\u001b[39m\u001b[49mset -g status-bg '#666666'           \r\nset -g status-fg '#aaaaaa'\u001b[K\u001b[23;1Hset -s escape-time 50\u001b[K\rset -s escape-time 50\u001b[K\r\n\u001b[K\u001b[H\u001b[1M\u001b[24d# Mouse support for scrolling\u001b[K\u001b[1;38H\u001b[30m\u001b[43m[16/48]\u001b[1;1H\u001b[39m\u001b[49mset -g status-fg '#aaaaaa'           \r\n\u001b[K\u001b[23d\u001b[K\u001b[K\r\n# Mouse support for scrolling\u001b[K\u001b[H\u001b[1M\u001b[24d# Install EasySIMBL and MouseTerm\u001b[K\u001b[1;38H\u001b[30m\u001b[43m[15/48]\u001b[1;1H\u001b[39m\u001b[49m                                     \r\n# Allow 50 chars in left status\u001b[K\u001b[23;1H# Mouse support for scrolling\u001b[K\r# Mouse support for scrolling\u001b[K\r\n# Install EasySIMBL and Mo"
+    ],
+    [
+      0.000017,
+      "useTerm\u001b[K\u001b[H\u001b[1M\u001b[24dset-option -g mouse on\u001b[K\u001b[1;38H\u001b[30m\u001b[43m[14/48]\u001b[1;1H\u001b[39m\u001b[49m# Allow 50 chars in left status      \r\nset -g status-left-length 50\u001b[K\u001b[23;1H# Install EasySIMBL and MouseTerm\u001b[K\r# Install EasySIMBL and MouseTerm\u001b[K\r\nset-option -g mouse on\u001b[K\u001b[H\u001b[1M\u001b[24d\u001b[K\u001b[1;38H\u001b[30m\u001b[43m[13/48]\u001b[1;1H\u001b[39m\u001b[49mset -g status-left-length 50         \r\n\u001b[K\u001b[23dset-option -g mouse on\u001b[K\rset-option -g mouse on\u001b[K\r\n\u001b[K\u001b[1;25r\u001b[H\u001b[24d"
+    ],
+    [
+      0.127924,
+      "\u001b[1;24r\u001b[H\u001b[1M\u001b[24dset -g mode-mouse on\u001b[K\u001b[1;38H\u001b[30m\u001b[43m[12/48]\u001b[1;1H\u001b[39m\u001b[49m                                     \r\n# Show current pane in right status\u001b[K\u001b[23;1H\u001b[K\u001b[K\r\nset -g mode-mouse on\u001b[K\u001b[H\u001b[1M\u001b[24dset -g mouse-resize-pane on\u001b[K\u001b[1;38H\u001b[30m\u001b[43m[11/48]\u001b[1;1H\u001b[39m\u001b[49m# Show current pane in right status  \r\nset-option -g status-right \"pane:#P\"\u001b[K\u001b[23;1Hset -g mode-mouse on\u001b[K\rset -g mode-mouse on\u001b[K\r\nset -g mouse-resize-pane on\u001b[K\u001b[H\u001b[1M\u001b[24dset -g mouse-select-pane on\u001b[K\u001b[1;38H\u001b[30m\u001b[43m[10/48]\u001b[1;1H\u001b[39m\u001b[49mset-option -g status-right \"pane:#P\" \r\n\u001b[K\u001b[23dset -g mouse-resize-pane on\u001b[K\rset -g mouse-resize-pane on\u001b[K\r\nset -g mouse-select-pane on\u001b[K\u001b[H\u001b[1M\u001b[24dset -g mouse-select-window on\u001b[K\u001b[1;39H\u001b[30m\u001b[43m[9/48]\u001b[1;1H\u001b[39m\u001b[49m                                      \r\n# - splits pane vertical\u001b[K\u001b[23;1Hset -g mouse-select-pane on\u001b[K\rset -g mouse-select-pane on\u001b[K\r\nset -g mouse-select-window on\u001b[K\u001b[H\u001b[1M\u001b[24d\u001b[K\u001b[1;39H\u001b[30m\u001b[43m[8/48]\u001b[1;1H\u001b[39m\u001b[49m# - splits pane vertical              \r\n# | splits pa"
+    ],
+    [
+      0.000094,
+      "ne horizontal\u001b[K\u001b[23;1Hset -g mouse-select-window on\u001b[K\rset -g mouse-select-window on\u001b[K\r\n\u001b[K\u001b[H\u001b[1M\u001b[24d# Start copy mode when scrolling up\u001b[K\u001b[1;39H\u001b[30m\u001b[43m[7/48]\u001b[1;1H\u001b[39m\u001b[49m# | splits pane horizontal            \r\nbind-key - split-window -v -c '#{pane_curren\u001b[23;1H\u001b[K\u001b[K\r\n# Start copy mode when scrolling up\u001b[K\u001b[H\u001b[1M\u001b[24dbind -n WheelUpPane copy-mode\u001b[K\u001b[1;39H\u001b[30m\u001b[43m[6/48]\u001b[1;1H\u001b[39m\u001b[49mbind-key - split-window -v -c '#{pane_\r\nt_path}'\u001b[K\u001b[23;1H# Start copy mode when scrolling up\u001b[K\r# Start copy mode when scrolling up\u001b[K\r\nbind -n WheelUpPane copy-mode\u001b[K\u001b[H\u001b[1M\u001b[24d\u001b[K\u001b[1;39H\u001b[30m\u001b[43m[5/48]\u001b[1;1H\u001b[39m\u001b[49mt_path}'                              \r\nbind-key \\ split-window -h -c '#{pane_curren\u001b[23;1Hbind -n WheelUpPane copy-mode\u001b[K\rbind -n WheelUpPane copy-mode\u001b[K\r\n\u001b[K\u001b[H\u001b[1M\u001b[24d# Enable our custom option to exit copy mode\u001b[1;39H\u001b[30m\u001b[43m[4/48]\u001b[1;1H\u001b[39m\u001b[49mbind-key \\ split-window -h -c '#{pane_\r\nt_path}'\u001b[K\u001b[23;1H\u001b[K\u001b[K\r\n# Enable our custom option to exit copy mode\u001b[24;1H# Enable our custom option"
+    ],
+    [
+      0.000053,
+      " to exit copy mode\u001b[24;44H$\u001b[1;1H\u001b[1M\u001b[24d when scrolling past bottom\u001b[K\u001b[1;39H\u001b[30m\u001b[43m[3/48]\u001b[1;1H\u001b[39m\u001b[49mt_path}'                              \r\n\u001b[K\u001b[23d# Enable our custom option to exit copy mode\u001b[23;1H# Enable our custom option to exit copy mode\u001b[24;1H when scrolling past bottom\u001b[K\u001b[H\u001b[1M\u001b[24dset-window-option -g exit-copy-past-bottom o\u001b[1;39H\u001b[30m\u001b[43m[2/48]\u001b[1;1H\u001b[39m\u001b[49m                                      \r\n# if run as \"tmux attach\", create a session \u001b[23;1H when scrolling past bottom\u001b[K\r when scrolling past bottom\u001b[K\r\nset-window-option -g exit-copy-past-bottom o\u001b[24;1Hset-window-option -g exit-copy-past-bottom o\u001b[24;44H$\u001b[1;1H\u001b[1M\u001b[24dn\u001b[K\u001b[1;39H\u001b[30m\u001b[43m[1/48]\u001b[1;1H\u001b[39m\u001b[49m# if run as \"tmux attach\", create a se\r\nif one does not already exist\u001b[K\u001b[23;1Hset-window-option -g exit-copy-past-bottom o\u001b[23;1Hset-window-option -g exit-copy-past-bottom o\u001b[24;1Hn\u001b[K\u001b[H\u001b[1M\u001b[24d\u001b[32m\u001b[1m➜  \u001b[36m~ \u001b[34m \u001b(B\u001b[m\u001b[K\u001b[1;39H\u001b[30m\u001b[43m[0/48]\u001b[1;1H\u001b[39m\u001b[49mif one does not already exist         \r\nnew-sessio"
+    ],
+    [
+      0.000030,
+      "n -n $HOST\u001b[K\u001b[23;1Hn\u001b[K\rn\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36m~ \u001b[34m \u001b(B\u001b[m\u001b[K\u001b[23;1Hn\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36m~ \u001b[34m \u001b(B\u001b[m\u001b[K\u001b[23;1Hn\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36m~ \u001b[34m \u001b(B\u001b[m\u001b[K\u001b[?25l\u001b[Hif one does not already exist\u001b[K\r\nnew-session -n $HOST\u001b[K\r\n\u001b[K\r\n# Lower escape timing from 500ms to 50ms for quicker response to scroll-buffer access.\u001b[K\r\nset -s escape-time 50\u001b[K\r\n\u001b[K\r\n# Mouse support for scrolling\u001b[K\r\n# Install EasySIMBL and MouseTerm\u001b[K\r\nset-option -g mouse on\u001b[K\r\n\u001b[K\r\nset -g mode-mouse on\u001b[K\r\nset -g mouse-resize-pane on\u001b[K\r\nset -g mouse-select-pane on\u001b[K\r\nset -g mouse-select-window on\u001b[K\r\n\u001b[K\r\n# Start copy mode when scrolling up\u001b[K\r\nbind -n WheelUpPane copy-mode\u001b[K\r\n\u001b[K\r\n# Enable our custom option to exit copy mode when scrolling past bottom\u001b[K\r\nset-window-option -g exit-copy-past-bottom on\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36m~ \u001b[34m \u001b(B\u001b[m\u001b[K\u001b[1;25r\u001b[H\u001b[24;7H\u001b[?12l\u001b[?25h\u001b[?1h\u001b="
+    ],
+    [
+      0.607306,
+      "\u001b[?25l\u001b[Hset-option -g status-right \"pane:#P\" \u001b[30m\u001b[43m[10/48]\u001b[2;1H\u001b(B\u001b[m\u001b[K\r\n# - splits pane vertical\u001b[K\r\n# | splits pane horizontal\u001b[K\r\nbind-key - split-window -v -c '#{pane_curren\u001b[6;1Ht_path}'\u001b[K\r\nbind-key \\ split-window -h -c '#{pane_curren\u001b[8;1Ht_path}'\u001b[K\r\n\u001b[K\r\n# if run as \"tmux attach\", create a session \u001b[11;1Hif one does not already exist\u001b[K\r\nnew-session -n $HOST\u001b[K\r\n\u001b[K\r\n# Lower escape timing from 500ms to 50ms for\u001b[15;1H quicker response to scroll-buffer access.\u001b[K\r\nset -s escape-time 50\u001b[K\r\n\u001b[K\r\n# Mouse support for scrolling\u001b[K\r\n# Install EasySIMBL and MouseTerm\u001b[K\r\nset-option -g mouse on\u001b[K\r\n\u001b[K\r\nset -g mode-mouse on\u001b[K\r\nset -g mouse-resize-pane on\u001b[K\r\nset -g mouse-select-pane on\u001b[K\u001b[?12l\u001b[?25h\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.176562,
+      "\u001b[1;24r\u001b[H\u001b[1L\u001b[37C\u001b[30m\u001b[43m[11/48]\u001b[1;1H\u001b[39m\u001b[49m# Show current pane in right status  \r\nset-option -g status-right \"pane:#P\"\u001b[K\u001b[24;1Hset -g mouse-resize-pane on\u001b[K\u001b[H\u001b[1L\u001b[37C\u001b[30m\u001b[43m[12/48]\u001b[1;1H\u001b[39m\u001b[49m                                     \r\n# Show current pane in right status\u001b[K\u001b[24;1Hset -g mode-mouse on\u001b[K\u001b[H\u001b[1L\u001b[37C\u001b[30m\u001b[43m[13/48]\u001b[1;1H\u001b[39m\u001b[49mset -g status-left-length 50         \r\n\u001b[K\u001b[24d\u001b[K\u001b[H\u001b[1L\u001b[37C\u001b[30m\u001b[43m[14/48]\u001b[1;1H\u001b[39m\u001b[49m# Allow 50 chars in left status      \r\nset -g status-left-length 50\u001b[K\u001b[24;1Hset-option -g mouse on\u001b[K\u001b[H\u001b[1L\u001b[37C\u001b[30m\u001b[43m[15/48]\u001b[1;1H\u001b[39m\u001b[49m                                     \r\n# Allow 50 chars in left status\u001b[K\u001b[24;1H# Install EasySIMBL and MouseTerm\u001b[K\u001b[H\u001b[1L\u001b[37C\u001b[30m\u001b[43m[16/48]\u001b[1;1H\u001b[39m\u001b[49mset -g status-fg '#aaaaaa'           \r\n\u001b[K\u001b[24d# Mouse support for scrolling\u001b[K\u001b[H\u001b[1L\u001b[37C\u001b[30m\u001b[43m[17/48]\u001b[1;1H\u001b[39m\u001b[49mset -g status-bg '#666666'           \r\nset -g status-fg '#aaaaaa'\u001b[K\u001b[24;1H\u001b[K\u001b[H\u001b[1L\u001b[37C\u001b[30m\u001b[43m[18/48]\u001b[1;1H\u001b[39m\u001b[49m# Set colo"
+    ],
+    [
+      0.000068,
+      "r of tmux status bar       \r\nset -g status-bg '#666666'\u001b[K\u001b[24;1Hset -s escape-time 50\u001b[K\u001b[H\u001b[1L\u001b[37C\u001b[30m\u001b[43m[19/48]\u001b[1;1H\u001b[39m\u001b[49m                                     \r\n# Set color of tmux status bar\u001b[K\u001b[24;1H quicker response to scroll-buffer access.\u001b[K\u001b[H\u001b[1L\u001b[37C\u001b[30m\u001b[43m[20/48]\u001b[1;1H\u001b[39m\u001b[49mlor\"                                 \r\n\u001b[K\u001b[24d# Lower escape timing from 500ms to 50ms for\u001b[24;1H# Lower escape timing from 500ms to 50ms for\u001b[24;44H$\u001b[1;1H\u001b[1L\u001b[37C\u001b[30m\u001b[43m[21/48]\u001b[1;1H\u001b[39m\u001b[49mset-option -g default-terminal \"scree\r\nlor\"\u001b[K\u001b[24;1H\u001b[K\u001b[H\u001b[1L\u001b[37C\u001b[30m\u001b[43m[22/48]\u001b[1;1H\u001b[39m\u001b[49m# Fancy colours                      \r\nset-option -g default-terminal \"screen-256co\u001b[24;1Hnew-session -n $HOST\u001b[K\u001b[H\u001b[1L\u001b[37C\u001b[30m\u001b[43m[23/48]\u001b[1;1H\u001b[39m\u001b[49m                                     \r\n# Fancy colours\u001b[K\u001b[24;1Hif one does not already exist\u001b[K\u001b[H\u001b[1L\u001b[37C\u001b[30m\u001b[43m[24/48]\u001b[1;1H\u001b[39m\u001b[49mbind-key r source \"/Users/david/.tmux\r\n\u001b[K\u001b[24d# if run as \"tmux attach\", create a session \u001b[1;1H\u001b[1L\u001b[37C\u001b[30m\u001b[43m[25/48"
+    ],
+    [
+      0.000032,
+      "]\u001b[1;1H\u001b[39m\u001b[49m                                     \r\nbind-key r source \"/Users/david/.tmux.conf\"\u001b[K\u001b[24;1H\u001b[K\u001b[1;25r\u001b[H\u001b[24d"
+    ],
+    [
+      0.168644,
+      "\u001b[1;24r\u001b[H\u001b[1L\u001b[37C\u001b[30m\u001b[43m[26/48]\u001b[1;1H\u001b[39m\u001b[49mbind-key -n C-l select-pane -R       \r\n\u001b[K\u001b[24dt_path}'\u001b[K\u001b[H\u001b[1L\u001b[37C\u001b[30m\u001b[43m[27/48]\u001b[1;1H\u001b[39m\u001b[49mbind-key -n C-k select-pane -U       \r\nbind-key -n C-l select-pane -R\u001b[K\u001b[24;1Hbind-key \\ split-window -h -c '#{pane_curren\u001b[24;1Hbind-key \\ split-window -h -c '#{pane_curren\u001b[24;44H$\u001b[1;1H\u001b[1L\u001b[37C\u001b[30m\u001b[43m[28/48]\u001b[1;1H\u001b[39m\u001b[49mbind-key -n C-j select-pane -D       \r\nbind-key -n C-k select-pane -U\u001b[K\u001b[24;1Ht_path}'\u001b[K\u001b[H\u001b[1L\u001b[37C\u001b[30m\u001b[43m[29/48]\u001b[1;1H\u001b[39m\u001b[49mbind-key -n C-h select-pane -L       \r\nbind-key -n C-j select-pane -D\u001b[K\u001b[24;1Hbind-key - split-window -v -c '#{pane_curren\u001b[24;1Hbind-key - split-window -v -c '#{pane_curren\u001b[24;44H$\u001b[1;1H\u001b[1L\u001b[37C\u001b[30m\u001b[43m[30/48]\u001b[1;1H\u001b[39m\u001b[49mfix                                  \r\nbind-key -n C-h select-pane -L\u001b[K\u001b[24;1H# | splits pane horizontal\u001b[K\u001b[H\u001b[1L\u001b[37C\u001b[30m\u001b[43m[31/48]\u001b[1;1H\u001b[39m\u001b[49m# Key bindings to navigate panes with\r\nfix\u001b[K\u001b[24;1H# - splits pane vertical\u001b[K\u001b[H\u001b[1L\u001b[37C\u001b[30m\u001b[43m[32/48]\u001b[1;1H\u001b[39m"
+    ],
+    [
+      0.000083,
+      "\u001b[49m                                     \r\n# Key bindings to navigate panes without pre\u001b[24;1H\u001b[K\u001b[H\u001b[1L\u001b[37C\u001b[30m\u001b[43m[33/48]\u001b[1;1H\u001b[39m\u001b[49mset-option -g status-keys \"emacs\"    \r\n\u001b[K\u001b[24dset-option -g status-right \"pane:#P\"\u001b[K\u001b[H\u001b[1L\u001b[37C\u001b[30m\u001b[43m[34/48]\u001b[1;1H\u001b[39m\u001b[49m# Use emacs in tmux status bar       \r\nset-option -g status-keys \"emacs\"\u001b[K\u001b[24;1H# Show current pane in right status\u001b[K\u001b[H\u001b[1L\u001b[37C\u001b[30m\u001b[43m[35/48]\u001b[1;1H\u001b[39m\u001b[49m                                     \r\n# Use emacs in tmux status bar\u001b[K\u001b[24;1H\u001b[K\u001b[H\u001b[1L\u001b[37C\u001b[30m\u001b[43m[36/48]\u001b[1;1H\u001b[39m\u001b[49mset-window-option -g mode-keys vi    \r\n\u001b[K\u001b[24dset -g status-left-length 50\u001b[K\u001b[H\u001b[1L\u001b[37C\u001b[30m\u001b[43m[37/48]\u001b[1;1H\u001b[39m\u001b[49m# Vim keys in COPY and CHOICE mode   \r\nset-window-option -g mode-keys vi\u001b[K\u001b[24;1H# Allow 50 chars in left status\u001b[K\u001b[H\u001b[1L\u001b[37C\u001b[30m\u001b[43m[38/48]\u001b[1;1H\u001b[39m\u001b[49m                                     \r\n# Vim keys in COPY and CHOICE mode\u001b[K\u001b[24;1H\u001b[K\u001b[H\u001b[1L\u001b[37C\u001b[30m\u001b[43m[39/48]\u001b[1;1H\u001b[39m\u001b[49mset -g prefix C-s                    \r\n\u001b[K\u001b"
+    ],
+    [
+      0.000012,
+      "[24dset -g status-fg '#aaaaaa'\u001b[K\u001b[H\u001b[1L\u001b[37C\u001b[30m\u001b[43m[40/48]\u001b[1;1H\u001b[39m\u001b[49munbind C-b                           \r\nset -g prefix C-s\u001b[K\u001b[24;1Hset -g status-bg '#666666'\u001b[K\u001b[1;25r\u001b[H\u001b[24;27H"
+    ],
+    [
+      0.296696,
+      "\u001b[1;24r\u001b[H\u001b[1L\u001b[37C\u001b[30m\u001b[43m[41/48]\u001b[1;1H\u001b[39m\u001b[49m                                     \r\nunbind C-b\u001b[K\u001b[24;1H# Set color of tmux status bar\u001b[K\u001b[H\u001b[1L\u001b[37C\u001b[30m\u001b[43m[42/48]\u001b[1;1H\u001b[39m\u001b[49m# brew install tmux --HEAD           \r\n\u001b[K\u001b[24d\u001b[K\u001b[H\u001b[1L\u001b[37C\u001b[30m\u001b[43m[43/48]\u001b[1;1H\u001b[39m\u001b[49m# then install                       \r\n# brew install tmux --HEAD\u001b[K\u001b[24;1Hlor\"\u001b[K\u001b[H\u001b[1L\u001b[37C\u001b[30m\u001b[43m[44/48]\u001b[1;1H\u001b[39m\u001b[49m# set to https://github.com/dv/tmux.g\r\n# then install\u001b[K\u001b[24;1Hset-option -g default-terminal \"screen-256co\u001b[24;1Hset-option -g default-terminal \"screen-256co\u001b[24;44H$\u001b[1;1H\u001b[1L\u001b[37C\u001b[30m\u001b[43m[45/48]\u001b[1;1H\u001b[39m\u001b[49m# brew edit tmux                     \r\n# set to https://github.com/dv/tmux.git\u001b[K\u001b[24;1H# Fancy colours\u001b[K\u001b[H\u001b[1L\u001b[37C\u001b[30m\u001b[43m[46/48]\u001b[1;1H\u001b[39m\u001b[49m# edit HEAD 'url' in brew:           \r\n# brew edit tmux\u001b[K\u001b[24;1H\u001b[K\u001b[H\u001b[1L\u001b[37C\u001b[30m\u001b[43m[47/48]\u001b[1;1H\u001b[49m\u001b[32m\u001b[1m➜  \u001b[36m~ \u001b[34m \u001b(B\u001b[mcat .tmux.conf                 \r\n# edit HEAD 'url' in brew:\u001b[K\u001b[24;1Hbind-key r source \"/Users/david/.tmux"
+    ],
+    [
+      0.000013,
+      ".conf\"\u001b[K\u001b[H\u001b[1L\u001b[37C\u001b[30m\u001b[43m[48/48]\u001b[1;1H\u001b[39m\u001b[49mc\u001b[1m\u001b[7m%\u001b(B\u001b[m                                   \r\n\u001b[32m\u001b[1m➜  \u001b[36m~ \u001b[34m \u001b(B\u001b[mcat .tmux.conf \u001b[K\u001b[24;1H\u001b[K\u001b[K\u001b[K\u001b[K\u001b[K\u001b[K\u001b[K\u001b[K\u001b[1;25r\u001b[H\u001b[24d"
+    ],
+    [
+      0.604510,
+      "\u001b[1;24r\u001b[H\u001b[1M\u001b[24dbind-key r source \"/Users/david/.tmux.conf\"\u001b[K\u001b[1;38H\u001b[30m\u001b[43m[47/48]\u001b[1;1H\u001b[49m\u001b[32m\u001b[1m➜  \u001b[36m~ \u001b[34m \u001b(B\u001b[mcat .tmux.conf                 \r\n# edit HEAD 'url' in brew:\u001b[K\u001b[23;1H\u001b[K\u001b[K\r\nbind-key r source \"/Users/david/.tmux.conf\"\u001b[K\u001b[H\u001b[1M\u001b[24d\u001b[K\u001b[1;38H\u001b[30m\u001b[43m[46/48]\u001b[1;1H\u001b[39m\u001b[49m# edit HEAD 'url' in brew:           \r\n# brew edit tmux\u001b[K\u001b[23;1Hbind-key r source \"/Users/david/.tmux.conf\"\u001b[K\rbind-key r source \"/Users/david/.tmux.conf\"\u001b[K\r\n\u001b[K\u001b[H\u001b[1M\u001b[24d# Fancy colours\u001b[K\u001b[1;38H\u001b[30m\u001b[43m[45/48]\u001b[1;1H\u001b[39m\u001b[49m# brew edit tmux                     \r\n# set to https://github.com/dv/tmux.git\u001b[K\u001b[23;1H\u001b[K\u001b[K\r\n# Fancy colours\u001b[K\u001b[H\u001b[1M\u001b[24dset-option -g default-terminal \"screen-256co\u001b[1;38H\u001b[30m\u001b[43m[44/48]\u001b[1;1H\u001b[39m\u001b[49m# set to https://github.com/dv/tmux.g\r\n# then install\u001b[K\u001b[23;1H# Fancy colours\u001b[K\r# Fancy colours\u001b[K\r\nset-option -g default-terminal \"screen-256co\u001b[24;1Hset-option -g default-terminal \"screen-256co\u001b[24;44H$\u001b[1;1H\u001b[1M\u001b[24dlor\"\u001b[K\u001b[1;38H\u001b[30m\u001b[43m[43/48]\u001b[1;1H\u001b[39m\u001b[49m# "
+    ],
+    [
+      0.000064,
+      "then install                       \r\n# brew install tmux --HEAD\u001b[K\u001b[23;1Hset-option -g default-terminal \"screen-256co\u001b[23;1Hset-option -g default-terminal \"screen-256co\u001b[24;1Hlor\"\u001b[K\u001b[H\u001b[1M\u001b[24d\u001b[K\u001b[1;38H\u001b[30m\u001b[43m[42/48]\u001b[1;1H\u001b[39m\u001b[49m# brew install tmux --HEAD           \r\n\u001b[K\u001b[23dlor\"\u001b[K\rlor\"\u001b[K\r\n\u001b[K\u001b[H\u001b[1M\u001b[24d# Set color of tmux status bar\u001b[K\u001b[1;38H\u001b[30m\u001b[43m[41/48]\u001b[1;1H\u001b[39m\u001b[49m                                     \r\nunbind C-b\u001b[K\u001b[23;1H\u001b[K\u001b[K\r\n# Set color of tmux status bar\u001b[K\u001b[H\u001b[1M\u001b[24dset -g status-bg '#666666'\u001b[K\u001b[1;38H\u001b[30m\u001b[43m[40/48]\u001b[1;1H\u001b[39m\u001b[49munbind C-b                           \r\nset -g prefix C-s\u001b[K\u001b[23;1H# Set color of tmux status bar\u001b[K\r# Set color of tmux status bar\u001b[K\r\nset -g status-bg '#666666'\u001b[K\u001b[H\u001b[1M\u001b[24dset -g status-fg '#aaaaaa'\u001b[K\u001b[1;38H\u001b[30m\u001b[43m[39/48]\u001b[1;1H\u001b[39m\u001b[49mset -g prefix C-s                    \r\n\u001b[K\u001b[23dset -g status-bg '#666666'\u001b[K\rset -g status-bg '#666666'\u001b[K\r\nset -g status-fg '#aaaaaa'\u001b[K\u001b[H\u001b[1M\u001b[24d\u001b[K\u001b[1;38H\u001b[30m\u001b[43m[38/48]\u001b[1;1H\u001b[39m\u001b[49m                 "
+    ],
+    [
+      0.000039,
+      "                    \r\n# Vim keys in COPY and CHOICE mode\u001b[K\u001b[23;1Hset -g status-fg '#aaaaaa'\u001b[K\rset -g status-fg '#aaaaaa'\u001b[K\r\n\u001b[K\u001b[1;25r\u001b[H\u001b[24d"
+    ],
+    [
+      0.256244,
+      "\u001b[1;24r\u001b[H\u001b[1M\u001b[24d# Allow 50 chars in left status\u001b[K\u001b[1;38H\u001b[30m\u001b[43m[37/48]\u001b[1;1H\u001b[39m\u001b[49m# Vim keys in COPY and CHOICE mode   \r\nset-window-option -g mode-keys vi\u001b[K\u001b[23;1H\u001b[K\u001b[K\r\n# Allow 50 chars in left status\u001b[K\u001b[H\u001b[1M\u001b[24dset -g status-left-length 50\u001b[K\u001b[1;38H\u001b[30m\u001b[43m[36/48]\u001b[1;1H\u001b[39m\u001b[49mset-window-option -g mode-keys vi    \r\n\u001b[K\u001b[23d# Allow 50 chars in left status\u001b[K\r# Allow 50 chars in left status\u001b[K\r\nset -g status-left-length 50\u001b[K\u001b[H\u001b[1M\u001b[24d\u001b[K\u001b[1;38H\u001b[30m\u001b[43m[35/48]\u001b[1;1H\u001b[39m\u001b[49m                                     \r\n# Use emacs in tmux status bar\u001b[K\u001b[23;1Hset -g status-left-length 50\u001b[K\rset -g status-left-length 50\u001b[K\r\n\u001b[K\u001b[H\u001b[1M\u001b[24d# Show current pane in right status\u001b[K\u001b[1;38H\u001b[30m\u001b[43m[34/48]\u001b[1;1H\u001b[39m\u001b[49m# Use emacs in tmux status bar       \r\nset-option -g status-keys \"emacs\"\u001b[K\u001b[23;1H\u001b[K\u001b[K\r\n# Show current pane in right status\u001b[K\u001b[H\u001b[1M\u001b[24dset-option -g status-right \"pane:#P\"\u001b[K\u001b[1;38H\u001b[30m\u001b[43m[33/48]\u001b[1;1H\u001b[39m\u001b[49mset-option -g status-keys \"emacs\"    \r\n\u001b[K\u001b[23d# Show current pa"
+    ],
+    [
+      0.000093,
+      "ne in right status\u001b[K\r# Show current pane in right status\u001b[K\r\nset-option -g status-right \"pane:#P\"\u001b[K\u001b[H\u001b[1M\u001b[24d\u001b[K\u001b[1;38H\u001b[30m\u001b[43m[32/48]\u001b[1;1H\u001b[39m\u001b[49m                                     \r\n# Key bindings to navigate panes without pre\u001b[23;1Hset-option -g status-right \"pane:#P\"\u001b[K\rset-option -g status-right \"pane:#P\"\u001b[K\r\n\u001b[K\u001b[H\u001b[1M\u001b[24d# - splits pane vertical\u001b[K\u001b[1;38H\u001b[30m\u001b[43m[31/48]\u001b[1;1H\u001b[39m\u001b[49m# Key bindings to navigate panes with\r\nfix\u001b[K\u001b[23;1H\u001b[K\u001b[K\r\n# - splits pane vertical\u001b[K\u001b[H\u001b[1M\u001b[24d# | splits pane horizontal\u001b[K\u001b[1;38H\u001b[30m\u001b[43m[30/48]\u001b[1;1H\u001b[39m\u001b[49mfix                                  \r\nbind-key -n C-h select-pane -L\u001b[K\u001b[23;1H# - splits pane vertical\u001b[K\r# - splits pane vertical\u001b[K\r\n# | splits pane horizontal\u001b[K\u001b[H\u001b[1M\u001b[24dbind-key - split-window -v -c '#{pane_curren\u001b[1;38H\u001b[30m\u001b[43m[29/48]\u001b[1;1H\u001b[39m\u001b[49mbind-key -n C-h select-pane -L       \r\nbind-key -n C-j select-pane -D\u001b[K\u001b[23;1H# | splits pane horizontal\u001b[K\r# | splits pane horizontal\u001b[K\r\nbind-key - split-window -v -c '#{pane_curren\u001b["
+    ],
+    [
+      0.000066,
+      "24;1Hbind-key - split-window -v -c '#{pane_curren\u001b[24;44H$\u001b[1;1H\u001b[1M\u001b[24dt_path}'\u001b[K\u001b[1;38H\u001b[30m\u001b[43m[28/48]\u001b[1;1H\u001b[39m\u001b[49mbind-key -n C-j select-pane -D       \r\nbind-key -n C-k select-pane -U\u001b[K\u001b[23;1Hbind-key - split-window -v -c '#{pane_curren\u001b[23;1Hbind-key - split-window -v -c '#{pane_curren\u001b[24;1Ht_path}'\u001b[K\u001b[H\u001b[1M\u001b[24dbind-key \\ split-window -h -c '#{pane_curren\u001b[1;38H\u001b[30m\u001b[43m[27/48]\u001b[1;1H\u001b[39m\u001b[49mbind-key -n C-k select-pane -U       \r\nbind-key -n C-l select-pane -R\u001b[K\u001b[23;1Ht_path}'\u001b[K\rt_path}'\u001b[K\r\nbind-key \\ split-window -h -c '#{pane_curren\u001b[24;1Hbind-key \\ split-window -h -c '#{pane_curren\u001b[24;44H$\u001b[1;1H\u001b[1M\u001b[24dt_path}'\u001b[K\u001b[1;38H\u001b[30m\u001b[43m[26/48]\u001b[1;1H\u001b[39m\u001b[49mbind-key -n C-l select-pane -R       \r\n\u001b[K\u001b[23dbind-key \\ split-window -h -c '#{pane_curren\u001b[23;1Hbind-key \\ split-window -h -c '#{pane_curren\u001b[24;1Ht_path}'\u001b[K\u001b[H\u001b[1M\u001b[24d\u001b[K\u001b[1;38H\u001b[30m\u001b[43m[25/48]\u001b[1;1H\u001b[39m\u001b[49m                                     \r\nbind-key r source \"/Users/david/.tmux.conf\"\u001b[K\u001b[23;1Ht_path}'\u001b[K\rt_path}'\u001b[K\r\n\u001b[K\u001b[H"
+    ],
+    [
+      0.000015,
+      "\u001b[1M\u001b[24d# if run as \"tmux attach\", create a session \u001b[1;38H\u001b[30m\u001b[43m[24/48]\u001b[1;1H\u001b[39m\u001b[49mbind-key r source \"/Users/david/.tmux\r\n\u001b[K\u001b[23d\u001b[K\u001b[K\r\n# if run as \"tmux attach\", create a session \u001b[1;1H\u001b[1M\u001b[24dif one does not already exist\u001b[K\u001b[1;38H\u001b[30m\u001b[43m[23/48]\u001b[1;1H\u001b[39m\u001b[49m                                     \r\n# Fancy colours\u001b[K\u001b[23;1H# if run as \"tmux attach\", create a session \u001b[23;1H# if run as \"tmux attach\", create a session \u001b[24;1Hif one does not already exist\u001b[K\u001b[1;25r\u001b[H\u001b[24;30H"
+    ],
+    [
+      0.127820,
+      "\u001b[1;24r\u001b[H\u001b[1M\u001b[24dnew-session -n $HOST\u001b[K\u001b[1;38H\u001b[30m\u001b[43m[22/48]\u001b[1;1H\u001b[39m\u001b[49m# Fancy colours                      \r\nset-option -g default-terminal \"screen-256co\u001b[23;1Hif one does not already exist\u001b[K\rif one does not already exist\u001b[K\r\nnew-session -n $HOST\u001b[K\u001b[H\u001b[1M\u001b[24d\u001b[K\u001b[1;38H\u001b[30m\u001b[43m[21/48]\u001b[1;1H\u001b[39m\u001b[49mset-option -g default-terminal \"scree\r\nlor\"\u001b[K\u001b[23;1Hnew-session -n $HOST\u001b[K\rnew-session -n $HOST\u001b[K\r\n\u001b[K\u001b[H\u001b[1M\u001b[24d# Lower escape timing from 500ms to 50ms for\u001b[1;38H\u001b[30m\u001b[43m[20/48]\u001b[1;1H\u001b[39m\u001b[49mlor\"                                 \r\n\u001b[K\u001b[23d\u001b[K\u001b[K\r\n# Lower escape timing from 500ms to 50ms for\u001b[24;1H# Lower escape timing from 500ms to 50ms for\u001b[24;44H$\u001b[1;1H\u001b[1M\u001b[24d quicker response to scroll-buffer access.\u001b[K\u001b[1;38H\u001b[30m\u001b[43m[19/48]\u001b[1;1H\u001b[39m\u001b[49m                                     \r\n# Set color of tmux status bar\u001b[K\u001b[23;1H# Lower escape timing from 500ms to 50ms for\u001b[23;1H# Lower escape timing from 500ms to 50ms for\u001b[24;1H quicker response to scroll-buffer access.\u001b[K\u001b[H\u001b[1M\u001b[24dset -s es"
+    ],
+    [
+      0.000059,
+      "cape-time 50\u001b[K\u001b[1;38H\u001b[30m\u001b[43m[18/48]\u001b[1;1H\u001b[39m\u001b[49m# Set color of tmux status bar       \r\nset -g status-bg '#666666'\u001b[K\u001b[23;1H quicker response to scroll-buffer access.\u001b[K\r quicker response to scroll-buffer access.\u001b[K\r\nset -s escape-time 50\u001b[K\u001b[H\u001b[1M\u001b[24d\u001b[K\u001b[1;38H\u001b[30m\u001b[43m[17/48]\u001b[1;1H\u001b[39m\u001b[49mset -g status-bg '#666666'           \r\nset -g status-fg '#aaaaaa'\u001b[K\u001b[23;1Hset -s escape-time 50\u001b[K\rset -s escape-time 50\u001b[K\r\n\u001b[K\u001b[H\u001b[1M\u001b[24d# Mouse support for scrolling\u001b[K\u001b[1;38H\u001b[30m\u001b[43m[16/48]\u001b[1;1H\u001b[39m\u001b[49mset -g status-fg '#aaaaaa'           \r\n\u001b[K\u001b[23d\u001b[K\u001b[K\r\n# Mouse support for scrolling\u001b[K\u001b[H\u001b[1M\u001b[24d# Install EasySIMBL and MouseTerm\u001b[K\u001b[1;38H\u001b[30m\u001b[43m[15/48]\u001b[1;1H\u001b[39m\u001b[49m                                     \r\n# Allow 50 chars in left status\u001b[K\u001b[23;1H# Mouse support for scrolling\u001b[K\r# Mouse support for scrolling\u001b[K\r\n# Install EasySIMBL and MouseTerm\u001b[K\u001b[H\u001b[1M\u001b[24dset-option -g mouse on\u001b[K\u001b[1;38H\u001b[30m\u001b[43m[14/48]\u001b[1;1H\u001b[39m\u001b[49m# Allow 50 chars in left status      \r\nset -g status-left-length 50\u001b[K\u001b[23"
+    ],
+    [
+      0.000044,
+      ";1H# Install EasySIMBL and MouseTerm\u001b[K\r# Install EasySIMBL and MouseTerm\u001b[K\r\nset-option -g mouse on\u001b[K\u001b[H\u001b[1M\u001b[24d\u001b[K\u001b[1;38H\u001b[30m\u001b[43m[13/48]\u001b[1;1H\u001b[39m\u001b[49mset -g status-left-length 50         \r\n\u001b[K\u001b[23dset-option -g mouse on\u001b[K\rset-option -g mouse on\u001b[K\r\n\u001b[K\u001b[H\u001b[1M\u001b[24dset -g mode-mouse on\u001b[K\u001b[1;38H\u001b[30m\u001b[43m[12/48]\u001b[1;1H\u001b[39m\u001b[49m                                     \r\n# Show current pane in right status\u001b[K\u001b[23;1H\u001b[K\u001b[K\r\nset -g mode-mouse on\u001b[K\u001b[H\u001b[1M\u001b[24dset -g mouse-resize-pane on\u001b[K\u001b[1;38H\u001b[30m\u001b[43m[11/48]\u001b[1;1H\u001b[39m\u001b[49m# Show current pane in right status  \r\nset-option -g status-right \"pane:#P\"\u001b[K\u001b[23;1Hset -g mode-mouse on\u001b[K\rset -g mode-mouse on\u001b[K\r\nset -g mouse-resize-pane on\u001b[K\u001b[H\u001b[1M\u001b[24dset -g mouse-select-pane on\u001b[K\u001b[1;38H\u001b[30m\u001b[43m[10/48]\u001b[1;1H\u001b[39m\u001b[49mset-option -g status-right \"pane:#P\" \r\n\u001b[K\u001b[23dset -g mouse-resize-pane on\u001b[K\rset -g mouse-resize-pane on\u001b[K\r\nset -g mouse-select-pane on\u001b[K\u001b[H\u001b[1M\u001b[24dset -g mouse-select-window on\u001b[K\u001b[1;39H\u001b[30m\u001b[43m[9/48]\u001b[1;1H\u001b[39m\u001b[49m                      "
+    ],
+    [
+      0.000013,
+      "                \r\n# - splits pane vertical\u001b[K\u001b[23;1Hset -g mouse-select-pane on\u001b[K\rset -g mouse-select-pane on\u001b[K\r\nset -g mouse-select-window on\u001b[K\u001b[H\u001b[1M\u001b[24d\u001b[K\u001b[1;39H\u001b[30m\u001b[43m[8/48]\u001b[1;1H\u001b[39m\u001b[49m# - splits pane vertical              \r\n# | splits pane horizontal\u001b[K\u001b[23;1Hset -g mouse-select-window on\u001b[K\rset -g mouse-select-window on\u001b[K\r\n\u001b[K\u001b[1;25r\u001b[H\u001b[24d"
+    ],
+    [
+      0.079171,
+      "\u001b[1;24r\u001b[H\u001b[1M\u001b[24d# Start copy mode when scrolling up\u001b[K\u001b[1;39H\u001b[30m\u001b[43m[7/48]\u001b[1;1H\u001b[39m\u001b[49m# | splits pane horizontal            \r\nbind-key - split-window -v -c '#{pane_curren\u001b[23;1H\u001b[K\u001b[K\r\n# Start copy mode when scrolling up\u001b[K\u001b[H\u001b[1M\u001b[24dbind -n WheelUpPane copy-mode\u001b[K\u001b[1;39H\u001b[30m\u001b[43m[6/48]\u001b[1;1H\u001b[39m\u001b[49mbind-key - split-window -v -c '#{pane_\r\nt_path}'\u001b[K\u001b[23;1H# Start copy mode when scrolling up\u001b[K\r# Start copy mode when scrolling up\u001b[K\r\nbind -n WheelUpPane copy-mode\u001b[K\u001b[H\u001b[1M\u001b[24d\u001b[K\u001b[1;39H\u001b[30m\u001b[43m[5/48]\u001b[1;1H\u001b[39m\u001b[49mt_path}'                              \r\nbind-key \\ split-window -h -c '#{pane_curren\u001b[23;1Hbind -n WheelUpPane copy-mode\u001b[K\rbind -n WheelUpPane copy-mode\u001b[K\r\n\u001b[K\u001b[H\u001b[1M\u001b[24d# Enable our custom option to exit copy mode\u001b[1;39H\u001b[30m\u001b[43m[4/48]\u001b[1;1H\u001b[39m\u001b[49mbind-key \\ split-window -h -c '#{pane_\r\nt_path}'\u001b[K\u001b[23;1H\u001b[K\u001b[K\r\n# Enable our custom option to exit copy mode\u001b[24;1H# Enable our custom option to exit copy mode\u001b[24;44H$\u001b[1;1H\u001b[1M\u001b[24d when scrolling past bottom\u001b[K\u001b[1;39H\u001b[30m\u001b["
+    ],
+    [
+      0.000064,
+      "43m[3/48]\u001b[1;1H\u001b[39m\u001b[49mt_path}'                              \r\n\u001b[K\u001b[23d# Enable our custom option to exit copy mode\u001b[23;1H# Enable our custom option to exit copy mode\u001b[24;1H when scrolling past bottom\u001b[K\u001b[H\u001b[1M\u001b[24dset-window-option -g exit-copy-past-bottom o\u001b[1;39H\u001b[30m\u001b[43m[2/48]\u001b[1;1H\u001b[39m\u001b[49m                                      \r\n# if run as \"tmux attach\", create a session \u001b[23;1H when scrolling past bottom\u001b[K\r when scrolling past bottom\u001b[K\r\nset-window-option -g exit-copy-past-bottom o\u001b[24;1Hset-window-option -g exit-copy-past-bottom o\u001b[24;44H$\u001b[1;1H\u001b[1M\u001b[24dn\u001b[K\u001b[1;39H\u001b[30m\u001b[43m[1/48]\u001b[1;1H\u001b[39m\u001b[49m# if run as \"tmux attach\", create a se\r\nif one does not already exist\u001b[K\u001b[23;1Hset-window-option -g exit-copy-past-bottom o\u001b[23;1Hset-window-option -g exit-copy-past-bottom o\u001b[24;1Hn\u001b[K\u001b[H\u001b[1M\u001b[24d\u001b[32m\u001b[1m➜  \u001b[36m~ \u001b[34m \u001b(B\u001b[m\u001b[K\u001b[1;39H\u001b[30m\u001b[43m[0/48]\u001b[1;1H\u001b[39m\u001b[49mif one does not already exist         \r\nnew-session -n $HOST\u001b[K\u001b[23;1Hn\u001b[K\rn\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36m~ \u001b[34m \u001b(B\u001b[m\u001b[K\u001b[23;1Hn\u001b[K\r\n\u001b[32m\u001b"
+    ],
+    [
+      0.000026,
+      "[1m➜  \u001b[36m~ \u001b[34m \u001b(B\u001b[m\u001b[K\u001b[23;1Hn\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36m~ \u001b[34m \u001b(B\u001b[m\u001b[K\u001b[?25l\u001b[Hif one does not already exist\u001b[K\r\nnew-session -n $HOST\u001b[K\r\n\u001b[K\r\n# Lower escape timing from 500ms to 50ms for quicker response to scroll-buffer access.\u001b[K\r\nset -s escape-time 50\u001b[K\r\n\u001b[K\r\n# Mouse support for scrolling\u001b[K\r\n# Install EasySIMBL and MouseTerm\u001b[K\r\nset-option -g mouse on\u001b[K\r\n\u001b[K\r\nset -g mode-mouse on\u001b[K\r\nset -g mouse-resize-pane on\u001b[K\r\nset -g mouse-select-pane on\u001b[K\r\nset -g mouse-select-window on\u001b[K\r\n\u001b[K\r\n# Start copy mode when scrolling up\u001b[K\r\nbind -n WheelUpPane copy-mode\u001b[K\r\n\u001b[K\r\n# Enable our custom option to exit copy mode when scrolling past bottom\u001b[K\r\nset-window-option -g exit-copy-past-bottom on\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36m~ \u001b[34m \u001b(B\u001b[m\u001b[K\u001b[1;25r\u001b[H\u001b[24;7H\u001b[?12l\u001b[?25h\u001b[?1h\u001b="
+    ],
+    [
+      0.497074,
+      "\u0007"
+    ],
+    [
+      0.015857,
+      "\u0007"
+    ],
+    [
+      0.017575,
+      "\u0007"
+    ],
+    [
+      0.016417,
+      "\u0007"
+    ],
+    [
+      0.017280,
+      "\u0007"
+    ],
+    [
+      0.016721,
+      "\u0007"
+    ],
+    [
+      0.000936,
+      "\u001b[1;24r\u001b[H\u001b[24d\n\u001b[1;25r\u001b[H\u001b[24d"
+    ],
+    [
+      0.010546,
+      "\u001b[1;25r"
+    ],
+    [
+      0.000011,
+      "\u001b(B\u001b[m\u001b[?1l\u001b\u003e\u001b[H\u001b[2J\u001b]112\u0007\u001b[?12l\u001b[?25h\u001b[?1000l\u001b[?1006l\u001b[?1005l\u001b[?1049l"
+    ],
+    [
+      0.000212,
+      "[exited]\r\n"
+    ],
+    [
+      0.000663,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                           \r \r"
+    ],
+    [
+      0.000107,
+      "\u001b]2;david@Nine: ~\u0007"
+    ],
+    [
+      0.000025,
+      "\u001b]1;~\u0007"
+    ],
+    [
+      0.000110,
+      "\u001b]7;file:///Users/david\u0007"
+    ],
+    [
+      0.023476,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36m~ \u001b[01;34m\u001b[01;34m \u001b[00m\u001b[K"
+    ],
+    [
+      0.000084,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.261050,
+      "\r\r\n"
+    ]
+  ]
+}
