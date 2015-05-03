@@ -1,0 +1,5982 @@
+{
+  "version": 1,
+  "width": 140,
+  "height": 26,
+  "duration": 140.726896,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.072604,
+      "alfredo@/tmp$ "
+    ],
+    [
+      2.000000,
+      "g"
+    ],
+    [
+      0.155556,
+      "i"
+    ],
+    [
+      0.059042,
+      "t"
+    ],
+    [
+      0.269675,
+      " "
+    ],
+    [
+      0.257879,
+      "c"
+    ],
+    [
+      0.199309,
+      "l"
+    ],
+    [
+      0.201047,
+      "o"
+    ],
+    [
+      0.214297,
+      "n"
+    ],
+    [
+      0.113069,
+      "e"
+    ],
+    [
+      0.152885,
+      " "
+    ],
+    [
+      0.279423,
+      "\""
+    ],
+    [
+      0.247880,
+      "h"
+    ],
+    [
+      0.088555,
+      "t"
+    ],
+    [
+      0.149006,
+      "t"
+    ],
+    [
+      0.095803,
+      "p"
+    ],
+    [
+      0.177230,
+      "s"
+    ],
+    [
+      0.473996,
+      ":"
+    ],
+    [
+      0.252963,
+      "/"
+    ],
+    [
+      0.152007,
+      "/"
+    ],
+    [
+      0.289185,
+      "g"
+    ],
+    [
+      0.095779,
+      "i"
+    ],
+    [
+      0.127099,
+      "t"
+    ],
+    [
+      0.192037,
+      "h"
+    ],
+    [
+      0.186603,
+      "u"
+    ],
+    [
+      0.133972,
+      "b"
+    ],
+    [
+      0.191977,
+      "."
+    ],
+    [
+      0.154849,
+      "c"
+    ],
+    [
+      0.134584,
+      "o"
+    ],
+    [
+      0.137356,
+      "m"
+    ],
+    [
+      0.270235,
+      "/"
+    ],
+    [
+      0.202100,
+      "a"
+    ],
+    [
+      0.100138,
+      "l"
+    ],
+    [
+      0.112695,
+      "f"
+    ],
+    [
+      0.154271,
+      "r"
+    ],
+    [
+      0.061105,
+      "e"
+    ],
+    [
+      0.187198,
+      "d"
+    ],
+    [
+      0.104184,
+      "o"
+    ],
+    [
+      0.119752,
+      "d"
+    ],
+    [
+      0.152305,
+      "i"
+    ],
+    [
+      0.093421,
+      "a"
+    ],
+    [
+      0.193144,
+      "z"
+    ],
+    [
+      0.246064,
+      "/"
+    ],
+    [
+      0.241869,
+      "k"
+    ],
+    [
+      0.080277,
+      "a"
+    ],
+    [
+      0.128291,
+      "t"
+    ],
+    [
+      0.110770,
+      "a"
+    ],
+    [
+      0.166537,
+      "-"
+    ],
+    [
+      0.370778,
+      "z"
+    ],
+    [
+      0.087682,
+      "o"
+    ],
+    [
+      0.159805,
+      "o"
+    ],
+    [
+      0.192465,
+      "k"
+    ],
+    [
+      0.086640,
+      "e"
+    ],
+    [
+      0.190969,
+      "e"
+    ],
+    [
+      0.161380,
+      "p"
+    ],
+    [
+      0.121533,
+      "e"
+    ],
+    [
+      0.071730,
+      "r"
+    ],
+    [
+      0.189238,
+      "."
+    ],
+    [
+      0.147935,
+      "g"
+    ],
+    [
+      0.150250,
+      "i"
+    ],
+    [
+      0.144838,
+      "t"
+    ],
+    [
+      0.352305,
+      "\""
+    ],
+    [
+      0.494114,
+      "\r\n"
+    ],
+    [
+      0.002429,
+      "Cloning into 'kata-zookeeper'...\r\n"
+    ],
+    [
+      1.316386,
+      "remote: Counting objects: 16, done.\u001b[K"
+    ],
+    [
+      0.000022,
+      "\r\n"
+    ],
+    [
+      0.000052,
+      "remote: Compressing objects:  11% (1/9)   \u001b[K\r"
+    ],
+    [
+      0.000009,
+      "remote: Compressing objects:  22% (2/9)   \u001b[K\rremote: Compressing objects:  33% (3/9)   \u001b[K\rremote: Compressing objects:  4"
+    ],
+    [
+      0.000008,
+      "4% (4/9)   \u001b[K\r"
+    ],
+    [
+      0.000008,
+      "remote: Compressing objects:  55% (5/9)   \u001b[K\rremote: Compressing objects:  66% (6/9)   \u001b[K\r"
+    ],
+    [
+      0.000008,
+      "remote: Compressing objects:  77% (7/9)   \u001b[K\rremote: Compressing"
+    ],
+    [
+      0.000008,
+      " objects:  88% (8/9)   \u001b[K\rremote: Compressing objects: 100% (9/9)   \u001b[K\r"
+    ],
+    [
+      0.000010,
+      "remote: Compressing objects: 100% (9/9), done.\u001b[K\r\n"
+    ],
+    [
+      0.118643,
+      "remote: Total 16 (delta 1), reused 16 (delta 1), pack-reused 0\u001b[K"
+    ],
+    [
+      0.000027,
+      "\r\n"
+    ],
+    [
+      0.003227,
+      "Unpacking objects:   6% (1/16)   \r"
+    ],
+    [
+      0.000540,
+      "Unpacking objects:  12% (2/16)   \r"
+    ],
+    [
+      0.000983,
+      "Unpacking objects:  18% (3/16)   \r"
+    ],
+    [
+      0.003622,
+      "Unpacking objects:  25% (4/16)   \r"
+    ],
+    [
+      0.000457,
+      "Unpacking objects:  31% (5/16)   \r"
+    ],
+    [
+      0.000386,
+      "Unpacking objects:  37% (6/16)   \r"
+    ],
+    [
+      0.000443,
+      "Unpacking objects:  43% (7/16)   \r"
+    ],
+    [
+      0.000439,
+      "Unpacking objects:  50% (8/16)   \r"
+    ],
+    [
+      0.000262,
+      "Unpacking objects:  56% (9/16)   \r"
+    ],
+    [
+      0.000257,
+      "Unpacking objects:  62% (10/16)   \r"
+    ],
+    [
+      0.000319,
+      "Unpacking objects:  68% (11/16)   \r"
+    ],
+    [
+      0.000615,
+      "Unpacking objects:  75% (12/16)   \r"
+    ],
+    [
+      0.000373,
+      "Unpacking objects:  81% (13/16)   \r"
+    ],
+    [
+      0.000625,
+      "Unpacking objects:  87% (14/16)   \r"
+    ],
+    [
+      0.000014,
+      "Unpacking objects:  93% (15/16)   \r"
+    ],
+    [
+      0.000869,
+      "Unpacking objects: 100% (16/16)   \rUnpacking objects: 100% (16/16), done.\r\n"
+    ],
+    [
+      0.000396,
+      "Checking connectivity... "
+    ],
+    [
+      0.003572,
+      "done.\r\n"
+    ],
+    [
+      0.016666,
+      "alfredo@/tmp$ "
+    ],
+    [
+      0.705684,
+      "c"
+    ],
+    [
+      0.166983,
+      "d"
+    ],
+    [
+      0.113852,
+      " "
+    ],
+    [
+      0.229404,
+      "k"
+    ],
+    [
+      0.071730,
+      "a"
+    ],
+    [
+      0.079296,
+      "t"
+    ],
+    [
+      0.128077,
+      "a"
+    ],
+    [
+      0.203249,
+      "-"
+    ],
+    [
+      0.335105,
+      "z"
+    ],
+    [
+      0.128278,
+      "o"
+    ],
+    [
+      0.168269,
+      "o"
+    ],
+    [
+      0.200372,
+      "k"
+    ],
+    [
+      0.076657,
+      "e"
+    ],
+    [
+      0.170815,
+      "e"
+    ],
+    [
+      0.176117,
+      "p"
+    ],
+    [
+      0.103002,
+      "e"
+    ],
+    [
+      0.105062,
+      "r"
+    ],
+    [
+      0.445532,
+      "/"
+    ],
+    [
+      0.439974,
+      "\r\n"
+    ],
+    [
+      0.002239,
+      "alfredo@/tmp/kata-zookeeper$ "
+    ],
+    [
+      1.463707,
+      "m"
+    ],
+    [
+      0.088668,
+      "v"
+    ],
+    [
+      0.087040,
+      "n"
+    ],
+    [
+      0.728900,
+      " "
+    ],
+    [
+      0.108923,
+      "s"
+    ],
+    [
+      0.113835,
+      "p"
+    ],
+    [
+      0.112803,
+      "r"
+    ],
+    [
+      0.072876,
+      "i"
+    ],
+    [
+      0.102953,
+      "n"
+    ],
+    [
+      0.103958,
+      "g"
+    ],
+    [
+      0.399468,
+      "-"
+    ],
+    [
+      0.391508,
+      "b"
+    ],
+    [
+      0.151390,
+      "o"
+    ],
+    [
+      0.159055,
+      "o"
+    ],
+    [
+      0.138912,
+      "t"
+    ],
+    [
+      0.269237,
+      ":"
+    ],
+    [
+      0.199858,
+      "r"
+    ],
+    [
+      0.067230,
+      "u"
+    ],
+    [
+      0.207125,
+      "n"
+    ],
+    [
+      0.280442,
+      "\r\n"
+    ],
+    [
+      1.400036,
+      "[INFO] Scanning for projects..."
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.279846,
+      "[INFO] "
+    ],
+    [
+      0.000035,
+      "\r\n[INFO] Using the builder org.apache.maven.lifecycle.internal.builder.singlethreaded.SingleThreadedBuilder with a thread count of 1\r\n"
+    ],
+    [
+      0.000660,
+      "[INFO]                                                                         "
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000023,
+      "[INFO] ------------------------------------------------------------------------"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000078,
+      "[INFO] Building Therore Kata with Zookeeper 1.0.0-SNAPSHOT"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000025,
+      "[INFO] ------------------------------------------------------------------------"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.051316,
+      "[INFO] \r\n[INFO] \u003e\u003e\u003e spring-boot-maven-plugin:1.2.3.RELEASE:run (default-cli) @ therore-kata-zookeeper \u003e\u003e\u003e\r\n"
+    ],
+    [
+      0.871916,
+      "[INFO] "
+    ],
+    [
+      0.000056,
+      "\r\n"
+    ],
+    [
+      0.000057,
+      "[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ therore-kata-zookeeper ---"
+    ],
+    [
+      0.000036,
+      "\r\n"
+    ],
+    [
+      0.225351,
+      "[INFO] Using 'UTF-8' encoding to copy filtered resources."
+    ],
+    [
+      0.000049,
+      "\r\n"
+    ],
+    [
+      0.004714,
+      "[INFO] Copying 1 resource"
+    ],
+    [
+      0.000323,
+      "\r\n"
+    ],
+    [
+      0.019206,
+      "[INFO] Copying 0 resource"
+    ],
+    [
+      0.000052,
+      "\r\n"
+    ],
+    [
+      0.001720,
+      "[INFO] "
+    ],
+    [
+      0.000082,
+      "\r\n"
+    ],
+    [
+      0.000076,
+      "[INFO] --- maven-compiler-plugin:3.1:compile (default-compile) @ therore-kata-zookeeper ---"
+    ],
+    [
+      0.000039,
+      "\r\n"
+    ],
+    [
+      0.282511,
+      "[INFO] Changes detected - recompiling the module!"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.006951,
+      "[INFO] Compiling 2 source files to /tmp/kata-zookeeper/target/classes"
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      1.314459,
+      "[INFO] "
+    ],
+    [
+      0.000017,
+      "\r\n[INFO] --- maven-resources-plugin:2.6:testResources (default-testResources) @ therore-kata-zookeeper ---"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.004302,
+      "[INFO] Using 'UTF-8' encoding to copy filtered resources."
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.000060,
+      "[INFO] skip non existing resourceDirectory /tmp/kata-zookeeper/src/test/resources"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000197,
+      "[INFO] "
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000018,
+      "[INFO] --- maven-compiler-plugin:3.1:testCompile (default-testCompile) @ therore-kata-zookeeper ---"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.003353,
+      "[INFO] No sources to compile"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.000100,
+      "[INFO] "
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000021,
+      "[INFO] \u003c\u003c\u003c spring-boot-maven-plugin:1.2.3.RELEASE:run (default-cli) @ therore-kata-zookeeper \u003c\u003c\u003c"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.105112,
+      "[INFO] "
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "[INFO] --- spring-boot-maven-plugin:1.2.3.RELEASE:run (default-cli) @ therore-kata-zookeeper ---"
+    ],
+    [
+      0.000022,
+      "\r\n"
+    ],
+    [
+      1.046383,
+      "[2015-05-02 22:39:06.189] boot - 8793  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- SampleSimpleApplication: Starting SampleSimpleApplication on raude with PID 8793 (/tmp/kata-zookeeper/target/classes started by alfredo in /tmp/kata-zookeeper)"
+    ],
+    [
+      0.000022,
+      "\r\n"
+    ],
+    [
+      0.035248,
+      "[2015-05-02 22:39:06.226] boot - 8793  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- AnnotationConfigApplicationContext: Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@bd24d0c: startup date [Sat May 02 22:39:06 CEST 2015]; root of context hierarchy"
+    ],
+    [
+      0.000025,
+      "\r\n"
+    ],
+    [
+      0.360444,
+      "[2015-05-02 22:39:06.587] boot - 8793  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- AutowiredAnnotationBeanPostProcessor: JSR-330 'javax.inject.Inject' annotation found and supported for autowiring"
+    ],
+    [
+      0.000017,
+      "\r\n"
+    ],
+    [
+      0.562338,
+      "[2015-05-02 22:39:07.149] boot - 8793  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- CuratorFrameworkImpl: Starting\r\n"
+    ],
+    [
+      0.014534,
+      "[2015-05-02 22:39:07.164] boot - 8793  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- ZooKeeper: Client environment:zookeeper.version=3.4.6-1569965, built on 02/20/2014 09:09 GMT\r\n"
+    ],
+    [
+      0.000106,
+      "[2015-05-02 22:39:07.164] boot - 8793  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- ZooKeeper: Client environment:host.name=raude"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000144,
+      "[2015-05-02 22:39:07.164] boot - 8793  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- ZooKeeper: Client environment:java.version=1.8.0_25"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000116,
+      "[2015-05-02 22:39:07.164] boot - 8793  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- ZooKeeper: Client environment:java.vendor=Oracle Corporation\r\n"
+    ],
+    [
+      0.000121,
+      "[2015-05-02 22:39:07.164] boot - 8793  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- ZooKeeper: Client environment:java.home=/opt/jdk1.8.0_25/jre"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000096,
+      "[2015-05-02 22:39:07.164] boot - 8793  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- ZooKeeper: Client environment:java.class.path=/opt/maven/boot/plexus-classworlds-2.5.1.jar"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.000112,
+      "[2015-05-02 22:39:07.165] boot - 8793  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- ZooKeeper: Client environment:java.library.path=/opt/jdk1.8.0_25/jre/lib/amd64/server:/opt/jdk1.8.0_25/jre/lib/amd64:/opt/jdk1.8.0_25/jre/../lib/amd64:/opt/jdk//jre/lib/amd64/server/:/opt/jdk//jre/lib/amd64/server/::/usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000086,
+      "[2015-05-02 22:39:07.165] boot - 8793  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- ZooKeeper: Client environment:java.io.tmpdir=/tmp"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000083,
+      "[2015-05-02 22:39:07.165] boot - 8793  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- ZooKeeper: Client environment:java.compiler=\u003cNA\u003e"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000076,
+      "[2015-05-02 22:39:07.165] boot - 8793  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- ZooKeeper: Client environment:os.name=Linux"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000151,
+      "[2015-05-02 22:39:07.165] boot - 8793  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- ZooKeeper: Client environment:os.arch=amd64"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000091,
+      "[2015-05-02 22:39:07.165] boot - 8793  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- ZooKeeper: Client environment:os.version=3.13.0-45-generic"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000087,
+      "[2015-05-02 22:39:07.165] boot - 8793  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- ZooKeeper: Client environment:user.name=alfredo"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000089,
+      "[2015-05-02 22:39:07.165] boot - 8793  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- ZooKeeper: Client environment:user.home=/opt"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000098,
+      "[2015-05-02 22:39:07.165] boot - 8793  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- ZooKeeper: Client environment:user.dir=/tmp/kata-zookeeper"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.001672,
+      "[2015-05-02 22:39:07.167] boot - 8793  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- ZooKeeper: Initiating client connection, connectString=localhost:2181 sessionTimeout=60000 watcher=org.apache.curator.ConnectionState@70d53764"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.063220,
+      "[2015-05-02 22:39:07.229] boot - 8793  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main(localhost:2181)] --- ClientCnxn: Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)"
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.079972,
+      "[2015-05-02 22:39:07.310] boot - 8793  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- SampleSimpleApplication: Started SampleSimpleApplication in 1.383 seconds (JVM running for 6.719)"
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.023937,
+      "\r\n"
+    ],
+    [
+      0.000249,
+      "  .   ____          _            __ _ _"
+    ],
+    [
+      0.000217,
+      "\r\n"
+    ],
+    [
+      0.000168,
+      " /\\\\ / ___'_ __ _ _(_)_ __  __ _ \\ \\ \\ \\"
+    ],
+    [
+      0.000149,
+      "\r\n"
+    ],
+    [
+      0.000143,
+      "( ( )\\___ | '_ | '_| | '_ \\/ _` | \\ \\ \\ \\"
+    ],
+    [
+      0.000148,
+      "\r\n"
+    ],
+    [
+      0.000143,
+      " \\\\/  ___)| |_)| | | | | || (_| |  ) ) ) )"
+    ],
+    [
+      0.000140,
+      "\r\n"
+    ],
+    [
+      0.000143,
+      "  '  |____| .__|_| |_|_| |_\\__, | / / / /"
+    ],
+    [
+      0.000337,
+      "\r\n"
+    ],
+    [
+      0.000040,
+      " =========|_|==============|___/=/_/_/_/"
+    ],
+    [
+      0.000032,
+      "\r\n"
+    ],
+    [
+      0.004038,
+      "\u001b[32m :: Spring Boot :: \u001b[39m      \u001b[2m (v1.2.3.RELEASE)\u001b[0;39m"
+    ],
+    [
+      0.000082,
+      "\r\n"
+    ],
+    [
+      0.000060,
+      "\r\n"
+    ],
+    [
+      0.068287,
+      "[2015-05-02 22:39:07.406] boot - 8793  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main(localhost:2181)] --- ClientCnxn: Socket connection established to localhost/127.0.0.1:2181, initiating session"
+    ],
+    [
+      0.000024,
+      "\r\n"
+    ],
+    [
+      0.017788,
+      "[2015-05-02 22:39:07.426] boot - 8793  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main(localhost:2181)] --- ClientCnxn: Session establishment complete on server localhost/127.0.0.1:2181, sessionid = 0x14d1644af5c0006, negotiated timeout = 40000"
+    ],
+    [
+      0.000024,
+      "\r\n"
+    ],
+    [
+      0.018285,
+      "[2015-05-02 22:39:07.443] boot - 8793  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()-EventThread] --- ConnectionStateManager: State change: CONNECTED"
+    ],
+    [
+      0.000033,
+      "\r\n"
+    ],
+    [
+      0.634672,
+      "[2015-05-02 22:39:08.079] boot - 8793 ERROR [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- ConfigServicePropertySourceLocator: Could not locate PropertySource: I/O error on GET request for \"http://localhost:8888/myapplication/default\":Connection refused; nested exception is java.net.ConnectException: Connection refused\r\n"
+    ],
+    [
+      0.052054,
+      "[2015-05-02 22:39:08.131] boot - 8793  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- PropertySourceBootstrapConfiguration: Located property source: CompositePropertySource [name='zookeeper', propertySources=[ZookeeperPropertySource [name='config/application'], ZookeeperPropertySource [name='config/myapplication']]]"
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.037397,
+      "[2015-05-02 22:39:08.169] boot - 8793  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- AnnotationConfigEmbeddedWebApplicationContext: Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@4153785: startup date [Sat May 02 22:39:08 CEST 2015]; parent: org.springframework.context.annotation.AnnotationConfigApplicationContext@bd24d0c"
+    ],
+    [
+      0.000021,
+      "\r\n"
+    ],
+    [
+      0.817573,
+      "[2015-05-02 22:39:08.986] boot - 8793  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- DefaultListableBeanFactory: Overriding bean definition for bean 'beanNameViewResolver': replacing [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=org.springframework.boot.autoconfigure.web.ErrorMvcAutoConfiguration$WhitelabelErrorViewConfiguration; factoryMethodName=beanNameViewResolver; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [org/springframework/boot/autoconfigure/web/ErrorMvcAutoConfiguration$WhitelabelErrorViewConfiguration.class]] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=org.springframework.boot.autoconfigure.web.WebMvcAutoConfiguration$WebMvcAutoConfigurationAdapter; factoryMethodName=beanNameViewResolver; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [org/springframework/boot/autoconfigure/web/WebMvcAutoConfiguration$WebMvcAutoConfigurationAdapter.class]]\r\n"
+    ],
+    [
+      0.135989,
+      "[2015-05-02 22:39:09.122] boot - 8793  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- DefaultListableBeanFactory: Overriding bean definition for bean 'infoEndpoint': replacing [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=org.springframework.boot.actuate.autoconfigure.EndpointAutoConfiguration; factoryMethodName=infoEndpoint; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [org/springframework/boot/actuate/autoconfigure/EndpointAutoConfiguration.class]] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=org.springframework.cloud.autoconfigure.RefreshAutoConfiguration$InfoEndpointRebinderConfiguration; factoryMethodName=infoEndpoint; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [org/springframework/cloud/autoconfigure/RefreshAutoConfiguration$InfoEndpointRebinderConfiguration.class]]\r\n"
+    ],
+    [
+      0.040405,
+      "[2015-05-02 22:39:09.163] boot - 8793  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- DefaultListableBeanFactory: Overriding bean definition for bean 'default.null.RibbonClientSpecification': replacing [Generic bean: class [org.springframework.cloud.netflix.ribbon.RibbonClientSpecification]; scope=; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null] with [Generic bean: class [org.springframework.cloud.netflix.ribbon.RibbonClientSpecification]; scope=; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null]\r\n"
+    ],
+    [
+      0.205045,
+      "[2015-05-02 22:39:09.368] boot - 8793  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- GenericScope: BeanFactory id=8cb978fc-49cc-3f58-ada0-e7ea19d75830"
+    ],
+    [
+      0.000028,
+      "\r\n"
+    ],
+    [
+      0.014726,
+      "[2015-05-02 22:39:09.383] boot - 8793  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- AutowiredAnnotationBeanPostProcessor: JSR-330 'javax.inject.Inject' annotation found and supported for autowiring"
+    ],
+    [
+      0.000017,
+      "\r\n"
+    ],
+    [
+      0.025360,
+      "[2015-05-02 22:39:09.406] boot - 8793  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- PostProcessorRegistrationDelegate$BeanPostProcessorChecker: Bean 'org.springframework.scheduling.annotation.SchedulingConfiguration' of type [class org.springframework.scheduling.annotation.SchedulingConfiguration$$EnhancerBySpringCGLIB$$545b1803] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)\r\n"
+    ],
+    [
+      0.035428,
+      "[2015-05-02 22:39:09.443] boot - 8793  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- PostProcessorRegistrationDelegate$BeanPostProcessorChecker: Bean 'org.springframework.cloud.autoconfigure.RefreshAutoConfiguration$ConfigurationPropertiesRebinderConfiguration' of type [class org.springframework.cloud.autoconfigure.RefreshAutoConfiguration$ConfigurationPropertiesRebinderConfiguration$$EnhancerBySpringCGLIB$$d50881fe] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.409680,
+      "[2015-05-02 22:39:09.853] boot - 8793  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- TomcatEmbeddedServletContainer: Tomcat initialized with port(s): 8088 (http)"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.268298,
+      "[2015-05-02 22:39:10.119] boot - 8793  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- StandardService: Starting service Tomcat\r\n[2015-05-02 22:39:10.121] boot - 8793  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- StandardEngine: Starting Servlet Engine: Apache Tomcat/8.0.20\r\n"
+    ],
+    [
+      0.132126,
+      "[2015-05-02 22:39:10.253] boot - 8793  INFO [localhost-startStop-1] --- [/]: Initializing Spring embedded WebApplicationContext\r\n[2015-05-02 22:39:10.253] boot - 8793  INFO [localhost-startStop-1] --- ContextLoader: Root WebApplicationContext: initialization completed in 2084 ms\r\n"
+    ],
+    [
+      0.631889,
+      "[2015-05-02 22:39:10.885] boot - 8793  INFO [localhost-startStop-1] --- ServletRegistrationBean: Mapping servlet: 'dispatcherServlet' to [/]"
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.004480,
+      "[2015-05-02 22:39:10.890] boot - 8793  INFO [localhost-startStop-1] --- FilterRegistrationBean: Mapping filter: 'metricFilter' to: [/*]\r\n"
+    ],
+    [
+      0.000379,
+      "[2015-05-02 22:39:10.890] boot - 8793  INFO [localhost-startStop-1] --- FilterRegistrationBean: Mapping filter: 'characterEncodingFilter' to: [/*]"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000218,
+      "[2015-05-02 22:39:10.891] boot - 8793  INFO [localhost-startStop-1] --- FilterRegistrationBean: Mapping filter: 'webRequestLoggingFilter' to: [/*]"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000205,
+      "[2015-05-02 22:39:10.891] boot - 8793  INFO [localhost-startStop-1] --- FilterRegistrationBean: Mapping filter: 'hiddenHttpMethodFilter' to: [/*]"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000150,
+      "[2015-05-02 22:39:10.891] boot - 8793  INFO [localhost-startStop-1] --- FilterRegistrationBean: Mapping filter: 'applicationContextIdFilter' to: [/*]"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.101648,
+      "[2015-05-02 22:39:10.988] boot - 8793  WARN [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- AnnotationConfigEmbeddedWebApplicationContext: Exception encountered during context initialization - cancelling refresh attempt"
+    ],
+    [
+      0.000028,
+      "\r\n"
+    ],
+    [
+      0.000023,
+      "org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'sampleSimpleApplication': Injection of autowired dependencies failed; nested exception is org.springframework.beans.factory.BeanCreationException: Could not autowire field: private net.therore.kata.zookeeper.simple.service.HelloWorldService net.therore.kata.zookeeper.simple.SampleSimpleApplication.helloWorldService; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'helloWorldService': Injection of autowired dependencies failed; nested exception is org.springframework.beans.factory.BeanCreationException: Could not autowire field: private java.lang.String net.therore.kata.zookeeper.simple.service.HelloWorldService.name; nested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'name' in string value \"${name}\""
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.000019,
+      "\u0009"
+    ],
+    [
+      0.000012,
+      "at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessPropertyValues(AutowiredAnnotationBeanPostProcessor.java:334)"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "\u0009"
+    ],
+    [
+      0.000013,
+      "at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1210)"
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "\u0009"
+    ],
+    [
+      0.000012,
+      "at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:537)"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "\u0009"
+    ],
+    [
+      0.000012,
+      "at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:476)"
+    ],
+    [
+      0.000038,
+      "\r\n"
+    ],
+    [
+      0.000012,
+      "\u0009"
+    ],
+    [
+      0.000012,
+      "at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:303)"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "\u0009"
+    ],
+    [
+      0.000017,
+      "at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230)"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "\u0009"
+    ],
+    [
+      0.000012,
+      "at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:299"
+    ],
+    [
+      0.000011,
+      ")"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000015,
+      "\u0009"
+    ],
+    [
+      0.000012,
+      "at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:194)"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "\u0009"
+    ],
+    [
+      0.000012,
+      "at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:755)"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000015,
+      "\u0009"
+    ],
+    [
+      0.000012,
+      "at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:757)"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "\u0009"
+    ],
+    [
+      0.000011,
+      "at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:480)"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.000015,
+      "\u0009"
+    ],
+    [
+      0.000012,
+      "at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.refresh(EmbeddedWebApplicationContext.java:118)"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "\u0009"
+    ],
+    [
+      0.000011,
+      "at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:686)"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000015,
+      "\u0009"
+    ],
+    [
+      0.000012,
+      "at org.springframework.boot.SpringApplication.run(SpringApplication.java:320)"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "\u0009"
+    ],
+    [
+      0.000011,
+      "at org.springframework.boot.SpringApplication.run(SpringApplication.java:957)"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000015,
+      "\u0009"
+    ],
+    [
+      0.000011,
+      "at org.springframework.boot.SpringApplication.run(SpringApplication.java:946)"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "\u0009"
+    ],
+    [
+      0.000012,
+      "at net.therore.kata.zookeeper.simple.SampleSimpleApplication.main(SampleSimpleApplication.java:47)"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000015,
+      "\u0009"
+    ],
+    [
+      0.000011,
+      "at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "\u0009"
+    ],
+    [
+      0.000011,
+      "at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000015,
+      "\u0009"
+    ],
+    [
+      0.000011,
+      "at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "\u0009"
+    ],
+    [
+      0.000011,
+      "at java.lang.reflect.Method.invoke(Method.java:483)"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000015,
+      "\u0009"
+    ],
+    [
+      0.000012,
+      "at org.springframework.boot.maven.RunMojo$LaunchRunner.run(RunMojo.java:418)"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "\u0009"
+    ],
+    [
+      0.000011,
+      "at java.lang.Thread.run(Thread.java:745)"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.000023,
+      "Caused by: org.springframework.beans.factory.BeanCreationException: Could not autowire field: private net.therore.kata.zookeeper.simple.service.HelloWorldService net.therore.kata.zookeeper.simple.SampleSimpleApplication.helloWorldService; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'helloWorldService': Injection of autowired dependencies failed; nested exception is org.springframework.beans.factory.BeanCreationException: Could not autowire field: private java.lang.String net.therore.kata.zookeeper.simple.service.HelloWorldService.name; n"
+    ],
+    [
+      0.000015,
+      "ested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'name' in string value \"${name}\""
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "\u0009"
+    ],
+    [
+      0.000013,
+      "at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:561)"
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "\u0009"
+    ],
+    [
+      0.000012,
+      "at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:88)"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "\u0009"
+    ],
+    [
+      0.000012,
+      "at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessPropertyValues(AutowiredAnnotationBeanPostProcessor.java:331)"
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.000016,
+      "\u0009"
+    ],
+    [
+      0.000009,
+      "... 22 more"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000013,
+      "Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'helloWorldService': Injection of autowired dependencies failed; nested exception is org.springframework.beans.factory.BeanCreationException: Could not autowire field: private java.lang.String net.therore.kata.zookeeper.simple.service.HelloWorldService.name; nested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'name' in string value \"${name}\""
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "\u0009"
+    ],
+    [
+      0.000014,
+      "at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessPropertyValues(AutowiredAnnotationBeanPostProcessor.java:334)"
+    ],
+    [
+      0.000022,
+      "\r\n"
+    ],
+    [
+      0.000014,
+      "\u0009"
+    ],
+    [
+      0.000016,
+      "at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1210)"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "\u0009"
+    ],
+    [
+      0.000011,
+      "at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:537)"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "\u0009"
+    ],
+    [
+      0.000011,
+      "at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:476)"
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "\u0009"
+    ],
+    [
+      0.000011,
+      "at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:303)"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "\u0009"
+    ],
+    [
+      0.000011,
+      "at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230)"
+    ],
+    [
+      0.000017,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "\u0009"
+    ],
+    [
+      0.000011,
+      "at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:299)"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "\u0009"
+    ],
+    [
+      0.000011,
+      "at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:194)"
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "\u0009"
+    ],
+    [
+      0.000012,
+      "at org.springframework.beans.factory.support.DefaultListableBeanFactory.findAutowireCandidates(DefaultListableBeanFactory.java:1120)"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "\u0009"
+    ],
+    [
+      0.000011,
+      "at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1044)"
+    ],
+    [
+      0.000017,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "\u0009"
+    ],
+    [
+      0.000012,
+      "at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:942)"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "\u0009"
+    ],
+    [
+      0.000012,
+      "at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:533)"
+    ],
+    [
+      0.000017,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "\u0009"
+    ],
+    [
+      0.000010,
+      "... 24 more"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000013,
+      "Caused by: org.springframework.beans.factory.BeanCreationException: Could not autowire field: private java.lang.String net.therore.kata.zookeeper.simple.service.HelloWorldService.name; nested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'name' in string value \"${name}\""
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "\u0009"
+    ],
+    [
+      0.000017,
+      "at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:561)"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "\u0009"
+    ],
+    [
+      0.000011,
+      "at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:88)"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "\u0009"
+    ],
+    [
+      0.000016,
+      "at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessPropertyValues(AutowiredAnnotationBeanPostProcessor.java:331)"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "\u0009"
+    ],
+    [
+      0.000010,
+      "... 35 more"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000012,
+      "Caused by: java.lang.IllegalArgumentException: Could not resolve placeholder 'name' in string value \"${name}\""
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000016,
+      "\u0009"
+    ],
+    [
+      0.000011,
+      "at org.springframework.util.PropertyPlaceholderHelper.parseStringValue(PropertyPlaceholderHelper.java:174)"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "\u0009"
+    ],
+    [
+      0.000011,
+      "at org.springframework.util.PropertyPlaceholderHelper.replacePlaceholders(PropertyPlaceholderHelper.java:126)"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000015,
+      "\u0009"
+    ],
+    [
+      0.000011,
+      "at org.springframework.core.env.AbstractPropertyResolver.doResolvePlaceholders(AbstractPropertyResolver.java:204)"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "\u0009"
+    ],
+    [
+      0.000010,
+      "at org.springframework.core.env.AbstractPropertyResolver.resolveRequiredPlaceholders(AbstractPropertyResolver.java:178)"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "\u0009"
+    ],
+    [
+      0.000015,
+      "at org.springframework.context.support.PropertySourcesPlaceholderConfigurer$2.resolveStringValue(PropertySourcesPlaceholderConfigurer.java:175)"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "\u0009"
+    ],
+    [
+      0.000010,
+      "at org.springframework.beans."
+    ],
+    [
+      0.000092,
+      "factory.support.AbstractBeanFactory.resolveEmbeddedValue(AbstractBeanFactory.java:801)"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000016,
+      "\u0009"
+    ],
+    [
+      0.000011,
+      "at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:955)"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "\u0009"
+    ],
+    [
+      0.000011,
+      "at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:942)"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000015,
+      "\u0009"
+    ],
+    [
+      0.000012,
+      "at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:533)"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "\u0009"
+    ],
+    [
+      0.000010,
+      "... 37 more"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.006424,
+      "[2015-05-02 22:39:10.998] boot - 8793  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- StandardService: Stopping service Tomcat\r\n"
+    ],
+    [
+      0.016665,
+      "[2015-05-02 22:39:11.018] boot - 8793  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- ClasspathLoggingApplicationListener: Application failed to start with classpath: [file:/tmp/kata-zookeeper/target/classes/, file:/opt/.m2/repository/io/netty/netty-transport/4.0.21.Final/netty-transport-4.0.21.Final.jar, file:/opt/.m2/repository/com/netflix/netflix-commons/netflix-commons-util/0.1.1/netflix-commons-util-0.1.1.jar, file:/opt/.m2/repository/io/netty/netty/3.7.0.Final/netty-3.7.0.Final.jar, file:/opt/.m2/repository/org/springframework/boot/spring-boot-starter/1.2.3.RELEASE/spring-boot-starter-1.2.3.RELEASE.jar, file:/opt/.m2/repository/log4j/log4j/1.2.17/log4j-1.2.17.jar, file:/opt/.m2/repository/org/springframework/spring-core/4.1.6.RELEASE/spring-core-4.1.6.RELEASE.jar, file:/opt/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.4.5/jackson-core-2.4.5.jar, file:/opt/.m2/repository/org/springframework/spring-context/4.1.6.RELEASE/spring-context-4.1.6.RELEASE.jar, file:/opt/.m2/repository/commons-configuration/commons-configuration/1.8/commons-configuration-1.8.jar, file:/opt/.m2/repository/org/yaml/snakeyaml/1.14/snakeyaml-1.14.jar, file:/opt/.m2/repository/aopalliance/aopalliance/1.0/aopalliance-1.0.jar, file:/opt/.m2/repository/org/springframework/spring-webmvc/4.1.6.RELEASE/spring-webmvc-4.1.6.RELEASE.jar, file:/opt/.m2/repository/org/apache/curator/curator-framework/2.7.1/curator-framework-2.7.1.jar, file:/opt/.m2/repository/com/netflix/rxnetty/rx-netty-contexts/0.3.13/rx-netty-contexts-0.3.13.jar, file:/opt/.m2/repository/org/slf4j/jul-to-slf4j/1.7.11/jul-to-slf4j-1.7.11.jar, file:/opt/.m2/repository/org/springframework/spring-web/4.1.6.RELEASE/spring-web-4.1.6.RELEASE.jar, file:/opt/.m2/repository/com/sun/jersey/contribs/jersey-apache-client4/1.11/jersey-apache-client4-1.11.jar, file:/opt/.m2/repository/com/netfli"
+    ],
+    [
+      0.000038,
+      "x/servo/servo-core/0.7.4/servo-core-0.7.4.jar, file:/opt/.m2/repository/com/netflix/archaius/archaius-core/0.5.12/archaius-core-0.5.12.jar, file:/opt/.m2/repository/org/apache/httpcomponents/httpclient/4.3.6/httpclient-4.3.6.jar, file:/opt/.m2/repository/org/apache/tomcat/embed/tomcat-embed-el/8.0.20/tomcat-embed-el-8.0.20.jar, file:/opt/.m2/repository/org/springframework/boot/spring-boot-starter-tomcat/1.2.3.RELEASE/spring-boot-starter-tomcat-1.2.3.RELEASE.jar, file:/opt/.m2/repository/org/springframework/boot/spring-boot-starter-actuator/1.2.3.RELEASE/spring-boot-starter-actuator-1.2.3.RELEASE.jar, file:/opt/.m2/repository/org/springframework/boot/spring-boot-actuator/1.2.3.RELEASE/spring-boot-actuator-1.2.3.RELEASE.jar, file:/opt/.m2/repository/com/netflix/rxjava/rxjava-core/0.18.2/rxjava-core-0.18.2.jar, file:/opt/.m2/repository/com/netflix/ribbon/ribbon/2.0-RC9/ribbon-2.0-RC9.jar, file:/opt/.m2/repository/io/netty/netty-codec/4.0.21.Final/netty-codec-4.0.21.Final.jar, file:/opt/.m2/repository/com/netflix/hystrix/hystrix-core/1.4.0-RC4/hystrix-core-1.4.0-RC4.jar, file:/opt/.m2/repository/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar, file:/opt/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar, file:/opt/.m2/repository/org/springframework/security/spring-security-crypto/3.2.7.RELEASE/spring-security-crypto-3.2.7.RELEASE.jar, file:/opt/.m2/repository/org/codehaus/jackson/jackson-mapper-asl/1.9.13/jackson-mapper-asl-1.9.13.jar, file:/opt/.m2/repository/org/springframework/spring-expression/4.1.6.RELEASE/spring-expression-4.1.6.RELEASE.jar, file:/opt/.m2/repository/org/springframework/cloud/spring-cloud-commons/1.0.1.RELEASE/spring-cloud-commons-1.0.1.RELEASE.jar, file:/opt/.m2/repository/com/sun/jersey/jersey-core/1.11/jersey-core-1.11.jar, file:/opt/.m2/repository/org/springframework/cloud/spring-cloud-zookeeper-discovery/1.0.0.BUILD-SNAPSHOT/spring-cloud-zookeeper-discovery-1.0.0.BUILD-SNAPSHOT.jar, file:/opt/.m2/repository/org/apache/curator/curator-recipes/2.7.0/curator-recipes-2.7.0.jar, file:/opt/.m2/repository/org/slf4j/jcl-over-slf4j/1.7.11/jcl-over-slf4j-1.7.11.jar, file:/opt/.m2/repository/com/google/guava/guava/16.0.1/guava-16.0.1.jar, file:/opt/.m2/repository/io/netty/netty-handler/4.0.21.Final/netty-handler-4.0.21.Final.jar, file:/opt/.m2/repository/org/codehaus/jackson/jackson-core-asl/1.9.13/jackson-core-asl-1.9.13.jar, file:/opt/.m2/repository/org/apache/tomcat/embed/tomcat-embed-websocket/8.0.20/tomcat-embed-websocket-8.0.20.jar, file:/opt/.m2/repository/javax/validation/validation-api/1.1.0.Final/validation-api-1.1.0.Final.jar, file:/opt/.m2/repository/com/netflix/ribbon/ribbon-loadbalancer/2.0-RC9/ribbon-loadbalancer-2.0-RC9.jar, file:/opt/.m2/repository/com/google/code/findbugs/annotations/2.0.0/annotations-2.0.0.jar, file:/opt/.m2/repository/commons-codec/commons-codec/1.6/commons-codec-1.6.jar, file:/opt/.m2/repository/org/apache/tomcat/embed/tomcat-embed-logging-juli/8.0.20/tomcat-embed-logging-juli-8.0.20.jar, file:/opt/.m2/repository/com/netflix/rxnetty/rx-netty-servo/0.3.13/rx-netty-servo-0.3.13.jar, file:/opt/.m2/repository/io/netty/netty-buffer/4.0.21.Final/netty-buffer-4.0.21.Final.jar, file:/opt/.m2/repository/org/projectlombok/lombok/1.16.4/lombok-1.16.4.jar, file:/opt/.m2/repository/org/springframework/spring-aop/4.1.6.RELEASE/spring-aop-4.1.6.RELEASE.jar, file:/opt/.m2/repository/io/netty/netty-codec-http/4.0.21.Final/netty-codec-http-4.0.21.Final.jar, file:/opt/.m2/repository/com/fasterxml/classmate/1.0.0/classmate-1.0.0.jar, file:/opt/.m2/repository/org/apache/httpcomponents/httpcore/4.3.3/httpcore-4.3.3.jar, file:/opt/.m2/repository/jline/jline/0.9.94/jline-0.9.94.jar, file:/opt/.m2/repository/org/apache/curator/"
+    ],
+    [
+      0.000021,
+      "curator-x-discovery/2.7.1/curator-x-discovery-2.7.1.jar, file:/opt/.m2/repository/org/slf4j/slf4j-api/1.7.6/slf4j-api-1.7.6.jar, file:/opt/.m2/repository/com/netflix/ribbon/ribbon-core/2.0-RC9/ribbon-core-2.0-RC9.jar, file:/opt/.m2/repository/org/springframework/cloud/spring-cloud-netflix-core/1.0.1.RELEASE/spring-cloud-netflix-core-1.0.1.RELEASE.jar, file:/opt/.m2/repository/com/netflix/ribbon/ribbon-httpclient/2.0-RC9/ribbon-httpclient-2.0-RC9.jar, file:/opt/.m2/repository/org/springframework/boot/spring-boot/1.2.3.RELEASE/spring-boot-1.2.3.RELEASE.jar, file:/opt/.m2/repository/com/netflix/ribbon/ribbon-transport/2.0-RC9/ribbon-transport-2.0-RC9.jar, file:/opt/.m2/repository/commons-collections/commons-collections/3.2.1/commons-collections-3.2.1.jar, file:/opt/.m2/repository/org/apache/tomcat/embed/tomcat-embed-core/8.0.20/tomcat-embed-core-8.0.20.jar, file:/opt/.m2/repository/commons-lang/commons-lang/2.6/commons-lang-2.6.jar, file:/opt/.m2/repository/org/springframework/cloud/spring-cloud-config-client/1.0.1.RELEASE/spring-cloud-config-client-1.0.1.RELEASE.jar, file:/opt/.m2/repository/org/apache/curator/curator-client/2.7.1/curator-client-2.7.1.jar, file:/opt/.m2/repository/org/springframework/spring-beans/4.1.6.RELEASE/spring-beans-4.1.6.RELEASE.jar, file:/opt/.m2/repository/org/apache/zookeeper/zookeeper/3.4.6/zookeeper-3.4.6.jar, file:/opt/.m2/repository/org/jboss/logging/jboss-logging/3.1.3.GA/jboss-logging-3.1.3.GA.jar, file:/opt/.m2/repository/com/netflix/netflix-commons/netflix-statistics/0.1.1/netflix-statistics-0.1.1.jar, file:/opt/.m2/repository/org/springframework/cloud/spring-cloud-context/1.0.1.RELEASE/spring-cloud-context-1.0.1.RELEASE.jar, file:/opt/.m2/repository/org/slf4j/slf4j-log4j12/1.7.11/slf4j-log4j12-1.7.11.jar, file:/opt/.m2/repository/org/springframework/cloud/spring-cloud-zookeeper-core/1.0.0.BUILD-SNAPSHOT/spring-cloud-zook"
+    ],
+    [
+      0.000036,
+      "eeper-core-1.0.0.BUILD-SNAPSHOT.jar, file:/opt/.m2/repository/org/hibernate/hibernate-validator/5.1.3.Final/hibernate-validator-5.1.3.Final.jar, file:/opt/.m2/repository/javax/ws/rs/jsr311-api/1.1.1/jsr311-api-1.1.1.jar, file:/opt/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar, file:/opt/.m2/repository/org/springframework/boot/spring-boot-autoconfigure/1.2.3.RELEASE/spring-boot-autoconfigure-1.2.3.RELEASE.jar, file:/opt/.m2/repository/org/springframework/boot/spring-boot-starter-web/1.2.3.RELEASE/spring-boot-starter-web-1.2.3.RELEASE.jar, file:/opt/.m2/repository/junit/junit/4.12/junit-4.12.jar, file:/opt/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.4.5/jackson-annotations-2.4.5.jar, file:/opt/.m2/repository/com/sun/jersey/jersey-client/1.11/jersey-client-1.11.jar, file:/opt/.m2/repository/org/springframework/cloud/spring-cloud-zookeeper-config/1.0.0.BUILD-SNAPSHOT/spring-cloud-zookeeper-config-1.0.0.BUILD-SNAPSHOT.jar, file:/opt/.m2/repository/org/springframework/boot/spring-boot-starter-logging/1.2.3.RELEASE/spring-boot-starter-logging-1.2.3.RELEASE.jar, file:/opt/.m2/repository/com/netflix/rxnetty/rx-netty/0.3.13/rx-netty-0.3.13.jar, file:/opt/.m2/repository/io/netty/netty-common/4.0.21.Final/netty-common-4.0.21.Final.jar, file:/opt/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.4.5/jackson-databind-2.4.5.jar]"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.006692,
+      "[2015-05-02 22:39:11.025] boot - 8793  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- AutoConfigurationReportLoggingInitializer: \r\n"
+    ],
+    [
+      0.000026,
+      "\r\nError starting ApplicationContext. To display the auto-configuration report enabled debug logging (start with --debug)\r\n\r\n\r\n"
+    ],
+    [
+      0.001348,
+      "[2015-05-02 22:39:11.025] boot - 8793 ERROR [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- SpringApplication: Application startup failed"
+    ],
+    [
+      0.000023,
+      "\r\norg.springframework.beans.factory.BeanCreationException: Error creating bean with name 'sampleSimpleApplication': Injection of autowired dependencies failed; nested exception is org.springframework.beans.factory.BeanCreationException: Could not autowire field: private net.therore.kata.zookeeper.simple.service.HelloWorldService net.therore.kata.zookeeper.simple.SampleSimpleApplication.helloWorldService; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'helloWorldService': Injection of autowired dependencies failed; nested exception is org.springframework.beans.factory.BeanCreationException: Could not autowire field: private java.lang.String net.therore.kata.zookeeper.simple.service.HelloWorldService.name; nested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'name' in string value \"${name}\"\r\n\u0009"
+    ],
+    [
+      0.000022,
+      "at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessPropertyValues(AutowiredAnnotationBeanPostProcessor.java:334)\r\n\u0009at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1210)\r\n\u0009at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:537)"
+    ],
+    [
+      0.000024,
+      "\r\n\u0009at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:476)\r\n\u0009at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:303)\r\n\u0009"
+    ],
+    [
+      0.000020,
+      "at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230)\r\n\u0009at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:299)\r\n\u0009at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(Abstra"
+    ],
+    [
+      0.000180,
+      "ctBeanFactory.java:194)\r\n\u0009at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:755)\r\n\u0009"
+    ],
+    [
+      0.000055,
+      "at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:757)\r\n\u0009at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:480)\r\n\u0009at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.refresh(EmbeddedWebApplicationContext.java:118)\r\n\u0009at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:686)\r\n\u0009at org.springframework.boot.SpringApplication.run(SpringApplication.java:320)\r\n\u0009at org.springframework.boot.SpringApplication.run(SpringApplication.java:957)\r\n\u0009at org.springframework.boot.SpringApplication.run(SpringApplication.java:946)\r\n"
+    ],
+    [
+      0.000198,
+      "\u0009"
+    ],
+    [
+      0.000013,
+      "at net.therore.kata.zookeeper.simple.SampleSimpleApplication.main(SampleSimpleApplication.java:47)\r\n\u0009at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)"
+    ],
+    [
+      0.000016,
+      "\r\n\u0009at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)\r\n\u0009"
+    ],
+    [
+      0.000019,
+      "at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\r\n\u0009at java.lang.reflect.Method.invoke(Method.java:483)\r\n\u0009at org.springframework.boot.maven.RunMojo$LaunchRunner.run(RunMojo.java:418)"
+    ],
+    [
+      0.000021,
+      "\r\n\u0009at java.lang.Thread.run(Thread.java:745)\r\nCaused by: org.springframework.beans.factory.BeanCreationException: Could not autowire field: private net.therore.kata.zookeeper.simple.service.HelloWorldService net.therore.kata.zookeeper.simple.SampleSimpleApplication.helloWorldService; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'helloWorldService': Injection of autowired dependencies failed; nested exception is org.springframework.beans.factory.BeanCreationException: Could not autowire field: private java.lang.String net.therore.kata.zookeeper.simple.service.HelloWorldService.name; nested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'name' in string value \"${name}\""
+    ],
+    [
+      0.000026,
+      "\r\n\u0009at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:561)\r\n\u0009at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:88)\r\n\u0009"
+    ],
+    [
+      0.000031,
+      "at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessPropertyValues(AutowiredAnnotationBeanPostProcessor.java:331)\r\n\u0009... 22 more\r\nCaused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'helloWorldService': Injection of autowired dependencies failed; nested exception is org.springframework.beans.factory.BeanCreationException: Could not autowire field: private java.lang.String net.therore.kata.zookeeper.simple.service.HelloWorldService.name; nested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'name' in string value \"${name}\"\r\n\u0009at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessPropertyValues(AutowiredAnnotationBeanPostProcessor.java:334)\r\n\u0009"
+    ],
+    [
+      0.000037,
+      "at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1210)\r\n\u0009at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:537)\r\n\u0009at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:476)\r\n\u0009at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:303)\r\n\u0009at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230)\r\n\u0009"
+    ],
+    [
+      0.000161,
+      "at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:299)\r\n\u0009at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:194)\r\n\u0009at org.springframework.beans.factory.support.DefaultListableBeanFactory.findAutowireCandidates(DefaultListableBeanFactory.java:1120)\r\n\u0009at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1044)\r\n\u0009at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:942)\r\n\u0009at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:533)"
+    ],
+    [
+      0.000096,
+      "\r\n\u0009... 24 more\r\nCaused by: org.springframework.beans.factory.BeanCreationException: Could not autowire field: private java.lang.String net.therore.kata.zookeeper.simple.service.HelloWorldService.name; nested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'name' in string value \"${name}\"\r\n\u0009at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:561)\r\n\u0009at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:88)\r\n\u0009at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessPropertyValues(AutowiredAnnotationBeanPostProcessor.java:331)\r\n\u0009... 35 more\r\nCaused by: java.lang.IllegalArgumentException: Could not resolve placeholder 'name' in string value \"${name}\"\r\n\u0009at org.springframework.util.PropertyPlaceholderHelper.parseStringValue(PropertyPlaceholderHelper.java:174)\r\n\u0009at org.springframework.util.PropertyPlaceholderHelper.replacePlaceholders(PropertyPlaceholderHelper.java:126)\r\n\u0009at org.springframework.core.env.AbstractPropertyResolver.doResolvePlaceholders(AbstractPropertyResolver.java:204)\r\n\u0009at org.springframework.core.env.AbstractPropertyResolver.resolveRequiredPlaceholders(AbstractPropertyResolver.java:178)\r\n\u0009at org.springframework.context.support.PropertySourcesPlaceholderConfigurer$2.resolveStringValue(PropertySourcesPlaceholderConfigurer.java:175)\r\n\u0009at org.springframework.beans.factory.support.AbstractBeanFactory.resolveEmbeddedValue(AbstractBeanFactory.java:801)\r\n"
+    ],
+    [
+      0.000035,
+      "\u0009at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:955)\r\n\u0009at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:942)\r\n\u0009at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:533)\r\n\u0009... 37 more\r\n"
+    ],
+    [
+      0.001084,
+      "[WARNING] "
+    ],
+    [
+      0.000893,
+      "\r\n"
+    ],
+    [
+      0.001019,
+      "java.lang.reflect.InvocationTargetException"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000101,
+      "\u0009"
+    ],
+    [
+      0.000290,
+      "at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)"
+    ],
+    [
+      0.000021,
+      "\r\n"
+    ],
+    [
+      0.000020,
+      "\u0009"
+    ],
+    [
+      0.000005,
+      "at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000016,
+      "\u0009"
+    ],
+    [
+      0.000005,
+      "at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "\u0009"
+    ],
+    [
+      0.000005,
+      "at java.lang.reflect.Method.invoke(Method.java:483)"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "\u0009"
+    ],
+    [
+      0.000005,
+      "at org.springframework.boot.maven.RunMojo$LaunchRunner.run(RunMojo.java:418)"
+    ],
+    [
+      0.000025,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "\u0009"
+    ],
+    [
+      0.000005,
+      "at java.lang.Thread.run(Thread.java:745)"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000061,
+      "Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'sampleSimpleApplication': Injection of autowired dependencies failed; nested exception is org.springframework.beans.factory.BeanCreationException: Could not autowire field: private net.therore.kata.zookeeper.simple.service.HelloWorldService net.therore.kata.zookeeper.simple.SampleSimpleApplication.helloWorldService; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'helloWorldService': Injection of autowired dependencies failed; nested exception is org.springframework.beans.factory.BeanCreationException: Could not autowire field: private java.lang.String net.therore.kata.zookeeper.simple.service.HelloWorldService.name; nested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'name' in string value \"${name}\""
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "\u0009"
+    ],
+    [
+      0.000005,
+      "at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessPropertyValues(AutowiredAnnotationBeanPostProcessor.java:334)"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000012,
+      "\u0009"
+    ],
+    [
+      0.000005,
+      "at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1210)"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000012,
+      "\u0009"
+    ],
+    [
+      0.000041,
+      "at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:537)\r\n\u0009"
+    ],
+    [
+      0.000121,
+      "at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:476)"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.000012,
+      "\u0009"
+    ],
+    [
+      0.000005,
+      "at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:303)"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "\u0009"
+    ],
+    [
+      0.000005,
+      "at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230)"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000013,
+      "\u0009"
+    ],
+    [
+      0.000005,
+      "at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:299)"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000019,
+      "\u0009at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:194)"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.000021,
+      "\u0009at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:755)\r\n"
+    ],
+    [
+      0.000019,
+      "\u0009at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:757)"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.000015,
+      "\u0009"
+    ],
+    [
+      0.000128,
+      "at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:480)"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000030,
+      "\u0009"
+    ],
+    [
+      0.000009,
+      "at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.refresh(EmbeddedWebApplicationContext.java:118)\r\n"
+    ],
+    [
+      0.000015,
+      "\u0009"
+    ],
+    [
+      0.000005,
+      "at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:686)"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "\u0009"
+    ],
+    [
+      0.000005,
+      "at org.springframework.boot.SpringApplication.run(SpringApplication.java:320)"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000018,
+      "\u0009"
+    ],
+    [
+      0.000005,
+      "at org.springframework.boot.SpringApplication.run(SpringApplication.java:957)"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000018,
+      "\u0009"
+    ],
+    [
+      0.000342,
+      "at org.springframework.boot.SpringApplication.run(SpringApplication.java:946)"
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.000016,
+      "\u0009"
+    ],
+    [
+      0.000005,
+      "at net.therore.kata.zookeeper.simple.SampleSimpleApplication.main(SampleSimpleApplication.java:47)"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000024,
+      "\u0009"
+    ],
+    [
+      0.000004,
+      "... 6 more"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000087,
+      "Caused by: org.springframework.beans.factory.BeanCreationException: Could not autowire field: private net.therore.kata.zookeeper.simple.service.HelloWorldService net.therore.kata.zookeeper.simple.SampleSimpleApplication.helloWorldService; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'helloWorldService': Injection of autowired dependencies failed; nested exception is org.springframework.beans.factory.BeanCreationException: Could not autowire field: private java.lang.String net.therore.kata.zookeeper.simple.service.HelloWorldService.name; nested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'name' in string value \"${name}\""
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "\u0009"
+    ],
+    [
+      0.000005,
+      "at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:561)"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "\u0009"
+    ],
+    [
+      0.000005,
+      "at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:88)"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "\u0009"
+    ],
+    [
+      0.000005,
+      "at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessPropertyValues(AutowiredAnnotationBeanPostProcessor.java:331)"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "\u0009"
+    ],
+    [
+      0.000004,
+      "... 22 more"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000044,
+      "Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'helloWorldService': Injection of autowired dependencies failed; nested exception is org.springframework.beans.factory.BeanCreationException: Could not autowire field: private java.lang.String net.therore.kata.zookeeper.simple.service.HelloWorldService.name; nested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'name' in string value \"${name}\""
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000012,
+      "\u0009"
+    ],
+    [
+      0.000005,
+      "at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessPropertyValues(AutowiredAnnotationBeanPostProcessor.java:334)"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "\u0009"
+    ],
+    [
+      0.000005,
+      "at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1210)"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "\u0009"
+    ],
+    [
+      0.000005,
+      "at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:537)"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000014,
+      "\u0009"
+    ],
+    [
+      0.000157,
+      "at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:476)"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000012,
+      "\u0009"
+    ],
+    [
+      0.000005,
+      "at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:303)"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "\u0009"
+    ],
+    [
+      0.000006,
+      "at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230)"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "\u0009"
+    ],
+    [
+      0.000006,
+      "at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:299)"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "\u0009"
+    ],
+    [
+      0.000005,
+      "at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:194)"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000014,
+      "\u0009"
+    ],
+    [
+      0.000006,
+      "at org.springframework.beans.factory.support.DefaultListableBeanFactory.findAutowireCandidates(DefaultListableBeanFactory.java:1120)"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "\u0009"
+    ],
+    [
+      0.000006,
+      "at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1044)"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.000013,
+      "\u0009"
+    ],
+    [
+      0.000005,
+      "at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:942)"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000012,
+      "\u0009"
+    ],
+    [
+      0.000112,
+      "at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:533)"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000013,
+      "\u0009... 24 more"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000047,
+      "Caused by: org.springframework.beans.factory.BeanCreationException: Could not autowire field: private java.lang.String net.therore.kata.zookeeper.simple.service.HelloWorldService.name; nested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'name' in string value \"${name}\""
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "\u0009"
+    ],
+    [
+      0.000005,
+      "at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:561)"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000137,
+      "\u0009at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:88)"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "\u0009at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessPropertyValues(AutowiredAnnotationBeanPostProcessor.java:331)"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "\u0009"
+    ],
+    [
+      0.000005,
+      "... 35 more"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000029,
+      "Caused by: java.lang.IllegalArgumentException: Could not resolve placeholder 'name' in string value \"${name}\""
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "\u0009"
+    ],
+    [
+      0.000005,
+      "at org.springframework.util.PropertyPlaceholderHelper.parseStringValue(PropertyPlaceholderHelper.java:174)"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000012,
+      "\u0009"
+    ],
+    [
+      0.002986,
+      "at org.springframework.util.PropertyPlaceholderHelper.replacePlaceholders(PropertyPlaceholderHelper.java:126)"
+    ],
+    [
+      0.000115,
+      "\r\n"
+    ],
+    [
+      0.000058,
+      "\u0009"
+    ],
+    [
+      0.000013,
+      "at org.springframework.core.env.AbstractPropertyResolver.doResolvePlaceholders(AbstractPropertyResolver.java:204)"
+    ],
+    [
+      0.000045,
+      "\r\n"
+    ],
+    [
+      0.000031,
+      "\u0009"
+    ],
+    [
+      0.000012,
+      "at org.springframework.core.env.AbstractPropertyResolver.resolveRequiredPlaceholders(AbstractPropertyResolver.java:178)"
+    ],
+    [
+      0.000033,
+      "\r\n"
+    ],
+    [
+      0.000027,
+      "\u0009"
+    ],
+    [
+      0.000013,
+      "at org.springframework.context.support.PropertySourcesPlaceholderConfigurer$2.resolveStringValue(PropertySourcesPlaceholderConfigurer.java:175)"
+    ],
+    [
+      0.000034,
+      "\r\n"
+    ],
+    [
+      0.000027,
+      "\u0009"
+    ],
+    [
+      0.000012,
+      "at org.springframework.beans.factory.support.AbstractBeanFactory.resolveEmbeddedValue(AbstractBeanFactory.java:801)"
+    ],
+    [
+      0.000031,
+      "\r\n"
+    ],
+    [
+      0.000028,
+      "\u0009"
+    ],
+    [
+      0.000013,
+      "at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:955)"
+    ],
+    [
+      0.000306,
+      "\r\n"
+    ],
+    [
+      0.000041,
+      "\u0009"
+    ],
+    [
+      0.000013,
+      "at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:942)"
+    ],
+    [
+      0.000026,
+      "\r\n"
+    ],
+    [
+      0.000036,
+      "\u0009"
+    ],
+    [
+      0.000013,
+      "at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:533)"
+    ],
+    [
+      0.000025,
+      "\r\n"
+    ],
+    [
+      0.000034,
+      "\u0009"
+    ],
+    [
+      0.000011,
+      "... 37 more"
+    ],
+    [
+      0.000025,
+      "\r\n"
+    ],
+    [
+      0.007735,
+      "[INFO] ------------------------------------------------------------------------"
+    ],
+    [
+      0.000040,
+      "\r\n"
+    ],
+    [
+      0.000074,
+      "[INFO] BUILD FAILURE"
+    ],
+    [
+      0.000030,
+      "\r\n"
+    ],
+    [
+      0.000046,
+      "[INFO] ------------------------------------------------------------------------"
+    ],
+    [
+      0.000024,
+      "\r\n"
+    ],
+    [
+      0.000491,
+      "[INFO] Total time: 9.101 s"
+    ],
+    [
+      0.000031,
+      "\r\n"
+    ],
+    [
+      0.000343,
+      "[INFO] Finished at: 2015-05-02T22:39:11+01:00"
+    ],
+    [
+      0.000038,
+      "\r\n"
+    ],
+    [
+      0.384326,
+      "[INFO] Final Memory: 37M/367M"
+    ],
+    [
+      0.000281,
+      "\r\n"
+    ],
+    [
+      0.000062,
+      "[INFO] ------------------------------------------------------------------------"
+    ],
+    [
+      0.000037,
+      "\r\n"
+    ],
+    [
+      0.001393,
+      "[ERROR] Failed to execute goal org.springframework.boot:spring-boot-maven-plugin:1.2.3.RELEASE:run (default-cli) on project therore-kata-zookeeper: An exception occured while running. null: InvocationTargetException: Error creating bean with name 'sampleSimpleApplication': Injection of autowired dependencies failed; nested exception is org.springframework.beans.factory.BeanCreationException: Could not autowire field: private net.therore.kata.zookeeper.simple.service.HelloWorldService net.therore.kata.zookeeper.simple.SampleSimpleApplication.helloWorldService; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'helloWorldService': Injection of autowired dependencies failed; nested exception is org.springframework.beans.factory.BeanCreationException: Could not autowire field: private java.lang.String net.therore.kata.zookeeper.simple.service.HelloWorldService.name; nested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'name' in string value \"${name}\" -\u003e [Help 1]"
+    ],
+    [
+      0.001268,
+      "\r\n"
+    ],
+    [
+      0.002881,
+      "[ERROR] "
+    ],
+    [
+      0.000227,
+      "\r\n"
+    ],
+    [
+      0.000145,
+      "[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch."
+    ],
+    [
+      0.000127,
+      "\r\n"
+    ],
+    [
+      0.000144,
+      "[ERROR] Re-run Maven using the -X switch to enable full debug logging."
+    ],
+    [
+      0.000126,
+      "\r\n"
+    ],
+    [
+      0.000136,
+      "[ERROR] "
+    ],
+    [
+      0.000124,
+      "\r\n"
+    ],
+    [
+      0.000133,
+      "[ERROR] For more information about the errors and possible solutions, please read the following articles:"
+    ],
+    [
+      0.000123,
+      "\r\n"
+    ],
+    [
+      0.000210,
+      "[ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/MojoExecutionException"
+    ],
+    [
+      0.000131,
+      "\r\n"
+    ],
+    [
+      0.004712,
+      "[2015-05-02 22:39:11.442] boot - 8793  INFO [Thread-1] --- AnnotationConfigApplicationContext: Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@bd24d0c: startup date [Sat May 02 22:39:06 CEST 2015]; root of context hierarchy"
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.010456,
+      "[2015-05-02 22:39:11.453] boot - 8793  INFO [Thread-1] --- ZooKeeper: Session: 0x14d1644af5c0006 closed"
+    ],
+    [
+      0.000023,
+      "\r\n"
+    ],
+    [
+      0.000991,
+      "[2015-05-02 22:39:11.453] boot - 8793  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()-EventThread] --- ClientCnxn: EventThread shut down"
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.000802,
+      "[2015-05-02 22:39:11.455] boot - 8793  WARN [Thread-1] --- CommonAnnotationBeanPostProcessor: Invocation of destroy method failed on bean with name 'org.springframework.cloud.zookeeper.ZookeeperAutoConfiguration': org.springframework.beans.factory.BeanCreationNotAllowedException: Error creating bean with name 'curatorFramework': Singleton bean creation not allowed while the singletons of this factory are in destruction (Do not request a bean from a BeanFactory in a destroy method implementation!)"
+    ],
+    [
+      0.000175,
+      "\r\n"
+    ],
+    [
+      2.000000,
+      "\r\n"
+    ],
+    [
+      0.182490,
+      "\r\n"
+    ],
+    [
+      0.773080,
+      "alfredo@/tmp/kata-zookeeper$ \r\n"
+    ],
+    [
+      0.002746,
+      "alfredo@/tmp/kata-zookeeper$ \r\n"
+    ],
+    [
+      0.002771,
+      "alfredo@/tmp/kata-zookeeper$ "
+    ],
+    [
+      2.000000,
+      "z"
+    ],
+    [
+      0.231345,
+      "k"
+    ],
+    [
+      0.490255,
+      "C"
+    ],
+    [
+      0.295139,
+      "l"
+    ],
+    [
+      0.377178,
+      "i"
+    ],
+    [
+      0.664618,
+      "."
+    ],
+    [
+      0.160337,
+      "s"
+    ],
+    [
+      0.143912,
+      "h"
+    ],
+    [
+      0.917752,
+      "\r\n"
+    ],
+    [
+      0.184365,
+      "Connecting to localhost:2181"
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.017294,
+      "2015-05-02 22:39:33,600 [myid:] - INFO  [main:Environment@100] - Client environment:zookeeper.version=3.4.5-1392090, built on 09/30/2012 17:52 GMT\r\n"
+    ],
+    [
+      0.000306,
+      "2015-05-02 22:39:33,604 [myid:] - INFO  [main:Environment@100] - Client environment:host.name=raude\r\n"
+    ],
+    [
+      0.000187,
+      "2015-05-02 22:39:33,604 [myid:] - INFO  [main:Environment@100] - Client environment:java.version=1.8.0_25"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000185,
+      "2015-05-02 22:39:33,605 [myid:] - INFO  [main:Environment@100] - Client environment:java.vendor=Oracle Corporation\r\n"
+    ],
+    [
+      0.000174,
+      "2015-05-02 22:39:33,605 [myid:] - INFO  [main:Environment@100] - Client environment:java.home=/opt/jdk1.8.0_25/jre"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000241,
+      "2015-05-02 22:39:33,605 [myid:] - INFO  [main:Environment@100] - Client environment:java.class.path=/opt/zookeeper/bin/../build/classes:/opt/zookeeper/bin/../build/lib/*.jar:/opt/zookeeper/bin/../lib/slf4j-log4j12-1.6.1.jar:/opt/zookeeper/bin/../lib/slf4j-api-1.6.1.jar:/opt/zookeeper/bin/../lib/netty-3.2.2.Final.jar:/opt/zookeeper/bin/../lib/log4j-1.2.15.jar:/opt/zookeeper/bin/../lib/jline-0.9.94.jar:/opt/zookeeper/bin/../zookeeper-3.4.5.jar:/opt/zookeeper/bin/../src/java/lib/*.jar:/opt/zookeeper/bin/../conf::/opt/RelProxy/lib/relproxy-0.8.1.jar:/opt/RelProxy/lib/relproxy-0.8.1.jar"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000343,
+      "2015-05-02 22:39:33,605 [myid:] - INFO  [main:Environment@100] - Client environment:java.library.path=/opt/jdk1.8.0_25/jre/lib/amd64/server:/opt/jdk1.8.0_25/jre/lib/amd64:/opt/jdk1.8.0_25/jre/../lib/amd64:/opt/jdk//jre/lib/amd64/server/:/opt/jdk//jre/lib/amd64/server/::/usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000395,
+      "2015-05-02 22:39:33,606 [myid:] - INFO  [main:Environment@100] - Client environment:java.io.tmpdir=/tmp"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000205,
+      "2015-05-02 22:39:33,606 [myid:] - INFO  [main:Environment@100] - Client environment:java.compiler=\u003cNA\u003e"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000193,
+      "2015-05-02 22:39:33,606 [myid:] - INFO  [main:Environment@100] - Client environment:os.name=Linux\r\n"
+    ],
+    [
+      0.000171,
+      "2015-05-02 22:39:33,606 [myid:] - INFO  [main:Environment@100] - Client environment:os.arch=amd64\r\n"
+    ],
+    [
+      0.000207,
+      "2015-05-02 22:39:33,607 [myid:] - INFO  [main:Environment@100] - Client environment:os.version=3.13.0-45-generic\r\n"
+    ],
+    [
+      0.000206,
+      "2015-05-02 22:39:33,607 [myid:] - INFO  [main:Environment@100] - Client environment:user.name=alfredo"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000283,
+      "2015-05-02 22:39:33,607 [myid:] - INFO  [main:Environment@100] - Client environment:user.home=/opt"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000365,
+      "2015-05-02 22:39:33,607 [myid:] - INFO  [main:Environment@100] - Client environment:user.dir=/tmp/kata-zookeeper"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.002469,
+      "2015-05-02 22:39:33,610 [myid:] - INFO  [main:ZooKeeper@438] - Initiating client connection, connectString=localhost:2181 sessionTimeout=30000 watcher=org.apache.zookeeper.ZooKeeperMain$MyWatcher@42110406\r\n"
+    ],
+    [
+      0.022739,
+      "Welcome to ZooKeeper!"
+    ],
+    [
+      0.000053,
+      "\r\n"
+    ],
+    [
+      0.007944,
+      "2015-05-02 22:39:33,640 [myid:] - INFO  [main-SendThread(localhost:2181):ClientCnxn$SendThread@966] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.005239,
+      "JLine support is enabled"
+    ],
+    [
+      0.000053,
+      "\r\n"
+    ],
+    [
+      0.042292,
+      "[zk: localhost:2181(CONNECTING) 0] "
+    ],
+    [
+      0.034993,
+      "2015-05-02 22:39:33,723 [myid:] - INFO  [main-SendThread(localhost:2181):ClientCnxn$SendThread@849] - Socket connection established to localhost/127.0.0.1:2181, initiating session\r\n"
+    ],
+    [
+      0.008146,
+      "2015-05-02 22:39:33,731 [myid:] - INFO  [main-SendThread(localhost:2181):ClientCnxn$SendThread@1207] - Session establishment complete on server localhost/127.0.0.1:2181, sessionid = 0x14d1644af5c0007, negotiated timeout = 30000"
+    ],
+    [
+      0.000017,
+      "\r\n"
+    ],
+    [
+      0.002908,
+      "\r\n"
+    ],
+    [
+      0.000027,
+      "WATCHER::"
+    ],
+    [
+      0.000092,
+      "\r\n"
+    ],
+    [
+      0.000340,
+      "\r\n"
+    ],
+    [
+      0.000021,
+      "WatchedEvent state:SyncConnected type:None path:null"
+    ],
+    [
+      0.000077,
+      "\r\n"
+    ],
+    [
+      2.000000,
+      "\r\n"
+    ],
+    [
+      0.000231,
+      "[zk: localhost:2181(CONNECTED) 0] "
+    ],
+    [
+      0.166004,
+      "\r\n"
+    ],
+    [
+      0.000078,
+      "[zk: localhost:2181(CONNECTED) 0] "
+    ],
+    [
+      0.423165,
+      "c"
+    ],
+    [
+      0.273000,
+      "r"
+    ],
+    [
+      0.039041,
+      "e"
+    ],
+    [
+      0.159589,
+      "a"
+    ],
+    [
+      0.080638,
+      "t"
+    ],
+    [
+      0.071578,
+      "e"
+    ],
+    [
+      0.143935,
+      " "
+    ],
+    [
+      0.322574,
+      "/"
+    ],
+    [
+      0.400689,
+      "c"
+    ],
+    [
+      0.120067,
+      "o"
+    ],
+    [
+      0.112715,
+      "n"
+    ],
+    [
+      0.116047,
+      "f"
+    ],
+    [
+      0.115254,
+      "i"
+    ],
+    [
+      0.076638,
+      "g"
+    ],
+    [
+      0.715232,
+      " "
+    ],
+    [
+      0.277150,
+      "\""
+    ],
+    [
+      0.194714,
+      "\""
+    ],
+    [
+      0.406416,
+      "\r\n"
+    ],
+    [
+      0.017919,
+      "Node already exists: /config"
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.000045,
+      "[zk: localhost:2181(CONNECTED) 1] "
+    ],
+    [
+      1.589642,
+      "c"
+    ],
+    [
+      0.386010,
+      "r"
+    ],
+    [
+      0.071615,
+      "e"
+    ],
+    [
+      0.141298,
+      "a"
+    ],
+    [
+      0.105158,
+      "t"
+    ],
+    [
+      0.103801,
+      "e"
+    ],
+    [
+      0.377697,
+      " "
+    ],
+    [
+      0.296513,
+      "/"
+    ],
+    [
+      0.567831,
+      "c"
+    ],
+    [
+      0.095170,
+      "o"
+    ],
+    [
+      0.070247,
+      "n"
+    ],
+    [
+      0.111716,
+      "f"
+    ],
+    [
+      0.087954,
+      "i"
+    ],
+    [
+      0.089092,
+      "g"
+    ],
+    [
+      0.271714,
+      "/"
+    ],
+    [
+      0.265481,
+      "m"
+    ],
+    [
+      0.201642,
+      "y"
+    ],
+    [
+      0.223471,
+      "a"
+    ],
+    [
+      0.103902,
+      "p"
+    ],
+    [
+      0.159035,
+      "p"
+    ],
+    [
+      0.160809,
+      "l"
+    ],
+    [
+      0.070336,
+      "i"
+    ],
+    [
+      0.088440,
+      "c"
+    ],
+    [
+      0.104963,
+      "a"
+    ],
+    [
+      0.068876,
+      "t"
+    ],
+    [
+      0.075147,
+      "i"
+    ],
+    [
+      0.071645,
+      "o"
+    ],
+    [
+      0.071636,
+      "n"
+    ],
+    [
+      1.341588,
+      " "
+    ],
+    [
+      0.368627,
+      "\""
+    ],
+    [
+      0.177103,
+      "\""
+    ],
+    [
+      0.439159,
+      "\r\n"
+    ],
+    [
+      0.003333,
+      "Created /config/myapplication"
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.000034,
+      "[zk: localhost:2181(CONNECTED) 2] "
+    ],
+    [
+      0.997260,
+      "c"
+    ],
+    [
+      0.217494,
+      "r"
+    ],
+    [
+      0.063834,
+      "e"
+    ],
+    [
+      0.135298,
+      "a"
+    ],
+    [
+      0.069842,
+      "t"
+    ],
+    [
+      0.082318,
+      "e"
+    ],
+    [
+      0.142465,
+      " "
+    ],
+    [
+      0.279320,
+      "/"
+    ],
+    [
+      0.432861,
+      "c"
+    ],
+    [
+      0.128830,
+      "o"
+    ],
+    [
+      0.078275,
+      "n"
+    ],
+    [
+      0.081220,
+      "f"
+    ],
+    [
+      0.108493,
+      "i"
+    ],
+    [
+      0.075823,
+      "g"
+    ],
+    [
+      0.297493,
+      "/"
+    ],
+    [
+      0.279978,
+      "m"
+    ],
+    [
+      0.624297,
+      "y"
+    ],
+    [
+      0.487320,
+      "a"
+    ],
+    [
+      0.117396,
+      "p"
+    ],
+    [
+      0.167994,
+      "p"
+    ],
+    [
+      0.153816,
+      "l"
+    ],
+    [
+      0.073024,
+      "i"
+    ],
+    [
+      0.077765,
+      "c"
+    ],
+    [
+      0.103787,
+      "a"
+    ],
+    [
+      0.079616,
+      "t"
+    ],
+    [
+      0.073057,
+      "i"
+    ],
+    [
+      0.080309,
+      "o"
+    ],
+    [
+      0.090369,
+      "n"
+    ],
+    [
+      0.637119,
+      "/"
+    ],
+    [
+      0.698577,
+      "n"
+    ],
+    [
+      0.084722,
+      "a"
+    ],
+    [
+      0.122941,
+      "m"
+    ],
+    [
+      0.093155,
+      "e"
+    ],
+    [
+      0.202703,
+      " "
+    ],
+    [
+      0.305011,
+      "M"
+    ],
+    [
+      0.244147,
+      "a"
+    ],
+    [
+      0.120014,
+      "r"
+    ],
+    [
+      0.131714,
+      "k"
+    ],
+    [
+      2.000000,
+      "\r\n"
+    ],
+    [
+      0.002645,
+      "Created /config/myapplication/name"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000033,
+      "[zk: localhost:2181(CONNECTED) 3] "
+    ],
+    [
+      1.885157,
+      "q"
+    ],
+    [
+      0.099077,
+      "u"
+    ],
+    [
+      0.080602,
+      "i"
+    ],
+    [
+      0.092318,
+      "t"
+    ],
+    [
+      0.450266,
+      "\r\n"
+    ],
+    [
+      0.000167,
+      "Quitting..."
+    ],
+    [
+      0.000046,
+      "\r\n"
+    ],
+    [
+      0.002945,
+      "2015-05-02 22:40:02,654 [myid:] - INFO  [main:ZooKeeper@684] - Session: 0x14d1644af5c0007 closed"
+    ],
+    [
+      0.000606,
+      "\r\n"
+    ],
+    [
+      0.000768,
+      "2015-05-02 22:40:02,654 [myid:] - INFO  [main-EventThread:ClientCnxn$EventThread@509] - EventThread shut down"
+    ],
+    [
+      0.000017,
+      "\r\n"
+    ],
+    [
+      0.009211,
+      "alfredo@/tmp/kata-zookeeper$ "
+    ],
+    [
+      2.000000,
+      "m"
+    ],
+    [
+      0.093919,
+      "v"
+    ],
+    [
+      0.099934,
+      "n"
+    ],
+    [
+      0.444001,
+      " "
+    ],
+    [
+      0.203520,
+      "s"
+    ],
+    [
+      0.183556,
+      "p"
+    ],
+    [
+      0.166968,
+      "r"
+    ],
+    [
+      0.096948,
+      "i"
+    ],
+    [
+      0.110050,
+      "n"
+    ],
+    [
+      0.086779,
+      "g"
+    ],
+    [
+      0.234412,
+      "-"
+    ],
+    [
+      0.141838,
+      "b"
+    ],
+    [
+      0.113157,
+      "o"
+    ],
+    [
+      0.153824,
+      "o"
+    ],
+    [
+      0.095743,
+      "t"
+    ],
+    [
+      0.293322,
+      ":"
+    ],
+    [
+      0.282387,
+      "r"
+    ],
+    [
+      0.087316,
+      "u"
+    ],
+    [
+      0.182234,
+      "n"
+    ],
+    [
+      1.003024,
+      "\r\n"
+    ],
+    [
+      1.489095,
+      "[INFO] Scanning for projects..."
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.268437,
+      "[INFO] "
+    ],
+    [
+      0.000053,
+      "\r\n"
+    ],
+    [
+      0.000381,
+      "[INFO] Using the builder org.apache.maven.lifecycle.internal.builder.singlethreaded.SingleThreadedBuilder with a thread count of 1"
+    ],
+    [
+      0.000041,
+      "\r\n"
+    ],
+    [
+      0.000835,
+      "[INFO]                                                                         "
+    ],
+    [
+      0.000040,
+      "\r\n"
+    ],
+    [
+      0.000047,
+      "[INFO] ------------------------------------------------------------------------"
+    ],
+    [
+      0.000030,
+      "\r\n"
+    ],
+    [
+      0.000100,
+      "[INFO] Building Therore Kata with Zookeeper 1.0.0-SNAPSHOT"
+    ],
+    [
+      0.000029,
+      "\r\n"
+    ],
+    [
+      0.000041,
+      "[INFO] ------------------------------------------------------------------------"
+    ],
+    [
+      0.000026,
+      "\r\n"
+    ],
+    [
+      0.070999,
+      "[INFO] "
+    ],
+    [
+      0.000080,
+      "\r\n"
+    ],
+    [
+      0.000215,
+      "[INFO] \u003e\u003e\u003e spring-boot-maven-plugin:1.2.3.RELEASE:run (default-cli) @ therore-kata-zookeeper \u003e\u003e\u003e"
+    ],
+    [
+      0.000141,
+      "\r\n"
+    ],
+    [
+      0.850860,
+      "[INFO] "
+    ],
+    [
+      0.000025,
+      "\r\n[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ therore-kata-zookeeper ---"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.221932,
+      "[INFO] Using 'UTF-8' encoding to copy filtered resources."
+    ],
+    [
+      0.000059,
+      "\r\n"
+    ],
+    [
+      0.002978,
+      "[INFO] Copying 1 resource"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.042158,
+      "[INFO] Copying 0 resource"
+    ],
+    [
+      0.000026,
+      "\r\n"
+    ],
+    [
+      0.001617,
+      "[INFO] "
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.000033,
+      "[INFO] --- maven-compiler-plugin:3.1:compile (default-compile) @ therore-kata-zookeeper ---"
+    ],
+    [
+      0.000021,
+      "\r\n"
+    ],
+    [
+      0.286114,
+      "[INFO] Nothing to compile - all classes are up to date"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.000266,
+      "[INFO] "
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000014,
+      "[INFO] --- maven-resources-plugin:2.6:testResources (default-testResources) @ therore-kata-zookeeper ---"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.003128,
+      "[INFO] Using 'UTF-8' encoding to copy filtered resources."
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000047,
+      "[INFO] skip non existing resourceDirectory /tmp/kata-zookeeper/src/test/resources"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000195,
+      "[INFO] "
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000026,
+      "[INFO] --- maven-compiler-plugin:3.1:testCompile (default-testCompile) @ therore-kata-zookeeper ---"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.003273,
+      "[INFO] No sources to compile"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000080,
+      "[INFO] "
+    ],
+    [
+      0.000017,
+      "\r\n"
+    ],
+    [
+      0.000026,
+      "[INFO] \u003c\u003c\u003c spring-boot-maven-plugin:1.2.3.RELEASE:run (default-cli) @ therore-kata-zookeeper \u003c\u003c\u003c"
+    ],
+    [
+      0.000034,
+      "\r\n"
+    ],
+    [
+      0.058512,
+      "[INFO] "
+    ],
+    [
+      0.000046,
+      "\r\n"
+    ],
+    [
+      0.000137,
+      "[INFO] --- spring-boot-maven-plugin:1.2.3.RELEASE:run (default-cli) @ therore-kata-zookeeper ---"
+    ],
+    [
+      0.000125,
+      "\r\n"
+    ],
+    [
+      1.070456,
+      "[2015-05-02 22:40:14.102] boot - 8978  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- SampleSimpleApplication: Starting SampleSimpleApplication on raude with PID 8978 (/tmp/kata-zookeeper/target/classes started by alfredo in /tmp/kata-zookeeper)"
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.044439,
+      "[2015-05-02 22:40:14.149] boot - 8978  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- AnnotationConfigApplicationContext: Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@7e78d46a: startup date [Sat May 02 22:40:14 CEST 2015]; root of context hierarchy\r\n"
+    ],
+    [
+      0.744325,
+      "[2015-05-02 22:40:14.894] boot - 8978  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- AutowiredAnnotationBeanPostProcessor: JSR-330 'javax.inject.Inject' annotation found and supported for autowiring\r\n"
+    ],
+    [
+      0.467521,
+      "[2015-05-02 22:40:15.361] boot - 8978  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- CuratorFrameworkImpl: Starting"
+    ],
+    [
+      0.000029,
+      "\r\n"
+    ],
+    [
+      0.009560,
+      "[2015-05-02 22:40:15.371] boot - 8978  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- ZooKeeper: Client environment:zookeeper.version=3.4.6-1569965, built on 02/20/2014 09:09 GMT\r\n"
+    ],
+    [
+      0.000014,
+      "[2015-05-02 22:40:15.371] boot - 8978  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- ZooKeeper: Client environment:host.name=raude\r\n"
+    ],
+    [
+      0.000018,
+      "[2015-05-02 22:40:15.371] boot - 8978  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- ZooKeeper: Client environment:java.version=1.8.0_25"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000088,
+      "[2015-05-02 22:40:15.371] boot - 8978  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- ZooKeeper: Client environment:java.vendor=Oracle Corporation"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000096,
+      "[2015-05-02 22:40:15.371] boot - 8978  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- ZooKeeper: Client environment:java.home=/opt/jdk1.8.0_25/jre"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000078,
+      "[2015-05-02 22:40:15.371] boot - 8978  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- ZooKeeper: Client environment:java.class.path=/opt/maven/boot/plexus-classworlds-2.5.1.jar"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000100,
+      "[2015-05-02 22:40:15.371] boot - 8978  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- ZooKeeper: Client environment:java.library.path=/opt/jdk1.8.0_25/jre/lib/amd64/server:/opt/jdk1.8.0_25/jre/lib/amd64:/opt/jdk1.8.0_25/jre/../lib/amd64:/opt/jdk//jre/lib/amd64/server/:/opt/jdk//jre/lib/amd64/server/::/usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.002329,
+      "[2015-05-02 22:40:15.372] boot - 8978  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- ZooKeeper: Client environment:java.io.tmpdir=/tmp"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000104,
+      "[2015-05-02 22:40:15.374] boot - 8978  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- ZooKeeper: Client environment:java.compiler=\u003cNA\u003e"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000100,
+      "[2015-05-02 22:40:15.374] boot - 8978  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- ZooKeeper: Client environment:os.name=Linux"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000096,
+      "[2015-05-02 22:40:15.374] boot - 8978  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- ZooKeeper: Client environment:os.arch=amd64"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000107,
+      "[2015-05-02 22:40:15.374] boot - 8978  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- ZooKeeper: Client environment:os.version=3.13.0-45-generic"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000090,
+      "[2015-05-02 22:40:15.374] boot - 8978  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- ZooKeeper: Client environment:user.name=alfredo"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000110,
+      "[2015-05-02 22:40:15.374] boot - 8978  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- ZooKeeper: Client environment:user.home=/opt\r\n"
+    ],
+    [
+      0.000083,
+      "[2015-05-02 22:40:15.374] boot - 8978  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- ZooKeeper: Client environment:user.dir=/tmp/kata-zookeeper"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.002157,
+      "[2015-05-02 22:40:15.377] boot - 8978  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- ZooKeeper: Initiating client connection, connectString=localhost:2181 sessionTimeout=60000 watcher=org.apache.curator.ConnectionState@23eeb808"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.030959,
+      "[2015-05-02 22:40:15.407] boot - 8978  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main(localhost:2181)] --- ClientCnxn: Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)"
+    ],
+    [
+      0.000039,
+      "\r\n"
+    ],
+    [
+      0.089814,
+      "[2015-05-02 22:40:15.497] boot - 8978  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main(localhost:2181)] --- ClientCnxn: Socket connection established to localhost/127.0.0.1:2181, initiating session"
+    ],
+    [
+      0.000829,
+      "\r\n"
+    ],
+    [
+      0.016347,
+      "[2015-05-02 22:40:15.514] boot - 8978  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main(localhost:2181)] --- ClientCnxn: Session establishment complete on server localhost/127.0.0.1:2181, sessionid = 0x14d1644af5c0008, negotiated timeout = 40000\r\n"
+    ],
+    [
+      0.006563,
+      "[2015-05-02 22:40:15.521] boot - 8978  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- SampleSimpleApplication: Started SampleSimpleApplication in 1.761 seconds (JVM running for 5.782)"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000391,
+      "[2015-05-02 22:40:15.522] boot - 8978  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()-EventThread] --- ConnectionStateManager: State change: CONNECTED"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.025139,
+      "\r\n"
+    ],
+    [
+      0.000232,
+      "  .   ____          _            __ _ _"
+    ],
+    [
+      0.000150,
+      "\r\n"
+    ],
+    [
+      0.000142,
+      " /\\\\ / ___'_ __ _ _(_)_ __  __ _ \\ \\ \\ \\"
+    ],
+    [
+      0.000143,
+      "\r\n"
+    ],
+    [
+      0.000143,
+      "( ( )\\___ | '_ | '_| | '_ \\/ _` | \\ \\ \\ \\"
+    ],
+    [
+      0.000153,
+      "\r\n"
+    ],
+    [
+      0.000147,
+      " \\\\/  ___)| |_)| | | | | || (_| |  ) ) ) )"
+    ],
+    [
+      0.000149,
+      "\r\n"
+    ],
+    [
+      0.000144,
+      "  '  |____| .__|_| |_|_| |_\\__, | / / / /"
+    ],
+    [
+      0.000139,
+      "\r\n"
+    ],
+    [
+      0.000152,
+      " =========|_|==============|___/=/_/_/_/"
+    ],
+    [
+      0.000146,
+      "\r\n"
+    ],
+    [
+      0.005768,
+      "\u001b[32m :: Spring Boot :: \u001b[39m      \u001b[2m (v1.2.3.RELEASE)\u001b[0;39m"
+    ],
+    [
+      0.000069,
+      "\r\n"
+    ],
+    [
+      0.000188,
+      "\r\n"
+    ],
+    [
+      0.388752,
+      "[2015-05-02 22:40:15.943] boot - 8978 ERROR [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- ConfigServicePropertySourceLocator: Could not locate PropertySource: I/O error on GET request for \"http://localhost:8888/myapplication/default\":Connection refused; nested exception is java.net.ConnectException: Connection refused\r\n"
+    ],
+    [
+      0.049738,
+      "[2015-05-02 22:40:15.993] boot - 8978  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- PropertySourceBootstrapConfiguration: Located property source: CompositePropertySource [name='zookeeper', propertySources=[ZookeeperPropertySource [name='config/application'], ZookeeperPropertySource [name='config/myapplication']]]\r\n"
+    ],
+    [
+      0.083029,
+      "[2015-05-02 22:40:16.075] boot - 8978  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- AnnotationConfigEmbeddedWebApplicationContext: Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@ba23325: startup date [Sat May 02 22:40:16 CEST 2015]; parent: org.springframework.context.annotation.AnnotationConfigApplicationContext@7e78d46a"
+    ],
+    [
+      0.000040,
+      "\r\n"
+    ],
+    [
+      0.962883,
+      "[2015-05-02 22:40:17.039] boot - 8978  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- DefaultListableBeanFactory: Overriding bean definition for bean 'beanNameViewResolver': replacing [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=org.springframework.boot.autoconfigure.web.ErrorMvcAutoConfiguration$WhitelabelErrorViewConfiguration; factoryMethodName=beanNameViewResolver; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [org/springframework/boot/autoconfigure/web/ErrorMvcAutoConfiguration$WhitelabelErrorViewConfiguration.class]] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=org.springframework.boot.autoconfigure.web.WebMvcAutoConfiguration$WebMvcAutoConfigurationAdapter; factoryMethodName=beanNameViewResolver; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [org/springframework/boot/autoconfigure/web/WebMvcAutoConfiguration$WebMvcAutoConfigurationAdapter.class]]\r\n"
+    ],
+    [
+      0.119456,
+      "[2015-05-02 22:40:17.158] boot - 8978  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- DefaultListableBeanFactory: Overriding bean definition for bean 'infoEndpoint': replacing [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=org.springframework.boot.actuate.autoconfigure.EndpointAutoConfiguration; factoryMethodName=infoEndpoint; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [org/springframework/boot/actuate/autoconfigure/EndpointAutoConfiguration.class]] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=org.springframework.cloud.autoconfigure.RefreshAutoConfiguration$InfoEndpointRebinderConfiguration; factoryMethodName=infoEndpoint; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [org/springframework/cloud/autoconfigure/RefreshAutoConfiguration$InfoEndpointRebinderConfiguration.class]]"
+    ],
+    [
+      0.000176,
+      "\r\n"
+    ],
+    [
+      0.036904,
+      "[2015-05-02 22:40:17.195] boot - 8978  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- DefaultListableBeanFactory: Overriding bean definition for bean 'default.null.RibbonClientSpecification': replacing [Generic bean: class [org.springframework.cloud.netflix.ribbon.RibbonClientSpecification]; scope=; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null] with [Generic bean: class [org.springframework.cloud.netflix.ribbon.RibbonClientSpecification]; scope=; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null]"
+    ],
+    [
+      0.000029,
+      "\r\n"
+    ],
+    [
+      0.220282,
+      "[2015-05-02 22:40:17.416] boot - 8978  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- GenericScope: BeanFactory id=8cb978fc-49cc-3f58-ada0-e7ea19d75830"
+    ],
+    [
+      0.000026,
+      "\r\n"
+    ],
+    [
+      0.033628,
+      "[2015-05-02 22:40:17.449] boot - 8978  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- AutowiredAnnotationBeanPostProcessor: JSR-330 'javax.inject.Inject' annotation found and supported for autowiring"
+    ],
+    [
+      0.000025,
+      "\r\n"
+    ],
+    [
+      0.040970,
+      "[2015-05-02 22:40:17.490] boot - 8978  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- PostProcessorRegistrationDelegate$BeanPostProcessorChecker: Bean 'org.springframework.scheduling.annotation.SchedulingConfiguration' of type [class org.springframework.scheduling.annotation.SchedulingConfiguration$$EnhancerBySpringCGLIB$$fad6c8e2] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)"
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.045408,
+      "[2015-05-02 22:40:17.535] boot - 8978  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- PostProcessorRegistrationDelegate$BeanPostProcessorChecker: Bean 'org.springframework.cloud.autoconfigure.RefreshAutoConfiguration$ConfigurationPropertiesRebinderConfiguration' of type [class org.springframework.cloud.autoconfigure.RefreshAutoConfiguration$ConfigurationPropertiesRebinderConfiguration$$EnhancerBySpringCGLIB$$7b8432dd] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)\r\n"
+    ],
+    [
+      0.595728,
+      "[2015-05-02 22:40:18.132] boot - 8978  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- TomcatEmbeddedServletContainer: Tomcat initialized with port(s): 8088 (http)"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.297652,
+      "[2015-05-02 22:40:18.429] boot - 8978  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- StandardService: Starting service Tomcat"
+    ],
+    [
+      0.000022,
+      "\r\n"
+    ],
+    [
+      0.001672,
+      "[2015-05-02 22:40:18.431] boot - 8978  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- StandardEngine: Starting Servlet Engine: Apache Tomcat/8.0.20"
+    ],
+    [
+      0.000021,
+      "\r\n"
+    ],
+    [
+      0.148773,
+      "[2015-05-02 22:40:18.578] boot - 8978  INFO [localhost-startStop-1] --- [/]: Initializing Spring embedded WebApplicationContext\r\n"
+    ],
+    [
+      0.003121,
+      "[2015-05-02 22:40:18.580] boot - 8978  INFO [localhost-startStop-1] --- ContextLoader: Root WebApplicationContext: initialization completed in 2505 ms\r\n"
+    ],
+    [
+      0.660725,
+      "[2015-05-02 22:40:19.243] boot - 8978  INFO [localhost-startStop-1] --- ServletRegistrationBean: Mapping servlet: 'dispatcherServlet' to [/]\r\n"
+    ],
+    [
+      0.007394,
+      "[2015-05-02 22:40:19.250] boot - 8978  INFO [localhost-startStop-1] --- FilterRegistrationBean: Mapping filter: 'metricFilter' to: [/*]"
+    ],
+    [
+      0.000024,
+      "\r\n"
+    ],
+    [
+      0.006115,
+      "[2015-05-02 22:40:19.252] boot - 8978  INFO [localhost-startStop-1] --- FilterRegistrationBean: Mapping filter: 'characterEncodingFilter' to: [/*]"
+    ],
+    [
+      0.000022,
+      "\r\n"
+    ],
+    [
+      0.000364,
+      "[2015-05-02 22:40:19.258] boot - 8978  INFO [localhost-startStop-1] --- FilterRegistrationBean: Mapping filter: 'webRequestLoggingFilter' to: [/*]"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.000186,
+      "[2015-05-02 22:40:19.258] boot - 8978  INFO [localhost-startStop-1] --- FilterRegistrationBean: Mapping filter: 'hiddenHttpMethodFilter' to: [/*]"
+    ],
+    [
+      0.000054,
+      "\r\n"
+    ],
+    [
+      0.000169,
+      "[2015-05-02 22:40:19.258] boot - 8978  INFO [localhost-startStop-1] --- FilterRegistrationBean: Mapping filter: 'applicationContextIdFilter' to: [/*]"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.334502,
+      "[2015-05-02 22:40:19.592] boot - 8978  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- RequestMappingHandlerAdapter: Looking for @ControllerAdvice: org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@ba23325: startup date [Sat May 02 22:40:16 CEST 2015]; parent: org.springframework.context.annotation.AnnotationConfigApplicationContext@7e78d46a"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.118223,
+      "[2015-05-02 22:40:19.711] boot - 8978  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- RequestMappingHandlerMapping: Mapped \"{[/error],methods=[],params=[],headers=[],consumes=[],produces=[text/html],custom=[]}\" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest)\r\n"
+    ],
+    [
+      0.000197,
+      "[2015-05-02 22:40:19.711] boot - 8978  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- RequestMappingHandlerMapping: Mapped \"{[/error],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}\" onto public org.springframework.http.ResponseEntity\u003cjava.util.Map\u003cjava.lang.String, java.lang.Object\u003e\u003e org.springframework.boot.autoconfigure.web.BasicErrorController.error(javax.servlet.http.HttpServletRequest)"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.040356,
+      "[2015-05-02 22:40:19.751] boot - 8978  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- SimpleUrlHandlerMapping: Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]"
+    ],
+    [
+      0.000023,
+      "\r\n"
+    ],
+    [
+      0.000301,
+      "[2015-05-02 22:40:19.752] boot - 8978  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- SimpleUrlHandlerMapping: Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]"
+    ],
+    [
+      0.000125,
+      "\r\n"
+    ],
+    [
+      0.059498,
+      "[2015-05-02 22:40:19.811] boot - 8978  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- SimpleUrlHandlerMapping: Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.735890,
+      "[2015-05-02 22:40:20.546] boot - 8978  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- EndpointHandlerMapping: Mapped \"{[/archaius],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}\" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()\r\n"
+    ],
+    [
+      0.000036,
+      "[2015-05-02 22:40:20.547] boot - 8978  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- EndpointHandlerMapping: Mapped \"{[/pause],methods=[POST],params=[],headers=[],consumes=[],produces=[],custom=[]}\" onto public java.lang.Object org.springframework.cloud.endpoint.GenericPostableMvcEndpoint.invoke()\r\n[2015-05-02 22:40:20.547] boot - 8978  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- EndpointHandlerMapping: Mapped \"{[/dump],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}\" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()\r\n"
+    ],
+    [
+      0.000064,
+      "[2015-05-02 22:40:20.547] boot - 8978  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- EndpointHandlerMapping: Mapped \"{[/info],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}\" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()\r\n"
+    ],
+    [
+      0.000747,
+      "[2015-05-02 22:40:20.548] boot - 8978  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- EndpointHandlerMapping: Mapped \"{[/shutdown],methods=[POST],params=[],headers=[],consumes=[],produces=[],custom=[]}\" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.ShutdownMvcEndpoint.invoke()\r\n[2015-05-02 22:40:20.548] boot - 8978  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- EndpointHandlerMapping: Mapped \"{[/mappings],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}\" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()\r\n"
+    ],
+    [
+      0.000361,
+      "[2015-05-02 22:40:20.548] boot - 8978  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- EndpointHandlerMapping: Mapped \"{[/metrics/{name:.*}],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}\" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.MetricsMvcEndpoint.value(java.lang.String)"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.001761,
+      "[2015-05-02 22:40:20.549] boot - 8978  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- EndpointHandlerMapping: Mapped \"{[/metrics],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}\" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()\r\n[2015-05-02 22:40:20.549] boot - 8978  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- EndpointHandlerMapping: Mapped \"{[/restart],methods=[POST],params=[],headers=[],consumes=[],produces=[],custom=[]}\" onto public java.lang.Object org.springframework.cloud.context.restart.RestartMvcEndpoint.invoke()\r\n[2015-05-02 22:40:20.549] boot - 8978  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- EndpointHandlerMapping: Mapped \"{[/beans],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}\" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()\r\n[2015-05-02 22:40:20.550] boot - 8978  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- EndpointHandlerMapping: Mapped \"{[/health],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}\" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.HealthMvcEndpoint.invoke(java.security.Principal)\r\n[2015-05-02 22:40:20.550] boot - 8978  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- EndpointHandlerMapping: Mapped \"{[/refresh],methods=[POST],params=[],headers=[],consumes=[],produces=[],custom=[]}\" onto public java.lang.Object org.springframework.cloud.endpoint.GenericPostableMvcEndpoint.invoke()\r\n"
+    ],
+    [
+      0.000181,
+      "[2015-05-02 22:40:20.550] boot - 8978  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- EndpointHandlerMapping: Mapped \"{[/autoconfig],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}\" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()\r\n"
+    ],
+    [
+      0.000517,
+      "[2015-05-02 22:40:20.551] boot - 8978  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- EndpointHandlerMapping: Mapped \"{[/env/{name:.*}],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}\" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EnvironmentMvcEndpoint.value(java.lang.String)\r\n"
+    ],
+    [
+      0.000114,
+      "[2015-05-02 22:40:20.551] boot - 8978  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- EndpointHandlerMapping: Mapped \"{[/env],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}\" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.000240,
+      "[2015-05-02 22:40:20.551] boot - 8978  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- EndpointHandlerMapping: Mapped \"{[/trace],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}\" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000243,
+      "[2015-05-02 22:40:20.552] boot - 8978  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- EndpointHandlerMapping: Mapped \"{[/zookeeper],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}\" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()"
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.000745,
+      "[2015-05-02 22:40:20.552] boot - 8978  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- EndpointHandlerMapping: Mapped \"{[/env],methods=[POST],params=[],headers=[],consumes=[],produces=[],custom=[]}\" onto public java.lang.Object org.springframework.cloud.context.environment.EnvironmentManagerMvcEndpoint.value(java.util.Map\u003cjava.lang.String, java.lang.String\u003e)"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.000163,
+      "[2015-05-02 22:40:20.552] boot - 8978  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- EndpointHandlerMapping: Mapped \"{[/env/reset],methods=[POST],params=[],headers=[],consumes=[],produces=[],custom=[]}\" onto public java.util.Map\u003cjava.lang.String, java.lang.Object\u003e org.springframework.cloud.context.environment.EnvironmentManagerMvcEndpoint.reset()"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.001018,
+      "[2015-05-02 22:40:20.553] boot - 8978  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- EndpointHandlerMapping: Mapped \"{[/resume],methods=[POST],params=[],headers=[],consumes=[],produces=[],custom=[]}\" onto public java.lang.Object org.springframework.cloud.endpoint.GenericPostableMvcEndpoint.invoke()"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000327,
+      "[2015-05-02 22:40:20.554] boot - 8978  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- EndpointHandlerMapping: Mapped \"{[/configprops],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}\" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.234163,
+      "[2015-05-02 22:40:20.788] boot - 8978  WARN [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- URLConfigurationSource: No URLs will be polled as dynamic configuration sources."
+    ],
+    [
+      0.000171,
+      "\r\n"
+    ],
+    [
+      0.000012,
+      "[2015-05-02 22:40:20.788] boot - 8978  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- URLConfigurationSource: To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.\r\n"
+    ],
+    [
+      0.056604,
+      "[2015-05-02 22:40:20.844] boot - 8978  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- AnnotationMBeanExporter: Registering beans for JMX exposure on startup"
+    ],
+    [
+      0.000027,
+      "\r\n"
+    ],
+    [
+      0.031193,
+      "[2015-05-02 22:40:20.875] boot - 8978  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- AnnotationMBeanExporter: Bean with name 'refreshEndpoint' has been autodetected for JMX exposure\r\n"
+    ],
+    [
+      0.001563,
+      "[2015-05-02 22:40:20.877] boot - 8978  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- AnnotationMBeanExporter: Bean with name 'restartEndpoint' has been autodetected for JMX exposure"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000633,
+      "[2015-05-02 22:40:20.878] boot - 8978  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- AnnotationMBeanExporter: Bean with name 'configurationPropertiesRebinder' has been autodetected for JMX exposure\r\n"
+    ],
+    [
+      0.000610,
+      "[2015-05-02 22:40:20.879] boot - 8978  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- AnnotationMBeanExporter: Bean with name 'refreshScope' has been autodetected for JMX exposure"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.006157,
+      "[2015-05-02 22:40:20.885] boot - 8978  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- AnnotationMBeanExporter: Bean with name 'environmentManager' has been autodetected for JMX exposure"
+    ],
+    [
+      0.000215,
+      "\r\n"
+    ],
+    [
+      0.006477,
+      "[2015-05-02 22:40:20.891] boot - 8978  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- AnnotationMBeanExporter: Located managed bean 'environmentManager': registering with JMX server as MBean [org.springframework.cloud.context.environment:name=environmentManager,type=EnvironmentManager]"
+    ],
+    [
+      0.000062,
+      "\r\n"
+    ],
+    [
+      0.024916,
+      "[2015-05-02 22:40:20.916] boot - 8978  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- AnnotationMBeanExporter: Located managed bean 'restartEndpoint': registering with JMX server as MBean [org.springframework.cloud.context.restart:name=restartEndpoint,type=RestartEndpoint]"
+    ],
+    [
+      0.000022,
+      "\r\n"
+    ],
+    [
+      0.017516,
+      "[2015-05-02 22:40:20.934] boot - 8978  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- AnnotationMBeanExporter: Located managed bean 'refreshScope': registering with JMX server as MBean [org.springframework.cloud.context.scope.refresh:name=refreshScope,type=RefreshScope]"
+    ],
+    [
+      0.000023,
+      "\r\n"
+    ],
+    [
+      0.013234,
+      "[2015-05-02 22:40:20.947] boot - 8978  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- AnnotationMBeanExporter: Located managed bean 'configurationPropertiesRebinder': registering with JMX server as MBean [org.springframework.cloud.context.properties:name=configurationPropertiesRebinder,type=ConfigurationPropertiesRebinder]"
+    ],
+    [
+      0.000022,
+      "\r\n"
+    ],
+    [
+      0.011141,
+      "[2015-05-02 22:40:20.958] boot - 8978  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- AnnotationMBeanExporter: Located managed bean 'refreshEndpoint': registering with JMX server as MBean [org.springframework.cloud.bootstrap.config:name=refreshEndpoint,type=RefreshEndpoint]"
+    ],
+    [
+      0.000041,
+      "\r\n"
+    ],
+    [
+      0.005855,
+      "[2015-05-02 22:40:20.964] boot - 8978  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- DefaultLifecycleProcessor: Starting beans in phase 0"
+    ],
+    [
+      0.000023,
+      "\r\n"
+    ],
+    [
+      0.087344,
+      "Hello Mark"
+    ],
+    [
+      0.000023,
+      "\r\n"
+    ],
+    [
+      0.093224,
+      "[2015-05-02 22:40:21.145] boot - 8978  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- TomcatEmbeddedServletContainer: Tomcat started on port(s): 8088 (http)"
+    ],
+    [
+      0.000022,
+      "\r\n"
+    ],
+    [
+      0.004092,
+      "[2015-05-02 22:40:21.149] boot - 8978  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- SampleSimpleApplication: Started SampleSimpleApplication in 7.474 seconds (JVM running for 11.41)"
+    ],
+    [
+      0.000021,
+      "\r\n"
+    ],
+    [
+      2.000000,
+      "Hello Mark"
+    ],
+    [
+      0.000037,
+      "\r\n"
+    ],
+    [
+      2.000000,
+      "Hello Mark\r\n"
+    ],
+    [
+      2.000000,
+      "Hello Mark\r\n"
+    ],
+    [
+      2.000000,
+      "^C"
+    ],
+    [
+      0.007463,
+      "[2015-05-02 22:40:57.734] boot - 8978  INFO [Thread-1] --- AnnotationConfigApplicationContext: Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@7e78d46a: startup date [Sat May 02 22:40:14 CEST 2015]; root of context hierarchy\r\n"
+    ],
+    [
+      0.000130,
+      "[2015-05-02 22:40:57.739] boot - 8978  INFO [Thread-2] --- AnnotationConfigEmbeddedWebApplicationContext: Closing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@ba23325: startup date [Sat May 02 22:40:16 CEST 2015]; parent: org.springframework.context.annotation.AnnotationConfigApplicationContext@7e78d46a"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.007325,
+      "[2015-05-02 22:40:57.744] boot - 8978  INFO [Thread-2] --- DefaultLifecycleProcessor: Stopping beans in phase 0\r\n"
+    ],
+    [
+      0.009670,
+      "[2015-05-02 22:40:57.755] boot - 8978  INFO [Thread-2] --- ZooKeeper: Session: 0x14d1644af5c0008 closed\r\n[2015-05-02 22:40:57.755] boot - 8978  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()-EventThread] --- ClientCnxn: EventThread shut down"
+    ],
+    [
+      0.000108,
+      "\r\n"
+    ],
+    [
+      0.038601,
+      "[2015-05-02 22:40:57.795] boot - 8978  INFO [Thread-2] --- AnnotationMBeanExporter: Unregistering JMX-exposed beans on shutdown\r\n"
+    ],
+    [
+      0.000169,
+      "[2015-05-02 22:40:57.796] boot - 8978  INFO [Thread-2] --- AnnotationMBeanExporter: Unregistering JMX-exposed beans"
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.000769,
+      "[2015-05-02 22:40:57.796] boot - 8978  INFO [Thread-2] --- ServoMetricCollector: Stopping Servo PollScheduler"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.058399,
+      "[2015-05-02 22:40:57.855] boot - 8978  WARN [Thread-1] --- CommonAnnotationBeanPostProcessor: Invocation of destroy method failed on bean with name 'org.springframework.cloud.zookeeper.ZookeeperAutoConfiguration': org.springframework.beans.factory.BeanCreationNotAllowedException: Error creating bean with name 'curatorFramework': Singleton bean creation not allowed while the singletons of this factory are in destruction (Do not request a bean from a BeanFactory in a destroy method implementation!)"
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.064173,
+      "alfredo@/tmp/kata-zookeeper$ "
+    ],
+    [
+      2.000000,
+      "\r\n"
+    ],
+    [
+      0.002222,
+      "alfredo@/tmp/kata-zookeeper$ "
+    ],
+    [
+      0.181742,
+      "\r\n"
+    ],
+    [
+      0.002288,
+      "alfredo@/tmp/kata-zookeeper$ "
+    ],
+    [
+      0.176282,
+      "z"
+    ],
+    [
+      0.287413,
+      "k"
+    ],
+    [
+      0.745269,
+      "C"
+    ],
+    [
+      0.262801,
+      "l"
+    ],
+    [
+      0.239286,
+      "i"
+    ],
+    [
+      0.234213,
+      "."
+    ],
+    [
+      0.148604,
+      "s"
+    ],
+    [
+      0.079876,
+      "h"
+    ],
+    [
+      0.397135,
+      "\r\n"
+    ],
+    [
+      0.193818,
+      "Connecting to localhost:2181\r\n"
+    ],
+    [
+      0.016474,
+      "2015-05-02 22:41:04,837 [myid:] - INFO  [main:Environment@100] - Client environment:zookeeper.version=3.4.5-1392090, built on 09/30/2012 17:52 GMT\r\n"
+    ],
+    [
+      0.000225,
+      "2015-05-02 22:41:04,841 [myid:] - INFO  [main:Environment@100] - Client environment:host.name=raude\r\n"
+    ],
+    [
+      0.000198,
+      "2015-05-02 22:41:04,841 [myid:] - INFO  [main:Environment@100] - Client environment:java.version=1.8.0_25\r\n"
+    ],
+    [
+      0.000203,
+      "2015-05-02 22:41:04,841 [myid:] - INFO  [main:Environment@100] - Client environment:java.vendor=Oracle Corporation\r\n"
+    ],
+    [
+      0.000195,
+      "2015-05-02 22:41:04,841 [myid:] - INFO  [main:Environment@100] - Client environment:java.home=/opt/jdk1.8.0_25/jre\r\n"
+    ],
+    [
+      0.000237,
+      "2015-05-02 22:41:04,841 [myid:] - INFO  [main:Environment@100] - Client environment:java.class.path=/opt/zookeeper/bin/../build/classes:/opt/zookeeper/bin/../build/lib/*.jar:/opt/zookeeper/bin/../lib/slf4j-log4j12-1.6.1.jar:/opt/zookeeper/bin/../lib/slf4j-api-1.6.1.jar:/opt/zookeeper/bin/../lib/netty-3.2.2.Final.jar:/opt/zookeeper/bin/../lib/log4j-1.2.15.jar:/opt/zookeeper/bin/../lib/jline-0.9.94.jar:/opt/zookeeper/bin/../zookeeper-3.4.5.jar:/opt/zookeeper/bin/../src/java/lib/*.jar:/opt/zookeeper/bin/../conf::/opt/RelProxy/lib/relproxy-0.8.1.jar:/opt/RelProxy/lib/relproxy-0.8.1.jar\r\n"
+    ],
+    [
+      0.000244,
+      "2015-05-02 22:41:04,842 [myid:] - INFO  [main:Environment@100] - Client environment:java.library.path=/opt/jdk1.8.0_25/jre/lib/amd64/server:/opt/jdk1.8.0_25/jre/lib/amd64:/opt/jdk1.8.0_25/jre/../lib/amd64:/opt/jdk//jre/lib/amd64/server/:/opt/jdk//jre/lib/amd64/server/::/usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib\r\n"
+    ],
+    [
+      0.000215,
+      "2015-05-02 22:41:04,842 [myid:] - INFO  [main:Environment@100] - Client environment:java.io.tmpdir=/tmp\r\n"
+    ],
+    [
+      0.000196,
+      "2015-05-02 22:41:04,842 [myid:] - INFO  [main:Environment@100] - Client environment:java.compiler=\u003cNA\u003e\r\n"
+    ],
+    [
+      0.000169,
+      "2015-05-02 22:41:04,842 [myid:] - INFO  [main:Environment@100] - Client environment:os.name=Linux"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000170,
+      "2015-05-02 22:41:04,842 [myid:] - INFO  [main:Environment@100] - Client environment:os.arch=amd64"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000209,
+      "2015-05-02 22:41:04,843 [myid:] - INFO  [main:Environment@100] - Client environment:os.version=3.13.0-45-generic\r\n"
+    ],
+    [
+      0.000191,
+      "2015-05-02 22:41:04,843 [myid:] - INFO  [main:Environment@100] - Client environment:user.name=alfredo\r\n"
+    ],
+    [
+      0.000191,
+      "2015-05-02 22:41:04,843 [myid:] - INFO  [main:Environment@100] - Client environment:user.home=/opt\r\n"
+    ],
+    [
+      0.000193,
+      "2015-05-02 22:41:04,843 [myid:] - INFO  [main:Environment@100] - Client environment:user.dir=/tmp/kata-zookeeper\r\n"
+    ],
+    [
+      0.001786,
+      "2015-05-02 22:41:04,845 [myid:] - INFO  [main:ZooKeeper@438] - Initiating client connection, connectString=localhost:2181 sessionTimeout=30000 watcher=org.apache.zookeeper.ZooKeeperMain$MyWatcher@42110406\r\n"
+    ],
+    [
+      0.023255,
+      "Welcome to ZooKeeper!"
+    ],
+    [
+      0.000017,
+      "\r\n"
+    ],
+    [
+      0.008423,
+      "2015-05-02 22:41:04,876 [myid:] - INFO  [main-SendThread(localhost:2181):ClientCnxn$SendThread@966] - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)"
+    ],
+    [
+      0.000066,
+      "\r\n"
+    ],
+    [
+      0.011087,
+      "JLine support is enabled\r\n"
+    ],
+    [
+      0.043026,
+      "[zk: localhost:2181(CONNECTING) 0] "
+    ],
+    [
+      0.026281,
+      "2015-05-02 22:41:04,957 [myid:] - INFO  [main-SendThread(localhost:2181):ClientCnxn$SendThread@849] - Socket connection established to localhost/127.0.0.1:2181, initiating session"
+    ],
+    [
+      0.000030,
+      "\r\n"
+    ],
+    [
+      0.008989,
+      "2015-05-02 22:41:04,966 [myid:] - INFO  [main-SendThread(localhost:2181):ClientCnxn$SendThread@1207] - Session establishment complete on server localhost/127.0.0.1:2181, sessionid = 0x14d1644af5c0009, negotiated timeout = 30000"
+    ],
+    [
+      0.000048,
+      "\r\n"
+    ],
+    [
+      0.001653,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "WATCHER::\r\n"
+    ],
+    [
+      0.000353,
+      "\r\nWatchedEvent state:SyncConnected type:None path:null"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      1.738142,
+      "\r\n"
+    ],
+    [
+      0.000194,
+      "[zk: localhost:2181(CONNECTED) 0] "
+    ],
+    [
+      1.010060,
+      "s"
+    ],
+    [
+      0.279240,
+      "e"
+    ],
+    [
+      0.277179,
+      "t"
+    ],
+    [
+      0.272158,
+      " "
+    ],
+    [
+      0.263742,
+      "/"
+    ],
+    [
+      0.346586,
+      "c"
+    ],
+    [
+      0.186275,
+      "o"
+    ],
+    [
+      0.082994,
+      "n"
+    ],
+    [
+      0.105660,
+      "f"
+    ],
+    [
+      0.134506,
+      "i"
+    ],
+    [
+      0.065079,
+      "g"
+    ],
+    [
+      0.458014,
+      "/"
+    ],
+    [
+      0.432278,
+      "m"
+    ],
+    [
+      0.253181,
+      "y"
+    ],
+    [
+      0.376901,
+      "a"
+    ],
+    [
+      0.170125,
+      "p"
+    ],
+    [
+      0.166152,
+      "p"
+    ],
+    [
+      0.152304,
+      "l"
+    ],
+    [
+      0.062027,
+      "i"
+    ],
+    [
+      0.104951,
+      "c"
+    ],
+    [
+      0.098763,
+      "a"
+    ],
+    [
+      0.069969,
+      "t"
+    ],
+    [
+      0.064008,
+      "i"
+    ],
+    [
+      0.078587,
+      "o"
+    ],
+    [
+      0.082044,
+      "n"
+    ],
+    [
+      0.734142,
+      "/"
+    ],
+    [
+      0.353152,
+      "n"
+    ],
+    [
+      0.113340,
+      "a"
+    ],
+    [
+      0.084982,
+      "m"
+    ],
+    [
+      0.111824,
+      "e"
+    ],
+    [
+      0.136193,
+      " "
+    ],
+    [
+      0.248750,
+      "J"
+    ],
+    [
+      0.167101,
+      "a"
+    ],
+    [
+      0.123188,
+      "m"
+    ],
+    [
+      0.111215,
+      "e"
+    ],
+    [
+      0.088526,
+      "s"
+    ],
+    [
+      1.669319,
+      "\r\n"
+    ],
+    [
+      0.008108,
+      "cZxid = 0x36"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.003822,
+      "ctime = Sat May 02 22:40:00 CEST 2015"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000022,
+      "mZxid = 0x3b"
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.000164,
+      "mtime = Sat May 02 22:41:16 CEST 2015"
+    ],
+    [
+      0.000021,
+      "\r\n"
+    ],
+    [
+      0.000041,
+      "pZxid = 0x36"
+    ],
+    [
+      0.000027,
+      "\r\n"
+    ],
+    [
+      0.000054,
+      "cversion = 0"
+    ],
+    [
+      0.000031,
+      "\r\n"
+    ],
+    [
+      0.000042,
+      "dataVersion = 1"
+    ],
+    [
+      0.000030,
+      "\r\n"
+    ],
+    [
+      0.000041,
+      "aclVersion = 0"
+    ],
+    [
+      0.000033,
+      "\r\n"
+    ],
+    [
+      0.000047,
+      "ephemeralOwner = 0x0"
+    ],
+    [
+      0.000028,
+      "\r\n"
+    ],
+    [
+      0.000041,
+      "dataLength = 5"
+    ],
+    [
+      0.000027,
+      "\r\n"
+    ],
+    [
+      0.000044,
+      "numChildren = 0"
+    ],
+    [
+      0.000028,
+      "\r\n"
+    ],
+    [
+      0.000064,
+      "[zk: localhost:2181(CONNECTED) 1] "
+    ],
+    [
+      2.000000,
+      "q"
+    ],
+    [
+      0.112057,
+      "u"
+    ],
+    [
+      0.086090,
+      "i"
+    ],
+    [
+      0.111645,
+      "t"
+    ],
+    [
+      0.914904,
+      "\r\n"
+    ],
+    [
+      0.000257,
+      "Quitting..."
+    ],
+    [
+      0.000254,
+      "\r\n"
+    ],
+    [
+      0.008576,
+      "2015-05-02 22:41:24,516 [myid:] - INFO  [main:ZooKeeper@684] - Session: 0x14d1644af5c0009 closed\r\n"
+    ],
+    [
+      0.000351,
+      "2015-05-02 22:41:24,516 [myid:] - INFO  [main-EventThread:ClientCnxn$EventThread@509] - EventThread shut down"
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.010592,
+      "alfredo@/tmp/kata-zookeeper$ "
+    ],
+    [
+      2.000000,
+      "\r\n"
+    ],
+    [
+      0.006073,
+      "alfredo@/tmp/kata-zookeeper$ "
+    ],
+    [
+      0.886718,
+      "m"
+    ],
+    [
+      0.105785,
+      "v"
+    ],
+    [
+      0.134002,
+      "n"
+    ],
+    [
+      0.178300,
+      " "
+    ],
+    [
+      0.181569,
+      "s"
+    ],
+    [
+      0.127376,
+      "p"
+    ],
+    [
+      0.112982,
+      "r"
+    ],
+    [
+      0.071781,
+      "i"
+    ],
+    [
+      0.082218,
+      "n"
+    ],
+    [
+      0.104077,
+      "g"
+    ],
+    [
+      0.236814,
+      "-"
+    ],
+    [
+      0.322280,
+      "b"
+    ],
+    [
+      0.097052,
+      "o"
+    ],
+    [
+      0.165237,
+      "o"
+    ],
+    [
+      0.071640,
+      "t"
+    ],
+    [
+      0.323198,
+      ":"
+    ],
+    [
+      0.263231,
+      "r"
+    ],
+    [
+      0.080833,
+      "u"
+    ],
+    [
+      0.181646,
+      "n"
+    ],
+    [
+      1.407589,
+      "\r\n"
+    ],
+    [
+      1.344426,
+      "[INFO] Scanning for projects..."
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.279626,
+      "[INFO] "
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.000483,
+      "[INFO] Using the builder org.apache.maven.lifecycle.internal.builder.singlethreaded.SingleThreadedBuilder with a thread count of 1"
+    ],
+    [
+      0.000126,
+      "\r\n"
+    ],
+    [
+      0.001084,
+      "[INFO]                                                                         "
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000177,
+      "[INFO] ------------------------------------------------------------------------"
+    ],
+    [
+      0.000119,
+      "\r\n"
+    ],
+    [
+      0.000182,
+      "[INFO] Building Therore Kata with Zookeeper 1.0.0-SNAPSHOT"
+    ],
+    [
+      0.000144,
+      "\r\n"
+    ],
+    [
+      0.000128,
+      "[INFO] ------------------------------------------------------------------------"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.055030,
+      "[INFO] "
+    ],
+    [
+      0.000022,
+      "\r\n[INFO] \u003e\u003e\u003e spring-boot-maven-plugin:1.2.3.RELEASE:run (default-cli) @ therore-kata-zookeeper \u003e\u003e\u003e\r\n"
+    ],
+    [
+      0.809664,
+      "[INFO] "
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.000041,
+      "[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ therore-kata-zookeeper ---"
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.208692,
+      "[INFO] Using 'UTF-8' encoding to copy filtered resources."
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.003658,
+      "[INFO] Copying 1 resource"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.014244,
+      "[INFO] Copying 0 resource"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.001738,
+      "[INFO] "
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.000043,
+      "[INFO] --- maven-compiler-plugin:3.1:compile (default-compile) @ therore-kata-zookeeper ---\r\n"
+    ],
+    [
+      0.324532,
+      "[INFO] Nothing to compile - all classes are up to date"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000333,
+      "[INFO] "
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000025,
+      "[INFO] --- maven-resources-plugin:2.6:testResources (default-testResources) @ therore-kata-zookeeper ---"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.003389,
+      "[INFO] Using 'UTF-8' encoding to copy filtered resources."
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000037,
+      "[INFO] skip non existing resourceDirectory /tmp/kata-zookeeper/src/test/resources"
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.000206,
+      "[INFO] "
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000022,
+      "[INFO] --- maven-compiler-plugin:3.1:testCompile (default-testCompile) @ therore-kata-zookeeper ---"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.003543,
+      "[INFO] No sources to compile"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.000092,
+      "[INFO] "
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.000024,
+      "[INFO] \u003c\u003c\u003c spring-boot-maven-plugin:1.2.3.RELEASE:run (default-cli) @ therore-kata-zookeeper \u003c\u003c\u003c"
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.072846,
+      "[INFO] "
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.000022,
+      "[INFO] --- spring-boot-maven-plugin:1.2.3.RELEASE:run (default-cli) @ therore-kata-zookeeper ---"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.925503,
+      "[2015-05-02 22:41:35.802] boot - 9203  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- SampleSimpleApplication: Starting SampleSimpleApplication on raude with PID 9203 (/tmp/kata-zookeeper/target/classes started by alfredo in /tmp/kata-zookeeper)"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.035875,
+      "[2015-05-02 22:41:35.840] boot - 9203  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- AnnotationConfigApplicationContext: Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@653e8f44: startup date [Sat May 02 22:41:35 CEST 2015]; root of context hierarchy"
+    ],
+    [
+      0.000029,
+      "\r\n"
+    ],
+    [
+      0.459945,
+      "[2015-05-02 22:41:36.299] boot - 9203  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- AutowiredAnnotationBeanPostProcessor: JSR-330 'javax.inject.Inject' annotation found and supported for autowiring\r\n"
+    ],
+    [
+      0.541629,
+      "[2015-05-02 22:41:36.842] boot - 9203  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- CuratorFrameworkImpl: Starting\r\n"
+    ],
+    [
+      0.010959,
+      "[2015-05-02 22:41:36.853] boot - 9203  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- ZooKeeper: Client environment:zookeeper.version=3.4.6-1569965, built on 02/20/2014 09:09 GMT"
+    ],
+    [
+      0.000024,
+      "\r\n"
+    ],
+    [
+      0.000161,
+      "[2015-05-02 22:41:36.853] boot - 9203  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- ZooKeeper: Client environment:host.name=raude"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.000142,
+      "[2015-05-02 22:41:36.853] boot - 9203  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- ZooKeeper: Client environment:java.version=1.8.0_25\r\n"
+    ],
+    [
+      0.000084,
+      "[2015-05-02 22:41:36.853] boot - 9203  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- ZooKeeper: Client environment:java.vendor=Oracle Corporation"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000089,
+      "[2015-05-02 22:41:36.853] boot - 9203  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- ZooKeeper: Client environment:java.home=/opt/jdk1.8.0_25/jre"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000095,
+      "[2015-05-02 22:41:36.853] boot - 9203  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- ZooKeeper: Client environment:java.class.path=/opt/maven/boot/plexus-classworlds-2.5.1.jar"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000092,
+      "[2015-05-02 22:41:36.853] boot - 9203  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- ZooKeeper: Client environment:java.library.path=/opt/jdk1.8.0_25/jre/lib/amd64/server:/opt/jdk1.8.0_25/jre/lib/amd64:/opt/jdk1.8.0_25/jre/../lib/amd64:/opt/jdk//jre/lib/amd64/server/:/opt/jdk//jre/lib/amd64/server/::/usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000183,
+      "[2015-05-02 22:41:36.853] boot - 9203  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- ZooKeeper: Client environment:java.io.tmpdir=/tmp\r\n[2015-05-02 22:41:36.854] boot - 9203  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- ZooKeeper: Client environment:java.compiler=\u003cNA\u003e\r\n"
+    ],
+    [
+      0.000115,
+      "[2015-05-02 22:41:36.854] boot - 9203  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- ZooKeeper: Client environment:os.name=Linux\r\n"
+    ],
+    [
+      0.000054,
+      "[2015-05-02 22:41:36.854] boot - 9203  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- ZooKeeper: Client environment:os.arch=amd64\r\n"
+    ],
+    [
+      0.000096,
+      "[2015-05-02 22:41:36.854] boot - 9203  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- ZooKeeper: Client environment:os.version=3.13.0-45-generic\r\n"
+    ],
+    [
+      0.000089,
+      "[2015-05-02 22:41:36.854] boot - 9203  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- ZooKeeper: Client environment:user.name=alfredo\r\n"
+    ],
+    [
+      0.000091,
+      "[2015-05-02 22:41:36.854] boot - 9203  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- ZooKeeper: Client environment:user.home=/opt\r\n"
+    ],
+    [
+      0.000082,
+      "[2015-05-02 22:41:36.854] boot - 9203  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- ZooKeeper: Client environment:user.dir=/tmp/kata-zookeeper"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.001318,
+      "[2015-05-02 22:41:36.855] boot - 9203  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- ZooKeeper: Initiating client connection, connectString=localhost:2181 sessionTimeout=60000 watcher=org.apache.curator.ConnectionState@7973fb79\r\n"
+    ],
+    [
+      0.025594,
+      "[2015-05-02 22:41:36.881] boot - 9203  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main(localhost:2181)] --- ClientCnxn: Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)\r\n"
+    ],
+    [
+      0.109639,
+      "[2015-05-02 22:41:36.991] boot - 9203  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- SampleSimpleApplication: Started SampleSimpleApplication in 1.435 seconds (JVM running for 5.23)\r\n"
+    ],
+    [
+      0.005425,
+      "[2015-05-02 22:41:36.995] boot - 9203  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main(localhost:2181)] --- ClientCnxn: Socket connection established to localhost/127.0.0.1:2181, initiating session"
+    ],
+    [
+      0.004661,
+      "\r\n"
+    ],
+    [
+      0.014547,
+      "[2015-05-02 22:41:37.015] boot - 9203  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main(localhost:2181)] --- ClientCnxn: Session establishment complete on server localhost/127.0.0.1:2181, sessionid = 0x14d1644af5c000a, negotiated timeout = 40000"
+    ],
+    [
+      0.000764,
+      "\r\n"
+    ],
+    [
+      0.010429,
+      "[2015-05-02 22:41:37.025] boot - 9203  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()-EventThread] --- ConnectionStateManager: State change: CONNECTED"
+    ],
+    [
+      0.000025,
+      "\r\n"
+    ],
+    [
+      0.013131,
+      "\r\n"
+    ],
+    [
+      0.002239,
+      "  .   ____          _            __ _ _"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      " /\\\\ / ___'_ __ _ _(_)_ __  __ _ \\ \\ \\ \\"
+    ],
+    [
+      0.000262,
+      "\r\n( ( )\\___ | '_ | '_| | '_ \\/ _` | \\ \\ \\ \\\r\n \\\\/  ___)| |_)| | | | | || (_| |  ) ) ) )\r\n  '  |____| .__|_| |_|_| |_\\__, | / / / /\r\n =========|_|==============|___/=/_/_/_/\r\n"
+    ],
+    [
+      0.017661,
+      "\u001b[32m :: Spring Boot :: \u001b[39m      \u001b[2m (v1.2.3.RELEASE)\u001b[0;39m"
+    ],
+    [
+      0.000020,
+      "\r\n\r\n"
+    ],
+    [
+      0.452157,
+      "[2015-05-02 22:41:37.511] boot - 9203 ERROR [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- ConfigServicePropertySourceLocator: Could not locate PropertySource: I/O error on GET request for \"http://localhost:8888/myapplication/default\":Connection refused; nested exception is java.net.ConnectException: Connection refused"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.036886,
+      "[2015-05-02 22:41:37.549] boot - 9203  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- PropertySourceBootstrapConfiguration: Located property source: CompositePropertySource [name='zookeeper', propertySources=[ZookeeperPropertySource [name='config/application'], ZookeeperPropertySource [name='config/myapplication']]]"
+    ],
+    [
+      0.001646,
+      "\r\n"
+    ],
+    [
+      0.042645,
+      "[2015-05-02 22:41:37.593] boot - 9203  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- AnnotationConfigEmbeddedWebApplicationContext: Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@7b2397b5: startup date [Sat May 02 22:41:37 CEST 2015]; parent: org.springframework.context.annotation.AnnotationConfigApplicationContext@653e8f44"
+    ],
+    [
+      0.000017,
+      "\r\n"
+    ],
+    [
+      0.921149,
+      "[2015-05-02 22:41:38.514] boot - 9203  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- DefaultListableBeanFactory: Overriding bean definition for bean 'beanNameViewResolver': replacing [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=org.springframework.boot.autoconfigure.web.ErrorMvcAutoConfiguration$WhitelabelErrorViewConfiguration; factoryMethodName=beanNameViewResolver; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [org/springframework/boot/autoconfigure/web/ErrorMvcAutoConfiguration$WhitelabelErrorViewConfiguration.class]] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=org.springframework.boot.autoconfigure.web.WebMvcAutoConfiguration$WebMvcAutoConfigurationAdapter; factoryMethodName=beanNameViewResolver; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [org/springframework/boot/autoconfigure/web/WebMvcAutoConfiguration$WebMvcAutoConfigurationAdapter.class]]"
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.132766,
+      "[2015-05-02 22:41:38.647] boot - 9203  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- DefaultListableBeanFactory: Overriding bean definition for bean 'infoEndpoint': replacing [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=org.springframework.boot.actuate.autoconfigure.EndpointAutoConfiguration; factoryMethodName=infoEndpoint; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [org/springframework/boot/actuate/autoconfigure/EndpointAutoConfiguration.class]] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=org.springframework.cloud.autoconfigure.RefreshAutoConfiguration$InfoEndpointRebinderConfiguration; factoryMethodName=infoEndpoint; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [org/springframework/cloud/autoconfigure/RefreshAutoConfiguration$InfoEndpointRebinderConfiguration.class]]"
+    ],
+    [
+      0.000021,
+      "\r\n"
+    ],
+    [
+      0.035006,
+      "[2015-05-02 22:41:38.682] boot - 9203  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- DefaultListableBeanFactory: Overriding bean definition for bean 'default.null.RibbonClientSpecification': replacing [Generic bean: class [org.springframework.cloud.netflix.ribbon.RibbonClientSpecification]; scope=; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null] with [Generic bean: class [org.springframework.cloud.netflix.ribbon.RibbonClientSpecification]; scope=; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null]"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.190527,
+      "[2015-05-02 22:41:38.872] boot - 9203  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- GenericScope: BeanFactory id=8cb978fc-49cc-3f58-ada0-e7ea19d75830"
+    ],
+    [
+      0.000017,
+      "\r\n"
+    ],
+    [
+      0.005612,
+      "[2015-05-02 22:41:38.878] boot - 9203  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- AutowiredAnnotationBeanPostProcessor: JSR-330 'javax.inject.Inject' annotation found and supported for autowiring"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.014551,
+      "[2015-05-02 22:41:38.893] boot - 9203  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- PostProcessorRegistrationDelegate$BeanPostProcessorChecker: Bean 'org.springframework.scheduling.annotation.SchedulingConfiguration' of type [class org.springframework.scheduling.annotation.SchedulingConfiguration$$EnhancerBySpringCGLIB$$ba63d346] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)"
+    ],
+    [
+      0.000017,
+      "\r\n"
+    ],
+    [
+      0.030576,
+      "[2015-05-02 22:41:38.923] boot - 9203  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- PostProcessorRegistrationDelegate$BeanPostProcessorChecker: Bean 'org.springframework.cloud.autoconfigure.RefreshAutoConfiguration$ConfigurationPropertiesRebinderConfiguration' of type [class org.springframework.cloud.autoconfigure.RefreshAutoConfiguration$ConfigurationPropertiesRebinderConfiguration$$EnhancerBySpringCGLIB$$3b113d41] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)"
+    ],
+    [
+      0.000026,
+      "\r\n"
+    ],
+    [
+      0.527840,
+      "[2015-05-02 22:41:39.451] boot - 9203  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- TomcatEmbeddedServletContainer: Tomcat initialized with port(s): 8088 (http)"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.299764,
+      "[2015-05-02 22:41:39.751] boot - 9203  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- StandardService: Starting service Tomcat"
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.001905,
+      "[2015-05-02 22:41:39.753] boot - 9203  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- StandardEngine: Starting Servlet Engine: Apache Tomcat/8.0.20"
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.153790,
+      "[2015-05-02 22:41:39.906] boot - 9203  INFO [localhost-startStop-1] --- [/]: Initializing Spring embedded WebApplicationContext"
+    ],
+    [
+      0.000025,
+      "\r\n[2015-05-02 22:41:39.907] boot - 9203  INFO [localhost-startStop-1] --- ContextLoader: Root WebApplicationContext: initialization completed in 2314 ms\r\n"
+    ],
+    [
+      0.576779,
+      "[2015-05-02 22:41:40.483] boot - 9203  INFO [localhost-startStop-1] --- ServletRegistrationBean: Mapping servlet: 'dispatcherServlet' to [/]\r\n"
+    ],
+    [
+      0.007596,
+      "[2015-05-02 22:41:40.491] boot - 9203  INFO [localhost-startStop-1] --- FilterRegistrationBean: Mapping filter: 'metricFilter' to: [/*]"
+    ],
+    [
+      0.000022,
+      "\r\n"
+    ],
+    [
+      0.000535,
+      "[2015-05-02 22:41:40.492] boot - 9203  INFO [localhost-startStop-1] --- FilterRegistrationBean: Mapping filter: 'characterEncodingFilter' to: [/*]"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000336,
+      "[2015-05-02 22:41:40.492] boot - 9203  INFO [localhost-startStop-1] --- FilterRegistrationBean: Mapping filter: 'webRequestLoggingFilter' to: [/*]"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000419,
+      "[2015-05-02 22:41:40.492] boot - 9203  INFO [localhost-startStop-1] --- FilterRegistrationBean: Mapping filter: 'hiddenHttpMethodFilter' to: [/*]"
+    ],
+    [
+      0.000020,
+      "\r\n[2015-05-02 22:41:40.493] boot - 9203  INFO [localhost-startStop-1] --- FilterRegistrationBean: Mapping filter: 'applicationContextIdFilter' to: [/*]\r\n"
+    ],
+    [
+      0.293029,
+      "[2015-05-02 22:41:40.785] boot - 9203  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- RequestMappingHandlerAdapter: Looking for @ControllerAdvice: org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@7b2397b5: startup date [Sat May 02 22:41:37 CEST 2015]; parent: org.springframework.context.annotation.AnnotationConfigApplicationContext@653e8f44\r\n"
+    ],
+    [
+      0.085605,
+      "[2015-05-02 22:41:40.871] boot - 9203  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- RequestMappingHandlerMapping: Mapped \"{[/error],methods=[],params=[],headers=[],consumes=[],produces=[text/html],custom=[]}\" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest)\r\n"
+    ],
+    [
+      0.000343,
+      "[2015-05-02 22:41:40.872] boot - 9203  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- RequestMappingHandlerMapping: Mapped \"{[/error],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}\" onto public org.springframework.http.ResponseEntity\u003cjava.util.Map\u003cjava.lang.String, java.lang.Object\u003e\u003e org.springframework.boot.autoconfigure.web.BasicErrorController.error(javax.servlet.http.HttpServletRequest)"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.030542,
+      "[2015-05-02 22:41:40.902] boot - 9203  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- SimpleUrlHandlerMapping: Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]"
+    ],
+    [
+      0.000349,
+      "\r\n"
+    ],
+    [
+      0.000160,
+      "[2015-05-02 22:41:40.903] boot - 9203  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- SimpleUrlHandlerMapping: Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]\r\n"
+    ],
+    [
+      0.049962,
+      "[2015-05-02 22:41:40.952] boot - 9203  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- SimpleUrlHandlerMapping: Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]\r\n"
+    ],
+    [
+      0.669877,
+      "[2015-05-02 22:41:41.622] boot - 9203  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- EndpointHandlerMapping: Mapped \"{[/health],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}\" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.HealthMvcEndpoint.invoke(java.security.Principal)"
+    ],
+    [
+      0.000023,
+      "\r\n"
+    ],
+    [
+      0.000893,
+      "[2015-05-02 22:41:41.623] boot - 9203  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- EndpointHandlerMapping: Mapped \"{[/beans],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}\" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()"
+    ],
+    [
+      0.000021,
+      "\r\n"
+    ],
+    [
+      0.000645,
+      "[2015-05-02 22:41:41.624] boot - 9203  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- EndpointHandlerMapping: Mapped \"{[/configprops],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}\" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()"
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.000702,
+      "[2015-05-02 22:41:41.625] boot - 9203  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- EndpointHandlerMapping: Mapped \"{[/info],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}\" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()"
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.000620,
+      "[2015-05-02 22:41:41.625] boot - 9203  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- EndpointHandlerMapping: Mapped \"{[/autoconfig],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}\" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()"
+    ],
+    [
+      0.000021,
+      "\r\n"
+    ],
+    [
+      0.000919,
+      "[2015-05-02 22:41:41.626] boot - 9203  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- EndpointHandlerMapping: Mapped \"{[/refresh],methods=[POST],params=[],headers=[],consumes=[],produces=[],custom=[]}\" onto public java.lang.Object org.springframework.cloud.endpoint.GenericPostableMvcEndpoint.invoke()"
+    ],
+    [
+      0.000022,
+      "\r\n"
+    ],
+    [
+      0.000714,
+      "[2015-05-02 22:41:41.627] boot - 9203  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- EndpointHandlerMapping: Mapped \"{[/archaius],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}\" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()"
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.001056,
+      "[2015-05-02 22:41:41.628] boot - 9203  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- EndpointHandlerMapping: Mapped \"{[/mappings],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}\" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()"
+    ],
+    [
+      0.000026,
+      "\r\n"
+    ],
+    [
+      0.000870,
+      "[2015-05-02 22:41:41.629] boot - 9203  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- EndpointHandlerMapping: Mapped \"{[/pause],methods=[POST],params=[],headers=[],consumes=[],produces=[],custom=[]}\" onto public java.lang.Object org.springframework.cloud.endpoint.GenericPostableMvcEndpoint.invoke()"
+    ],
+    [
+      0.000023,
+      "\r\n"
+    ],
+    [
+      0.000687,
+      "[2015-05-02 22:41:41.630] boot - 9203  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- EndpointHandlerMapping: Mapped \"{[/dump],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}\" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()"
+    ],
+    [
+      0.000022,
+      "\r\n"
+    ],
+    [
+      0.001106,
+      "[2015-05-02 22:41:41.631] boot - 9203  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- EndpointHandlerMapping: Mapped \"{[/env],methods=[POST],params=[],headers=[],consumes=[],produces=[],custom=[]}\" onto public java.lang.Object org.springframework.cloud.context.environment.EnvironmentManagerMvcEndpoint.value(java.util.Map\u003cjava.lang.String, java.lang.String\u003e)"
+    ],
+    [
+      0.000024,
+      "\r\n"
+    ],
+    [
+      0.000552,
+      "[2015-05-02 22:41:41.631] boot - 9203  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- EndpointHandlerMapping: Mapped \"{[/env/reset],methods=[POST],params=[],headers=[],consumes=[],produces=[],custom=[]}\" onto public java.util.Map\u003cjava.lang.String, java.lang.Object\u003e org.springframework.cloud.context.environment.EnvironmentManagerMvcEndpoint.reset()"
+    ],
+    [
+      0.000017,
+      "\r\n"
+    ],
+    [
+      0.000605,
+      "[2015-05-02 22:41:41.632] boot - 9203  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- EndpointHandlerMapping: Mapped \"{[/metrics/{name:.*}],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}\" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.MetricsMvcEndpoint.value(java.lang.String)"
+    ],
+    [
+      0.000017,
+      "\r\n"
+    ],
+    [
+      0.000267,
+      "[2015-05-02 22:41:41.632] boot - 9203  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- EndpointHandlerMapping: Mapped \"{[/metrics],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}\" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.001677,
+      "[2015-05-02 22:41:41.634] boot - 9203  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- EndpointHandlerMapping: Mapped \"{[/shutdown],methods=[POST],params=[],headers=[],consumes=[],produces=[],custom=[]}\" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.ShutdownMvcEndpoint.invoke()"
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.000409,
+      "[2015-05-02 22:41:41.635] boot - 9203  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- EndpointHandlerMapping: Mapped \"{[/trace],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}\" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000485,
+      "[2015-05-02 22:41:41.635] boot - 9203  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- EndpointHandlerMapping: Mapped \"{[/restart],methods=[POST],params=[],headers=[],consumes=[],produces=[],custom=[]}\" onto public java.lang.Object org.springframework.cloud.context.restart.RestartMvcEndpoint.invoke()"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.000629,
+      "[2015-05-02 22:41:41.636] boot - 9203  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- EndpointHandlerMapping: Mapped \"{[/env/{name:.*}],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}\" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EnvironmentMvcEndpoint.value(java.lang.String)"
+    ],
+    [
+      0.000017,
+      "\r\n"
+    ],
+    [
+      0.000243,
+      "[2015-05-02 22:41:41.636] boot - 9203  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- EndpointHandlerMapping: Mapped \"{[/env],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}\" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.000410,
+      "[2015-05-02 22:41:41.636] boot - 9203  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- EndpointHandlerMapping: Mapped \"{[/resume],methods=[POST],params=[],headers=[],consumes=[],produces=[],custom=[]}\" onto public java.lang.Object org.springframework.cloud.endpoint.GenericPostableMvcEndpoint.invoke()"
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.000319,
+      "[2015-05-02 22:41:41.637] boot - 9203  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- EndpointHandlerMapping: Mapped \"{[/zookeeper],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}\" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.144661,
+      "[2015-05-02 22:41:41.781] boot - 9203  WARN [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- URLConfigurationSource: No URLs will be polled as dynamic configuration sources."
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.000068,
+      "[2015-05-02 22:41:41.781] boot - 9203  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- URLConfigurationSource: To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.\r\n"
+    ],
+    [
+      0.044082,
+      "[2015-05-02 22:41:41.825] boot - 9203  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- AnnotationMBeanExporter: Registering beans for JMX exposure on startup"
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.016087,
+      "[2015-05-02 22:41:41.841] boot - 9203  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- AnnotationMBeanExporter: Bean with name 'refreshEndpoint' has been autodetected for JMX exposure"
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.001849,
+      "[2015-05-02 22:41:41.843] boot - 9203  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- AnnotationMBeanExporter: Bean with name 'restartEndpoint' has been autodetected for JMX exposure"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000897,
+      "[2015-05-02 22:41:41.844] boot - 9203  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- AnnotationMBeanExporter: Bean with name 'configurationPropertiesRebinder' has been autodetected for JMX exposure"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000874,
+      "[2015-05-02 22:41:41.845] boot - 9203  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- AnnotationMBeanExporter: Bean with name 'refreshScope' has been autodetected for JMX exposure"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000825,
+      "[2015-05-02 22:41:41.846] boot - 9203  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- AnnotationMBeanExporter: Bean with name 'environmentManager' has been autodetected for JMX exposure"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.004237,
+      "[2015-05-02 22:41:41.850] boot - 9203  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- AnnotationMBeanExporter: Located managed bean 'environmentManager': registering with JMX server as MBean [org.springframework.cloud.context.environment:name=environmentManager,type=EnvironmentManager]\r\n"
+    ],
+    [
+      0.022267,
+      "[2015-05-02 22:41:41.873] boot - 9203  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- AnnotationMBeanExporter: Located managed bean 'restartEndpoint': registering with JMX server as MBean [org.springframework.cloud.context.restart:name=restartEndpoint,type=RestartEndpoint]"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.015300,
+      "[2015-05-02 22:41:41.887] boot - 9203  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- AnnotationMBeanExporter: Located managed bean 'refreshScope': registering with JMX server as MBean [org.springframework.cloud.context.scope.refresh:name=refreshScope,type=RefreshScope]"
+    ],
+    [
+      0.000031,
+      "\r\n"
+    ],
+    [
+      0.012609,
+      "[2015-05-02 22:41:41.896] boot - 9203  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- AnnotationMBeanExporter: Located managed bean 'configurationPropertiesRebinder': registering with JMX server as MBean [org.springframework.cloud.context.properties:name=configurationPropertiesRebinder,type=ConfigurationPropertiesRebinder]\r\n"
+    ],
+    [
+      0.009712,
+      "[2015-05-02 22:41:41.910] boot - 9203  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- AnnotationMBeanExporter: Located managed bean 'refreshEndpoint': registering with JMX server as MBean [org.springframework.cloud.bootstrap.config:name=refreshEndpoint,type=RefreshEndpoint]"
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.004407,
+      "[2015-05-02 22:41:41.915] boot - 9203  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- DefaultLifecycleProcessor: Starting beans in phase 0\r\n"
+    ],
+    [
+      0.095051,
+      "Hello James"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.064017,
+      "[2015-05-02 22:41:42.074] boot - 9203  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- TomcatEmbeddedServletContainer: Tomcat started on port(s): 8088 (http)"
+    ],
+    [
+      0.000024,
+      "\r\n"
+    ],
+    [
+      0.001827,
+      "[2015-05-02 22:41:42.075] boot - 9203  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()] --- SampleSimpleApplication: Started SampleSimpleApplication in 6.588 seconds (JVM running for 10.315)"
+    ],
+    [
+      0.000025,
+      "\r\n"
+    ],
+    [
+      2.000000,
+      "Hello James"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      2.000000,
+      "Hello James"
+    ],
+    [
+      0.000017,
+      "\r\n"
+    ],
+    [
+      2.000000,
+      "^C"
+    ],
+    [
+      0.023634,
+      "[2015-05-02 22:42:04.457] boot - 9203  INFO [Thread-1] --- AnnotationConfigApplicationContext: Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@653e8f44: startup date [Sat May 02 22:41:35 CEST 2015]; root of context hierarchy"
+    ],
+    [
+      0.000034,
+      "\r\n"
+    ],
+    [
+      0.001760,
+      "[2015-05-02 22:42:04.458] boot - 9203  INFO [Thread-1] --- AnnotationConfigEmbeddedWebApplicationContext: Closing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@7b2397b5: startup date [Sat May 02 22:41:37 CEST 2015]; parent: org.springframework.context.annotation.AnnotationConfigApplicationContext@653e8f44\r\n"
+    ],
+    [
+      0.003501,
+      "[2015-05-02 22:42:04.461] boot - 9203  INFO [Thread-1] --- DefaultLifecycleProcessor: Stopping beans in phase 0"
+    ],
+    [
+      0.000226,
+      "\r\n"
+    ],
+    [
+      0.012173,
+      "[2015-05-02 22:42:04.475] boot - 9203  INFO [net.therore.kata.zookeeper.simple.SampleSimpleApplication.main()-EventThread] --- ClientCnxn: EventThread shut down\r\n"
+    ],
+    [
+      0.001156,
+      "[2015-05-02 22:42:04.476] boot - 9203  INFO [Thread-1] --- ZooKeeper: Session: 0x14d1644af5c000a closed\r\n"
+    ],
+    [
+      0.007737,
+      "[2015-05-02 22:42:04.482] boot - 9203  INFO [Thread-1] --- AnnotationMBeanExporter: Unregistering JMX-exposed beans on shutdown"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.000681,
+      "[2015-05-02 22:42:04.485] boot - 9203  INFO [Thread-1] --- AnnotationMBeanExporter: Unregistering JMX-exposed beans"
+    ],
+    [
+      0.000030,
+      "\r\n"
+    ],
+    [
+      0.001549,
+      "[2015-05-02 22:42:04.487] boot - 9203  INFO [Thread-1] --- ServoMetricCollector: Stopping Servo PollScheduler"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.040586,
+      "[2015-05-02 22:42:04.527] boot - 9203  WARN [Thread-1] --- CommonAnnotationBeanPostProcessor: Invocation of destroy method failed on bean with name 'org.springframework.cloud.zookeeper.ZookeeperAutoConfiguration': org.springframework.beans.factory.BeanCreationNotAllowedException: Error creating bean with name 'curatorFramework': Singleton bean creation not allowed while the singletons of this factory are in destruction (Do not request a bean from a BeanFactory in a destroy method implementation!)"
+    ],
+    [
+      0.000259,
+      "\r\n"
+    ],
+    [
+      0.001229,
+      "[INFO] ------------------------------------------------------------------------"
+    ],
+    [
+      0.000024,
+      "\r\n"
+    ],
+    [
+      0.000069,
+      "[INFO] BUILD SUCCESS"
+    ],
+    [
+      0.001770,
+      "\r\n[INFO] ------------------------------------------------------------------------\r\n[INFO] Total time: 31.469 s\r\n[INFO] Finished at: 2015-05-02T22:42:04+01:00\r\n"
+    ],
+    [
+      0.377793,
+      "alfredo@/tmp/kata-zookeeper$ "
+    ],
+    [
+      0.901385,
+      "exit\r\n"
+    ]
+  ]
+}
