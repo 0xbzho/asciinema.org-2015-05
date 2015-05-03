@@ -1,0 +1,506 @@
+{
+  "version": 1,
+  "width": 74,
+  "height": 21,
+  "duration": 137.749234,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.396115,
+      "\u001b]0;leucos@michel:~/dev/perso/esa/ansible\u0007"
+    ],
+    [
+      0.000365,
+      "\u001b[0;33mleucos@demo\u001b[00m\u001b[1;31m\u001b[00m:\u001b[01;34m\u001b[00m$ "
+    ],
+    [
+      0.719972,
+      "t"
+    ],
+    [
+      0.089074,
+      "i"
+    ],
+    [
+      0.196380,
+      "m"
+    ],
+    [
+      0.041962,
+      "e"
+    ],
+    [
+      0.175419,
+      " "
+    ],
+    [
+      0.233484,
+      "."
+    ],
+    [
+      0.174054,
+      "/"
+    ],
+    [
+      0.164948,
+      "d"
+    ],
+    [
+      0.100738,
+      "o"
+    ],
+    [
+      0.275116,
+      "_"
+    ],
+    [
+      0.427381,
+      "b"
+    ],
+    [
+      0.126257,
+      "o"
+    ],
+    [
+      0.117251,
+      "ot.sh "
+    ],
+    [
+      0.735733,
+      "i"
+    ],
+    [
+      0.202119,
+      "n"
+    ],
+    [
+      0.197962,
+      "v"
+    ],
+    [
+      0.079001,
+      "e"
+    ],
+    [
+      0.071169,
+      "ntories/"
+    ],
+    [
+      0.472985,
+      "d"
+    ],
+    [
+      0.052630,
+      "e"
+    ],
+    [
+      0.188748,
+      "v"
+    ],
+    [
+      0.178331,
+      "el/"
+    ],
+    [
+      1.909609,
+      "\r\n"
+    ],
+    [
+      0.259748,
+      "Creating temporary inventory in /tmp/tmp.GvVILv3PXL\r\n"
+    ],
+    [
+      0.016556,
+      "Creating blb1 of size 66 using image 9801950 in region 5 with key 785648\r\n"
+    ],
+    [
+      0.014639,
+      "Creating elastic1 of size 62 using image 9801950 in region 5 with key 785648\r\n"
+    ],
+    [
+      0.016042,
+      "Creating db1 of size 66 using image 9801950 in region 5 with key 785648\r\n"
+    ],
+    [
+      0.017739,
+      "Creating flb1 of size 66 using image 9801950 in region 5 with key 785648\r\n"
+    ],
+    [
+      0.020007,
+      "Creating redis1 of size 66 using image 9801950 in region 5 with key 785648\r\n"
+    ],
+    [
+      0.025646,
+      "Creating www1 of size 66 using image 9801950 in region 5 with key 785648\r\n"
+    ],
+    [
+      0.040366,
+      "Creating www2 of size 66 using image 9801950 in region 5 with key 785648\r\n"
+    ],
+    [
+      0.059777,
+      "Creating www3 of size 66 using image 9801950 in region 5 with key 785648\r\n"
+    ],
+    [
+      64.054608,
+      "\u001b[0;32mlocalhost | success \u003e\u003e {\r\n    \"changed\": true,\r\n    \"droplet\": {\r\n        \"backups\": [],\r\n"
+    ],
+    [
+      0.000020,
+      "        \"backups_active\": false,\r\n        \"created_at\": \"2015-05-03T08:42:40Z\",\r\n        \"event_id\": 49533867,\r\n        \"id\": 5119895,\r\n        \"image_id\": 9801950,\r\n        \"ip_address\": \"178.62.175.27\",\r\n        \"locked\": false,\r\n        \"name\": \"blb1\",\r\n        \"private_ip_address\": \"10.129.119.46\",\r\n        \"region_id\": 5,\r\n"
+    ],
+    [
+      0.000014,
+      "        \"size_id\": 66,\r\n        \"snapshots\": [],\r\n"
+    ],
+    [
+      0.000004,
+      "        \"status\": \"active\"\r\n"
+    ],
+    [
+      0.000003,
+      "    }\r\n"
+    ],
+    [
+      0.000029,
+      "}\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[0m\r\n"
+    ],
+    [
+      0.675136,
+      "\u001b[0;32mlocalhost | success \u003e\u003e {\r\n    \"changed\": true,\r\n    \"droplet\": {\r\n        \"backups\": [],\r\n        \"backups_active\": false,\r\n        \"created_at\": \"2015-05-03T08:42:40Z\",\r\n        \"event_id\": 49533872,\r\n        \"id\": 5119899,\r\n        \"image_id\": 9801950,\r\n        \"ip_address\": \"95.85.50.22\",\r\n        \"locked\": false,\r\n        \"name\": \"www3\",\r\n        \"private_ip_address\": \"10.129.120.66\",\r\n        \"region_id\": 5,\r\n        \"size_id\": 66,\r\n        \"snapshots\": [],\r\n        \"status\": \"active\"\r\n    }\r\n}\r\n\u001b[0m\r\n"
+    ],
+    [
+      20.482800,
+      "\u001b[0;32mlocalhost | success \u003e\u003e {\r\n    \"changed\": true,\r\n    \"droplet\": {\r\n        \"backups\": [],\r\n        \"backups_active\": false,\r\n        \"created_at\": \"2015-05-03T08:42:40Z\",\r\n"
+    ],
+    [
+      0.000044,
+      "        \"event_id\": 49533870,\r\n        \"id\": 5119898,\r\n        \"image_id\": 9801950,\r\n        \"ip_address\": \"178.62.168.46\",\r\n        \"locked\": false,\r\n        \"name\": \"www1\",\r\n        \"private_ip_address\": \"10.129.119.47\",\r\n        \"region_id\": 5,\r\n        \"size_id\": 66,\r\n        \"snapshots\": [],\r\n        \"status\": \"active\"\r\n    }\r\n}\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[0m\r\n"
+    ],
+    [
+      0.093886,
+      "\u001b[0;32mlocalhost | success \u003e\u003e {\r\n    \"changed\": true,\r\n    \"droplet\": {\r\n        \"backups\": [],\r\n        \"backups_active\": false,\r\n        \"created_at\": \"2015-05-03T08:42:41Z\",\r\n        \"event_id\": 49533873,\r\n        \"id\": 5119900,\r\n        \"image_id\": 9801950,\r\n"
+    ],
+    [
+      0.000013,
+      "        \"ip_address\": \"188.226.172.151\",\r\n        \"locked\": false,\r\n        \"name\": \"flb1\",\r\n        \"private_ip_address\": \"10.129.119.48\",\r\n        \"region_id\": 5,\r\n        \"size_id\": 66,\r\n        \"snapshots\": [],\r\n        \"status\": \"active\"\r\n    }\r\n}\r\n\u001b[0m\r\n"
+    ],
+    [
+      0.138936,
+      "\u001b[0;32mlocalhost | success \u003e\u003e {\r\n    \"changed\": true,\r\n    \"droplet\": {\r\n        \"backups\": [],\r\n        \"backups_active\": false,\r\n        \"created_at\": \"2015-05-03T08:42:41Z\",\r\n        \"event_id\": 49533874,\r\n"
+    ],
+    [
+      0.000020,
+      "        \"id\": 5119901,\r\n        \"image_id\": 9801950,\r\n        \"ip_address\": \"95.85.50.244\",\r\n        \"locked\": false,\r\n        \"name\": \"www2\",\r\n        \"private_ip_address\": \"10.129.120.56\",\r\n        \"region_id\": 5,\r\n        \"size_id\": 66,\r\n        \"snapshots\": [],\r\n        \"status\": \"active\"\r\n    }\r\n}\r\n\u001b[0m\r\n"
+    ],
+    [
+      0.108431,
+      "\u001b[0;32mlocalhost | success \u003e\u003e {\r\n    \"changed\": true,\r\n    \"droplet\": {\r\n        \"backups\": [],\r\n        \"backups_active\": false,\r\n        \"created_at\": \"2015-05-03T08:42:41Z\",\r\n        \"event_id\": 49533875,\r\n"
+    ],
+    [
+      0.000013,
+      "        \"id\": 5119902,\r\n        \"image_id\": 9801950,\r\n        \"ip_address\": \"178.62.130.103\",\r\n        \"locked\": false,\r\n        \"name\": \"redis1\",\r\n        \"private_ip_address\": \"10.129.119.49\",\r\n        \"region_id\": 5,\r\n        \"size_id\": 66,\r\n"
+    ],
+    [
+      0.000004,
+      "        \"snapshots\": [],\r\n"
+    ],
+    [
+      0.000003,
+      "        \"status\": \"active\"\r\n"
+    ],
+    [
+      0.000063,
+      "    }\r\n}\r\n\u001b[0m\r\n"
+    ],
+    [
+      0.070640,
+      "\u001b[0;32mlocalhost | success \u003e\u003e {\r\n    \"changed\": true,\r\n    \"droplet\": {\r\n        \"backups\": [],\r\n        \"backups_active\": false,\r\n        \"created_at\": \"2015-05-03T08:42:40Z\",\r\n        \"event_id\": 49533871,\r\n        \"id\": 5119896,\r\n        \"image_id\": 9801950,\r\n"
+    ],
+    [
+      0.000012,
+      "        \"ip_address\": \"95.85.24.122\",\r\n        \"locked\": false,\r\n        \"name\": \"db1\",\r\n        \"private_ip_address\": \"10.129.120.54\",\r\n        \"region_id\": 5,\r\n        \"size_id\": 66,\r\n        \"snapshots\": [],\r\n        \"status\": \"active\"\r\n    }\r\n}\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[0m\r\n"
+    ],
+    [
+      20.345144,
+      "\u001b[0;32mlocalhost | success \u003e\u003e {\r\n    \"changed\": true,\r\n    \"droplet\": {\r\n        \"backups\": [],\r\n        \"backups_active\": false,\r\n        \"created_at\": \"2015-05-03T08:42:40Z\",\r\n        \"event_id\": 49533869,\r\n        \"id\": 5119897,\r\n        \"image_id\": 9801950,\r\n        \"ip_address\": \"178.62.136.244\",\r\n        \"locked\": false,\r\n        \"name\": \"elastic1\",\r\n        \"private_ip_address\": \"10.129.120.57\",\r\n        \"region_id\": 5,\r\n        \"size_id\": 62,\r\n        \"snapshots\": [],\r\n        \"status\": \"active\"\r\n    }\r\n}\r\n\u001b[0m\r\n"
+    ],
+    [
+      0.017754,
+      "Checking droplet blb1\r\n"
+    ],
+    [
+      1.093467,
+      "Checking droplet elastic1\r\n"
+    ],
+    [
+      1.364654,
+      "Checking droplet db1\r\n"
+    ],
+    [
+      1.143900,
+      "Checking droplet flb1\r\n"
+    ],
+    [
+      1.341349,
+      "Checking droplet redis1\r\n"
+    ],
+    [
+      0.853513,
+      "Checking droplet www1\r\n"
+    ],
+    [
+      1.376895,
+      "Checking droplet www2\r\n"
+    ],
+    [
+      1.474776,
+      "Checking droplet www3\r\n"
+    ],
+    [
+      0.807924,
+      "All done !\r\n"
+    ],
+    [
+      0.000453,
+      "\r\nreal\t1m55.915s\r\nuser\t0m8.507s\r\nsys\t0m1.063s\r\n"
+    ],
+    [
+      0.000248,
+      "\u001b]0;leucos@michel:~/dev/perso/esa/ansible\u0007"
+    ],
+    [
+      0.000180,
+      "\u001b[0;33mleucos@demo\u001b[00m\u001b[1;31m\u001b[00m:\u001b[01;34m\u001b[00m$ "
+    ],
+    [
+      2.225827,
+      "t"
+    ],
+    [
+      0.072839,
+      "i"
+    ],
+    [
+      0.174449,
+      "m"
+    ],
+    [
+      0.047346,
+      "e"
+    ],
+    [
+      0.165417,
+      " "
+    ],
+    [
+      0.206771,
+      "."
+    ],
+    [
+      0.184109,
+      "/"
+    ],
+    [
+      0.204483,
+      "d"
+    ],
+    [
+      0.099821,
+      "o"
+    ],
+    [
+      0.160789,
+      "\u0007_"
+    ],
+    [
+      0.631741,
+      "b"
+    ],
+    [
+      0.089636,
+      "o"
+    ],
+    [
+      0.133460,
+      "ot.sh "
+    ],
+    [
+      1.031594,
+      "i"
+    ],
+    [
+      0.194796,
+      "n"
+    ],
+    [
+      0.080080,
+      "ventories/"
+    ],
+    [
+      0.383376,
+      "d"
+    ],
+    [
+      0.052843,
+      "e"
+    ],
+    [
+      0.219049,
+      "vel/"
+    ],
+    [
+      0.837085,
+      " "
+    ],
+    [
+      0.359006,
+      "d"
+    ],
+    [
+      0.042217,
+      "e"
+    ],
+    [
+      0.139969,
+      "l"
+    ],
+    [
+      0.144026,
+      "e"
+    ],
+    [
+      0.130949,
+      "t"
+    ],
+    [
+      0.084317,
+      "e"
+    ],
+    [
+      0.084324,
+      "d"
+    ],
+    [
+      0.820815,
+      "\r\n"
+    ],
+    [
+      0.282590,
+      "Creating temporary inventory in /tmp/tmp.txzRG8WgEr\r\n"
+    ],
+    [
+      0.018706,
+      "Deleting blb1\r\n"
+    ],
+    [
+      0.013635,
+      "Deleting elastic1\r\n"
+    ],
+    [
+      0.016867,
+      "Deleting db1\r\n"
+    ],
+    [
+      0.017354,
+      "Deleting flb1\r\n"
+    ],
+    [
+      0.017920,
+      "Deleting redis1\r\n"
+    ],
+    [
+      0.051877,
+      "Deleting www1\r\n"
+    ],
+    [
+      0.042914,
+      "Deleting www2\r\n"
+    ],
+    [
+      0.066582,
+      "Deleting www3\r\n"
+    ],
+    [
+      1.248703,
+      "\u001b[0;32mlocalhost | success \u003e\u003e {\r\n    \"changed\": true,\r\n    \"event_id\": 49533983\r\n}\r\n"
+    ],
+    [
+      0.000012,
+      "\u001b[0m\r\n"
+    ],
+    [
+      0.203231,
+      "\u001b[0;32mlocalhost | success \u003e\u003e {\r\n    \"changed\": true,\r\n    \"event_id\": 49533984\r\n}\r\n\u001b[0m\r\n"
+    ],
+    [
+      0.128977,
+      "\u001b[0;32mlocalhost | success \u003e\u003e {\r\n    \"changed\": true,\r\n    \"event_id\": 49533985\r\n}\r\n\u001b[0m\r\n"
+    ],
+    [
+      0.055844,
+      "\u001b[0;32mlocalhost | success \u003e\u003e {\r\n    \"changed\": true,\r\n    \"event_id\": 49533986\r\n}\r\n\u001b[0m\r\n"
+    ],
+    [
+      0.171887,
+      "\u001b[0;32mlocalhost | success \u003e\u003e {\r\n    \"changed\": true,\r\n    \"event_id\": 49533987\r\n}\r\n\u001b[0m\r\n"
+    ],
+    [
+      0.151475,
+      "\u001b[0;32mlocalhost | success \u003e\u003e {\r\n    \"changed\": true,\r\n    \"event_id\": 49533988\r\n}\r\n\u001b[0m\r\n"
+    ],
+    [
+      0.147323,
+      "\u001b[0;32mlocalhost | success \u003e\u003e {\r\n    \"changed\": true,\r\n    \"event_id\": 49533990\r\n}\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[0m\r\n"
+    ],
+    [
+      0.282944,
+      "\u001b[0;32mlocalhost | success \u003e\u003e {\r\n    \"changed\": true,\r\n    \"event_id\": 49533991\r\n}\r\n\u001b[0m\r\n"
+    ],
+    [
+      0.027468,
+      "All done !\r\n"
+    ],
+    [
+      0.000696,
+      "\r\nreal\t0m2.948s\r\nuser\t0m4.450s\r\n"
+    ],
+    [
+      0.000010,
+      "sys\t0m0.583s\r\n"
+    ],
+    [
+      0.000460,
+      "\u001b]0;leucos@michel:~/dev/perso/esa/ansible\u0007"
+    ],
+    [
+      0.000217,
+      "\u001b[0;33mleucos@demo\u001b[00m\u001b[1;31m\u001b[00m:\u001b[01;34m\u001b[00m$ "
+    ],
+    [
+      2.548844,
+      "exit\r\n"
+    ]
+  ]
+}
