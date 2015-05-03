@@ -1,0 +1,6450 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 24,
+  "duration": 758.393796,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.032980,
+      "\u001b]0;gabriel@spaceCore:~\u0007"
+    ],
+    [
+      0.000714,
+      "[gabriel@spaceCore ~]$ "
+    ],
+    [
+      0.672321,
+      "exit"
+    ],
+    [
+      0.346226,
+      "\u0008\u0008\u0008\u0008yaourt -"
+    ],
+    [
+      0.741743,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[4Pexit"
+    ],
+    [
+      0.171263,
+      "\u0008\u0008\u0008\u0008\u001b[K"
+    ],
+    [
+      0.167999,
+      "\u0007"
+    ],
+    [
+      0.413493,
+      "s"
+    ],
+    [
+      0.159271,
+      "s"
+    ],
+    [
+      0.307594,
+      "h"
+    ],
+    [
+      0.080208,
+      " "
+    ],
+    [
+      0.140093,
+      "j"
+    ],
+    [
+      0.069820,
+      "a"
+    ],
+    [
+      0.130442,
+      "r"
+    ],
+    [
+      0.169282,
+      "v"
+    ],
+    [
+      0.119349,
+      "i"
+    ],
+    [
+      0.100218,
+      "s"
+    ],
+    [
+      0.103899,
+      "."
+    ],
+    [
+      0.115750,
+      "t"
+    ],
+    [
+      0.149478,
+      "i"
+    ],
+    [
+      0.179093,
+      "t"
+    ],
+    [
+      0.090292,
+      "a"
+    ],
+    [
+      0.103648,
+      "n"
+    ],
+    [
+      0.096021,
+      "i"
+    ],
+    [
+      0.170801,
+      "u"
+    ],
+    [
+      0.179149,
+      "m"
+    ],
+    [
+      0.148274,
+      "s"
+    ],
+    [
+      0.139608,
+      "y"
+    ],
+    [
+      0.080351,
+      "s"
+    ],
+    [
+      0.149178,
+      "t"
+    ],
+    [
+      0.090314,
+      "e"
+    ],
+    [
+      0.060284,
+      "m"
+    ],
+    [
+      0.149191,
+      "."
+    ],
+    [
+      0.069450,
+      "e"
+    ],
+    [
+      0.080169,
+      "s"
+    ],
+    [
+      0.112896,
+      "\r\n"
+    ],
+    [
+      5.178409,
+      "\r\nThe programs included with the Debian GNU/Linux system are free software;"
+    ],
+    [
+      0.000790,
+      "\r\nthe exact distribution terms for each program are described in the\r\nindividual files in /usr/share/doc/*/copyright.\r\n\r\nDebian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent\r\npermitted by applicable law.\r\nLast login: Sun May  3 16:51:52 2015 from 46.234.157.177\r\r\n"
+    ],
+    [
+      0.081544,
+      "\u001b]0;gabriel@JARVIS: ~\u0007gabriel@JARVIS:~$ "
+    ],
+    [
+      0.422179,
+      "exit"
+    ],
+    [
+      0.415532,
+      "\u0008\u0008\u0008\u0008asciinema rec"
+    ],
+    [
+      0.830645,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008ssh galera@192.168.1.16"
+    ],
+    [
+      1.412400,
+      "\r\n"
+    ],
+    [
+      0.075585,
+      "galera@192.168.1.16's password: "
+    ],
+    [
+      6.098344,
+      "\r\n"
+    ],
+    [
+      0.019158,
+      "Linux debianGalera 3.2.0-4-amd64 #1 SMP Debian 3.2.68-1+deb7u1 x86_64\r\n\r\nThe programs included with the Debian GNU/Linux system are free software;\r\nthe exact distribution terms for each program are described in the\r\nindividual files in /usr/share/doc/*/copyright.\r\n\r\nDebian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent\r\npermitted by applicable law.\r\nLast login: Sun May  3 16:54:49 2015 from jarvis.titaniumsystem.es\r\r\n"
+    ],
+    [
+      0.115960,
+      "\u001b]0;galera@debianGalera: ~\u0007galera@debianGalera:~$ "
+    ],
+    [
+      1.503819,
+      "s"
+    ],
+    [
+      0.128540,
+      "u"
+    ],
+    [
+      0.237123,
+      "\r\n"
+    ],
+    [
+      0.004858,
+      "Contraseña: "
+    ],
+    [
+      2.004142,
+      "\r\n"
+    ],
+    [
+      0.017020,
+      "root@debianGalera:/home/galera# "
+    ],
+    [
+      1.875012,
+      "n"
+    ],
+    [
+      0.072223,
+      "a"
+    ],
+    [
+      0.113673,
+      "n"
+    ],
+    [
+      0.055811,
+      "o"
+    ],
+    [
+      0.100849,
+      " "
+    ],
+    [
+      0.326737,
+      "/"
+    ],
+    [
+      0.157420,
+      "e"
+    ],
+    [
+      0.119427,
+      "t"
+    ],
+    [
+      0.347476,
+      "c/"
+    ],
+    [
+      0.972358,
+      "a"
+    ],
+    [
+      0.089931,
+      "p"
+    ],
+    [
+      0.129544,
+      "t"
+    ],
+    [
+      0.120397,
+      "/"
+    ],
+    [
+      0.347319,
+      "s"
+    ],
+    [
+      0.093979,
+      "o"
+    ],
+    [
+      0.105705,
+      "u"
+    ],
+    [
+      0.080165,
+      "\u0007rces.list"
+    ],
+    [
+      0.742712,
+      "."
+    ],
+    [
+      0.227571,
+      "d"
+    ],
+    [
+      0.159597,
+      "/"
+    ],
+    [
+      0.366334,
+      "g"
+    ],
+    [
+      0.080343,
+      "a"
+    ],
+    [
+      0.083849,
+      "l"
+    ],
+    [
+      0.105990,
+      "e"
+    ],
+    [
+      0.076036,
+      "r"
+    ],
+    [
+      0.086051,
+      "a"
+    ],
+    [
+      0.070162,
+      "."
+    ],
+    [
+      0.267698,
+      "l"
+    ],
+    [
+      0.138637,
+      "i"
+    ],
+    [
+      0.080105,
+      "s"
+    ],
+    [
+      0.099798,
+      "t"
+    ],
+    [
+      0.119479,
+      "\r\n"
+    ],
+    [
+      0.027129,
+      "\u001b[?1049h\u001b[1;24r\u001b(B\u001b[m\u001b[4l\u001b[?7h\u001b[?12l\u001b[?25h\u001b[?1h\u001b="
+    ],
+    [
+      0.000323,
+      "\u001b[?1h\u001b=\u001b[?1h\u001b="
+    ],
+    [
+      0.000766,
+      "\u001b[39;49m\u001b[39;49m\u001b(B\u001b[m\u001b[H\u001b[2J\u001b(B\u001b[0;7m  GNU nano 2.2.6    Fichero: /etc/apt/sources.list.d/galera.list                \u001b[22;32H[ Nuevo Fichero ]\r\u001b[23d^G\u001b(B\u001b[m Ver ayuda \u001b(B\u001b[0;7m^O\u001b(B\u001b[m Guardar   \u001b(B\u001b[0;7m^R\u001b(B\u001b[m Leer Fich \u001b(B\u001b[0;7m^Y\u001b(B\u001b[m Pág Ant   \u001b(B\u001b[0;7m^K\u001b(B\u001b[m CortarTxt \u001b(B\u001b[0;7m^C\u001b(B\u001b[m Pos actual\r\u001b[24d\u001b(B\u001b[0;7m^X\u001b(B\u001b[m Salir     \u001b(B\u001b[0;7m^J\u001b(B\u001b[m Justificar\u001b(B\u001b[0;7m^W\u001b(B\u001b[m Buscar    \u001b(B\u001b[0;7m^V\u001b(B\u001b[m Pág Sig   \u001b(B\u001b[0;7m^U\u001b(B\u001b[m PegarTxt  \u001b(B\u001b[0;7m^T\u001b(B\u001b[m Ortografía\r\u001b[3d"
+    ],
+    [
+      19.563571,
+      "\u001b[1;69H\u001b(B\u001b[0;7mModificado\r\u001b[3d\u001b(B\u001b[m# Codership Repository (Galera Cluster for MySQL)\r\u001b[4ddeb http://releases.galeracluster.com/DIST RELEASE main\r\u001b[22d\u001b[K\u001b[4;56H"
+    ],
+    [
+      0.717382,
+      "\u0008"
+    ],
+    [
+      0.128542,
+      "\u0008"
+    ],
+    [
+      0.118463,
+      "\u0008"
+    ],
+    [
+      0.119055,
+      "\u0008"
+    ],
+    [
+      0.108401,
+      "\u0008"
+    ],
+    [
+      0.345265,
+      "\u0008 main\u001b[K\u001b[50G"
+    ],
+    [
+      0.137284,
+      "\u0008 main\u001b[K\u001b[49G"
+    ],
+    [
+      0.118759,
+      "\u0008 main\u001b[K\u001b[48G"
+    ],
+    [
+      0.138271,
+      "\u0008 main\u001b[K\u001b[47G"
+    ],
+    [
+      0.138236,
+      "\u0008 main\u001b[K\u001b[46G"
+    ],
+    [
+      0.178175,
+      "\u0008 main\u001b[K\u001b[45G"
+    ],
+    [
+      0.158303,
+      "\u0008 main\u001b[K\u001b[44G"
+    ],
+    [
+      0.138515,
+      "\u0008 main\u001b[K\u001b[43G"
+    ],
+    [
+      0.148255,
+      "\u0008 main\u001b[K\u001b[42G"
+    ],
+    [
+      0.149034,
+      "\u0008 main\u001b[K\u001b[41G"
+    ],
+    [
+      0.158181,
+      "\u0008 main\u001b[K\u001b[40G"
+    ],
+    [
+      0.268034,
+      "\u0008 main\u001b[K\u001b[39G"
+    ],
+    [
+      0.227695,
+      "d main\u001b[40G"
+    ],
+    [
+      0.208653,
+      "e main\u001b[41G"
+    ],
+    [
+      0.170511,
+      "b main\u001b[42G"
+    ],
+    [
+      0.109267,
+      "i main\u001b[43G"
+    ],
+    [
+      0.080433,
+      "a main\u001b[44G"
+    ],
+    [
+      0.103986,
+      "n main\u001b[45G"
+    ],
+    [
+      0.095418,
+      "  main\u001b[46G"
+    ],
+    [
+      0.118721,
+      "w main\u001b[47G"
+    ],
+    [
+      0.094602,
+      "h main\u001b[48G"
+    ],
+    [
+      0.075653,
+      "e main\u001b[49G"
+    ],
+    [
+      0.109930,
+      "\u0008ee main\u001b[50G"
+    ],
+    [
+      0.198688,
+      "z main\u001b[51G"
+    ],
+    [
+      0.130374,
+      "y main\u001b[52G"
+    ],
+    [
+      0.645549,
+      "\r\u001b[22d\u001b(B\u001b[0;7mNombre del fichero a escribir: /etc/apt/sources.list.d/galera.list              \u001b[23;14H\u001b(B\u001b[m       \u001b(B\u001b[0;7mM-D\u001b(B\u001b[m Formato DOS     \u001b(B\u001b[0;7mM-A\u001b(B\u001b[m Añadir          \u001b(B\u001b[0;7mM-B\u001b(B\u001b[m Respaldar fich\u001b[24;2H\u001b(B\u001b[0;7mC\u001b(B\u001b[m Cancelar         \u001b(B\u001b[0;7mM-M\u001b(B\u001b[m Formato Mac     \u001b(B\u001b[0;7mM-P\u001b(B\u001b[m Anteponer\u001b[K\u001b[22;67H"
+    ],
+    [
+      0.298997,
+      "\u001b[1;69H\u001b[39;49m\u001b(B\u001b[0;7m          \u001b[22;29H\u001b(B\u001b[m\u001b[1K \u001b(B\u001b[0;7m[ 2 líneas escritas ]\u001b(B\u001b[m\u001b[K\u001b[23;14H\u001b(B\u001b[0;7m^O\u001b(B\u001b[m Guardar   \u001b(B\u001b[0;7m^R\u001b(B\u001b[m Leer Fich \u001b(B\u001b[0;7m^Y\u001b(B\u001b[m Pág Ant   \u001b(B\u001b[0;7m^K\u001b(B\u001b[m CortarTxt \u001b(B\u001b[0;7m^C\u001b(B\u001b[m Pos actual\u001b[24;2H\u001b(B\u001b[0;7mX\u001b(B\u001b[m Salir     \u001b(B\u001b[0;7m^J\u001b(B\u001b[m Justificar\u001b(B\u001b[0;7m^W\u001b(B\u001b[m Buscar    \u001b(B\u001b[0;7m^V\u001b(B\u001b[m Pág Sig   \u001b(B\u001b[0;7m^U\u001b(B\u001b[m PegarTxt  \u001b(B\u001b[0;7m^T\u001b(B\u001b[m Ortografía\u001b[4;52H"
+    ],
+    [
+      0.773207,
+      "\r\u001b[23d\u001b[J\u001b[24;80H\u001b[24;1H\u001b[?1049l\r\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000258,
+      "root@debianGalera:/home/galera# "
+    ],
+    [
+      4.848340,
+      "apt-key adv --keyserver keyserver.ubuntu.com"
+    ],
+    [
+      0.214456,
+      " "
+    ],
+    [
+      4.807629,
+      " "
+    ],
+    [
+      0.000368,
+      " - \r-recv BC19DDBA"
+    ],
+    [
+      0.701923,
+      "\r\n"
+    ],
+    [
+      0.027473,
+      "Executing: gpg --ignore-time-conflict --no-options --no-default-keyring --secret-keyring /tmp/tmp.69r2WE2hU1 --trustdb-name /etc/apt//trustdb.gpg --keyring /etc/apt/trusted.gpg --primary-keyring /etc/apt/trusted.gpg --keyring /etc/apt/trusted.gpg.d//debian-archive-jessie-automatic.gpg --keyring /etc/apt/trusted.gpg.d//debian-archive-jessie-security-automatic.gpg --keyring /etc/apt/trusted.gpg.d//debian-archive-jessie-stable.gpg --keyring /etc/apt/trusted.gpg.d//debian-archive-squeeze-automatic.gpg --keyring /etc/apt/trusted.gpg.d//debian-archive-squeeze-stable.gpg --keyring /etc/apt/trusted.gpg.d//debian-archive-wheezy-automatic.gpg --keyring /etc/apt/trusted.gpg.d//debian-archive-wheezy-stable.gpg --keyserver keyserver.ubuntu.com --recv BC19DDBA\r\n"
+    ],
+    [
+      0.008864,
+      "gpg: solicitando clave BC19DDBA de hkp servidor keyserver.ubuntu.com\r\n"
+    ],
+    [
+      0.212351,
+      "gpg: clave BC19DDBA: clave pública \"Codership Oy \u003cinfo@galeracluster.com\u003e\" importada"
+    ],
+    [
+      0.000954,
+      "\r\ngpg: Cantidad total procesada: 1\r\n"
+    ],
+    [
+      0.000914,
+      "gpg:               importadas: 1"
+    ],
+    [
+      0.000415,
+      "  (RSA: 1)\r\n"
+    ],
+    [
+      0.003921,
+      "root@debianGalera:/home/galera# "
+    ],
+    [
+      1.299387,
+      "a"
+    ],
+    [
+      0.093963,
+      "p"
+    ],
+    [
+      0.194992,
+      "t"
+    ],
+    [
+      0.063948,
+      "-"
+    ],
+    [
+      0.254593,
+      "e"
+    ],
+    [
+      0.308434,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.048642,
+      "g"
+    ],
+    [
+      0.129233,
+      "e"
+    ],
+    [
+      0.099808,
+      "t"
+    ],
+    [
+      0.102940,
+      " "
+    ],
+    [
+      0.095992,
+      "u"
+    ],
+    [
+      0.076369,
+      "p"
+    ],
+    [
+      0.083896,
+      "d"
+    ],
+    [
+      0.100533,
+      "a"
+    ],
+    [
+      0.120413,
+      "t"
+    ],
+    [
+      0.079712,
+      "e"
+    ],
+    [
+      0.170363,
+      "\r\n"
+    ],
+    [
+      0.020220,
+      "\r\r0% [Trabajando]"
+    ],
+    [
+      0.196547,
+      "\r               \rDes:1 http://ftp.es.debian.org wheezy Release.gpg [2.390 B]\r\n\r               \r0% [1 Release.gpg 0 B/2.390 B 0%] [Esperando las cabeceras] [Conectando a relea"
+    ],
+    [
+      0.000411,
+      "\r100% [Esperando las cabeceras] [Conectando a releases.galeracluster.com (62.109"
+    ],
+    [
+      0.071711,
+      "\r                                                                               \rDes:2 http://ftp.es.debian.org wheezy-updates Release.gpg [1.571 B]\r\n\r60% [2 Release.gpg 0 B/1.571 B 0%] [Esperando las cabeceras] [Esperando las cab"
+    ],
+    [
+      0.000292,
+      "\r                                                                               \r100% [Esperando las cabeceras] [Esperando las cabeceras]"
+    ],
+    [
+      0.015053,
+      "\r                                                        \rDes:3 http://releases.galeracluster.com wheezy Release.gpg [473 B]\r\n\r                                                        \r89% [Esperando las cabeceras] [Esperando las cabeceras] [3 Release.gpg 0 B/473 "
+    ],
+    [
+      0.000253,
+      "\r                                                                               \r100% [Esperando las cabeceras] [Esperando las cabeceras]"
+    ],
+    [
+      0.057581,
+      "\r                                                        \rDes:4 http://ftp.es.debian.org wheezy Release [168 kB]\r\n\r                                                        \r3% [4 Release 0 B/168 kB 0%] [Esperando las cabeceras] [Conectando a releases.g"
+    ],
+    [
+      0.091775,
+      "\r                                                                               \rDes:5 http://releases.galeracluster.com wheezy Release [1.638 B]\r\n"
+    ],
+    [
+      0.006776,
+      "\r                                                                               \r22% [4 Release 32,0 kB/168 kB 19%] [Esperando las cabeceras]"
+    ],
+    [
+      0.000159,
+      "\r                                                            \r22% [5 Release gpgv 1.638 B] [4 Release 32,0 kB/168 kB 19%] [Esperando las cabe"
+    ],
+    [
+      0.002593,
+      "\r                                                                               \r22% [4 Release 32,0 kB/168 kB 19%] [Esperando las cabeceras]"
+    ],
+    [
+      0.147868,
+      "\r                                                            \rDes:6 http://releases.galeracluster.com wheezy/main amd64 Packages [4.565 B]\r\n"
+    ],
+    [
+      0.007409,
+      "\r47% [4 Release 72,6 kB/168 kB 43%] [Esperando las cabeceras]"
+    ],
+    [
+      0.000898,
+      "\r                                                            \r47% [6 Packages gzip 0 B] [4 Release 72,6 kB/168 kB 43%] [Esperando las cabecer"
+    ],
+    [
+      0.001874,
+      "\r47% [4 Release 72,6 kB/168 kB 43%] [Esperando las cabeceras] [Conectando a rele"
+    ],
+    [
+      0.106766,
+      "\r                                                                               \rObj http://security.debian.org wheezy/updates Release.gpg\r\n\r                                                                               \r72% [4 Release 117 kB/168 kB 70%] [Esperando las cabeceras]"
+    ],
+    [
+      0.124434,
+      "\r                                                           \r100% [Esperando las cabeceras] [Esperando las cabeceras]\r                                                        \r100% [4 Release gpgv 168 kB] [Esperando las cabeceras] [Esperando las cabeceras"
+    ],
+    [
+      0.006660,
+      "\r                                                                               \rObj http://security.debian.org wheezy/updates Release\r\n\r100% [4 Release gpgv 168 kB] [Esperando las cabeceras] [Esperando las cabeceras"
+    ],
+    [
+      0.008115,
+      "\r                                                                               \r100% [Esperando las cabeceras] [Esperando las cabeceras]\r                                                        \r100% [Release gpgv 102 kB] [Esperando las cabeceras] [Esperando las cabeceras]"
+    ],
+    [
+      0.012646,
+      "\r                                                                              \r100% [Esperando las cabeceras] [Esperando las cabeceras]"
+    ],
+    [
+      0.043676,
+      "\r                                                        \rDes:7 http://ftp.es.debian.org wheezy-updates Release [124 kB]\r\n\r                                                        \r69% [7 Release 30,6 kB/124 kB 25%] [Esperando las cabeceras] [Conectando a rele"
+    ],
+    [
+      0.095683,
+      "\r                                                                               \rObj http://security.debian.org wheezy/updates/main Sources\r\n\r                                                                               \r80% [7 Release 64,2 kB/124 kB 52%] [Esperando las cabeceras]"
+    ],
+    [
+      0.001093,
+      "\r                                                            \r80% [Sources 1.032 kB] [7 Release 64,2 kB/124 kB 52%] [Esperando las cabeceras]"
+    ],
+    [
+      0.018739,
+      "\r96% [7 Release 64,2 kB/124 kB 52%] [Esperando las cabeceras] [Esperando las cab"
+    ],
+    [
+      0.092345,
+      "\r100% [Esperando las cabeceras] [Conectando a releases.galeracluster.com (62.109"
+    ],
+    [
+      0.000278,
+      "\r100% [7 Release gpgv 124 kB] [Esperando las cabeceras] [Esperando las cabeceras"
+    ],
+    [
+      0.013265,
+      "\r100% [Esperando las cabeceras] [Esperando las cabeceras] [Esperando las cabecer"
+    ],
+    [
+      0.006186,
+      "\r                                                                               \rObj http://security.debian.org wheezy/updates/main amd64 Packages"
+    ],
+    [
+      0.000296,
+      "\r\n\r100% [Esperando las cabeceras] [Esperando las cabeceras] [Esperando las cabecer"
+    ],
+    [
+      0.000699,
+      "\r100% [Packages 1.610 kB] [Esperando las cabeceras] [Esperando las cabeceras] [E"
+    ],
+    [
+      0.033865,
+      "\r100% [Esperando las cabeceras] [Esperando las cabeceras] [Esperando las cabecer"
+    ],
+    [
+      0.018399,
+      "\r                                                                               \rDes:8 http://ftp.es.debian.org wheezy/main Sources [5.971 kB]\r\n\r33% [8 Sources 40,4 kB/5.971 kB 1%] [Esperando las cabeceras] [Esperando las ca"
+    ],
+    [
+      0.077203,
+      "\r                                                                               \rObj http://security.debian.org wheezy/updates/main Translation-en\r\n\r                                                                               \r34% [8 Sources 82,4 kB/5.971 kB 1%] [Esperando las cabeceras]"
+    ],
+    [
+      0.000086,
+      "\r                                                             \r34% [Translation-en 1.094 kB] [8 Sources 82,4 kB/5.971 kB 1%] [Esperando las ca"
+    ],
+    [
+      0.025767,
+      "\r                                                                               \r41% [8 Sources 82,4 kB/5.971 kB 1%] [Esperando las cabeceras]"
+    ],
+    [
+      0.500702,
+      "\r                                                             \r46% [8 Sources 523 kB/5.971 kB 9%] [Conectando a releases.galeracluster.com (62"
+    ],
+    [
+      0.500423,
+      "\r                                                                               \r60% [8 Sources 1.934 kB/5.971 kB 32%] [Esperando las cabeceras]"
+    ],
+    [
+      0.222043,
+      "\r                                                               \rIgn http://releases.galeracluster.com wheezy/main Translation-es_ES\r\n\r                                                               \r68% [8 Sources 2.760 kB/5.971 kB 46%] [Conectando a releases.galeracluster.com "
+    ],
+    [
+      0.145359,
+      "\r                                                                               \rIgn http://releases.galeracluster.com wheezy/main Translation-es\r\n\r75% [8 Sources 3.432 kB/5.971 kB 57%] [Conectando a releases.galeracluster.com "
+    ],
+    [
+      0.146312,
+      "\r                                                                               \rIgn http://releases.galeracluster.com wheezy/main Translation-en\r\n\r                                                                               \r82% [8 Sources 4.151 kB/5.971 kB 70%]"
+    ],
+    [
+      0.349058,
+      "\r                                     \r100% [Trabajando]\r                 \r100% [8 Sources bzip2 0 B] [Esperando las cabeceras]"
+    ],
+    [
+      0.061804,
+      "\r                                                    \rDes:9 http://ftp.es.debian.org wheezy/main amd64 Packages [5.841 kB]\r\n\r                                                    \r63% [8 Sources bzip2 0 B] [9 Packages 23,4 kB/5.841 kB 0%]"
+    ],
+    [
+      0.500425,
+      "\r                                                          \r81% [8 Sources bzip2 0 B] [9 Packages 2.841 kB/5.841 kB 49%]"
+    ],
+    [
+      0.434852,
+      "\r                                                            \r100% [8 Sources bzip2 0 B]"
+    ],
+    [
+      0.235659,
+      "\r                          \rDes:10 http://ftp.es.debian.org wheezy/main Translation-es [349 kB]\r\n\r                          \r98% [8 Sources bzip2 0 B] [10 Translation-es 0 B/349 kB 0%]"
+    ],
+    [
+      0.089985,
+      "\r                                                           \r100% [10 Translation-es 341 kB/349 kB 98%]"
+    ],
+    [
+      0.002580,
+      "\r                                          \r100% [9 Packages bzip2 0 B] [10 Translation-es 341 kB/349 kB 98%]"
+    ],
+    [
+      0.456250,
+      "\r                                                                 \r100% [9 Packages bzip2 0 B] [Esperando las cabeceras]"
+    ],
+    [
+      0.073524,
+      "\r                                                     \rDes:11 http://ftp.es.debian.org wheezy/main Translation-en [3.848 kB]\r\n\r                                                     \r81% [9 Packages bzip2 0 B] [11 Translation-en 8.232 B/3.848 kB 0%]"
+    ],
+    [
+      0.500897,
+      "\r81% [9 Packages bzip2 0 B] [11 Translation-en 54,4 kB/3.848 kB 1%]"
+    ],
+    [
+      0.340824,
+      "\r                                                                  \r82% [11 Translation-en 162 kB/3.848 kB 4%]\r                                          \r82% [10 Translation-es bzip2 0 B] [11 Translation-en 162 kB/3.848 kB 4%]"
+    ],
+    [
+      0.089733,
+      "\r                                                                        \r82% [11 Translation-en 190 kB/3.848 kB 5%]"
+    ],
+    [
+      0.500756,
+      "\r                                          \r83% [11 Translation-en 437 kB/3.848 kB 11%]                    2.584 kB/s 1seg."
+    ],
+    [
+      0.500773,
+      "\r85% [11 Translation-en 871 kB/3.848 kB 23%]                    2.584 kB/s 1seg."
+    ],
+    [
+      0.500766,
+      "\r88% [11 Translation-en 1.366 kB/3.848 kB 36%]                  2.584 kB/s 0seg."
+    ],
+    [
+      0.500587,
+      "\r91% [11 Translation-en 1.991 kB/3.848 kB 52%]                  2.584 kB/s 0seg."
+    ],
+    [
+      0.500486,
+      "\r94% [11 Translation-en 2.738 kB/3.848 kB 71%]                  2.584 kB/s 0seg."
+    ],
+    [
+      0.500599,
+      "\r98% [11 Translation-en 3.374 kB/3.848 kB 88%]                  2.584 kB/s 0seg."
+    ],
+    [
+      0.439603,
+      "\r100% [Trabajando]                                              2.584 kB/s 0seg."
+    ],
+    [
+      0.000085,
+      "\r100% [11 Translation-en bzip2 0 B] [Esperando las cabeceras]   2.584 kB/s 0seg."
+    ],
+    [
+      0.077960,
+      "\r                                                                               \rDes:12 http://ftp.es.debian.org wheezy-updates/main Sources [3.296 B]\r\n\r100% [11 Translation-en bzip2 0 B] [Esperando las cabeceras]   2.584 kB/s 0seg."
+    ],
+    [
+      0.071248,
+      "\r                                                                               \rDes:13 http://ftp.es.debian.org wheezy-updates/main amd64 Packages/DiffIndex [2.851 B]\r\n\r100% [11 Translation-en bzip2 0 B] [Esperando las cabeceras]   2.584 kB/s 0seg."
+    ],
+    [
+      0.069532,
+      "\r                                                                               \rDes:14 http://ftp.es.debian.org wheezy-updates/main Translation-en/DiffIndex [1.885 B]\r\n\r100% [11 Translation-en bzip2 0 B]                             2.584 kB/s 0seg."
+    ],
+    [
+      0.500490,
+      "\r100% [11 Translation-en bzip2 0 B]                             2.584 kB/s 0seg."
+    ],
+    [
+      0.240486,
+      "\r100% [Trabajando]                                              2.584 kB/s 0seg."
+    ],
+    [
+      0.001397,
+      "\r100% [Trabajando]                                              2.584 kB/s 0seg.\r                                                                               \rDescargados 16,3 MB en 10seg. (1.578 kB/s)\r\n"
+    ],
+    [
+      0.022362,
+      "\rLeyendo lista de paquetes... 0%\r"
+    ],
+    [
+      0.208594,
+      "\rLeyendo lista de paquetes... 0%\r"
+    ],
+    [
+      0.013586,
+      "\rLeyendo lista de paquetes... 1%\r"
+    ],
+    [
+      0.584256,
+      "\rLeyendo lista de paquetes... 55%\r\rLeyendo lista de paquetes... 55%\r"
+    ],
+    [
+      0.117276,
+      "\rLeyendo lista de paquetes... 81%\r"
+    ],
+    [
+      0.044651,
+      "\rLeyendo lista de paquetes... 91%\r\rLeyendo lista de paquetes... 91%\r"
+    ],
+    [
+      0.011724,
+      "\rLeyendo lista de paquetes... 94%\r\rLeyendo lista de paquetes... 94%\r"
+    ],
+    [
+      0.030204,
+      "\rLeyendo lista de paquetes... 97%\r\rLeyendo lista de paquetes... 97%\r"
+    ],
+    [
+      0.008835,
+      "\rLeyendo lista de paquetes... 99%\r\rLeyendo lista de paquetes... 99%\r"
+    ],
+    [
+      0.000729,
+      "\rLeyendo lista de paquetes... 99%\r"
+    ],
+    [
+      0.000281,
+      "\rLeyendo lista de paquetes... 99%\r\rLeyendo lista de paquetes... 99%\r\rLeyendo lista de paquetes... 99%\r"
+    ],
+    [
+      0.353745,
+      "\rLeyendo lista de paquetes... 99%\r\rLeyendo lista de paquetes... 99%\r"
+    ],
+    [
+      0.285119,
+      "\rLeyendo lista de paquetes... Hecho\r\r\n"
+    ],
+    [
+      0.004724,
+      "root@debianGalera:/home/galera# "
+    ],
+    [
+      12.767462,
+      "apt-get install galera-3 "
+    ],
+    [
+      0.235565,
+      " "
+    ],
+    [
+      4.494831,
+      "  galera-arbitrator-3  \r"
+    ],
+    [
+      4.216642,
+      " mysql-wsrep-5.6"
+    ],
+    [
+      1.271457,
+      "\r\n"
+    ],
+    [
+      0.009153,
+      "\rLeyendo lista de paquetes... 0%\r"
+    ],
+    [
+      0.004406,
+      "\rLeyendo lista de paquetes... 100%\r\rLeyendo lista de paquetes... Hecho\r\r\n"
+    ],
+    [
+      0.005758,
+      "\rCreando árbol de dependencias... 0%\r\rCreando árbol de dependencias... 0%\r"
+    ],
+    [
+      0.023689,
+      "\rCreando árbol de dependencias... 50%\r\rCreando árbol de dependencias... 50%\r"
+    ],
+    [
+      0.073782,
+      "\rCreando árbol de dependencias       \r\r\n\rLeyendo la información de estado... 0%\r\rLeyendo la información de estado... 1%\r"
+    ],
+    [
+      0.000237,
+      "\rLeyendo la información de estado... Hecho\r\r\n"
+    ],
+    [
+      0.071457,
+      "Se instalarán los siguientes paquetes extras:\r\n  libaio1 libdbd-mysql-perl libdbi-perl libhtml-template-perl libmysqlclient18\r\n  libterm-readkey-perl mysql-common mysql-wsrep-client-5.6 mysql-wsrep-common\r\n  mysql-wsrep-common-5.6 mysql-wsrep-libmysqlclient18 mysql-wsrep-server-5.6\r\n  netcat-openbsd rsync socat\r\n"
+    ],
+    [
+      0.000872,
+      "Paquetes sugeridos:\r\n  libipc-sharedcache-perl tinyca\r\n"
+    ],
+    [
+      0.000326,
+      "Se instalarán los siguientes paquetes NUEVOS:\r\n  galera-3 galera-arbitrator-3 libaio1 libdbd-mysql-perl libdbi-perl\r\n  libhtml-template-perl libmysqlclient18 libterm-readkey-perl mysql-common\r\n  mysql-wsrep-5.6 mysql-wsrep-client-5.6 mysql-wsrep-common\r\n  mysql-wsrep-common-5.6 mysql-wsrep-libmysqlclient18 mysql-wsrep-server-5.6\r\n  netcat-openbsd rsync socat\r\n"
+    ],
+    [
+      0.004219,
+      "0 actualizados, 18 se instalarán, 0 para eliminar y 0 no actualizados.\r\n"
+    ],
+    [
+      0.009458,
+      "Necesito descargar 116 MB de archivos.\r\nSe utilizarán 368 MB de espacio de disco adicional después de esta operación.\r\n¿Desea continuar [S/n]? "
+    ],
+    [
+      1.895443,
+      "^C"
+    ],
+    [
+      0.003898,
+      "\r\nroot@debianGalera:/home/galera# "
+    ],
+    [
+      0.433321,
+      "apt-get install galera-3    galera-arbitrator-3  \r mysql-wsrep-5.6"
+    ],
+    [
+      0.607448,
+      "\u001b[A\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[K\r\n\r\u001b[K\u001b[A\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.767220,
+      "s"
+    ],
+    [
+      0.207813,
+      "c"
+    ],
+    [
+      0.178913,
+      "r"
+    ],
+    [
+      0.109572,
+      "e"
+    ],
+    [
+      0.120288,
+      "e"
+    ],
+    [
+      0.148801,
+      "n"
+    ],
+    [
+      0.091895,
+      " "
+    ],
+    [
+      0.225082,
+      "!"
+    ],
+    [
+      0.162006,
+      "!"
+    ],
+    [
+      0.332895,
+      "\r\nscreen apt-get install galera-3    galera-arbitrator-3  mysql-wsrep-5.6\r\n"
+    ],
+    [
+      0.001116,
+      "bash: screen: no se encontró la orden"
+    ],
+    [
+      0.000385,
+      "\r\n"
+    ],
+    [
+      0.001013,
+      "root@debianGalera:/home/galera# "
+    ],
+    [
+      0.916726,
+      "a"
+    ],
+    [
+      0.079923,
+      "p"
+    ],
+    [
+      0.129927,
+      "t"
+    ],
+    [
+      0.269590,
+      "-"
+    ],
+    [
+      0.346942,
+      "g"
+    ],
+    [
+      0.150753,
+      "e"
+    ],
+    [
+      0.127472,
+      "t"
+    ],
+    [
+      0.030949,
+      " "
+    ],
+    [
+      0.122011,
+      "i"
+    ],
+    [
+      0.128479,
+      "n"
+    ],
+    [
+      0.041288,
+      "s"
+    ],
+    [
+      0.129391,
+      "t"
+    ],
+    [
+      0.069686,
+      "a"
+    ],
+    [
+      0.050525,
+      "l"
+    ],
+    [
+      0.119597,
+      "l"
+    ],
+    [
+      0.082274,
+      " "
+    ],
+    [
+      0.105631,
+      "s"
+    ],
+    [
+      0.159445,
+      "c"
+    ],
+    [
+      0.188884,
+      "r"
+    ],
+    [
+      0.110719,
+      "e"
+    ],
+    [
+      0.129389,
+      "e"
+    ],
+    [
+      0.109537,
+      "n"
+    ],
+    [
+      0.199377,
+      "\r\n"
+    ],
+    [
+      0.009852,
+      "\rLeyendo lista de paquetes... 0%\r"
+    ],
+    [
+      0.004750,
+      "\rLeyendo lista de paquetes... 100%\r"
+    ],
+    [
+      0.000143,
+      "\rLeyendo lista de paquetes... Hecho\r\r\n"
+    ],
+    [
+      0.006479,
+      "\rCreando árbol de dependencias... 0%\r\rCreando árbol de dependencias... 0%\r"
+    ],
+    [
+      0.017077,
+      "\rCreando árbol de dependencias... 50%\r"
+    ],
+    [
+      0.000299,
+      "\rCreando árbol de dependencias... 50%\r"
+    ],
+    [
+      0.070576,
+      "\rCreando árbol de dependencias       \r"
+    ],
+    [
+      0.000360,
+      "\r\n\rLeyendo la información de estado... 0%\r"
+    ],
+    [
+      0.000578,
+      "\rLeyendo la información de estado... 1%\r\rLeyendo la información de estado... Hecho\r"
+    ],
+    [
+      0.000555,
+      "\r\n"
+    ],
+    [
+      0.065177,
+      "Paquetes sugeridos:\r\n  iselect screenie byobu\r\n"
+    ],
+    [
+      0.001567,
+      "Se instalarán los siguientes paquetes NUEVOS:"
+    ],
+    [
+      0.000315,
+      "\r\n  screen\r\n"
+    ],
+    [
+      0.004166,
+      "0 actualizados, 1 se instalarán, 0 para eliminar y 0 no actualizados.\r\n"
+    ],
+    [
+      0.004969,
+      "Necesito descargar 670 kB de archivos."
+    ],
+    [
+      0.000343,
+      "\r\nSe utilizarán 975 kB de espacio de disco adicional después de esta operación.\r\n"
+    ],
+    [
+      0.002518,
+      "\r\r0% [Trabajando]"
+    ],
+    [
+      0.160257,
+      "\r               \rDes:1 http://ftp.es.debian.org/debian/ wheezy/main screen amd64 4.1.0~20120320gitdb59704-7 [670 kB]\r\n\r               \r0% [1 screen 0 B/670 kB 0%]"
+    ],
+    [
+      0.500364,
+      "\r                           \r46% [1 screen 307 kB/670 kB 46%]"
+    ],
+    [
+      0.312369,
+      "\r                                \r100% [Trabajando]\r                 \rDescargados 670 kB en 0seg. (688 kB/s)\r\n"
+    ],
+    [
+      0.591761,
+      "Seleccionando el paquete screen previamente no seleccionado.\r\n(Leyendo la base de datos ... \r"
+    ],
+    [
+      0.007019,
+      "(Leyendo la base de datos ... 5%\r"
+    ],
+    [
+      0.000007,
+      "(Leyendo la base de datos ... 10%\r(Leyendo la base de datos ... 15%\r"
+    ],
+    [
+      0.001033,
+      "(Leyendo la base de datos ... 20%\r(Leyendo la base de datos ... 25%\r(Leyendo la base de datos ... 30%\r(Leyendo la base de datos ... 35%\r"
+    ],
+    [
+      0.000534,
+      "(Leyendo la base de datos ... 40%\r(Leyendo la base de datos ... 45%\r(Leyendo la base de datos ... 50%\r"
+    ],
+    [
+      0.001383,
+      "(Leyendo la base de datos ... 55%\r(Leyendo la base de datos ... 60%\r(Leyendo la base de datos ... 65%\r(Leyendo la base de datos ... 70%\r"
+    ],
+    [
+      0.010500,
+      "(Leyendo la base de datos ... 75%\r"
+    ],
+    [
+      0.014100,
+      "(Leyendo la base de datos ... 80%\r"
+    ],
+    [
+      0.015352,
+      "(Leyendo la base de datos ... 85%\r"
+    ],
+    [
+      0.016893,
+      "(Leyendo la base de datos ... 90%\r"
+    ],
+    [
+      0.016127,
+      "(Leyendo la base de datos ... 95%\r"
+    ],
+    [
+      0.015863,
+      "(Leyendo la base de datos ... 100%\r"
+    ],
+    [
+      0.000175,
+      "(Leyendo la base de datos ... "
+    ],
+    [
+      0.000526,
+      "26204 ficheros o directorios instalados actualmente.)\r\n"
+    ],
+    [
+      0.000833,
+      "Desempaquetando screen (de .../screen_4.1.0~20120320gitdb59704-7_amd64.deb) ..."
+    ],
+    [
+      0.000200,
+      "\r\n"
+    ],
+    [
+      0.448944,
+      "Procesando disparadores para install-info ..."
+    ],
+    [
+      0.000265,
+      "\r\n"
+    ],
+    [
+      0.181504,
+      "Procesando disparadores para man-db ...\r\n"
+    ],
+    [
+      1.207207,
+      "Configurando screen (4.1.0~20120320gitdb59704-7) ...\r\n"
+    ],
+    [
+      1.565369,
+      "root@debianGalera:/home/galera# "
+    ],
+    [
+      1.800694,
+      "apt-get install screen"
+    ],
+    [
+      0.296919,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008screen apt-get install galera-3    galera-arbitra\rator-3  mysql-wsrep-5.6"
+    ],
+    [
+      0.811769,
+      "\u0008"
+    ],
+    [
+      0.500673,
+      "\u0008"
+    ],
+    [
+      0.030515,
+      "\u0008"
+    ],
+    [
+      0.028490,
+      "\u0008"
+    ],
+    [
+      0.032234,
+      "\u0008"
+    ],
+    [
+      0.029947,
+      "\u0008"
+    ],
+    [
+      0.029672,
+      "\u0008"
+    ],
+    [
+      0.030520,
+      "\u0008"
+    ],
+    [
+      0.030172,
+      "\u0008"
+    ],
+    [
+      0.030707,
+      "\u0008"
+    ],
+    [
+      0.030829,
+      "\u0008"
+    ],
+    [
+      0.030044,
+      "\u0008"
+    ],
+    [
+      0.030192,
+      "\u0008"
+    ],
+    [
+      0.030108,
+      "\u0008"
+    ],
+    [
+      0.029325,
+      "\u0008"
+    ],
+    [
+      0.030307,
+      "\u0008"
+    ],
+    [
+      0.029842,
+      "\u0008"
+    ],
+    [
+      0.030182,
+      "\u0008"
+    ],
+    [
+      0.030170,
+      "\u0008"
+    ],
+    [
+      0.030362,
+      "\u0008"
+    ],
+    [
+      0.030695,
+      "\u0008"
+    ],
+    [
+      0.029588,
+      "\u0008"
+    ],
+    [
+      0.030773,
+      "\r"
+    ],
+    [
+      0.031105,
+      "\u001b[A\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.029394,
+      "\u0008"
+    ],
+    [
+      0.029584,
+      "\u0008"
+    ],
+    [
+      0.033466,
+      "\u0008"
+    ],
+    [
+      0.027172,
+      "\u0008"
+    ],
+    [
+      0.030223,
+      "\u0008"
+    ],
+    [
+      0.031433,
+      "\u0008"
+    ],
+    [
+      0.030426,
+      "\u0008"
+    ],
+    [
+      0.030242,
+      "\u0008"
+    ],
+    [
+      0.035477,
+      "\u0008"
+    ],
+    [
+      0.026826,
+      "\u0008"
+    ],
+    [
+      0.030513,
+      "\u0008"
+    ],
+    [
+      0.030502,
+      "\u0008"
+    ],
+    [
+      0.030022,
+      "\u0008"
+    ],
+    [
+      0.031263,
+      "\u0008"
+    ],
+    [
+      0.028254,
+      "\u0008"
+    ],
+    [
+      0.030377,
+      "\u0008"
+    ],
+    [
+      0.030105,
+      "\u0008"
+    ],
+    [
+      0.030779,
+      "\u0008"
+    ],
+    [
+      0.031678,
+      "\u0008"
+    ],
+    [
+      0.030051,
+      "\u0008"
+    ],
+    [
+      0.030789,
+      "\u0008"
+    ],
+    [
+      0.029933,
+      "\u0008"
+    ],
+    [
+      0.032601,
+      "\u0008"
+    ],
+    [
+      0.030368,
+      "\u0008"
+    ],
+    [
+      0.030829,
+      "\u0008"
+    ],
+    [
+      0.030030,
+      "\u0008"
+    ],
+    [
+      0.030251,
+      "\u0008"
+    ],
+    [
+      0.029930,
+      "\u0008"
+    ],
+    [
+      0.029975,
+      "\u0008"
+    ],
+    [
+      0.029622,
+      "\u0008"
+    ],
+    [
+      0.030345,
+      "\u0008"
+    ],
+    [
+      0.029604,
+      "\u0008"
+    ],
+    [
+      0.030991,
+      "\u0008"
+    ],
+    [
+      0.164361,
+      "\r\n\r\r\n"
+    ],
+    [
+      0.009298,
+      "\u001b[!p\u001b[?3;4l\u001b[4l\u001b\u003e\u001b[?1049h\u001b[4l\u001b[?1h\u001b=\u001b[0m\u001b(B\u001b[1;24r"
+    ],
+    [
+      0.001730,
+      "\u001b[H\u001b[2J\u001b[H\u001b[2J"
+    ],
+    [
+      0.006567,
+      "Leyendo lista de paquetes... 0%\r"
+    ],
+    [
+      0.001616,
+      "Leyendo lista de paquetes... 100%\rLeyendo lista de paquetes... Hecho\r\n"
+    ],
+    [
+      0.003505,
+      "Creando árbol de dependencias... 0%\rCreando árbol de dependencias... 0%\r"
+    ],
+    [
+      0.018172,
+      "Creando árbol de dependencias... 50%\rCreando árbol de dependencias... 50%\r"
+    ],
+    [
+      0.073264,
+      "Creando árbol de dependencias       \r\nLeyendo la información de estado... 0%\r"
+    ],
+    [
+      0.000012,
+      "Leyendo la información de estado... 1%\rLeyendo la información de estado... Hecho\r\n"
+    ],
+    [
+      0.067432,
+      "Se instalarán los siguientes paquetes extras:\r\n  libaio1 libdbd-mysql-perl libdbi-perl libhtml-template-perl libmysqlclient18\r\n  libterm-readkey-perl mysql-common mysql-wsrep-client-5.6 mysql-wsrep-common\r\n  mysql-wsrep-common-5.6 mysql-wsrep-libmysqlclient18 mysql-wsrep-server-5.6\r\n  netcat-openbsd rsync socat\r\nPaquetes sugeridos:\r\n  libipc-sharedcache-perl tinyca\r\n"
+    ],
+    [
+      0.001953,
+      "Se instalarán los siguientes paquetes NUEVOS:\r\n  galera-3 galera-arbitrator-3 libaio1 libdbd-mysql-perl libdbi-perl\r\n  libhtml-template-perl libmysqlclient18 libterm-readkey-perl mysql-common\r\n  mysql-wsrep-5.6 mysql-wsrep-client-5.6 mysql-wsrep-common\r\n"
+    ],
+    [
+      0.000422,
+      "  mysql-wsrep-common-5.6 mysql-wsrep-libmysqlclient18 mysql-wsrep-server-5.6\r\n  netcat-openbsd rsync socat\r\n"
+    ],
+    [
+      0.003768,
+      "0 actualizados, 18 se instalarán, 0 para eliminar y 0 no actualizados.\r\n"
+    ],
+    [
+      0.007291,
+      "Necesito descargar 116 MB de archivos.\r\nSe utilizarán 368 MB de espacio de disco adicional después de esta operación.\r\n¿Desea continuar [S/n]? "
+    ],
+    [
+      0.902389,
+      "S"
+    ],
+    [
+      0.188680,
+      "\r\n"
+    ],
+    [
+      0.015062,
+      "0% [Trabajando]"
+    ],
+    [
+      0.099816,
+      "\r               \rDes:1 http://security.debian.org/ wheezy/updates/main mysql-common all 5.5.43-0+deb7u1 [73,4 kB]\r\n               \r0% [Esperando las cabeceras] [1 mysql-common 0 B/73,4 kB 0%] [Esperando las cab"
+    ],
+    [
+      0.067177,
+      "\r                                                                               \rDes:2 http://releases.galeracluster.com/debian/ wheezy/main mysql-wsrep-common all 5.6.23-25.10-1wheezy [73,6 kB]\r\n0% [Esperando las cabeceras] [1 mysql-common 41,6 kB/73,4 kB 57%] [2 mysql-wsre"
+    ],
+    [
+      0.015183,
+      "\r                                                                               \rDes:3 http://ftp.es.debian.org/debian/ wheezy/main libaio1 amd64 0.3.109-3 [9.150 B]\r\n0% [3 libaio1 0 B/9.150 B 0%] [1 mysql-common 41,6 kB/73,4 kB 57%] [2 mysql-wsr"
+    ],
+    [
+      0.000579,
+      "\r0% [1 mysql-common 41,6 kB/73,4 kB 57%] [2 mysql-wsrep-common 13,7 kB/73,6 kB 1"
+    ],
+    [
+      0.004819,
+      "\r                                                                               \r0% [Esperando las cabeceras] [2 mysql-wsrep-common 13,7 kB/73,6 kB 19%]"
+    ],
+    [
+      0.045335,
+      "\r                                                                       \rDes:4 http://security.debian.org/ wheezy/updates/main libmysqlclient18 amd64 5.5.43-0+deb7u1 [677 kB]\r\n                                                                       \r0% [Esperando las cabeceras] [4 libmysqlclient18 0 B/677 kB 0%] [2 mysql-wsrep-"
+    ],
+    [
+      0.232840,
+      "\r                                                                               \r1% [Esperando las cabeceras] [4 libmysqlclient18 436 kB/677 kB 64%]"
+    ],
+    [
+      0.078095,
+      "\r                                                                   \rDes:5 http://ftp.es.debian.org/debian/ wheezy/main libdbi-perl amd64 1.622-1+deb7u1 [892 kB]\r\n                                                                   \r1% [5 libdbi-perl 13,8 kB/892 kB 2%] [4 libmysqlclient18 579 kB/677 kB 86%] [Es"
+    ],
+    [
+      0.043457,
+      "\r                                                                               \r1% [5 libdbi-perl 13,8 kB/892 kB 2%] [Esperando las cabeceras]"
+    ],
+    [
+      0.051306,
+      "\r                                                              \rDes:6 http://releases.galeracluster.com/debian/ wheezy/main mysql-wsrep-libmysqlclient18 amd64 5.6.23-25.10-1wheezy [2.728 kB]\r\n                                                              \r1% [5 libdbi-perl 30,6 kB/892 kB 3%] [6 mysql-wsrep-libmysqlclient18 13,7 kB/2."
+    ],
+    [
+      0.500744,
+      "\r1% [5 libdbi-perl 249 kB/892 kB 28%] [6 mysql-wsrep-libmysqlclient18 103 kB/2.7"
+    ],
+    [
+      0.500613,
+      "\r2% [5 libdbi-perl 753 kB/892 kB 84%] [6 mysql-wsrep-libmysqlclient18 204 kB/2.7"
+    ],
+    [
+      0.110724,
+      "\r                                                                               \r2% [6 mysql-wsrep-libmysqlclient18 232 kB/2.728 kB 9%]"
+    ],
+    [
+      0.087654,
+      "\r                                                      \rDes:7 http://ftp.es.debian.org/debian/ wheezy/main libdbd-mysql-perl amd64 4.021-1+b1 [126 kB]\r\n                                                      \r2% [7 libdbd-mysql-perl 0 B/126 kB 0%] [6 mysql-wsrep-libmysqlclient18 246 kB/2"
+    ],
+    [
+      0.068115,
+      "\r                                                                               \r2% [6 mysql-wsrep-libmysqlclient18 260 kB/2.728 kB 10%]"
+    ],
+    [
+      0.073100,
+      "\r                                                       \rDes:8 http://ftp.es.debian.org/debian/ wheezy/main libterm-readkey-perl amd64 2.30-4+b2 [32,2 kB]\r\n                                                       \r2% [8 libterm-readkey-perl 0 B/32,2 kB 0%] [6 mysql-wsrep-libmysqlclient18 274 "
+    ],
+    [
+      0.001673,
+      "\r                                                                               \r2% [6 mysql-wsrep-libmysqlclient18 274 kB/2.728 kB 10%]"
+    ],
+    [
+      0.085924,
+      "\r                                                       \rDes:9 http://ftp.es.debian.org/debian/ wheezy/main socat amd64 1.7.1.3-1.4 [384 kB]\r\n                                                       \r2% [9 socat 0 B/384 kB 0%] [6 mysql-wsrep-libmysqlclient18 288 kB/2.728 kB 11%]"
+    ],
+    [
+      0.264808,
+      "\r                                                                               \r2% [6 mysql-wsrep-libmysqlclient18 344 kB/2.728 kB 13%]"
+    ],
+    [
+      0.098371,
+      "\r                                                       \rDes:10 http://ftp.es.debian.org/debian/ wheezy/main rsync amd64 3.0.9-4 [369 kB]\r\n                                                       \r2% [10 rsync 0 B/369 kB 0%] [6 mysql-wsrep-libmysqlclient18 358 kB/2.728 kB 13%"
+    ],
+    [
+      0.203507,
+      "\r                                                                               \r3% [6 mysql-wsrep-libmysqlclient18 393 kB/2.728 kB 14%]"
+    ],
+    [
+      0.079113,
+      "\r                                                       \rDes:11 http://ftp.es.debian.org/debian/ wheezy/main netcat-openbsd amd64 1.105-7 [39,8 kB]\r\n                                                       \r3% [11 netcat-openbsd 0 B/39,8 kB 0%] [6 mysql-wsre"
+    ],
+    [
+      0.000317,
+      "p-libmysqlclient18 393 kB/2."
+    ],
+    [
+      0.002626,
+      "\r                                                                               \r3% [6 mysql-wsrep-libmysqlclient18 393 kB/2.728 kB 14%]"
+    ],
+    [
+      0.080475,
+      "\r                                                       \rDes:12 http://ftp.es.debian.org/debian/ wheezy/main libhtml-template-perl all 2.91-1 [72,0 kB]\r\n                                                       \r3% [12 libhtml-template-perl 0 B/72,0 kB 0%] [6 mysql-wsrep-libmysqlclient18 41"
+    ],
+    [
+      0.003706,
+      "\r                                                                               \r3% [6 mysql-wsrep-libmysqlclient18 418 kB/2.728 kB 15%]"
+    ],
+    [
+      0.500946,
+      "\r3% [6 mysql-wsrep-libmysqlclient18 495 kB/2.728 kB 18%]"
+    ],
+    [
+      0.500506,
+      "\r3% [6 mysql-wsrep-libmysqlclient18 585 kB/2.728 kB 21%]"
+    ],
+    [
+      0.500741,
+      "\r3% [6 mysql-wsrep-libmysqlclient18 683 kB/2.728 kB 25%]"
+    ],
+    [
+      0.500769,
+      "\r3% [6 mysql-wsrep-libmysqlclient18 782 kB/2.728 kB 29%]"
+    ],
+    [
+      0.500627,
+      "\r3% [6 mysql-wsrep-libmysqlclient18 859 kB/2.728 kB 31%]"
+    ],
+    [
+      0.500592,
+      "\r3% [6 mysql-wsrep-libmysqlclient18 938 kB/2.728 kB 34%]"
+    ],
+    [
+      0.500850,
+      "\r                                                       \r3% [6 mysql-wsrep-libmysqlclient18 1.027 kB/2.728 kB 38%]  599 kB/s 3min. 7seg."
+    ],
+    [
+      0.500595,
+      "\r3% [6 mysql-wsrep-libmysqlclient18 1.120 kB/2.728 kB 41%]  599 kB/s 3min. 7seg."
+    ],
+    [
+      0.443148,
+      "\u001b[?1l\u001b\u003e\u001b[24;1H\r\n\u001b[?1049l"
+    ],
+    [
+      0.000303,
+      "[detached from 3086.pts-0.debianGalera]\r\n"
+    ],
+    [
+      0.000920,
+      "root@debianGalera:/home/galera# "
+    ],
+    [
+      0.908135,
+      "m"
+    ],
+    [
+      0.099521,
+      "i"
+    ],
+    [
+      0.109796,
+      "e"
+    ],
+    [
+      0.085024,
+      "n"
+    ],
+    [
+      0.145217,
+      "t"
+    ],
+    [
+      0.233440,
+      "r"
+    ],
+    [
+      0.015753,
+      "a"
+    ],
+    [
+      0.149613,
+      "s"
+    ],
+    [
+      0.160692,
+      " "
+    ],
+    [
+      0.107307,
+      "e"
+    ],
+    [
+      0.166728,
+      "s"
+    ],
+    [
+      0.144921,
+      "t"
+    ],
+    [
+      0.181511,
+      "o"
+    ],
+    [
+      0.185172,
+      " "
+    ],
+    [
+      0.348394,
+      "e"
+    ],
+    [
+      0.008770,
+      "s"
+    ],
+    [
+      0.170553,
+      "t"
+    ],
+    [
+      0.086905,
+      "a"
+    ],
+    [
+      0.096537,
+      " "
+    ],
+    [
+      0.170098,
+      "i"
+    ],
+    [
+      0.085007,
+      "n"
+    ],
+    [
+      0.099668,
+      "s"
+    ],
+    [
+      0.142853,
+      "t"
+    ],
+    [
+      0.146170,
+      "a"
+    ],
+    [
+      0.170146,
+      "l"
+    ],
+    [
+      0.098677,
+      "e"
+    ],
+    [
+      0.337166,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.069307,
+      "a"
+    ],
+    [
+      0.129362,
+      "n"
+    ],
+    [
+      0.089339,
+      "d"
+    ],
+    [
+      0.161049,
+      "o"
+    ],
+    [
+      0.148147,
+      ","
+    ],
+    [
+      0.119484,
+      " "
+    ],
+    [
+      0.525453,
+      "W"
+    ],
+    [
+      0.159382,
+      "E"
+    ],
+    [
+      0.375659,
+      " "
+    ],
+    [
+      0.120096,
+      "N"
+    ],
+    [
+      0.089441,
+      "E"
+    ],
+    [
+      0.129749,
+      "E"
+    ],
+    [
+      0.149108,
+      "D"
+    ],
+    [
+      0.083060,
+      " "
+    ],
+    [
+      0.145597,
+      "T"
+    ],
+    [
+      0.060239,
+      "O"
+    ],
+    [
+      0.073022,
+      " "
+    ],
+    [
+      0.136397,
+      "G"
+    ],
+    [
+      0.083175,
+      "O"
+    ],
+    [
+      0.105688,
+      " "
+    ],
+    [
+      0.109190,
+      "D"
+    ],
+    [
+      0.160264,
+      "E"
+    ],
+    [
+      0.140062,
+      "E \r"
+    ],
+    [
+      0.100858,
+      "P"
+    ],
+    [
+      0.099695,
+      "E"
+    ],
+    [
+      0.117996,
+      "R"
+    ],
+    [
+      1.564239,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.500370,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.029776,
+      "\r\u001b[K"
+    ],
+    [
+      0.030539,
+      "\u001b[A\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[K\r\n\r\u001b[K\u001b[A\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.029741,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.029639,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.030631,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.030209,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.029770,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.031016,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.030224,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.030278,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.029697,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.030107,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.030857,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.030878,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.030089,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.030948,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.031271,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.030453,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.031115,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.029254,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.030294,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.030020,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.030236,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.030575,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.029471,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.030461,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.030244,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.029430,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.031052,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.030313,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.029863,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.030814,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.028972,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.030665,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.031171,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.029419,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.030895,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.029954,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.029725,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.031231,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.029983,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.030461,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.030049,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.030806,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.030725,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.031225,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.031804,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.029259,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.088011,
+      "\u0008\u001b[K\u0007"
+    ],
+    [
+      0.002702,
+      "\u0007"
+    ],
+    [
+      0.030721,
+      "\u0007"
+    ],
+    [
+      0.029635,
+      "\u0007"
+    ],
+    [
+      0.029966,
+      "\u0007"
+    ],
+    [
+      0.030437,
+      "\u0007"
+    ],
+    [
+      0.030456,
+      "\u0007"
+    ],
+    [
+      0.029563,
+      "\u0007"
+    ],
+    [
+      0.030438,
+      "\u0007"
+    ],
+    [
+      0.029852,
+      "\u0007"
+    ],
+    [
+      0.030506,
+      "\u0007"
+    ],
+    [
+      0.034120,
+      "\u0007"
+    ],
+    [
+      0.101914,
+      "s"
+    ],
+    [
+      0.179082,
+      "c"
+    ],
+    [
+      0.189588,
+      "r"
+    ],
+    [
+      0.119557,
+      "e"
+    ],
+    [
+      0.219227,
+      "e"
+    ],
+    [
+      0.475405,
+      "n"
+    ],
+    [
+      0.109913,
+      " "
+    ],
+    [
+      0.457904,
+      "-"
+    ],
+    [
+      0.177489,
+      "r"
+    ],
+    [
+      0.208555,
+      "\r\n"
+    ],
+    [
+      0.006339,
+      "\u001b[!p\u001b[?3;4l\u001b[4l\u001b\u003e\u001b[?1049h\u001b[4l\u001b[?1h\u001b=\u001b[0m\u001b(B\u001b[1;24r\u001b[H\u001b[2J\u001b[H\u001b[2JDes:2 http://releases.galeracluster.com/debian/ wheezy/main mysql-wsrep-common all 5.6.23-25.10-1wheezy [73,6 kB]\r\nDes:3 http://ftp.es.debian.org/debian/ wheezy/main libaio1 amd64 0.3.109-3 [9.150 B]\r\nDes:4 http://security.debian.org/ wheezy/updates/main libmysqlclient18 amd64 5.5.43-0+deb7u1 [677 kB]\r\nDes:5 http://ftp.es.debian.org/debian/ wheezy/main libdbi-perl amd64 1.622-1+deb7u1 [892 kB]\r\nDes:6 http://releases.galeracluster.com/debian/ wheezy/main mysql-wsrep-libmysqlclient18 amd64 5.6.23-25.10-1wheezy [2.728 kB]\r\nDes:7 http://ftp.es.debian.org/debian/ wheezy/main libdbd-mysql-perl amd64 4.021-1+b1 [126 kB]\r\nDes:8 http://ftp.es.debian.org/debian/ wheezy/main libterm-readkey-perl amd64 2.30-4+b2 [32,2 kB]\r\nDes:9 http://ftp.es.debian.org/debian/ wheezy/main socat amd64 1.7.1.3-1.4 [384 kB]\r\nDes:10 http://ftp.es.debian.org/debian/ wheezy/main rsync amd64 3.0.9-4 [369 kB]\r\nDes:11 http://ftp.es.debian.org/debian/ wheezy/main netcat-openbsd amd64 1.105-7 [39,8 kB]\r\nDes:12 http://ftp.es.debian.org/debian/ wheezy/main libhtml-template-perl all 2.91-1 [72,0 kB]\r\nDes:13 http://releases.galeracluster.com/debian/ wheezy/main mysql-wsrep-client-5.6 amd64 5.6.23-25.10-1wheezy [31,2 MB]\r\n6% [13 mysql-wsrep-client-5.6 1.460 kB/31,2 MB 5%]\u001b[8C182 kB/s 9min. 58seg."
+    ],
+    [
+      0.177618,
+      "\r6% [13 mysql-wsrep-client-5.6 1.606 kB/31,2 MB 5%]        182 kB/s 9min. 57seg."
+    ],
+    [
+      0.500885,
+      "\r6% [13 mysql-wsrep-client-5.6 1.726 kB/31,2 MB 6%]        182 kB/s 9min. 57seg."
+    ],
+    [
+      0.499991,
+      "\r6% [13 mysql-wsrep-client-5.6 1.844 kB/31,2 MB 6%]        182 kB/s 9min. 56seg."
+    ],
+    [
+      0.500360,
+      "\r6% [13 mysql-wsrep-client-5.6 1.944 kB/31,2 MB 6%]        182 kB/s 9min. 55seg."
+    ],
+    [
+      0.500830,
+      "\r6% [13 mysql-wsrep-client-5.6 2.048 kB/31,2 MB 7%]        182 kB/s 9min. 55seg."
+    ],
+    [
+      0.500447,
+      "\r7% [13 mysql-wsrep-client-5.6 2.168 kB/31,2 MB 7%]        250 kB/s 7min. 13seg."
+    ],
+    [
+      0.501032,
+      "\r7% [13 mysql-wsrep-client-5.6 2.299 kB/31,2 MB 7%]        250 kB/s 7min. 13seg."
+    ],
+    [
+      0.500670,
+      "\r7% [13 mysql-wsrep-client-5.6 2.404 kB/31,2 MB 8%]        250 kB/s 7min. 12seg."
+    ],
+    [
+      0.501364,
+      "\r7% [13 mysql-wsrep-client-5.6 2.502 kB/31,2 MB 8%]        250 kB/s 7min. 12seg."
+    ],
+    [
+      0.500939,
+      "\r7% [13 mysql-wsrep-client-5.6 2.619 kB/31,2 MB 8%]        250 kB/s 7min. 11seg."
+    ],
+    [
+      0.499737,
+      "\r7% [13 mysql-wsrep-client-5.6 2.734 kB/31,2 MB 9%]        250 kB/s 7min. 11seg."
+    ],
+    [
+      0.501709,
+      "\r7% [13 mysql-wsrep-client-5.6 2.871 kB/31,2 MB 9%]        250 kB/s 7min. 10seg."
+    ],
+    [
+      0.500641,
+      "\r7% [13 mysql-wsrep-client-5.6 2.986 kB/31,2 MB 10%]       250 kB/s 7min. 10seg."
+    ],
+    [
+      0.500608,
+      "\r7% [13 mysql-wsrep-client-5.6 3.095 kB/31,2 MB 10%]        250 kB/s 7min. 9seg."
+    ],
+    [
+      0.499745,
+      "\r7% [13 mysql-wsrep-client-5.6 3.190 kB/31,2 MB 10%]        250 kB/s 7min. 9seg."
+    ],
+    [
+      0.500902,
+      "\r8% [13 mysql-wsrep-client-5.6 3.300 kB/31,2 MB 11%]        250 kB/s 7min. 9seg."
+    ],
+    [
+      0.500755,
+      "\r8% [13 mysql-wsrep-client-5.6 3.423 kB/31,2 MB 11%]        250 kB/s 7min. 8seg."
+    ],
+    [
+      0.501269,
+      "\r8% [13 mysql-wsrep-client-5.6 3.546 kB/31,2 MB 11%]       229 kB/s 7min. 47seg."
+    ],
+    [
+      0.500803,
+      "\r8% [13 mysql-wsrep-client-5.6 3.669 kB/31,2 MB 12%]       229 kB/s 7min. 46seg."
+    ],
+    [
+      0.499879,
+      "\r8% [13 mysql-wsrep-client-5.6 3.801 kB/31,2 MB 12%]       229 kB/s 7min. 46seg."
+    ],
+    [
+      0.500791,
+      "\r8% [13 mysql-wsrep-client-5.6 3.938 kB/31,2 MB 13%]       229 kB/s 7min. 45seg."
+    ],
+    [
+      0.500731,
+      "\r8% [13 mysql-wsrep-client-5.6 4.061 kB/31,2 MB 13%]       229 kB/s 7min. 44seg."
+    ],
+    [
+      0.500578,
+      "\r8% [13 mysql-wsrep-client-5.6 4.190 kB/31,2 MB 13%]       229 kB/s 7min. 44seg."
+    ],
+    [
+      0.501050,
+      "\r8% [13 mysql-wsrep-client-5.6 4.285 kB/31,2 MB 14%]       229 kB/s 7min. 43seg."
+    ],
+    [
+      0.500287,
+      "\r8% [13 mysql-wsrep-client-5.6 4.389 kB/31,2 MB 14%]       229 kB/s 7min. 43seg."
+    ],
+    [
+      0.500913,
+      "\r9% [13 mysql-wsrep-client-5.6 4.490 kB/31,2 MB 14%]       229 kB/s 7min. 43seg."
+    ],
+    [
+      0.500497,
+      "\r9% [13 mysql-wsrep-client-5.6 4.607 kB/31,2 MB 15%]       229 kB/s 7min. 42seg."
+    ],
+    [
+      0.500927,
+      "\r9% [13 mysql-wsrep-client-5.6 4.725 kB/31,2 MB 15%]       229 kB/s 7min. 42seg."
+    ],
+    [
+      0.500666,
+      "\r9% [13 mysql-wsrep-client-5.6 4.820 kB/31,2 MB 15%]       229 kB/s 7min. 41seg."
+    ],
+    [
+      0.500709,
+      "\r9% [13 mysql-wsrep-client-5.6 4.918 kB/31,2 MB 16%]       228 kB/s 7min. 43seg."
+    ],
+    [
+      0.500780,
+      "\r9% [13 mysql-wsrep-client-5.6 5.016 kB/31,2 MB 16%]       228 kB/s 7min. 42seg."
+    ],
+    [
+      0.500708,
+      "\r9% [13 mysql-wsrep-client-5.6 5.134 kB/31,2 MB 16%]       228 kB/s 7min. 42seg."
+    ],
+    [
+      0.500551,
+      "\r9% [13 mysql-wsrep-client-5.6 5.257 kB/31,2 MB 17%]       228 kB/s 7min. 41seg."
+    ],
+    [
+      0.501371,
+      "\r9% [13 mysql-wsrep-client-5.6 5.381 kB/31,2 MB 17%]       228 kB/s 7min. 41seg."
+    ],
+    [
+      0.501915,
+      "\r9% [13 mysql-wsrep-client-5.6 5.496 kB/31,2 MB 18%]       228 kB/s 7min. 40seg."
+    ],
+    [
+      0.498993,
+      "\r10% [13 mysql-wsrep-client-5.6 5.628 kB/31,2 MB 18%]      228 kB/s 7min. 39seg."
+    ],
+    [
+      0.500765,
+      "\r10% [13 mysql-wsrep-client-5.6 5.765 kB/31,2 MB 18%]      228 kB/s 7min. 39seg."
+    ],
+    [
+      0.500678,
+      "\r10% [13 mysql-wsrep-client-5.6 5.894 kB/31,2 MB 19%]      228 kB/s 7min. 38seg."
+    ],
+    [
+      0.500678,
+      "\r10% [13 mysql-wsrep-client-5.6 6.028 kB/31,2 MB 19%]      228 kB/s 7min. 38seg."
+    ],
+    [
+      0.500559,
+      "\r10% [13 mysql-wsrep-client-5.6 6.129 kB/31,2 MB 20%]      228 kB/s 7min. 37seg."
+    ],
+    [
+      0.501003,
+      "\r10% [13 mysql-wsrep-client-5.6 6.210 kB/31,2 MB 20%]      228 kB/s 7min. 37seg."
+    ],
+    [
+      0.500435,
+      "\r10% [13 mysql-wsrep-client-5.6 6.291 kB/31,2 MB 20%]      229 kB/s 7min. 36seg."
+    ],
+    [
+      0.500872,
+      "\r10% [13 mysql-wsrep-client-5.6 6.381 kB/31,2 MB 20%]      229 kB/s 7min. 36seg."
+    ],
+    [
+      0.500712,
+      "\r10% [13 mysql-wsrep-client-5.6 6.473 kB/31,2 MB 21%]      229 kB/s 7min. 35seg."
+    ],
+    [
+      0.500696,
+      "\r10% [13 mysql-wsrep-client-5.6 6.569 kB/31,2 MB 21%]      229 kB/s 7min. 35seg."
+    ],
+    [
+      0.500646,
+      "\r10% [13 mysql-wsrep-client-5.6 6.678 kB/31,2 MB 21%]      229 kB/s 7min. 34seg."
+    ],
+    [
+      0.500633,
+      "\r11% [13 mysql-wsrep-client-5.6 6.795 kB/31,2 MB 22%]      229 kB/s 7min. 34seg."
+    ],
+    [
+      0.501044,
+      "\r11% [13 mysql-wsrep-client-5.6 6.919 kB/31,2 MB 22%]      229 kB/s 7min. 33seg."
+    ],
+    [
+      0.500724,
+      "\r11% [13 mysql-wsrep-client-5.6 7.056 kB/31,2 MB 23%]      229 kB/s 7min. 33seg."
+    ],
+    [
+      0.500650,
+      "\r11% [13 mysql-wsrep-client-5.6 7.189 kB/31,2 MB 23%]      229 kB/s 7min. 32seg."
+    ],
+    [
+      0.500749,
+      "\r11% [13 mysql-wsrep-client-5.6 7.315 kB/31,2 MB 23%]      229 kB/s 7min. 32seg."
+    ],
+    [
+      0.500721,
+      "\r11% [13 mysql-wsrep-client-5.6 7.424 kB/31,2 MB 24%]      229 kB/s 7min. 31seg."
+    ],
+    [
+      0.500493,
+      "\r11% [13 mysql-wsrep-client-5.6 7.516 kB/31,2 MB 24%]      229 kB/s 7min. 31seg."
+    ],
+    [
+      0.500747,
+      "\r11% [13 mysql-wsrep-client-5.6 7.623 kB/31,2 MB 24%]      222 kB/s 7min. 45seg."
+    ],
+    [
+      0.500725,
+      "\r11% [13 mysql-wsrep-client-5.6 7.721 kB/31,2 MB 25%]      222 kB/s 7min. 44seg."
+    ],
+    [
+      0.500700,
+      "\r11% [13 mysql-wsrep-client-5.6 7.824 kB/31,2 MB 25%]      222 kB/s 7min. 44seg."
+    ],
+    [
+      0.500625,
+      "\r12% [13 mysql-wsrep-client-5.6 7.942 kB/31,2 MB 25%]      222 kB/s 7min. 43seg."
+    ],
+    [
+      0.500747,
+      "\r12% [13 mysql-wsrep-client-5.6 8.048 kB/31,2 MB 26%]      222 kB/s 7min. 43seg."
+    ],
+    [
+      0.500391,
+      "\r12% [13 mysql-wsrep-client-5.6 8.160 kB/31,2 MB 26%]      222 kB/s 7min. 42seg."
+    ],
+    [
+      0.500796,
+      "\r12% [13 mysql-wsrep-client-5.6 8.264 kB/31,2 MB 26%]      222 kB/s 7min. 42seg."
+    ],
+    [
+      0.500910,
+      "\r12% [13 mysql-wsrep-client-5.6 8.382 kB/31,2 MB 27%]      222 kB/s 7min. 41seg."
+    ],
+    [
+      0.500730,
+      "\r12% [13 mysql-wsrep-client-5.6 8.502 kB/31,2 MB 27%]      222 kB/s 7min. 41seg."
+    ],
+    [
+      0.500598,
+      "\r12% [13 mysql-wsrep-client-5.6 8.617 kB/31,2 MB 28%]      222 kB/s 7min. 40seg."
+    ],
+    [
+      0.500751,
+      "\r12% [13 mysql-wsrep-client-5.6 8.746 kB/31,2 MB 28%]      222 kB/s 7min. 39seg."
+    ],
+    [
+      0.500296,
+      "\r12% [13 mysql-wsrep-client-5.6 8.883 kB/31,2 MB 28%]      222 kB/s 7min. 39seg."
+    ],
+    [
+      0.501038,
+      "\r12% [13 mysql-wsrep-client-5.6 9.014 kB/31,2 MB 29%]      232 kB/s 7min. 18seg."
+    ],
+    [
+      0.500417,
+      "\r13% [13 mysql-wsrep-client-5.6 9.121 kB/31,2 MB 29%]      232 kB/s 7min. 18seg."
+    ],
+    [
+      0.500819,
+      "\r13% [13 mysql-wsrep-client-5.6 9.227 kB/31,2 MB 30%]      232 kB/s 7min. 17seg."
+    ],
+    [
+      0.500445,
+      "\r13% [13 mysql-wsrep-client-5.6 9.364 kB/31,2 MB 30%]      232 kB/s 7min. 17seg."
+    ],
+    [
+      0.500945,
+      "\r13% [13 mysql-wsrep-client-5.6 9.502 kB/31,2 MB 30%]      232 kB/s 7min. 16seg."
+    ],
+    [
+      0.500415,
+      "\r13% [13 mysql-wsrep-client-5.6 9.632 kB/31,2 MB 31%]      232 kB/s 7min. 16seg."
+    ],
+    [
+      0.500917,
+      "\r13% [13 mysql-wsrep-client-5.6 9.749 kB/31,2 MB 31%]      232 kB/s 7min. 15seg."
+    ],
+    [
+      0.500705,
+      "\r13% [13 mysql-wsrep-client-5.6 9.846 kB/31,2 MB 32%]      232 kB/s 7min. 15seg."
+    ],
+    [
+      0.500762,
+      "\r13% [13 mysql-wsrep-client-5.6 9.944 kB/31,2 MB 32%]      232 kB/s 7min. 14seg."
+    ],
+    [
+      0.500675,
+      "\r13% [13 mysql-wsrep-client-5.6 10,0 MB/31,2 MB 32%]       232 kB/s 7min. 14seg."
+    ],
+    [
+      0.500892,
+      "\r13% [13 mysql-wsrep-client-5.6 10,1 MB/31,2 MB 32%]       232 kB/s 7min. 14seg."
+    ],
+    [
+      0.500553,
+      "\r14% [13 mysql-wsrep-client-5.6 10,2 MB/31,2 MB 33%]       232 kB/s 7min. 13seg."
+    ],
+    [
+      0.500831,
+      "\r14% [13 mysql-wsrep-client-5.6 10,3 MB/31,2 MB 33%]       218 kB/s 7min. 40seg."
+    ],
+    [
+      0.500360,
+      "\r14% [13 mysql-wsrep-client-5.6 10,4 MB/31,2 MB 33%]       218 kB/s 7min. 39seg."
+    ],
+    [
+      0.501122,
+      "\r14% [13 mysql-wsrep-client-5.6 10,6 MB/31,2 MB 34%]       218 kB/s 7min. 38seg."
+    ],
+    [
+      0.500440,
+      "\r14% [13 mysql-wsrep-client-5.6 10,7 MB/31,2 MB 34%]       218 kB/s 7min. 38seg."
+    ],
+    [
+      0.500778,
+      "\r14% [13 mysql-wsrep-client-5.6 10,7 MB/31,2 MB 34%]       218 kB/s 7min. 38seg."
+    ],
+    [
+      0.500582,
+      "\r14% [13 mysql-wsrep-client-5.6 10,8 MB/31,2 MB 35%]       218 kB/s 7min. 37seg."
+    ],
+    [
+      0.500722,
+      "\r14% [13 mysql-wsrep-client-5.6 10,9 MB/31,2 MB 35%]       218 kB/s 7min. 37seg."
+    ],
+    [
+      0.500565,
+      "\r14% [13 mysql-wsrep-client-5.6 11,0 MB/31,2 MB 35%]       218 kB/s 7min. 36seg."
+    ],
+    [
+      0.500904,
+      "\r14% [13 mysql-wsrep-client-5.6 11,1 MB/31,2 MB 36%]       218 kB/s 7min. 36seg."
+    ],
+    [
+      0.502157,
+      "\r14% [13 mysql-wsrep-client-5.6 11,2 MB/31,2 MB 36%]       218 kB/s 7min. 35seg."
+    ],
+    [
+      0.499238,
+      "\r14% [13 mysql-wsrep-client-5.6 11,3 MB/31,2 MB 36%]       218 kB/s 7min. 35seg."
+    ],
+    [
+      0.500623,
+      "\r15% [13 mysql-wsrep-client-5.6 11,4 MB/31,2 MB 37%]       218 kB/s 7min. 35seg."
+    ],
+    [
+      0.500616,
+      "\r15% [13 mysql-wsrep-client-5.6 11,5 MB/31,2 MB 37%]       199 kB/s 8min. 18seg."
+    ],
+    [
+      0.500790,
+      "\r15% [13 mysql-wsrep-client-5.6 11,6 MB/31,2 MB 37%]       199 kB/s 8min. 17seg."
+    ],
+    [
+      0.500729,
+      "\r15% [13 mysql-wsrep-client-5.6 11,7 MB/31,2 MB 38%]       199 kB/s 8min. 17seg."
+    ],
+    [
+      0.500573,
+      "\r15% [13 mysql-wsrep-client-5.6 11,8 MB/31,2 MB 38%]       199 kB/s 8min. 16seg."
+    ],
+    [
+      0.500536,
+      "\r15% [13 mysql-wsrep-client-5.6 11,8 MB/31,2 MB 38%]       199 kB/s 8min. 16seg."
+    ],
+    [
+      0.500978,
+      "\r15% [13 mysql-wsrep-client-5.6 11,9 MB/31,2 MB 38%]       199 kB/s 8min. 16seg."
+    ],
+    [
+      0.500898,
+      "\r15% [13 mysql-wsrep-client-5.6 11,9 MB/31,2 MB 38%]       199 kB/s 8min. 16seg."
+    ],
+    [
+      0.500755,
+      "\r15% [13 mysql-wsrep-client-5.6 12,0 MB/31,2 MB 38%]       199 kB/s 8min. 15seg."
+    ],
+    [
+      0.500226,
+      "\r15% [13 mysql-wsrep-client-5.6 12,1 MB/31,2 MB 39%]       199 kB/s 8min. 15seg."
+    ],
+    [
+      0.500985,
+      "\r15% [13 mysql-wsrep-client-5.6 12,1 MB/31,2 MB 39%]       199 kB/s 8min. 15seg."
+    ],
+    [
+      0.500704,
+      "\r15% [13 mysql-wsrep-client-5.6 12,2 MB/31,2 MB 39%]       199 kB/s 8min. 14seg."
+    ],
+    [
+      0.500837,
+      "\r15% [13 mysql-wsrep-client-5.6 12,2 MB/31,2 MB 39%]       199 kB/s 8min. 14seg."
+    ],
+    [
+      0.500452,
+      "\r15% [13 mysql-wsrep-client-5.6 12,3 MB/31,2 MB 39%]      134 kB/s 12min. 15seg."
+    ],
+    [
+      0.500830,
+      "\r15% [13 mysql-wsrep-client-5.6 12,4 MB/31,2 MB 40%]      134 kB/s 12min. 14seg."
+    ],
+    [
+      0.500525,
+      "\r15% [13 mysql-wsrep-client-5.6 12,5 MB/31,2 MB 40%]      134 kB/s 12min. 14seg."
+    ],
+    [
+      0.500786,
+      "\r16% [13 mysql-wsrep-client-5.6 12,6 MB/31,2 MB 40%]      134 kB/s 12min. 13seg."
+    ],
+    [
+      0.500736,
+      "\r16% [13 mysql-wsrep-client-5.6 12,7 MB/31,2 MB 41%]      134 kB/s 12min. 12seg."
+    ],
+    [
+      0.500477,
+      "\r16% [13 mysql-wsrep-client-5.6 12,7 MB/31,2 MB 41%]      134 kB/s 12min. 12seg."
+    ],
+    [
+      0.500810,
+      "\r16% [13 mysql-wsrep-client-5.6 12,8 MB/31,2 MB 41%]      134 kB/s 12min. 11seg."
+    ],
+    [
+      0.500744,
+      "\r16% [13 mysql-wsrep-client-5.6 12,9 MB/31,2 MB 41%]      134 kB/s 12min. 10seg."
+    ],
+    [
+      0.501137,
+      "\r16% [13 mysql-wsrep-client-5.6 13,0 MB/31,2 MB 42%]       134 kB/s 12min. 9seg."
+    ],
+    [
+      0.500197,
+      "\r16% [13 mysql-wsrep-client-5.6 13,2 MB/31,2 MB 42%]       134 kB/s 12min. 9seg."
+    ],
+    [
+      0.500893,
+      "\r16% [13 mysql-wsrep-client-5.6 13,3 MB/31,2 MB 42%]       134 kB/s 12min. 8seg."
+    ],
+    [
+      0.500556,
+      "\r16% [13 mysql-wsrep-client-5.6 13,4 MB/31,2 MB 43%]       134 kB/s 12min. 7seg."
+    ],
+    [
+      0.500691,
+      "\r16% [13 mysql-wsrep-client-5.6 13,5 MB/31,2 MB 43%]       191 kB/s 8min. 28seg."
+    ],
+    [
+      0.500683,
+      "\r16% [13 mysql-wsrep-client-5.6 13,6 MB/31,2 MB 43%]       191 kB/s 8min. 28seg."
+    ],
+    [
+      0.500723,
+      "\r16% [13 mysql-wsrep-client-5.6 13,7 MB/31,2 MB 44%]       191 kB/s 8min. 27seg."
+    ],
+    [
+      0.500619,
+      "\r17% [13 mysql-wsrep-client-5.6 13,8 MB/31,2 MB 44%]       191 kB/s 8min. 27seg."
+    ],
+    [
+      0.500708,
+      "\r17% [13 mysql-wsrep-client-5.6 13,9 MB/31,2 MB 44%]       191 kB/s 8min. 26seg."
+    ],
+    [
+      0.501236,
+      "\r17% [13 mysql-wsrep-client-5.6 14,0 MB/31,2 MB 45%]       191 kB/s 8min. 26seg."
+    ],
+    [
+      0.500078,
+      "\r17% [13 mysql-wsrep-client-5.6 14,1 MB/31,2 MB 45%]       191 kB/s 8min. 25seg."
+    ],
+    [
+      0.500729,
+      "\r17% [13 mysql-wsrep-client-5.6 14,2 MB/31,2 MB 45%]       191 kB/s 8min. 24seg."
+    ],
+    [
+      0.500795,
+      "\r17% [13 mysql-wsrep-client-5.6 14,3 MB/31,2 MB 46%]       191 kB/s 8min. 24seg."
+    ],
+    [
+      0.500691,
+      "\r17% [13 mysql-wsrep-client-5.6 14,4 MB/31,2 MB 46%]       191 kB/s 8min. 23seg."
+    ],
+    [
+      0.500704,
+      "\r17% [13 mysql-wsrep-client-5.6 14,5 MB/31,2 MB 46%]       191 kB/s 8min. 23seg."
+    ],
+    [
+      0.500744,
+      "\r17% [13 mysql-wsrep-client-5.6 14,6 MB/31,2 MB 47%]       191 kB/s 8min. 22seg."
+    ],
+    [
+      0.500425,
+      "\r17% [13 mysql-wsrep-client-5.6 14,7 MB/31,2 MB 47%]       206 kB/s 7min. 45seg."
+    ],
+    [
+      0.500628,
+      "\r17% [13 mysql-wsrep-client-5.6 14,8 MB/31,2 MB 47%]       206 kB/s 7min. 45seg."
+    ],
+    [
+      0.500847,
+      "\r18% [13 mysql-wsrep-client-5.6 14,9 MB/31,2 MB 48%]       206 kB/s 7min. 44seg."
+    ],
+    [
+      0.500743,
+      "\r18% [13 mysql-wsrep-client-5.6 15,0 MB/31,2 MB 48%]       206 kB/s 7min. 44seg."
+    ],
+    [
+      0.502071,
+      "\r18% [13 mysql-wsrep-client-5.6 15,1 MB/31,2 MB 48%]       206 kB/s 7min. 43seg."
+    ],
+    [
+      0.501531,
+      "\r18% [13 mysql-wsrep-client-5.6 15,2 MB/31,2 MB 49%]       206 kB/s 7min. 43seg."
+    ],
+    [
+      0.498354,
+      "\r18% [13 mysql-wsrep-client-5.6 15,3 MB/31,2 MB 49%]       206 kB/s 7min. 42seg."
+    ],
+    [
+      0.500870,
+      "\r18% [13 mysql-wsrep-client-5.6 15,5 MB/31,2 MB 49%]       206 kB/s 7min. 42seg."
+    ],
+    [
+      0.500706,
+      "\r18% [13 mysql-wsrep-client-5.6 15,6 MB/31,2 MB 50%]       206 kB/s 7min. 41seg."
+    ],
+    [
+      0.500551,
+      "\r18% [13 mysql-wsrep-client-5.6 15,7 MB/31,2 MB 50%]       206 kB/s 7min. 41seg."
+    ],
+    [
+      0.500689,
+      "\r18% [13 mysql-wsrep-client-5.6 15,8 MB/31,2 MB 50%]       206 kB/s 7min. 40seg."
+    ],
+    [
+      0.500763,
+      "\r18% [13 mysql-wsrep-client-5.6 15,9 MB/31,2 MB 51%]       206 kB/s 7min. 40seg."
+    ],
+    [
+      0.500690,
+      "\r18% [13 mysql-wsrep-client-5.6 16,0 MB/31,2 MB 51%]       215 kB/s 7min. 20seg."
+    ],
+    [
+      0.501171,
+      "\r19% [13 mysql-wsrep-client-5.6 16,1 MB/31,2 MB 52%]       215 kB/s 7min. 20seg."
+    ],
+    [
+      0.500166,
+      "\r19% [13 mysql-wsrep-client-5.6 16,3 MB/31,2 MB 52%]       215 kB/s 7min. 19seg."
+    ],
+    [
+      0.500609,
+      "\r19% [13 mysql-wsrep-client-5.6 16,4 MB/31,2 MB 52%]       215 kB/s 7min. 18seg."
+    ],
+    [
+      0.500921,
+      "\r19% [13 mysql-wsrep-client-5.6 16,5 MB/31,2 MB 53%]       215 kB/s 7min. 18seg."
+    ],
+    [
+      0.500482,
+      "\r19% [13 mysql-wsrep-client-5.6 16,6 MB/31,2 MB 53%]       215 kB/s 7min. 17seg."
+    ],
+    [
+      0.500989,
+      "\r19% [13 mysql-wsrep-client-5.6 16,7 MB/31,2 MB 54%]       215 kB/s 7min. 17seg."
+    ],
+    [
+      0.500651,
+      "\r19% [13 mysql-wsrep-client-5.6 16,8 MB/31,2 MB 54%]       215 kB/s 7min. 16seg."
+    ],
+    [
+      0.500535,
+      "\r19% [13 mysql-wsrep-client-5.6 16,9 MB/31,2 MB 54%]       215 kB/s 7min. 16seg."
+    ],
+    [
+      0.500917,
+      "\r19% [13 mysql-wsrep-client-5.6 17,0 MB/31,2 MB 54%]       215 kB/s 7min. 16seg."
+    ],
+    [
+      0.500542,
+      "\r19% [13 mysql-wsrep-client-5.6 17,0 MB/31,2 MB 55%]       215 kB/s 7min. 15seg."
+    ],
+    [
+      0.500626,
+      "\r19% [13 mysql-wsrep-client-5.6 17,1 MB/31,2 MB 55%]       215 kB/s 7min. 15seg."
+    ],
+    [
+      0.500630,
+      "\r19% [13 mysql-wsrep-client-5.6 17,2 MB/31,2 MB 55%]        193 kB/s 8min. 4seg."
+    ],
+    [
+      0.500730,
+      "\r20% [13 mysql-wsrep-client-5.6 17,2 MB/31,2 MB 55%]        193 kB/s 8min. 4seg."
+    ],
+    [
+      0.500654,
+      "\r20% [13 mysql-wsrep-client-5.6 17,3 MB/31,2 MB 55%]        193 kB/s 8min. 3seg."
+    ],
+    [
+      0.500610,
+      "\r20% [13 mysql-wsrep-client-5.6 17,4 MB/31,2 MB 56%]        193 kB/s 8min. 3seg."
+    ],
+    [
+      0.500725,
+      "\r20% [13 mysql-wsrep-client-5.6 17,5 MB/31,2 MB 56%]        193 kB/s 8min. 2seg."
+    ],
+    [
+      0.500797,
+      "\r20% [13 mysql-wsrep-client-5.6 17,7 MB/31,2 MB 57%]        193 kB/s 8min. 2seg."
+    ],
+    [
+      0.500691,
+      "\r20% [13 mysql-wsrep-client-5.6 17,8 MB/31,2 MB 57%]        193 kB/s 8min. 1seg."
+    ],
+    [
+      0.500637,
+      "\r20% [13 mysql-wsrep-client-5.6 17,9 MB/31,2 MB 57%]        193 kB/s 8min. 0seg."
+    ],
+    [
+      0.500653,
+      "\r20% [13 mysql-wsrep-client-5.6 18,0 MB/31,2 MB 58%]        193 kB/s 8min. 0seg."
+    ],
+    [
+      0.500927,
+      "\r20% [13 mysql-wsrep-client-5.6 18,1 MB/31,2 MB 58%]       193 kB/s 7min. 59seg."
+    ],
+    [
+      0.500420,
+      "\r20% [13 mysql-wsrep-client-5.6 18,2 MB/31,2 MB 58%]       193 kB/s 7min. 59seg."
+    ],
+    [
+      0.500722,
+      "\r20% [13 mysql-wsrep-client-5.6 18,3 MB/31,2 MB 59%]       193 kB/s 7min. 58seg."
+    ],
+    [
+      0.500743,
+      "\r21% [13 mysql-wsrep-client-5.6 18,4 MB/31,2 MB 59%]       209 kB/s 7min. 21seg."
+    ],
+    [
+      0.500739,
+      "\r21% [13 mysql-wsrep-client-5.6 18,5 MB/31,2 MB 59%]       209 kB/s 7min. 21seg."
+    ],
+    [
+      0.500525,
+      "\r21% [13 mysql-wsrep-client-5.6 18,6 MB/31,2 MB 59%]       209 kB/s 7min. 21seg."
+    ],
+    [
+      0.500748,
+      "\r21% [13 mysql-wsrep-client-5.6 18,6 MB/31,2 MB 60%]       209 kB/s 7min. 20seg."
+    ],
+    [
+      0.500902,
+      "\r21% [13 mysql-wsrep-client-5.6 18,7 MB/31,2 MB 60%]       209 kB/s 7min. 20seg."
+    ],
+    [
+      0.500947,
+      "\r21% [13 mysql-wsrep-client-5.6 18,8 MB/31,2 MB 60%]       209 kB/s 7min. 19seg."
+    ],
+    [
+      0.500582,
+      "\r21% [13 mysql-wsrep-client-5.6 18,9 MB/31,2 MB 61%]       209 kB/s 7min. 19seg."
+    ],
+    [
+      0.500875,
+      "\r21% [13 mysql-wsrep-client-5.6 19,0 MB/31,2 MB 61%]       209 kB/s 7min. 18seg."
+    ],
+    [
+      0.500688,
+      "\r21% [13 mysql-wsrep-client-5.6 19,1 MB/31,2 MB 61%]       209 kB/s 7min. 18seg."
+    ],
+    [
+      0.500527,
+      "\r21% [13 mysql-wsrep-client-5.6 19,2 MB/31,2 MB 61%]       209 kB/s 7min. 18seg."
+    ],
+    [
+      0.500786,
+      "\r21% [13 mysql-wsrep-client-5.6 19,3 MB/31,2 MB 62%]       209 kB/s 7min. 17seg."
+    ],
+    [
+      0.500775,
+      "\r21% [13 mysql-wsrep-client-5.6 19,4 MB/31,2 MB 62%]       209 kB/s 7min. 17seg."
+    ],
+    [
+      0.500484,
+      "\r21% [13 mysql-wsrep-client-5.6 19,5 MB/31,2 MB 62%]       176 kB/s 8min. 37seg."
+    ],
+    [
+      0.500870,
+      "\r22% [13 mysql-wsrep-client-5.6 19,6 MB/31,2 MB 63%]       176 kB/s 8min. 37seg."
+    ],
+    [
+      0.500557,
+      "\r22% [13 mysql-wsrep-client-5.6 19,6 MB/31,2 MB 63%]       176 kB/s 8min. 36seg."
+    ],
+    [
+      0.501028,
+      "\r22% [13 mysql-wsrep-client-5.6 19,7 MB/31,2 MB 63%]       176 kB/s 8min. 36seg."
+    ],
+    [
+      0.500385,
+      "\r22% [13 mysql-wsrep-client-5.6 19,8 MB/31,2 MB 63%]       176 kB/s 8min. 35seg."
+    ],
+    [
+      0.501009,
+      "\r22% [13 mysql-wsrep-client-5.6 19,9 MB/31,2 MB 64%]       176 kB/s 8min. 35seg."
+    ],
+    [
+      0.500346,
+      "\r22% [13 mysql-wsrep-client-5.6 20,0 MB/31,2 MB 64%]       176 kB/s 8min. 34seg."
+    ],
+    [
+      0.500867,
+      "\r22% [13 mysql-wsrep-client-5.6 20,1 MB/31,2 MB 64%]       176 kB/s 8min. 34seg."
+    ],
+    [
+      0.500850,
+      "\r22% [13 mysql-wsrep-client-5.6 20,2 MB/31,2 MB 65%]       176 kB/s 8min. 33seg."
+    ],
+    [
+      0.500561,
+      "\r22% [13 mysql-wsrep-client-5.6 20,2 MB/31,2 MB 65%]       176 kB/s 8min. 33seg."
+    ],
+    [
+      0.500515,
+      "\r22% [13 mysql-wsrep-client-5.6 20,3 MB/31,2 MB 65%]       176 kB/s 8min. 32seg."
+    ],
+    [
+      0.500775,
+      "\r22% [13 mysql-wsrep-client-5.6 20,4 MB/31,2 MB 65%]       176 kB/s 8min. 32seg."
+    ],
+    [
+      0.500875,
+      "\r22% [13 mysql-wsrep-client-5.6 20,5 MB/31,2 MB 66%]        164 kB/s 9min. 8seg."
+    ],
+    [
+      0.500369,
+      "\r22% [13 mysql-wsrep-client-5.6 20,5 MB/31,2 MB 66%]        164 kB/s 9min. 7seg."
+    ],
+    [
+      0.500730,
+      "\r22% [13 mysql-wsrep-client-5.6 20,6 MB/31,2 MB 66%]        164 kB/s 9min. 7seg."
+    ],
+    [
+      0.500938,
+      "\r22% [13 mysql-wsrep-client-5.6 20,6 MB/31,2 MB 66%]        164 kB/s 9min. 7seg."
+    ],
+    [
+      0.500753,
+      "\r23% [13 mysql-wsrep-client-5.6 20,7 MB/31,2 MB 66%]        164 kB/s 9min. 6seg."
+    ],
+    [
+      0.500647,
+      "\r23% [13 mysql-wsrep-client-5.6 20,8 MB/31,2 MB 67%]        164 kB/s 9min. 6seg."
+    ],
+    [
+      0.500686,
+      "\r23% [13 mysql-wsrep-client-5.6 20,8 MB/31,2 MB 67%]        164 kB/s 9min. 5seg."
+    ],
+    [
+      0.500641,
+      "\r23% [13 mysql-wsrep-client-5.6 20,9 MB/31,2 MB 67%]        164 kB/s 9min. 5seg."
+    ],
+    [
+      0.500605,
+      "\r23% [13 mysql-wsrep-client-5.6 21,0 MB/31,2 MB 67%]        164 kB/s 9min. 4seg."
+    ],
+    [
+      0.500841,
+      "\r23% [13 mysql-wsrep-client-5.6 21,1 MB/31,2 MB 68%]        164 kB/s 9min. 4seg."
+    ],
+    [
+      0.500750,
+      "\r23% [13 mysql-wsrep-client-5.6 21,2 MB/31,2 MB 68%]        164 kB/s 9min. 3seg."
+    ],
+    [
+      0.500763,
+      "\r23% [13 mysql-wsrep-client-5.6 21,3 MB/31,2 MB 68%]        164 kB/s 9min. 3seg."
+    ],
+    [
+      0.500774,
+      "\r23% [13 mysql-wsrep-client-5.6 21,4 MB/31,2 MB 68%]       153 kB/s 9min. 44seg."
+    ],
+    [
+      0.500633,
+      "\r23% [13 mysql-wsrep-client-5.6 21,4 MB/31,2 MB 69%]       153 kB/s 9min. 43seg."
+    ],
+    [
+      0.500881,
+      "\r23% [13 mysql-wsrep-client-5.6 21,5 MB/31,2 MB 69%]       153 kB/s 9min. 43seg."
+    ],
+    [
+      0.500584,
+      "\r23% [13 mysql-wsrep-client-5.6 21,6 MB/31,2 MB 69%]       153 kB/s 9min. 42seg."
+    ],
+    [
+      0.500726,
+      "\r23% [13 mysql-wsrep-client-5.6 21,7 MB/31,2 MB 69%]       153 kB/s 9min. 42seg."
+    ],
+    [
+      0.500789,
+      "\r23% [13 mysql-wsrep-client-5.6 21,8 MB/31,2 MB 70%]       153 kB/s 9min. 41seg."
+    ],
+    [
+      0.500816,
+      "\r24% [13 mysql-wsrep-client-5.6 21,8 MB/31,2 MB 70%]       153 kB/s 9min. 41seg."
+    ],
+    [
+      0.500731,
+      "\r24% [13 mysql-wsrep-client-5.6 21,9 MB/31,2 MB 70%]       153 kB/s 9min. 40seg."
+    ],
+    [
+      0.500498,
+      "\r24% [13 mysql-wsrep-client-5.6 22,1 MB/31,2 MB 71%]       153 kB/s 9min. 39seg."
+    ],
+    [
+      0.500863,
+      "\r24% [13 mysql-wsrep-client-5.6 22,2 MB/31,2 MB 71%]       153 kB/s 9min. 38seg."
+    ],
+    [
+      0.500577,
+      "\r24% [13 mysql-wsrep-client-5.6 22,3 MB/31,2 MB 71%]       153 kB/s 9min. 38seg."
+    ],
+    [
+      0.500549,
+      "\r24% [13 mysql-wsrep-client-5.6 22,4 MB/31,2 MB 72%]       153 kB/s 9min. 37seg."
+    ],
+    [
+      0.500956,
+      "\r24% [13 mysql-wsrep-client-5.6 22,5 MB/31,2 MB 72%]       180 kB/s 8min. 10seg."
+    ],
+    [
+      0.500618,
+      "\r24% [13 mysql-wsrep-client-5.6 22,6 MB/31,2 MB 72%]        180 kB/s 8min. 9seg."
+    ],
+    [
+      0.500872,
+      "\r24% [13 mysql-wsrep-client-5.6 22,7 MB/31,2 MB 73%]        180 kB/s 8min. 9seg."
+    ],
+    [
+      0.500596,
+      "\r24% [13 mysql-wsrep-client-5.6 22,8 MB/31,2 MB 73%]        180 kB/s 8min. 8seg."
+    ],
+    [
+      0.500611,
+      "\r24% [13 mysql-wsrep-client-5.6 22,9 MB/31,2 MB 73%]        180 kB/s 8min. 7seg."
+    ],
+    [
+      0.500889,
+      "\r25% [13 mysql-wsrep-client-5.6 23,0 MB/31,2 MB 74%]        180 kB/s 8min. 7seg."
+    ],
+    [
+      0.500636,
+      "\r25% [13 mysql-wsrep-client-5.6 23,1 MB/31,2 MB 74%]        180 kB/s 8min. 6seg."
+    ],
+    [
+      0.627752,
+      "\r25% [13 mysql-wsrep-client-5.6 23,2 MB/31,2 MB 74%]        180 kB/s 8min. 6seg."
+    ],
+    [
+      0.373726,
+      "\r25% [13 mysql-wsrep-client-5.6 23,3 MB/31,2 MB 75%]        180 kB/s 8min. 5seg."
+    ],
+    [
+      0.586155,
+      "\r25% [13 mysql-wsrep-client-5.6 23,4 MB/31,2 MB 75%]        180 kB/s 8min. 5seg."
+    ],
+    [
+      0.415196,
+      "\r25% [13 mysql-wsrep-client-5.6 23,5 MB/31,2 MB 75%]        180 kB/s 8min. 4seg."
+    ],
+    [
+      0.500729,
+      "\r25% [13 mysql-wsrep-client-5.6 23,6 MB/31,2 MB 76%]        180 kB/s 8min. 4seg."
+    ],
+    [
+      0.500576,
+      "\r25% [13 mysql-wsrep-client-5.6 23,7 MB/31,2 MB 76%]        203 kB/s 7min. 8seg."
+    ],
+    [
+      0.500693,
+      "\r25% [13 mysql-wsrep-client-5.6 23,8 MB/31,2 MB 76%]        203 kB/s 7min. 7seg."
+    ],
+    [
+      0.500692,
+      "\r25% [13 mysql-wsrep-client-5.6 23,9 MB/31,2 MB 76%]        203 kB/s 7min. 7seg."
+    ],
+    [
+      0.501206,
+      "\r25% [13 mysql-wsrep-client-5.6 23,9 MB/31,2 MB 77%]        203 kB/s 7min. 6seg."
+    ],
+    [
+      0.501800,
+      "\r25% [13 mysql-wsrep-client-5.6 24,0 MB/31,2 MB 77%]        203 kB/s 7min. 6seg."
+    ],
+    [
+      0.499275,
+      "\r25% [13 mysql-wsrep-client-5.6 24,1 MB/31,2 MB 77%]        203 kB/s 7min. 5seg."
+    ],
+    [
+      0.500643,
+      "\r26% [13 mysql-wsrep-client-5.6 24,2 MB/31,2 MB 78%]        203 kB/s 7min. 5seg."
+    ],
+    [
+      0.500856,
+      "\r26% [13 mysql-wsrep-client-5.6 24,3 MB/31,2 MB 78%]        203 kB/s 7min. 5seg."
+    ],
+    [
+      0.500496,
+      "\r26% [13 mysql-wsrep-client-5.6 24,4 MB/31,2 MB 78%]        203 kB/s 7min. 4seg."
+    ],
+    [
+      0.500806,
+      "\r26% [13 mysql-wsrep-client-5.6 24,5 MB/31,2 MB 79%]        203 kB/s 7min. 3seg."
+    ],
+    [
+      0.500706,
+      "\r26% [13 mysql-wsrep-client-5.6 24,6 MB/31,2 MB 79%]        203 kB/s 7min. 3seg."
+    ],
+    [
+      0.500555,
+      "\r26% [13 mysql-wsrep-client-5.6 24,7 MB/31,2 MB 79%]        203 kB/s 7min. 2seg."
+    ],
+    [
+      0.500604,
+      "\r26% [13 mysql-wsrep-client-5.6 24,8 MB/31,2 MB 79%]       189 kB/s 7min. 34seg."
+    ],
+    [
+      0.500755,
+      "\r26% [13 mysql-wsrep-client-5.6 24,9 MB/31,2 MB 80%]       189 kB/s 7min. 34seg."
+    ],
+    [
+      0.500865,
+      "\r26% [13 mysql-wsrep-client-5.6 25,0 MB/31,2 MB 80%]       189 kB/s 7min. 33seg."
+    ],
+    [
+      0.500698,
+      "\r26% [13 mysql-wsrep-client-5.6 25,1 MB/31,2 MB 80%]       189 kB/s 7min. 33seg."
+    ],
+    [
+      0.500675,
+      "\r26% [13 mysql-wsrep-client-5.6 25,2 MB/31,2 MB 81%]       189 kB/s 7min. 32seg."
+    ],
+    [
+      0.502517,
+      "\r26% [13 mysql-wsrep-client-5.6 25,3 MB/31,2 MB 81%]       189 kB/s 7min. 32seg."
+    ],
+    [
+      0.498911,
+      "\r27% [13 mysql-wsrep-client-5.6 25,3 MB/31,2 MB 81%]       189 kB/s 7min. 32seg."
+    ],
+    [
+      0.500722,
+      "\r27% [13 mysql-wsrep-client-5.6 25,4 MB/31,2 MB 81%]       189 kB/s 7min. 31seg."
+    ],
+    [
+      0.500681,
+      "\r27% [13 mysql-wsrep-client-5.6 25,5 MB/31,2 MB 82%]       189 kB/s 7min. 31seg."
+    ],
+    [
+      0.500483,
+      "\r27% [13 mysql-wsrep-client-5.6 25,6 MB/31,2 MB 82%]       189 kB/s 7min. 30seg."
+    ],
+    [
+      0.500779,
+      "\r27% [13 mysql-wsrep-client-5.6 25,7 MB/31,2 MB 82%]       189 kB/s 7min. 30seg."
+    ],
+    [
+      0.500689,
+      "\r27% [13 mysql-wsrep-client-5.6 25,8 MB/31,2 MB 82%]       189 kB/s 7min. 29seg."
+    ],
+    [
+      0.500856,
+      "\r27% [13 mysql-wsrep-client-5.6 25,8 MB/31,2 MB 83%]       171 kB/s 8min. 17seg."
+    ],
+    [
+      0.500875,
+      "\r27% [13 mysql-wsrep-client-5.6 25,9 MB/31,2 MB 83%]       171 kB/s 8min. 16seg."
+    ],
+    [
+      0.500420,
+      "\r27% [13 mysql-wsrep-client-5.6 26,0 MB/31,2 MB 83%]       171 kB/s 8min. 16seg."
+    ],
+    [
+      0.501429,
+      "\r27% [13 mysql-wsrep-client-5.6 26,1 MB/31,2 MB 83%]       171 kB/s 8min. 15seg."
+    ],
+    [
+      0.500134,
+      "\r27% [13 mysql-wsrep-client-5.6 26,1 MB/31,2 MB 84%]       171 kB/s 8min. 15seg."
+    ],
+    [
+      0.500704,
+      "\r27% [13 mysql-wsrep-client-5.6 26,2 MB/31,2 MB 84%]       171 kB/s 8min. 15seg."
+    ],
+    [
+      0.500549,
+      "\r27% [13 mysql-wsrep-client-5.6 26,3 MB/31,2 MB 84%]       171 kB/s 8min. 14seg."
+    ],
+    [
+      0.500874,
+      "\r27% [13 mysql-wsrep-client-5.6 26,4 MB/31,2 MB 84%]       171 kB/s 8min. 14seg."
+    ],
+    [
+      0.500602,
+      "\r27% [13 mysql-wsrep-client-5.6 26,4 MB/31,2 MB 85%]       171 kB/s 8min. 13seg."
+    ],
+    [
+      0.500724,
+      "\r28% [13 mysql-wsrep-client-5.6 26,5 MB/31,2 MB 85%]       171 kB/s 8min. 13seg."
+    ],
+    [
+      0.501029,
+      "\r28% [13 mysql-wsrep-client-5.6 26,6 MB/31,2 MB 85%]       171 kB/s 8min. 12seg."
+    ],
+    [
+      0.500470,
+      "\r28% [13 mysql-wsrep-client-5.6 26,7 MB/31,2 MB 86%]       171 kB/s 8min. 12seg."
+    ],
+    [
+      0.500698,
+      "\r28% [13 mysql-wsrep-client-5.6 26,8 MB/31,2 MB 86%]       157 kB/s 8min. 53seg."
+    ],
+    [
+      0.500643,
+      "\r28% [13 mysql-wsrep-client-5.6 26,9 MB/31,2 MB 86%]       157 kB/s 8min. 52seg."
+    ],
+    [
+      0.500851,
+      "\r28% [13 mysql-wsrep-client-5.6 26,9 MB/31,2 MB 86%]       157 kB/s 8min. 52seg."
+    ],
+    [
+      0.500090,
+      "\r28% [13 mysql-wsrep-client-5.6 27,0 MB/31,2 MB 86%]       157 kB/s 8min. 51seg."
+    ],
+    [
+      0.500908,
+      "\r28% [13 mysql-wsrep-client-5.6 27,1 MB/31,2 MB 87%]       157 kB/s 8min. 51seg."
+    ],
+    [
+      0.500611,
+      "\r28% [13 mysql-wsrep-client-5.6 27,2 MB/31,2 MB 87%]       157 kB/s 8min. 50seg."
+    ],
+    [
+      0.500872,
+      "\r28% [13 mysql-wsrep-client-5.6 27,3 MB/31,2 MB 87%]       157 kB/s 8min. 50seg."
+    ],
+    [
+      0.501061,
+      "\r28% [13 mysql-wsrep-client-5.6 27,3 MB/31,2 MB 87%]       157 kB/s 8min. 50seg."
+    ],
+    [
+      0.500488,
+      "\r28% [13 mysql-wsrep-client-5.6 27,4 MB/31,2 MB 88%]       157 kB/s 8min. 49seg."
+    ],
+    [
+      0.500743,
+      "\r28% [13 mysql-wsrep-client-5.6 27,4 MB/31,2 MB 88%]       157 kB/s 8min. 49seg."
+    ],
+    [
+      0.500855,
+      "\r28% [13 mysql-wsrep-client-5.6 27,5 MB/31,2 MB 88%]       157 kB/s 8min. 48seg."
+    ],
+    [
+      0.500516,
+      "\r28% [13 mysql-wsrep-client-5.6 27,6 MB/31,2 MB 88%]       157 kB/s 8min. 48seg."
+    ],
+    [
+      0.500699,
+      "\r29% [13 mysql-wsrep-client-5.6 27,7 MB/31,2 MB 89%]       146 kB/s 9min. 29seg."
+    ],
+    [
+      0.500827,
+      "\r29% [13 mysql-wsrep-client-5.6 27,7 MB/31,2 MB 89%]       146 kB/s 9min. 29seg."
+    ],
+    [
+      0.500683,
+      "\r29% [13 mysql-wsrep-client-5.6 27,8 MB/31,2 MB 89%]       146 kB/s 9min. 28seg."
+    ],
+    [
+      0.500731,
+      "\r29% [13 mysql-wsrep-client-5.6 27,9 MB/31,2 MB 89%]       146 kB/s 9min. 28seg."
+    ],
+    [
+      0.500565,
+      "\r29% [13 mysql-wsrep-client-5.6 28,1 MB/31,2 MB 90%]       146 kB/s 9min. 27seg."
+    ],
+    [
+      0.500525,
+      "\r29% [13 mysql-wsrep-client-5.6 28,2 MB/31,2 MB 90%]       146 kB/s 9min. 26seg."
+    ],
+    [
+      0.500918,
+      "\r29% [13 mysql-wsrep-client-5.6 28,3 MB/31,2 MB 91%]       146 kB/s 9min. 25seg."
+    ],
+    [
+      0.500825,
+      "\r29% [13 mysql-wsrep-client-5.6 28,4 MB/31,2 MB 91%]       146 kB/s 9min. 24seg."
+    ],
+    [
+      0.501367,
+      "\r29% [13 mysql-wsrep-client-5.6 28,6 MB/31,2 MB 91%]       146 kB/s 9min. 23seg."
+    ],
+    [
+      0.500001,
+      "\r29% [13 mysql-wsrep-client-5.6 28,7 MB/31,2 MB 92%]       146 kB/s 9min. 23seg."
+    ],
+    [
+      0.500823,
+      "\r30% [13 mysql-wsrep-client-5.6 28,8 MB/31,2 MB 92%]       146 kB/s 9min. 22seg."
+    ],
+    [
+      0.500694,
+      "\r30% [13 mysql-wsrep-client-5.6 28,9 MB/31,2 MB 93%]       146 kB/s 9min. 21seg."
+    ],
+    [
+      0.500780,
+      "\r30% [13 mysql-wsrep-client-5.6 29,0 MB/31,2 MB 93%]       229 kB/s 5min. 56seg."
+    ],
+    [
+      0.500755,
+      "\r30% [13 mysql-wsrep-client-5.6 29,2 MB/31,2 MB 93%]       229 kB/s 5min. 55seg."
+    ],
+    [
+      0.500625,
+      "\r30% [13 mysql-wsrep-client-5.6 29,3 MB/31,2 MB 94%]       229 kB/s 5min. 55seg."
+    ],
+    [
+      0.500835,
+      "\r30% [13 mysql-wsrep-client-5.6 29,4 MB/31,2 MB 94%]       229 kB/s 5min. 54seg."
+    ],
+    [
+      0.500617,
+      "\r30% [13 mysql-wsrep-client-5.6 29,5 MB/31,2 MB 94%]       229 kB/s 5min. 54seg."
+    ],
+    [
+      0.500738,
+      "\r30% [13 mysql-wsrep-client-5.6 29,5 MB/31,2 MB 94%]       229 kB/s 5min. 54seg."
+    ],
+    [
+      0.500629,
+      "\r30% [13 mysql-wsrep-client-5.6 29,6 MB/31,2 MB 95%]       229 kB/s 5min. 53seg."
+    ],
+    [
+      0.500728,
+      "\r30% [13 mysql-wsrep-client-5.6 29,7 MB/31,2 MB 95%]       229 kB/s 5min. 53seg."
+    ],
+    [
+      0.500746,
+      "\r30% [13 mysql-wsrep-client-5.6 29,8 MB/31,2 MB 95%]       229 kB/s 5min. 53seg."
+    ],
+    [
+      0.500829,
+      "\r30% [13 mysql-wsrep-client-5.6 29,9 MB/31,2 MB 96%]       229 kB/s 5min. 52seg."
+    ],
+    [
+      0.500424,
+      "\r31% [13 mysql-wsrep-client-5.6 30,0 MB/31,2 MB 96%]       229 kB/s 5min. 52seg."
+    ],
+    [
+      0.500578,
+      "\r31% [13 mysql-wsrep-client-5.6 30,1 MB/31,2 MB 96%]       229 kB/s 5min. 51seg."
+    ],
+    [
+      0.501093,
+      "\r31% [13 mysql-wsrep-client-5.6 30,2 MB/31,2 MB 97%]        190 kB/s 7min. 3seg."
+    ],
+    [
+      0.500526,
+      "\r31% [13 mysql-wsrep-client-5.6 30,3 MB/31,2 MB 97%]        190 kB/s 7min. 2seg."
+    ],
+    [
+      0.500448,
+      "\r31% [13 mysql-wsrep-client-5.6 30,4 MB/31,2 MB 97%]        190 kB/s 7min. 1seg."
+    ],
+    [
+      0.500832,
+      "\r31% [13 mysql-wsrep-client-5.6 30,6 MB/31,2 MB 98%]        190 kB/s 7min. 1seg."
+    ],
+    [
+      0.500630,
+      "\r31% [13 mysql-wsrep-client-5.6 30,7 MB/31,2 MB 98%]        190 kB/s 7min. 0seg."
+    ],
+    [
+      0.500804,
+      "\r31% [13 mysql-wsrep-client-5.6 30,8 MB/31,2 MB 99%]       190 kB/s 6min. 59seg."
+    ],
+    [
+      0.501121,
+      "\r31% [13 mysql-wsrep-client-5.6 31,0 MB/31,2 MB 99%]       190 kB/s 6min. 59seg."
+    ],
+    [
+      0.500746,
+      "\r32% [13 mysql-wsrep-client-5.6 31,1 MB/31,2 MB 100%]      190 kB/s 6min. 58seg."
+    ],
+    [
+      0.306275,
+      "\r32% [Trabajando]                                          190 kB/s 6min. 57seg."
+    ],
+    [
+      0.164612,
+      "\r                                                                               \rDes:14 http://releases.galeracluster.com/debian/ wheezy/main mysql-wsrep-server-5.6 amd64 5.6.23-25.10-1wheezy [62,8 MB]\r\n32% [14 mysql-wsrep-server-5.6 0 B/62,8 MB 0%]       "
+    ],
+    [
+      0.000328,
+      "     190 kB/s 6min. 57seg."
+    ],
+    [
+      0.499803,
+      "\r32% [14 mysql-wsrep-server-5.6 86,5 kB/62,8 MB 0%]        190 kB/s 6min. 57seg."
+    ],
+    [
+      0.500667,
+      "\r32% [14 mysql-wsrep-server-5.6 148 kB/62,8 MB 0%]         190 kB/s 6min. 56seg."
+    ],
+    [
+      0.500577,
+      "\r32% [14 mysql-wsrep-server-5.6 204 kB/62,8 MB 0%]         190 kB/s 6min. 56seg."
+    ],
+    [
+      0.500887,
+      "\r32% [14 mysql-wsrep-server-5.6 263 kB/62,8 MB 0%]         190 kB/s 6min. 56seg."
+    ],
+    [
+      0.500717,
+      "\r32% [14 mysql-wsrep-server-5.6 336 kB/62,8 MB 1%]          215 kB/s 6min. 7seg."
+    ],
+    [
+      0.500620,
+      "\r32% [14 mysql-wsrep-server-5.6 414 kB/62,8 MB 1%]          215 kB/s 6min. 7seg."
+    ],
+    [
+      0.501215,
+      "\r32% [14 mysql-wsrep-server-5.6 490 kB/62,8 MB 1%]          215 kB/s 6min. 7seg."
+    ],
+    [
+      0.500099,
+      "\r32% [14 mysql-wsrep-server-5.6 571 kB/62,8 MB 1%]          215 kB/s 6min. 6seg."
+    ],
+    [
+      0.500685,
+      "\r32% [14 mysql-wsrep-server-5.6 655 kB/62,8 MB 1%]          215 kB/s 6min. 6seg."
+    ],
+    [
+      0.500769,
+      "\r32% [14 mysql-wsrep-server-5.6 745 kB/62,8 MB 1%]          215 kB/s 6min. 5seg."
+    ],
+    [
+      0.500784,
+      "\r32% [14 mysql-wsrep-server-5.6 851 kB/62,8 MB 1%]          215 kB/s 6min. 5seg."
+    ],
+    [
+      0.500709,
+      "\r32% [14 mysql-wsrep-server-5.6 969 kB/62,8 MB 2%]          215 kB/s 6min. 4seg."
+    ],
+    [
+      0.500745,
+      "\r33% [14 mysql-wsrep-server-5.6 1.075 kB/62,8 MB 2%]        215 kB/s 6min. 4seg."
+    ],
+    [
+      0.500952,
+      "\r33% [14 mysql-wsrep-server-5.6 1.193 kB/62,8 MB 2%]        215 kB/s 6min. 3seg."
+    ],
+    [
+      0.500244,
+      "\r33% [14 mysql-wsrep-server-5.6 1.330 kB/62,8 MB 2%]        215 kB/s 6min. 3seg."
+    ],
+    [
+      0.501017,
+      "\r33% [14 mysql-wsrep-server-5.6 1.467 kB/62,8 MB 2%]        215 kB/s 6min. 2seg."
+    ],
+    [
+      0.500647,
+      "\r33% [14 mysql-wsrep-server-5.6 1.618 kB/62,8 MB 3%]        213 kB/s 6min. 4seg."
+    ],
+    [
+      0.500517,
+      "\r33% [14 mysql-wsrep-server-5.6 1.746 kB/62,8 MB 3%]        213 kB/s 6min. 3seg."
+    ],
+    [
+      0.500830,
+      "\r33% [14 mysql-wsrep-server-5.6 1.894 kB/62,8 MB 3%]        213 kB/s 6min. 3seg."
+    ],
+    [
+      0.500625,
+      "\r33% [14 mysql-wsrep-server-5.6 2.045 kB/62,8 MB 3%]        213 kB/s 6min. 2seg."
+    ],
+    [
+      0.501065,
+      "\r34% [14 mysql-wsrep-server-5.6 2.202 kB/62,8 MB 4%]        213 kB/s 6min. 1seg."
+    ],
+    [
+      0.500086,
+      "\r34% [14 mysql-wsrep-server-5.6 2.364 kB/62,8 MB 4%]        213 kB/s 6min. 1seg."
+    ],
+    [
+      0.500830,
+      "\r34% [14 mysql-wsrep-server-5.6 2.544 kB/62,8 MB 4%]        213 kB/s 6min. 0seg."
+    ],
+    [
+      0.500599,
+      "\r34% [14 mysql-wsrep-server-5.6 2.740 kB/62,8 MB 4%]       213 kB/s 5min. 59seg."
+    ],
+    [
+      0.500786,
+      "\r34% [14 mysql-wsrep-server-5.6 2.947 kB/62,8 MB 5%]       213 kB/s 5min. 58seg."
+    ],
+    [
+      0.500692,
+      "\r34% [14 mysql-wsrep-server-5.6 3.174 kB/62,8 MB 5%]       213 kB/s 5min. 57seg."
+    ],
+    [
+      0.500629,
+      "\r35% [14 mysql-wsrep-server-5.6 3.414 kB/62,8 MB 5%]       213 kB/s 5min. 56seg."
+    ],
+    [
+      0.500661,
+      "\r35% [14 mysql-wsrep-server-5.6 3.672 kB/62,8 MB 6%]       213 kB/s 5min. 54seg."
+    ],
+    [
+      0.500776,
+      "\r35% [14 mysql-wsrep-server-5.6 3.916 kB/62,8 MB 6%]       382 kB/s 3min. 17seg."
+    ],
+    [
+      0.500783,
+      "\r35% [14 mysql-wsrep-server-5.6 4.131 kB/62,8 MB 7%]       382 kB/s 3min. 16seg."
+    ],
+    [
+      0.500524,
+      "\r35% [14 mysql-wsrep-server-5.6 4.330 kB/62,8 MB 7%]       382 kB/s 3min. 16seg."
+    ],
+    [
+      0.500696,
+      "\r36% [14 mysql-wsrep-server-5.6 4.540 kB/62,8 MB 7%]       382 kB/s 3min. 15seg."
+    ],
+    [
+      0.501053,
+      "\r36% [14 mysql-wsrep-server-5.6 4.753 kB/62,8 MB 8%]       382 kB/s 3min. 15seg."
+    ],
+    [
+      0.500608,
+      "\r36% [14 mysql-wsrep-server-5.6 4.988 kB/62,8 MB 8%]       382 kB/s 3min. 14seg."
+    ],
+    [
+      0.500664,
+      "\r36% [14 mysql-wsrep-server-5.6 5.198 kB/62,8 MB 8%]       382 kB/s 3min. 14seg."
+    ],
+    [
+      0.500876,
+      "\r36% [14 mysql-wsrep-server-5.6 5.397 kB/62,8 MB 9%]       382 kB/s 3min. 13seg."
+    ],
+    [
+      0.500729,
+      "\r36% [14 mysql-wsrep-server-5.6 5.632 kB/62,8 MB 9%]       382 kB/s 3min. 12seg."
+    ],
+    [
+      0.501096,
+      "\r37% [14 mysql-wsrep-server-5.6 5.881 kB/62,8 MB 9%]       382 kB/s 3min. 12seg."
+    ],
+    [
+      0.053855,
+      "^[[1;5B"
+    ],
+    [
+      0.446407,
+      "\r37% [14 mysql-wsrep-server-5.6 6.122 kB/62,8 MB 10%]      382 kB/s 3min. 11seg."
+    ],
+    [
+      0.501119,
+      "\r37% [14 mysql-wsrep-server-5.6 6.329 kB/62,8 MB 10%]      382 kB/s 3min. 11seg."
+    ],
+    [
+      0.500687,
+      "\r37% [14 mysql-wsrep-server-5.6 6.494 kB/62,8 MB 10%]      429 kB/s 2min. 49seg."
+    ],
+    [
+      0.057543,
+      "^[[1;5A"
+    ],
+    [
+      0.442784,
+      "\r37% [14 mysql-wsrep-server-5.6 6.646 kB/62,8 MB 11%]      429 kB/s 2min. 49seg."
+    ],
+    [
+      0.500914,
+      "\r37% [14 mysql-wsrep-server-5.6 6.788 kB/62,8 MB 11%]      429 kB/s 2min. 49seg."
+    ],
+    [
+      0.501085,
+      "\r38% [14 mysql-wsrep-server-5.6 6.937 kB/62,8 MB 11%]      429 kB/s 2min. 48seg."
+    ],
+    [
+      0.500521,
+      "\r38% [14 mysql-wsrep-server-5.6 7.088 kB/62,8 MB 11%]      429 kB/s 2min. 48seg."
+    ],
+    [
+      0.500410,
+      "\r38% [14 mysql-wsrep-server-5.6 7.203 kB/62,8 MB 11%]      429 kB/s 2min. 48seg."
+    ],
+    [
+      0.500452,
+      "\r38% [14 mysql-wsrep-server-5.6 7.320 kB/62,8 MB 12%]      429 kB/s 2min. 48seg."
+    ],
+    [
+      0.500977,
+      "\r38% [14 mysql-wsrep-server-5.6 7.449 kB/62,8 MB 12%]      429 kB/s 2min. 47seg."
+    ],
+    [
+      0.500667,
+      "\r38% [14 mysql-wsrep-server-5.6 7.589 kB/62,8 MB 12%]      429 kB/s 2min. 47seg."
+    ],
+    [
+      0.500677,
+      "\r38% [14 mysql-wsrep-server-5.6 7.746 kB/62,8 MB 12%]      429 kB/s 2min. 47seg."
+    ],
+    [
+      0.500592,
+      "\r38% [14 mysql-wsrep-server-5.6 7.892 kB/62,8 MB 13%]      429 kB/s 2min. 46seg."
+    ],
+    [
+      0.500703,
+      "\r39% [14 mysql-wsrep-server-5.6 8.015 kB/62,8 MB 13%]      429 kB/s 2min. 46seg."
+    ],
+    [
+      0.500816,
+      "\r39% [14 mysql-wsrep-server-5.6 8.118 kB/62,8 MB 13%]      270 kB/s 4min. 23seg."
+    ],
+    [
+      0.500657,
+      "\r39% [14 mysql-wsrep-server-5.6 8.244 kB/62,8 MB 13%]      270 kB/s 4min. 23seg."
+    ],
+    [
+      0.500963,
+      "\r39% [14 mysql-wsrep-server-5.6 8.382 kB/62,8 MB 13%]      270 kB/s 4min. 22seg."
+    ],
+    [
+      0.500246,
+      "\r39% [14 mysql-wsrep-server-5.6 8.494 kB/62,8 MB 14%]      270 kB/s 4min. 22seg."
+    ],
+    [
+      0.500641,
+      "\r39% [14 mysql-wsrep-server-5.6 8.611 kB/62,8 MB 14%]      270 kB/s 4min. 21seg."
+    ],
+    [
+      0.500886,
+      "\r39% [14 mysql-wsrep-server-5.6 8.739 kB/62,8 MB 14%]      270 kB/s 4min. 21seg."
+    ],
+    [
+      0.500724,
+      "\r39% [14 mysql-wsrep-server-5.6 8.835 kB/62,8 MB 14%]      270 kB/s 4min. 21seg."
+    ],
+    [
+      0.500542,
+      "\r39% [14 mysql-wsrep-server-5.6 8.936 kB/62,8 MB 14%]      270 kB/s 4min. 20seg."
+    ],
+    [
+      0.500831,
+      "\r39% [14 mysql-wsrep-server-5.6 9.051 kB/62,8 MB 14%]      270 kB/s 4min. 20seg."
+    ],
+    [
+      0.500645,
+      "\r40% [14 mysql-wsrep-server-5.6 9.180 kB/62,8 MB 15%]      270 kB/s 4min. 19seg."
+    ],
+    [
+      0.500594,
+      "\r40% [14 mysql-wsrep-server-5.6 9.283 kB/62,8 MB 15%]      270 kB/s 4min. 19seg."
+    ],
+    [
+      0.500730,
+      "\r40% [14 mysql-wsrep-server-5.6 9.384 kB/62,8 MB 15%]      270 kB/s 4min. 19seg."
+    ],
+    [
+      0.500798,
+      "\r40% [14 mysql-wsrep-server-5.6 9.490 kB/62,8 MB 15%]       228 kB/s 5min. 6seg."
+    ],
+    [
+      0.500750,
+      "\r40% [14 mysql-wsrep-server-5.6 9.608 kB/62,8 MB 15%]       228 kB/s 5min. 5seg."
+    ],
+    [
+      0.500802,
+      "\r40% [14 mysql-wsrep-server-5.6 9.745 kB/62,8 MB 16%]       228 kB/s 5min. 5seg."
+    ],
+    [
+      0.500558,
+      "\r40% [14 mysql-wsrep-server-5.6 9.866 kB/62,8 MB 16%]       228 kB/s 5min. 4seg."
+    ],
+    [
+      0.500621,
+      "\r40% [14 mysql-wsrep-server-5.6 9.980 kB/62,8 MB 16%]       228 kB/s 5min. 4seg."
+    ],
+    [
+      0.500644,
+      "\r40% [14 mysql-wsrep-server-5.6 10,1 MB/62,8 MB 16%]        228 kB/s 5min. 3seg."
+    ],
+    [
+      0.500725,
+      "\r40% [14 mysql-wsrep-server-5.6 10,2 MB/62,8 MB 16%]        228 kB/s 5min. 3seg."
+    ],
+    [
+      0.500760,
+      "\r40% [14 mysql-wsrep-server-5.6 10,3 MB/62,8 MB 16%]        228 kB/s 5min. 2seg."
+    ],
+    [
+      0.500672,
+      "\r41% [14 mysql-wsrep-server-5.6 10,4 MB/62,8 MB 17%]        228 kB/s 5min. 2seg."
+    ],
+    [
+      0.502563,
+      "\r41% [14 mysql-wsrep-server-5.6 10,5 MB/62,8 MB 17%]        228 kB/s 5min. 1seg."
+    ],
+    [
+      0.500013,
+      "\r41% [14 mysql-wsrep-server-5.6 10,6 MB/62,8 MB 17%]        228 kB/s 5min. 1seg."
+    ],
+    [
+      0.499996,
+      "\r41% [14 mysql-wsrep-server-5.6 10,7 MB/62,8 MB 17%]        228 kB/s 5min. 0seg."
+    ],
+    [
+      0.500064,
+      "\r41% [14 mysql-wsrep-server-5.6 10,8 MB/62,8 MB 17%]        222 kB/s 5min. 8seg."
+    ],
+    [
+      0.500502,
+      "\r41% [14 mysql-wsrep-server-5.6 11,0 MB/62,8 MB 17%]        222 kB/s 5min. 7seg."
+    ],
+    [
+      0.501421,
+      "\r41% [14 mysql-wsrep-server-5.6 11,1 MB/62,8 MB 18%]        222 kB/s 5min. 7seg."
+    ],
+    [
+      0.500297,
+      "\r41% [14 mysql-wsrep-server-5.6 11,3 MB/62,8 MB 18%]        222 kB/s 5min. 6seg."
+    ],
+    [
+      0.500831,
+      "\r41% [14 mysql-wsrep-server-5.6 11,4 MB/62,8 MB 18%]        222 kB/s 5min. 6seg."
+    ],
+    [
+      0.500479,
+      "\r42% [14 mysql-wsrep-server-5.6 11,6 MB/62,8 MB 18%]        222 kB/s 5min. 5seg."
+    ],
+    [
+      0.500473,
+      "\r42% [14 mysql-wsrep-server-5.6 11,7 MB/62,8 MB 19%]        222 kB/s 5min. 4seg."
+    ],
+    [
+      0.500600,
+      "\r42% [14 mysql-wsrep-server-5.6 11,8 MB/62,8 MB 19%]        222 kB/s 5min. 4seg."
+    ],
+    [
+      0.500880,
+      "\r42% [14 mysql-wsrep-server-5.6 11,9 MB/62,8 MB 19%]        222 kB/s 5min. 3seg."
+    ],
+    [
+      0.501299,
+      "\r42% [14 mysql-wsrep-server-5.6 12,1 MB/62,8 MB 19%]        222 kB/s 5min. 3seg."
+    ],
+    [
+      0.501872,
+      "\r42% [14 mysql-wsrep-server-5.6 12,2 MB/62,8 MB 19%]        222 kB/s 5min. 2seg."
+    ],
+    [
+      0.498818,
+      "\r42% [14 mysql-wsrep-server-5.6 12,4 MB/62,8 MB 20%]        222 kB/s 5min. 1seg."
+    ],
+    [
+      0.500855,
+      "\r42% [14 mysql-wsrep-server-5.6 12,5 MB/62,8 MB 20%]       281 kB/s 3min. 57seg."
+    ],
+    [
+      0.500591,
+      "\r43% [14 mysql-wsrep-server-5.6 12,7 MB/62,8 MB 20%]       281 kB/s 3min. 57seg."
+    ],
+    [
+      0.500484,
+      "\r43% [14 mysql-wsrep-server-5.6 12,9 MB/62,8 MB 21%]       281 kB/s 3min. 56seg."
+    ],
+    [
+      0.500952,
+      "\r43% [14 mysql-wsrep-server-5.6 13,1 MB/62,8 MB 21%]       281 kB/s 3min. 55seg."
+    ],
+    [
+      0.500444,
+      "\r43% [14 mysql-wsrep-server-5.6 13,3 MB/62,8 MB 21%]       281 kB/s 3min. 54seg."
+    ],
+    [
+      0.500993,
+      "\r43% [14 mysql-wsrep-server-5.6 13,5 MB/62,8 MB 21%]       281 kB/s 3min. 54seg."
+    ],
+    [
+      0.500711,
+      "\r43% [14 mysql-wsrep-server-5.6 13,7 MB/62,8 MB 22%]       281 kB/s 3min. 53seg."
+    ],
+    [
+      0.500591,
+      "\r44% [14 mysql-wsrep-server-5.6 13,8 MB/62,8 MB 22%]       281 kB/s 3min. 52seg."
+    ],
+    [
+      0.500645,
+      "\r44% [14 mysql-wsrep-server-5.6 14,0 MB/62,8 MB 22%]       281 kB/s 3min. 52seg."
+    ],
+    [
+      0.500787,
+      "\r44% [14 mysql-wsrep-server-5.6 14,1 MB/62,8 MB 23%]       281 kB/s 3min. 51seg."
+    ],
+    [
+      0.500997,
+      "\r44% [14 mysql-wsrep-server-5.6 14,3 MB/62,8 MB 23%]       281 kB/s 3min. 51seg."
+    ],
+    [
+      0.500570,
+      "\r44% [14 mysql-wsrep-server-5.6 14,5 MB/62,8 MB 23%]       281 kB/s 3min. 50seg."
+    ],
+    [
+      0.500598,
+      "\r44% [14 mysql-wsrep-server-5.6 14,7 MB/62,8 MB 23%]        358 kB/s 3min. 0seg."
+    ],
+    [
+      0.500629,
+      "\r44% [14 mysql-wsrep-server-5.6 14,9 MB/62,8 MB 24%]        358 kB/s 3min. 0seg."
+    ],
+    [
+      0.500790,
+      "\r45% [14 mysql-wsrep-server-5.6 15,0 MB/62,8 MB 24%]       358 kB/s 2min. 59seg."
+    ],
+    [
+      0.500646,
+      "\r45% [14 mysql-wsrep-server-5.6 15,1 MB/62,8 MB 24%]       358 kB/s 2min. 59seg."
+    ],
+    [
+      0.500516,
+      "\r45% [14 mysql-wsrep-server-5.6 15,3 MB/62,8 MB 24%]       358 kB/s 2min. 59seg."
+    ],
+    [
+      0.500913,
+      "\r45% [14 mysql-wsrep-server-5.6 15,4 MB/62,8 MB 25%]       358 kB/s 2min. 58seg."
+    ],
+    [
+      0.500628,
+      "\r45% [14 mysql-wsrep-server-5.6 15,6 MB/62,8 MB 25%]       358 kB/s 2min. 58seg."
+    ],
+    [
+      0.500784,
+      "\r45% [14 mysql-wsrep-server-5.6 15,8 MB/62,8 MB 25%]       358 kB/s 2min. 57seg."
+    ],
+    [
+      0.500536,
+      "\r45% [14 mysql-wsrep-server-5.6 16,0 MB/62,8 MB 25%]       358 kB/s 2min. 57seg."
+    ],
+    [
+      0.500590,
+      "\r45% [14 mysql-wsrep-server-5.6 16,1 MB/62,8 MB 26%]       358 kB/s 2min. 56seg."
+    ],
+    [
+      0.500762,
+      "\r46% [14 mysql-wsrep-server-5.6 16,3 MB/62,8 MB 26%]       358 kB/s 2min. 56seg."
+    ],
+    [
+      0.500744,
+      "\r46% [14 mysql-wsrep-server-5.6 16,5 MB/62,8 MB 26%]       358 kB/s 2min. 55seg."
+    ],
+    [
+      0.500933,
+      "\r46% [14 mysql-wsrep-server-5.6 16,6 MB/62,8 MB 26%]       317 kB/s 3min. 18seg."
+    ],
+    [
+      0.500409,
+      "\r46% [14 mysql-wsrep-server-5.6 16,7 MB/62,8 MB 27%]       317 kB/s 3min. 17seg."
+    ],
+    [
+      0.500689,
+      "\r46% [14 mysql-wsrep-server-5.6 16,8 MB/62,8 MB 27%]       317 kB/s 3min. 17seg."
+    ],
+    [
+      0.500830,
+      "\r46% [14 mysql-wsrep-server-5.6 16,9 MB/62,8 MB 27%]       317 kB/s 3min. 17seg."
+    ],
+    [
+      0.500735,
+      "\r46% [14 mysql-wsrep-server-5.6 17,1 MB/62,8 MB 27%]       317 kB/s 3min. 16seg."
+    ],
+    [
+      0.500677,
+      "\r46% [14 mysql-wsrep-server-5.6 17,2 MB/62,8 MB 27%]       317 kB/s 3min. 16seg."
+    ],
+    [
+      0.500943,
+      "\r46% [14 mysql-wsrep-server-5.6 17,3 MB/62,8 MB 28%]       317 kB/s 3min. 16seg."
+    ],
+    [
+      0.500668,
+      "\r47% [14 mysql-wsrep-server-5.6 17,4 MB/62,8 MB 28%]       317 kB/s 3min. 15seg."
+    ],
+    [
+      0.500813,
+      "\r47% [14 mysql-wsrep-server-5.6 17,5 MB/62,8 MB 28%]       317 kB/s 3min. 15seg."
+    ],
+    [
+      0.500629,
+      "\r47% [14 mysql-wsrep-server-5.6 17,7 MB/62,8 MB 28%]       317 kB/s 3min. 14seg."
+    ],
+    [
+      0.501023,
+      "\r47% [14 mysql-wsrep-server-5.6 17,8 MB/62,8 MB 28%]       317 kB/s 3min. 14seg."
+    ],
+    [
+      0.500561,
+      "\r47% [14 mysql-wsrep-server-5.6 17,9 MB/62,8 MB 29%]       317 kB/s 3min. 14seg."
+    ],
+    [
+      0.500937,
+      "\r47% [14 mysql-wsrep-server-5.6 18,0 MB/62,8 MB 29%]        246 kB/s 4min. 9seg."
+    ],
+    [
+      0.500671,
+      "\r47% [14 mysql-wsrep-server-5.6 18,2 MB/62,8 MB 29%]        246 kB/s 4min. 9seg."
+    ],
+    [
+      0.500156,
+      "\r47% [14 mysql-wsrep-server-5.6 18,3 MB/62,8 MB 29%]        246 kB/s 4min. 9seg."
+    ],
+    [
+      0.500877,
+      "\r47% [14 mysql-wsrep-server-5.6 18,4 MB/62,8 MB 29%]        246 kB/s 4min. 8seg."
+    ],
+    [
+      0.500880,
+      "\r48% [14 mysql-wsrep-server-5.6 18,5 MB/62,8 MB 29%]        246 kB/s 4min. 7seg."
+    ],
+    [
+      0.500564,
+      "\r48% [14 mysql-wsrep-server-5.6 18,6 MB/62,8 MB 30%]        246 kB/s 4min. 7seg."
+    ],
+    [
+      0.500450,
+      "\r48% [14 mysql-wsrep-server-5.6 18,7 MB/62,8 MB 30%]        246 kB/s 4min. 7seg."
+    ],
+    [
+      0.500830,
+      "\r48% [14 mysql-wsrep-server-5.6 18,8 MB/62,8 MB 30%]        246 kB/s 4min. 6seg."
+    ],
+    [
+      0.500676,
+      "\r48% [14 mysql-wsrep-server-5.6 18,9 MB/62,8 MB 30%]        246 kB/s 4min. 6seg."
+    ],
+    [
+      0.500795,
+      "\r48% [14 mysql-wsrep-server-5.6 19,0 MB/62,8 MB 30%]        246 kB/s 4min. 6seg."
+    ],
+    [
+      0.500614,
+      "\r48% [14 mysql-wsrep-server-5.6 19,1 MB/62,8 MB 30%]        246 kB/s 4min. 5seg."
+    ],
+    [
+      0.500755,
+      "\r48% [14 mysql-wsrep-server-5.6 19,2 MB/62,8 MB 31%]        246 kB/s 4min. 5seg."
+    ],
+    [
+      0.500735,
+      "\r48% [14 mysql-wsrep-server-5.6 19,3 MB/62,8 MB 31%]       207 kB/s 4min. 50seg."
+    ],
+    [
+      0.500754,
+      "\r48% [14 mysql-wsrep-server-5.6 19,4 MB/62,8 MB 31%]       207 kB/s 4min. 49seg."
+    ],
+    [
+      0.500657,
+      "\r48% [14 mysql-wsrep-server-5.6 19,5 MB/62,8 MB 31%]       207 kB/s 4min. 49seg."
+    ],
+    [
+      0.500611,
+      "\r49% [14 mysql-wsrep-server-5.6 19,7 MB/62,8 MB 31%]       207 kB/s 4min. 48seg."
+    ],
+    [
+      0.501199,
+      "\r49% [14 mysql-wsrep-server-5.6 19,8 MB/62,8 MB 32%]       207 kB/s 4min. 48seg."
+    ],
+    [
+      0.500428,
+      "\r49% [14 mysql-wsrep-server-5.6 19,9 MB/62,8 MB 32%]       207 kB/s 4min. 47seg."
+    ],
+    [
+      0.500439,
+      "\r49% [14 mysql-wsrep-server-5.6 20,0 MB/62,8 MB 32%]       207 kB/s 4min. 46seg."
+    ],
+    [
+      0.500795,
+      "\r49% [14 mysql-wsrep-server-5.6 20,2 MB/62,8 MB 32%]       207 kB/s 4min. 46seg."
+    ],
+    [
+      0.500694,
+      "\r49% [14 mysql-wsrep-server-5.6 20,3 MB/62,8 MB 32%]       207 kB/s 4min. 45seg."
+    ],
+    [
+      0.500784,
+      "\r49% [14 mysql-wsrep-server-5.6 20,5 MB/62,8 MB 33%]       207 kB/s 4min. 44seg."
+    ],
+    [
+      0.500679,
+      "\r49% [14 mysql-wsrep-server-5.6 20,6 MB/62,8 MB 33%]       207 kB/s 4min. 44seg."
+    ],
+    [
+      0.500538,
+      "\r49% [14 mysql-wsrep-server-5.6 20,8 MB/62,8 MB 33%]       207 kB/s 4min. 43seg."
+    ],
+    [
+      0.500850,
+      "\r50% [14 mysql-wsrep-server-5.6 20,9 MB/62,8 MB 33%]       271 kB/s 3min. 35seg."
+    ],
+    [
+      0.500868,
+      "\r50% [14 mysql-wsrep-server-5.6 21,1 MB/62,8 MB 34%]       271 kB/s 3min. 35seg."
+    ],
+    [
+      0.500537,
+      "\r50% [14 mysql-wsrep-server-5.6 21,2 MB/62,8 MB 34%]       271 kB/s 3min. 34seg."
+    ],
+    [
+      0.500431,
+      "\r50% [14 mysql-wsrep-server-5.6 21,4 MB/62,8 MB 34%]       271 kB/s 3min. 34seg."
+    ],
+    [
+      0.500834,
+      "\r50% [14 mysql-wsrep-server-5.6 21,5 MB/62,8 MB 34%]       271 kB/s 3min. 33seg."
+    ],
+    [
+      0.500895,
+      "\r50% [14 mysql-wsrep-server-5.6 21,6 MB/62,8 MB 34%]       271 kB/s 3min. 33seg."
+    ],
+    [
+      0.500389,
+      "\r50% [14 mysql-wsrep-server-5.6 21,8 MB/62,8 MB 35%]       271 kB/s 3min. 32seg."
+    ],
+    [
+      0.500860,
+      "\r50% [14 mysql-wsrep-server-5.6 21,9 MB/62,8 MB 35%]       271 kB/s 3min. 32seg."
+    ],
+    [
+      0.523489,
+      "\r51% [14 mysql-wsrep-server-5.6 22,0 MB/62,8 MB 35%]       271 kB/s 3min. 31seg."
+    ],
+    [
+      0.531160,
+      "\r51% [14 mysql-wsrep-server-5.6 22,2 MB/62,8 MB 35%]       271 kB/s 3min. 31seg."
+    ],
+    [
+      0.447460,
+      "\r51% [14 mysql-wsrep-server-5.6 22,3 MB/62,8 MB 35%]       271 kB/s 3min. 30seg."
+    ],
+    [
+      0.500606,
+      "\r51% [14 mysql-wsrep-server-5.6 22,4 MB/62,8 MB 36%]       271 kB/s 3min. 30seg."
+    ],
+    [
+      0.500665,
+      "\r51% [14 mysql-wsrep-server-5.6 22,6 MB/62,8 MB 36%]       275 kB/s 3min. 26seg."
+    ],
+    [
+      0.500832,
+      "\r51% [14 mysql-wsrep-server-5.6 22,7 MB/62,8 MB 36%]       275 kB/s 3min. 25seg."
+    ],
+    [
+      0.500527,
+      "\r51% [14 mysql-wsrep-server-5.6 22,9 MB/62,8 MB 36%]       275 kB/s 3min. 25seg."
+    ],
+    [
+      0.500531,
+      "\r51% [14 mysql-wsrep-server-5.6 23,1 MB/62,8 MB 37%]       275 kB/s 3min. 24seg."
+    ],
+    [
+      0.501545,
+      "\r52% [14 mysql-wsrep-server-5.6 23,3 MB/62,8 MB 37%]       275 kB/s 3min. 23seg."
+    ],
+    [
+      0.500247,
+      "\r52% [14 mysql-wsrep-server-5.6 23,5 MB/62,8 MB 37%]       275 kB/s 3min. 23seg."
+    ],
+    [
+      0.500936,
+      "\r52% [14 mysql-wsrep-server-5.6 23,7 MB/62,8 MB 38%]       275 kB/s 3min. 22seg."
+    ],
+    [
+      0.500478,
+      "\r52% [14 mysql-wsrep-server-5.6 23,9 MB/62,8 MB 38%]       275 kB/s 3min. 21seg."
+    ],
+    [
+      0.500587,
+      "\r52% [14 mysql-wsrep-server-5.6 24,1 MB/62,8 MB 38%]       275 kB/s 3min. 20seg."
+    ],
+    [
+      0.500807,
+      "\r52% [14 mysql-wsrep-server-5.6 24,2 MB/62,8 MB 39%]       275 kB/s 3min. 20seg."
+    ],
+    [
+      0.500637,
+      "\r53% [14 mysql-wsrep-server-5.6 24,4 MB/62,8 MB 39%]       275 kB/s 3min. 19seg."
+    ],
+    [
+      0.500464,
+      "\r53% [14 mysql-wsrep-server-5.6 24,5 MB/62,8 MB 39%]       275 kB/s 3min. 19seg."
+    ],
+    [
+      0.500990,
+      "\r53% [14 mysql-wsrep-server-5.6 24,6 MB/62,8 MB 39%]       336 kB/s 2min. 43seg."
+    ],
+    [
+      0.500726,
+      "\r53% [14 mysql-wsrep-server-5.6 24,7 MB/62,8 MB 39%]       336 kB/s 2min. 42seg."
+    ],
+    [
+      0.500810,
+      "\r53% [14 mysql-wsrep-server-5.6 24,8 MB/62,8 MB 40%]       336 kB/s 2min. 42seg."
+    ],
+    [
+      0.500699,
+      "\r53% [14 mysql-wsrep-server-5.6 24,9 MB/62,8 MB 40%]       336 kB/s 2min. 42seg."
+    ],
+    [
+      0.500690,
+      "\r53% [14 mysql-wsrep-server-5.6 25,0 MB/62,8 MB 40%]       336 kB/s 2min. 41seg."
+    ],
+    [
+      0.500480,
+      "\r53% [14 mysql-wsrep-server-5.6 25,1 MB/62,8 MB 40%]       336 kB/s 2min. 41seg."
+    ],
+    [
+      0.500872,
+      "\r53% [14 mysql-wsrep-server-5.6 25,2 MB/62,8 MB 40%]       336 kB/s 2min. 41seg."
+    ],
+    [
+      0.500714,
+      "\r53% [14 mysql-wsrep-server-5.6 25,4 MB/62,8 MB 40%]       336 kB/s 2min. 40seg."
+    ],
+    [
+      0.500685,
+      "\r54% [14 mysql-wsrep-server-5.6 25,5 MB/62,8 MB 41%]       336 kB/s 2min. 40seg."
+    ],
+    [
+      0.501632,
+      "\r54% [14 mysql-wsrep-server-5.6 25,6 MB/62,8 MB 41%]       336 kB/s 2min. 40seg."
+    ],
+    [
+      0.501503,
+      "\r54% [14 mysql-wsrep-server-5.6 25,8 MB/62,8 MB 41%]       336 kB/s 2min. 39seg."
+    ],
+    [
+      0.498907,
+      "\r54% [14 mysql-wsrep-server-5.6 25,9 MB/62,8 MB 41%]       336 kB/s 2min. 39seg."
+    ],
+    [
+      0.501088,
+      "\r54% [14 mysql-wsrep-server-5.6 26,1 MB/62,8 MB 42%]       246 kB/s 3min. 36seg."
+    ],
+    [
+      0.500421,
+      "\r54% [14 mysql-wsrep-server-5.6 26,2 MB/62,8 MB 42%]       246 kB/s 3min. 36seg."
+    ],
+    [
+      0.500802,
+      "\r54% [14 mysql-wsrep-server-5.6 26,3 MB/62,8 MB 42%]       246 kB/s 3min. 35seg."
+    ],
+    [
+      0.500491,
+      "\r54% [14 mysql-wsrep-server-5.6 26,4 MB/62,8 MB 42%]       246 kB/s 3min. 35seg."
+    ],
+    [
+      0.500817,
+      "\r54% [14 mysql-wsrep-server-5.6 26,5 MB/62,8 MB 42%]       246 kB/s 3min. 35seg."
+    ],
+    [
+      0.500876,
+      "\r55% [14 mysql-wsrep-server-5.6 26,6 MB/62,8 MB 42%]       246 kB/s 3min. 34seg."
+    ],
+    [
+      0.500843,
+      "\r55% [14 mysql-wsrep-server-5.6 26,7 MB/62,8 MB 43%]       246 kB/s 3min. 34seg."
+    ],
+    [
+      0.500380,
+      "\r55% [14 mysql-wsrep-server-5.6 26,8 MB/62,8 MB 43%]       246 kB/s 3min. 33seg."
+    ],
+    [
+      0.500778,
+      "\r55% [14 mysql-wsrep-server-5.6 27,0 MB/62,8 MB 43%]       246 kB/s 3min. 33seg."
+    ],
+    [
+      0.500779,
+      "\r55% [14 mysql-wsrep-server-5.6 27,1 MB/62,8 MB 43%]       246 kB/s 3min. 32seg."
+    ],
+    [
+      0.500587,
+      "\r55% [14 mysql-wsrep-server-5.6 27,3 MB/62,8 MB 43%]       246 kB/s 3min. 31seg."
+    ],
+    [
+      0.500717,
+      "\r55% [14 mysql-wsrep-server-5.6 27,5 MB/62,8 MB 44%]       246 kB/s 3min. 31seg."
+    ],
+    [
+      0.500618,
+      "\r55% [14 mysql-wsrep-server-5.6 27,6 MB/62,8 MB 44%]       254 kB/s 3min. 23seg."
+    ],
+    [
+      0.500799,
+      "\r55% [14 mysql-wsrep-server-5.6 27,7 MB/62,8 MB 44%]       254 kB/s 3min. 23seg."
+    ],
+    [
+      0.500334,
+      "\r56% [14 mysql-wsrep-server-5.6 27,8 MB/62,8 MB 44%]       254 kB/s 3min. 22seg."
+    ],
+    [
+      0.500849,
+      "\r56% [14 mysql-wsrep-server-5.6 27,9 MB/62,8 MB 44%]       254 kB/s 3min. 22seg."
+    ],
+    [
+      0.500836,
+      "\r56% [14 mysql-wsrep-server-5.6 28,0 MB/62,8 MB 45%]       254 kB/s 3min. 21seg."
+    ],
+    [
+      0.500667,
+      "\r56% [14 mysql-wsrep-server-5.6 28,2 MB/62,8 MB 45%]       254 kB/s 3min. 21seg."
+    ],
+    [
+      0.500692,
+      "\r56% [14 mysql-wsrep-server-5.6 28,3 MB/62,8 MB 45%]       254 kB/s 3min. 20seg."
+    ],
+    [
+      0.500956,
+      "\r56% [14 mysql-wsrep-server-5.6 28,4 MB/62,8 MB 45%]       254 kB/s 3min. 20seg."
+    ],
+    [
+      0.500407,
+      "\r56% [14 mysql-wsrep-server-5.6 28,5 MB/62,8 MB 45%]       254 kB/s 3min. 20seg."
+    ],
+    [
+      0.500632,
+      "\r56% [14 mysql-wsrep-server-5.6 28,6 MB/62,8 MB 45%]       254 kB/s 3min. 19seg."
+    ],
+    [
+      0.500855,
+      "\r56% [14 mysql-wsrep-server-5.6 28,7 MB/62,8 MB 46%]       254 kB/s 3min. 19seg."
+    ],
+    [
+      0.500688,
+      "\r56% [14 mysql-wsrep-server-5.6 28,7 MB/62,8 MB 46%]       254 kB/s 3min. 19seg."
+    ],
+    [
+      0.500651,
+      "\r56% [14 mysql-wsrep-server-5.6 28,8 MB/62,8 MB 46%]        203 kB/s 4min. 9seg."
+    ],
+    [
+      0.500706,
+      "\r56% [14 mysql-wsrep-server-5.6 28,9 MB/62,8 MB 46%]        203 kB/s 4min. 8seg."
+    ],
+    [
+      0.500653,
+      "\r57% [14 mysql-wsrep-server-5.6 29,0 MB/62,8 MB 46%]        203 kB/s 4min. 8seg."
+    ],
+    [
+      0.500940,
+      "\r57% [14 mysql-wsrep-server-5.6 29,1 MB/62,8 MB 46%]        203 kB/s 4min. 7seg."
+    ],
+    [
+      0.500507,
+      "\r57% [14 mysql-wsrep-server-5.6 29,2 MB/62,8 MB 46%]        203 kB/s 4min. 7seg."
+    ],
+    [
+      0.501069,
+      "\r57% [14 mysql-wsrep-server-5.6 29,3 MB/62,8 MB 47%]        203 kB/s 4min. 6seg."
+    ],
+    [
+      0.500298,
+      "\r57% [14 mysql-wsrep-server-5.6 29,4 MB/62,8 MB 47%]        203 kB/s 4min. 6seg."
+    ],
+    [
+      0.500160,
+      "\r57% [14 mysql-wsrep-server-5.6 29,5 MB/62,8 MB 47%]        203 kB/s 4min. 5seg."
+    ],
+    [
+      0.500821,
+      "\r57% [14 mysql-wsrep-server-5.6 29,6 MB/62,8 MB 47%]        203 kB/s 4min. 5seg."
+    ],
+    [
+      0.502279,
+      "\r57% [14 mysql-wsrep-server-5.6 29,7 MB/62,8 MB 47%]        203 kB/s 4min. 4seg."
+    ],
+    [
+      0.498686,
+      "\r57% [14 mysql-wsrep-server-5.6 29,9 MB/62,8 MB 48%]        203 kB/s 4min. 3seg."
+    ],
+    [
+      0.501352,
+      "\r57% [14 mysql-wsrep-server-5.6 30,0 MB/62,8 MB 48%]        203 kB/s 4min. 3seg."
+    ],
+    [
+      0.500525,
+      "\r58% [14 mysql-wsrep-server-5.6 30,2 MB/62,8 MB 48%]       227 kB/s 3min. 36seg."
+    ],
+    [
+      0.500660,
+      "\r58% [14 mysql-wsrep-server-5.6 30,3 MB/62,8 MB 48%]       227 kB/s 3min. 36seg."
+    ],
+    [
+      0.500597,
+      "\r58% [14 mysql-wsrep-server-5.6 30,5 MB/62,8 MB 49%]       227 kB/s 3min. 35seg."
+    ],
+    [
+      0.501622,
+      "\r58% [14 mysql-wsrep-server-5.6 30,6 MB/62,8 MB 49%]       227 kB/s 3min. 35seg."
+    ],
+    [
+      0.499782,
+      "\r58% [14 mysql-wsrep-server-5.6 30,7 MB/62,8 MB 49%]       227 kB/s 3min. 34seg."
+    ],
+    [
+      0.500566,
+      "\r58% [14 mysql-wsrep-server-5.6 30,9 MB/62,8 MB 49%]       227 kB/s 3min. 33seg."
+    ],
+    [
+      0.501022,
+      "\r58% [14 mysql-wsrep-server-5.6 31,0 MB/62,8 MB 49%]       227 kB/s 3min. 33seg."
+    ],
+    [
+      0.500506,
+      "\r58% [14 mysql-wsrep-server-5.6 31,2 MB/62,8 MB 50%]       227 kB/s 3min. 32seg."
+    ],
+    [
+      0.500776,
+      "\r59% [14 mysql-wsrep-server-5.6 31,4 MB/62,8 MB 50%]       227 kB/s 3min. 31seg."
+    ],
+    [
+      0.500490,
+      "\r59% [14 mysql-wsrep-server-5.6 31,6 MB/62,8 MB 50%]       227 kB/s 3min. 30seg."
+    ],
+    [
+      0.500875,
+      "\r59% [14 mysql-wsrep-server-5.6 31,7 MB/62,8 MB 51%]       227 kB/s 3min. 30seg."
+    ],
+    [
+      0.506695,
+      "\r59% [14 mysql-wsrep-server-5.6 31,9 MB/62,8 MB 51%]       227 kB/s 3min. 29seg."
+    ],
+    [
+      0.500718,
+      "\r59% [14 mysql-wsrep-server-5.6 32,1 MB/62,8 MB 51%]       324 kB/s 2min. 26seg."
+    ],
+    [
+      0.500574,
+      "\r59% [14 mysql-wsrep-server-5.6 32,3 MB/62,8 MB 51%]       324 kB/s 2min. 25seg."
+    ],
+    [
+      0.500884,
+      "\r60% [14 mysql-wsrep-server-5.6 32,4 MB/62,8 MB 52%]       324 kB/s 2min. 25seg."
+    ],
+    [
+      0.500705,
+      "\r60% [14 mysql-wsrep-server-5.6 32,6 MB/62,8 MB 52%]       324 kB/s 2min. 24seg."
+    ],
+    [
+      0.500649,
+      "\r60% [14 mysql-wsrep-server-5.6 32,7 MB/62,8 MB 52%]       324 kB/s 2min. 24seg."
+    ],
+    [
+      0.500657,
+      "\r60% [14 mysql-wsrep-server-5.6 32,8 MB/62,8 MB 52%]       324 kB/s 2min. 23seg."
+    ],
+    [
+      0.500864,
+      "\r60% [14 mysql-wsrep-server-5.6 33,0 MB/62,8 MB 53%]       324 kB/s 2min. 23seg."
+    ],
+    [
+      0.500733,
+      "\r60% [14 mysql-wsrep-server-5.6 33,1 MB/62,8 MB 53%]       324 kB/s 2min. 23seg."
+    ],
+    [
+      0.500717,
+      "\r60% [14 mysql-wsrep-server-5.6 33,3 MB/62,8 MB 53%]       324 kB/s 2min. 22seg."
+    ],
+    [
+      0.500494,
+      "\r60% [14 mysql-wsrep-server-5.6 33,4 MB/62,8 MB 53%]       324 kB/s 2min. 22seg."
+    ],
+    [
+      0.500722,
+      "\r61% [14 mysql-wsrep-server-5.6 33,6 MB/62,8 MB 53%]       324 kB/s 2min. 21seg."
+    ],
+    [
+      0.500736,
+      "\r61% [14 mysql-wsrep-server-5.6 33,7 MB/62,8 MB 54%]       324 kB/s 2min. 21seg."
+    ],
+    [
+      0.500732,
+      "\r61% [14 mysql-wsrep-server-5.6 33,9 MB/62,8 MB 54%]       289 kB/s 2min. 37seg."
+    ],
+    [
+      0.500729,
+      "\r61% [14 mysql-wsrep-server-5.6 34,0 MB/62,8 MB 54%]       289 kB/s 2min. 36seg."
+    ],
+    [
+      0.500865,
+      "\r61% [14 mysql-wsrep-server-5.6 34,2 MB/62,8 MB 54%]       289 kB/s 2min. 36seg."
+    ],
+    [
+      0.500495,
+      "\r61% [14 mysql-wsrep-server-5.6 34,3 MB/62,8 MB 55%]       289 kB/s 2min. 35seg."
+    ],
+    [
+      0.500720,
+      "\r61% [14 mysql-wsrep-server-5.6 34,5 MB/62,8 MB 55%]       289 kB/s 2min. 35seg."
+    ],
+    [
+      0.500507,
+      "\r61% [14 mysql-wsrep-server-5.6 34,6 MB/62,8 MB 55%]       289 kB/s 2min. 34seg."
+    ],
+    [
+      0.500851,
+      "\r62% [14 mysql-wsrep-server-5.6 34,8 MB/62,8 MB 55%]       289 kB/s 2min. 34seg."
+    ],
+    [
+      0.500447,
+      "\r62% [14 mysql-wsrep-server-5.6 34,9 MB/62,8 MB 56%]       289 kB/s 2min. 33seg."
+    ],
+    [
+      0.500925,
+      "\r62% [14 mysql-wsrep-server-5.6 35,0 MB/62,8 MB 56%]       289 kB/s 2min. 33seg."
+    ],
+    [
+      0.500691,
+      "\r62% [14 mysql-wsrep-server-5.6 35,1 MB/62,8 MB 56%]       289 kB/s 2min. 33seg."
+    ],
+    [
+      0.500585,
+      "\r62% [14 mysql-wsrep-server-5.6 35,2 MB/62,8 MB 56%]       289 kB/s 2min. 32seg."
+    ],
+    [
+      0.501008,
+      "\r62% [14 mysql-wsrep-server-5.6 35,3 MB/62,8 MB 56%]       289 kB/s 2min. 32seg."
+    ],
+    [
+      0.500451,
+      "\r62% [14 mysql-wsrep-server-5.6 35,4 MB/62,8 MB 56%]       260 kB/s 2min. 49seg."
+    ],
+    [
+      0.500810,
+      "\r62% [14 mysql-wsrep-server-5.6 35,5 MB/62,8 MB 57%]       260 kB/s 2min. 49seg."
+    ],
+    [
+      0.500491,
+      "\r62% [14 mysql-wsrep-server-5.6 35,6 MB/62,8 MB 57%]       260 kB/s 2min. 48seg."
+    ],
+    [
+      0.500833,
+      "\r62% [14 mysql-wsrep-server-5.6 35,7 MB/62,8 MB 57%]       260 kB/s 2min. 48seg."
+    ],
+    [
+      0.500679,
+      "\r62% [14 mysql-wsrep-server-5.6 35,8 MB/62,8 MB 57%]       260 kB/s 2min. 47seg."
+    ],
+    [
+      0.500575,
+      "\r63% [14 mysql-wsrep-server-5.6 35,9 MB/62,8 MB 57%]       260 kB/s 2min. 47seg."
+    ],
+    [
+      0.500857,
+      "\r63% [14 mysql-wsrep-server-5.6 36,0 MB/62,8 MB 57%]       260 kB/s 2min. 47seg."
+    ],
+    [
+      0.500575,
+      "\r63% [14 mysql-wsrep-server-5.6 36,1 MB/62,8 MB 58%]       260 kB/s 2min. 46seg."
+    ],
+    [
+      0.500719,
+      "\r63% [14 mysql-wsrep-server-5.6 36,3 MB/62,8 MB 58%]       260 kB/s 2min. 46seg."
+    ],
+    [
+      0.500614,
+      "\r63% [14 mysql-wsrep-server-5.6 36,4 MB/62,8 MB 58%]       260 kB/s 2min. 45seg."
+    ],
+    [
+      0.500869,
+      "\r63% [14 mysql-wsrep-server-5.6 36,5 MB/62,8 MB 58%]       260 kB/s 2min. 45seg."
+    ],
+    [
+      0.500737,
+      "\r63% [14 mysql-wsrep-server-5.6 36,7 MB/62,8 MB 58%]       260 kB/s 2min. 44seg."
+    ],
+    [
+      0.500676,
+      "\r63% [14 mysql-wsrep-server-5.6 36,8 MB/62,8 MB 59%]        226 kB/s 3min. 8seg."
+    ],
+    [
+      0.500688,
+      "\r63% [14 mysql-wsrep-server-5.6 36,9 MB/62,8 MB 59%]        226 kB/s 3min. 7seg."
+    ],
+    [
+      0.500868,
+      "\r63% [14 mysql-wsrep-server-5.6 37,0 MB/62,8 MB 59%]        226 kB/s 3min. 7seg."
+    ],
+    [
+      0.500276,
+      "\r64% [14 mysql-wsrep-server-5.6 37,2 MB/62,8 MB 59%]        226 kB/s 3min. 6seg."
+    ],
+    [
+      0.500907,
+      "\r64% [14 mysql-wsrep-server-5.6 37,3 MB/62,8 MB 59%]        226 kB/s 3min. 5seg."
+    ],
+    [
+      0.500663,
+      "\r64% [14 mysql-wsrep-server-5.6 37,5 MB/62,8 MB 60%]        226 kB/s 3min. 5seg."
+    ],
+    [
+      0.500647,
+      "\r64% [14 mysql-wsrep-server-5.6 37,7 MB/62,8 MB 60%]        226 kB/s 3min. 4seg."
+    ],
+    [
+      0.504660,
+      "\r64% [14 mysql-wsrep-server-5.6 37,8 MB/62,8 MB 60%]        226 kB/s 3min. 3seg."
+    ],
+    [
+      0.496924,
+      "\r64% [14 mysql-wsrep-server-5.6 38,0 MB/62,8 MB 60%]        226 kB/s 3min. 2seg."
+    ],
+    [
+      0.500421,
+      "\r64% [14 mysql-wsrep-server-5.6 38,1 MB/62,8 MB 61%]        226 kB/s 3min. 2seg."
+    ],
+    [
+      0.500987,
+      "\r65% [14 mysql-wsrep-server-5.6 38,3 MB/62,8 MB 61%]        226 kB/s 3min. 1seg."
+    ],
+    [
+      0.500571,
+      "\r65% [14 mysql-wsrep-server-5.6 38,4 MB/62,8 MB 61%]        226 kB/s 3min. 1seg."
+    ],
+    [
+      0.500621,
+      "\r65% [14 mysql-wsrep-server-5.6 38,6 MB/62,8 MB 61%]       294 kB/s 2min. 19seg."
+    ],
+    [
+      0.500632,
+      "\r65% [14 mysql-wsrep-server-5.6 38,7 MB/62,8 MB 62%]       294 kB/s 2min. 18seg."
+    ],
+    [
+      0.501725,
+      "\r65% [14 mysql-wsrep-server-5.6 38,9 MB/62,8 MB 62%]       294 kB/s 2min. 18seg."
+    ],
+    [
+      0.499250,
+      "\r65% [14 mysql-wsrep-server-5.6 39,0 MB/62,8 MB 62%]       294 kB/s 2min. 17seg."
+    ],
+    [
+      0.500817,
+      "\r65% [14 mysql-wsrep-server-5.6 39,2 MB/62,8 MB 62%]       294 kB/s 2min. 16seg."
+    ],
+    [
+      0.500969,
+      "\r66% [14 mysql-wsrep-server-5.6 39,4 MB/62,8 MB 63%]       294 kB/s 2min. 16seg."
+    ],
+    [
+      0.500717,
+      "\r66% [14 mysql-wsrep-server-5.6 39,6 MB/62,8 MB 63%]       294 kB/s 2min. 15seg."
+    ],
+    [
+      0.500579,
+      "\r66% [14 mysql-wsrep-server-5.6 39,7 MB/62,8 MB 63%]       294 kB/s 2min. 15seg."
+    ],
+    [
+      0.500696,
+      "\r66% [14 mysql-wsrep-server-5.6 39,8 MB/62,8 MB 63%]       294 kB/s 2min. 14seg."
+    ],
+    [
+      0.500709,
+      "\r66% [14 mysql-wsrep-server-5.6 39,9 MB/62,8 MB 63%]       294 kB/s 2min. 14seg."
+    ],
+    [
+      0.500714,
+      "\r66% [14 mysql-wsrep-server-5.6 40,0 MB/62,8 MB 64%]       294 kB/s 2min. 14seg."
+    ],
+    [
+      0.500780,
+      "\r66% [14 mysql-wsrep-server-5.6 40,0 MB/62,8 MB 64%]       294 kB/s 2min. 14seg."
+    ],
+    [
+      0.500634,
+      "\r66% [14 mysql-wsrep-server-5.6 40,1 MB/62,8 MB 64%]       262 kB/s 2min. 29seg."
+    ],
+    [
+      0.500558,
+      "\r66% [14 mysql-wsrep-server-5.6 40,2 MB/62,8 MB 64%]       262 kB/s 2min. 29seg."
+    ],
+    [
+      0.500800,
+      "\r66% [14 mysql-wsrep-server-5.6 40,3 MB/62,8 MB 64%]       262 kB/s 2min. 28seg."
+    ],
+    [
+      0.500795,
+      "\r66% [14 mysql-wsrep-server-5.6 40,5 MB/62,8 MB 64%]       262 kB/s 2min. 28seg."
+    ],
+    [
+      0.500578,
+      "\r67% [14 mysql-wsrep-server-5.6 40,6 MB/62,8 MB 65%]       262 kB/s 2min. 28seg."
+    ],
+    [
+      0.500788,
+      "\r67% [14 mysql-wsrep-server-5.6 40,7 MB/62,8 MB 65%]       262 kB/s 2min. 27seg."
+    ],
+    [
+      0.500581,
+      "\r67% [14 mysql-wsrep-server-5.6 40,8 MB/62,8 MB 65%]       262 kB/s 2min. 27seg."
+    ],
+    [
+      0.500890,
+      "\r67% [14 mysql-wsrep-server-5.6 40,9 MB/62,8 MB 65%]       262 kB/s 2min. 26seg."
+    ],
+    [
+      0.500900,
+      "\r67% [14 mysql-wsrep-server-5.6 41,0 MB/62,8 MB 65%]       262 kB/s 2min. 26seg."
+    ],
+    [
+      0.500239,
+      "\r67% [14 mysql-wsrep-server-5.6 41,2 MB/62,8 MB 66%]       262 kB/s 2min. 25seg."
+    ],
+    [
+      0.500438,
+      "\r67% [14 mysql-wsrep-server-5.6 41,3 MB/62,8 MB 66%]       262 kB/s 2min. 25seg."
+    ],
+    [
+      0.500743,
+      "\r67% [14 mysql-wsrep-server-5.6 41,4 MB/62,8 MB 66%]       262 kB/s 2min. 24seg."
+    ],
+    [
+      0.500893,
+      "\r67% [14 mysql-wsrep-server-5.6 41,5 MB/62,8 MB 66%]       234 kB/s 2min. 41seg."
+    ],
+    [
+      0.500445,
+      "\r67% [14 mysql-wsrep-server-5.6 41,7 MB/62,8 MB 66%]       234 kB/s 2min. 41seg."
+    ],
+    [
+      0.500940,
+      "\r68% [14 mysql-wsrep-server-5.6 41,8 MB/62,8 MB 67%]       234 kB/s 2min. 40seg."
+    ],
+    [
+      0.500639,
+      "\r68% [14 mysql-wsrep-server-5.6 41,9 MB/62,8 MB 67%]       234 kB/s 2min. 40seg."
+    ],
+    [
+      0.500867,
+      "\r68% [14 mysql-wsrep-server-5.6 42,0 MB/62,8 MB 67%]       234 kB/s 2min. 39seg."
+    ],
+    [
+      0.500646,
+      "\r68% [14 mysql-wsrep-server-5.6 42,2 MB/62,8 MB 67%]       234 kB/s 2min. 39seg."
+    ],
+    [
+      0.500724,
+      "\r68% [14 mysql-wsrep-server-5.6 42,3 MB/62,8 MB 67%]       234 kB/s 2min. 38seg."
+    ],
+    [
+      0.500432,
+      "\r68% [14 mysql-wsrep-server-5.6 42,5 MB/62,8 MB 68%]       234 kB/s 2min. 37seg."
+    ],
+    [
+      0.500957,
+      "\r68% [14 mysql-wsrep-server-5.6 42,7 MB/62,8 MB 68%]       234 kB/s 2min. 37seg."
+    ],
+    [
+      0.500721,
+      "\r69% [14 mysql-wsrep-server-5.6 42,9 MB/62,8 MB 68%]       234 kB/s 2min. 36seg."
+    ],
+    [
+      0.500592,
+      "\r69% [14 mysql-wsrep-server-5.6 43,1 MB/62,8 MB 69%]       234 kB/s 2min. 35seg."
+    ],
+    [
+      0.500654,
+      "\r69% [14 mysql-wsrep-server-5.6 43,3 MB/62,8 MB 69%]       234 kB/s 2min. 34seg."
+    ],
+    [
+      0.500815,
+      "\r69% [14 mysql-wsrep-server-5.6 43,4 MB/62,8 MB 69%]       304 kB/s 1min. 58seg."
+    ],
+    [
+      0.500474,
+      "\r69% [14 mysql-wsrep-server-5.6 43,5 MB/62,8 MB 69%]       304 kB/s 1min. 58seg."
+    ],
+    [
+      0.500828,
+      "\r69% [14 mysql-wsrep-server-5.6 43,6 MB/62,8 MB 69%]       304 kB/s 1min. 58seg."
+    ],
+    [
+      0.500672,
+      "\r69% [14 mysql-wsrep-server-5.6 43,7 MB/62,8 MB 69%]       304 kB/s 1min. 57seg."
+    ],
+    [
+      0.500674,
+      "\r69% [14 mysql-wsrep-server-5.6 43,8 MB/62,8 MB 70%]       304 kB/s 1min. 57seg."
+    ],
+    [
+      0.500590,
+      "\r69% [14 mysql-wsrep-server-5.6 43,9 MB/62,8 MB 70%]       304 kB/s 1min. 57seg."
+    ],
+    [
+      0.500988,
+      "\r69% [14 mysql-wsrep-server-5.6 44,0 MB/62,8 MB 70%]       304 kB/s 1min. 56seg."
+    ],
+    [
+      0.500520,
+      "\r70% [14 mysql-wsrep-server-5.6 44,1 MB/62,8 MB 70%]       304 kB/s 1min. 56seg."
+    ],
+    [
+      0.500774,
+      "\r70% [14 mysql-wsrep-server-5.6 44,2 MB/62,8 MB 70%]       304 kB/s 1min. 55seg."
+    ],
+    [
+      0.500322,
+      "\r70% [14 mysql-wsrep-server-5.6 44,3 MB/62,8 MB 71%]       304 kB/s 1min. 55seg."
+    ],
+    [
+      0.500920,
+      "\r70% [14 mysql-wsrep-server-5.6 44,4 MB/62,8 MB 71%]       304 kB/s 1min. 55seg."
+    ],
+    [
+      0.500678,
+      "\r70% [14 mysql-wsrep-server-5.6 44,5 MB/62,8 MB 71%]       304 kB/s 1min. 54seg."
+    ],
+    [
+      0.500970,
+      "\r70% [14 mysql-wsrep-server-5.6 44,7 MB/62,8 MB 71%]       218 kB/s 2min. 39seg."
+    ],
+    [
+      0.500559,
+      "\r70% [14 mysql-wsrep-server-5.6 44,8 MB/62,8 MB 71%]       218 kB/s 2min. 38seg."
+    ],
+    [
+      0.500565,
+      "\r70% [14 mysql-wsrep-server-5.6 44,9 MB/62,8 MB 72%]       218 kB/s 2min. 37seg."
+    ],
+    [
+      0.500910,
+      "\r70% [14 mysql-wsrep-server-5.6 45,1 MB/62,8 MB 72%]       218 kB/s 2min. 37seg."
+    ],
+    [
+      0.500766,
+      "\r71% [14 mysql-wsrep-server-5.6 45,2 MB/62,8 MB 72%]       218 kB/s 2min. 36seg."
+    ],
+    [
+      0.502160,
+      "\r71% [14 mysql-wsrep-server-5.6 45,3 MB/62,8 MB 72%]       218 kB/s 2min. 36seg."
+    ],
+    [
+      0.498898,
+      "\r71% [14 mysql-wsrep-server-5.6 45,4 MB/62,8 MB 72%]       218 kB/s 2min. 35seg."
+    ],
+    [
+      0.500665,
+      "\r71% [14 mysql-wsrep-server-5.6 45,5 MB/62,8 MB 72%]       218 kB/s 2min. 35seg."
+    ],
+    [
+      0.500891,
+      "\r71% [14 mysql-wsrep-server-5.6 45,6 MB/62,8 MB 73%]       218 kB/s 2min. 34seg."
+    ],
+    [
+      0.500665,
+      "\r71% [14 mysql-wsrep-server-5.6 45,8 MB/62,8 MB 73%]       218 kB/s 2min. 34seg."
+    ],
+    [
+      0.502494,
+      "\r71% [14 mysql-wsrep-server-5.6 45,9 MB/62,8 MB 73%]       218 kB/s 2min. 33seg."
+    ],
+    [
+      0.500296,
+      "\r71% [14 mysql-wsrep-server-5.6 46,1 MB/62,8 MB 73%]       218 kB/s 2min. 32seg."
+    ],
+    [
+      0.499762,
+      "\r71% [14 mysql-wsrep-server-5.6 46,2 MB/62,8 MB 74%]       254 kB/s 2min. 10seg."
+    ],
+    [
+      0.500450,
+      "\r72% [14 mysql-wsrep-server-5.6 46,4 MB/62,8 MB 74%]       254 kB/s 2min. 10seg."
+    ],
+    [
+      0.501028,
+      "\r72% [14 mysql-wsrep-server-5.6 46,5 MB/62,8 MB 74%]        254 kB/s 2min. 9seg."
+    ],
+    [
+      0.500618,
+      "\r72% [14 mysql-wsrep-server-5.6 46,7 MB/62,8 MB 74%]        254 kB/s 2min. 8seg."
+    ],
+    [
+      0.500808,
+      "\r72% [14 mysql-wsrep-server-5.6 46,9 MB/62,8 MB 75%]        254 kB/s 2min. 8seg."
+    ],
+    [
+      0.500609,
+      "\r72% [14 mysql-wsrep-server-5.6 47,0 MB/62,8 MB 75%]        254 kB/s 2min. 7seg."
+    ],
+    [
+      0.500703,
+      "\r72% [14 mysql-wsrep-server-5.6 47,2 MB/62,8 MB 75%]        254 kB/s 2min. 6seg."
+    ],
+    [
+      0.500815,
+      "\r72% [14 mysql-wsrep-server-5.6 47,4 MB/62,8 MB 75%]        254 kB/s 2min. 6seg."
+    ],
+    [
+      0.500702,
+      "\r73% [14 mysql-wsrep-server-5.6 47,6 MB/62,8 MB 76%]        254 kB/s 2min. 5seg."
+    ],
+    [
+      0.500585,
+      "\r73% [14 mysql-wsrep-server-5.6 47,8 MB/62,8 MB 76%]        254 kB/s 2min. 4seg."
+    ],
+    [
+      0.500628,
+      "\r73% [14 mysql-wsrep-server-5.6 48,0 MB/62,8 MB 76%]        254 kB/s 2min. 3seg."
+    ],
+    [
+      0.500807,
+      "\r73% [14 mysql-wsrep-server-5.6 48,1 MB/62,8 MB 77%]        254 kB/s 2min. 3seg."
+    ],
+    [
+      0.500694,
+      "\r73% [14 mysql-wsrep-server-5.6 48,3 MB/62,8 MB 77%]       353 kB/s 1min. 28seg."
+    ],
+    [
+      0.500698,
+      "\r73% [14 mysql-wsrep-server-5.6 48,5 MB/62,8 MB 77%]       353 kB/s 1min. 27seg."
+    ],
+    [
+      0.500646,
+      "\r73% [14 mysql-wsrep-server-5.6 48,6 MB/62,8 MB 77%]       353 kB/s 1min. 27seg."
+    ],
+    [
+      0.500723,
+      "\r74% [14 mysql-wsrep-server-5.6 48,8 MB/62,8 MB 78%]       353 kB/s 1min. 26seg."
+    ],
+    [
+      0.500891,
+      "\r74% [14 mysql-wsrep-server-5.6 48,9 MB/62,8 MB 78%]       353 kB/s 1min. 26seg."
+    ],
+    [
+      0.500522,
+      "\r74% [14 mysql-wsrep-server-5.6 49,1 MB/62,8 MB 78%]       353 kB/s 1min. 25seg."
+    ],
+    [
+      0.500762,
+      "\r74% [14 mysql-wsrep-server-5.6 49,2 MB/62,8 MB 78%]       353 kB/s 1min. 25seg."
+    ],
+    [
+      0.500726,
+      "\r74% [14 mysql-wsrep-server-5.6 49,3 MB/62,8 MB 79%]       353 kB/s 1min. 25seg."
+    ],
+    [
+      0.500699,
+      "\r74% [14 mysql-wsrep-server-5.6 49,5 MB/62,8 MB 79%]       353 kB/s 1min. 24seg."
+    ],
+    [
+      0.500711,
+      "\r74% [14 mysql-wsrep-server-5.6 49,6 MB/62,8 MB 79%]       353 kB/s 1min. 24seg."
+    ],
+    [
+      0.500623,
+      "\r74% [14 mysql-wsrep-server-5.6 49,8 MB/62,8 MB 79%]       353 kB/s 1min. 23seg."
+    ],
+    [
+      0.500847,
+      "\r75% [14 mysql-wsrep-server-5.6 49,9 MB/62,8 MB 79%]       353 kB/s 1min. 23seg."
+    ],
+    [
+      0.500296,
+      "\r75% [14 mysql-wsrep-server-5.6 50,1 MB/62,8 MB 80%]       288 kB/s 1min. 41seg."
+    ],
+    [
+      0.500822,
+      "\r75% [14 mysql-wsrep-server-5.6 50,2 MB/62,8 MB 80%]       288 kB/s 1min. 41seg."
+    ],
+    [
+      0.500707,
+      "\r75% [14 mysql-wsrep-server-5.6 50,4 MB/62,8 MB 80%]       288 kB/s 1min. 40seg."
+    ],
+    [
+      0.500946,
+      "\r75% [14 mysql-wsrep-server-5.6 50,5 MB/62,8 MB 80%]       288 kB/s 1min. 40seg."
+    ],
+    [
+      0.500522,
+      "\r75% [14 mysql-wsrep-server-5.6 50,7 MB/62,8 MB 81%]       288 kB/s 1min. 39seg."
+    ],
+    [
+      0.500775,
+      "\r75% [14 mysql-wsrep-server-5.6 50,8 MB/62,8 MB 81%]       288 kB/s 1min. 39seg."
+    ],
+    [
+      0.500819,
+      "\r75% [14 mysql-wsrep-server-5.6 50,9 MB/62,8 MB 81%]       288 kB/s 1min. 38seg."
+    ],
+    [
+      0.500496,
+      "\r76% [14 mysql-wsrep-server-5.6 51,1 MB/62,8 MB 81%]       288 kB/s 1min. 38seg."
+    ],
+    [
+      0.500747,
+      "\r76% [14 mysql-wsrep-server-5.6 51,2 MB/62,8 MB 81%]       288 kB/s 1min. 38seg."
+    ],
+    [
+      0.502761,
+      "\r76% [14 mysql-wsrep-server-5.6 51,3 MB/62,8 MB 82%]       288 kB/s 1min. 37seg."
+    ],
+    [
+      0.498845,
+      "\r76% [14 mysql-wsrep-server-5.6 51,4 MB/62,8 MB 82%]       288 kB/s 1min. 37seg."
+    ],
+    [
+      0.500717,
+      "\r76% [14 mysql-wsrep-server-5.6 51,6 MB/62,8 MB 82%]       288 kB/s 1min. 36seg."
+    ],
+    [
+      0.500682,
+      "\r76% [14 mysql-wsrep-server-5.6 51,7 MB/62,8 MB 82%]       275 kB/s 1min. 40seg."
+    ],
+    [
+      0.501600,
+      "\r76% [14 mysql-wsrep-server-5.6 51,9 MB/62,8 MB 83%]       275 kB/s 1min. 40seg."
+    ],
+    [
+      0.501202,
+      "\r76% [14 mysql-wsrep-server-5.6 52,0 MB/62,8 MB 83%]       275 kB/s 1min. 39seg."
+    ],
+    [
+      0.499078,
+      "\r77% [14 mysql-wsrep-server-5.6 52,2 MB/62,8 MB 83%]       275 kB/s 1min. 38seg."
+    ],
+    [
+      0.500733,
+      "\r77% [14 mysql-wsrep-server-5.6 52,3 MB/62,8 MB 83%]       275 kB/s 1min. 38seg."
+    ],
+    [
+      0.500701,
+      "\r77% [14 mysql-wsrep-server-5.6 52,5 MB/62,8 MB 83%]       275 kB/s 1min. 37seg."
+    ],
+    [
+      0.500703,
+      "\r77% [14 mysql-wsrep-server-5.6 52,6 MB/62,8 MB 84%]       275 kB/s 1min. 37seg."
+    ],
+    [
+      0.500592,
+      "\r77% [14 mysql-wsrep-server-5.6 52,8 MB/62,8 MB 84%]       275 kB/s 1min. 36seg."
+    ],
+    [
+      0.500787,
+      "\r77% [14 mysql-wsrep-server-5.6 52,9 MB/62,8 MB 84%]       275 kB/s 1min. 36seg."
+    ],
+    [
+      0.500487,
+      "\r77% [14 mysql-wsrep-server-5.6 53,0 MB/62,8 MB 84%]       275 kB/s 1min. 35seg."
+    ],
+    [
+      0.500957,
+      "\r77% [14 mysql-wsrep-server-5.6 53,2 MB/62,8 MB 85%]       275 kB/s 1min. 35seg."
+    ],
+    [
+      0.500572,
+      "\r78% [14 mysql-wsrep-server-5.6 53,4 MB/62,8 MB 85%]       275 kB/s 1min. 34seg."
+    ],
+    [
+      0.500787,
+      "\r78% [14 mysql-wsrep-server-5.6 53,5 MB/62,8 MB 85%]       296 kB/s 1min. 27seg."
+    ],
+    [
+      0.500814,
+      "\r78% [14 mysql-wsrep-server-5.6 53,6 MB/62,8 MB 85%]       296 kB/s 1min. 27seg."
+    ],
+    [
+      0.500498,
+      "\r78% [14 mysql-wsrep-server-5.6 53,8 MB/62,8 MB 86%]       296 kB/s 1min. 26seg."
+    ],
+    [
+      0.500912,
+      "\r78% [14 mysql-wsrep-server-5.6 53,9 MB/62,8 MB 86%]       296 kB/s 1min. 26seg."
+    ],
+    [
+      0.543858,
+      "\r78% [14 mysql-wsrep-server-5.6 54,1 MB/62,8 MB 86%]       296 kB/s 1min. 25seg."
+    ],
+    [
+      0.457353,
+      "\r78% [14 mysql-wsrep-server-5.6 54,2 MB/62,8 MB 86%]       296 kB/s 1min. 25seg."
+    ],
+    [
+      0.500636,
+      "\r78% [14 mysql-wsrep-server-5.6 54,4 MB/62,8 MB 87%]       296 kB/s 1min. 24seg."
+    ],
+    [
+      0.501173,
+      "\r79% [14 mysql-wsrep-server-5.6 54,5 MB/62,8 MB 87%]       296 kB/s 1min. 23seg."
+    ],
+    [
+      0.500387,
+      "\r79% [14 mysql-wsrep-server-5.6 54,7 MB/62,8 MB 87%]       296 kB/s 1min. 23seg."
+    ],
+    [
+      0.510208,
+      "\r79% [14 mysql-wsrep-server-5.6 54,9 MB/62,8 MB 87%]       296 kB/s 1min. 22seg."
+    ],
+    [
+      0.491184,
+      "\r79% [14 mysql-wsrep-server-5.6 55,1 MB/62,8 MB 88%]       296 kB/s 1min. 22seg."
+    ],
+    [
+      0.501040,
+      "\r79% [14 mysql-wsrep-server-5.6 55,3 MB/62,8 MB 88%]       296 kB/s 1min. 21seg."
+    ],
+    [
+      0.500525,
+      "\r79% [14 mysql-wsrep-server-5.6 55,5 MB/62,8 MB 88%]       333 kB/s 1min. 11seg."
+    ],
+    [
+      0.500744,
+      "\r80% [14 mysql-wsrep-server-5.6 55,7 MB/62,8 MB 89%]       333 kB/s 1min. 11seg."
+    ],
+    [
+      0.500550,
+      "\r80% [14 mysql-wsrep-server-5.6 55,9 MB/62,8 MB 89%]       333 kB/s 1min. 10seg."
+    ],
+    [
+      0.501172,
+      "\r80% [14 mysql-wsrep-server-5.6 56,0 MB/62,8 MB 89%]       333 kB/s 1min. 10seg."
+    ],
+    [
+      0.500411,
+      "\r80% [14 mysql-wsrep-server-5.6 56,1 MB/62,8 MB 89%]        333 kB/s 1min. 9seg."
+    ],
+    [
+      0.500564,
+      "\r80% [14 mysql-wsrep-server-5.6 56,2 MB/62,8 MB 89%]        333 kB/s 1min. 9seg."
+    ],
+    [
+      0.500618,
+      "\r80% [14 mysql-wsrep-server-5.6 56,3 MB/62,8 MB 90%]        333 kB/s 1min. 9seg."
+    ],
+    [
+      0.501054,
+      "\r80% [14 mysql-wsrep-server-5.6 56,5 MB/62,8 MB 90%]        333 kB/s 1min. 8seg."
+    ],
+    [
+      0.500676,
+      "\r80% [14 mysql-wsrep-server-5.6 56,6 MB/62,8 MB 90%]        333 kB/s 1min. 8seg."
+    ],
+    [
+      0.500404,
+      "\r80% [14 mysql-wsrep-server-5.6 56,7 MB/62,8 MB 90%]        333 kB/s 1min. 8seg."
+    ],
+    [
+      0.500964,
+      "\r81% [14 mysql-wsrep-server-5.6 56,9 MB/62,8 MB 91%]        333 kB/s 1min. 7seg."
+    ],
+    [
+      0.500449,
+      "\r81% [14 mysql-wsrep-server-5.6 57,1 MB/62,8 MB 91%]        333 kB/s 1min. 7seg."
+    ],
+    [
+      0.500764,
+      "\r81% [14 mysql-wsrep-server-5.6 57,3 MB/62,8 MB 91%]       296 kB/s 1min. 14seg."
+    ],
+    [
+      0.500741,
+      "\r81% [14 mysql-wsrep-server-5.6 57,5 MB/62,8 MB 91%]       296 kB/s 1min. 14seg."
+    ],
+    [
+      0.500885,
+      "\r81% [14 mysql-wsrep-server-5.6 57,6 MB/62,8 MB 92%]       296 kB/s 1min. 13seg."
+    ],
+    [
+      0.500352,
+      "\r81% [14 mysql-wsrep-server-5.6 57,8 MB/62,8 MB 92%]       296 kB/s 1min. 13seg."
+    ],
+    [
+      0.500985,
+      "\r81% [14 mysql-wsrep-server-5.6 57,9 MB/62,8 MB 92%]       296 kB/s 1min. 12seg."
+    ],
+    [
+      0.500584,
+      "\r82% [14 mysql-wsrep-server-5.6 58,0 MB/62,8 MB 92%]       296 kB/s 1min. 12seg."
+    ],
+    [
+      0.500606,
+      "\r82% [14 mysql-wsrep-server-5.6 58,2 MB/62,8 MB 93%]       296 kB/s 1min. 11seg."
+    ],
+    [
+      0.500733,
+      "\r82% [14 mysql-wsrep-server-5.6 58,3 MB/62,8 MB 93%]       296 kB/s 1min. 11seg."
+    ],
+    [
+      0.500732,
+      "\r82% [14 mysql-wsrep-server-5.6 58,4 MB/62,8 MB 93%]       296 kB/s 1min. 11seg."
+    ],
+    [
+      0.500645,
+      "\r82% [14 mysql-wsrep-server-5.6 58,5 MB/62,8 MB 93%]       296 kB/s 1min. 10seg."
+    ],
+    [
+      0.501029,
+      "\r82% [14 mysql-wsrep-server-5.6 58,6 MB/62,8 MB 93%]       296 kB/s 1min. 10seg."
+    ],
+    [
+      0.500554,
+      "\r82% [14 mysql-wsrep-server-5.6 58,6 MB/62,8 MB 93%]       296 kB/s 1min. 10seg."
+    ],
+    [
+      0.500518,
+      "\r82% [14 mysql-wsrep-server-5.6 58,7 MB/62,8 MB 93%]       240 kB/s 1min. 26seg."
+    ],
+    [
+      0.500716,
+      "\r82% [14 mysql-wsrep-server-5.6 58,8 MB/62,8 MB 94%]       240 kB/s 1min. 26seg."
+    ],
+    [
+      0.500521,
+      "\r82% [14 mysql-wsrep-server-5.6 58,9 MB/62,8 MB 94%]       240 kB/s 1min. 25seg."
+    ],
+    [
+      0.500769,
+      "\r82% [14 mysql-wsrep-server-5.6 59,0 MB/62,8 MB 94%]       240 kB/s 1min. 25seg."
+    ],
+    [
+      0.501196,
+      "\r82% [14 mysql-wsrep-server-5.6 59,1 MB/62,8 MB 94%]       240 kB/s 1min. 24seg."
+    ],
+    [
+      0.500386,
+      "\r83% [14 mysql-wsrep-server-5.6 59,2 MB/62,8 MB 94%]       240 kB/s 1min. 24seg."
+    ],
+    [
+      0.500689,
+      "\r83% [14 mysql-wsrep-server-5.6 59,3 MB/62,8 MB 94%]       240 kB/s 1min. 23seg."
+    ],
+    [
+      0.501269,
+      "\r83% [14 mysql-wsrep-server-5.6 59,5 MB/62,8 MB 95%]       240 kB/s 1min. 23seg."
+    ],
+    [
+      0.500243,
+      "\r83% [14 mysql-wsrep-server-5.6 59,6 MB/62,8 MB 95%]       240 kB/s 1min. 22seg."
+    ],
+    [
+      0.501050,
+      "\r83% [14 mysql-wsrep-server-5.6 59,8 MB/62,8 MB 95%]       240 kB/s 1min. 22seg."
+    ],
+    [
+      0.500397,
+      "\r83% [14 mysql-wsrep-server-5.6 59,9 MB/62,8 MB 95%]       240 kB/s 1min. 21seg."
+    ],
+    [
+      0.500365,
+      "\r83% [14 mysql-wsrep-server-5.6 60,1 MB/62,8 MB 96%]       240 kB/s 1min. 20seg."
+    ],
+    [
+      0.500715,
+      "\r83% [14 mysql-wsrep-server-5.6 60,2 MB/62,8 MB 96%]       253 kB/s 1min. 15seg."
+    ],
+    [
+      0.500768,
+      "\r84% [14 mysql-wsrep-server-5.6 60,4 MB/62,8 MB 96%]       253 kB/s 1min. 15seg."
+    ],
+    [
+      0.500721,
+      "\r84% [14 mysql-wsrep-server-5.6 60,6 MB/62,8 MB 96%]       253 kB/s 1min. 14seg."
+    ],
+    [
+      0.500570,
+      "\r84% [14 mysql-wsrep-server-5.6 60,7 MB/62,8 MB 97%]       253 kB/s 1min. 14seg."
+    ],
+    [
+      0.500773,
+      "\r84% [14 mysql-wsrep-server-5.6 60,9 MB/62,8 MB 97%]       253 kB/s 1min. 13seg."
+    ],
+    [
+      0.500649,
+      "\r84% [14 mysql-wsrep-server-5.6 61,1 MB/62,8 MB 97%]       253 kB/s 1min. 12seg."
+    ],
+    [
+      0.500657,
+      "\r84% [14 mysql-wsrep-server-5.6 61,3 MB/62,8 MB 98%]       253 kB/s 1min. 11seg."
+    ],
+    [
+      0.500627,
+      "\r85% [14 mysql-wsrep-server-5.6 61,4 MB/62,8 MB 98%]       253 kB/s 1min. 11seg."
+    ],
+    [
+      0.500912,
+      "\r85% [14 mysql-wsrep-server-5.6 61,6 MB/62,8 MB 98%]       253 kB/s 1min. 10seg."
+    ],
+    [
+      0.500406,
+      "\r85% [14 mysql-wsrep-server-5.6 61,7 MB/62,8 MB 98%]       253 kB/s 1min. 10seg."
+    ],
+    [
+      0.500764,
+      "\r85% [14 mysql-wsrep-server-5.6 61,8 MB/62,8 MB 98%]        253 kB/s 1min. 9seg."
+    ],
+    [
+      0.502145,
+      "\r85% [14 mysql-wsrep-server-5.6 62,0 MB/62,8 MB 99%]        253 kB/s 1min. 9seg."
+    ],
+    [
+      0.499434,
+      "\r85% [14 mysql-wsrep-server-5.6 62,1 MB/62,8 MB 99%]             319 kB/s 54seg."
+    ],
+    [
+      0.500524,
+      "\r85% [14 mysql-wsrep-server-5.6 62,3 MB/62,8 MB 99%]             319 kB/s 53seg."
+    ],
+    [
+      0.500968,
+      "\r85% [14 mysql-wsrep-server-5.6 62,5 MB/62,8 MB 99%]             319 kB/s 53seg."
+    ],
+    [
+      0.502726,
+      "\r86% [14 mysql-wsrep-server-5.6 62,6 MB/62,8 MB 100%]            319 kB/s 52seg."
+    ],
+    [
+      0.498465,
+      "\r86% [14 mysql-wsrep-server-5.6 62,7 MB/62,8 MB 100%]            319 kB/s 52seg."
+    ],
+    [
+      0.327622,
+      "\r86% [Trabajando]                                                319 kB/s 52seg."
+    ],
+    [
+      0.178271,
+      "\r                                                                               \rDes:15 http://releases.galeracluster.com/debian/ wheezy/main galera-3 amd64 25.3.10-1wheezy [10,4 MB]\r\n86% [15 galera-3 0 B/10,4 MB 0%]                                319 kB/s 52seg."
+    ],
+    [
+      0.500550,
+      "\r86% [15 galera-3 80,9 kB/10,4 MB 1%]                            319 kB/s 51seg."
+    ],
+    [
+      0.500738,
+      "\r86% [15 galera-3 176 kB/10,4 MB 2%]                             319 kB/s 51seg."
+    ],
+    [
+      0.500843,
+      "\r86% [15 galera-3 274 kB/10,4 MB 3%]                             319 kB/s 51seg."
+    ],
+    [
+      0.500828,
+      "\r86% [15 galera-3 357 kB/10,4 MB 3%]                             319 kB/s 50seg."
+    ],
+    [
+      0.503331,
+      "\r86% [15 galera-3 456 kB/10,4 MB 4%]                             319 kB/s 50seg."
+    ],
+    [
+      0.497927,
+      "\r86% [15 galera-3 554 kB/10,4 MB 5%]                             319 kB/s 50seg."
+    ],
+    [
+      0.500632,
+      "\r86% [15 galera-3 616 kB/10,4 MB 6%]                       215 kB/s 1min. 14seg."
+    ],
+    [
+      0.500790,
+      "\r86% [15 galera-3 689 kB/10,4 MB 7%]                       215 kB/s 1min. 14seg."
+    ],
+    [
+      0.500750,
+      "\r86% [15 galera-3 756 kB/10,4 MB 7%]                       215 kB/s 1min. 13seg."
+    ],
+    [
+      0.500607,
+      "\r86% [15 galera-3 834 kB/10,4 MB 8%]                       215 kB/s 1min. 13seg."
+    ],
+    [
+      0.500799,
+      "\r86% [15 galera-3 907 kB/10,4 MB 9%]                       215 kB/s 1min. 13seg."
+    ],
+    [
+      0.500556,
+      "\r87% [15 galera-3 985 kB/10,4 MB 10%]                      215 kB/s 1min. 12seg."
+    ],
+    [
+      0.500709,
+      "\r87% [15 galera-3 1.083 kB/10,4 MB 10%]                    215 kB/s 1min. 12seg."
+    ],
+    [
+      0.500796,
+      "\r87% [15 galera-3 1.181 kB/10,4 MB 11%]                    215 kB/s 1min. 11seg."
+    ],
+    [
+      0.501046,
+      "\r87% [15 galera-3 1.282 kB/10,4 MB 12%]                    215 kB/s 1min. 11seg."
+    ],
+    [
+      0.500150,
+      "\r87% [15 galera-3 1.386 kB/10,4 MB 13%]                    215 kB/s 1min. 10seg."
+    ],
+    [
+      0.500954,
+      "\r87% [15 galera-3 1.501 kB/10,4 MB 14%]                    215 kB/s 1min. 10seg."
+    ],
+    [
+      0.500514,
+      "\r87% [15 galera-3 1.618 kB/10,4 MB 16%]                     215 kB/s 1min. 9seg."
+    ],
+    [
+      0.500874,
+      "\r87% [15 galera-3 1.736 kB/10,4 MB 17%]                    186 kB/s 1min. 19seg."
+    ],
+    [
+      0.500452,
+      "\r87% [15 galera-3 1.870 kB/10,4 MB 18%]                    186 kB/s 1min. 19seg."
+    ],
+    [
+      0.500947,
+      "\r87% [15 galera-3 1.988 kB/10,4 MB 19%]                    186 kB/s 1min. 18seg."
+    ],
+    [
+      0.500624,
+      "\r88% [15 galera-3 2.097 kB/10,4 MB 20%]                    186 kB/s 1min. 17seg."
+    ],
+    [
+      0.500715,
+      "\r88% [15 galera-3 2.185 kB/10,4 MB 21%]                    186 kB/s 1min. 17seg."
+    ],
+    [
+      0.500783,
+      "\r88% [15 galera-3 2.273 kB/10,4 MB 22%]                    186 kB/s 1min. 16seg."
+    ],
+    [
+      0.501853,
+      "\r88% [15 galera-3 2.366 kB/10,4 MB 23%]                    186 kB/s 1min. 16seg."
+    ],
+    [
+      0.499329,
+      "\r88% [15 galera-3 2.464 kB/10,4 MB 24%]                    186 kB/s 1min. 15seg."
+    ],
+    [
+      0.500711,
+      "\r88% [15 galera-3 2.581 kB/10,4 MB 25%]                    186 kB/s 1min. 15seg."
+    ],
+    [
+      0.500830,
+      "\r88% [15 galera-3 2.679 kB/10,4 MB 26%]                    186 kB/s 1min. 14seg."
+    ],
+    [
+      0.501054,
+      "\r88% [15 galera-3 2.761 kB/10,4 MB 27%]                    186 kB/s 1min. 14seg."
+    ],
+    [
+      0.500702,
+      "\r88% [15 galera-3 2.847 kB/10,4 MB 28%]                    186 kB/s 1min. 13seg."
+    ],
+    [
+      0.500633,
+      "\r88% [15 galera-3 2.945 kB/10,4 MB 28%]                     201 kB/s 1min. 7seg."
+    ],
+    [
+      0.500564,
+      "\r88% [15 galera-3 3.043 kB/10,4 MB 29%]                     201 kB/s 1min. 7seg."
+    ],
+    [
+      0.500882,
+      "\r88% [15 galera-3 3.150 kB/10,4 MB 30%]                     201 kB/s 1min. 6seg."
+    ],
+    [
+      0.500443,
+      "\r89% [15 galera-3 3.259 kB/10,4 MB 31%]                     201 kB/s 1min. 6seg."
+    ],
+    [
+      0.500872,
+      "\r89% [15 galera-3 3.391 kB/10,4 MB 33%]                     201 kB/s 1min. 5seg."
+    ],
+    [
+      0.500902,
+      "\r89% [15 galera-3 3.486 kB/10,4 MB 34%]                     201 kB/s 1min. 5seg."
+    ],
+    [
+      0.500361,
+      "\r89% [15 galera-3 3.603 kB/10,4 MB 35%]                     201 kB/s 1min. 4seg."
+    ],
+    [
+      0.500900,
+      "\r89% [15 galera-3 3.707 kB/10,4 MB 36%]                     201 kB/s 1min. 4seg."
+    ],
+    [
+      0.500627,
+      "\r89% [15 galera-3 3.827 kB/10,4 MB 37%]                     201 kB/s 1min. 3seg."
+    ],
+    [
+      0.500706,
+      "\r89% [15 galera-3 3.937 kB/10,4 MB 38%]                     201 kB/s 1min. 2seg."
+    ],
+    [
+      0.500688,
+      "\r89% [15 galera-3 4.035 kB/10,4 MB 39%]                     201 kB/s 1min. 2seg."
+    ],
+    [
+      0.500673,
+      "\r89% [15 galera-3 4.135 kB/10,4 MB 40%]                     201 kB/s 1min. 1seg."
+    ],
+    [
+      0.501323,
+      "\r89% [15 galera-3 4.231 kB/10,4 MB 41%]                          214 kB/s 57seg."
+    ],
+    [
+      0.500388,
+      "\r89% [15 galera-3 4.333 kB/10,4 MB 42%]                          214 kB/s 57seg."
+    ],
+    [
+      0.500447,
+      "\r90% [15 galera-3 4.429 kB/10,4 MB 43%]                          214 kB/s 56seg."
+    ],
+    [
+      0.500783,
+      "\r90% [15 galera-3 4.541 kB/10,4 MB 44%]                          214 kB/s 56seg."
+    ],
+    [
+      0.500656,
+      "\r90% [15 galera-3 4.659 kB/10,4 MB 45%]                          214 kB/s 55seg."
+    ],
+    [
+      0.500664,
+      "\r90% [15 galera-3 4.777 kB/10,4 MB 46%]                          214 kB/s 55seg."
+    ],
+    [
+      0.500670,
+      "\r90% [15 galera-3 4.903 kB/10,4 MB 47%]                          214 kB/s 54seg."
+    ],
+    [
+      0.500640,
+      "\r90% [15 galera-3 5.026 kB/10,4 MB 49%]                          214 kB/s 54seg."
+    ],
+    [
+      0.500805,
+      "\r90% [15 galera-3 5.149 kB/10,4 MB 50%]                          214 kB/s 53seg."
+    ],
+    [
+      0.500511,
+      "\r90% [15 galera-3 5.275 kB/10,4 MB 51%]                          214 kB/s 52seg."
+    ],
+    [
+      0.501050,
+      "\r90% [15 galera-3 5.412 kB/10,4 MB 52%]                          214 kB/s 52seg."
+    ],
+    [
+      0.500388,
+      "\r90% [15 galera-3 5.549 kB/10,4 MB 54%]                          214 kB/s 51seg."
+    ],
+    [
+      0.500699,
+      "\r91% [15 galera-3 5.666 kB/10,4 MB 55%]                          239 kB/s 45seg."
+    ],
+    [
+      0.501161,
+      "\r91% [15 galera-3 5.799 kB/10,4 MB 56%]                          239 kB/s 45seg."
+    ],
+    [
+      0.500946,
+      "\r91% [15 galera-3 5.915 kB/10,4 MB 57%]                          239 kB/s 44seg."
+    ],
+    [
+      0.500398,
+      "\r91% [15 galera-3 6.031 kB/10,4 MB 58%]                          239 kB/s 44seg."
+    ],
+    [
+      0.500742,
+      "\r91% [15 galera-3 6.137 kB/10,4 MB 59%]                          239 kB/s 43seg."
+    ],
+    [
+      0.500604,
+      "\r91% [15 galera-3 6.228 kB/10,4 MB 60%]                          239 kB/s 43seg."
+    ],
+    [
+      0.500957,
+      "\r91% [15 galera-3 6.331 kB/10,4 MB 61%]                          239 kB/s 43seg."
+    ],
+    [
+      0.500732,
+      "\r91% [15 galera-3 6.440 kB/10,4 MB 62%]                          239 kB/s 42seg."
+    ],
+    [
+      0.500597,
+      "\r91% [15 galera-3 6.557 kB/10,4 MB 63%]                          239 kB/s 42seg."
+    ],
+    [
+      0.500558,
+      "\r91% [15 galera-3 6.661 kB/10,4 MB 64%]                          239 kB/s 41seg."
+    ],
+    [
+      0.500736,
+      "\r92% [15 galera-3 6.745 kB/10,4 MB 65%]                          239 kB/s 41seg."
+    ],
+    [
+      0.500838,
+      "\r92% [15 galera-3 6.854 kB/10,4 MB 66%]                          239 kB/s 40seg."
+    ],
+    [
+      0.500671,
+      "\r92% [15 galera-3 6.944 kB/10,4 MB 67%]                          213 kB/s 45seg."
+    ],
+    [
+      0.500597,
+      "\r92% [15 galera-3 7.031 kB/10,4 MB 68%]                          213 kB/s 44seg."
+    ],
+    [
+      0.500737,
+      "\r92% [15 galera-3 7.126 kB/10,4 MB 69%]                          213 kB/s 44seg."
+    ],
+    [
+      0.500641,
+      "\r92% [15 galera-3 7.224 kB/10,4 MB 70%]                          213 kB/s 44seg."
+    ],
+    [
+      0.500708,
+      "\r92% [15 galera-3 7.322 kB/10,4 MB 71%]                          213 kB/s 43seg."
+    ],
+    [
+      0.500737,
+      "\r92% [15 galera-3 7.439 kB/10,4 MB 72%]                          213 kB/s 43seg."
+    ],
+    [
+      0.500673,
+      "\r92% [15 galera-3 7.535 kB/10,4 MB 73%]                          213 kB/s 42seg."
+    ],
+    [
+      0.500780,
+      "\r92% [15 galera-3 7.633 kB/10,4 MB 74%]                          213 kB/s 42seg."
+    ],
+    [
+      0.500868,
+      "\r92% [15 galera-3 7.711 kB/10,4 MB 74%]                          213 kB/s 41seg."
+    ],
+    [
+      0.500718,
+      "\r92% [15 galera-3 7.789 kB/10,4 MB 75%]                          213 kB/s 41seg."
+    ],
+    [
+      0.500940,
+      "\r92% [15 galera-3 7.857 kB/10,4 MB 76%]                          213 kB/s 41seg."
+    ],
+    [
+      0.500327,
+      "\r93% [15 galera-3 7.938 kB/10,4 MB 77%]                          213 kB/s 40seg."
+    ],
+    [
+      0.500915,
+      "\r93% [15 galera-3 8.030 kB/10,4 MB 78%]                          181 kB/s 47seg."
+    ],
+    [
+      0.500617,
+      "\r93% [15 galera-3 8.128 kB/10,4 MB 79%]                          181 kB/s 46seg."
+    ],
+    [
+      0.500809,
+      "\r93% [15 galera-3 8.229 kB/10,4 MB 79%]                          181 kB/s 46seg."
+    ],
+    [
+      0.500681,
+      "\r93% [15 galera-3 8.321 kB/10,4 MB 80%]                          181 kB/s 45seg."
+    ],
+    [
+      0.500638,
+      "\r93% [15 galera-3 8.428 kB/10,4 MB 81%]                          181 kB/s 45seg."
+    ],
+    [
+      0.500706,
+      "\r93% [15 galera-3 8.545 kB/10,4 MB 83%]                          181 kB/s 44seg."
+    ],
+    [
+      0.500765,
+      "\r93% [15 galera-3 8.657 kB/10,4 MB 84%]                          181 kB/s 43seg."
+    ],
+    [
+      0.501123,
+      "\r93% [15 galera-3 8.775 kB/10,4 MB 85%]                          181 kB/s 43seg."
+    ],
+    [
+      0.500397,
+      "\r93% [15 galera-3 8.907 kB/10,4 MB 86%]                          181 kB/s 42seg."
+    ],
+    [
+      0.500640,
+      "\r93% [15 galera-3 9.020 kB/10,4 MB 87%]                          181 kB/s 41seg."
+    ],
+    [
+      0.500726,
+      "\r94% [15 galera-3 9.160 kB/10,4 MB 88%]                          181 kB/s 41seg."
+    ],
+    [
+      0.500521,
+      "\r94% [15 galera-3 9.306 kB/10,4 MB 90%]                          181 kB/s 40seg."
+    ],
+    [
+      0.500691,
+      "\r94% [15 galera-3 9.406 kB/10,4 MB 91%]                          229 kB/s 31seg."
+    ],
+    [
+      0.500739,
+      "\r94% [15 galera-3 9.510 kB/10,4 MB 92%]                          229 kB/s 30seg."
+    ],
+    [
+      0.500373,
+      "\r94% [15 galera-3 9.625 kB/10,4 MB 93%]                          229 kB/s 30seg."
+    ],
+    [
+      0.500971,
+      "\r94% [15 galera-3 9.747 kB/10,4 MB 94%]                          229 kB/s 29seg."
+    ],
+    [
+      0.500767,
+      "\r94% [15 galera-3 9.846 kB/10,4 MB 95%]                          229 kB/s 29seg."
+    ],
+    [
+      0.500726,
+      "\r94% [15 galera-3 9.972 kB/10,4 MB 96%]                          229 kB/s 28seg."
+    ],
+    [
+      0.500905,
+      "\r94% [15 galera-3 10,1 MB/10,4 MB 98%]                           229 kB/s 28seg."
+    ],
+    [
+      0.500623,
+      "\r95% [15 galera-3 10,2 MB/10,4 MB 99%]                           229 kB/s 27seg."
+    ],
+    [
+      0.407695,
+      "\r95% [Trabajando]                                                229 kB/s 27seg."
+    ],
+    [
+      0.166788,
+      "\r                                                                               \rDes:16 http://releases.galeracluster.com/debian/ wheezy/main galera-arbitrator-3 amd64 25.3.10-1wheezy [6.105 kB]\r\n95% [16 galera-arbitrator-3 0 B/6.105 kB 0%]                    229 kB/s 27seg."
+    ],
+    [
+      0.500684,
+      "\r95% [16 galera-arbitrator-3 106 kB/6.105 kB 2%]                 229 kB/s 26seg."
+    ],
+    [
+      0.500351,
+      "\r95% [16 galera-arbitrator-3 206 kB/6.105 kB 3%]                 229 kB/s 26seg."
+    ],
+    [
+      0.500831,
+      "\r95% [16 galera-arbitrator-3 297 kB/6.105 kB 5%]                 229 kB/s 25seg."
+    ],
+    [
+      0.500585,
+      "\r95% [16 galera-arbitrator-3 372 kB/6.105 kB 6%]                 217 kB/s 27seg."
+    ],
+    [
+      0.500684,
+      "\r95% [16 galera-arbitrator-3 437 kB/6.105 kB 7%]                 217 kB/s 26seg."
+    ],
+    [
+      0.500856,
+      "\r95% [16 galera-arbitrator-3 493 kB/6.105 kB 8%]                 217 kB/s 26seg."
+    ],
+    [
+      0.500710,
+      "\r95% [16 galera-arbitrator-3 557 kB/6.105 kB 9%]                 217 kB/s 26seg."
+    ],
+    [
+      0.500771,
+      "\r95% [16 galera-arbitrator-3 619 kB/6.105 kB 10%]                217 kB/s 25seg."
+    ],
+    [
+      0.500689,
+      "\r95% [16 galera-arbitrator-3 691 kB/6.105 kB 11%]                217 kB/s 25seg."
+    ],
+    [
+      0.500692,
+      "\r95% [16 galera-arbitrator-3 759 kB/6.105 kB 12%]                217 kB/s 25seg."
+    ],
+    [
+      0.501007,
+      "\r95% [16 galera-arbitrator-3 837 kB/6.105 kB 14%]                217 kB/s 24seg."
+    ],
+    [
+      0.500553,
+      "\r95% [16 galera-arbitrator-3 929 kB/6.105 kB 15%]                217 kB/s 24seg."
+    ],
+    [
+      0.500482,
+      "\r96% [16 galera-arbitrator-3 1.027 kB/6.105 kB 17%]              217 kB/s 24seg."
+    ],
+    [
+      0.500764,
+      "\r96% [16 galera-arbitrator-3 1.134 kB/6.105 kB 19%]              217 kB/s 23seg."
+    ],
+    [
+      0.500598,
+      "\r96% [16 galera-arbitrator-3 1.249 kB/6.105 kB 20%]              217 kB/s 23seg."
+    ],
+    [
+      0.500816,
+      "\r96% [16 galera-arbitrator-3 1.377 kB/6.105 kB 23%]              167 kB/s 29seg."
+    ],
+    [
+      0.500556,
+      "\r96% [16 galera-arbitrator-3 1.485 kB/6.105 kB 24%]              167 kB/s 28seg."
+    ],
+    [
+      0.500632,
+      "\r96% [16 galera-arbitrator-3 1.603 kB/6.105 kB 26%]              167 kB/s 27seg."
+    ],
+    [
+      0.500697,
+      "\r96% [16 galera-arbitrator-3 1.726 kB/6.105 kB 28%]              167 kB/s 27seg."
+    ],
+    [
+      0.501238,
+      "\r96% [16 galera-arbitrator-3 1.838 kB/6.105 kB 30%]              167 kB/s 26seg."
+    ],
+    [
+      0.500636,
+      "\r96% [16 galera-arbitrator-3 1.956 kB/6.105 kB 32%]              167 kB/s 25seg."
+    ],
+    [
+      0.500526,
+      "\r96% [16 galera-arbitrator-3 2.065 kB/6.105 kB 34%]              167 kB/s 25seg."
+    ],
+    [
+      0.500492,
+      "\r96% [16 galera-arbitrator-3 2.160 kB/6.105 kB 35%]              167 kB/s 24seg."
+    ],
+    [
+      0.500758,
+      "\r97% [16 galera-arbitrator-3 2.247 kB/6.105 kB 37%]              167 kB/s 23seg."
+    ],
+    [
+      0.500889,
+      "\r97% [16 galera-arbitrator-3 2.331 kB/6.105 kB 38%]              167 kB/s 23seg."
+    ],
+    [
+      0.500354,
+      "\r97% [16 galera-arbitrator-3 2.429 kB/6.105 kB 40%]              167 kB/s 22seg."
+    ],
+    [
+      0.500854,
+      "\r97% [16 galera-arbitrator-3 2.516 kB/6.105 kB 41%]              167 kB/s 22seg."
+    ],
+    [
+      0.500653,
+      "\r97% [16 galera-arbitrator-3 2.622 kB/6.105 kB 43%]              207 kB/s 17seg."
+    ],
+    [
+      0.500814,
+      "\r97% [16 galera-arbitrator-3 2.709 kB/6.105 kB 44%]              207 kB/s 17seg."
+    ],
+    [
+      0.500780,
+      "\r97% [16 galera-arbitrator-3 2.777 kB/6.105 kB 45%]              207 kB/s 16seg."
+    ],
+    [
+      0.500635,
+      "\r97% [16 galera-arbitrator-3 2.843 kB/6.105 kB 47%]              207 kB/s 16seg."
+    ],
+    [
+      0.500631,
+      "\r97% [16 galera-arbitrator-3 2.910 kB/6.105 kB 48%]              207 kB/s 16seg."
+    ],
+    [
+      0.500968,
+      "\r97% [16 galera-arbitrator-3 2.989 kB/6.105 kB 49%]              207 kB/s 15seg."
+    ],
+    [
+      0.500376,
+      "\r97% [16 galera-arbitrator-3 3.062 kB/6.105 kB 50%]              207 kB/s 15seg."
+    ],
+    [
+      0.500738,
+      "\r97% [16 galera-arbitrator-3 3.146 kB/6.105 kB 52%]              207 kB/s 14seg."
+    ],
+    [
+      0.500683,
+      "\r97% [16 galera-arbitrator-3 3.224 kB/6.105 kB 53%]              207 kB/s 14seg."
+    ],
+    [
+      0.500762,
+      "\r97% [16 galera-arbitrator-3 3.300 kB/6.105 kB 54%]              207 kB/s 14seg."
+    ],
+    [
+      0.500764,
+      "\r98% [16 galera-arbitrator-3 3.391 kB/6.105 kB 56%]              207 kB/s 13seg."
+    ],
+    [
+      0.500357,
+      "\r98% [16 galera-arbitrator-3 3.462 kB/6.105 kB 57%]              207 kB/s 13seg."
+    ],
+    [
+      0.500795,
+      "\r98% [16 galera-arbitrator-3 3.540 kB/6.105 kB 58%]              153 kB/s 17seg."
+    ],
+    [
+      0.500634,
+      "\r98% [16 galera-arbitrator-3 3.610 kB/6.105 kB 59%]              153 kB/s 17seg."
+    ],
+    [
+      0.500540,
+      "\r98% [16 galera-arbitrator-3 3.708 kB/6.105 kB 61%]              153 kB/s 16seg."
+    ],
+    [
+      0.500710,
+      "\r98% [16 galera-arbitrator-3 3.809 kB/6.105 kB 62%]              153 kB/s 15seg."
+    ],
+    [
+      0.500722,
+      "\r98% [16 galera-arbitrator-3 3.904 kB/6.105 kB 64%]              153 kB/s 15seg."
+    ],
+    [
+      0.500469,
+      "\r98% [16 galera-arbitrator-3 4.016 kB/6.105 kB 66%]              153 kB/s 14seg."
+    ],
+    [
+      0.500929,
+      "\r98% [16 galera-arbitrator-3 4.128 kB/6.105 kB 68%]              153 kB/s 13seg."
+    ],
+    [
+      0.500683,
+      "\r98% [16 galera-arbitrator-3 4.246 kB/6.105 kB 70%]              153 kB/s 13seg."
+    ],
+    [
+      0.501024,
+      "\r98% [16 galera-arbitrator-3 4.378 kB/6.105 kB 72%]              153 kB/s 12seg."
+    ],
+    [
+      0.500428,
+      "\r99% [16 galera-arbitrator-3 4.515 kB/6.105 kB 74%]              153 kB/s 11seg."
+    ],
+    [
+      0.500679,
+      "\r99% [16 galera-arbitrator-3 4.627 kB/6.105 kB 76%]              153 kB/s 10seg."
+    ],
+    [
+      0.500881,
+      "\r99% [16 galera-arbitrator-3 4.753 kB/6.105 kB 78%]               153 kB/s 9seg."
+    ],
+    [
+      0.500374,
+      "\r99% [16 galera-arbitrator-3 4.879 kB/6.105 kB 80%]               223 kB/s 6seg."
+    ],
+    [
+      0.500841,
+      "\r99% [16 galera-arbitrator-3 5.002 kB/6.105 kB 82%]               223 kB/s 5seg."
+    ],
+    [
+      0.500782,
+      "\r99% [16 galera-arbitrator-3 5.139 kB/6.105 kB 84%]               223 kB/s 4seg."
+    ],
+    [
+      0.500511,
+      "\r99% [16 galera-arbitrator-3 5.276 kB/6.105 kB 86%]               223 kB/s 4seg."
+    ],
+    [
+      0.500671,
+      "\r99% [16 galera-arbitrator-3 5.408 kB/6.105 kB 89%]               223 kB/s 3seg."
+    ],
+    [
+      0.500932,
+      "\r99% [16 galera-arbitrator-3 5.493 kB/6.105 kB 90%]               223 kB/s 3seg."
+    ],
+    [
+      0.500640,
+      "\r99% [16 galera-arbitrator-3 5.610 kB/6.105 kB 92%]               223 kB/s 2seg."
+    ],
+    [
+      0.500549,
+      "\r100% [16 galera-arbitrator-3 5.705 kB/6.105 kB 93%]              223 kB/s 2seg."
+    ],
+    [
+      0.500539,
+      "\r100% [16 galera-arbitrator-3 5.803 kB/6.105 kB 95%]              223 kB/s 2seg."
+    ],
+    [
+      0.500990,
+      "\r100% [16 galera-arbitrator-3 5.898 kB/6.105 kB 97%]              223 kB/s 1seg."
+    ],
+    [
+      0.500547,
+      "\r100% [16 galera-arbitrator-3 5.993 kB/6.105 kB 98%]              223 kB/s 1seg."
+    ],
+    [
+      0.479041,
+      "\r100% [Trabajando]                                                223 kB/s 0seg."
+    ],
+    [
+      0.164816,
+      "\r                                                                               \rDes:17 http://releases.galeracluster.com/debian/ wheezy/main mysql-wsrep-5.6 amd64 5.6.23-25.10-1wheezy [71,6 kB]\r\n100% [17 mysql-wsrep-5.6 0 B/71,6 kB 0%]                         223 kB/s 0seg."
+    ],
+    [
+      0.500545,
+      "\r100% [17 mysql-wsrep-5.6 69,7 kB/71,6 kB 97%]                    211 kB/s 0seg."
+    ],
+    [
+      0.134790,
+      "\r100% [Trabajando]                                                211 kB/s 0seg."
+    ],
+    [
+      0.153777,
+      "\r                                                                               \rDes:18 http://releases.galeracluster.com/debian/ wheezy/main mysql-wsrep-common-5.6 all 5.6.23-25.10-1wheezy [72,2 kB]\r\n100% [18 mysql-wsrep-common-5.6 0 B/72,2 kB 0%]                  211 kB/s 0seg."
+    ],
+    [
+      0.293280,
+      "\r100% [Trabajando]                                                211 kB/s 0seg.\r                                                                               \rDescargados 116 MB en 8min. 2seg. (241 kB/s)\r\n"
+    ],
+    [
+      0.215877,
+      "Preconfigurando paquetes ...\r\n"
+    ],
+    [
+      0.035278,
+      "\u001b[H\u001b[?25l\u001b[37m\u001b[40m\u001b[39m\u001b[49m\u001b[H\u001b[2J\u001b[37m\u001b[40m\u001b[1m\u001b[44m                                                                                \r\n                                                                                \r\n                                                                                \r\n                                                                                \r\n                                                                                \r\n                                                                                \r\n                                                                                \r\n                                                                                \r\n                                                                                \r\n                                                                                \r\n                                                                                \r\n                                                                                \r\n                                                                                \r\n                                                                                \r\n                                                                                \r\n                                                                                \r\n                                                                                \r\n                                                                                \r\n                                                                                \r\n                                                                                \r\n                                                                                \r\n                                                                                \r\n                                                                                \r\n                                                                               \u0008 \u0008\u001b[4h \u001b[4l\u001b[H"
+    ],
+    [
+      0.003578,
+      "\u001b[?12l\u001b[?25h\u001b[0m\u001b[37m\u001b[44mConfiguración de paquetes\u001b[6;5H\u001b[30m\u001b[47m┌─────────────┤ \u001b[31mConfiguración de mysql-wsrep-server-5.6\u001b[30m ├─────────────┐\u001b[7;5H│ Se recomienda que configure una contraseña para el usuario «root»   │\u001b[1m\u001b[37m\u001b[40m \u001b[8;5H\u001b[0m\u001b[30m\u001b[47m│ (administrador) de MySQL, aunque no es obligatorio.                 │\u001b[1m\u001b[37m\u001b[40m \u001b[9;5H\u001b[0m\u001b[30m\u001b[47m│                                                                     │\u001b[1m\u001b[37m\u001b[40m \u001b[72D\n\u001b[0m\u001b[30m\u001b[47m│ No se modificará la contraseña si deja el espacio en blanco.        │\u001b[1m\u001b[37m\u001b[40m \u001b[72D\n\u001b[0m\u001b[30m\u001b[47m│                                                                     │\u001b[1m\u001b[37m\u001b[40m \u001b[72D\n\u001b[0m\u001b[30m\u001b[47m│ Nueva contraseña para el usuario «root» de MySQL:                   │\u001b[1m\u001b[37m\u001b[40m \u001b[72D\n\u001b[0m\u001b[30m\u001b[47m│                                                                     │\u001b[1m\u001b[37m\u001b[40m \u001b[72D\n\u001b[0m\u001b[30m\u001b[47m│ \u001b[37m\u001b[44m___________________________________________________________________\u001b[30m\u001b[47m │\u001b[1m\u001b[37m\u001b[40m \u001b[72D\n\u001b[0m\u001b[30m\u001b[47m│                                                                     │\u001b[1m\u001b[37m\u001b[40m \u001b[72D\n\u001b[0m\u001b[30m\u001b[47m│                               \u003cAceptar\u003e                             │\u001b[1m\u001b[37m\u001b[40m \u001b[72D\n\u001b[0m\u001b[30m\u001b[47m│                                                                     │\u001b[1m\u001b[37m\u001b[40m \u001b[72D\n\u001b[0m\u001b[30m\u001b[47m└─────────────────────────────────────────────────────────────────────┘\u001b[1m\u001b[37m\u001b[40m \u001b[71D\n                                                                       \u001b[14;7H"
+    ],
+    [
+      96.339092,
+      "\u001b[0m\u001b[37m\u001b[44m*"
+    ],
+    [
+      0.188444,
+      "*"
+    ],
+    [
+      0.766004,
+      "*"
+    ],
+    [
+      0.150602,
+      "*"
+    ],
+    [
+      0.123039,
+      "*"
+    ],
+    [
+      0.194625,
+      "*"
+    ],
+    [
+      0.151022,
+      "*"
+    ],
+    [
+      0.102783,
+      "*"
+    ],
+    [
+      0.164972,
+      "\u001b[?25l"
+    ],
+    [
+      0.000547,
+      "\u001b[?12l\u001b[?25h\r\u001b[10B\u001b[40m\u001b[39m\u001b[49m                                                                               \r"
+    ],
+    [
+      0.013319,
+      "\u001b[H\u001b[?25l\u001b[37m\u001b[40m\u001b[39m\u001b[49m\u001b[H\u001b[2J\u001b[37m\u001b[40m\u001b[1m\u001b[44m                                                                                \r\n                                                                                \r\n                                                                                \r\n                                                                                \r\n                                                                                \r\n                                                                                \r\n                                                                                \r\n                                                                                \r\n                                                                                \r\n                                                                                \r\n                                                                                \r\n                                                                                \r\n                                                                                \r\n                                                                                \r\n                                                                                \r\n                                                                                \r\n                                                                                \r\n                                                                                \r\n                                                                                \r\n                                                                                \r\n                                                                                \r\n                                                                                \r\n                                                                                \r\n                                                                               \u0008 \u0008\u001b[4h \u001b[4l\u001b[H"
+    ],
+    [
+      0.001540,
+      "\u001b[?12l\u001b[?25h\u001b[0m\u001b[37m\u001b[44mConfiguración de paquetes\u001b[8;14H\u001b[30m\u001b[47m┌────┤ \u001b[31mConfiguración de mysql-wsrep-server-5.6\u001b[30m ├─────┐\u001b[54D\n│                                                    │\u001b[1m\u001b[37m\u001b[40m \u001b[55D\n\u001b[0m\u001b[30m\u001b[47m│                                                    │\u001b[1m\u001b[37m\u001b[40m \u001b[55D\n\u001b[0m\u001b[30m\u001b[47m│ Nueva contraseña para el usuario «root» de MySQL:  │\u001b[1m\u001b[37m\u001b[40m \u001b[55D\n\u001b[0m\u001b[30m\u001b[47m│                                                    │\u001b[1m\u001b[37m\u001b[40m \u001b[55D\n\u001b[0m\u001b[30m\u001b[47m│ \u001b[37m\u001b[44m__________________________________________________\u001b[30m\u001b[47m │\u001b[1m\u001b[37m\u001b[40m \u001b[55D\n\u001b[0m\u001b[30m\u001b[47m│                                                    │\u001b[1m\u001b[37m\u001b[40m \u001b[55D\n\u001b[0m\u001b[30m\u001b[47m│                       \u003cAceptar\u003e                    │\u001b[1m\u001b[37m\u001b[40m \u001b[55D\n\u001b[0m\u001b[30m\u001b[47m│                                                    │\u001b[1m\u001b[37m\u001b[40m \u001b[55D\n\u001b[0m\u001b[30m\u001b[47m└────────────────────────────────────────────────────┘\u001b[1m\u001b[37m\u001b[40m \u001b[54D\n                                                      \u001b[13;16H"
+    ],
+    [
+      0.590123,
+      "\u001b[0m\u001b[37m\u001b[44m*"
+    ],
+    [
+      0.178970,
+      "*"
+    ],
+    [
+      0.358778,
+      "*"
+    ],
+    [
+      0.139486,
+      "*"
+    ],
+    [
+      0.114183,
+      "*"
+    ],
+    [
+      0.196584,
+      "*"
+    ],
+    [
+      0.140040,
+      "*"
+    ],
+    [
+      0.093650,
+      "*"
+    ],
+    [
+      0.160287,
+      "\u001b[?25l"
+    ],
+    [
+      0.000076,
+      "\u001b[?12l\u001b[?25h\r\u001b[11B\u001b[40m\u001b[39m\u001b[49m                                                                               \r"
+    ],
+    [
+      0.356845,
+      "Seleccionando el paquete libaio1:amd64 previamente no seleccionado.\r\n(Leyendo la base de datos ... \r(Leyendo la base de datos ... 5%\r(Leyendo la base de datos ... 10%\r(Leyendo la base de datos ... 15%\r(Leyendo la base de datos ... 20%\r(Leyendo la base de datos ... 25%\r(Leyendo la base de datos ... 30%\r(Leyendo la base de datos ... 35%\r(Leyendo la base de datos ... 40%\r(Leyendo la base de datos ... 45%\r(Leyendo la base de datos ... 50%\r(Leyendo la base de datos ... 55%\r(Leyendo la base de datos ... 60%\r(Leyendo la base de datos ... 65%\r(Leyendo la base de datos ... 70%\r(Leyendo la base de datos ... 75%\r"
+    ],
+    [
+      0.001003,
+      "(Leyendo la base de datos ... 80%\r"
+    ],
+    [
+      0.001580,
+      "(Leyendo la base de datos ... 85%\r"
+    ],
+    [
+      0.001790,
+      "(Leyendo la base de datos ... 90%\r"
+    ],
+    [
+      0.001922,
+      "(Leyendo la base de datos ... 95%\r"
+    ],
+    [
+      0.001829,
+      "(Leyendo la base de datos ... 100%\r(Leyendo la base de datos ... 26260 ficheros o directorios instalados actualmente.)\r\n"
+    ],
+    [
+      0.001248,
+      "Desempaquetando libaio1:amd64 (de .../libaio1_0.3.109-3_amd64.deb) ...\r\n"
+    ],
+    [
+      0.358511,
+      "Seleccionando el paquete mysql-common previamente no seleccionado.\r\nDesempaquetando mysql-common (de .../mysql-common_5.5.43-0+deb7u1_all.deb) ...\r\n"
+    ],
+    [
+      0.386797,
+      "Seleccionando el paquete libmysqlclient18:amd64 previamente no seleccionado.\r\nDesempaquetando libmysqlclient18:amd64 (de .../libmysqlclient18_5.5.43-0+deb7u1_amd64.deb) ...\r\n"
+    ],
+    [
+      0.496371,
+      "Seleccionando el paquete mysql-wsrep-common previamente no seleccionado.\r\nDesempaquetando mysql-wsrep-common (de .../mysql-wsrep-common_5.6.23-25.10-1wheezy_all.deb) ...\r\n"
+    ],
+    [
+      0.058933,
+      "Reemplazando ficheros del paquete antiguo mysql-common ...\r\n"
+    ],
+    [
+      0.386250,
+      "Seleccionando el paquete mysql-wsrep-libmysqlclient18:amd64 previamente no seleccionado.\r\nDesempaquetando mysql-wsrep-libmysqlclient18:amd64 (de .../mysql-wsrep-libmysqlclient18_5.6.23-25.10-1wheezy_amd64.deb) ...\r\n"
+    ],
+    [
+      0.147819,
+      "Reemplazando ficheros del paquete antiguo libmysqlclient18:amd64 ..."
+    ],
+    [
+      0.000220,
+      "\r\n"
+    ],
+    [
+      0.423688,
+      "Seleccionando el paquete libdbi-perl previamente no seleccionado.\r\nDesempaquetando libdbi-perl (de .../libdbi-perl_1.622-1+deb7u1_amd64.deb) ...\r\n"
+    ],
+    [
+      0.599324,
+      "Seleccionando el paquete libdbd-mysql-perl previamente no seleccionado.\r\nDesempaquetando libdbd-mysql-perl (de .../libdbd-mysql-perl_4.021-1+b1_amd64.deb) ...\r\n"
+    ],
+    [
+      0.470977,
+      "Seleccionando el paquete libterm-readkey-perl previamente no seleccionado.\r\nDesempaquetando libterm-readkey-perl (de .../libterm-readkey-perl_2.30-4+b2_amd64.deb) ...\r\n"
+    ],
+    [
+      0.378791,
+      "Seleccionando el paquete mysql-wsrep-client-5.6 previamente no seleccionado.\r\nDesempaquetando mysql-wsrep-client-5.6 (de .../mysql-wsrep-client-5.6_5.6.23-25.10-1wheezy_amd64.deb) ...\r\n"
+    ],
+    [
+      2.438931,
+      "Seleccionando el paquete socat previamente no seleccionado.\r\nDesempaquetando socat (de .../socat_1.7.1.3-1.4_amd64.deb) ...\r\n"
+    ],
+    [
+      0.501209,
+      "Seleccionando el paquete rsync previamente no seleccionado.\r\nDesempaquetando rsync (de .../rsync_3.0.9-4_amd64.deb) ...\r\n"
+    ],
+    [
+      0.388655,
+      "Procesando disparadores para man-db ...\r\n"
+    ],
+    [
+      1.498610,
+      "Configurando mysql-wsrep-common (5.6.23-25.10-1wheezy) ...\r\n"
+    ],
+    [
+      1.191585,
+      "Seleccionando el paquete mysql-wsrep-server-5.6 previamente no seleccionado.\r\n(Leyendo la base de datos ... \r(Leyendo la base de datos ... 5%\r(Leyendo la base de datos ... 10%\r(Leyendo la base de datos ... 15%\r(Leyendo la base de datos ... 20%\r(Leyendo la base de datos ... 25%\r(Leyendo la base de datos ... 30%\r(Leyendo la base de datos ... 35%\r(Leyendo la base de datos ... 40%\r(Leyendo la base de datos ... 45%\r(Leyendo la base de datos ... 50%\r(Leyendo la base de datos ... 55%\r(Leyendo la base de datos ... 60%\r(Leyendo la base de datos ... 65%\r(Leyendo la base de datos ... 70%\r"
+    ],
+    [
+      0.002945,
+      "(Leyendo la base de datos ... 75%\r"
+    ],
+    [
+      0.002757,
+      "(Leyendo la base de datos ... 80%\r"
+    ],
+    [
+      0.001297,
+      "(Leyendo la base de datos ... 85%\r"
+    ],
+    [
+      0.002804,
+      "(Leyendo la base de datos ... 90%\r(Leyendo la base de datos ... 95%\r"
+    ],
+    [
+      0.001574,
+      "(Leyendo la base de datos ... 100%\r(Leyendo la base de datos ... 26597 ficheros o directorios instalados actualmente.)\r\n"
+    ],
+    [
+      0.001040,
+      "Desempaquetando mysql-wsrep-server-5.6 (de .../mysql-wsrep-server-5.6_5.6.23-25.10-1wheezy_amd64.deb) ...\r\n"
+    ],
+    [
+      5.061120,
+      "Seleccionando el paquete galera-3 previamente no seleccionado.\r\nDesempaquetando galera-3 (de .../galera-3_25.3.10-1wheezy_amd64.deb) ...\r\n"
+    ],
+    [
+      1.052533,
+      "Seleccionando el paquete netcat-openbsd previamente no seleccionado.\r\nDesempaquetando netcat-openbsd (de .../netcat-openbsd_1.105-7_amd64.deb) ...\r\n"
+    ],
+    [
+      0.472678,
+      "Seleccionando el paquete galera-arbitrator-3 previamente no seleccionado.\r\nDesempaquetando galera-arbitrator-3 (de .../galera-arbitrator-3_25.3.10-1wheezy_amd64.deb) ...\r\n"
+    ],
+    [
+      0.836996,
+      "Seleccionando el paquete libhtml-template-perl previamente no seleccionado.\r\nDesempaquetando libhtml-template-perl (de .../libhtml-template-perl_2.91-1_all.deb) ...\r\n"
+    ],
+    [
+      0.418486,
+      "Seleccionando el paquete mysql-wsrep-5.6 previamente no seleccionado.\r\nDesempaquetando mysql-wsrep-5.6 (de .../mysql-wsrep-5.6_5.6.23-25.10-1wheezy_amd64.deb) ...\r\n"
+    ],
+    [
+      0.339101,
+      "Seleccionando el paquete mysql-wsrep-common-5.6 previamente no seleccionado.\r\nDesempaquetando mysql-wsrep-common-5.6 (de .../mysql-wsrep-common-5.6_5.6.23-25.10-1wheezy_all.deb) ...\r\n"
+    ],
+    [
+      0.207342,
+      "Procesando disparadores para man-db ...\r\n"
+    ],
+    [
+      1.334911,
+      "Configurando libaio1:amd64 (0.3.109-3) ...\r\n"
+    ],
+    [
+      0.245795,
+      "Configurando mysql-common (5.5.43-0+deb7u1) ...\r\n"
+    ],
+    [
+      0.125863,
+      "Configurando libmysqlclient18:amd64 (5.5.43-0+deb7u1) ..."
+    ],
+    [
+      0.000265,
+      "\r\n"
+    ],
+    [
+      0.160682,
+      "Configurando mysql-wsrep-libmysqlclient18:amd64 (5.6.23-25.10-1wheezy) ...\r\n"
+    ],
+    [
+      0.152608,
+      "Configurando libdbi-perl (1.622-1+deb7u1) ...\r\n"
+    ],
+    [
+      0.109468,
+      "Configurando libdbd-mysql-perl (4.021-1+b1) ...\r\n"
+    ],
+    [
+      0.126232,
+      "Configurando libterm-readkey-perl (2.30-4+b2) ...\r\n"
+    ],
+    [
+      0.126294,
+      "Configurando mysql-wsrep-client-5.6 (5.6.23-25.10-1wheezy) ...\r\n"
+    ],
+    [
+      0.127219,
+      "Configurando socat (1.7.1.3-1.4) ...\r\n"
+    ],
+    [
+      0.124810,
+      "Configurando rsync (3.0.9-4) ..."
+    ],
+    [
+      0.000176,
+      "\r\n"
+    ],
+    [
+      0.180301,
+      "update-rc.d: using dependency based boot sequencing\r\n"
+    ],
+    [
+      0.115480,
+      "Configurando mysql-wsrep-server-5.6 (5.6.23-25.10-1wheezy) ...\r\n"
+    ],
+    [
+      0.579819,
+      "MySQL server PID file could not be found! ..."
+    ],
+    [
+      0.002513,
+      " failed!"
+    ],
+    [
+      0.000251,
+      "\r\n"
+    ],
+    [
+      8.028286,
+      "2015-05-03 17:07:42 0 [Warning] Using unique option prefix key_buffer instead of key_buffer_size is deprecated and will be removed in a future release. Please use the full name instead.\r\n2015-05-03 17:07:42 0 [Warning] TIMESTAMP with implicit DEFAULT value is deprecated. Please use --explicit_defaults_for_timestamp server option (see documentation for more details).\r\n"
+    ],
+    [
+      7.845647,
+      "Configurando galera-3 (25.3.10-1wheezy) ...\r\n"
+    ],
+    [
+      0.126857,
+      "Configurando netcat-openbsd (1.105-7) ...\r\n"
+    ],
+    [
+      0.095322,
+      "update-alternatives: utilizando /bin/nc.openbsd para proveer /bin/nc (nc) en modo automático\r\n"
+    ],
+    [
+      0.064467,
+      "Configurando galera-arbitrator-3 (25.3.10-1wheezy) ...\r\n"
+    ],
+    [
+      0.207710,
+      "List of GALERA_NODES is not configured ..."
+    ],
+    [
+      0.004124,
+      " failed!\r\n"
+    ],
+    [
+      0.042213,
+      "Configurando libhtml-template-perl (2.91-1) ...\r\n"
+    ],
+    [
+      0.126799,
+      "Configurando mysql-wsrep-5.6 (5.6.23-25.10-1wheezy) ...\r\n"
+    ],
+    [
+      0.126223,
+      "Configurando mysql-wsrep-common-5.6 (5.6.23-25.10-1wheezy) ...\r\n"
+    ],
+    [
+      1.400804,
+      "\u001b[?1l\u001b\u003e\u001b[24;1H\r\n\u001b[?1049l[screen is terminating]\r\nroot@debianGalera:/home/galera# "
+    ],
+    [
+      2.836760,
+      "e"
+    ],
+    [
+      0.175326,
+      "x"
+    ],
+    [
+      0.090245,
+      "i"
+    ],
+    [
+      0.119905,
+      "t"
+    ],
+    [
+      0.141508,
+      "\r\nexit\r\n\u001b]0;galera@debianGalera: ~\u0007galera@debianGalera:~$ "
+    ],
+    [
+      0.275652,
+      "e"
+    ],
+    [
+      0.199305,
+      "x"
+    ],
+    [
+      0.149258,
+      "i"
+    ],
+    [
+      0.131743,
+      "t"
+    ],
+    [
+      0.130478,
+      "\r\nlogout\r\n"
+    ],
+    [
+      0.003429,
+      "Connection to 192.168.1.16 closed.\r\r\n\u001b]0;gabriel@JARVIS: ~\u0007gabriel@JARVIS:~$ "
+    ],
+    [
+      0.311887,
+      "e"
+    ],
+    [
+      0.179062,
+      "x"
+    ],
+    [
+      0.149228,
+      "i"
+    ],
+    [
+      0.130124,
+      "t"
+    ],
+    [
+      0.090807,
+      "\r\nlogout\r\n"
+    ],
+    [
+      0.021844,
+      "Connection to jarvis.titaniumsystem.es closed.\r\r\n\u001b]0;gabriel@spaceCore:~\u0007[gabriel@spaceCore ~]$ "
+    ],
+    [
+      0.816050,
+      "e"
+    ],
+    [
+      0.188701,
+      "x"
+    ],
+    [
+      0.119862,
+      "i"
+    ],
+    [
+      0.139903,
+      "t"
+    ],
+    [
+      0.120314,
+      "\r\nexit\r\n"
+    ]
+  ]
+}
