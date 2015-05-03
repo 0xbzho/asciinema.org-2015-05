@@ -1,0 +1,1006 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 25,
+  "duration": 78.555995,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.038150,
+      "\u001b]0;vagrant@docker-cgroup: ~\u0007vagrant@docker-cgroup:~$ "
+    ],
+    [
+      2.292439,
+      "d"
+    ],
+    [
+      0.103576,
+      "o"
+    ],
+    [
+      0.103924,
+      "c"
+    ],
+    [
+      0.072429,
+      "k"
+    ],
+    [
+      0.087507,
+      "e"
+    ],
+    [
+      0.047978,
+      "r"
+    ],
+    [
+      0.104301,
+      " "
+    ],
+    [
+      0.215754,
+      "-"
+    ],
+    [
+      0.127979,
+      "-"
+    ],
+    [
+      0.167950,
+      "v"
+    ],
+    [
+      0.120407,
+      "e"
+    ],
+    [
+      0.079803,
+      "r"
+    ],
+    [
+      0.127178,
+      "s"
+    ],
+    [
+      0.120361,
+      "i"
+    ],
+    [
+      0.032179,
+      "o"
+    ],
+    [
+      0.120585,
+      "n"
+    ],
+    [
+      0.592003,
+      "\r\n"
+    ],
+    [
+      0.076936,
+      "Docker version 1.6.0, build 4749651\r\n"
+    ],
+    [
+      0.001131,
+      "\u001b]0;vagrant@docker-cgroup: ~\u0007vagrant@docker-cgroup:~$ "
+    ],
+    [
+      1.706307,
+      "\r\u001b[3P(reverse-i-search)`':\u001b[C"
+    ],
+    [
+      0.711636,
+      "\u0008\u0008\u0008g': docker rm high_prio low_prio\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.160656,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008r': cat /proc/cpuinfo | grep processor | wc -l\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.054660,
+      "\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[1@e\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.153498,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[1@p\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      1.160236,
+      "\r\u001b[1P\u001b]0;vagrant@docker-cgroup: ~\u0007vagrant@docker-cgroup:~$\r\u001b]0;vagrant@docker-cgroup: ~\u0007vagrant@docker-cgroup:~$ \u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\r\n"
+    ],
+    [
+      0.003173,
+      "2\r\n"
+    ],
+    [
+      0.000647,
+      "\u001b]0;vagrant@docker-cgroup: ~\u0007vagrant@docker-cgroup:~$ "
+    ],
+    [
+      2.162640,
+      "h"
+    ],
+    [
+      0.159980,
+      "t"
+    ],
+    [
+      0.080808,
+      "o"
+    ],
+    [
+      0.046772,
+      "p"
+    ],
+    [
+      0.448561,
+      "\r\n"
+    ],
+    [
+      0.002829,
+      "\u001b[?1049h\u001b[1;25r\u001b(B\u001b[m\u001b[4l\u001b[?7h\u001b[?1h\u001b=\u001b[?25l"
+    ],
+    [
+      0.000014,
+      "\u001b[39;49m\u001b[?1000h"
+    ],
+    [
+      0.093033,
+      "\u001b[39;49m\u001b(B\u001b[m\u001b[H\u001b[2J\u001b[2d  \u001b[36m1  \u001b[39m\u001b(B\u001b[0;1m[\u001b[30m\u001b[26X\u001b[2;33H0.0%\u001b[39m]\u001b(B\u001b[m     \u001b[36mTasks: \u001b(B\u001b[0;1m\u001b[36m33\u001b(B\u001b[0m\u001b[36m, \u001b(B\u001b[0;1m\u001b[36m30\u001b(B\u001b[0m\u001b[36m thr; \u001b(B\u001b[0;1m\u001b[32m1\u001b(B\u001b[0m\u001b[36m running\u001b[3;3H2  \u001b[39m\u001b(B\u001b[0;1m[\u001b(B\u001b[0m\u001b[32m||||\u001b(B\u001b[0;1m\u001b[30m\u001b[21X\u001b[3;32H11.1%\u001b[39m]\u001b(B\u001b[m     \u001b[36mLoad average: \u001b(B\u001b[0;1m\u001b[30m0.16 \u001b[39m\u001b(B\u001b[m0.18 \u001b(B\u001b[0;1m0.14 \u001b[4;3H\u001b(B\u001b[0m\u001b[36mMem\u001b[39m\u001b(B\u001b[0;1m[\u001b(B\u001b[0m\u001b[32m||||\u001b[34m|\u001b[33m|||||||||||||||233/20\u001b(B\u001b[0;1m\u001b[30m01MB\u001b[39m]\u001b(B\u001b[m     \u001b[36mUptime: \u001b(B\u001b[0;1m\u001b[36m00:29:54\u001b[5;3H\u001b(B\u001b[0m\u001b[36mSwp\u001b[39m\u001b(B\u001b[0;1m[\u001b[30m\u001b[25X\u001b[5;32H0/0MB\u001b[39m]\r\u001b[7d\u001b(B\u001b[0m\u001b[30m\u001b[42m  PID USER      PRI  NI  VIRT   RES   SHR S \u001b[30m\u001b[46mCPU% \u001b[30m\u001b[42mMEM%   TIME+  Command\u001b[K\r\u001b[8d\u001b[30m\u001b[46m28752 vagrant    20   0 24388  1840  1316 R 12.5  0.1  0:00.01 htop\u001b[K\u001b[9;5H\u001b[39;49m\u001b(B\u001b[m1 \u001b(B\u001b[0;1m\u001b[30mroot      \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m37\u001b[39m\u001b(B\u001b[m088 \u001b[36m 6\u001b[39m\u001b(B\u001b[m520 \u001b[36m 1\u001b[39m\u001b(B\u001b[m536 S  0.0  0.3  0:01.85 /sbin/init\u001b[10;3H525 \u001b(B\u001b[0;1m\u001b[30mroot      \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m23\u001b[39m\u001b(B\u001b[m420 \u001b[36m 1\u001b[39m\u001b(B\u001b[m100   796 S  0.0  0.1  0:00.01 rpcbind\u001b[11;3H544 \u001b(B\u001b[0;1m\u001b[30mstatd     \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m21\u001b[39m\u001b(B\u001b[m544 \u001b[36m 1\u001b[39m\u001b(B\u001b[m388   928 S  0.0  0.1  0:00.00 rpc.statd -L\u001b[12;3H557 \u001b(B\u001b[0;1m\u001b[30mroot      \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m10\u001b[39m\u001b(B\u001b[m224 \u001b[36m 2\u001b[39m\u001b(B\u001b[m404   116 S  0.0  0.1  0:00.00 dhclient -1 -v -p\u001b[13;3H871 \u001b(B\u001b[0;1m\u001b[30mmessagebu \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m39\u001b[39m\u001b(B\u001b[m328 \u001b[36m 1\u001b[39m\u001b(B\u001b[m544 \u001b[36m 1\u001b[39m\u001b(B\u001b[m052 S  0.0  0.1  0:00.33 dbus-daemon --sys\u001b[14;3H882 \u001b(B\u001b[0;1m\u001b[30mroot      \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m25\u001b[39m\u001b(B\u001b[m544   432   212 S  0.0  0.0  0:00.00 rpc.idmapd\r\u001b[15d 1037 \u001b(B\u001b[0;1m\u001b[30mroot      \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m14\u001b[39m\u001b(B\u001b[m540   956   796 S  0.0  0.0  0:00.00 /sbin/getty -8 38\u001b[16;2H1040 \u001b(B\u001b[0;1m\u001b[30mroot      \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m14\u001b[39m\u001b(B\u001b[m540   948   796 S  0.0  0.0  0:00.00 /sbin/getty -8 38\u001b[17;2H1045 \u001b(B\u001b[0;1m\u001b[30mroot      \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m14\u001b[39m\u001b(B\u001b[m540   948   796 S  0.0  0.0  0:00.00 /sbin/getty -8 38\u001b[18;2H1046 \u001b(B\u001b[0;1m\u001b[30mroot      \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m14\u001b[39m\u001b(B\u001b[m540   944   796 S  0.0  0.0  0:00.00 /sbin/getty -8 38\u001b[19;2H1048 \u001b(B\u001b[0;1m\u001b[30mroot      \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m14\u001b[39m\u001b(B\u001b[m540   956   796 S  0.0  0.0  0:00.00 /sbin/getty -8 38\u001b[20;2H1087 \u001b(B\u001b[0;1m\u001b[30mroot      \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m23\u001b[39m\u001b(B\u001b[m656   928   708 S  0.0  0.0  0:00.00 cron\r\u001b[21d 1088 \u001b(B\u001b[0;1m\u001b[30mdaemon    \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m19\u001b[39m\u001b(B\u001b[m140   160     0 S  0.0  0.0  0:00.00 atd\r\u001b[22d 1124 \u001b(B\u001b[0;1m\u001b[30mroot      \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m 4\u001b[39m\u001b(B\u001b[m368   652   512 S  0.0  0.0  0:00.00 acpid -c /etc/acp\u001b[23;2H1204 \u001b(B\u001b[0;1m\u001b[30mroot      \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m61\u001b[39m\u001b(B\u001b[m364 \u001b[36m 3\u001b[39m\u001b(B\u001b[m068 \u001b[36m 2\u001b[39m\u001b(B\u001b[m396 S  0.0  0.1  0:00.01 /usr/sbin/sshd -D\u001b[24;2H1585 \u001b(B\u001b[0;1m\u001b[30mroot      \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m 110M 34\u001b[39m\u001b(B\u001b[m540 \u001b[36m 1\u001b[39m\u001b(B\u001b[m100 S  0.0  1.7  0:00.00 ruby /usr/bin/che\u001b[25;1HF1\u001b[30m\u001b[46mHelp  \u001b[39;49m\u001b(B\u001b[mF2\u001b[30m\u001b[46mSetup \u001b[39;49m\u001b(B\u001b[mF3\u001b[30m\u001b[46mSearch\u001b[39;49m\u001b(B\u001b[mF4\u001b[30m\u001b[46mFilter\u001b[39;49m\u001b(B\u001b[mF5\u001b[30m\u001b[46mTree  \u001b[39;49m\u001b(B\u001b[mF6\u001b[30m\u001b[46mSortBy\u001b[39;49m\u001b(B\u001b[mF7\u001b[30m\u001b[46mNice -\u001b[39;49m\u001b(B\u001b[mF8\u001b[30m\u001b[46mNice +\u001b[39;49m\u001b(B\u001b[mF9\u001b[30m\u001b[46mKill  \u001b[39;49m\u001b(B\u001b[mF10\u001b[30m\u001b[46mQuit\u001b[K\u001b[H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      1.506736,
+      "\u001b[9;24r\u001b[9;1H\u001bM\u001b[1;25r\u001b[3;7H\u001b(B\u001b[0;1m\u001b[30m    \u001b[3;32H 0.0\u001b[4;58H\u001b[36m5\u001b[8;2H\u001b(B\u001b[0m\u001b[30m\u001b[46m7332 root   \u001b[8;25H 701M 18692  8164 S  0.7  0.9\u001b[61G19 /usr/bin/docker -\u001b[9;1H\u001b[39;49m\u001b(B\u001b[m28752 vagrant    20   0 \u001b[36m24\u001b[39m\u001b(B\u001b[m388 \u001b[36m 1\u001b[39m\u001b(B\u001b[m968 \u001b[36m 1\u001b[39m\u001b(B\u001b[m436 \u001b[32mR \u001b[39m\u001b(B\u001b[m 0.0  0.1  0:00.01 htop\u001b[H"
+    ],
+    [
+      1.508832,
+      "\u001b[3;7H\u001b[32m|\u001b[3;35H\u001b(B\u001b[0;1m\u001b[30m7\u001b[4;58H\u001b[36m7\u001b[8;48H\u001b(B\u001b[0m\u001b[30m\u001b[46m0\u001b[9;27H\u001b[39;49m\u001b(B\u001b[m488 \u001b[36m 2\u001b[39m\u001b(B\u001b[m004 \u001b[36m 1\u001b[39m\u001b(B\u001b[m464\u001b[H"
+    ],
+    [
+      0.952240,
+      "\u001b[25d\u001b[J"
+    ],
+    [
+      0.000088,
+      "\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000036,
+      "\u001b[?1000l"
+    ],
+    [
+      0.000039,
+      "\u001b[25;1H\u001b[?1049l\r\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.001343,
+      "\u001b]0;vagrant@docker-cgroup: ~\u0007vagrant@docker-cgroup:~$ "
+    ],
+    [
+      0.902766,
+      "\r\u001b[3P(reverse-i-search)`':\u001b[C"
+    ],
+    [
+      0.367770,
+      "\u0008\u0008\u0008r': cat /proc/cpuinfo | grep processor | wc -l\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.121011,
+      "\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[Cu': docker run -d --name='high_prio' --cpuset-cpus=0 --cpu-sh\rhares=80 busybox md5sum /dev/urandom\u001b[A\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.143683,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008n': docker run -d --name='high_prio' --cpuset-cpus=0 --cpu-s\u001b[1@h\u001b[A\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.968372,
+      "\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[Clow_prio' --cpuset-cpus=0 --cpu-sh\u001b[1Pares=2\u001b[A\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      3.569340,
+      "\r\u001b]0;vagrant@docker-cgroup: ~\u0007vagrant@docker-cgroup:~$\r\u001b]0;vagrant@docker-cgroup: ~\u0007vagrant@docker-cgroup:~$ \u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\r\n\r\r\n"
+    ],
+    [
+      0.114682,
+      "a0c6baf1440c63ed0b205ef13d402cff43f9b1efd00c3059285838dd2d27eb6b\r\n"
+    ],
+    [
+      0.073600,
+      "\u001b]0;vagrant@docker-cgroup: ~\u0007vagrant@docker-cgroup:~$ "
+    ],
+    [
+      1.107184,
+      "\r\u001b[3P(reverse-i-search)`':\u001b[C"
+    ],
+    [
+      0.241449,
+      "\u0008\u0008\u0008r': docker run -d --name='low_prio' --cpuset-cpus=0 --cpu-shar\rres=20 busybox md5sum /dev/urandom\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.118974,
+      "\u001b[A\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008u': docker run -d --name='low_prio' --cpuset-cpus=0 --cpu-sha\u001b[1@r\u001b[A\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.149790,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008n': docker run -d --name='low_prio' --cpuset-cpus=0 --cpu-sh\u001b[1@a\u001b[A\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      1.328848,
+      "\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[Chigh_prio' --cpuset-cpus=0 --cpu-s\u001b[1@hares=8\u001b[A\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      2.465978,
+      "\r\u001b]0;vagrant@docker-cgroup: ~\u0007vagrant@docker-cgroup:~$\r\u001b]0;vagrant@docker-cgroup: ~\u0007vagrant@docker-cgroup:~$ \u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\r\n\r\r\n"
+    ],
+    [
+      0.054261,
+      "c3017b8c9f55affd4e8fd3309d279c8de5d577db5ca4f42eece14c88bb7cd768"
+    ],
+    [
+      0.000302,
+      "\r\n"
+    ],
+    [
+      0.093005,
+      "\u001b]0;vagrant@docker-cgroup: ~\u0007vagrant@docker-cgroup:~$ "
+    ],
+    [
+      0.843159,
+      "h"
+    ],
+    [
+      0.622499,
+      "t"
+    ],
+    [
+      0.225057,
+      "o"
+    ],
+    [
+      0.087236,
+      "p"
+    ],
+    [
+      1.230467,
+      "\r\n\u001b[?1049h\u001b[1;25r\u001b(B\u001b[m\u001b[4l\u001b[?7h\u001b[?1h\u001b=\u001b[?25l\u001b[39;49m\u001b[?1000h"
+    ],
+    [
+      0.085387,
+      "\u001b[39;49m\u001b(B\u001b[m\u001b[H\u001b[2J\u001b[2d  \u001b[36m1  \u001b[39m\u001b(B\u001b[0;1m[\u001b(B\u001b[0m\u001b[31m||||||||||||||||||||||||100.0%\u001b[39m\u001b(B\u001b[0;1m]\u001b(B\u001b[m     \u001b[36mTasks: \u001b(B\u001b[0;1m\u001b[36m35\u001b(B\u001b[0m\u001b[36m, \u001b(B\u001b[0;1m\u001b[36m30\u001b(B\u001b[0m\u001b[36m thr; \u001b(B\u001b[0;1m\u001b[32m3\u001b(B\u001b[0m\u001b[36m running\u001b[3;3H2  \u001b[39m\u001b(B\u001b[0;1m[\u001b(B\u001b[0m\u001b[32m||||\u001b(B\u001b[0;1m\u001b[30m\u001b[21X\u001b[3;32H11.1%\u001b[39m]\u001b(B\u001b[m     \u001b[36mLoad average: \u001b(B\u001b[0;1m\u001b[30m0.35 \u001b[39m\u001b(B\u001b[m0.21 \u001b(B\u001b[0;1m0.15 \u001b[4;3H\u001b(B\u001b[0m\u001b[36mMem\u001b[39m\u001b(B\u001b[0;1m[\u001b(B\u001b[0m\u001b[32m||||\u001b[34m|\u001b[33m|||||||||||||||235/20\u001b(B\u001b[0;1m\u001b[30m01MB\u001b[39m]\u001b(B\u001b[m     \u001b[36mUptime: \u001b(B\u001b[0;1m\u001b[36m00:30:13\u001b[5;3H\u001b(B\u001b[0m\u001b[36mSwp\u001b[39m\u001b(B\u001b[0;1m[\u001b[30m\u001b[25X\u001b[5;32H0/0MB\u001b[39m]\r\u001b[7d\u001b(B\u001b[0m\u001b[30m\u001b[42m  PID USER      PRI  NI  VIRT   RES   SHR S \u001b[30m\u001b[46mCPU% \u001b[30m\u001b[42mMEM%   TIME+  Command\u001b[K\r\u001b[8d\u001b[30m\u001b[46m28794 root       20   0  3156    76    36 R 55.6  0.0  0:02.48 md5sum /dev/urand\u001b[9;1H\u001b[39;49m\u001b(B\u001b[m28759 \u001b(B\u001b[0;1m\u001b[30mroot      \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m 3\u001b[39m\u001b(B\u001b[m156    68    36 \u001b[32mR \u001b[39m\u001b(B\u001b[m11.1  0.0  0:06.15 md5sum /dev/urand\u001b[10;1H28815 vagrant    20   0 \u001b[36m24\u001b[39m\u001b(B\u001b[m388 \u001b[36m 1\u001b[39m\u001b(B\u001b[m840 \u001b[36m 1\u001b[39m\u001b(B\u001b[m316 \u001b[32mR \u001b[39m\u001b(B\u001b[m11.1  0.1  0:00.01 htop\u001b[11;5H1 \u001b(B\u001b[0;1m\u001b[30mroot      \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m37\u001b[39m\u001b(B\u001b[m088 \u001b[36m 6\u001b[39m\u001b(B\u001b[m520 \u001b[36m 1\u001b[39m\u001b(B\u001b[m536 S  0.0  0.3  0:01.88 /sbin/init\u001b[12;3H525 \u001b(B\u001b[0;1m\u001b[30mroot      \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m23\u001b[39m\u001b(B\u001b[m420 \u001b[36m 1\u001b[39m\u001b(B\u001b[m100   796 S  0.0  0.1  0:00.01 rpcbind\u001b[13;3H544 \u001b(B\u001b[0;1m\u001b[30mstatd     \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m21\u001b[39m\u001b(B\u001b[m544 \u001b[36m 1\u001b[39m\u001b(B\u001b[m388   928 S  0.0  0.1  0:00.00 rpc.statd -L\u001b[14;3H557 \u001b(B\u001b[0;1m\u001b[30mroot      \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m10\u001b[39m\u001b(B\u001b[m224 \u001b[36m 2\u001b[39m\u001b(B\u001b[m404   116 S  0.0  0.1  0:00.00 dhclient -1 -v -p\u001b[15;3H871 \u001b(B\u001b[0;1m\u001b[30mmessagebu \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m39\u001b[39m\u001b(B\u001b[m328 \u001b[36m 1\u001b[39m\u001b(B\u001b[m544 \u001b[36m 1\u001b[39m\u001b(B\u001b[m052 S  0.0  0.1  0:00.34 dbus-daemon --sys\u001b[16;3H882 \u001b(B\u001b[0;1m\u001b[30mroot      \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m25\u001b[39m\u001b(B\u001b[m544   432   212 S  0.0  0.0  0:00.00 rpc.idmapd\r\u001b[17d 1037 \u001b(B\u001b[0;1m\u001b[30mroot      \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m14\u001b[39m\u001b(B\u001b[m540   956   796 S  0.0  0.0  0"
+    ],
+    [
+      0.000327,
+      ":00.00 /sbin/getty -8 38\u001b[18;2H1040 \u001b(B\u001b[0;1m\u001b[30mroot      \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m14\u001b[39m\u001b(B\u001b[m540   948   796 S  0.0  0.0  0:00.00 /sbin/getty -8 38\u001b[19;2H1045 \u001b(B\u001b[0;1m\u001b[30mroot      \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m14\u001b[39m\u001b(B\u001b[m540   948   796 S  0.0  0.0  0:00.00 /sbin/getty "
+    ],
+    [
+      0.000503,
+      "-8 38\u001b[20;2H1046 \u001b(B\u001b[0;1m\u001b[30mroot      \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m14\u001b[39m\u001b(B\u001b[m540   944   796 S  0.0  0.0  0:00.00 /sbin/getty -8 38\u001b[21;2H1048 \u001b(B\u001b[0;1m\u001b[30mroot      \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m14\u001b[39m\u001b(B\u001b[m540   956   796 S  0.0  0.0  0:00.00 /sbin/getty -8 38\u001b[22;2H1087 \u001b(B\u001b[0;1m\u001b[30mroot      \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m23\u001b[39m\u001b(B\u001b[m656   928   708 S  0.0  0.0  0:00.00 cron\r\u001b[23d 1088 \u001b(B\u001b[0;1m\u001b[30mdaemon    \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m19\u001b[39m\u001b(B\u001b[m140   160     0 S  0.0  0.0  0:00.00 atd\r\u001b[24d 1124 \u001b(B\u001b[0;1m\u001b[30mroot      \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m 4\u001b[39m\u001b(B\u001b[m368   652   512 S  0.0  0.0  0:00.00 acpid -c /etc/acp\u001b[25;1HF1\u001b[30m\u001b[46mHelp  \u001b[39;49m\u001b(B\u001b[mF2\u001b[30m\u001b[46mSetup \u001b[39;49m\u001b(B\u001b[mF3\u001b[30m\u001b[46mSearch\u001b[39;49m\u001b(B\u001b[mF4\u001b[30m\u001b[46mFilter\u001b[39;49m\u001b(B\u001b[mF5\u001b[30m\u001b[46mTree  \u001b[39;49m\u001b(B\u001b[mF6\u001b[30m\u001b[46mSortBy\u001b[39;49m\u001b(B\u001b[mF7\u001b[30m\u001b[46mNice -\u001b[39;49m\u001b(B\u001b[mF8\u001b[30m\u001b[46mNice +\u001b[39;49m\u001b(B\u001b[mF9\u001b[30m\u001b[46mKill  \u001b[39;49m\u001b(B\u001b[mF10\u001b[30m\u001b[46mQuit\u001b[K\u001b[H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      1.506837,
+      "\u001b[10;24r\u001b[10;1H\u001bM\u001b[1;25r\u001b[2;7H\u001b[32m||\u001b[2;62H\u001b(B\u001b[0;1m\u001b[32m4\u001b[3;7H\u001b[30m    \u001b[3;32H 0.0\u001b[4;58H\u001b[36m4\u001b[8;45H\u001b(B\u001b[0m\u001b[30m\u001b[46m80.4\u001b[8;59H3.69\u001b[9;45H\u001b[39;49m\u001b(B\u001b[m20.6\u001b[9;61H46\r\u001b[10d 4985 \u001b(B\u001b[0;1m\u001b[30mroot      \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m 228M  1\u001b[39m\u001b(B\u001b[m072   764 S  0.7  0.1  0:00.86 /usr/sbin/VBoxSer\u001b[11;27H488 \u001b[36m 1\u001b[39m\u001b(B\u001b[m968 \u001b[36m 1\u001b[39m\u001b(B\u001b[m436 \u001b[32mR \u001b[39m\u001b(B\u001b[m 0.0\u001b[H"
+    ],
+    [
+      1.505595,
+      "\u001b[2;62H\u001b(B\u001b[0;1m\u001b[32m3\u001b[3;7H\u001b(B\u001b[0m\u001b[31m|\u001b[3;35H\u001b(B\u001b[0;1m\u001b[30m7\u001b[4;58H\u001b[36m6\u001b[8d\u001b(B\u001b[0m\u001b[30m\u001b[46m4.90\u001b[9;45H\u001b[39;49m\u001b(B\u001b[m19.3\u001b[9;61H75\r\u001b[10d28815 vagrant   \u001b[10;25H\u001b[36m24\u001b[39m\u001b(B\u001b[m456 \u001b[36m 1\u001b[39m\u001b(B\u001b[m996 \u001b[36m 1\u001b[39m\u001b(B\u001b[m464 \u001b[32mR \u001b[10;61H\u001b[39m\u001b(B\u001b[m02 htop\u001b[K\r\u001b[11d 4985 \u001b(B\u001b[0;1m\u001b[30mroot      \u001b[11;25H\u001b(B\u001b[0m\u001b[36m 228M  1\u001b[39m\u001b(B\u001b[m072   764 S \u001b[11;61H86 /usr/sbin/VBoxSer\u001b[1;1H"
+    ],
+    [
+      1.507186,
+      "\u001b[2;8H\u001b[31m|\u001b[3d\u0008\u0008\u001b(B\u001b[0;1m\u001b[30m \u001b[3;35H0\u001b[3;59H48 \u001b[39m\u001b(B\u001b[m0.24 \u001b(B\u001b[0;1m0.16\u001b[4;58H\u001b[36m7\u001b[8;48H\u001b(B\u001b[0m\u001b[30m\u001b[46m0\u001b[8;59H6.1\u001b[9;45H\u001b[39;49m\u001b(B\u001b[m20.0\u001b[9;59H7.04\u001b[10;48H0\u001b[H"
+    ],
+    [
+      1.507339,
+      "\u001b[3;7H\u001b[31m|\u001b[3;35H\u001b(B\u001b[0;1m\u001b[30m7\u001b[4;58H\u001b[36m9\u001b[8;48H\u001b(B\u001b[0m\u001b[30m\u001b[46m4\u001b[8;59H7.31\u001b[9;48H\u001b[39;49m\u001b(B\u001b[m6\u001b[9;61H36\u001b[10;48H7\u001b[10;62H3\u001b[H"
+    ],
+    [
+      1.506629,
+      "\u001b[10;24r\u001b[10;1H\u001bM\u001b[1;25r\u001b[2;8H\u001b[32m|\u001b[4;57H\u001b(B\u001b[0;1m\u001b[36m20\u001b[8;45H\u001b(B\u001b[0m\u001b[30m\u001b[46m79.2\u001b[8;59H8.50\u001b[9;45H\u001b[39;49m\u001b(B\u001b[m19.8\u001b[9;61H6\r\u001b[10d27323 \u001b(B\u001b[0;1m\u001b[30mroot      \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m 765M 18\u001b[39m\u001b(B\u001b[m836 \u001b[36m 8\u001b[39m\u001b(B\u001b[m176 S  0.7  0.9  0:01.39 /usr/bin/docker -\u001b[11;48H0\u001b[H"
+    ],
+    [
+      1.506512,
+      "\u001b[10;24r\u001b[10;1H\u001b[2T\u001b[1;25r\u001b[2;8H\u001b[31m|\u001b[3d\u0008\u0008\u001b[32m|\u001b[4;58H\u001b(B\u001b[0;1m\u001b[36m2\u001b[8;45H\u001b(B\u001b[0m\u001b[30m\u001b[46m80.9\u001b[8;59H9.72\u001b[9;45H\u001b[39;49m\u001b(B\u001b[m20.1\u001b[9;61H9\r\u001b[10d28697 vagrant    20   0 \u001b[36m 105M  2\u001b[39m\u001b(B\u001b[m204 \u001b[36m 1\u001b[39m\u001b(B\u001b[m200 S  1.3  0.1  0:00.08 sshd: vagrant@pts\u001b[11;1H28726 vagrant    20   0 \u001b[36m 8\u001b[39m\u001b(B\u001b[m088 \u001b[36m 2\u001b[39m\u001b(B\u001b[m844 \u001b[36m 2\u001b[39m\u001b(B\u001b[m168 S  0.7  0.1  0:00.03 asciinema rec\u001b[12;48H0\u001b[H"
+    ],
+    [
+      1.506196,
+      "\u001b[10;13r\u001b[10;1H\u001bM\u001b[1;25r\u001b[3;7H\u001b(B\u001b[0;1m\u001b[30m \u001b[3;35H0\u001b[3;59H60 \u001b[39m\u001b(B\u001b[m0.27 \u001b(B\u001b[0;1m0.17\u001b[4;58H\u001b[36m3\u001b[8;45H\u001b(B\u001b[0m\u001b[30m\u001b[46m79.7\u001b[8;58H10.9\u001b[9;45H\u001b[39;49m\u001b(B\u001b[m19.9\u001b[9;59H8.25\r\u001b[10d28815 vagrant    20   0 \u001b[36m24\u001b[39m\u001b(B\u001b[m456 \u001b[36m 1\u001b[39m\u001b(B\u001b[m996 \u001b[36m 1\u001b[39m\u001b(B\u001b[m464 \u001b[32mR \u001b[39m\u001b(B\u001b[m 0.7  0.1  0:00.04 htop\u001b[11;46H0.0\u001b[12d\u00080\u001b[H"
+    ],
+    [
+      0.081495,
+      "\u001b[25d\u001b[J"
+    ],
+    [
+      0.000274,
+      "\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000389,
+      "\u001b[?1000l"
+    ],
+    [
+      0.000278,
+      "\u001b[25;1H\u001b[?1049l\r\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.001265,
+      "\u001b]0;vagrant@docker-cgroup: ~\u0007vagrant@docker-cgroup:~$ "
+    ],
+    [
+      1.254111,
+      "\r\u001b[3P(reverse-i-search)`':\u001b[C"
+    ],
+    [
+      0.238838,
+      "\u0008\u0008\u0008k': docker run -d --name='high_prio' --cpuset-cpus=0 --cpu-sha\rares=80 busybox md5sum /dev/urandom\u001b[A\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.143854,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u001b[26Pi': docker kill high_prio low_prio"
+    ],
+    [
+      0.000270,
+      "\r\n"
+    ],
+    [
+      0.000377,
+      "\r\u001b[K\u001b[A\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.138427,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[1@l\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.116916,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[1@l\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.760224,
+      "\r\u001b[1P\u001b]0;vagrant@docker-cgroup: ~\u0007vagrant@docker-cgroup:~$\r\u001b]0;vagrant@docker-cgroup: ~\u0007vagrant@docker-cgroup:~$ \u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.000313,
+      "\r\n"
+    ],
+    [
+      0.059647,
+      "high_prio"
+    ],
+    [
+      0.000460,
+      "\r\n"
+    ],
+    [
+      0.037264,
+      "low_prio"
+    ],
+    [
+      0.000384,
+      "\r\n"
+    ],
+    [
+      0.001159,
+      "\u001b]0;vagrant@docker-cgroup: ~\u0007vagrant@docker-cgroup:~$ "
+    ],
+    [
+      0.877422,
+      "\r\u001b[3P(reverse-i-search)`':\u001b[C"
+    ],
+    [
+      0.336457,
+      "\u0008\u0008\u0008r': docker kill high_prio low_prio\u0008\u0008\u0008"
+    ],
+    [
+      0.159987,
+      "\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[1Pm': docker rm\u0008\u0008"
+    ],
+    [
+      0.881732,
+      "\r\u001b]0;vagrant@docker-cgroup: ~\u0007vagrant@docker-cgroup:~$ docker rm high_prio low_prio\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\r\n"
+    ],
+    [
+      0.076885,
+      "high_prio\r\n"
+    ],
+    [
+      0.005832,
+      "low_prio\r\n"
+    ],
+    [
+      0.001239,
+      "\u001b]0;vagrant@docker-cgroup: ~\u0007vagrant@docker-cgroup:~$ "
+    ],
+    [
+      1.506638,
+      "\r\u001b[3P(reverse-i-search)`':\u001b[C"
+    ],
+    [
+      0.206401,
+      "\u0008\u0008\u0008r': docker rm high_prio low_prio\u0008\u0008\u0008"
+    ],
+    [
+      0.121406,
+      "\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[Cu': docker run -d --name='high_prio' --cpuset-cpus=0 --cpu-sh\rhares=80 busybox md5sum /dev/urandom\u001b[A\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.191242,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008n': docker run -d --name='high_prio' --cpuset-cpus=0 --cpu-s\u001b[1@h\u001b[A\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.632182,
+      "\r\u001b]0;vagrant@docker-cgroup: ~\u0007vagrant@docker-cgroup:~$\r\u001b]0;vagrant@docker-cgroup: ~\u0007vagrant@docker-cgroup:~$ \u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.250381,
+      "\u001b[C"
+    ],
+    [
+      0.035049,
+      "\u001b[C"
+    ],
+    [
+      0.033349,
+      "\u001b[C"
+    ],
+    [
+      0.033711,
+      "\u001b[C"
+    ],
+    [
+      0.034459,
+      "\u001b[C"
+    ],
+    [
+      0.033934,
+      "\u001b[C"
+    ],
+    [
+      0.034642,
+      "\u001b[C"
+    ],
+    [
+      0.034454,
+      "\u001b[C"
+    ],
+    [
+      0.033810,
+      "\u001b[C"
+    ],
+    [
+      0.034609,
+      "\u001b[C"
+    ],
+    [
+      0.033923,
+      "\u001b[C"
+    ],
+    [
+      0.034681,
+      "\u001b[C"
+    ],
+    [
+      0.035457,
+      "\u001b[C"
+    ],
+    [
+      0.032522,
+      "\u001b[C"
+    ],
+    [
+      0.034561,
+      "\u001b[C"
+    ],
+    [
+      0.032695,
+      "\u001b[C"
+    ],
+    [
+      0.035186,
+      "\u001b[C"
+    ],
+    [
+      0.032983,
+      "\u001b[C"
+    ],
+    [
+      0.034820,
+      "\u001b[C"
+    ],
+    [
+      0.034313,
+      "\u001b[C"
+    ],
+    [
+      0.034855,
+      "\u001b[C"
+    ],
+    [
+      0.034102,
+      "\u001b[C"
+    ],
+    [
+      0.033996,
+      "\u001b[C"
+    ],
+    [
+      0.035300,
+      "\u001b[C"
+    ],
+    [
+      0.033311,
+      "\u001b[C"
+    ],
+    [
+      0.036329,
+      "\u001b[C"
+    ],
+    [
+      1.644725,
+      "cpuset-cpus=0 --cpu-sh\u001b[1P\u001b[A\r\u001b]0;vagrant@docker-cgroup: ~\u0007vagrant@docker-cgroup:~$ \u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.144178,
+      "puset-cpus=0 --cpu-sha\u001b[1P\u001b[A\r\u001b]0;vagrant@docker-cgroup: ~\u0007vagrant@docker-cgroup:~$ \u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.152322,
+      "uset-cpus=0 --cpu-shar\u001b[1P\u001b[A\r\u001b]0;vagrant@docker-cgroup: ~\u0007vagrant@docker-cgroup:~$ \u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.223307,
+      "\u0008uset-cpus=0 --cpu-share\u001b[1P\u001b[A\r\u001b]0;vagrant@docker-cgroup: ~\u0007vagrant@docker-cgroup:~$ \u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.216312,
+      "set-cpus=0 --cpu-shares\u001b[1P\u001b[A\r\u001b]0;vagrant@docker-cgroup: ~\u0007vagrant@docker-cgroup:~$ \u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.143557,
+      "et-cpus=0 --cpu-shares=\u001b[1P\u001b[A\r\u001b]0;vagrant@docker-cgroup: ~\u0007vagrant@docker-cgroup:~$ \u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.250337,
+      "t-cpus=0 --cpu-shares=8\u001b[1P\u001b[A\r\u001b]0;vagrant@docker-cgroup: ~\u0007vagrant@docker-cgroup:~$ \u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.034643,
+      "-cpus=0 --cpu-shares=80\u001b[1P\u001b[A\r\u001b]0;vagrant@docker-cgroup: ~\u0007vagrant@docker-cgroup:~$ \u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.179520,
+      "cpus=0 --cpu-shares=80 \u001b[1P\u001b[A\r\u001b]0;vagrant@docker-cgroup: ~\u0007vagrant@docker-cgroup:~$ \u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.250055,
+      "pus=0 --cpu-shares=80 b\u001b[1P\u001b[A\r\u001b]0;vagrant@docker-cgroup: ~\u0007vagrant@docker-cgroup:~$ \u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.033307,
+      "us=0 --cpu-shares=80 bu\u001b[1P\u001b[A\r\u001b]0;vagrant@docker-cgroup: ~\u0007vagrant@docker-cgroup:~$ \u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.034650,
+      "s=0 --cpu-shares=80 bus\u001b[1P\u001b[A\r\u001b]0;vagrant@docker-cgroup: ~\u0007vagrant@docker-cgroup:~$ \u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.137069,
+      "=0 --cpu-shares=80 busy\u001b[1P\u001b[A\r\u001b]0;vagrant@docker-cgroup: ~\u0007vagrant@docker-cgroup:~$ \u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.160195,
+      "0 --cpu-shares=80 busyb\u001b[1P\u001b[A\r\u001b]0;vagrant@docker-cgroup: ~\u0007vagrant@docker-cgroup:~$ \u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.251588,
+      " --cpu-shares=80 busybo\u001b[1P\u001b[A\r\u001b]0;vagrant@docker-cgroup: ~\u0007vagrant@docker-cgroup:~$ \u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.034423,
+      "--cpu-shares=80 busybox\u001b[1P\u001b[A\r\u001b]0;vagrant@docker-cgroup: ~\u0007vagrant@docker-cgroup:~$ \u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.032554,
+      "\u001b[Ccpu-shares=80 busybox \u001b[1P\u001b[A\r\u001b]0;vagrant@docker-cgroup: ~\u0007vagrant@docker-cgroup:~$ \u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.034759,
+      "cpu-shares=80 busybox m\u001b[1P\u001b[A\r\u001b]0;vagrant@docker-cgroup: ~\u0007vagrant@docker-cgroup:~$ \u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.033860,
+      "pu-shares=80 busybox md\u001b[1P\u001b[A\r\u001b]0;vagrant@docker-cgroup: ~\u0007vagrant@docker-cgroup:~$ \u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.032728,
+      "u-shares=80 busybox md5\u001b[1P\u001b[A\r\u001b]0;vagrant@docker-cgroup: ~\u0007vagrant@docker-cgroup:~$ \u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.035002,
+      "-shares=80 busybox md5s\u001b[1P\u001b[A\r\u001b]0;vagrant@docker-cgroup: ~\u0007vagrant@docker-cgroup:~$ \u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.034429,
+      "shares=80 busybox md5su\u001b[1P\u001b[A\r\u001b]0;vagrant@docker-cgroup: ~\u0007vagrant@docker-cgroup:~$ \u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.034077,
+      "hares=80 busybox md5sum\u001b[1P /dev/urandom\u001b[A\r\u001b]0;vagrant@docker-cgroup: ~\u0007vagrant@docker-cgroup:~$ \u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.034244,
+      "ares=80 busybox md5sum \u001b[1P/dev/urandom\u001b[A\r\u001b]0;vagrant@docker-cgroup: ~\u0007vagrant@docker-cgroup:~$ \u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.034426,
+      "res=80 busybox md5sum /\u001b[1Pdev/urandom\u001b[A\r\u001b]0;vagrant@docker-cgroup: ~\u0007vagrant@docker-cgroup:~$ \u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.035146,
+      "es=80 busybox md5sum /d\u001b[1Pev/urandom\u001b[A\r\u001b]0;vagrant@docker-cgroup: ~\u0007vagrant@docker-cgroup:~$ \u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.181526,
+      "s=80 busybox md5sum /de\u001b[1Pv/urandom\u001b[A\r\u001b]0;vagrant@docker-cgroup: ~\u0007vagrant@docker-cgroup:~$ \u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.168351,
+      "=80 busybox md5sum /dev\u001b[1P/urandom\u001b[A\r\u001b]0;vagrant@docker-cgroup: ~\u0007vagrant@docker-cgroup:~$ \u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.158786,
+      "80 busybox md5sum /dev/\u001b[1Purandom\u001b[A\r\u001b]0;vagrant@docker-cgroup: ~\u0007vagrant@docker-cgroup:~$ \u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.137241,
+      "0 busybox md5sum /dev/u\u001b[1Prandom\u001b[A\r\u001b]0;vagrant@docker-cgroup: ~\u0007vagrant@docker-cgroup:~$ \u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.175445,
+      " busybox md5sum /dev/ur\u001b[1Pandom\u001b[A\r\u001b]0;vagrant@docker-cgroup: ~\u0007vagrant@docker-cgroup:~$ \u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.448714,
+      "busybox md5sum /dev/ura\u001b[1Pndom\u001b[A\r\u001b]0;vagrant@docker-cgroup: ~\u0007vagrant@docker-cgroup:~$ \u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.999681,
+      "\r\n\r\r\n"
+    ],
+    [
+      0.124248,
+      "e09bffce938055362eb02ae8b5b2b72df948ec997e6e7db600be5e5eb34b671d\r\n"
+    ],
+    [
+      0.081629,
+      "\u001b]0;vagrant@docker-cgroup: ~\u0007vagrant@docker-cgroup:~$ "
+    ],
+    [
+      0.688895,
+      "\r\u001b[3P(reverse-i-search)`':\u001b[C"
+    ],
+    [
+      0.519905,
+      "\u0008\u0008\u0008l': docker rm high_prio low_prio\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.120351,
+      "\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[1@o\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.088906,
+      "\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[1@w\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.822999,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[2@kill\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.351806,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008run -d --name='low_prio' --cpuset-cpus=0 --cpu-sh\rhares=20 busybox md5sum /dev/urandom\u001b[A\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.976355,
+      "\r\u001b]0;vagrant@docker-cgroup: ~\u0007vagrant@docker-cgroup:~$\r\u001b]0;vagrant@docker-cgroup: ~\u0007vagrant@docker-cgroup:~$ \u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.249320,
+      "\u001b[C"
+    ],
+    [
+      0.034536,
+      "\u001b[C"
+    ],
+    [
+      0.034054,
+      "\u001b[C"
+    ],
+    [
+      0.033617,
+      "\u001b[C"
+    ],
+    [
+      0.033737,
+      "\u001b[C"
+    ],
+    [
+      0.117552,
+      "\u001b[C"
+    ],
+    [
+      0.144368,
+      "\u001b[C"
+    ],
+    [
+      0.136628,
+      "\u001b[C"
+    ],
+    [
+      0.160179,
+      "\u001b[C"
+    ],
+    [
+      0.304155,
+      "\u001b[Ccpuset-cpus=0 --cpu-sha\u001b[1P\u001b[A\r\u001b]0;vagrant@docker-cgroup: ~\u0007vagrant@docker-cgroup:~$ \u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.250048,
+      "cpuset-cpus=0 --cpu-shar\u001b[1P\u001b[A\r\u001b]0;vagrant@docker-cgroup: ~\u0007vagrant@docker-cgroup:~$ \u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.034549,
+      "puset-cpus=0 --cpu-share\u001b[1P\u001b[A\r\u001b]0;vagrant@docker-cgroup: ~\u0007vagrant@docker-cgroup:~$ \u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.033709,
+      "uset-cpus=0 --cpu-shares\u001b[1P\u001b[A\r\u001b]0;vagrant@docker-cgroup: ~\u0007vagrant@docker-cgroup:~$ \u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.034770,
+      "set-cpus=0 --cpu-shares=\u001b[1P\u001b[A\r\u001b]0;vagrant@docker-cgroup: ~\u0007vagrant@docker-cgroup:~$ \u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.033100,
+      "et-cpus=0 --cpu-shares=2\u001b[1P\u001b[A\r\u001b]0;vagrant@docker-cgroup: ~\u0007vagrant@docker-cgroup:~$ \u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.034676,
+      "t-cpus=0 --cpu-shares=20\u001b[1P\u001b[A\r\u001b]0;vagrant@docker-cgroup: ~\u0007vagrant@docker-cgroup:~$ \u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.033314,
+      "-cpus=0 --cpu-shares=20 \u001b[1P\u001b[A\r\u001b]0;vagrant@docker-cgroup: ~\u0007vagrant@docker-cgroup:~$ \u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.033774,
+      "cpus=0 --cpu-shares=20 b\u001b[1P\u001b[A\r\u001b]0;vagrant@docker-cgroup: ~\u0007vagrant@docker-cgroup:~$ \u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.034089,
+      "pus=0 --cpu-shares=20 bu\u001b[1P\u001b[A\r\u001b]0;vagrant@docker-cgroup: ~\u0007vagrant@docker-cgroup:~$ \u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.034386,
+      "us=0 --cpu-shares=20 bus\u001b[1P\u001b[A\r\u001b]0;vagrant@docker-cgroup: ~\u0007vagrant@docker-cgroup:~$ \u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.033763,
+      "s=0 --cpu-shares=20 busy\u001b[1P\u001b[A\r\u001b]0;vagrant@docker-cgroup: ~\u0007vagrant@docker-cgroup:~$ \u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.033751,
+      "=0 --cpu-shares=20 busyb\u001b[1P\u001b[A\r\u001b]0;vagrant@docker-cgroup: ~\u0007vagrant@docker-cgroup:~$ \u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.037147,
+      "0 --cpu-shares=20 busybo\u001b[1P\u001b[A\r\u001b]0;vagrant@docker-cgroup: ~\u0007vagrant@docker-cgroup:~$ \u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.031237,
+      " --cpu-shares=20 busybox\u001b[1P\u001b[A\r\u001b]0;vagrant@docker-cgroup: ~\u0007vagrant@docker-cgroup:~$ \u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.034896,
+      "--cpu-shares=20 busybox \u001b[1P\u001b[A\r\u001b]0;vagrant@docker-cgroup: ~\u0007vagrant@docker-cgroup:~$ \u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.034460,
+      "\u001b[Ccpu-shares=20 busybox m\u001b[1P\u001b[A\r\u001b]0;vagrant@docker-cgroup: ~\u0007vagrant@docker-cgroup:~$ \u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.034005,
+      "cpu-shares=20 busybox md\u001b[1P\u001b[A\r\u001b]0;vagrant@docker-cgroup: ~\u0007vagrant@docker-cgroup:~$ \u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.033268,
+      "pu-shares=20 busybox md5\u001b[1P\u001b[A\r\u001b]0;vagrant@docker-cgroup: ~\u0007vagrant@docker-cgroup:~$ \u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.034977,
+      "u-shares=20 busybox md5s\u001b[1P\u001b[A\r\u001b]0;vagrant@docker-cgroup: ~\u0007vagrant@docker-cgroup:~$ \u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.034395,
+      "-shares=20 busybox md5su\u001b[1P\u001b[A\r\u001b]0;vagrant@docker-cgroup: ~\u0007vagrant@docker-cgroup:~$ \u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.034017,
+      "shares=20 busybox md5sum\u001b[1P /dev/urandom\u001b[A\r\u001b]0;vagrant@docker-cgroup: ~\u0007vagrant@docker-cgroup:~$ \u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.033664,
+      "hares=20 busybox md5sum \u001b[1P/dev/urandom\u001b[A\r\u001b]0;vagrant@docker-cgroup: ~\u0007vagrant@docker-cgroup:~$ \u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.032960,
+      "ares=20 busybox md5sum /\u001b[1Pdev/urandom\u001b[A\r\u001b]0;vagrant@docker-cgroup: ~\u0007vagrant@docker-cgroup:~$ \u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.034855,
+      "res=20 busybox md5sum /d\u001b[1Pev/urandom\u001b[A\r\u001b]0;vagrant@docker-cgroup: ~\u0007vagrant@docker-cgroup:~$ \u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.198176,
+      "es=20 busybox md5sum /de\u001b[1Pv/urandom\u001b[A\r\u001b]0;vagrant@docker-cgroup: ~\u0007vagrant@docker-cgroup:~$ \u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.152046,
+      "s=20 busybox md5sum /dev\u001b[1P/urandom\u001b[A\r\u001b]0;vagrant@docker-cgroup: ~\u0007vagrant@docker-cgroup:~$ \u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.152199,
+      "=20 busybox md5sum /dev/\u001b[1Purandom\u001b[A\r\u001b]0;vagrant@docker-cgroup: ~\u0007vagrant@docker-cgroup:~$ \u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.151271,
+      "20 busybox md5sum /dev/u\u001b[1Prandom\u001b[A\r\u001b]0;vagrant@docker-cgroup: ~\u0007vagrant@docker-cgroup:~$ \u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.144458,
+      "0 busybox md5sum /dev/ur\u001b[1Pandom\u001b[A\r\u001b]0;vagrant@docker-cgroup: ~\u0007vagrant@docker-cgroup:~$ \u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.184046,
+      " busybox md5sum /dev/ura\u001b[1Pndom\u001b[A\r\u001b]0;vagrant@docker-cgroup: ~\u0007vagrant@docker-cgroup:~$ \u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.391386,
+      "busybox md5sum /dev/uran\u001b[1Pdom\u001b[A\r\u001b]0;vagrant@docker-cgroup: ~\u0007vagrant@docker-cgroup:~$ \u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.641222,
+      "\r\n\r\r\n"
+    ],
+    [
+      0.068683,
+      "8773deb50b37f8f229561d053732b028873fbd3bf88c8bfe213d7f7dbd796b4a\r\n"
+    ],
+    [
+      0.092252,
+      "\u001b]0;vagrant@docker-cgroup: ~\u0007vagrant@docker-cgroup:~$ "
+    ],
+    [
+      0.671019,
+      "h"
+    ],
+    [
+      0.121859,
+      "t"
+    ],
+    [
+      0.064141,
+      "o"
+    ],
+    [
+      0.054681,
+      "p"
+    ],
+    [
+      0.165105,
+      "\r\n\u001b[?1049h\u001b[1;25r\u001b(B\u001b[m\u001b[4l\u001b[?7h\u001b[?1h\u001b=\u001b[?25l\u001b[39;49m\u001b[?1000h"
+    ],
+    [
+      0.090757,
+      "\u001b[39;49m\u001b(B\u001b[m\u001b[H\u001b[2J\u001b[2d  \u001b[36m1  \u001b[39m\u001b(B\u001b[0;1m[\u001b(B\u001b[0m\u001b[31m||||||||||||||||||||||||100.0%\u001b[39m\u001b(B\u001b[0;1m]\u001b(B\u001b[m     \u001b[36mTasks: \u001b(B\u001b[0;1m\u001b[36m38\u001b(B\u001b[0m\u001b[36m, \u001b(B\u001b[0;1m\u001b[36m30\u001b(B\u001b[0m\u001b[36m thr; \u001b(B\u001b[0;1m\u001b[32m3\u001b(B\u001b[0m\u001b[36m running\u001b[3;3H2  \u001b[39m\u001b(B\u001b[0;1m[\u001b(B\u001b[0m\u001b[31m||||||||||||||||||||||||100.0%\u001b[39m\u001b(B\u001b[0;1m]\u001b(B\u001b[m     \u001b[36mLoad average: \u001b(B\u001b[0;1m\u001b[30m1.25 \u001b[39m\u001b(B\u001b[m0.43 \u001b(B\u001b[0;1m0.23 \u001b[4;3H\u001b(B\u001b[0m\u001b[36mMem\u001b[39m\u001b(B\u001b[0;1m[\u001b(B\u001b[0m\u001b[32m||||\u001b[34m|\u001b[33m|||||||||||||||236/20\u001b(B\u001b[0;1m\u001b[30m01MB\u001b[39m]\u001b(B\u001b[m     \u001b[36mUptime: \u001b(B\u001b[0;1m\u001b[36m00:30:48\u001b[5;3H\u001b(B\u001b[0m\u001b[36mSwp\u001b[39m\u001b(B\u001b[0;1m[\u001b[30m\u001b[25X\u001b[5;32H0/0MB\u001b[39m]\r\u001b[7d\u001b(B\u001b[0m\u001b[30m\u001b[42m  PID USER      PRI  NI  VIRT   RES   SHR S \u001b[30m\u001b[46mCPU% \u001b[30m\u001b[42mMEM%   TIME+  Command\u001b[K\r\u001b[8d\u001b[30m\u001b[46m28999 root       20   0  3156    68    36 R 88.9  0.0  0:01.17 md5sum /dev/urand\u001b[9;1H\u001b[39;49m\u001b(B\u001b[m28967 \u001b(B\u001b[0;1m\u001b[30mroot      \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m 3\u001b[39m\u001b(B\u001b[m156    72    36 \u001b[32mR \u001b[39m\u001b(B\u001b[m77.8  0.0  0:09.15 md5sum /dev/urand\u001b[10;1H29025 vagrant    20   0 \u001b[36m24\u001b[39m\u001b(B\u001b[m388 \u001b[36m 1\u001b[39m\u001b(B\u001b[m840 \u001b[36m 1\u001b[39m\u001b(B\u001b[m316 \u001b[32mR \u001b[39m\u001b(B\u001b[m11.1  0.1  0:00.01 htop\u001b[11;5H1 \u001b(B\u001b[0;1m\u001b[30mroot      \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m37\u001b[39m\u001b(B\u001b[m088 \u001b[36m 6\u001b[39m\u001b(B\u001b[m520 \u001b[36m 1\u001b[39m\u001b(B\u001b[m536 S  0.0  0.3  0:01.93 /sbin/init\u001b[12;3H525 \u001b(B\u001b[0;1m\u001b[30mroot      \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m23\u001b[39m\u001b(B\u001b[m420 \u001b[36m 1\u001b[39m\u001b(B\u001b[m100   796 S  0.0  0.1  0:00.01 rpcbind\u001b[13;3H544 \u001b(B\u001b[0;1m\u001b[30mstatd     \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m21\u001b[39m\u001b(B\u001b[m544 \u001b[36m 1\u001b[39m\u001b(B\u001b[m388   928 S  0.0  0.1  0:00.00 rpc.statd -L\u001b[14;3H557 \u001b(B\u001b[0;1m\u001b[30mroot      \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m10\u001b[39m\u001b(B\u001b[m224 \u001b[36m 2\u001b[39m\u001b(B\u001b[m404   116 S  0.0  0.1  0:00.00 dhclient -1 -v -p\u001b[15;3H871 \u001b(B\u001b[0;1m\u001b[30mmessagebu \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m39\u001b[39m\u001b(B\u001b[m328 \u001b[36m 1\u001b[39m\u001b(B\u001b[m544 \u001b[36m 1\u001b[39m\u001b(B\u001b[m052 S  0.0  0.1  0:00.36 dbus-daemon --sys\u001b[16;3H882 \u001b(B\u001b[0;1m\u001b[30mroot      \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m25\u001b[39m\u001b(B\u001b[m544   432   212 S  0.0  0.0  0:00.00 rpc.idmapd\r\u001b[17d 1037 \u001b(B\u001b[0;1m\u001b[30mroot      \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m14\u001b[39m\u001b(B\u001b[m540   956   796 S  0.0  0."
+    ],
+    [
+      0.000448,
+      "0  0:00.00 /sbin/getty -8 38\u001b[18;2H1040 \u001b(B\u001b[0;1m\u001b[30mroot      \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m14\u001b[39m\u001b(B\u001b[m540   948   796 S  0.0  0.0  0:00.00 /sbin/getty -8 38\u001b[19;2H1045 \u001b(B\u001b[0;1m\u001b[30mroot      \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m14\u001b[39m\u001b(B\u001b[m540   948   796 S  0.0  0.0  0:00.00 /sbin/ge"
+    ],
+    [
+      0.000417,
+      "tty -8 38\u001b[20;2H1046 \u001b(B\u001b[0;1m\u001b[30mroot      \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m14\u001b[39m\u001b(B\u001b[m540   944   796 S  0.0  0.0  0:00.00 /sbin/getty -8 38\u001b[21;2H1048 \u001b(B\u001b[0;1m\u001b[30mroot      \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m14\u001b[39m\u001b(B\u001b[m540   956   796 S  0.0  0.0  0:00.00 /sbin/getty -8 38\u001b[22;2H1087 \u001b(B\u001b[0;1m\u001b[30mroot      \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m23\u001b[39m\u001b(B\u001b[m656   928   708 S  0.0  0.0  0:00.00 cron\r\u001b[23d 1088 \u001b(B\u001b[0;1m\u001b[30mdaemon    \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m19\u001b[39m\u001b(B\u001b[m140   160     0 S  0.0  0.0  0:00.00 atd\r\u001b[24d 1124 \u001b(B\u001b[0;1m\u001b[30mroot      \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m 4\u001b[39m\u001b(B\u001b[m368   652   512 S  0.0  0.0  0:00.00 acpid -c /etc/acp\u001b[25;1HF1\u001b[30m\u001b[46mHelp  \u001b[39;49m\u001b(B\u001b[mF2\u001b[30m\u001b[46mSetup \u001b[39;49m\u001b(B\u001b[mF3\u001b[30m\u001b[46mSearch\u001b[39;49m\u001b(B\u001b[mF4\u001b[30m\u001b[46mFilter\u001b[39;49m\u001b(B\u001b[mF5\u001b[30m\u001b[46mTree  \u001b[39;49m\u001b(B\u001b[mF6\u001b[30m\u001b[46mSortBy\u001b[39;49m\u001b(B\u001b[mF7\u001b[30m\u001b[46mNice -\u001b[39;49m\u001b(B\u001b[mF8\u001b[30m\u001b[46mNice +\u001b[39;49m\u001b(B\u001b[mF9\u001b[30m\u001b[46mKill  \u001b[39;49m\u001b(B\u001b[mF10\u001b[30m\u001b[46mQuit\u001b[K\u001b[H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      1.504338,
+      "\u001b[10;24r\u001b[10;1H\u001b[4T\u001b[1;25r\u001b[2;7H\u001b[32m|\u001b[2;62H\u001b(B\u001b[0;1m\u001b[32m4\u001b[3;7H\u001b(B\u001b[0m\u001b[32m|\u001b[4;57H\u001b(B\u001b[0;1m\u001b[36m50\u001b[8;45H\u001b(B\u001b[0m\u001b[30m\u001b[46m99.3\u001b[8;59H2.68\u001b[9;45H\u001b[39;49m\u001b(B\u001b[m99.3\u001b[9;58H10.6\r\u001b[10d 4989 \u001b(B\u001b[0;1m\u001b[30mroot      \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m 228M  1\u001b[39m\u001b(B\u001b[m072   764 S  0.7  0.1  0:00.39 /usr/sbin/VBoxSer\u001b[11;2H4985 \u001b(B\u001b[0;1m\u001b[30mroot      \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m 228M  1\u001b[39m\u001b(B\u001b[m072   764 S  0.7  0.1  0:00.88 /usr/sbin/VBoxSer\u001b[12;1H27332 \u001b(B\u001b[0;1m\u001b[30mroot      \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m 829M 18\u001b[39m\u001b(B\u001b[m896 \u001b[36m 8\u001b[39m\u001b(B\u001b[m184 S  0.7  0.9  0:00.20 /usr/bin/docker -\u001b[13;1H28697 vagrant    20   0 \u001b[36m 105M  2\u001b[39m\u001b(B\u001b[m204 \u001b[36m 1\u001b[39m\u001b(B\u001b[m200 S  0.7  0.1  0:00.13 sshd: vagrant@pts\u001b[14;33H960 \u001b[36m 1\u001b[39m\u001b(B\u001b[m432 \u001b[32mR \u001b[39m\u001b(B\u001b[m 0.0\u001b[H"
+    ],
+    [
+      1.506450,
+      "\u001b[2;51H\u001b(B\u001b[0;1m\u001b[36m5\u001b[4;29H\u001b(B\u001b[0m\u001b[33m5\u001b[4;58H\u001b(B\u001b[0;1m\u001b[36m1\u001b[8;45H\u001b(B\u001b[0m\u001b[30m\u001b[46m100.\u001b[8;59H4.19\u001b[9;48H\u001b[39;49m\u001b(B\u001b[m7\u001b[9;59H2.1\r\u001b[10d29025 vagrant   \u001b[10;25H\u001b[36m24\u001b[39m\u001b(B\u001b[m492 \u001b[36m 1\u001b[39m\u001b(B\u001b[m992 \u001b[36m 1\u001b[39m\u001b(B\u001b[m456 \u001b[32mR \u001b[10;61H\u001b[39m\u001b(B\u001b[m02 htop\u001b[K\u001b[11;5H9\u001b[11;48H0\u001b[11;61H39\r\u001b[12d 4985\u001b[12;26H\u001b[36m228M  1\u001b[39m\u001b(B\u001b[m072   76\u001b[48G0  0.1\u001b[61G88\u001b[69Gsbin/VBoxSer\u001b[13;2H7332 \u001b(B\u001b[0;1m\u001b[30mroot      \u001b[13;26H\u001b(B\u001b[0m\u001b[36m829M 18\u001b[39m\u001b(B\u001b[m896 \u001b[36m 8\u001b[39m\u001b(B\u001b[m184\u001b[48G0  0.9\u001b[61G20 /usr/bin/docker -\u001b[14;2H8697\u001b[14;25H\u001b[36m 105M  2\u001b[39m\u001b(B\u001b[m204 \u001b[36m 1\u001b[39m\u001b(B\u001b[m200 S \u001b[14;61H13 sshd: vagrant@pts\u001b[1;1H"
+    ],
+    [
+      1.505744,
+      "\u001b[3;8H\u001b[32m|\u001b[3;59H\u001b(B\u001b[0;1m\u001b[30m31 \u001b[39m\u001b(B\u001b[m0.46 \u001b(B\u001b[0;1m0.24\u001b[4;58H\u001b[36m3\u001b[8d\u001b(B\u001b[0m\u001b[30m\u001b[46m5.70\u001b[9;59H\u001b[39;49m\u001b(B\u001b[m3.6\u001b[10;28H60\u001b[10;48H0\u001b[H"
+    ],
+    [
+      0.563158,
+      "\u001b[25d\u001b[J\u001b[?12l\u001b[?25h\u001b[?1000l\u001b[25;1H\u001b[?1049l\r\u001b[?1l\u001b\u003e\u001b]0;vagrant@docker-cgroup: ~\u0007vagrant@docker-cgroup:~$ "
+    ],
+    [
+      1.726248,
+      "\r\u001b[3P(reverse-i-search)`':\u001b[C"
+    ],
+    [
+      0.234174,
+      "\u0008\u0008\u0008k': docker run -d --name='low_prio' busybox md5sum /dev/urando\rom\u001b[A\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.152432,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u001b[26Pi': docker kill high_prio low_prio\r\n\r\u001b[K\u001b[A\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.136154,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[1@l\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.125603,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[1@l\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.767389,
+      "\r\u001b[1P\u001b]0;vagrant@docker-cgroup: ~\u0007vagrant@docker-cgroup:~$\r\u001b]0;vagrant@docker-cgroup: ~\u0007vagrant@docker-cgroup:~$ \u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\r\n"
+    ],
+    [
+      1.150040,
+      "high_prio\r\n"
+    ],
+    [
+      0.035687,
+      "low_prio\r\n"
+    ],
+    [
+      0.001135,
+      "\u001b]0;vagrant@docker-cgroup: ~\u0007vagrant@docker-cgroup:~$ "
+    ],
+    [
+      0.941812,
+      "\r\u001b[3P(reverse-i-search)`':\u001b[C"
+    ],
+    [
+      0.199439,
+      "\u0008\u0008\u0008r': docker kill high_prio low_prio\u0008\u0008\u0008"
+    ],
+    [
+      0.104961,
+      "\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[1Pm': docker rm\u0008\u0008"
+    ],
+    [
+      0.864079,
+      "\r\u001b]0;vagrant@docker-cgroup: ~\u0007vagrant@docker-cgroup:~$ docker rm high_prio low_prio\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\r\n"
+    ],
+    [
+      0.098045,
+      "high_prio\r\n"
+    ],
+    [
+      0.007194,
+      "low_prio\r\n"
+    ],
+    [
+      0.001161,
+      "\u001b]0;vagrant@docker-cgroup: ~\u0007vagrant@docker-cgroup:~$ "
+    ],
+    [
+      1.076947,
+      "exit"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ]
+  ]
+}
