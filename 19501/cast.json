@@ -1,0 +1,402 @@
+{
+  "version": 1,
+  "width": 44,
+  "height": 25,
+  "duration": 12.051206,
+  "command": "/usr/local/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/usr/local/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.268107,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                           \r \r"
+    ],
+    [
+      0.000097,
+      "\u001b]2;david@Nine: ~\u0007"
+    ],
+    [
+      0.000006,
+      "\u001b]1;~\u0007"
+    ],
+    [
+      0.000063,
+      "\u001b]7;file:///Users/david\u0007"
+    ],
+    [
+      0.020105,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36m~ \u001b[01;34m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000013,
+      "\u001b[K"
+    ],
+    [
+      0.000124,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.552649,
+      "t"
+    ],
+    [
+      0.070936,
+      "\u0008tm"
+    ],
+    [
+      0.138687,
+      "u"
+    ],
+    [
+      0.053242,
+      "x"
+    ],
+    [
+      0.120032,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000078,
+      "\r\r\n"
+    ],
+    [
+      0.000689,
+      "\u001b]2;tmux\u0007"
+    ],
+    [
+      0.000006,
+      "\u001b]1;tmux\u0007"
+    ],
+    [
+      0.008791,
+      "\u001b[?1049h\u001b(B\u001b[m\u001b[?1l\u001b\u003e\u001b[H\u001b[2J\u001b[?12l\u001b[?25h\u001b[?1000l\u001b[?1002l\u001b[?1006l\u001b[?1005l\u001b[c\u001b]112\u0007\u001b[?25l\u001b[1;1H\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[38;5;248m\u001b[48;5;241m[5] 0:zsh*                            pane:0\u001b(B\u001b[m\u001b[25;1H\u001b[1;25r\u001b[H\u001b[?12l\u001b[?25h\u001b[?1005h\u001b[?1006h\u001b[?1002h"
+    ],
+    [
+      0.254177,
+      "\u001b[1;24r.\u001b[1;25r\u001b[H\u001b[C"
+    ],
+    [
+      0.009425,
+      "\u001b[1;24r\u001b[H\u001b[C\u001b[1m\u001b[7m%\u001b(B\u001b[m                                           \r \u001b[1;25r\u001b[H\r\n"
+    ],
+    [
+      0.000418,
+      "\u001b[?25l\u001b[25d\u001b[38;5;248m\u001b[48;5;241m[5] 0:~*                              pane:0\u001b(B\u001b[m\u001b[2;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.020137,
+      "\u001b[1;24r\u001b[H\r\n\u001b[K\r\n\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1;25r\u001b[H\r\n"
+    ],
+    [
+      0.000022,
+      "\u001b[1;24r\u001b[H\r\n\u001b[32m\u001b[1m➜  \u001b[36m~ \u001b[34m \u001b(B\u001b[m\u001b[K\u001b[1;25r\u001b[H\u001b[2;7H\u001b[?1h\u001b="
+    ],
+    [
+      0.000530,
+      "\u001b[1;24r\u001b[H\u001b[2;7H.\u001b[1;25r\u001b[H\u001b[2;8H"
+    ],
+    [
+      0.257891,
+      "\u001b[1;24r\u001b[H\u001b[2;7H \u001b[1;25r\u001b[H\u001b[2;7H"
+    ],
+    [
+      0.111741,
+      "\u001b[1;24r\u001b[H\u001b[2;7Hc\u001b[1;25r\u001b[H\u001b[2;8H"
+    ],
+    [
+      0.096113,
+      "\u001b[1;24r\u001b[H\u001b[2;7Hca\u001b[1;25r\u001b[H\u001b[2;9H"
+    ],
+    [
+      0.104317,
+      "\u001b[1;24r\u001b[H\u001b[2;9Ht\u001b[1;25r\u001b[H\u001b[2;10H"
+    ],
+    [
+      0.063555,
+      "\u001b[1;24r\u001b[H\u001b[2;10H \u001b[1;25r\u001b[H\u001b[2;11H"
+    ],
+    [
+      0.083092,
+      "\u001b[1;24r\u001b[H\u001b[2;11H.\u001b[1;25r\u001b[H\u001b[2;12H"
+    ],
+    [
+      0.140692,
+      "\u001b[1;24r\u001b[H\u001b[2;12Ht\u001b[1;25r\u001b[H\u001b[2;13H"
+    ],
+    [
+      0.080296,
+      "\u001b[1;24r\u001b[H\u001b[2;13Hm\u001b[1;25r\u001b[H\u001b[2;14H"
+    ],
+    [
+      0.114204,
+      "\u001b[1;24r\u001b[H\u001b[2;14Hux.conf\u001b[1m \u001b[1;25r\u001b[H\u001b[2;22H\u001b(B\u001b[m"
+    ],
+    [
+      0.406079,
+      "\u001b[1;24r\u001b[H\u001b[2;21H \u001b[1;25r\u001b[H\u001b[2;21H\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000104,
+      "\r\n"
+    ],
+    [
+      0.001217,
+      "\u001b[?25l\u001b[25d\u001b[38;5;248m\u001b[48;5;241m[5] 0:cat*                            pane:0\u001b(B\u001b[m\u001b[3;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.004039,
+      "\u001b[1;24r\u001b[H\u001b[2B# edit HEAD 'url' in brew:\r\n# brew edit tmux\r\n# set to https://github.com/dv/tmux.git\r\n# then install\r\n# brew install tmux --HEAD\u001b[9;1Hunbind C-b\r\nset -g prefix C-s\u001b[12;1H# Vim keys in COPY and CHOICE mode\r\nset-window-option -g mode-keys vi\u001b[15;1H# Use emacs in tmux status bar\r\nset-option -g status-keys \"emacs\"\u001b[18;1H# Key bindings to navigate panes without prefix\r\nbind-key -n C-h select-pane -L\r\nbind-key -n C-j select-pane -D\r\nbind-key -n C-k select-pane -U\r\nbind-key -n C-l select-pane -R\r\n\nbind-key r source \"/Users/david/.tmux.conf\"\r\n\n# Fancy colours\r\nset-option -g default-terminal \"screen-256color\"\r\n\n# Set color of tmux status bar\r\nset -g status-bg '#666666'\r\nset -g status-fg '#aaaaaa'\r\n\n# Allow 50 chars in left status\r\nset -g status-left-length 50\r\n\n# Show current pane in right status\r\nset-option -g status-right \"pane:#P\"\r\n\n# - splits pane vertical\r\n# | splits pane horizontal\r\nbind-key - split-window -v -c '#{pane_current_path}'\r\nbind-key \\ split-window -h -c '#{pane_current_path}'\r\n\n# if ru"
+    ],
+    [
+      0.000671,
+      "n as \"tmux attach\"\u001b[1;25r\u001b[H\u001b[24;26H\u001b[1;24r\u001b[H\u001b[24;26H, create a session if one does not already exist\r\nnew-session -n $HOST\r\n\n# Lower escape timing from 500ms to 50ms for quicker response to scroll-buffer access.\r\nset -s escape-time 50\r\n\n# Mouse support for scrolling\r\n# Install EasySIMBL and MouseTerm\r\nset-option -g mouse on\r\n\nset -g mode-mouse on\r\nset -g mouse-resize-pane on\r\nset -g mouse-select-pane on\r\nset -g mouse-select-window on\r\n\n# Start copy mode when scrolling up\r\nbind -n WheelUpPane copy-mode\r\n\n# Enable our custom option to exit copy mode when scrolling past bottom\r\nset-window-option -g exit-copy-past-bottom on\r\n\u001b[1m\u001b[7m%\u001b(B\u001b[m                                           \u001b[24;1H \u001b[?25l\u001b[25;1H\u001b[38;5;248m\u001b[48;5;241m[5] 0:~*                              pane:0\u001b(B\u001b[m\u001b[25;1H\u001b[1;25r\u001b[H\u001b[24d\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.017739,
+      "\u001b[1;24r\u001b[H\u001b[24d\u001b[K\u001b[32m\u001b[1m➜  \u001b[36m~ \u001b[34m \u001b(B\u001b[m\u001b[K\u001b[1;25r\u001b[H\u001b[24;7H"
+    ],
+    [
+      0.000010,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.411052,
+      "\u001b[?25l\u001b[H# if run as \"tmux attach\", create a se\u001b[30m\u001b[43m[1/48]\u001b[2;1H\u001b[39m\u001b[49mif one does not already exist\u001b[K\r\nnew-session -n $HOST\u001b[K\r\n\u001b[K\r\n# Lower escape timing from 500ms to 50ms for\u001b[6;1H quicker response to scroll-buffer access.\u001b[K\r\nset -s escape-time 50\u001b[K\r\n\u001b[K\r\n# Mouse support for scrolling\u001b[K\r\n# Install EasySIMBL and MouseTerm\u001b[K\r\nset-option -g mouse on\u001b[K\r\n\u001b[K\r\nset -g mode-mouse on\u001b[K\r\nset -g mouse-resize-pane on\u001b[K\r\nset -g mouse-select-pane on\u001b[K\r\nset -g mouse-select-window on\u001b[K\r\n\u001b[K\r\n# Start copy mode when scrolling up\u001b[K\r\nbind -n WheelUpPane copy-mode\u001b[K\r\n\u001b[K\r\n# Enable our custom option to exit copy mode\u001b[22;1H when scrolling past bottom\u001b[K\r\nset-window-option -g exit-copy-past-bottom o\u001b[24;1Hn\u001b[K\u001b[?12l\u001b[?25h\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.039746,
+      "\u001b[1;24r\u001b[H\u001b[1L\u001b[38C\u001b[30m\u001b[43m[2/48]\u001b[1;1H\u001b[39m\u001b[49m                                      \r\n# if run as \"tmux attach\", create a session \u001b[24;1Hset-window-option -g exit-copy-past-bottom o\u001b[24;1Hset-window-option -g exit-copy-past-bottom o\u001b[24;44H$\u001b[24;1H\u001b[1;25r\u001b[H\u001b[24;44H"
+    ],
+    [
+      0.112725,
+      "\u001b[1;24r\u001b[H\u001b[1L\u001b[38C\u001b[30m\u001b[43m[3/48]\u001b[1;1H\u001b[39m\u001b[49mt_path}'                              \r\n\u001b[K\u001b[24d when scrolling past bottom\u001b[K\u001b[H\u001b[1L\u001b[38C\u001b[30m\u001b[43m[4/48]\u001b[1;1H\u001b[39m\u001b[49mbind-key \\ split-window -h -c '#{pane_\r\nt_path}'\u001b[K\u001b[24;1H# Enable our custom option to exit copy mode\u001b[24;1H# Enable our custom option to exit copy mode\u001b[24;44H$\u001b[24;1H\u001b[1;25r\u001b[H\u001b[24;44H"
+    ],
+    [
+      0.097916,
+      "\u001b[1;24r\u001b[H\u001b[1L\u001b[38C\u001b[30m\u001b[43m[5/48]\u001b[1;1H\u001b[39m\u001b[49mt_path}'                              \r\nbind-key \\ split-window -h -c '#{pane_curren\u001b[24;1H\u001b[K\u001b[1;25r\u001b[H\u001b[24d"
+    ],
+    [
+      0.080061,
+      "\u001b[1;24r\u001b[H\u001b[1L\u001b[38C\u001b[30m\u001b[43m[6/48]\u001b[1;1H\u001b[39m\u001b[49mbind-key - split-window -v -c '#{pane_\r\nt_path}'\u001b[K\u001b[24;1Hbind -n WheelUpPane copy-mode\u001b[K\u001b[1;25r\u001b[H\u001b[24;30H"
+    ],
+    [
+      0.056041,
+      "\u001b[1;24r\u001b[H\u001b[1L\u001b[38C\u001b[30m\u001b[43m[7/48]\u001b[1;1H\u001b[39m\u001b[49m# | splits pane horizontal            \r\nbind-key - split-window -v -c '#{pane_curren\u001b[24;1H# Start copy mode when scrolling up\u001b[K\u001b[1;25r\u001b[H\u001b[24;36H"
+    ],
+    [
+      0.055673,
+      "\u001b[1;24r\u001b[H\u001b[1L\u001b[38C\u001b[30m\u001b[43m[8/48]\u001b[1;1H\u001b[39m\u001b[49m# - splits pane vertical              \r\n# | splits pane horizontal\u001b[K\u001b[24;1H\u001b[K\u001b[1;25r\u001b[H\u001b[24d"
+    ],
+    [
+      0.055806,
+      "\u001b[1;24r\u001b[H\u001b[1L\u001b[38C\u001b[30m\u001b[43m[9/48]\u001b[1;1H\u001b[39m\u001b[49m                                      \r\n# - splits pane vertical\u001b[K\u001b[24;1Hset -g mouse-select-window on\u001b[K\u001b[1;25r\u001b[H\u001b[24;30H"
+    ],
+    [
+      0.080065,
+      "\u001b[1;24r\u001b[H\u001b[1L\u001b[37C\u001b[30m\u001b[43m[10/48]\u001b[1;1H\u001b[39m\u001b[49mset-option -g status-right \"pane:#P\" \r\n\u001b[K\u001b[24dset -g mouse-select-pane on\u001b[K\u001b[1;25r\u001b[H\u001b[24;28H"
+    ],
+    [
+      0.111773,
+      "\u001b[1;24r\u001b[H\u001b[1L\u001b[37C\u001b[30m\u001b[43m[11/48]\u001b[1;1H\u001b[39m\u001b[49m# Show current pane in right status  \r\nset-option -g status-right \"pane:#P\"\u001b[K\u001b[24;1Hset -g mouse-resize-pane on\u001b[K\u001b[1;25r\u001b[H\u001b[24;28H"
+    ],
+    [
+      0.064008,
+      "\u001b[1;24r\u001b[H\u001b[1L\u001b[37C\u001b[30m\u001b[43m[12/48]\u001b[1;1H\u001b[39m\u001b[49m                                     \r\n# Show current pane in right status\u001b[K\u001b[24;1Hset -g mode-mouse on\u001b[K\u001b[1;25r\u001b[H\u001b[24;21H"
+    ],
+    [
+      0.056183,
+      "\u001b[1;24r\u001b[H\u001b[1L\u001b[37C\u001b[30m\u001b[43m[13/48]\u001b[1;1H\u001b[39m\u001b[49mset -g status-left-length 50         \r\n\u001b[K\u001b[24d\u001b[K\u001b[1;25r\u001b[H\u001b[24d"
+    ],
+    [
+      0.072053,
+      "\u001b[1;24r\u001b[H\u001b[1L\u001b[37C\u001b[30m\u001b[43m[14/48]\u001b[1;1H\u001b[39m\u001b[49m# Allow 50 chars in left status      \r\nset -g status-left-length 50\u001b[K\u001b[24;1Hset-option -g mouse on\u001b[K\u001b[1;25r\u001b[H\u001b[24;23H"
+    ],
+    [
+      0.072297,
+      "\u001b[1;24r\u001b[H\u001b[1L\u001b[37C\u001b[30m\u001b[43m[15/48]\u001b[1;1H\u001b[39m\u001b[49m                                     \r\n# Allow 50 chars in left status\u001b[K\u001b[24;1H# Install EasySIMBL and MouseTerm\u001b[K\u001b[1;25r\u001b[H\u001b[24;34H"
+    ],
+    [
+      0.063370,
+      "\u001b[1;24r\u001b[H\u001b[1L\u001b[37C\u001b[30m\u001b[43m[16/48]\u001b[1;1H\u001b[39m\u001b[49mset -g status-fg '#aaaaaa'           \r\n\u001b[K\u001b[24d# Mouse support for scrolling\u001b[K\u001b[1;25r\u001b[H\u001b[24;30H"
+    ],
+    [
+      0.056496,
+      "\u001b[1;24r\u001b[H\u001b[1L\u001b[37C\u001b[30m\u001b[43m[17/48]\u001b[1;1H\u001b[39m\u001b[49mset -g status-bg '#666666'           \r\nset -g status-fg '#aaaaaa'\u001b[K\u001b[24;1H\u001b[K\u001b[1;25r\u001b[H\u001b[24d"
+    ],
+    [
+      0.079599,
+      "\u001b[1;24r\u001b[H\u001b[1L\u001b[37C\u001b[30m\u001b[43m[18/48]\u001b[1;1H\u001b[39m\u001b[49m# Set color of tmux status bar       \r\nset -g status-bg '#666666'\u001b[K\u001b[24;1Hset -s escape-time 50\u001b[K\u001b[1;25r\u001b[H\u001b[24;22H"
+    ],
+    [
+      0.088348,
+      "\u001b[1;24r\u001b[H\u001b[1L\u001b[37C\u001b[30m\u001b[43m[19/48]\u001b[1;1H\u001b[39m\u001b[49m                                     \r\n# Set color of tmux status bar\u001b[K\u001b[24;1H quicker response to scroll-buffer access.\u001b[K\u001b[1;25r\u001b[H\u001b[24;43H"
+    ],
+    [
+      0.082753,
+      "\u001b[1;24r\u001b[H\u001b[1L\u001b[37C\u001b[30m\u001b[43m[20/48]\u001b[1;1H\u001b[39m\u001b[49mlor\"                                 \r\n\u001b[K\u001b[24d# Lower escape timing from 500ms to 50ms for\u001b[24;1H# Lower escape timing from 500ms to 50ms for\u001b[24;44H$\u001b[24;1H\u001b[1;25r\u001b[H\u001b[24;44H"
+    ],
+    [
+      0.157398,
+      "\u001b[1;24r\u001b[H\u001b[1L\u001b[37C\u001b[30m\u001b[43m[21/48]\u001b[1;1H\u001b[39m\u001b[49mset-option -g default-terminal \"scree\r\nlor\"\u001b[K\u001b[24;1H\u001b[K\u001b[H\u001b[1L\u001b[37C\u001b[30m\u001b[43m[22/48]\u001b[1;1H\u001b[39m\u001b[49m# Fancy colours                      \r\nset-option -g default-terminal \"screen-256co\u001b[24;1Hnew-session -n $HOST\u001b[K\u001b[1;25r\u001b[H\u001b[24;21H"
+    ],
+    [
+      0.361980,
+      "\u001b[1;24r\u001b[H\u001b[1M\u001b[24d\u001b[K\u001b[1;38H\u001b[30m\u001b[43m[21/48]\u001b[1;1H\u001b[39m\u001b[49mset-option -g default-terminal \"scree\r\nlor\"\u001b[K\u001b[23;1Hnew-session -n $HOST\u001b[K\rnew-session -n $HOST\u001b[K\r\n\u001b[K\u001b[H\u001b[1M\u001b[24d# Lower escape timing from 500ms to 50ms for\u001b[1;38H\u001b[30m\u001b[43m[20/48]\u001b[1;1H\u001b[39m\u001b[49mlor\"                                 \r\n\u001b[K\u001b[23d\u001b[K\u001b[K\r\n# Lower escape timing from 500ms to 50ms for\u001b[24;1H# Lower escape timing from 500ms to 50ms for\u001b[24;44H$\u001b[1;1H\u001b[1M\u001b[24d quicker response to scroll-buffer access.\u001b[K\u001b[1;38H\u001b[30m\u001b[43m[19/48]\u001b[1;1H\u001b[39m\u001b[49m                                     \r\n# Set color of tmux status bar\u001b[K\u001b[23;1H# Lower escape timing from 500ms to 50ms for\u001b[23;1H# Lower escape timing from 500ms to 50ms for\u001b[24;1H quicker response to scroll-buffer access.\u001b[K\u001b[1;25r\u001b[H\u001b[24;43H"
+    ],
+    [
+      0.071947,
+      "\u001b[1;24r\u001b[H\u001b[1M\u001b[24dset -s escape-time 50\u001b[K\u001b[1;38H\u001b[30m\u001b[43m[18/48]\u001b[1;1H\u001b[39m\u001b[49m# Set color of tmux status bar       \r\nset -g status-bg '#666666'\u001b[K\u001b[23;1H quicker response to scroll-buffer access.\u001b[K\r quicker response to scroll-buffer access.\u001b[K\r\nset -s escape-time 50\u001b[K\u001b[H\u001b[1M\u001b[24d\u001b[K\u001b[1;38H\u001b[30m\u001b[43m[17/48]\u001b[1;1H\u001b[39m\u001b[49mset -g status-bg '#666666'           \r\nset -g status-fg '#aaaaaa'\u001b[K\u001b[23;1Hset -s escape-time 50\u001b[K\rset -s escape-time 50\u001b[K\r\n\u001b[K\u001b[1;25r\u001b[H\u001b[24d"
+    ],
+    [
+      0.144025,
+      "\u001b[1;24r\u001b[H\u001b[1M\u001b[24d# Mouse support for scrolling\u001b[K\u001b[1;38H\u001b[30m\u001b[43m[16/48]\u001b[1;1H\u001b[39m\u001b[49mset -g status-fg '#aaaaaa'           \r\n\u001b[K\u001b[23d\u001b[K\u001b[K\r\n# Mouse support for scrolling\u001b[K\u001b[H\u001b[1M\u001b[24d# Install EasySIMBL and MouseTerm\u001b[K\u001b[1;38H\u001b[30m\u001b[43m[15/48]\u001b[1;1H\u001b[39m\u001b[49m                                     \r\n# Allow 50 chars in left status\u001b[K\u001b[23;1H# Mouse support for scrolling\u001b[K\r# Mouse support for scrolling\u001b[K\r\n# Install EasySIMBL and MouseTerm\u001b[K\u001b[H\u001b[1M\u001b[24dset-option -g mouse on\u001b[K\u001b[1;38H\u001b[30m\u001b[43m[14/48]\u001b[1;1H\u001b[39m\u001b[49m# Allow 50 chars in left status      \r\nset -g status-left-length 50\u001b[K\u001b[23;1H# Install EasySIMBL and MouseTerm\u001b[K\r# Install EasySIMBL and MouseTerm\u001b[K\r\nset-option -g mouse on\u001b[K\u001b[1;25r\u001b[H\u001b[24;23H"
+    ],
+    [
+      0.167429,
+      "\u001b[1;24r\u001b[H\u001b[1M\u001b[24d\u001b[K\u001b[1;38H\u001b[30m\u001b[43m[13/48]\u001b[1;1H\u001b[39m\u001b[49mset -g status-left-length 50         \r\n\u001b[K\u001b[23dset-option -g mouse on\u001b[K\rset-option -g mouse on\u001b[K\r\n\u001b[K\u001b[H\u001b[1M\u001b[24dset -g mode-mouse on\u001b[K\u001b[1;38H\u001b[30m\u001b[43m[12/48]\u001b[1;1H\u001b[39m\u001b[49m                                     \r\n# Show current pane in right status\u001b[K\u001b[23;1H\u001b[K\u001b[K\r\nset -g mode-mouse on\u001b[K\u001b[H\u001b[1M\u001b[24dset -g mouse-resize-pane on\u001b[K\u001b[1;38H\u001b[30m\u001b[43m[11/48]\u001b[1;1H\u001b[39m\u001b[49m# Show current pane in right status  \r\nset-option -g status-right \"pane:#P\"\u001b[K\u001b[23;1Hset -g mode-mouse on\u001b[K\rset -g mode-mouse on\u001b[K\r\nset -g mouse-resize-pane on\u001b[K\u001b[1;25r\u001b[H\u001b[24;28H"
+    ],
+    [
+      0.160451,
+      "\u001b[1;24r\u001b[H\u001b[1M\u001b[24dset -g mouse-select-pane on\u001b[K\u001b[1;38H\u001b[30m\u001b[43m[10/48]\u001b[1;1H\u001b[39m\u001b[49mset-option -g status-right \"pane:#P\" \r\n\u001b[K\u001b[23dset -g mouse-resize-pane on\u001b[K\rset -g mouse-resize-pane on\u001b[K\r\nset -g mouse-select-pane on\u001b[K\u001b[H\u001b[1M\u001b[24dset -g mouse-select-window on\u001b[K\u001b[1;39H\u001b[30m\u001b[43m[9/48]\u001b[1;1H\u001b[39m\u001b[49m                                      \r\n# - splits pane vertical\u001b[K\u001b[23;1Hset -g mouse-select-pane on\u001b[K\rset -g mouse-select-pane on\u001b[K\r\nset -g mouse-select-window on\u001b[K\u001b[H\u001b[1M\u001b[24d\u001b[K\u001b[1;39H\u001b[30m\u001b[43m[8/48]\u001b[1;1H\u001b[39m\u001b[49m# - splits pane vertical              \r\n# | splits pane horizontal\u001b[K\u001b[23;1Hset -g mouse-select-window on\u001b[K\rset -g mouse-select-window on\u001b[K\r\n\u001b[K\u001b[1;25r\u001b[H\u001b[24d"
+    ],
+    [
+      0.240069,
+      "\u001b[1;24r\u001b[H\u001b[1M\u001b[24d# Start copy mode when scrolling up\u001b[K\u001b[1;39H\u001b[30m\u001b[43m[7/48]\u001b[1;1H\u001b[39m\u001b[49m# | splits pane horizontal            \r\nbind-key - split-window -v -c '#{pane_curren\u001b[23;1H\u001b[K\u001b[K\r\n# Start copy mode when scrolling up\u001b[K\u001b[H\u001b[1M\u001b[24dbind -n WheelUpPane copy-mode\u001b[K\u001b[1;39H\u001b[30m\u001b[43m[6/48]\u001b[1;1H\u001b[39m\u001b[49mbind-key - split-window -v -c '#{pane_\r\nt_path}'\u001b[K\u001b[23;1H# Start copy mode when scrolling up\u001b[K\r# Start copy mode when scrolling up\u001b[K\r\nbind -n WheelUpPane copy-mode\u001b[K\u001b[H\u001b[1M\u001b[24d\u001b[K\u001b[1;39H\u001b[30m\u001b[43m[5/48]\u001b[1;1H\u001b[39m\u001b[49mt_path}'                              \r\nbind-key \\ split-window -h -c '#{pane_curren\u001b[23;1Hbind -n WheelUpPane copy-mode\u001b[K\rbind -n WheelUpPane copy-mode\u001b[K\r\n\u001b[K\u001b[1;25r\u001b[H\u001b[24d"
+    ],
+    [
+      0.194557,
+      "\u001b[1;24r\u001b[H\u001b[1M\u001b[24d# Enable our custom option to exit copy mode\u001b[1;39H\u001b[30m\u001b[43m[4/48]\u001b[1;1H\u001b[39m\u001b[49mbind-key \\ split-window -h -c '#{pane_\r\nt_path}'\u001b[K\u001b[23;1H\u001b[K\u001b[K\r\n# Enable our custom option to exit copy mode\u001b[24;1H# Enable our custom option to exit copy mode\u001b[24;44H$\u001b[1;1H\u001b[1M\u001b[24d when scrolling past bottom\u001b[K\u001b[1;39H\u001b[30m\u001b[43m[3/48]\u001b[1;1H\u001b[39m\u001b[49mt_path}'                              \r\n\u001b[K\u001b[23d# Enable our custom option to exit copy mode\u001b[23;1H# Enable our custom option to exit copy mode\u001b[24;1H when scrolling past bottom\u001b[K\u001b[H\u001b[1M\u001b[24dset-window-option -g exit-copy-past-bottom o\u001b[1;39H\u001b[30m\u001b[43m[2/48]\u001b[1;1H\u001b[39m\u001b[49m                                      \r\n# if run as \"tmux attach\", create a session \u001b[23;1H when scrolling past bottom\u001b[K\r when scrolling past bottom\u001b[K\r\nset-window-option -g exit-copy-past-bottom o\u001b[24;1Hset-window-option -g exit-copy-past-bottom o\u001b[24;44H$\u001b[24;1H\u001b[1;25r\u001b[H\u001b[24;44H"
+    ],
+    [
+      0.663540,
+      "\u001b[1;24r\u001b[H\u001b[1M\u001b[24dn\u001b[K\u001b[1;39H\u001b[30m\u001b[43m[1/48]\u001b[1;1H\u001b[39m\u001b[49m# if run as \"tmux attach\", create a se\r\nif one does not already exist\u001b[K\u001b[23;1Hset-window-option -g exit-copy-past-bottom o\u001b[23;1Hset-window-option -g exit-copy-past-bottom o\u001b[24;1Hn\u001b[K\u001b[H\u001b[1M\u001b[24d\u001b[32m\u001b[1m➜  \u001b[36m~ \u001b[34m \u001b(B\u001b[m\u001b[K\u001b[1;39H\u001b[30m\u001b[43m[0/48]\u001b[1;1H\u001b[39m\u001b[49mif one does not already exist         \r\nnew-session -n $HOST\u001b[K\u001b[23;1Hn\u001b[K\rn\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36m~ \u001b[34m \u001b(B\u001b[m\u001b[K\u001b[23;1Hn\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36m~ \u001b[34m \u001b(B\u001b[m\u001b[K\u001b[?25l\u001b[Hif one does not already exist\u001b[K\r\nnew-session -n $HOST\u001b[K\r\n\u001b[K\r\n# Lower escape timing from 500ms to 50ms for quicker response to scroll-buffer access.\u001b[K\r\nset -s escape-time 50\u001b[K\r\n\u001b[K\r\n# Mouse support for scrolling\u001b[K\r\n# Install EasySIMBL and MouseTerm\u001b[K\r\nset-option -g mouse on\u001b[K\r\n\u001b[K\r\nset -g mode-mouse on\u001b[K\r\nset -g mouse-resize-pane on\u001b[K\r\nset -g mouse-select-pane on\u001b[K\r\nset -g mouse-select-window on\u001b[K\r\n\u001b[K\r\n# Start copy mode when scrolling up\u001b[K\r\nbind -n WheelUpPane copy-mode\u001b[K\r\n\u001b[K\r\n# Enable our custo"
+    ],
+    [
+      0.000019,
+      "m option to exit copy mode when scrolling past bottom\u001b[K\r\nset-window-option -g exit-copy-past-bottom on\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36m~ \u001b[34m \u001b(B\u001b[m\u001b[K\u001b[1;25r\u001b[H\u001b[24;7H\u001b[?12l\u001b[?25h\u001b[?1h\u001b="
+    ],
+    [
+      0.518131,
+      "\u001b[?25l\u001b[H# if run as \"tmux attach\", create a se\u001b[30m\u001b[43m[1/48]\u001b[2;1H\u001b[39m\u001b[49mif one does not already exist\u001b[K\r\nnew-session -n $HOST\u001b[K\r\n\u001b[K\r\n# Lower escape timing from 500ms to 50ms for\u001b[6;1H quicker response to scroll-buffer access.\u001b[K\r\nset -s escape-time 50\u001b[K\r\n\u001b[K\r\n# Mouse support for scrolling\u001b[K\r\n# Install EasySIMBL and MouseTerm\u001b[K\r\nset-option -g mouse on\u001b[K\r\n\u001b[K\r\nset -g mode-mouse on\u001b[K\r\nset -g mouse-resize-pane on\u001b[K\r\nset -g mouse-select-pane on\u001b[K\r\nset -g mouse-select-window on\u001b[K\r\n\u001b[K\r\n# Start copy mode when scrolling up\u001b[K\r\nbind -n WheelUpPane copy-mode\u001b[K\r\n\u001b[K\r\n# Enable our custom option to exit copy mode\u001b[22;1H when scrolling past bottom\u001b[K\r\nset-window-option -g exit-copy-past-bottom o\u001b[24;1Hn\u001b[K\u001b[?12l\u001b[?25h\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.071524,
+      "\u001b[1;24r\u001b[H\u001b[1L\u001b[38C\u001b[30m\u001b[43m[2/48]\u001b[1;1H\u001b[39m\u001b[49m                                      \r\n# if run as \"tmux attach\", create a session \u001b[24;1Hset-window-option -g exit-copy-past-bottom o\u001b[24;1Hset-window-option -g exit-copy-past-bottom o\u001b[24;44H$\u001b[24;1H\u001b[1;25r\u001b[H\u001b[24;44H"
+    ],
+    [
+      0.080517,
+      "\u001b[1;24r\u001b[H\u001b[1L\u001b[38C\u001b[30m\u001b[43m[3/48]\u001b[1;1H\u001b[39m\u001b[49mt_path}'                              \r\n\u001b[K\u001b[24d when scrolling past bottom\u001b[K\u001b[1;25r\u001b[H\u001b[24;28H"
+    ],
+    [
+      0.103257,
+      "\u001b[1;24r\u001b[H\u001b[1L\u001b[38C\u001b[30m\u001b[43m[4/48]\u001b[1;1H\u001b[39m\u001b[49mbind-key \\ split-window -h -c '#{pane_\r\nt_path}'\u001b[K\u001b[24;1H# Enable our custom option to exit copy mode\u001b[24;1H# Enable our custom option to exit copy mode\u001b[24;44H$\u001b[24;1H\u001b[1;25r\u001b[H\u001b[24;44H"
+    ],
+    [
+      0.104061,
+      "\u001b[1;24r\u001b[H\u001b[1L\u001b[38C\u001b[30m\u001b[43m[5/48]\u001b[1;1H\u001b[39m\u001b[49mt_path}'                              \r\nbind-key \\ split-window -h -c '#{pane_curren\u001b[24;1H\u001b[K\u001b[1;25r\u001b[H\u001b[24d"
+    ],
+    [
+      0.088268,
+      "\u001b[1;24r\u001b[H\u001b[1L\u001b[38C\u001b[30m\u001b[43m[6/48]\u001b[1;1H\u001b[39m\u001b[49mbind-key - split-window -v -c '#{pane_\r\nt_path}'\u001b[K\u001b[24;1Hbind -n WheelUpPane copy-mode\u001b[K\u001b[1;25r\u001b[H\u001b[24;30H"
+    ],
+    [
+      0.096478,
+      "\u001b[1;24r\u001b[H\u001b[1L\u001b[38C\u001b[30m\u001b[43m[7/48]\u001b[1;1H\u001b[39m\u001b[49m# | splits pane horizontal            \r\nbind-key - split-window -v -c '#{pane_curren\u001b[24;1H# Start copy mode when scrolling up\u001b[K\u001b[1;25r\u001b[H\u001b[24;36H"
+    ],
+    [
+      0.079412,
+      "\u001b[1;24r\u001b[H\u001b[1L\u001b[38C\u001b[30m\u001b[43m[8/48]\u001b[1;1H\u001b[39m\u001b[49m# - splits pane vertical              \r\n# | splits pane horizontal\u001b[K\u001b[24;1H\u001b[K\u001b[1;25r\u001b[H\u001b[24d"
+    ],
+    [
+      0.088593,
+      "\u001b[1;24r\u001b[H\u001b[1L\u001b[38C\u001b[30m\u001b[43m[9/48]\u001b[1;1H\u001b[39m\u001b[49m                                      \r\n# - splits pane vertical\u001b[K\u001b[24;1Hset -g mouse-select-window on\u001b[K\u001b[1;25r\u001b[H\u001b[24;30H"
+    ],
+    [
+      0.063828,
+      "\u001b[1;24r\u001b[H\u001b[1L\u001b[37C\u001b[30m\u001b[43m[10/48]\u001b[1;1H\u001b[39m\u001b[49mset-option -g status-right \"pane:#P\" \r\n\u001b[K\u001b[24dset -g mouse-select-pane on\u001b[K\u001b[1;25r\u001b[H\u001b[24;28H"
+    ],
+    [
+      0.063566,
+      "\u001b[1;24r\u001b[H\u001b[1L\u001b[37C\u001b[30m\u001b[43m[11/48]\u001b[1;1H\u001b[39m\u001b[49m# Show current pane in right status  \r\nset-option -g status-right \"pane:#P\"\u001b[K\u001b[24;1Hset -g mouse-resize-pane on\u001b[K\u001b[1;25r\u001b[H\u001b[24;28H"
+    ],
+    [
+      0.072028,
+      "\u001b[1;24r\u001b[H\u001b[1L\u001b[37C\u001b[30m\u001b[43m[12/48]\u001b[1;1H\u001b[39m\u001b[49m                                     \r\n# Show current pane in right status\u001b[K\u001b[24;1Hset -g mode-mouse on\u001b[K\u001b[1;25r\u001b[H\u001b[24;21H"
+    ],
+    [
+      0.649787,
+      "\u001b[1;24r\u001b[H\u001b[1M\u001b[24dset -g mouse-resize-pane on\u001b[K\u001b[1;38H\u001b[30m\u001b[43m[11/48]\u001b[1;1H\u001b[39m\u001b[49m# Show current pane in right status  \r\nset-option -g status-right \"pane:#P\"\u001b[K\u001b[23;1Hset -g mode-mouse on\u001b[K\rset -g mode-mouse on\u001b[K\r\nset -g mouse-resize-pane on\u001b[K\u001b[H\u001b[1M\u001b[24dset -g mouse-select-pane on\u001b[K\u001b[1;38H\u001b[30m\u001b[43m[10/48]\u001b[1;1H\u001b[39m\u001b[49mset-option -g status-right \"pane:#P\" \r\n\u001b[K\u001b[23dset -g mouse-resize-pane on\u001b[K\rset -g mouse-resize-pane on\u001b[K\r\nset -g mouse-select-pane on\u001b[K\u001b[H\u001b[1M\u001b[24dset -g mouse-select-window on\u001b[K\u001b[1;39H\u001b[30m\u001b[43m[9/48]\u001b[1;1H\u001b[39m\u001b[49m                                      \r\n# - splits pane vertical\u001b[K\u001b[23;1Hset -g mouse-select-pane on\u001b[K\rset -g mouse-select-pane on\u001b[K\r\nset -g mouse-select-window on\u001b[K\u001b[1;25r\u001b[H\u001b[24;30H"
+    ],
+    [
+      0.096342,
+      "\u001b[1;24r\u001b[H\u001b[1M\u001b[24d\u001b[K\u001b[1;39H\u001b[30m\u001b[43m[8/48]\u001b[1;1H\u001b[39m\u001b[49m# - splits pane vertical              \r\n# | splits pane horizontal\u001b[K\u001b[23;1Hset -g mouse-select-window on\u001b[K\rset -g mouse-select-window on\u001b[K\r\n\u001b[K\u001b[H\u001b[1M\u001b[24d# Start copy mode when scrolling up\u001b[K\u001b[1;39H\u001b[30m\u001b[43m[7/48]\u001b[1;1H\u001b[39m\u001b[49m# | splits pane horizontal            \r\nbind-key - split-window -v -c '#{pane_curren\u001b[23;1H\u001b[K\u001b[K\r\n# Start copy mode when scrolling up\u001b[K\u001b[1;25r\u001b[H\u001b[24;36H"
+    ],
+    [
+      0.079546,
+      "\u001b[1;24r\u001b[H\u001b[1M\u001b[24dbind -n WheelUpPane copy-mode\u001b[K\u001b[1;39H\u001b[30m\u001b[43m[6/48]\u001b[1;1H\u001b[39m\u001b[49mbind-key - split-window -v -c '#{pane_\r\nt_path}'\u001b[K\u001b[23;1H# Start copy mode when scrolling up\u001b[K\r# Start copy mode when scrolling up\u001b[K\r\nbind -n WheelUpPane copy-mode\u001b[K\u001b[H\u001b[1M\u001b[24d\u001b[K\u001b[1;39H\u001b[30m\u001b[43m[5/48]\u001b[1;1H\u001b[39m\u001b[49mt_path}'                              \r\nbind-key \\ split-window -h -c '#{pane_curren\u001b[23;1Hbind -n WheelUpPane copy-mode\u001b[K\rbind -n WheelUpPane copy-mode\u001b[K\r\n\u001b[K\u001b[1;25r\u001b[H\u001b[24d"
+    ],
+    [
+      0.193189,
+      "\u001b[1;24r\u001b[H\u001b[1M\u001b[24d# Enable our custom option to exit copy mode\u001b[1;39H\u001b[30m\u001b[43m[4/48]\u001b[1;1H\u001b[39m\u001b[49mbind-key \\ split-window -h -c '#{pane_\r\nt_path}'\u001b[K\u001b[23;1H\u001b[K\u001b[K\r\n# Enable our custom option to exit copy mode\u001b[24;1H# Enable our custom option to exit copy mode\u001b[24;44H$\u001b[1;1H\u001b[1M\u001b[24d when scrolling past bottom\u001b[K\u001b[1;39H\u001b[30m\u001b[43m[3/48]\u001b[1;1H\u001b[39m\u001b[49mt_path}'                              \r\n\u001b[K\u001b[23d# Enable our custom option to exit copy mode\u001b[23;1H# Enable our custom option to exit copy mode\u001b[24;1H when scrolling past bottom\u001b[K\u001b[H\u001b[1M\u001b[24dset-window-option -g exit-copy-past-bottom o\u001b[1;39H\u001b[30m\u001b[43m[2/48]\u001b[1;1H\u001b[39m\u001b[49m                                      \r\n# if run as \"tmux attach\", create a session \u001b[23;1H when scrolling past bottom\u001b[K\r when scrolling past bottom\u001b[K\r\nset-window-option -g exit-copy-past-bottom o\u001b[24;1Hset-window-option -g exit-copy-past-bottom o\u001b[24;44H$\u001b[24;1H\u001b[1;25r\u001b[H\u001b[24;44H"
+    ],
+    [
+      0.167149,
+      "\u001b[1;24r\u001b[H\u001b[1M\u001b[24dn\u001b[K\u001b[1;39H\u001b[30m\u001b[43m[1/48]\u001b[1;1H\u001b[39m\u001b[49m# if run as \"tmux attach\", create a se\r\nif one does not already exist\u001b[K\u001b[23;1Hset-window-option -g exit-copy-past-bottom o\u001b[23;1Hset-window-option -g exit-copy-past-bottom o\u001b[24;1Hn\u001b[K\u001b[H\u001b[1M\u001b[24d\u001b[32m\u001b[1m➜  \u001b[36m~ \u001b[34m \u001b(B\u001b[m\u001b[K\u001b[1;39H\u001b[30m\u001b[43m[0/48]\u001b[1;1H\u001b[39m\u001b[49mif one does not already exist         \r\nnew-session -n $HOST\u001b[K\u001b[23;1Hn\u001b[K\rn\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36m~ \u001b[34m \u001b(B\u001b[m\u001b[K\u001b[23;1Hn\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36m~ \u001b[34m \u001b(B\u001b[m\u001b[K\u001b[?25l\u001b[Hif one does not already exist\u001b[K\r\nnew-session -n $HOST\u001b[K\r\n\u001b[K\r\n# Lower escape timing from 500ms to 50ms for quicker response to scroll-buffer access.\u001b[K\r\nset -s escape-time 50\u001b[K\r\n\u001b[K\r\n# Mouse support for scrolling\u001b[K\r\n# Install EasySIMBL and MouseTerm\u001b[K\r\nset-option -g mouse on\u001b[K\r\n\u001b[K\r\nset -g mode-mouse on\u001b[K\r\nset -g mouse-resize-pane on\u001b[K\r\nset -g mouse-select-pane on\u001b[K\r\nset -g mouse-select-window on\u001b[K\r\n\u001b[K\r\n# Start copy mode when scrolling up\u001b[K\r\nbind -n WheelUpPane copy-mode\u001b[K\r\n\u001b[K\r\n# Enable our custo"
+    ],
+    [
+      0.000008,
+      "m option to exit copy mode when scrolling past bottom\u001b[K\r\nset-window-option -g exit-copy-past-bottom on\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36m~ \u001b[34m \u001b(B\u001b[m\u001b[K\u001b[1;25r\u001b[H\u001b[24;7H\u001b[?12l\u001b[?25h\u001b[?1h\u001b="
+    ],
+    [
+      1.058560,
+      "\u001b[1;24r\u001b[H\u001b[24d\n\u001b[1;25r\u001b[H\u001b[24d"
+    ],
+    [
+      0.007865,
+      "\u001b[1;25r"
+    ],
+    [
+      0.000008,
+      "\u001b(B\u001b[m\u001b[?1l\u001b\u003e\u001b[H\u001b[2J\u001b]112\u0007\u001b[?12l\u001b[?25h\u001b[?1000l\u001b[?1002l\u001b[?1006l\u001b[?1005l\u001b[?1049l"
+    ],
+    [
+      0.000134,
+      "[exited]\r\n"
+    ],
+    [
+      0.000501,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                           \r \r"
+    ],
+    [
+      0.000064,
+      "\u001b]2;david@Nine: ~\u0007"
+    ],
+    [
+      0.000016,
+      "\u001b]1;~\u0007"
+    ],
+    [
+      0.000055,
+      "\u001b]7;file:///Users/david\u0007"
+    ],
+    [
+      0.020188,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36m~ \u001b[01;34m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000010,
+      "\u001b[K"
+    ],
+    [
+      0.000030,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.440017,
+      "\r\r\n"
+    ]
+  ]
+}
