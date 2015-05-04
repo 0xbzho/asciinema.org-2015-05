@@ -1,0 +1,998 @@
+{
+  "version": 1,
+  "width": 89,
+  "height": 25,
+  "duration": 55.171016,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.084047,
+      "\u001b]0;francesco@francesco-VirtualBox: ~/crc32\u0007francesco@francesco-VirtualBox:~/crc32$ "
+    ],
+    [
+      1.520855,
+      "p"
+    ],
+    [
+      0.116065,
+      "e"
+    ],
+    [
+      0.072041,
+      "r"
+    ],
+    [
+      0.144081,
+      "f"
+    ],
+    [
+      0.268151,
+      " "
+    ],
+    [
+      0.172097,
+      "r"
+    ],
+    [
+      0.088050,
+      "e"
+    ],
+    [
+      0.184104,
+      "p"
+    ],
+    [
+      0.116065,
+      "o"
+    ],
+    [
+      0.084047,
+      "r"
+    ],
+    [
+      0.104059,
+      "t"
+    ],
+    [
+      0.072041,
+      " "
+    ],
+    [
+      0.160090,
+      "-"
+    ],
+    [
+      0.196110,
+      "i"
+    ],
+    [
+      0.084047,
+      " "
+    ],
+    [
+      0.144081,
+      "p"
+    ],
+    [
+      0.112063,
+      "e"
+    ],
+    [
+      0.056032,
+      "r"
+    ],
+    [
+      0.124070,
+      "f"
+    ],
+    [
+      0.228128,
+      "-"
+    ],
+    [
+      0.272153,
+      "h"
+    ],
+    [
+      0.052029,
+      "a"
+    ],
+    [
+      0.080045,
+      "s"
+    ],
+    [
+      0.592333,
+      "k"
+    ],
+    [
+      0.272153,
+      "."
+    ],
+    [
+      0.248140,
+      "d"
+    ],
+    [
+      0.072041,
+      "a"
+    ],
+    [
+      0.136077,
+      "t"
+    ],
+    [
+      0.016009,
+      "a"
+    ],
+    [
+      4.474515,
+      "\r\n"
+    ],
+    [
+      0.012007,
+      "\u001b[?1049h\u001b[1;25r\u001b[4l\u001b(B\u001b[m\u001b[37m\u001b[40m\u001b[1;25r\u001b[H\u001b[2J\u001b[25;89H"
+    ],
+    [
+      0.000000,
+      "\u001b[1;25r\u001b[H\u001b[2J\u001b[11;1H┌Processing events...───────────────────────────────────────────────────────────────────┐\u001b[12;1H│\u001b[30m\u001b[47m     \u001b[82C\u001b[37m\u001b[40m│\u001b[13;1H└───────────────────────────────────────────────────────────────────────────────────────┘\u001b[12;7H"
+    ],
+    [
+      0.000000,
+      "\u001b[30m\u001b[47m     \u001b[77C\u001b[12;12H"
+    ],
+    [
+      0.004002,
+      "      \u001b[71C\u001b[12;18H"
+    ],
+    [
+      0.000000,
+      "     \u001b[66C\u001b[12;23H"
+    ],
+    [
+      0.000000,
+      "      \u001b[60C\u001b[12;29H"
+    ],
+    [
+      0.000000,
+      "     \u001b[55C\u001b[12;34H"
+    ],
+    [
+      0.000000,
+      "      \u001b[49C\u001b[12;40H"
+    ],
+    [
+      0.000000,
+      "     \u001b[44C\u001b[12;45H"
+    ],
+    [
+      0.000000,
+      "     \u001b[39C\u001b[12;50H"
+    ],
+    [
+      0.000000,
+      "      \u001b[33C\u001b[12;56H"
+    ],
+    [
+      0.000000,
+      "     \u001b[28C\u001b[12;61H"
+    ],
+    [
+      0.000000,
+      "      \u001b[22C\u001b[12;67H"
+    ],
+    [
+      0.000000,
+      "     \u001b[17C\u001b[12;72H"
+    ],
+    [
+      0.000000,
+      "      \u001b[11C\u001b[12;78H"
+    ],
+    [
+      0.004002,
+      "     \u001b[6C\u001b[12;83H"
+    ],
+    [
+      0.036020,
+      "\u001b[11;13H\u001b[37m\u001b[40mtime ordered events...\u001b[12;7H                                                                            \u001b[6C\u001b[12;7H"
+    ],
+    [
+      0.000000,
+      "\u001b[30m\u001b[47m     \u001b[77C\u001b[12;12H"
+    ],
+    [
+      0.088050,
+      "      \u001b[71C\u001b[12;18H"
+    ],
+    [
+      0.000000,
+      "     \u001b[66C\u001b[12;23H"
+    ],
+    [
+      0.000000,
+      "      \u001b[60C\u001b[12;29H"
+    ],
+    [
+      0.000000,
+      "     \u001b[55C\u001b[12;34H"
+    ],
+    [
+      0.000000,
+      "      \u001b[49C\u001b[12;40H"
+    ],
+    [
+      0.000000,
+      "     \u001b[44C\u001b[12;45H"
+    ],
+    [
+      0.000000,
+      "     \u001b[39C\u001b[12;50H"
+    ],
+    [
+      0.000000,
+      "      \u001b[33C\u001b[12;56H"
+    ],
+    [
+      0.004002,
+      "     \u001b[28C\u001b[12;61H"
+    ],
+    [
+      0.000000,
+      "      \u001b[22C\u001b[12;67H     \u001b[17C\u001b[12;72H      \u001b[11C\u001b[12;78H     \u001b[6C\u001b[12;83H     \u001b[37m\u001b[40m \u0008\u001b[11;2HMerging related events...────────\u001b[12;9H                                                                                \u001b[12;9H\u001b[30m\u001b[47m        \u001b[72C\u001b[12;17H        \u001b[64C\u001b[12;25H        \u001b[56C\u001b[12;33H        \u001b[48C\u001b[12;41H        \u001b[40C\u001b[12;49H        \u001b[32C\u001b[12;57H        \u001b[24C\u001b[12;65H        \u001b[16C\u001b[12;73H        \u001b[8C\u001b[12;81H        \u001b[25;1H\u001b[37m\u001b[40mFor a higher level overview, try: perf report --sort comm,dso\u001b[25;89H\u001b[1;1H\u001b[1m\u001b[37m\u001b[44mSamples: 8K of event 'cpu-clock', Event count (approx.): 2233500000                      \u001b[25;1H\u001b(B\u001b[m\u001b[37m\u001b[40mPress '?' for help on key bindings\u001b[K\u001b[25;89H\u001b[2;1H\u001b[31m\u001b[49m  99,75%\u001b[39m  crc32  crc32              [.] s4Tw_info\u001b[K\r\n   0,10%  crc32  crc32              [.] c5gn_info\u001b[K\r\n   0,03%  crc32  crc32              [.] c5g3_info\u001b[K\r\n   0,02%  crc32  crc32              [.] c2k_info\u001b[K\r\n   0,02%  crc32  crc32              [.] c7F_info\u001b[K\r\n   0,01%  crc32  [kernel.kallsyms]  [k] __do_softirq\u001b[K\r\n   0,01%  crc32  crc32              [.] allocatePinned\u001b[K\r\n   0,01%  crc32  crc32              [.] c6le_info\u001b[K\r\n   0,01%  crc32  crc32              [.] chg3_info\u001b[K\r\n   0,01%  crc32  crc32              [.] 0x000000000041ca88\u001b[K\r\n   0,01%  crc32  libc-2.19.so       [.] _dl_addr\u001b[K\r\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\u001b[13;89H"
+    ],
+    [
+      1.280720,
+      "\u001b[2;1H\u001b[30m\u001b[47m  99,75%  crc32  crc32              [.] s4Tw_info                                       \u001b[39m\u001b[49m◆\u001b[3;89H▒\u001b[4;89H▒\u001b[5;89H▒\u001b[6;89H▒\u001b[7;89H▒\u001b[8;89H▒\u001b[9;89H▒\u001b[10;89H▒\u001b[11;89H▒\u001b[12;89H▒\u001b[13;89H▒\u001b[14;89H▒\u001b[15;89H▒\u001b[16;89H▒\u001b[17;89H▒\u001b[18;89H▒\u001b[19;89H▒\u001b[20;89H▒\u001b[21;89H▒\u001b[22;89H▒\u001b[23;89H▒\u001b[24;89H▒\u001b[13;89H"
+    ],
+    [
+      1.008567,
+      "\u001b[2;1H\u001b[31m  99,75%\u001b[39m  crc32  crc32              [.] s4Tw_info                                       ▒\u001b[3;1H\u001b[30m\u001b[47m   0,10%  crc32  crc32              [.] c5gn_info                                       \u001b[4;89H\u001b[39m\u001b[49m◆\u001b[13;89H"
+    ],
+    [
+      0.268151,
+      "\u001b[3;1H   0,10%  crc32  crc32              [.] c5gn_info                                       \r\n\u001b[30m\u001b[47m   0,03%  crc32  crc32              [.] c5g3_info                                       \u001b[39m\u001b[49m▒\u001b[6;89H◆\u001b[13;89H"
+    ],
+    [
+      0.216122,
+      "\u001b[4;1H   0,03%  crc32  crc32              [.] c5g3_info                                       \r\n\u001b[30m\u001b[47m   0,02%  crc32  crc32              [.] c2k_info                                        \u001b[6;89H\u001b[39m\u001b[49m▒\u001b[8;89H◆\u001b[13;89H"
+    ],
+    [
+      0.220124,
+      "\u001b[5;1H   0,02%  crc32  crc32              [.] c2k_info                                        \r\n\u001b[30m\u001b[47m   0,02%  crc32  crc32              [.] c7F_info                                        \u001b[8;89H\u001b[39m\u001b[49m▒\u001b[10;89H◆\u001b[13;89H"
+    ],
+    [
+      0.172097,
+      "\u001b[6;1H   0,02%  crc32  crc32              [.] c7F_info                                        \r\n\u001b[30m\u001b[47m   0,01%  crc32  [kernel.kallsyms]  [k] __do_softirq                                    \u001b[10;89H\u001b[39m\u001b[49m▒\u001b[13;89H◆\u001b[13;89H"
+    ],
+    [
+      0.160090,
+      "\u001b[7;1H   0,01%  crc32  [kernel.kallsyms]  [k] __do_softirq                                    \r\n\u001b[30m\u001b[47m   0,01%  crc32  crc32              [.] allocatePinned                                  \u001b[13;89H\u001b[39m\u001b[49m▒\u001b[15;89H◆\u001b[13;89H"
+    ],
+    [
+      0.144081,
+      "\u001b[8;1H   0,01%  crc32  crc32              [.] allocatePinned                                  \r\n\u001b[30m\u001b[47m   0,01%  crc32  crc32              [.] c6le_info                                       \u001b[15;89H\u001b[39m\u001b[49m▒\u001b[17;89H◆\u001b[13;89H"
+    ],
+    [
+      0.144081,
+      "\u001b[9;1H   0,01%  crc32  crc32              [.] c6le_info                                       \r\n\u001b[30m\u001b[47m   0,01%  crc32  crc32              [.] chg3_info                                       \u001b[17;89H\u001b[39m\u001b[49m▒\u001b[19;89H◆\u001b[13;89H"
+    ],
+    [
+      0.152086,
+      "\u001b[10;1H   0,01%  crc32  crc32              [.] chg3_info                                       \r\n\u001b[30m\u001b[47m   0,01%  crc32  crc32              [.] 0x000000000041ca88                              \u001b[19;89H\u001b[39m\u001b[49m▒\u001b[21;89H◆\u001b[13;89H"
+    ],
+    [
+      0.316178,
+      "\u001b[11;1H   0,01%  crc32  crc32              [.] 0x000000000041ca88                              \r\n\u001b[30m\u001b[47m   0,01%  crc32  libc-2.19.so       [.] _dl_addr                                        \u001b[21;89H\u001b[39m\u001b[49m▒\u001b[24;89H◆\u001b[13;89H"
+    ],
+    [
+      1.240698,
+      "\u001b[11;1H\u001b[30m\u001b[47m   0,01%  crc32  crc32              [.] 0x000000000041ca88                              \r\n\u001b[39m\u001b[49m   0,01%  crc32  libc-2.19.so       [.] _dl_addr                                        \u001b[21;89H◆\u001b[24;89H▒\u001b[13;89H"
+    ],
+    [
+      0.176099,
+      "\u001b[10;1H\u001b[30m\u001b[47m   0,01%  crc32  crc32              [.] chg3_info                                       \r\n\u001b[39m\u001b[49m   0,01%  crc32  crc32              [.] 0x000000000041ca88                              \u001b[19;89H◆\u001b[21;89H▒\u001b[13;89H"
+    ],
+    [
+      0.176099,
+      "\u001b[9;1H\u001b[30m\u001b[47m   0,01%  crc32  crc32              [.] c6le_info                                       \r\n\u001b[39m\u001b[49m   0,01%  crc32  crc32              [.] chg3_info                                       \u001b[17;89H◆\u001b[19;89H▒\u001b[13;89H"
+    ],
+    [
+      0.144081,
+      "\u001b[8;1H\u001b[30m\u001b[47m   0,01%  crc32  crc32              [.] allocatePinned                                  \r\n\u001b[39m\u001b[49m   0,01%  crc32  crc32              [.] c6le_info                                       \u001b[15;89H◆\u001b[17;89H▒\u001b[13;89H"
+    ],
+    [
+      0.164092,
+      "\u001b[7;1H\u001b[30m\u001b[47m   0,01%  crc32  [kernel.kallsyms]  [k] __do_softirq                                    \r\n\u001b[39m\u001b[49m   0,01%  crc32  crc32              [.] allocatePinned                                  \u001b[13;89H◆\u001b[15;89H▒\u001b[13;89H"
+    ],
+    [
+      0.172097,
+      "\u001b[6;1H\u001b[30m\u001b[47m   0,02%  crc32  crc32              [.] c7F_info                                        \r\n\u001b[39m\u001b[49m   0,01%  crc32  [kernel.kallsyms]  [k] __do_softirq                                    \u001b[10;89H◆\u001b[13;89H▒\u001b[13;89H"
+    ],
+    [
+      0.168095,
+      "\u001b[5;1H\u001b[30m\u001b[47m   0,02%  crc32  crc32              [.] c2k_info                                        \r\n\u001b[39m\u001b[49m   0,02%  crc32  crc32              [.] c7F_info                                        \u001b[8;89H◆\u001b[10;89H▒\u001b[13;89H"
+    ],
+    [
+      0.168095,
+      "\u001b[4;1H\u001b[30m\u001b[47m   0,03%  crc32  crc32              [.] c5g3_info                                       \r\n\u001b[39m\u001b[49m   0,02%  crc32  crc32              [.] c2k_info                                        \u001b[6;89H◆\u001b[8;89H▒\u001b[13;89H"
+    ],
+    [
+      0.144081,
+      "\u001b[3;1H\u001b[30m\u001b[47m   0,10%  crc32  crc32              [.] c5gn_info                                       \r\n\u001b[39m\u001b[49m   0,03%  crc32  crc32              [.] c5g3_info                                       ◆\u001b[6;89H▒\u001b[13;89H"
+    ],
+    [
+      0.248140,
+      "\u001b[2;1H\u001b[30m\u001b[47m  99,75%  crc32  crc32              [.] s4Tw_info                                       \u001b[39m\u001b[49m◆\u001b[3;1H   0,10%  crc32  crc32              [.] c5gn_info                                       \u001b[4;89H▒\u001b[13;89H"
+    ],
+    [
+      0.660371,
+      "\u001b[1;1H\u001b[1m\u001b[37m\u001b[44m                                                                   \u001b[25;1H\u001b(B\u001b[m\u001b[37m\u001b[40mESC: exit, ENTER|-\u003e: Select option\u001b[25;89H"
+    ],
+    [
+      0.000000,
+      "\u001b[2;1H\u001b[30m\u001b[47mAnnotate s4Tw_info    \u001b[14C             \r\n\u001b[39m\u001b[49mZoom into\u001b[6C(4258) thread\u001b[8C             \r\nZoom into\u001b[7CDSO   \u001b[14C             \r\nBrowse map details    \u001b[14C            \r\nRun scripts for samples of thread [crc32]       \r\nRun scripts for samples of symbol [s4Tw_info]       \r\nRun scripts for all samples\u001b[9C                  \r\nSwitch to another data file in PWD               \r\nExit                  \u001b[14C             \u001b[11;4H                   \u001b[14C                      \u001b[12;4H                          \u001b[7C            \u001b[11;89H"
+    ],
+    [
+      3.349883,
+      "\u001b[25;1H\u001b[37m\u001b[40mPress \u003c- or ESC to exit\u001b[K\u001b[25;89H"
+    ],
+    [
+      0.000000,
+      "\u001b[1;1H\u001b[1m\u001b[37m\u001b[44ms4Tw_info  /home/francesco/crc32/crc32\u001b[25;7H\u001b(B\u001b[m\u001b[37m\u001b[40m'h' for help on key bindings\u001b[25;89H"
+    ],
+    [
+      0.000000,
+      "\u001b[2;1H\u001b[39m\u001b[49m  0,02 │\u001b[35m    \u001b[39m  mov    $0xffffffff,%eax\u001b[K\r\n\u001b[31m 10,01 \u001b[39m│\u001b[35m    \u001b[31m  xor    %rax,%r14\u001b[K\r\n\u001b[39m  0,03 │\u001b[35m    \u001b[39m  mov    $0xffffffff,%eax\u001b[K\r\n\u001b[32m  1,07 \u001b[39m│\u001b[35m    \u001b[32m  mov    %r14,%rcx\u001b[K\r\n\u001b[39m       │\u001b[35m    \u001b[39m  shr    $0x8,%rcx\u001b[K\r\n\u001b[31m 10,55 \u001b[39m│\u001b[35m    \u001b[31m  xor    %rax,%rcx\u001b[K\r\n\u001b[39m  0,10 │\u001b[35m    \u001b[39m  mov    0x4(%rbx),%rax\u001b[K\r\n\u001b[32m  1,03 \u001b[39m│\u001b[35m    \u001b[32m  movzbl (%rsi),%edx\u001b[K\r\n\u001b[39m  0,16 │\u001b[35m    \u001b[39m  xor    %rdx,%r14\u001b[K\r\n\u001b[31m  9,69 \u001b[39m│\u001b[35m    \u001b[31m  and    $0xff,%r14d\u001b[K\r\n\u001b[32m  0,75 \u001b[39m│\u001b[35m    \u001b[32m  mov    0x10(%rax,%r14,4),%eax\u001b[K\r\n\u001b[31m 44,32 \u001b[39m│\u001b[35m    \u001b[31m  xor    %rcx,%rax\u001b[K\r\n 10,31 \u001b[39m│\u001b[35m    \u001b[31m  inc    %rsi\u001b[K\u001b[15;3H\u001b[39m0,01 │\u001b[35m    \u001b[39m  mov    %rax,%r14\u001b[K\u001b[16;8H│\u001b[35m    \u001b[39m↑ jmp    0\u001b[K\u001b[17;89H\u001b[K\u001b[18;89H\u001b[K\u001b[19;89H\u001b[K\u001b[20;89H\u001b[K\u001b[21;89H\u001b[K\u001b[22;89H\u001b[K\u001b[23;89H\u001b[K\u001b[24;89H\u001b[K\u001b[17;89H"
+    ],
+    [
+      1.604902,
+      "\u001b[2;89H▒\u001b[3;89H▒\u001b[4;89H▒\u001b[5;89H▒\u001b[6;89H▒\u001b[7;89H▒\u001b[8;89H▒\u001b[9;89H▒\u001b[10;89H▒\u001b[11;89H▒\u001b[12;89H▒\u001b[13;1H\u001b[30m\u001b[47m 44,32 \u001b[39m\u001b[49m│\u001b[30m\u001b[47m      xor    %rcx,%rax                                                          \u001b[39m\u001b[49m▒\u001b[14;89H▒\u001b[15;89H▒\u001b[16;89H▒\u001b[17;89H▒\u001b[18;89H▒\u001b[19;89H▒\u001b[20;89H▒\u001b[21;89H▒\u001b[22;89H◆\u001b[23;89H▒\u001b[24;89H▒\u001b[17;89H"
+    ],
+    [
+      1.016571,
+      "\u001b[13;1H\u001b[31m 44,32 \u001b[39m│\u001b[35m    \u001b[31m  xor    %rcx,%rax                                                          \r\n\u001b[30m\u001b[47m 10,31 \u001b[39m\u001b[49m│\u001b[30m\u001b[47m      inc    %rsi                                                               \u001b[22;89H\u001b[39m\u001b[49m▒\u001b[23;89H◆\u001b[17;89H"
+    ],
+    [
+      0.472266,
+      "\u001b[13;1H\u001b[30m\u001b[47m 44,32 \u001b[39m\u001b[49m│\u001b[30m\u001b[47m      xor    %rcx,%rax                                                          \r\n\u001b[31m\u001b[49m 10,31 \u001b[39m│\u001b[35m    \u001b[31m  inc    %rsi                                                               \u001b[22;89H\u001b[39m◆\u001b[23;89H▒\u001b[17;89H"
+    ],
+    [
+      0.528297,
+      "\u001b[12;1H\u001b[30m\u001b[47m  0,75 \u001b[39m\u001b[49m│\u001b[30m\u001b[47m      mov    0x10(%rax,%r14,4),%eax                                             \r\n\u001b[31m\u001b[49m 44,32 \u001b[39m│\u001b[35m    \u001b[31m  xor    %rcx,%rax                                                          \u001b[17;89H"
+    ],
+    [
+      0.144081,
+      "\u001b[11;1H\u001b[30m\u001b[47m  9,69 \u001b[39m\u001b[49m│\u001b[30m\u001b[47m      and    $0xff,%r14d                                                        \r\n\u001b[32m\u001b[49m  0,75 \u001b[39m│\u001b[35m    \u001b[32m  mov    0x10(%rax,%r14,4),%eax                                             \u001b[21;89H\u001b[39m◆\u001b[22;89H▒\u001b[17;89H"
+    ],
+    [
+      0.148083,
+      "\u001b[10;1H\u001b[30m\u001b[47m  0,16 \u001b[39m\u001b[49m│\u001b[30m\u001b[47m      xor    %rdx,%r14                                                          \r\n\u001b[31m\u001b[49m  9,69 \u001b[39m│\u001b[35m    \u001b[31m  and    $0xff,%r14d                                                        \u001b[17;89H"
+    ],
+    [
+      0.140079,
+      "\u001b[9;1H\u001b[30m\u001b[47m  1,03 \u001b[39m\u001b[49m│\u001b[30m\u001b[47m      movzbl (%rsi),%edx                                                        \r\n\u001b[39m\u001b[49m  0,16 │\u001b[35m    \u001b[39m  xor    %rdx,%r14                                                          \u001b[20;89H◆\u001b[21;89H▒\u001b[17;89H"
+    ],
+    [
+      0.120068,
+      "\u001b[8;1H\u001b[30m\u001b[47m  0,10 \u001b[39m\u001b[49m│\u001b[30m\u001b[47m      mov    0x4(%rbx),%rax                                                     \r\n\u001b[32m\u001b[49m  1,03 \u001b[39m│\u001b[35m    \u001b[32m  movzbl (%rsi),%edx                                                        \u001b[17;89H"
+    ],
+    [
+      0.136077,
+      "\u001b[7;1H\u001b[30m\u001b[47m 10,55 \u001b[39m\u001b[49m│\u001b[30m\u001b[47m      xor    %rax,%rcx                                                          \r\n\u001b[39m\u001b[49m  0,10 │\u001b[35m    \u001b[39m  mov    0x4(%rbx),%rax                                                     \u001b[19;89H◆\u001b[20;89H▒\u001b[17;89H"
+    ],
+    [
+      0.632356,
+      "\u001b[6;1H\u001b[30m\u001b[47m       \u001b[39m\u001b[49m│\u001b[30m\u001b[47m      shr    $0x8,%rcx                                                          \r\n\u001b[31m\u001b[49m 10,55 \u001b[39m│\u001b[35m    \u001b[31m  xor    %rax,%rcx                                                          \u001b[17;89H"
+    ],
+    [
+      0.160090,
+      "\u001b[5;1H\u001b[30m\u001b[47m  1,07 \u001b[39m\u001b[49m│\u001b[30m\u001b[47m      mov    %r14,%rcx                                                          \r\n\u001b[39m\u001b[49m       │\u001b[35m    \u001b[39m  shr    $0x8,%rcx                                                          \u001b[18;89H◆\u001b[19;89H▒\u001b[17;89H"
+    ],
+    [
+      0.168095,
+      "\u001b[4;1H\u001b[30m\u001b[47m  0,03 \u001b[39m\u001b[49m│\u001b[30m\u001b[47m      mov    $0xffffffff,%eax                                                   \r\n\u001b[32m\u001b[49m  1,07 \u001b[39m│\u001b[35m    \u001b[32m  mov    %r14,%rcx                                                          \u001b[17;89H"
+    ],
+    [
+      0.168095,
+      "\u001b[3;1H\u001b[30m\u001b[47m 10,01 \u001b[39m\u001b[49m│\u001b[30m\u001b[47m      xor    %rax,%r14                                                          \r\n\u001b[39m\u001b[49m  0,03 │\u001b[35m    \u001b[39m  mov    $0xffffffff,%eax                                                   \u001b[17;89H◆\u001b[18;89H▒\u001b[17;89H"
+    ],
+    [
+      0.176099,
+      "\u001b[2;1H\u001b[30m\u001b[47m  0,02 \u001b[39m\u001b[49m│\u001b[30m\u001b[47m      mov    $0xffffffff,%eax                                                   \r\n\u001b[31m\u001b[49m 10,01 \u001b[39m│\u001b[35m    \u001b[31m  xor    %rax,%r14                                                          \u001b[17;89H"
+    ],
+    [
+      0.176099,
+      "\u001b[37m\u001b[40m\u001b[16;17r\u001b[16;1H\u001b[1L\u001b[1;25r\u001b[3;15r\u001b[3;1H\u001b[1L\u001b[1;25r\u001b[2;5H\u001b[30m\u001b[47m76 \u001b[39m\u001b[49m│\u001b[30m\u001b[47m36:   add\u001b[15Cfffffff0,%r12\r\n\u001b[39m\u001b[49m  0,02 │\u001b[35m    \u001b[39m  mov    $0xffffffff,%eax                                                   ▒\u001b[16;1H  0,01 │\u001b[35m    \u001b[39m  mov    %rax,%r14                                                          ◆\u001b[18;89H"
+    ],
+    [
+      0.428241,
+      "\u001b[37m\u001b[40m\u001b[17;18r\u001b[17;1H\u001b[1L\u001b[1;25r\u001b[3;15r\u001b[3;1H\u001b[1L\u001b[1;25r\u001b[2;3H\u001b[30m\u001b[47m     \u001b[39m\u001b[49m│\u001b[30m\u001b[47m        crc = flipAll prevCRC        \r\n\u001b[32m\u001b[49m  0,76 \u001b[39m│\u001b[35m36: \u001b[32m  add    $0xfffffffffffffff0,%r12                                           \u001b[39m▒\u001b[16;1H\u001b[31m 10,31 \u001b[5C  inc    %rsi                                                               \r\n\u001b[39m  0,01 │\u001b[35m    \u001b[39m  mov    %rax,%r14                                                          ▒\u001b[19;89H"
+    ],
+    [
+      0.172097,
+      "\u001b[37m\u001b[40m\u001b[17;19r\u001b[17;1H\u001b[1L\u001b[1;25r\u001b[15;16r\u001b[15;1H\u001b[1L\u001b[1;25r\u001b[3;14r\u001b[3;1H\u001b[1L\u001b[1;25r\u001b[2;17H\u001b[30m\u001b[47mtblEntry = crc32Table !!! ((crc `xor` (fromIntegral c)) .\u0026. 0xff)\r\n\u001b[39m\u001b[49m       │        crc = flipAll prevCRC                                                   ▒\u001b[15;1H\u001b[32m  0,75 \u001b[39m│\u001b[35m    \u001b[32m  mov    0x10(%rax,%r14,4),%eax                                             \u001b[39m◆\u001b[17;1H\u001b[31m 10,31 \u001b[39m│\u001b[35m    \u001b[31m  inc    %rsi                                                               \u001b[39m▒\u001b[20;89H"
+    ],
+    [
+      0.192108,
+      "\u001b[37m\u001b[40m\u001b[16;20r\u001b[16;1H\u001b[1L\u001b[1;25r\u001b[3;14r\u001b[3;1H\u001b[1L\u001b[1;25r\u001b[2;17H\u001b[30m\u001b[47m-- (0..255), crc32Table covers that range.                       \r\n\u001b[39m\u001b[49m       │        tblEntry = crc32Table !!! ((crc `xor` (fromIntegral c)) .\u0026. 0xff)       ▒\u001b[15;1H\u001b[31m  9,69 \u001b[5C  and    $0xff,%r14d                                                        \r\n\u001b[32m  0,75 \u001b[39m│\u001b[35m    \u001b[32m  mov    0x10(%rax,%r14,4),%eax                                             \u001b[39m▒\u001b[21;89H"
+    ],
+    [
+      0.216122,
+      "\u001b[37m\u001b[40m\u001b[16;21r\u001b[16;1H\u001b[1L\u001b[1;25r\u001b[14;15r\u001b[14;1H\u001b[1L\u001b[1;25r\u001b[3;13r\u001b[3;1H\u001b[1L\u001b[1;25r\u001b[2;20H\u001b[30m\u001b[47mNote: unsafe access is ok here, we guarantee that the value is within\r\n\u001b[39m\u001b[49m       │        -- (0..255), crc32Table covers that range.                              ▒\u001b[14;1H\u001b[32m  1,03 \u001b[39m│\u001b[35m    \u001b[32m  movzbl (%rsi),%edx                                                        \u001b[39m◆\u001b[16;1H\u001b[31m  9,69 \u001b[39m│\u001b[35m    \u001b[31m  and    $0xff,%r14d                                                        \u001b[39m▒\u001b[22;89H"
+    ],
+    [
+      0.240135,
+      "\u001b[37m\u001b[40m\u001b[15;22r\u001b[15;1H\u001b[1L\u001b[1;25r\u001b[3;13r\u001b[3;1H\u001b[1L\u001b[1;25r\u001b[2;15H\u001b[30m\u001b[47mwhere                                                                     \r\n\u001b[39m\u001b[49m       │        -- Note: unsafe access is ok here, we guarantee that the value is within▒\u001b[14;1H  0,10 \u001b[5C  mov    0x4(%rbx),%rax                                                     \r\n\u001b[32m  1,03 \u001b[39m│\u001b[35m    \u001b[32m  movzbl (%rsi),%edx                                                        \u001b[39m▒\u001b[23;89H"
+    ],
+    [
+      0.272153,
+      "\u001b[37m\u001b[40m\u001b[15;23r\u001b[15;1H\u001b[1L\u001b[1;25r\u001b[13;14r\u001b[13;1H\u001b[1L\u001b[1;25r\u001b[3;12r\u001b[3;1H\u001b[1L\u001b[1;25r\u001b[2;15H\u001b[30m\u001b[47mflipAll (tblEntry `xor` (crc `shiftR` 8))\r\n\u001b[39m\u001b[49m       │      where                                                                     ▒\u001b[13;1H       │\u001b[35m    \u001b[39m  shr    $0x8,%rcx                                                          ◆\u001b[15;1H  0,10 │\u001b[35m    \u001b[39m  mov    0x4(%rbx),%rax                                                     ▒\u001b[24;89H"
+    ],
+    [
+      0.392221,
+      "\u001b[37m\u001b[40m\u001b[14;24r\u001b[14;1H\u001b[1L\u001b[1;25r\u001b[3;12r\u001b[3;1H\u001b[1L\u001b[1;25r\u001b[2;13H\u001b[30m\u001b[47m↓ jmpq   ffffffffff9c58c8                  \r\n\u001b[39m\u001b[49m       │      flipAll (tblEntry `xor` (crc `shiftR` 8))                                 ▒\u001b[13;1H\u001b[32m  1,07 \u001b[5C  mov    %r14,%rcx                                                          \r\n\u001b[39m       │\u001b[35m    \u001b[39m  shr    $0x8,%rcx                                                          ▒\u001b[25;1H"
+    ],
+    [
+      1.612907,
+      "\u001b[2;1H       │\u001b[35m    \u001b[39m↓ jmpq   ffffffffff9c58c8                                                   \r\n\u001b[30m\u001b[47m       \u001b[39m\u001b[49m│\u001b[30m\u001b[47m      flipAll (tblEntry `xor` (crc `shiftR` 8))                                 \u001b[25;1H"
+    ],
+    [
+      2.117190,
+      "\u001b[3;1H\u001b[39m\u001b[49m       │      flipAll (tblEntry `xor` (crc `shiftR` 8))                                 \r\n\u001b[30m\u001b[47m       \u001b[39m\u001b[49m│\u001b[30m\u001b[47m      where                                                                     \u001b[13;89H\u001b[39m\u001b[49m▒\u001b[14;89H◆\u001b[25;1H"
+    ],
+    [
+      0.176099,
+      "\u001b[4;1H       │      where                                                                     \r\n\u001b[30m\u001b[47m       \u001b[39m\u001b[49m│\u001b[30m\u001b[47m        -- Note: unsafe access is ok here, we guarantee that the value is within\u001b[25;1H"
+    ],
+    [
+      0.216122,
+      "\u001b[5;1H\u001b[39m\u001b[49m       │        -- Note: unsafe access is ok here, we guarantee that the value is within\r\n\u001b[30m\u001b[47m       \u001b[39m\u001b[49m│\u001b[30m\u001b[47m        -- (0..255), crc32Table covers that range.                              \u001b[14;89H\u001b[39m\u001b[49m▒\u001b[15;89H◆\u001b[25;1H"
+    ],
+    [
+      0.184104,
+      "\u001b[6;1H       │        -- (0..255), crc32Table covers that range.                              \r\n\u001b[30m\u001b[47m       \u001b[39m\u001b[49m│\u001b[30m\u001b[47m        tblEntry = crc32Table !!! ((crc `xor` (fromIntegral c)) .\u0026. 0xff)       \u001b[25;1H"
+    ],
+    [
+      0.168095,
+      "\u001b[7;1H\u001b[39m\u001b[49m       │        tblEntry = crc32Table !!! ((crc `xor` (fromIntegral c)) .\u0026. 0xff)       \r\n\u001b[30m\u001b[47m       \u001b[39m\u001b[49m│\u001b[30m\u001b[47m        crc = flipAll prevCRC                                                   \u001b[15;89H\u001b[39m\u001b[49m▒\u001b[16;89H◆\u001b[25;1H"
+    ],
+    [
+      0.172097,
+      "\u001b[8;1H       │        crc = flipAll prevCRC                                                   \r\n\u001b[30m\u001b[47m  0,76 \u001b[39m\u001b[49m│\u001b[30m\u001b[47m36:   add    $0xfffffffffffffff0,%r12                                           \u001b[25;1H"
+    ],
+    [
+      0.176099,
+      "\u001b[9;1H\u001b[32m\u001b[49m  0,76 \u001b[39m│\u001b[35m36: \u001b[32m  add    $0xfffffffffffffff0,%r12                                           \r\n\u001b[30m\u001b[47m  0,02 \u001b[39m\u001b[49m│\u001b[30m\u001b[47m      mov    $0xffffffff,%eax                                                   \u001b[16;89H\u001b[39m\u001b[49m▒\u001b[17;89H◆\u001b[25;1H"
+    ],
+    [
+      0.168095,
+      "\u001b[10;1H  0,02 │\u001b[35m    \u001b[39m  mov    $0xffffffff,%eax                                                   \r\n\u001b[30m\u001b[47m 10,01 \u001b[39m\u001b[49m│\u001b[30m\u001b[47m      xor    %rax,%r14                                                          \u001b[25;1H"
+    ],
+    [
+      0.168095,
+      "\u001b[11;1H\u001b[31m\u001b[49m 10,01 \u001b[39m│\u001b[35m    \u001b[31m  xor    %rax,%r14                                                          \r\n\u001b[30m\u001b[47m  0,03 \u001b[39m\u001b[49m│\u001b[30m\u001b[47m      mov    $0xffffffff,%eax                                                   \u001b[17;89H\u001b[39m\u001b[49m▒\u001b[18;89H◆\u001b[25;1H"
+    ],
+    [
+      0.276155,
+      "\u001b[11;1H\u001b[30m\u001b[47m 10,01 \u001b[39m\u001b[49m│\u001b[30m\u001b[47m      xor    %rax,%r14                                                          \r\n\u001b[39m\u001b[49m  0,03 │\u001b[35m    \u001b[39m  mov    $0xffffffff,%eax                                                   \u001b[17;89H◆\u001b[18;89H▒\u001b[25;1H"
+    ],
+    [
+      0.244137,
+      "\u001b[10;1H\u001b[30m\u001b[47m  0,02 \u001b[39m\u001b[49m│\u001b[30m\u001b[47m      mov    $0xffffffff,%eax                                                   \r\n\u001b[31m\u001b[49m 10,01 \u001b[39m│\u001b[35m    \u001b[31m  xor    %rax,%r14                                                          \u001b[25;1H"
+    ],
+    [
+      0.016009,
+      "\u001b[9;1H\u001b[30m\u001b[47m  0,76 \u001b[39m\u001b[49m│\u001b[30m\u001b[47m36:   add    $0xfffffffffffffff0,%r12                                           \r\n\u001b[39m\u001b[49m  0,02 │\u001b[35m    \u001b[39m  mov    $0xffffffff,%eax                                                   \u001b[16;89H◆\u001b[17;89H▒\u001b[25;1H"
+    ],
+    [
+      0.024014,
+      "\u001b[8;1H\u001b[30m\u001b[47m       \u001b[39m\u001b[49m│\u001b[30m\u001b[47m        crc = flipAll prevCRC                                                   \r\n\u001b[32m\u001b[49m  0,76 \u001b[39m│\u001b[35m36: \u001b[32m  add    $0xfffffffffffffff0,%r12                                           \u001b[25;1H"
+    ],
+    [
+      0.020011,
+      "\u001b[7;1H\u001b[30m\u001b[47m       \u001b[39m\u001b[49m│\u001b[30m\u001b[47m        tblEntry = crc32Table !!! ((crc `xor` (fromIntegral c)) .\u0026. 0xff)       \r\n\u001b[39m\u001b[49m       │        crc = flipAll prevCRC                                                   \u001b[15;89H◆\u001b[16;89H▒\u001b[25;1H"
+    ],
+    [
+      0.020011,
+      "\u001b[6;1H\u001b[30m\u001b[47m       \u001b[39m\u001b[49m│\u001b[30m\u001b[47m        -- (0..255), crc32Table covers that range.                              \r\n\u001b[39m\u001b[49m       │        tblEntry = crc32Table !!! ((crc `xor` (fromIntegral c)) .\u0026. 0xff)       \u001b[25;1H"
+    ],
+    [
+      0.024014,
+      "\u001b[5;1H\u001b[30m\u001b[47m       \u001b[39m\u001b[49m│\u001b[30m\u001b[47m        -- Note: unsafe access is ok here, we guarantee that the value is within\r\n\u001b[39m\u001b[49m       │        -- (0..255), crc32Table covers that range.                              \u001b[14;89H◆\u001b[15;89H▒\u001b[25;1H"
+    ],
+    [
+      0.156088,
+      "\u001b[4;1H\u001b[30m\u001b[47m       \u001b[39m\u001b[49m│\u001b[30m\u001b[47m      where                                                                     \r\n\u001b[39m\u001b[49m       │        -- Note: unsafe access is ok here, we guarantee that the value is within\u001b[25;1H"
+    ],
+    [
+      0.252142,
+      "\u001b[3;1H\u001b[30m\u001b[47m       \u001b[39m\u001b[49m│\u001b[30m\u001b[47m      flipAll (tblEntry `xor` (crc `shiftR` 8))                                 \r\n\u001b[39m\u001b[49m       │      where                                                                     \u001b[13;89H◆\u001b[14;89H▒\u001b[25;1H"
+    ],
+    [
+      0.208117,
+      "\u001b[2;1H\u001b[30m\u001b[47m       \u001b[39m\u001b[49m│\u001b[30m\u001b[47m    ↓ jmpq   ffffffffff9c58c8                                                   \r\n\u001b[39m\u001b[49m       │      flipAll (tblEntry `xor` (crc `shiftR` 8))                                 \u001b[25;1H"
+    ],
+    [
+      0.200112,
+      "\u001b[37m\u001b[40m\u001b[14;24r\u001b[14;1H\u001b[1L\u001b[1;25r\u001b[12;13r\u001b[12;1H\u001b[1L\u001b[1;25r\u001b[3;11r\u001b[3;1H\u001b[1L\u001b[1;25r\u001b[2;9H\u001b[30m\u001b[47m27:   movq   $0x10,0x388(%r13)\r\n\u001b[39m\u001b[49m       │\u001b[35m    \u001b[39m↓ jmpq   ffffffffff9c58c8                                                   ▒\u001b[12;1H\u001b[31m 10,01 \u001b[39m│\u001b[35m    \u001b[31m  xor    %rax,%r14                                                          \u001b[39m◆\u001b[14;1H\u001b[32m  1,07 \u001b[39m│\u001b[35m    \u001b[32m  mov    %r14,%rcx                                                          \u001b[39m▒\u001b[25;1H"
+    ],
+    [
+      0.180101,
+      "\u001b[37m\u001b[40m\u001b[13;24r\u001b[13;1H\u001b[1L\u001b[1;25r\u001b[3;11r\u001b[3;1H\u001b[1L\u001b[1;25r\u001b[2;9H\u001b[30m\u001b[47m    ↓ jmpq   ffffffffff9c58c8 \r\n\u001b[39m\u001b[49m       │\u001b[35m27: \u001b[39m  movq   $0x10,0x388(%r13)                                                  ▒\u001b[12;1H  0,02 \u001b[5C  mov    $0xffffffff,%eax                                                   \r\n\u001b[31m 10,01 \u001b[39m│\u001b[35m    \u001b[31m  xor    %rax,%r14                                                          \u001b[39m▒\u001b[25;1H"
+    ],
+    [
+      0.200112,
+      "\u001b[37m\u001b[40m\u001b[13;24r\u001b[13;1H\u001b[1L\u001b[1;25r\u001b[11;12r\u001b[11;1H\u001b[1L\u001b[1;25r\u001b[3;10r\u001b[3;1H\u001b[1L\u001b[1;25r\u001b[2;13H\u001b[30m\u001b[47m  lea    -0x7(%r12),%rbx \r\n\u001b[39m\u001b[49m       │\u001b[35m    \u001b[39m↓ jmpq   ffffffffff9c58c8                                                   ▒\u001b[11;1H       │        crc = flipAll prevCRC                                                   ◆\u001b[13;1H  0,02 │\u001b[35m    \u001b[39m  mov    $0xffffffff,%eax                                                   ▒\u001b[25;1H"
+    ],
+    [
+      0.176099,
+      "\u001b[37m\u001b[40m\u001b[12;24r\u001b[12;1H\u001b[1L\u001b[1;25r\u001b[3;10r\u001b[3;1H\u001b[1L\u001b[1;25r\u001b[2;15H\u001b[30m\u001b[47mmov    %r14,(%r12)    \r\n\u001b[39m\u001b[49m       │\u001b[35m    \u001b[39m  lea    -0x7(%r12),%rbx                                                    ▒\u001b[11;17HtblEntry = crc32Table !!! ((crc `xor` (fromIntegral c)) .\u0026. 0xff)\r\n       │        crc = flipAll prevCRC                                                   ▒\u001b[25;1H"
+    ],
+    [
+      0.168095,
+      "\u001b[37m\u001b[40m\u001b[12;24r\u001b[12;1H\u001b[1L\u001b[1;25r\u001b[10;11r\u001b[10;1H\u001b[1L\u001b[1;25r\u001b[3;9r\u001b[3;1H\u001b[1L\u001b[1;25r\u001b[2;18H\u001b[30m\u001b[47mq   $0xa737a0,-0x8(%r12)\r\n\u001b[39m\u001b[49m       │\u001b[35m    \u001b[39m  mov    %r14,(%r12)                                                        ▒\u001b[10;1H       │        -- Note: unsafe access is ok here, we guarantee that the value is within◆\u001b[12;1H       │        tblEntry = crc32Table !!! ((crc `xor` (fromIntegral c)) .\u0026. 0xff)       ▒\u001b[25;1H"
+    ],
+    [
+      0.244137,
+      "\u001b[37m\u001b[40m\u001b[11;24r\u001b[11;1H\u001b[1L\u001b[1;25r\u001b[3;9r\u001b[3;1H\u001b[1L\u001b[1;25r\u001b[2;3H\u001b[30m\u001b[47m0,01\u001b[5C\u001b[34m\u001b[49m┌──\u001b[30m\u001b[47mjne    36                  \r\n\u001b[39m\u001b[49m       │\u001b[35m    \u001b[39m  movq   $0xa737a0,-0x8(%r12)                                               ▒\u001b[10;15Hwhere                                                                     \r\n       │        -- Note: unsafe access is ok here, we guarantee that the value is within▒\u001b[25;1H"
+    ],
+    [
+      0.016009,
+      "\u001b[37m\u001b[40m\u001b[11;24r\u001b[11;1H\u001b[1L\u001b[1;25r\u001b[9;10r\u001b[9;1H\u001b[1L\u001b[1;25r\u001b[3;8r\u001b[3;1H\u001b[1L\u001b[1;25r\u001b[2;6H\u001b[30m\u001b[47m4\u001b[5C   cmp    %rdi,%rsi\r\n\u001b[39m\u001b[49m  0,01 │\u001b[35m    \u001b[39m↓ jne    36                                                                 ▒\u001b[9;1H       │\u001b[35m    \u001b[39m↓ jmpq   ffffffffff9c58c8                                                   ◆\u001b[11;1H       │      where                                                                     ▒\u001b[25;1H"
+    ],
+    [
+      0.020011,
+      "\u001b[37m\u001b[40m\u001b[10;24r\u001b[10;1H\u001b[1L\u001b[1;25r\u001b[3;8r\u001b[3;1H\u001b[1L\u001b[1;25r\u001b[2;3H\u001b[30m\u001b[47m    \u001b[5C\u001b[34m\u001b[49m┌──\u001b[30m\u001b[47mja     27       \r\n\u001b[39m\u001b[49m  0,04 │\u001b[35m    \u001b[39m  cmp    %rdi,%rsi                                                          ▒\u001b[9;9H\u001b[35m27: \u001b[39m  movq   $0x10,0x388(%r13)\r\n       │\u001b[35m    \u001b[39m↓ jmpq   ffffffffff9c58c8                                                   ▒\u001b[25;1H"
+    ],
+    [
+      0.024014,
+      "\u001b[37m\u001b[40m\u001b[10;24r\u001b[10;1H\u001b[1L\u001b[1;25r\u001b[8;9r\u001b[8;1H\u001b[1L\u001b[1;25r\u001b[3;7r\u001b[3;1H\u001b[1L\u001b[1;25r\u001b[2;2H\u001b[30m\u001b[47m10,33\u001b[5C   cmp    0x358(%r13),%r12\r\n\u001b[39m\u001b[49m       │\u001b[35m    \u001b[39m↓ ja     27                                                                 ▒\u001b[8;1H       │\u001b[35m    \u001b[39m  lea    -0x7(%r12),%rbx                                                    ◆\u001b[10;1H       │\u001b[35m27: \u001b[39m  movq   $0x10,0x388(%r13)                                                  ▒\u001b[25;1H"
+    ],
+    [
+      0.020011,
+      "\u001b[37m\u001b[40m\u001b[9;24r\u001b[9;1H\u001b[1L\u001b[1;25r\u001b[3;7r\u001b[3;1H\u001b[1L\u001b[1;25r\u001b[2;2H\u001b[30m\u001b[47m 0,79 \u001b[39m\u001b[49m│\u001b[30m\u001b[47m 0:   add    $0x10,%r12      \r\n\u001b[31m\u001b[49m 10,33 \u001b[39m│\u001b[35m    \u001b[31m  cmp    0x358(%r13),%r12                                                   \u001b[39m▒\u001b[8;15Hmov    %r14,(%r12)    \r\n       │\u001b[35m    \u001b[39m  lea    -0x7(%r12),%rbx                                                    ▒\u001b[25;1H"
+    ],
+    [
+      0.020011,
+      "\u001b[37m\u001b[40m\u001b[9;24r\u001b[9;1H\u001b[1L\u001b[1;25r\u001b[7;8r\u001b[7;1H\u001b[1L\u001b[1;25r\u001b[3;6r\u001b[3;1H\u001b[1L\u001b[1;25r\u001b[2;3H\u001b[30m\u001b[47m     \u001b[39m\u001b[49m│\u001b[30m\u001b[47m    arr !!! i = unsafeAt arr $ fromIntegral i\r\n\u001b[32m\u001b[49m  0,79 \u001b[39m│\u001b[35m 0: \u001b[32m  add    $0x10,%r12                                                         \u001b[39m▒\u001b[7;1H  0,01 │\u001b[35m    \u001b[39m↓ jne    36                                                                 ◆\u001b[9;1H       │\u001b[35m    \u001b[39m  mov    %r14,(%r12)                                                        ▒\u001b[25;1H"
+    ],
+    [
+      0.020011,
+      "\u001b[37m\u001b[40m\u001b[8;24r\u001b[8;1H\u001b[1L\u001b[1;25r\u001b[3;6r\u001b[3;1H\u001b[1L\u001b[1;25r\u001b[2;13H\u001b[30m\u001b[47m(!!!) :: (IArray a e, Ix i, Integral i) =\u003e a i e -\u003e i -\u003e e\r\n\u001b[39m\u001b[49m       │    arr !!! i = unsafeAt arr $ fromIntegral i                                   ▒\u001b[7;6H4\u001b[6C  cmp    %rdi,%rsi\r\n  0,01 │\u001b[35m    \u001b[39m↓ jne    36                                                                 ▒\u001b[25;1H"
+    ],
+    [
+      0.020011,
+      "\u001b[37m\u001b[40m\u001b[8;24r\u001b[8;1H\u001b[1L\u001b[1;25r\u001b[6;7r\u001b[6;1H\u001b[1L\u001b[1;25r\u001b[3;5r\u001b[3;1H\u001b[1L\u001b[1;25r\u001b[2;13H\u001b[30m\u001b[47m-- | Unsafe array access.                                 \r\n\u001b[39m\u001b[49m       │    (!!!) :: (IArray a e, Ix i, Integral i) =\u003e a i e -\u003e i -\u003e e                  ▒\u001b[6;1H\u001b[31m 10,33 \u001b[39m│\u001b[35m    \u001b[31m  cmp    0x358(%r13),%r12                                                   \u001b[39m◆\u001b[8;1H  0,04 │\u001b[35m    \u001b[39m  cmp    %rdi,%rsi                                                          ▒\u001b[25;1H"
+    ],
+    [
+      0.024014,
+      "\u001b[37m\u001b[40m\u001b[7;24r\u001b[7;1H\u001b[1L\u001b[1;25r\u001b[3;5r\u001b[3;1H\u001b[1L\u001b[1;25r\u001b[2;13H\u001b[30m\u001b[47m                         \r\n\u001b[39m\u001b[49m       │    -- | Unsafe array access.                                                   ▒\u001b[6;1H\u001b[32m  0,79 \u001b[39m│\u001b[35m 0: \u001b[32m  add    $0x10,%r12                                                         \r\n\u001b[31m 10,33 \u001b[39m│\u001b[35m    \u001b[31m  cmp    0x358(%r13),%r12                                                   \u001b[39m▒\u001b[25;1H"
+    ],
+    [
+      0.108061,
+      "\u001b[37m\u001b[40m\u001b[7;24r\u001b[7;1H\u001b[1L\u001b[1;25r\u001b[5;6r\u001b[5;1H\u001b[1L\u001b[1;25r\u001b[3;4r\u001b[3;1H\u001b[1L\u001b[1;25r\u001b[2;17H\u001b[30m\u001b[47mflipAll = xor 0xffffffff\r\n\u001b[39m\u001b[49m       │                                                                                ▒\u001b[5;1H       │    (!!!) :: (IArray a e, Ix i, Integral i) =\u003e a i e -\u003e i -\u003e e                  ◆\u001b[7;1H\u001b[32m  0,79 \u001b[39m│\u001b[35m 0: \u001b[32m  add    $0x10,%r12                                                         \u001b[39m▒\u001b[25;1H"
+    ],
+    [
+      0.568320,
+      "\u001b[2;1H       │        flipAll = xor 0xffffffff                                                \r\n\u001b[30m\u001b[47m       \u001b[39m\u001b[49m│\u001b[30m\u001b[47m                                                                                \u001b[5;89H\u001b[39m\u001b[49m▒\u001b[6;89H◆\u001b[25;1H"
+    ],
+    [
+      0.252142,
+      "\u001b[3;1H       │                                                                                \r\n\u001b[30m\u001b[47m       \u001b[39m\u001b[49m│\u001b[30m\u001b[47m    -- | Unsafe array access.                                                   \u001b[25;1H"
+    ],
+    [
+      0.016009,
+      "\u001b[4;1H\u001b[39m\u001b[49m       │    -- | Unsafe array access.                                                   \r\n\u001b[30m\u001b[47m       \u001b[39m\u001b[49m│\u001b[30m\u001b[47m    (!!!) :: (IArray a e, Ix i, Integral i) =\u003e a i e -\u003e i -\u003e e                  \u001b[6;89H\u001b[39m\u001b[49m▒\u001b[7;89H◆\u001b[25;1H"
+    ],
+    [
+      0.020011,
+      "\u001b[5;1H       │    (!!!) :: (IArray a e, Ix i, Integral i) =\u003e a i e -\u003e i -\u003e e                  \r\n\u001b[30m\u001b[47m       \u001b[39m\u001b[49m│\u001b[30m\u001b[47m    arr !!! i = unsafeAt arr $ fromIntegral i                                   \u001b[25;1H"
+    ],
+    [
+      0.020011,
+      "\u001b[6;1H\u001b[39m\u001b[49m       │    arr !!! i = unsafeAt arr $ fromIntegral i                                   \r\n\u001b[30m\u001b[47m  0,79 \u001b[39m\u001b[49m│\u001b[30m\u001b[47m 0:   add    $0x10,%r12                                                         \u001b[39m\u001b[49m▒\u001b[8;89H◆\u001b[25;1H"
+    ],
+    [
+      0.140079,
+      "\u001b[7;1H\u001b[32m  0,79 \u001b[39m│\u001b[35m 0: \u001b[32m  add    $0x10,%r12                                                         \r\n\u001b[30m\u001b[47m 10,33 \u001b[39m\u001b[49m│\u001b[30m\u001b[47m      cmp    0x358(%r13),%r12                                                   \u001b[25;1H"
+    ],
+    [
+      0.224126,
+      "\u001b[8;1H\u001b[31m\u001b[49m 10,33 \u001b[39m│\u001b[35m    \u001b[31m  cmp    0x358(%r13),%r12                                                   \u001b[39m▒\u001b[9;1H\u001b[30m\u001b[47m       \u001b[39m\u001b[49m│\u001b[30m\u001b[47m   \u001b[34m\u001b[49m┌──\u001b[30m\u001b[47mja     27                                                                 \u001b[39m\u001b[49m◆\u001b[10;12H\u001b[34m│\u001b[11;12H│\u001b[12;12H│\u001b[13;12H│\u001b[14;12H│\u001b[15;12H│\u001b[16;12H└─→\u001b[25;1H"
+    ],
+    [
+      0.284160,
+      "\u001b[8;1H\u001b[30m\u001b[47m 10,33 \u001b[39m\u001b[49m│\u001b[30m\u001b[47m      cmp    0x358(%r13),%r12                                                   \u001b[39m\u001b[49m◆\u001b[9;1H       │\u001b[35m    \u001b[39m↓ ja     27                                                                 ▒\u001b[10;12H\u001b[35m \u001b[11;12H \u001b[12;12H \u001b[13;12H \u001b[14;12H \u001b[15;12H \u001b[16;12H \u001b[39m  \u001b[25;1H"
+    ],
+    [
+      2.593458,
+      "\u001b[8;1H\u001b[31m 10,33 \u001b[39m│\u001b[35m    \u001b[31m  cmp    0x358(%r13),%r12                                                   \u001b[39m▒\u001b[9;1H\u001b[30m\u001b[47m       \u001b[39m\u001b[49m│\u001b[30m\u001b[47m   \u001b[34m\u001b[49m┌──\u001b[30m\u001b[47mja     27                                                                 \u001b[39m\u001b[49m◆\u001b[10;12H\u001b[34m│\u001b[11;12H│\u001b[12;12H│\u001b[13;12H│\u001b[14;12H│\u001b[15;12H│\u001b[16;12H└─→\u001b[25;1H"
+    ],
+    [
+      0.232131,
+      "\u001b[9;1H\u001b[39m       │\u001b[35m    \u001b[39m↓ ja     27                                                                 \r\n\u001b[30m\u001b[47m  0,04 \u001b[39m\u001b[49m│\u001b[30m\u001b[47m      cmp    %rdi,%rsi                                                          \u001b[11;12H\u001b[35m\u001b[49m \u001b[12;12H \u001b[13;12H \u001b[14;12H \u001b[15;12H \u001b[16;12H \u001b[39m  \u001b[25;1H"
+    ],
+    [
+      0.244137,
+      "\u001b[9;89H▒\u001b[10;1H  0,04 │\u001b[35m    \u001b[39m  cmp    %rdi,%rsi                                                          ◆\u001b[11;1H\u001b[30m\u001b[47m  0,01 \u001b[39m\u001b[49m│\u001b[30m\u001b[47m   \u001b[34m\u001b[49m┌──\u001b[30m\u001b[47mjne    36                                                                 \u001b[12;12H\u001b[34m\u001b[49m│\u001b[13;12H│\u001b[14;12H│\u001b[15;12H│\u001b[16;12H│\u001b[17;12H│\u001b[18;12H│\u001b[19;12H│\u001b[20;12H│\u001b[21;12H│\u001b[22;12H│\u001b[23;12H│\u001b[24;12H└─→\r\n"
+    ],
+    [
+      0.020011,
+      "\u001b[11;1H\u001b[39m  0,01 │\u001b[35m    \u001b[39m↓ jne    36                                                                 \r\n\u001b[30m\u001b[47m       \u001b[39m\u001b[49m│\u001b[30m\u001b[47m      movq   $0xa737a0,-0x8(%r12)                                               \u001b[13;12H\u001b[35m\u001b[49m \u001b[14;12H \u001b[15;12H \u001b[16;12H \u001b[17;12H \u001b[18;12H\u001b[39m \u001b[19;12H \u001b[20;12H \u001b[21;12H \u001b[22;12H \u001b[23;12H \u001b[24;12H\u001b[35m \u001b[32m  \r\n"
+    ],
+    [
+      0.020011,
+      "\u001b[10;89H\u001b[39m▒\u001b[11;89H◆\u001b[12;1H       │\u001b[35m    \u001b[39m  movq   $0xa737a0,-0x8(%r12)                                               \r\n\u001b[30m\u001b[47m       \u001b[39m\u001b[49m│\u001b[30m\u001b[47m      mov    %r14,(%r12)                                                        \u001b[25;1H"
+    ],
+    [
+      0.020011,
+      "\u001b[13;1H\u001b[39m\u001b[49m       │\u001b[35m    \u001b[39m  mov    %r14,(%r12)                                                        \r\n\u001b[30m\u001b[47m       \u001b[39m\u001b[49m│\u001b[30m\u001b[47m      lea    -0x7(%r12),%rbx                                                    \u001b[25;1H"
+    ],
+    [
+      0.020011,
+      "\u001b[11;89H\u001b[39m\u001b[49m▒\u001b[12;89H◆\u001b[14;1H       │\u001b[35m    \u001b[39m  lea    -0x7(%r12),%rbx                                                    \r\n\u001b[30m\u001b[47m       \u001b[39m\u001b[49m│\u001b[30m\u001b[47m    ↓ jmpq   ffffffffff9c58c8                                                   \u001b[25;1H"
+    ],
+    [
+      0.020011,
+      "\u001b[15;1H\u001b[39m\u001b[49m       │\u001b[35m    \u001b[39m↓ jmpq   ffffffffff9c58c8                                                   \r\n\u001b[30m\u001b[47m       \u001b[39m\u001b[49m│\u001b[30m\u001b[47m27:   movq   $0x10,0x388(%r13)                                                  \u001b[25;1H"
+    ],
+    [
+      0.020011,
+      "\u001b[12;89H\u001b[39m\u001b[49m▒\u001b[13;89H◆\u001b[16;1H       │\u001b[35m27: \u001b[39m  movq   $0x10,0x388(%r13)                                                  \r\n\u001b[30m\u001b[47m       \u001b[39m\u001b[49m│\u001b[30m\u001b[47m    ↓ jmpq   ffffffffff9c58c8                                                   \u001b[25;1H"
+    ],
+    [
+      0.020011,
+      "\u001b[17;1H\u001b[39m\u001b[49m       │\u001b[35m    \u001b[39m↓ jmpq   ffffffffff9c58c8                                                   \r\n\u001b[30m\u001b[47m       \u001b[39m\u001b[49m│\u001b[30m\u001b[47m      flipAll (tblEntry `xor` (crc `shiftR` 8))                                 \u001b[25;1H"
+    ],
+    [
+      0.024014,
+      "\u001b[13;89H\u001b[39m\u001b[49m▒\u001b[14;89H◆\u001b[18;1H       │      flipAll (tblEntry `xor` (crc `shiftR` 8))                                 \r\n\u001b[30m\u001b[47m       \u001b[39m\u001b[49m│\u001b[30m\u001b[47m      where                                                                     \u001b[25;1H"
+    ],
+    [
+      0.288162,
+      "\u001b[19;1H\u001b[39m\u001b[49m       │      where                                                                     \r\n\u001b[30m\u001b[47m       \u001b[39m\u001b[49m│\u001b[30m\u001b[47m        -- Note: unsafe access is ok here, we guarantee that the value is within\u001b[25;1H"
+    ],
+    [
+      0.244137,
+      "\u001b[14;89H\u001b[39m\u001b[49m▒\u001b[15;89H◆\u001b[20;1H       │        -- Note: unsafe access is ok here, we guarantee that the value is within\r\n\u001b[30m\u001b[47m       \u001b[39m\u001b[49m│\u001b[30m\u001b[47m        -- (0..255), crc32Table covers that range.                              \r\n\n\n\n"
+    ],
+    [
+      0.020011,
+      "\u001b[21;1H\u001b[39m\u001b[49m       │        -- (0..255), crc32Table covers that range.                              \r\n\u001b[30m\u001b[47m       \u001b[39m\u001b[49m│\u001b[30m\u001b[47m        tblEntry = crc32Table !!! ((crc `xor` (fromIntegral c)) .\u0026. 0xff)       \r\n\n\n"
+    ],
+    [
+      0.024014,
+      "\u001b[15;89H\u001b[39m\u001b[49m▒\u001b[16;89H◆\u001b[22;1H       │        tblEntry = crc32Table !!! ((crc `xor` (fromIntegral c)) .\u0026. 0xff)       \r\n\u001b[30m\u001b[47m       \u001b[39m\u001b[49m│\u001b[30m\u001b[47m        crc = flipAll prevCRC                                                   \r\n\n"
+    ],
+    [
+      0.728410,
+      "\u001b[23;1H\u001b[39m\u001b[49m       │        crc = flipAll prevCRC                                                   \r\n\u001b[30m\u001b[47m  0,76 \u001b[39m\u001b[49m│\u001b[30m\u001b[47m36:   add    $0xfffffffffffffff0,%r12                                           \r\n"
+    ],
+    [
+      0.760428,
+      "\u001b[23;1H       \u001b[39m\u001b[49m│\u001b[30m\u001b[47m        crc = flipAll prevCRC                                                   \r\n\u001b[32m\u001b[49m  0,76 \u001b[39m│\u001b[35m36: \u001b[32m  add    $0xfffffffffffffff0,%r12                                           \r\n"
+    ],
+    [
+      0.244137,
+      "\u001b[15;89H\u001b[39m◆\u001b[16;89H▒\u001b[22;1H\u001b[30m\u001b[47m       \u001b[39m\u001b[49m│\u001b[30m\u001b[47m        tblEntry = crc32Table !!! ((crc `xor` (fromIntegral c)) .\u0026. 0xff)       \r\n\u001b[39m\u001b[49m       │        crc = flipAll prevCRC                                                   \r\n\n"
+    ],
+    [
+      0.020011,
+      "\u001b[21;1H\u001b[30m\u001b[47m       \u001b[39m\u001b[49m│\u001b[30m\u001b[47m        -- (0..255), crc32Table covers that range.                              \r\n\u001b[39m\u001b[49m       │        tblEntry = crc32Table !!! ((crc `xor` (fromIntegral c)) .\u0026. 0xff)       \r\n\n\n"
+    ],
+    [
+      0.024014,
+      "\u001b[14;89H◆\u001b[15;89H▒\u001b[20;1H\u001b[30m\u001b[47m       \u001b[39m\u001b[49m│\u001b[30m\u001b[47m        -- Note: unsafe access is ok here, we guarantee that the value is within\r\n\u001b[39m\u001b[49m       │        -- (0..255), crc32Table covers that range.                              \r\n\n\n\n"
+    ],
+    [
+      0.020011,
+      "\u001b[19;1H\u001b[30m\u001b[47m       \u001b[39m\u001b[49m│\u001b[30m\u001b[47m      where                                                                     \r\n\u001b[39m\u001b[49m       │        -- Note: unsafe access is ok here, we guarantee that the value is within\u001b[25;1H"
+    ],
+    [
+      0.020011,
+      "\u001b[13;89H◆\u001b[14;89H▒\u001b[18;1H\u001b[30m\u001b[47m       \u001b[39m\u001b[49m│\u001b[30m\u001b[47m      flipAll (tblEntry `xor` (crc `shiftR` 8))                                 \r\n\u001b[39m\u001b[49m       │      where                                                                     \u001b[25;1H"
+    ],
+    [
+      0.020011,
+      "\u001b[17;1H\u001b[30m\u001b[47m       \u001b[39m\u001b[49m│\u001b[30m\u001b[47m    ↓ jmpq   ffffffffff9c58c8                                                   \r\n\u001b[39m\u001b[49m       │      flipAll (tblEntry `xor` (crc `shiftR` 8))                                 \u001b[25;1H"
+    ],
+    [
+      0.024014,
+      "\u001b[12;89H◆\u001b[13;89H▒\u001b[16;1H\u001b[30m\u001b[47m       \u001b[39m\u001b[49m│\u001b[30m\u001b[47m27:   movq   $0x10,0x388(%r13)                                                  \r\n\u001b[39m\u001b[49m       │\u001b[35m    \u001b[39m↓ jmpq   ffffffffff9c58c8                                                   \u001b[25;1H"
+    ],
+    [
+      0.016009,
+      "\u001b[15;1H\u001b[30m\u001b[47m       \u001b[39m\u001b[49m│\u001b[30m\u001b[47m    ↓ jmpq   ffffffffff9c58c8                                                   \r\n\u001b[39m\u001b[49m       │\u001b[35m27: \u001b[39m  movq   $0x10,0x388(%r13)                                                  \u001b[25;1H"
+    ],
+    [
+      0.020011,
+      "\u001b[11;89H◆\u001b[12;89H▒\u001b[14;1H\u001b[30m\u001b[47m       \u001b[39m\u001b[49m│\u001b[30m\u001b[47m      lea    -0x7(%r12),%rbx                                                    \r\n\u001b[39m\u001b[49m       │\u001b[35m    \u001b[39m↓ jmpq   ffffffffff9c58c8                                                   \u001b[25;1H"
+    ],
+    [
+      0.024014,
+      "\u001b[13;1H\u001b[30m\u001b[47m       \u001b[39m\u001b[49m│\u001b[30m\u001b[47m      mov    %r14,(%r12)                                                        \r\n\u001b[39m\u001b[49m       │\u001b[35m    \u001b[39m  lea    -0x7(%r12),%rbx                                                    \u001b[25;1H"
+    ],
+    [
+      0.016009,
+      "\u001b[10;89H◆\u001b[11;89H▒\u001b[12;1H\u001b[30m\u001b[47m       \u001b[39m\u001b[49m│\u001b[30m\u001b[47m      movq   $0xa737a0,-0x8(%r12)                                               \r\n\u001b[39m\u001b[49m       │\u001b[35m    \u001b[39m  mov    %r14,(%r12)                                                        \u001b[25;1H"
+    ],
+    [
+      0.020011,
+      "\u001b[11;1H\u001b[30m\u001b[47m  0,01 \u001b[39m\u001b[49m│\u001b[30m\u001b[47m   \u001b[34m\u001b[49m┌──\u001b[30m\u001b[47mjne    36                                                                 \r\n\u001b[39m\u001b[49m       │\u001b[35m   \u001b[34m│\u001b[39m  movq   $0xa737a0,-0x8(%r12)                                               \u001b[13;12H\u001b[34m│\u001b[14;12H│\u001b[15;12H│\u001b[16;12H│\u001b[17;12H│\u001b[18;12H│\u001b[19;12H│\u001b[20;12H│\u001b[21;12H│\u001b[22;12H│\u001b[23;12H│\u001b[24;12H└─→\r\n"
+    ],
+    [
+      0.016009,
+      "\u001b[9;89H\u001b[39m◆\u001b[10;1H\u001b[30m\u001b[47m  0,04 \u001b[39m\u001b[49m│\u001b[30m\u001b[47m      cmp    %rdi,%rsi                                                          \u001b[39m\u001b[49m▒\u001b[11;1H  0,01 │\u001b[35m    \u001b[39m↓ jne    36                                                                 \u001b[12;12H\u001b[35m \u001b[13;12H \u001b[14;12H \u001b[15;12H \u001b[16;12H \u001b[17;12H \u001b[18;12H\u001b[39m \u001b[19;12H \u001b[20;12H \u001b[21;12H \u001b[22;12H \u001b[23;12H \u001b[24;12H\u001b[35m \u001b[32m  \r\n"
+    ],
+    [
+      0.020011,
+      "\u001b[9;1H\u001b[30m\u001b[47m       \u001b[39m\u001b[49m│\u001b[30m\u001b[47m   \u001b[34m\u001b[49m┌──\u001b[30m\u001b[47mja     27                                                                 \r\n\u001b[39m\u001b[49m  0,04 │\u001b[35m   \u001b[34m│\u001b[39m  cmp    %rdi,%rsi                                                          \u001b[11;12H\u001b[34m│\u001b[12;12H│\u001b[13;12H│\u001b[14;12H│\u001b[15;12H│\u001b[16;12H└─→\u001b[25;1H"
+    ],
+    [
+      0.024014,
+      "\u001b[8;1H\u001b[30m\u001b[47m 10,33 \u001b[39m\u001b[49m│\u001b[30m\u001b[47m      cmp    0x358(%r13),%r12                                                   \u001b[39m\u001b[49m◆\u001b[9;1H       │\u001b[35m    \u001b[39m↓ ja     27                                                                 ▒\u001b[10;12H\u001b[35m \u001b[11;12H \u001b[12;12H \u001b[13;12H \u001b[14;12H \u001b[15;12H \u001b[16;12H \u001b[39m  \u001b[25;1H"
+    ],
+    [
+      0.024014,
+      "\u001b[7;1H\u001b[30m\u001b[47m  0,79 \u001b[39m\u001b[49m│\u001b[30m\u001b[47m 0:   add    $0x10,%r12                                                         \r\n\u001b[31m\u001b[49m 10,33 \u001b[39m│\u001b[35m    \u001b[31m  cmp    0x358(%r13),%r12                                                   \u001b[25;1H"
+    ],
+    [
+      0.016009,
+      "\u001b[6;1H\u001b[30m\u001b[47m       \u001b[39m\u001b[49m│\u001b[30m\u001b[47m    arr !!! i = unsafeAt arr $ fromIntegral i                                   \r\n\u001b[32m\u001b[49m  0,79 \u001b[39m│\u001b[35m 0: \u001b[32m  add    $0x10,%r12                                                         \u001b[39m◆\u001b[8;89H▒\u001b[25;1H"
+    ],
+    [
+      0.272153,
+      "\u001b[5;1H\u001b[30m\u001b[47m       \u001b[39m\u001b[49m│\u001b[30m\u001b[47m    (!!!) :: (IArray a e, Ix i, Integral i) =\u003e a i e -\u003e i -\u003e e                  \r\n\u001b[39m\u001b[49m       │    arr !!! i = unsafeAt arr $ fromIntegral i                                   \u001b[25;1H"
+    ],
+    [
+      0.232131,
+      "\u001b[4;1H\u001b[30m\u001b[47m       \u001b[39m\u001b[49m│\u001b[30m\u001b[47m    -- | Unsafe array access.                                                   \r\n\u001b[39m\u001b[49m       │    (!!!) :: (IArray a e, Ix i, Integral i) =\u003e a i e -\u003e i -\u003e e                  \u001b[6;89H◆\u001b[7;89H▒\u001b[25;1H"
+    ],
+    [
+      0.192108,
+      "\u001b[3;1H\u001b[30m\u001b[47m       \u001b[39m\u001b[49m│\u001b[30m\u001b[47m                                                                                \r\n\u001b[39m\u001b[49m       │    -- | Unsafe array access.                                                   \u001b[25;1H"
+    ],
+    [
+      0.168095,
+      "\u001b[2;1H\u001b[30m\u001b[47m       \u001b[39m\u001b[49m│\u001b[30m\u001b[47m        flipAll = xor 0xffffffff                                                \r\n\u001b[39m\u001b[49m       │                                                                                \u001b[5;89H◆\u001b[6;89H▒\u001b[25;1H"
+    ],
+    [
+      0.152086,
+      "\u001b[37m\u001b[40m\u001b[6;24r\u001b[6;1H\u001b[1L\u001b[1;25r\u001b[3;4r\u001b[3;1H\u001b[1L\u001b[1;25r\u001b[2;17H\u001b[30m\u001b[47mcrc = flipAll prevCRC   \r\n\u001b[39m\u001b[49m       │        flipAll = xor 0xffffffff                                                ▒\u001b[5;13H-- | Unsafe array access.                                 \r\n       │    (!!!) :: (IArray a e, Ix i, Integral i) =\u003e a i e -\u003e i -\u003e e                  ▒\u001b[25;1H"
+    ],
+    [
+      0.184104,
+      "\u001b[37m\u001b[40m\u001b[6;24r\u001b[6;1H\u001b[1L\u001b[1;25r\u001b[4;5r\u001b[4;1H\u001b[1L\u001b[1;25r\u001b[2;13H\u001b[30m\u001b[47m000000000063a738 \u003cs4Tw_info\u003e:\u001b[3;17H\u001b[39m\u001b[49mcrc = flipAll prevCRC   \r\n       │        flipAll = xor 0xffffffff                                                ◆\u001b[6;1H       │    -- | Unsafe array access.                                                   ▒\u001b[25;1H"
+    ],
+    [
+      0.188106,
+      "\u001b[37m\u001b[40m\u001b[5;24r\u001b[5;1H\u001b[1L\u001b[1;25r\u001b[2;13H\u001b[30m\u001b[47m                             \u001b[3;13H\u001b[39m\u001b[49m000000000063a738 \u003cs4Tw_info\u003e:\u001b[4;17Hcrc = flipAll prevCRC   \r\n       │        flipAll = xor 0xffffffff                                                ▒\u001b[25;1H"
+    ],
+    [
+      0.220124,
+      "\u001b[37m\u001b[40m\u001b[5;24r\u001b[5;1H\u001b[1L\u001b[1;25r\u001b[3;4r\u001b[3;1H\u001b[1L\u001b[1;25r\u001b[2;13H\u001b[30m\u001b[47mDisassembly of section .text:\r\n\u001b[39m\u001b[49m       │                                                                                ◆\u001b[5;1H       │        crc = flipAll prevCRC                                                   ▒\u001b[25;1H"
+    ],
+    [
+      0.244137,
+      "\u001b[37m\u001b[40m\u001b[4;24r\u001b[4;1H\u001b[1L\u001b[1;25r\u001b[2;13H\u001b[30m\u001b[47m                             \u001b[3;13H\u001b[39m\u001b[49mDisassembly of section .text:\r\n       │                                                                                ▒\u001b[25;1H"
+    ],
+    [
+      0.020011,
+      "\u001b[37m\u001b[40m\u001b[4;24r\u001b[4;1H\u001b[1L\u001b[1;25r\u001b[2;89H\u001b[39m\u001b[49m◆\u001b[3;13H                             \u001b[47C▒\u001b[4;1H       │    Disassembly of section .text:                                               ▒\u001b[25;1H"
+    ],
+    [
+      0.020011,
+      "\u001b[37m\u001b[40m\u001b[4;24r\u001b[4;1H\u001b[1L\u001b[1;25r\u001b[4;1H\u001b[39m\u001b[49m       │                                                                                ▒\u001b[25;1H"
+    ],
+    [
+      0.392221,
+      "\u001b[2;1H       │                                                                                \r\n\u001b[30m\u001b[47m       \u001b[39m\u001b[49m│\u001b[30m\u001b[47m                                                                                \u001b[25;1H"
+    ],
+    [
+      0.228128,
+      "\u001b[37m\u001b[40m\u001b[2;4r\u001b[2;1H\u001b[1L\u001b[1;25r\u001b[2;1H\u001b[39m\u001b[49m       │                                                                                ▒\u001b[25;1H"
+    ],
+    [
+      0.028016,
+      "\u001b[4;1H       │                                                                                \r\n\u001b[30m\u001b[47m       \u001b[39m\u001b[49m│\u001b[30m\u001b[47m    Disassembly of section .text:                                               \u001b[25;1H"
+    ],
+    [
+      0.016009,
+      "\u001b[37m\u001b[40m\u001b[3;4r\u001b[3;1H\u001b[1L\u001b[1;25r\u001b[3;1H\u001b[39m\u001b[49m       │                                                                                ▒\u001b[5;1H       │    Disassembly of section .text:                                               \r\n\u001b[30m\u001b[47m       \u001b[39m\u001b[49m│\u001b[30m\u001b[47m                                                                                \u001b[25;1H"
+    ],
+    [
+      0.024014,
+      "\u001b[6;1H\u001b[39m\u001b[49m       │                                                                                \r\n\u001b[30m\u001b[47m       \u001b[39m\u001b[49m│\u001b[30m\u001b[47m    000000000063a738 \u003cs4Tw_info\u003e:                                               \u001b[25;1H"
+    ],
+    [
+      0.336189,
+      "\u001b[4;89H\u001b[39m\u001b[49m▒\u001b[5;89H◆\u001b[7;1H       │    000000000063a738 \u003cs4Tw_info\u003e:                                               \r\n\u001b[30m\u001b[47m       \u001b[39m\u001b[49m│\u001b[30m\u001b[47m        crc = flipAll prevCRC                                                   \u001b[25;1H"
+    ],
+    [
+      0.248140,
+      "\u001b[8;1H\u001b[39m\u001b[49m       │        crc = flipAll prevCRC                                                   \r\n\u001b[30m\u001b[47m       \u001b[39m\u001b[49m│\u001b[30m\u001b[47m        flipAll = xor 0xffffffff                                                \u001b[25;1H"
+    ],
+    [
+      0.020011,
+      "\u001b[5;89H\u001b[39m\u001b[49m▒\u001b[6;89H◆\u001b[9;1H       │        flipAll = xor 0xffffffff                                                \r\n\u001b[30m\u001b[47m       \u001b[39m\u001b[49m│\u001b[30m\u001b[47m                                                                                \u001b[25;1H"
+    ],
+    [
+      0.020011,
+      "\u001b[10;1H\u001b[39m\u001b[49m       │                                                                                \r\n\u001b[30m\u001b[47m       \u001b[39m\u001b[49m│\u001b[30m\u001b[47m    -- | Unsafe array access.                                                   \u001b[25;1H"
+    ],
+    [
+      0.020011,
+      "\u001b[6;89H\u001b[39m\u001b[49m▒\u001b[7;89H◆\u001b[11;1H       │    -- | Unsafe array access.                                                   \r\n\u001b[30m\u001b[47m       \u001b[39m\u001b[49m│\u001b[30m\u001b[47m    (!!!) :: (IArray a e, Ix i, Integral i) =\u003e a i e -\u003e i -\u003e e                  \u001b[25;1H"
+    ],
+    [
+      0.020011,
+      "\u001b[12;1H\u001b[39m\u001b[49m       │    (!!!) :: (IArray a e, Ix i, Integral i) =\u003e a i e -\u003e i -\u003e e                  \r\n\u001b[30m\u001b[47m       \u001b[39m\u001b[49m│\u001b[30m\u001b[47m    arr !!! i = unsafeAt arr $ fromIntegral i                                   \u001b[25;1H"
+    ],
+    [
+      0.020011,
+      "\u001b[7;89H\u001b[39m\u001b[49m▒\u001b[8;89H◆\u001b[13;1H       │    arr !!! i = unsafeAt arr $ fromIntegral i                                   \r\n\u001b[30m\u001b[47m  0,79 \u001b[39m\u001b[49m│\u001b[30m\u001b[47m 0:   add    $0x10,%r12                                                         \u001b[25;1H"
+    ],
+    [
+      0.020011,
+      "\u001b[14;1H\u001b[32m\u001b[49m  0,79 \u001b[39m│\u001b[35m 0: \u001b[32m  add    $0x10,%r12                                                         \r\n\u001b[30m\u001b[47m 10,33 \u001b[39m\u001b[49m│\u001b[30m\u001b[47m      cmp    0x358(%r13),%r12                                                   \u001b[25;1H"
+    ],
+    [
+      0.020011,
+      "\u001b[8;89H\u001b[39m\u001b[49m▒\u001b[9;89H◆\u001b[15;1H\u001b[31m 10,33 \u001b[39m│\u001b[35m    \u001b[31m  cmp    0x358(%r13),%r12                                                   \r\n\u001b[30m\u001b[47m       \u001b[39m\u001b[49m│\u001b[30m\u001b[47m   \u001b[34m\u001b[49m┌──\u001b[30m\u001b[47mja     27                                                                 \u001b[17;12H\u001b[34m\u001b[49m│\u001b[18;12H│\u001b[19;12H│\u001b[20;12H│\u001b[21;12H│\u001b[22;12H│\u001b[23;12H└─→\r\n\n"
+    ],
+    [
+      0.020011,
+      "\u001b[16;1H\u001b[39m       │\u001b[35m    \u001b[39m↓ ja     27                                                                 \r\n\u001b[30m\u001b[47m  0,04 \u001b[39m\u001b[49m│\u001b[30m\u001b[47m      cmp    %rdi,%rsi                                                          \u001b[18;12H\u001b[35m\u001b[49m \u001b[19;12H \u001b[20;12H \u001b[21;12H \u001b[22;12H \u001b[23;12H \u001b[39m  \r\n\n"
+    ],
+    [
+      0.024014,
+      "\u001b[9;89H▒\u001b[10;89H◆\u001b[17;1H  0,04 │\u001b[35m    \u001b[39m  cmp    %rdi,%rsi                                                          \r\n\u001b[30m\u001b[47m  0,01 \u001b[39m\u001b[49m│\u001b[30m\u001b[47m   \u001b[34m\u001b[49m┌──\u001b[30m\u001b[47mjne    36                                                                 \u001b[19;12H\u001b[34m\u001b[49m│\u001b[20;12H│\u001b[21;12H│\u001b[22;12H│\u001b[23;12H│\u001b[24;12H│\r\n"
+    ],
+    [
+      0.276155,
+      "\u001b[18;1H\u001b[39m  0,01 │\u001b[35m    \u001b[39m↓ jne    36                                                                 \r\n\u001b[30m\u001b[47m       \u001b[39m\u001b[49m│\u001b[30m\u001b[47m      movq   $0xa737a0,-0x8(%r12)                                               \u001b[20;12H\u001b[35m\u001b[49m \u001b[21;12H \u001b[22;12H \u001b[23;12H \u001b[24;12H \r\n"
+    ],
+    [
+      0.244137,
+      "\u001b[10;89H\u001b[39m▒\u001b[11;89H◆\u001b[19;1H       │\u001b[35m    \u001b[39m  movq   $0xa737a0,-0x8(%r12)                                               \r\n\u001b[30m\u001b[47m       \u001b[39m\u001b[49m│\u001b[30m\u001b[47m      mov    %r14,(%r12)                                                        \u001b[25;1H"
+    ],
+    [
+      0.020011,
+      "\u001b[20;1H\u001b[39m\u001b[49m       │\u001b[35m    \u001b[39m  mov    %r14,(%r12)                                                        \r\n\u001b[30m\u001b[47m       \u001b[39m\u001b[49m│\u001b[30m\u001b[47m      lea    -0x7(%r12),%rbx                                                    \r\n\n\n\n"
+    ],
+    [
+      0.020011,
+      "\u001b[11;89H\u001b[39m\u001b[49m▒\u001b[12;89H◆\u001b[21;1H       │\u001b[35m    \u001b[39m  lea    -0x7(%r12),%rbx                                                    \r\n\u001b[30m\u001b[47m       \u001b[39m\u001b[49m│\u001b[30m\u001b[47m    ↓ jmpq   ffffffffff9c58c8                                                   \r\n\n\n"
+    ],
+    [
+      0.020011,
+      "\u001b[22;1H\u001b[39m\u001b[49m       │\u001b[35m    \u001b[39m↓ jmpq   ffffffffff9c58c8                                                   \r\n\u001b[30m\u001b[47m       \u001b[39m\u001b[49m│\u001b[30m\u001b[47m27:   movq   $0x10,0x388(%r13)                                                  \r\n\n"
+    ],
+    [
+      0.020011,
+      "\u001b[12;89H\u001b[39m\u001b[49m▒\u001b[13;89H◆\u001b[23;1H       │\u001b[35m27: \u001b[39m  movq   $0x10,0x388(%r13)                                                  \r\n\u001b[30m\u001b[47m       \u001b[39m\u001b[49m│\u001b[30m\u001b[47m    ↓ jmpq   ffffffffff9c58c8                                                   \r\n"
+    ],
+    [
+      0.020011,
+      "\u001b[37m\u001b[40m\u001b[4;12r\u001b[4;1H\u001b[1M\u001b[1;25r\u001b[14;23r\u001b[14;1H\u001b[1M\u001b[1;25r\u001b[12;1H\u001b[39m\u001b[49m       │    arr !!! i = unsafeAt arr $ fromIntegral i                                   ▒\u001b[13;1H\u001b[32m  0,79 \u001b[39m│\u001b[35m 0: \u001b[32m  add    $0x10,%r12                                                         \u001b[23;1H\u001b[39m       │\u001b[35m    \u001b[39m↓ jmpq   ffffffffff9c58c8                                                   ▒\u001b[24;13H\u001b[30m\u001b[47m  flipAll (tblEntry `xor` (crc `shiftR` 8))\r\n"
+    ],
+    [
+      0.020011,
+      "\u001b[37m\u001b[40m\u001b[3;12r\u001b[3;1H\u001b[1M\u001b[1;25r\u001b[13;14r\u001b[13;1H\u001b[1M\u001b[1;25r\u001b[15;23r\u001b[15;1H\u001b[1M\u001b[1;25r\u001b[12;1H\u001b[32m\u001b[49m  0,79 \u001b[39m│\u001b[35m 0: \u001b[32m  add    $0x10,%r12                                                         \u001b[39m▒\u001b[14;1H       │\u001b[35m    \u001b[39m↓ ja     27                                                                 ◆\u001b[23;1H       │      flipAll (tblEntry `xor` (crc `shiftR` 8))                                 ▒\u001b[24;15H\u001b[30m\u001b[47mwhere                                    \r\n"
+    ],
+    [
+      0.020011,
+      "\u001b[37m\u001b[40m\u001b[2;13r\u001b[2;1H\u001b[1M\u001b[1;25r\u001b[15;23r\u001b[15;1H\u001b[1M\u001b[1;25r\u001b[13;1H\u001b[39m\u001b[49m       │\u001b[35m    \u001b[39m↓ ja     27                                                                 ▒\u001b[14;3H0,04\u001b[6C  cmp    %rdi,%rsi\u001b[23;1H       │      where                                                                     ▒\u001b[24;15H\u001b[30m\u001b[47m  -- Note: unsafe access is ok here, we guarantee that the value is within\r\n"
+    ],
+    [
+      0.020011,
+      "\u001b[37m\u001b[40m\u001b[2;13r\u001b[2;1H\u001b[1M\u001b[1;25r\u001b[14;15r\u001b[14;1H\u001b[1M\u001b[1;25r\u001b[16;23r\u001b[16;1H\u001b[1M\u001b[1;25r\u001b[13;1H\u001b[39m\u001b[49m  0,04 │\u001b[35m    \u001b[39m  cmp    %rdi,%rsi                                                          ▒\u001b[15;1H       │\u001b[35m    \u001b[39m  movq   $0xa737a0,-0x8(%r12)                                               ◆\u001b[23;1H       │        -- Note: unsafe access is ok here, we guarantee that the value is within▒\u001b[24;20H\u001b[30m\u001b[47m(0..255), crc32Table covers that range.                              \r\n"
+    ],
+    [
+      0.020011,
+      "\u001b[37m\u001b[40m\u001b[2;14r\u001b[2;1H\u001b[1M\u001b[1;25r\u001b[16;23r\u001b[16;1H\u001b[1M\u001b[1;25r\u001b[14;1H\u001b[39m\u001b[49m       │\u001b[35m    \u001b[39m  movq   $0xa737a0,-0x8(%r12)                                               ▒\u001b[15;18H    %r14,(%r12)         \u001b[23;1H       │        -- (0..255), crc32Table covers that range.                              ▒\u001b[24;17H\u001b[30m\u001b[47mtblEntry = crc32Table !!! ((crc `xor` (fromIntegral c)) .\u0026. 0xff)\r\n"
+    ],
+    [
+      0.020011,
+      "\u001b[37m\u001b[40m\u001b[2;14r\u001b[2;1H\u001b[1M\u001b[1;25r\u001b[15;16r\u001b[15;1H\u001b[1M\u001b[1;25r\u001b[17;23r\u001b[17;1H\u001b[1M\u001b[1;25r\u001b[14;1H\u001b[39m\u001b[49m       │\u001b[35m    \u001b[39m  mov    %r14,(%r12)                                                        ▒\u001b[16;1H       │\u001b[35m    \u001b[39m↓ jmpq   ffffffffff9c58c8                                                   ◆\u001b[23;1H       │        tblEntry = crc32Table !!! ((crc `xor` (fromIntegral c)) .\u0026. 0xff)       ▒\u001b[24;17H\u001b[30m\u001b[47mcrc = flipAll prevCRC                                            \r\n"
+    ],
+    [
+      0.024014,
+      "\u001b[37m\u001b[40m\u001b[2;15r\u001b[2;1H\u001b[1M\u001b[1;25r\u001b[17;23r\u001b[17;1H\u001b[1M\u001b[1;25r\u001b[15;1H\u001b[39m\u001b[49m       │\u001b[35m    \u001b[39m↓ jmpq   ffffffffff9c58c8                                                   ▒\u001b[16;9H\u001b[35m27: \u001b[39m  movq   $0x10,0x388(%r13)\u001b[23;1H       │        crc = flipAll prevCRC                                                   ▒\u001b[24;3H\u001b[30m\u001b[47m0,76 \u001b[39m\u001b[49m│\u001b[30m\u001b[47m36:   add    $0xfffffffffffffff0,%r12\r\n"
+    ],
+    [
+      0.020011,
+      "\u001b[37m\u001b[40m\u001b[2;15r\u001b[2;1H\u001b[1M\u001b[1;25r\u001b[16;17r\u001b[16;1H\u001b[1M\u001b[1;25r\u001b[18;23r\u001b[18;1H\u001b[1M\u001b[1;25r\u001b[15;1H\u001b[39m\u001b[49m       │\u001b[35m27: \u001b[39m  movq   $0x10,0x388(%r13)                                                  ▒\u001b[17;1H       │      flipAll (tblEntry `xor` (crc `shiftR` 8))                                 ◆\u001b[23;1H\u001b[32m  0,76 \u001b[39m│\u001b[35m36: \u001b[32m  add    $0xfffffffffffffff0,%r12                                           \u001b[39m▒\u001b[24;5H\u001b[30m\u001b[47m02 \u001b[39m\u001b[49m│\u001b[30m\u001b[47m      mov\u001b[15C,%eax        \r\n"
+    ],
+    [
+      0.016009,
+      "\u001b[37m\u001b[40m\u001b[2;16r\u001b[2;1H\u001b[1M\u001b[1;25r\u001b[18;23r\u001b[18;1H\u001b[1M\u001b[1;25r\u001b[16;1H\u001b[39m\u001b[49m       │      flipAll (tblEntry `xor` (crc `shiftR` 8))                                 ▒\u001b[17;15Hwhere                                    \u001b[23;1H  0,02 │\u001b[35m    \u001b[39m  mov    $0xffffffff,%eax                                                   ▒\u001b[24;2H\u001b[30m\u001b[47m10,01\u001b[8Cxor    %rax,%r14       \r\n"
+    ],
+    [
+      0.020011,
+      "\u001b[37m\u001b[40m\u001b[2;16r\u001b[2;1H\u001b[1M\u001b[1;25r\u001b[17;18r\u001b[17;1H\u001b[1M\u001b[1;25r\u001b[19;23r\u001b[19;1H\u001b[1M\u001b[1;25r\u001b[16;1H\u001b[39m\u001b[49m       │      where                                                                     ▒\u001b[18;1H       │        -- (0..255), crc32Table covers that range.                              ◆\u001b[23;1H\u001b[31m 10,01 \u001b[39m│\u001b[35m    \u001b[31m  xor    %rax,%r14                                                          \u001b[39m▒\u001b[24;2H\u001b[30m\u001b[47m 0,03\u001b[8Cmov    $0xffffffff,%eax\r\n"
+    ],
+    [
+      0.020011,
+      "\u001b[37m\u001b[40m\u001b[2;17r\u001b[2;1H\u001b[1M\u001b[1;25r\u001b[19;23r\u001b[19;1H\u001b[1M\u001b[1;25r\u001b[17;1H\u001b[39m\u001b[49m       │        -- (0..255), crc32Table covers that range.                              ▒\u001b[18;17HtblEntry = crc32Table !!! ((crc `xor` (fromIntegral c)) .\u0026. 0xff)\u001b[23;1H  0,03 │\u001b[35m    \u001b[39m  mov    $0xffffffff,%eax                                                   ▒\u001b[24;3H\u001b[30m\u001b[47m1,07\u001b[15C%r14,%rcx       \r\n"
+    ],
+    [
+      0.024014,
+      "\u001b[37m\u001b[40m\u001b[2;17r\u001b[2;1H\u001b[1M\u001b[1;25r\u001b[18;19r\u001b[18;1H\u001b[1M\u001b[1;25r\u001b[20;23r\u001b[20;1H\u001b[1M\u001b[1;25r\u001b[17;1H\u001b[39m\u001b[49m       │        tblEntry = crc32Table !!! ((crc `xor` (fromIntegral c)) .\u0026. 0xff)       ▒\u001b[19;1H\u001b[32m  0,76 \u001b[39m│\u001b[35m36: \u001b[32m  add    $0xfffffffffffffff0,%r12                                           \u001b[39m◆\u001b[23;1H\u001b[32m  1,07 \u001b[39m│\u001b[35m    \u001b[32m  mov    %r14,%rcx                                                          \u001b[39m▒\u001b[24;3H\u001b[30m\u001b[47m    \u001b[8Cshr    $0x8\r\n"
+    ],
+    [
+      0.020011,
+      "\u001b[37m\u001b[40m\u001b[2;18r\u001b[2;1H\u001b[1M\u001b[1;25r\u001b[20;23r\u001b[20;1H\u001b[1M\u001b[1;25r\u001b[18;1H\u001b[32m\u001b[49m  0,76 \u001b[39m│\u001b[35m36: \u001b[32m  add    $0xfffffffffffffff0,%r12                                           \u001b[39m▒\u001b[19;1H  0,02 │\u001b[35m    \u001b[39m  mov    $0xffffffff,%eax                                                   \r\n\n\n\n       │\u001b[35m    \u001b[39m  shr    $0x8,%rcx                                                          ▒\u001b[24;2H\u001b[30m\u001b[47m10,55\u001b[8Cxo\u001b[5C%rax\r\n"
+    ],
+    [
+      0.020011,
+      "\u001b[37m\u001b[40m\u001b[2;18r\u001b[2;1H\u001b[1M\u001b[1;25r\u001b[19;20r\u001b[19;1H\u001b[1M\u001b[1;25r\u001b[21;23r\u001b[21;1H\u001b[1M\u001b[1;25r\u001b[18;1H\u001b[39m\u001b[49m  0,02 │\u001b[35m    \u001b[39m  mov    $0xffffffff,%eax                                                   ▒\u001b[20;1H  0,03 │\u001b[35m    \u001b[39m  mov    $0xffffffff,%eax                                                   ◆\u001b[23;1H\u001b[31m 10,55 \u001b[39m│\u001b[35m    \u001b[31m  xor    %rax,%rcx                                                          \u001b[39m▒\u001b[24;2H\u001b[30m\u001b[47m 0,10\u001b[8Cmov    0x4(%rbx),%rax\r\n"
+    ],
+    [
+      0.020011,
+      "\u001b[37m\u001b[40m\u001b[2;19r\u001b[2;1H\u001b[1M\u001b[1;25r\u001b[21;23r\u001b[21;1H\u001b[1M\u001b[1;25r\u001b[19;1H\u001b[39m\u001b[49m  0,03 │\u001b[35m    \u001b[39m  mov    $0xffffffff,%eax                                                   ▒\u001b[20;1H\u001b[32m  1,07 \u001b[5C  mov    %r14,%rcx                                                          \r\n\n\n\u001b[39m  0,10 │\u001b[35m    \u001b[39m  mov    0x4(%rbx),%rax                                                     ▒\u001b[24;3H\u001b[30m\u001b[47m1,03\u001b[11Czbl (%rsi),%edx   \r\n"
+    ],
+    [
+      0.124070,
+      "\u001b[37m\u001b[40m\u001b[2;19r\u001b[2;1H\u001b[1M\u001b[1;25r\u001b[20;21r\u001b[20;1H\u001b[1M\u001b[1;25r\u001b[22;23r\u001b[22;1H\u001b[1M\u001b[1;25r\u001b[19;1H\u001b[32m\u001b[49m  1,07 \u001b[39m│\u001b[35m    \u001b[32m  mov    %r14,%rcx                                                          \u001b[39m▒\u001b[21;1H\u001b[31m 10,55 \u001b[39m│\u001b[35m    \u001b[31m  xor    %rax,%rcx                                                          \u001b[39m◆\u001b[23;1H\u001b[32m  1,03 \u001b[39m│\u001b[35m    \u001b[32m  movzbl (%rsi),%edx                                                        \u001b[39m▒\u001b[24;3H\u001b[30m\u001b[47m0,16\u001b[8Cxor    %rdx,%r14  \r\n"
+    ],
+    [
+      0.244137,
+      "\u001b[37m\u001b[40m\u001b[2;20r\u001b[2;1H\u001b[1M\u001b[1;25r\u001b[22;23r\u001b[22;1H\u001b[1M\u001b[1;25r\u001b[20;1H\u001b[31m\u001b[49m 10,55 \u001b[39m│\u001b[35m    \u001b[31m  xor    %rax,%rcx                                                          \u001b[39m▒\u001b[21;1H  0,10 \u001b[5C  mov    0x4(%rbx),%rax                                                     \r\n\n  0,16 │\u001b[35m    \u001b[39m  xor    %rdx,%r14                                                          ▒\u001b[24;3H\u001b[30m\u001b[47m9,69\u001b[8Cand    $0xff,%r14d\r\n"
+    ],
+    [
+      0.188106,
+      "\u001b[37m\u001b[40m\u001b[2;20r\u001b[2;1H\u001b[1M\u001b[1;25r\u001b[21;22r\u001b[21;1H\u001b[1M\u001b[1;25r\u001b[20;1H\u001b[39m\u001b[49m  0,10 │\u001b[35m    \u001b[39m  mov    0x4(%rbx),%rax                                                     ▒\u001b[22;1H  0,16 │\u001b[35m    \u001b[39m  xor    %rdx,%r14                                                          ◆\u001b[23;1H\u001b[31m  9,69 \u001b[5C  and    $0xff,%r14d                                                        \u001b[24;3H\u001b[30m\u001b[47m0,75\u001b[8Cmov    0x10(%rax,%r14,4),%eax\r\n"
+    ],
+    [
+      0.160090,
+      "\u001b[37m\u001b[40m\u001b[2;21r\u001b[2;1H\u001b[1M\u001b[1;25r\u001b[21;1H\u001b[39m\u001b[49m  0,16 │\u001b[35m    \u001b[39m  xor    %rdx,%r14                                                          ▒\u001b[22;1H\u001b[31m  9,69 \u001b[5C  and    $0xff,%r14d                                                        \r\n\u001b[32m  0,75 \u001b[5C  mov    0x10(%rax,%r14,4),%eax                                             \u001b[24;2H\u001b[30m\u001b[47m44,32\u001b[8Cxor    %rcx,%rax             \r\n"
+    ],
+    [
+      0.172097,
+      "\u001b[37m\u001b[40m\u001b[2;21r\u001b[2;1H\u001b[1M\u001b[1;25r\u001b[22;23r\u001b[22;1H\u001b[1M\u001b[1;25r\u001b[21;1H\u001b[31m\u001b[49m  9,69 \u001b[39m│\u001b[35m    \u001b[31m  and    $0xff,%r14d                                                        \u001b[39m▒\u001b[23;1H\u001b[31m 44,32 \u001b[39m│\u001b[35m    \u001b[31m  xor    %rcx,%rax                                                          \u001b[39m◆\u001b[24;2H\u001b[30m\u001b[47m10,31\u001b[8Cinc\u001b[6Csi     \r\n"
+    ],
+    [
+      0.172097,
+      "\u001b[37m\u001b[40m\u001b[2;22r\u001b[2;1H\u001b[1M\u001b[1;25r\u001b[22;1H\u001b[31m\u001b[49m 44,32 \u001b[39m│\u001b[35m    \u001b[31m  xor    %rcx,%rax                                                          \u001b[39m▒\u001b[23;2H\u001b[31m10,31\u001b[8Cinc\u001b[6Csi     \u001b[24;2H\u001b[30m\u001b[47m 0,0\u001b[9Cmov\u001b[6Cax,%r14\r\n"
+    ],
+    [
+      0.164092,
+      "\u001b[2;9H\u001b[35m\u001b[49m   \u001b[34m│\u001b[39m↓ jmpq   ffffffffff9c58c8 \u001b[3;9H   \u001b[34m│\u001b[39m  flipAll (tblEntry `xor` (crc `shiftR` 8))\u001b[4;12H\u001b[34m│\u001b[39m  where                                    \u001b[5;12H\u001b[34m│\u001b[39m    -- Note: unsafe access is ok here, we guarantee that the value is within\u001b[6;12H\u001b[34m│\u001b[7C\u001b[39m(0..255), crc32Table covers that range.                              \u001b[7;12H\u001b[34m│\u001b[39m    tblEntry = crc32Table !!! ((crc `xor` (fromIntegral c)) .\u0026. 0xff)\u001b[8;12H\u001b[34m│\u001b[39m    crc = flipAll prevCRC                                            \r\n\u001b[32m  0,76 \u001b[39m│\u001b[35m36:\u001b[34m│\u001b[32m  add    $0xfffffffffffffff0,%r12                                           \r\n\u001b[39m  0,02 │\u001b[35m   \u001b[34m│\u001b[39m  mov    $0xffffffff,%eax                                                   \r\n\u001b[31m 10,01 \u001b[39m│\u001b[35m   \u001b[34m│\u001b[31m  xor    %rax,%r14                                                          \r\n\u001b[39m  0,03 │\u001b[35m   \u001b[34m│\u001b[39m  mov    $0xffffffff,%eax                                                   \r\n\u001b[32m  1,07 \u001b[39m│\u001b[35m   \u001b[34m│\u001b[32m  mov    %r14,%rcx                                                          \r\n\u001b[39m       │\u001b[35m   \u001b[34m│\u001b[39m  shr    $0x8,%rcx                                                          \r\n\u001b[31m 10,55 \u001b[39m│\u001b[35m   \u001b[34m│\u001b[31m  xor    %rax,%rcx                                                          \r\n\u001b[39m  0,10 │\u001b[35m   \u001b[34m│\u001b[39m  mov    0x4(%rbx),%rax                                                     \r\n\u001b[32m  1,03 \u001b[39m│\u001b[35m   \u001b[34m│\u001b[32m  movzbl (%rsi),%edx                                                        \r\n\u001b[39m  0,16 │\u001b[35m   \u001b[34m│\u001b[39m  xor    %rdx,%r14                                                          \r\n\u001b[31m  9,69 \u001b[39m│\u001b[35m   \u001b[34m│\u001b[31m  and    $0xff,%r14d                                                        \r\n\u001b[32m  0,75 \u001b[39m│\u001b[35m   \u001b[34m│\u001b[32m  mov    0x10(%rax,%r14,4),%eax                                             \r\n\u001b[31m 44,32 \u001b[39m│\u001b[35m   \u001b[34m│\u001b[31m  xor    %rcx,%rax                                                          \u001b[22;2H10,31\u001b[5C\u001b[34m│\u001b[31m  inc\u001b[6Csi     \r\n\u001b[39m  0,01 │\u001b[35m   \u001b[34m│\u001b[39m  mov    %rax,%r14                                                          ▒\u001b[24;3H\u001b[30m\u001b[47m    \u001b[5C\u001b[34m\u001b[49m└──\u001b[30m\u001b[47mjmp    0        \u001b[58C\u001b[39m\u001b[49m◆\u001b[25;1H"
+    ],
+    [
+      1.404790,
+      "\u001b[1;1H\u001b[1m\u001b[37m\u001b[44mSamples: 8K of event 'cpu-clock', Event count (approx.): 2233500000\u001b[25;89H"
+    ],
+    [
+      0.000000,
+      "\u001b[2;1H\u001b(B\u001b[m\u001b[30m\u001b[47m  99,75%  crc32  crc32              [.] s4Tw_info                                       \u001b[39m\u001b[49m◆\u001b[3;4H0,10%  crc32  crc32              [.] c5gn_info      \u001b[4;4H0,03%  crc32  crc32\u001b[14C[.] c5g3_info\u001b[5;4H0,02%  crc32  crc32              [.] c2k_info                                        \u001b[6;4H0,02%  crc32  crc32              [.] c7F_info          \u001b[7;4H0,01%  crc32  [kernel.kallsyms]  [k] __do_softirq                             \u001b[8;4H0,01%  crc32  crc32              [.] allocatePinned\r\n   0,01%  crc32  crc32              [.] c6le_info                                       \u001b[10;3H 0,01%  crc32  crc32              [.] chg3_info\r\n   0,01%  crc32  crc32              [.] 0x000000000041ca88                              \u001b[12;3H 0,01%  crc32  libc-2.19.so       [.] _dl_addr\r\n                                                                                        \u001b[14;8H                       \r\n                                                                                        \u001b[16;3H                                 \r\n                                                                                        \u001b[18;3H                            \r\n                                                                                        \r\n                                                                                        \r\n                                                                                        \r\n                                                                                        \u001b[23;3H                            \r\n                                                                                        ▒\u001b[25;8H\u001b[37m\u001b[40m?\u001b[25;89H"
+    ],
+    [
+      0.000000,
+      "\u001b[13;89H"
+    ],
+    [
+      1.548871,
+      "\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000000,
+      "\u001b[25;1H\u001b(B\u001b[m\u001b[39;49m\r\u001b[K\r\u001b[?1049l"
+    ],
+    [
+      0.004002,
+      "\u001b]0;francesco@francesco-VirtualBox: ~/crc32\u0007francesco@francesco-VirtualBox:~/crc32$ "
+    ],
+    [
+      2.405352,
+      "exit\r\n"
+    ]
+  ]
+}
