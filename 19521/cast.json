@@ -1,0 +1,214 @@
+{
+  "version": 1,
+  "width": 120,
+  "height": 33,
+  "duration": 11.600194,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.007649,
+      "\u001b[?1034h"
+    ],
+    [
+      0.000007,
+      "bash-3.2$ "
+    ],
+    [
+      0.195150,
+      "g"
+    ],
+    [
+      0.100976,
+      "i"
+    ],
+    [
+      0.101141,
+      "t"
+    ],
+    [
+      0.100952,
+      " "
+    ],
+    [
+      0.113033,
+      "s"
+    ],
+    [
+      0.101959,
+      "h"
+    ],
+    [
+      0.134226,
+      "o"
+    ],
+    [
+      0.078172,
+      "w"
+    ],
+    [
+      0.123765,
+      " "
+    ],
+    [
+      0.180092,
+      "-"
+    ],
+    [
+      0.146057,
+      "-"
+    ],
+    [
+      0.079584,
+      "s"
+    ],
+    [
+      0.123834,
+      "t"
+    ],
+    [
+      0.100628,
+      "a"
+    ],
+    [
+      0.124086,
+      "t"
+    ],
+    [
+      0.269922,
+      "\r\n"
+    ],
+    [
+      0.014580,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000009,
+      "\u001b[33mcommit 4933034334570e559ef6350bd1d6690b8945ac56\u001b[m\u001b[m\r\nAuthor: Alex Kotliarskyi \u003calex.frantic@gmail.com\u003e\u001b[m\r\nDate:   Mon May 4 12:17:47 2015 -0700\u001b[m\r\n\u001b[m\r\n    Warn if `init` is called from existing project\u001b[m\r\n\u001b[m\r\n local-cli/cli.js | 11 \u001b[32m+++++++++++\u001b[m\u001b[m\r\n 1 file changed, 11 insertions(+)\u001b[m\r\n"
+    ],
+    [
+      0.000012,
+      "\r\u001b[K\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.001015,
+      "bash-3.2$ "
+    ],
+    [
+      1.131962,
+      "git show --stat"
+    ],
+    [
+      0.145894,
+      " "
+    ],
+    [
+      0.247736,
+      "|"
+    ],
+    [
+      0.123807,
+      " "
+    ],
+    [
+      0.213818,
+      "f"
+    ],
+    [
+      0.191324,
+      "p"
+    ],
+    [
+      0.134911,
+      "p"
+    ],
+    [
+      0.258602,
+      "\r\n"
+    ],
+    [
+      0.092034,
+      "\u001b[?1049h\u001b[1;33r\u001b(B\u001b[m\u001b[4l\u001b[?7h\u001b[?1h\u001b="
+    ],
+    [
+      0.006018,
+      "\u001b[39;49m\u001b[39;49m\u001b[37m\u001b[40m\u001b[H\u001b[2Jcommit 4933034334570e559ef6350bd1d6690b8945ac56\r\nAuthor: Alex Kotliarskyi \u003calex.frantic@gmail.com\u003e\r\nDate:   Mon May 4 12:17:47 2015 -0700\n\n\u001b[5GWarn if `init` is called from existing project\r\n\n \u001b[37m\u001b[41mlocal-cli/cli.js\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m | 11 +++++++++++\r\n 1 file changed, 11 insertions(+)\r\u001b[32d________________________________________________________________________________________________________________________\u001b[33;1H[f|A] selection, [down|j|up|k|space|b] navigation, [enter] open, [c] command mode\r\u001b[7d"
+    ],
+    [
+      1.623953,
+      "\u001b[39;49m\u001b[37m\u001b[40m\u001b[H\u001b[2Jcommit 4933034334570e559ef6350bd1d6690b8945ac56\r\nAuthor: Alex Kotliarskyi \u003calex.frantic@gmail.com\u003e\r\nDate:   Mon May 4 12:17:47 2015 -0700\n\n\u001b[5GWarn if `init` is called from existing project\r\n\n \u001b[37m\u001b[41mlocal-cli/cli.js\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m | 11 +++++++++++\r\n 1 file changed, 11 insertions(+)\r\u001b[32d________________________________________________________________________________________________________________________\u001b[33;1H[f|A] selection, [down|j|up|k|space|b] navigation, \u001b[33m\u001b[40m[enter] open\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m, [c] command mode\r\u001b[7d"
+    ],
+    [
+      0.836366,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000040,
+      "\u001b[39;49m\u001b[33d\u001b[K\u001b[33;1H\u001b[?1049l\r\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.010986,
+      "\u001b[?1049h\u001b[?1h\u001b="
+    ],
+    [
+      0.017469,
+      "\u001b[1;33r\u001b[?12;25h\u001b[?12l\u001b[?25h\u001b[27m\u001b[m\u001b[H\u001b[2J\u001b[?25l\u001b[33;1H\"~/code/PathPicker/local-cli/cli.js\" [New DIRECTORY]"
+    ],
+    [
+      0.000125,
+      "\u001b[\u003ec"
+    ],
+    [
+      0.000297,
+      "\u001b[2;1H\u001b[94m~                                                                                                                       \u001b[3;1H~                                                                                                                       \u001b[4;1H~                                                                                                                       \u001b[5;1H~                                                                                                                       \u001b[6;1H~                                                                                                                       \u001b[7;1H~                                                                                                                       \u001b[8;1H~                                                                                                                       \u001b[9;1H~                                                                                                                       \u001b[10;1H~   "
+    ],
+    [
+      0.000037,
+      "                                                                                                                    \u001b[11;1H~                                                                                                                       \u001b[12;1H~                                                                                                                       \u001b[13;1H~                                                                                                                       \u001b[14;1H~                                                                                                                       \u001b[15;1H~                                                                                                                       \u001b[16;1H~                                                                                                                       \u001b[17;1H~                                                                                                                       "
+    ],
+    [
+      0.000047,
+      "\u001b[18;1H~                                                                                                                       \u001b[19;1H~                                                                                                                       \u001b[20;1H~                                                                                                                       \u001b[21;1H~                                                                                                                       \u001b[22;1H~                                                                                                                       \u001b[23;1H~                                                                                                                       \u001b[24;1H~                                                                                                                       \u001b[25;1H~                                                                                                                       \u001b[26;1H~"
+    ],
+    [
+      0.000039,
+      "                                                                                                                       \u001b[27;1H~                                                                                                                       \u001b[28;1H~                                                                                                                       \u001b[29;1H~                                                                                                                       \u001b[30;1H~                                                                                                                       \u001b[31;1H~                                                                                                                       \u001b[32;1H~                                                                                                                       \u001b[1;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      2.205430,
+      "\u001b[?25l\u001b[m\u001b[33;1H\u001b[K\u001b[33;1H:"
+    ],
+    [
+      0.000013,
+      "\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.314888,
+      "q"
+    ],
+    [
+      0.528445,
+      "\r"
+    ],
+    [
+      0.001126,
+      "\u001b[?25l"
+    ],
+    [
+      0.000005,
+      "\u001b[33;1H\u001b[K\u001b[33;1H\u001b[?1l\u001b\u003e\u001b[?12l\u001b[?25h\u001b[?1049l"
+    ],
+    [
+      0.001717,
+      "bash-3.2$ "
+    ],
+    [
+      1.414822,
+      "exit\r\n"
+    ]
+  ]
+}
