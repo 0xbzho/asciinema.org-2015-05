@@ -1,0 +1,434 @@
+{
+  "version": 1,
+  "width": 108,
+  "height": 18,
+  "duration": 29.348500,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.021633,
+      "Going to dev server if you dont quit\r\n"
+    ],
+    [
+      0.512760,
+      "ssh: connect to host localhost port 8808: Connection refused\r\r\n"
+    ],
+    [
+      0.014043,
+      "\u001b[?1034h"
+    ],
+    [
+      0.000014,
+      "\u001b]0;pcottle@pcottle-mbp:~/Dropbox/wip/learnGitBranching/src/js\u0007\u001b[0;32m[\u001b[0;32mpcottle:~/Dropbox/wip/learnGitBranching/src/js\u001b[0;37m:master\u001b[0;32m]\u001b[0;32m$ "
+    ],
+    [
+      6.331013,
+      "\r\n"
+    ],
+    [
+      0.016489,
+      "\u001b]0;pcottle@pcottle-mbp:~/Dropbox/wip/learnGitBranching/src/js\u0007\u001b[0;32m[\u001b[0;32mpcottle:~/Dropbox/wip/learnGitBranching/src/js\u001b[0;37m:master\u001b[0;32m]\u001b[0;32m$ "
+    ],
+    [
+      2.135297,
+      "\r\n"
+    ],
+    [
+      0.015570,
+      "\u001b]0;pcottle@pcottle-mbp:~/Dropbox/wip/learnGitBranching/src/js\u0007\u001b[0;32m[\u001b[0;32mpcottle:~/Dropbox/wip/learnGitBranching/src/js\u001b[0;37m:master\u001b[0;32m]\u001b[0;32m$ "
+    ],
+    [
+      2.185077,
+      "d"
+    ],
+    [
+      0.287738,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.088019,
+      "g"
+    ],
+    [
+      0.095983,
+      "i"
+    ],
+    [
+      0.032138,
+      "t"
+    ],
+    [
+      0.119912,
+      " "
+    ],
+    [
+      0.047994,
+      "d"
+    ],
+    [
+      0.087963,
+      "i"
+    ],
+    [
+      0.064104,
+      "f"
+    ],
+    [
+      0.152188,
+      "f"
+    ],
+    [
+      0.127548,
+      " "
+    ],
+    [
+      0.112373,
+      "H"
+    ],
+    [
+      0.063736,
+      "E"
+    ],
+    [
+      0.176334,
+      "A"
+    ],
+    [
+      0.144170,
+      "D"
+    ],
+    [
+      0.279807,
+      "~"
+    ],
+    [
+      0.199724,
+      "1"
+    ],
+    [
+      0.392315,
+      "0"
+    ],
+    [
+      0.328169,
+      " "
+    ],
+    [
+      0.175830,
+      "-"
+    ],
+    [
+      0.144037,
+      "-"
+    ],
+    [
+      0.103848,
+      "s"
+    ],
+    [
+      0.088109,
+      "t"
+    ],
+    [
+      0.071926,
+      "a"
+    ],
+    [
+      0.056082,
+      "t"
+    ],
+    [
+      0.216047,
+      "\r\n"
+    ],
+    [
+      0.034633,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.038794,
+      " assets/emoji_table.rtf                          | 2523 \u001b[32m+++++++++++++++++++++++++++++++++++++++++++++++++++\u001b[m\u001b[m\r\n src/js/constants/AppStyles.js                   |   16 \u001b[32m+\u001b[m\u001b[m\r\n src/js/constants/Colors.js                      |    8 \u001b[31m-\u001b[m\u001b[m\r\n src/js/dialogs/confirmShowSolution.js           |   16 \u001b[32m+\u001b[m\u001b[m\r\n src/js/dialogs/levelBuilder.js                  |   19 \u001b[32m+\u001b[m\u001b[m\r\n src/js/dialogs/sandbox.js                       |   10 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\u001b[m\r\n src/js/intl/strings.js                          |   35 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\u001b[m\r\n src/js/native/index.ios.js                      |   16 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\u001b[m\r\n src/js/native_react_views/AppViews.js           |   27 \u001b[32m+\u001b[m\u001b[m\r\n src/js/native_react_views/NUXView.js            |   61 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\u001b[m\r\n src/js/native_react_views/NavButton.js          |    1 \u001b[32m+\u001b[m\u001b[m\r\n src/js/native_react_views/SequenceSelectView.js |   96 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\u001b[m\r\n src/js/native_react_views/TerminalCardView.js   |   13 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\u001b[m\r\n src/level"
+    ],
+    [
+      0.000009,
+      "s/intro/comm"
+    ],
+    [
+      0.000054,
+      "its.js                     |    2 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\u001b[m\r\n src/levels/mixed/describe.js                    |   65 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\u001b[m\r\n src/levels/mixed/tags.js                        |   52 \u001b[32m++\u001b[m\u001b[m\r\n src/levels/rampup/cherryPick.js                 |    6 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.886580,
+      "\r\u001b[K\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.017237,
+      "\u001b]0;pcottle@pcottle-mbp:~/Dropbox/wip/learnGitBranching/src/js\u0007\u001b[0;32m[\u001b[0;32mpcottle:~/Dropbox/wip/learnGitBranching/src/js\u001b[0;37m:master\u001b[0;32m]\u001b[0;32m$ "
+    ],
+    [
+      0.438634,
+      "git diff HEAD~10 --stat"
+    ],
+    [
+      0.120381,
+      " "
+    ],
+    [
+      0.112037,
+      "|"
+    ],
+    [
+      0.103912,
+      " "
+    ],
+    [
+      0.232300,
+      "f"
+    ],
+    [
+      0.063827,
+      "p"
+    ],
+    [
+      0.159946,
+      "p"
+    ],
+    [
+      0.127850,
+      "\r\n"
+    ],
+    [
+      0.160336,
+      "\u001b[?1049h\u001b[1;18r\u001b(B\u001b[m\u001b[4l\u001b[?7h\u001b[?1h\u001b="
+    ],
+    [
+      0.013035,
+      "\u001b[39;49m\u001b[39;49m\u001b[37m\u001b[40m\u001b[H\u001b[2J===   \u001b[37m\u001b[41massets/emoji_table.rtf\u001b[1;55H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m| 2523 +++++++++++++++++++++++\r\n/-\\   \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40msrc/js/constants/AppStyles.js\u001b[2;55H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|   16 +\r\n|-|   \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40msrc/js/constants/Colors.js\u001b[3;55H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|    8 -\r\n|-|   \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40msrc/js/dialogs/confirmShowSolution.js\u001b[4;55H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|   16 +\r\n|-|   \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40msrc/js/dialogs/levelBuilder.js\u001b[5;55H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|   19 +\r\n|-|   \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40msrc/js/dialogs/sandbox.js\u001b[6;55H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|   10 +-\r\n|-|   \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40msrc/js/intl/strings.js\u001b[7;55H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|   35 +-\r\n|-|   \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40msrc/js/native/index.ios.js\u001b[8;55H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|   16 +-\r\n|-|   \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40msrc/js/native_react_views/AppViews.js\u001b[9;55H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|   27 +\r\n|-|   \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40msrc/js/native_react_views/NUXV"
+    ],
+    [
+      0.000019,
+      "iew.js\u001b[10;55H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|   61 +-\r\n|-|   \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40msrc/js/native_react_views/NavButton.js\u001b[11;55H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|    1 +\r\n\\-/   \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40msrc/js/native_react_views/SequenceSelectView.js\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m |   96 +-\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40msrc/js/native_react_views/TerminalCardView.js\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m   |   13 +-\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40msrc/levels/intro/commits.js\u001b[14;55H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|    2 +-\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40msrc/levels/mixed/describe.js\u001b[15;55H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|   65 +-\r\n .\n\u0008.   _______________________________________________________________________________________________________\u001b[18;1H===  [f|A] selection, [down|j|up|k|space|b] navigation, [enter] open, [c] command mode\u001b[1;6H"
+    ],
+    [
+      0.554887,
+      " \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40massets/emoji_table.rtf\n\u001b[7G\u001b(B\u001b[0m\u001b[37m\u001b[41msrc/js/constants/AppStyles.js\u001b[6G\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.176077,
+      " \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40msrc/js/constants/AppStyles.js\n\u001b[7G\u001b(B\u001b[0m\u001b[37m\u001b[41msrc/js/constants/Colors.js\u001b[6G\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.151935,
+      " \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40msrc/js/constants/Colors.js\n\u001b[7G\u001b(B\u001b[0m\u001b[37m\u001b[41msrc/js/dialogs/confirmShowSolution.js\u001b[6G\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.104172,
+      " \u001b[37m\u001b[42m|===\u003esrc/js/dialogs/confirmShowSolution.js\u001b[55G\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m     |   16 +\u001b[6G"
+    ],
+    [
+      0.167901,
+      " \u001b[37m\u001b[44m|===\u003esrc/js/dialogs/confirmShowSolution.js\n\u001b[7G\u001b[37m\u001b[41msrc/js/dialogs/levelBuilder.js\u001b[6G\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.192009,
+      " \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40msrc/js/dialogs/levelBuilder.js\n\u001b[7G\u001b(B\u001b[0m\u001b[37m\u001b[41msrc/js/dialogs/sandbox.js\u001b[6G\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.152074,
+      " \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40msrc/js/dialogs/sandbox.js\n\u001b[7G\u001b(B\u001b[0m\u001b[37m\u001b[41msrc/js/intl/strings.js\u001b[6G\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.168002,
+      " \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40msrc/js/intl/strings.js\n\u001b[7G\u001b(B\u001b[0m\u001b[37m\u001b[41msrc/js/native/index.ios.js\u001b[6G\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.144202,
+      " \u001b[37m\u001b[42m|===\u003esrc/js/native/index.ios.js\u001b[8;55H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m     |   16 +-\u001b[6G"
+    ],
+    [
+      0.175219,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000048,
+      "\u001b[39;49m\r\u001b[18d\u001b[K\u001b[18;1H\u001b[?1049l\r\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.019538,
+      "2 files to edit\r\n"
+    ],
+    [
+      0.272552,
+      "\u001b[?1000h"
+    ],
+    [
+      0.000008,
+      "\u001b[?1049h\u001b[?1h\u001b="
+    ],
+    [
+      0.001091,
+      "\u001b[1;18r\u001b[?12;25h\u001b[?12l\u001b[?25h\u001b[27m\u001b[m\u001b[38;5;255m\u001b[48;5;236m\u001b[H\u001b[2J\u001b[?25l\u001b[18;1H\"~/Dropbox (Personal)/wip/learnGitBranching/src/js/dialogs/confirmShowSolution.js\""
+    ],
+    [
+      0.000188,
+      " 89L, 1954C"
+    ],
+    [
+      0.064607,
+      "\u001b[18;52Hnative/index.ios.js\" \u001b[18;73H\u001b[K"
+    ],
+    [
+      0.000010,
+      "\u001b[18;73H45L, 1162C"
+    ],
+    [
+      0.038264,
+      "\u001b[\u003ec"
+    ],
+    [
+      0.011335,
+      "\u001b[1;1Hexports.dialog \u001b[38;5;215m=\u001b[m\u001b[38;5;255m\u001b[48;5;236m {\u001b[36C\u001b[38;5;237m\u001b[48;5;237m|\u001b[m\u001b[38;5;255m\u001b[48;5;236m\r\n  \u001b[38;5;247m'en_US'\u001b[m\u001b[38;5;255m\u001b[48;5;236m: [{\u001b[41C\u001b[38;5;237m\u001b[48;5;237m|\u001b[m\u001b[38;5;255m\u001b[48;5;236m\r\n    type: \u001b[38;5;247m'ModalAlert'\u001b[m\u001b[38;5;255m\u001b[48;5;236m,\u001b[31C\u001b[38;5;237m\u001b[48;5;237m|\u001b[m\u001b[38;5;255m\u001b[48;5;236m\r\n    options: {\u001b[40C\u001b[38;5;237m\u001b[48;5;237m|\u001b[m\u001b[38;5;255m\u001b[48;5;236m\u001b[5;6H markdowns: [\u001b[36C\u001b[38;5;237m\u001b[48;5;237m|\u001b[m\u001b[38;5;255m\u001b[48;5;236m\u001b[6;8H \u001b[38;5;247m'## Are you sure you want to see the solution?\u001b[m\u001b[38;5;255m\u001b[48;5;236m\u001b[38;5;237m\u001b[48;5;237m|\u001b[m\u001b[38;5;255m\u001b[48;5;236m\u001b[7;8H \u001b[38;5;247m''\u001b[m\u001b[38;5;255m\u001b[48;5;236m,\u001b[43C\u001b[38;5;237m\u001b[48;5;237m|\u001b[m\u001b[38;5;255m\u001b[48;5;236m\u001b[8;8H \u001b[38;5;247m'I believe in you! You can do it'\u001b[m\u001b[38;5;255m\u001b[48;5;236m\u001b[13C\u001b[38;5;237m\u001b[48;5;237m|\u001b[m\u001b[38;5;255m\u001b[48;5;236m\u001b[9;6H ]\u001b[47C\u001b[38;5;237m\u001b[48;5;237m|\u001b[m\u001b[38;5;255m\u001b[48;5;236m\r\n    }\u001b[49C\u001b[38;5;237m\u001b[48;5;237m|\u001b[m\u001b[38;5;255m\u001b[48;5;236m\r\n  }],\u001b[49C\u001b[38;5;237m\u001b[48;5;237m|\u001b[m\u001b[38;5;255m\u001b[48;5;236m\r\n  \u001b["
+    ],
+    [
+      0.000031,
+      "38;5;247m'de_DE'\u001b[m\u001b[38;5;255m\u001b[48;5;236m: [{\u001b[41C\u001b[38;5;237m\u001b[48;5;237m|\u001b[m\u001b[38;5;255m\u001b[48;5;236m\r\n    type: \u001b[38;5;247m'ModalAlert'\u001b[m\u001b[38;5;255m\u001b[48;5;236m,\u001b[31C\u001b[38;5;237m\u001b[48;5;237m|\u001b[m\u001b[38;5;255m\u001b[48;5;236m\r\n    options: {\u001b[40C\u001b[38;5;237m\u001b[48;5;237m|\u001b[m\u001b[38;5;255m\u001b[48;5;236m\u001b[15;6H markdowns: [\u001b[36C\u001b[38;5;237m\u001b[48;5;237m|\u001b[m\u001b[38;5;255m\u001b[48;5;236m\u001b[16;8H \u001b[38;5;247m'## Bist du sicher, dass du die Auflösung sehe\u001b[m\u001b[38;5;255m\u001b[48;5;236m\u001b[38;5;237m\u001b[48;5;237m|\u001b[m\u001b[38;5;255m\u001b[48;5;236m\r\n\u001b[38;5;232m\u001b[48;5;192m \u001b[m\u001b[38;5;255m\u001b[48;5;236m\u001b[1m\u001b[38;5;232m\u001b[48;5;192mNORMAL\u001b[m\u001b[38;5;255m\u001b[48;5;236m\u001b[38;5;232m\u001b[48;5;192m \u001b[m\u001b[38;5;255m\u001b[48;5;236m\u001b[38;5;192m\u001b[48;5;236m  master \u001b[m\u001b[38;5;255m\u001b[48;5;236m\u001b[38;5;236m\u001b[48;5;234m\u001b[m\u001b[38;5;255m\u001b[48;5;236m\u001b[38;5;192m\u001b[48;5;234m \u003c\u001b[m\u001b[38;5;255m\u001b[48;5;236m\u001b[38;5;236m\u001b[48;5;234m\u001b[m\u001b[38;5;255m\u001b[48;5;236m\u001b[38;5;192m\u001b[48;5;236m utf-8[unix] \u001b[m\u001b[38;5;255m\u001b[48;5;236m\u001b[38;5;232m\u001b[48;5;192m   1% \u001b[m\u001b[38;5;255m\u001b[48;5;236m\u001b[1m\u001b[38;5;232m\u001b[48;5;192m   1"
+    ],
+    [
+      0.006903,
+      "\u001b[m\u001b[38;5;255m\u001b[48;5;236m\u001b[38;5;232m\u001b[48;5;192m:  1  \u001b[m\u001b[38;5;255m\u001b[48;5;236m\u001b[1m\u001b[97m\u001b[48;5;241m \u001b[m\u001b[38;5;255m\u001b[48;5;236m\u001b[1;56H\u001b[38;5;242m/**\u001b[2;56H * Sample React Native App\u001b[3;56H * https://github.com/facebook/react-native\u001b[4;56H */\u001b[m\u001b[38;5;255m\u001b[48;5;236m\u001b[5;56H\u001b[38;5;247m'use strict'\u001b[m\u001b[38;5;255m\u001b[48;5;236m;\u001b[7;56H\u001b[38;5;228mvar\u001b[m\u001b[38;5;255m\u001b[48;5;236m React \u001b[38;5;215m=\u001b[m\u001b[38;5;255m\u001b[48;5;236m require(\u001b[38;5;247m'react-native'\u001b[m\u001b[38;5;255m\u001b[48;5;236m);\u001b[8;56H\u001b[38;5;228mvar\u001b[m\u001b[38;5;255m\u001b[48;5;236m {\u001b[9;57H AppRegistry,\u001b[10;57H Navigator,\u001b[11;56H} \u001b[38;5;215m=\u001b[m\u001b[38;5;255m\u001b[48;5;236m React;\u001b[13;56H\u001b[38;5;228mvar\u001b[m\u001b[38;5;255m\u001b[48;5;236m Routes \u001b[38;5;215m=\u001b[m\u001b[38;5;255m\u001b[48;5;236m require(\u001b[38;5;247m'../constants/Routes'\u001b[m\u001b[38;5;255m\u001b[48;5;236m);\u001b[14;56H\u001b[38;5;228mvar\u001b[m\u001b[38;5;255m\u001b[48;5;236m SequenceSelectView \u001b[38;5;215m=\u001b[m\u001b[38;5;255m\u001b[48;5;236m require(\u001b[38;5;247m'../native_react_vie\u001b[m\u001b[38;5;255m\u001b[48;5;236m\u001b[15;56H\u001b[38;5;228mvar\u001b[m\u001b[38;5;255m\u001b[48;5;236m LevelSelectView \u001b[38;5;215m=\u001b[m\u001b[38;"
+    ],
+    [
+      0.000014,
+      "5;255m\u001b[48;5;236m require(\u001b[38;5;247m'../native_react_views/\u001b[m\u001b[38;5;255m\u001b[48;5;236m\u001b[16;56H\u001b[38;5;228mvar\u001b[m\u001b[38;5;255m\u001b[48;5;236m NUXView \u001b[38;5;215m=\u001b[m\u001b[38;5;255m\u001b[48;5;236m require(\u001b[38;5;247m'../native_react_views/NUXView'\u001b[m\u001b[38;5;255m\u001b[48;5;236m\u001b[17;56H\u001b[38;5;243m\u001b[48;5;234m\u003cios.js \u001b[m\u001b[38;5;255m\u001b[48;5;236m\u001b[38;5;234m\u001b[48;5;234m\u001b[m\u001b[38;5;255m\u001b[48;5;236m\u001b[38;5;243m\u001b[48;5;234m javascript \u001b[m\u001b[38;5;255m\u001b[48;5;236m\u001b[38;5;234m\u001b[48;5;234m\u001b[m\u001b[38;5;255m\u001b[48;5;236m\u001b[38;5;243m\u001b[48;5;234m utf-8[unix] \u001b[m\u001b[38;5;255m\u001b[48;5;236m\u001b[38;5;234m\u001b[48;5;234m\u001b[m\u001b[38;5;255m\u001b[48;5;236m\u001b[38;5;243m\u001b[48;5;234m   2%    1:  1  \u001b[1;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.005359,
+      "\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.628500,
+      "\u001b[?25l\u001b[m\u001b[38;5;255m\u001b[48;5;236m\u001b[18;98Hj\u001b[1;1H"
+    ],
+    [
+      0.001301,
+      "\u001b[18;98H \u001b[2;1H\u001b[17;41H\u001b[38;5;232m\u001b[48;5;192m2\u001b[m\u001b[38;5;255m\u001b[48;5;236m\u001b[6C\u001b[1m\u001b[38;5;232m\u001b[48;5;192m2\u001b[m\u001b[38;5;255m\u001b[48;5;236m\u001b[38;5;232m\u001b[48;5;192m:\u001b[2;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.238994,
+      "\u001b[?25l\u001b[m\u001b[38;5;255m\u001b[48;5;236m\u001b[18;98H:\u001b[2;1H"
+    ],
+    [
+      0.000040,
+      "\u001b[18;1H\u001b[K\u001b[18;1H:"
+    ],
+    [
+      0.000062,
+      "\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.111899,
+      "q"
+    ],
+    [
+      0.159648,
+      "a"
+    ],
+    [
+      0.055962,
+      "\r"
+    ],
+    [
+      0.014216,
+      "\u001b[?25l\u001b[?1000l"
+    ],
+    [
+      0.009015,
+      "\u001b[?1000h"
+    ],
+    [
+      0.009834,
+      "\u001b[?1000l"
+    ],
+    [
+      0.000023,
+      "\u001b[18;1H\u001b[K\u001b[18;1H\u001b[?1l\u001b\u003e\u001b[?12l\u001b[?25h\u001b[?1049l"
+    ],
+    [
+      0.019637,
+      "\u001b]0;pcottle@pcottle-mbp:~/Dropbox/wip/learnGitBranching/src/js\u0007\u001b[0;32m[\u001b[0;32mpcottle:~/Dropbox/wip/learnGitBranching/src/js\u001b[0;37m:master\u001b[0;32m]\u001b[0;32m$ "
+    ],
+    [
+      2.323815,
+      "a"
+    ],
+    [
+      0.039774,
+      "s"
+    ],
+    [
+      0.103978,
+      "c"
+    ],
+    [
+      0.096023,
+      "i"
+    ],
+    [
+      0.144324,
+      "i"
+    ],
+    [
+      0.735883,
+      "n"
+    ],
+    [
+      0.096485,
+      "e"
+    ],
+    [
+      0.103510,
+      "m"
+    ],
+    [
+      0.063897,
+      "a"
+    ],
+    [
+      0.176641,
+      " "
+    ],
+    [
+      3.151831,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[K"
+    ],
+    [
+      0.808098,
+      "e"
+    ],
+    [
+      0.168203,
+      "x"
+    ],
+    [
+      0.095521,
+      "i"
+    ],
+    [
+      0.093247,
+      "t"
+    ],
+    [
+      0.091191,
+      "\r\n"
+    ],
+    [
+      0.000129,
+      "exit\r\n"
+    ]
+  ]
+}
