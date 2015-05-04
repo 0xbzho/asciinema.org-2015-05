@@ -1,0 +1,842 @@
+{
+  "version": 1,
+  "width": 120,
+  "height": 33,
+  "duration": 64.347337,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.007938,
+      "\u001b[?1034h"
+    ],
+    [
+      0.000007,
+      "bash-3.2$ "
+    ],
+    [
+      1.980710,
+      "h"
+    ],
+    [
+      0.089897,
+      "g"
+    ],
+    [
+      0.134984,
+      " "
+    ],
+    [
+      1.057445,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.157523,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.146240,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.112595,
+      "g"
+    ],
+    [
+      0.101140,
+      "i"
+    ],
+    [
+      0.112555,
+      "t"
+    ],
+    [
+      0.168536,
+      " "
+    ],
+    [
+      0.258833,
+      "s"
+    ],
+    [
+      0.112579,
+      "h"
+    ],
+    [
+      0.157540,
+      "o"
+    ],
+    [
+      0.416171,
+      "w"
+    ],
+    [
+      0.899651,
+      "\u0008\u0008\u0008\u0008\u001b[K"
+    ],
+    [
+      0.292713,
+      "d"
+    ],
+    [
+      0.090105,
+      "i"
+    ],
+    [
+      0.135131,
+      "f"
+    ],
+    [
+      0.146151,
+      "f"
+    ],
+    [
+      0.101197,
+      " "
+    ],
+    [
+      0.540068,
+      "H"
+    ],
+    [
+      0.123910,
+      "E"
+    ],
+    [
+      0.067286,
+      "A"
+    ],
+    [
+      0.168743,
+      "D"
+    ],
+    [
+      0.573850,
+      "~"
+    ],
+    [
+      0.258714,
+      "1"
+    ],
+    [
+      0.123881,
+      "0"
+    ],
+    [
+      0.236012,
+      " "
+    ],
+    [
+      0.258825,
+      "\\"
+    ],
+    [
+      0.416094,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.191331,
+      "|"
+    ],
+    [
+      0.157450,
+      " "
+    ],
+    [
+      0.259028,
+      "f"
+    ],
+    [
+      0.179986,
+      "p"
+    ],
+    [
+      0.157330,
+      "p"
+    ],
+    [
+      0.146023,
+      "\r\n"
+    ],
+    [
+      0.837299,
+      "\u001b[?1049h\u001b[1;33r\u001b(B\u001b[m\u001b[4l\u001b[?7h\u001b[?1h\u001b="
+    ],
+    [
+      0.304604,
+      "\u001b[39;49m\u001b[39;49m\u001b[37m\u001b[40m\u001b[H\u001b[2J===  diff --git \u001b[37m\u001b[41ma/.travis.yml\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m b/.travis.yml\r\n\\-/  index 2ece3da..35a0f0e 100644\r\n .   --- \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40ma/.travis.yml\r\n\u001b[C\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m.   +++ \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mb/.travis.yml\r\n\u001b[C\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m.   @@ -16,17 +16,7 @@ script:\r\n .\u001b[9Gif [ \"$TEST_TYPE\" = objc ]\r\n .\u001b[9Gthen\r\n .\n\u0008.   -    (npm start \u003e \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mpackager.log\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m 2\u003e\u00261 \u0026)\r\n .   -    echo $! \u003e \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mpackager.pid\r\n\u001b[C\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m.   -\r\n .   -    xctool \\\r\n .   -\u001b[13G-project \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mExamples/UIExplorer/UIExplorer.xcodeproj\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m \\\r\n .   -\u001b[13G-scheme UIExplorer -sdk iphonesimulator8.1 \\\r\n .   -\u001b[13Gtest\r\n .   -\r\n .   -    pkill -9 -F \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mpackager.pid\r\n\u001b[C\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m.   -    cat \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mpackager.log\r\n\u001b[C\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m.   -    rm \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mpackager.log\u001b(B\u001b[m\u001b[39"
+    ],
+    [
+      0.000013,
+      ";49m\u001b[37m\u001b[40m packager.pid\r\n .   +    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40m./scripts/objc-test.sh\r\n\u001b[C\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m.\n\u0008.\u001b[9Gelif [ \"$TEST_TYPE\" = js ]\r\n .\u001b[9Gthen\r\n .   diff --git \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40ma/Examples/2048/2048/AppDelegate.m\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m b/Examples/2048/2048/AppDelegate.m\r\n .   index bc08903..004e854 100644\r\n .   --- \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40ma/Examples/2048/2048/AppDelegate.m\r\n\u001b[C\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m.   +++ \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mb/Examples/2048/2048/AppDelegate.m\r\n\u001b[C\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m.   @@ -22,24 +22,33 @@\r\n .    {\r\n .\u001b[9GNSURL *jsCodeLocation;\r\n .\n\u0008.   ___________________________________________________________________________________________________________________\u001b[33;1H===  [f|A] selection, [down|j|up|k|space|b] navigation, [enter] open, [c] command mode\u001b[1;6H"
+    ],
+    [
+      1.670949,
+      "\u001b[1;17H\u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40ma/.travis.yml\u001b[3;10H\u001b(B\u001b[0m\u001b[37m\u001b[41ma/.travis.yml\u001b[6G\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.978628,
+      "--- \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40ma/.travis.yml\u001b[4;10H\u001b(B\u001b[0m\u001b[37m\u001b[41mb/.travis.yml\u001b[6G\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.253355,
+      "+++ \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mb/.travis.yml\u001b[9;24H\u001b(B\u001b[0m\u001b[37m\u001b[41mpackager.log\u001b[6G\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.034496,
+      "\u001b[9;24H\u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mpackager.log\u001b[10;21H\u001b(B\u001b[0m\u001b[37m\u001b[41mpackager.pid\u001b[6G\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.443505,
+      "\u001b[10;21H\u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mpackager.pid\u001b[13;22H\u001b(B\u001b[0m\u001b[37m\u001b[41mExamples/UIExplorer/UIExplorer.xcodeproj\u001b[6G\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.252623,
+      "\u001b[13;22H\u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mExamples/UIExplorer/UIExplorer.xcodeproj\u001b[17;23H\u001b(B\u001b[0m\u001b[37m\u001b[41mpackager.pid\u001b[6G\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.034480,
+      "\u001b[17;23H\u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mpackager.pid\u001b[18;15H\u001b(B\u001b[0m\u001b[37m\u001b[41mpackager.log\u001b[6G\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.032954,
+      "\u001b[18;15H\u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mpackager.log\u001b[19;14H\u001b(B\u001b[0m\u001b[37m\u001b[41mpackager.log\u001b[6G\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.035764,
+      "\u001b[19;14H\u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mpackager.log\u001b[20;11H\u001b(B\u001b[0m\u001b[37m\u001b[41m./scripts/objc-test.sh\u001b[6G\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.073959,
+      "\u001b[39;49m\u001b[37m\u001b[40m\u001b[H\u001b[2J===  -    (npm start \u003e \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mpackager.log\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m 2\u003e\u00261 \u0026)\r\n\\-/  -    echo $! \u003e \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mpackager.pid\r\n\u001b[C\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m.   -\r\n .   -    xctool \\\r\n .   -\u001b[13G-project \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mExamples/UIExplorer/UIExplorer.xcodeproj\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m \\\r\n .   -\u001b[13G-scheme UIExplorer -sdk iphonesimulator8.1 \\\r\n .   -\u001b[13Gtest\r\n .   -\r\n .   -    pkill -9 -F \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mpackager.pid\r\n\u001b[C\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m.   -    cat \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mpackager.log\r\n\u001b[C\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m.   -    rm \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mpackager.log\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m packager.pid\r\n .   +    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40m./scripts/objc-test.sh\r\n\u001b[C\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m.\n\u0008.\u001b[9Gelif [ \"$TEST_TYPE\" = js ]\r\n .\u001b[9Gthen\r\n .   diff --git \u001b[37m\u001b[41ma/Examples/2048/2048/AppDelegate.m\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m b/Examples/2048/2048/AppDelegate.m\r\n .   index bc08903..004e854 100644\r\n .   --- \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40ma"
+    ],
+    [
+      0.000020,
+      "/Examples/2048/2048/AppDelegate.m\r\n\u001b[C\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m.   +++ \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mb/Examples/2048/2048/AppDelegate.m\r\n\u001b[C\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m.   @@ -22,24 +22,33 @@\r\n .    {\r\n .\u001b[9GNSURL *jsCodeLocation;\r\n .\n\u0008.   -  // Loading JavaScript code - uncomment the one you want.\r\n .   -\r\n .   -  // OPTION 1\r\n .   -  // Load from development server. Start the server from the repository root:\r\n .   -  //\r\n .   -  // $ npm start\r\n .   -  //\r\n .   -  // To run on device, change `localhost` to the IP address of your computer, and make sure your computer and\r\n .   ___________________________________________________________________________________________________________________\u001b[33;1H===  [f|A] selection, [down|j|up|k|space|b] navigation, [enter] open, [c] command mode\u001b[16;6H"
+    ],
+    [
+      0.000032,
+      "\u001b[16;17H\u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40ma/Examples/2048/2048/AppDelegate.m\u001b[18;10H\u001b(B\u001b[0m\u001b[37m\u001b[41ma/Examples/2048/2048/AppDelegate.m\u001b[6G\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.029587,
+      "--- \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40ma/Examples/2048/2048/AppDelegate.m\u001b[19;10H\u001b(B\u001b[0m\u001b[37m\u001b[41mb/Examples/2048/2048/AppDelegate.m\u001b[6G\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.654293,
+      "\u001b[A--- \u001b[37m\u001b[41ma/Examples/2048/2048/AppDelegate.m\u001b[19;10H\u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mb/Examples/2048/2048/AppDelegate.m\u001b[18;6H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.618816,
+      "\u001b[16;17H\u001b[37m\u001b[41ma/Examples/2048/2048/AppDelegate.m\u001b[18;10H\u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40ma/Examples/2048/2048/AppDelegate.m\u001b[16;6H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      1.855958,
+      "\u001b[16;17H\u001b[37m\u001b[42m|===\u003ea/Examples/2048/2048/AppDelegate.m\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m b/Examples\u001b[73G2048/AppDelegate.m\u001b[6G"
+    ],
+    [
+      0.708722,
+      "\u001b[16;17H\u001b[37m\u001b[44m|===\u003ea/Examples/2048/2048/AppDelegate.m\u001b[18;10H\u001b[37m\u001b[41ma/Examples/2048/2048/AppDelegate.m\u001b[6G\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.258864,
+      "--- \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40ma/Examples/2048/2048/AppDelegate.m\u001b[19;10H\u001b(B\u001b[0m\u001b[37m\u001b[41mb/Examples/2048/2048/AppDelegate.m\u001b[6G\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.248352,
+      "\u001b[39;49m\u001b[37m\u001b[40m\u001b[H\u001b[2J===  -  // iOS device are on the same Wi-Fi network.\r\n\\-/  +  /**\r\n .   +   * Loading JavaScript code - uncomment the one you want.\r\n .   +   *\r\n .   +   * OPTION 1\r\n .   +   * Load from development server. Start the server from the repository root:\r\n .   +   *\r\n .   +   * $ npm start\r\n .   +   *\r\n .   +   * To run on device, change `localhost` to the IP address of your computer\r\n .   +   * (you can get this by typing `ifconfig` into the terminal and selecting the\r\n .   +   * `inet` value under `en0:`) and make sure your computer and iOS device are\r\n .   +   * on the same Wi-Fi network.\r\n .   +   */\r\n .   +\r\n .\u001b[9GjsCodeLocation = [NSURL URLWithString:@\"http://localhost:\u001b[37m\u001b[41m8081/Examples/2048/Game2048.includeRequire.runModule.bu\u001b[17;2H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m.\n\u0008.   -  // OPTION 2\r\n .   -  // Load from pre-bundled file on disk. To re-generate the static bundle, run\r\n .   -  //\r\n .   -  // $ curl http://localhost:\u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40m8081/Examples/2048/Game2048.includeRequir"
+    ],
+    [
+      0.000019,
+      "e.runModule.bundle\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m -o main.jsbundle\r\n .   -  //\r\n .   -  // and uncomment the next following line\r\n .   -  // jsCodeLocation = [[NSBundle mainBundle] URLForResource:@\"main\" withExtension:@\"jsbundle\"];\r\n .   +  /**\r\n .   +   * OPTION 2\r\n .   +   * Load from pre-bundled file on disk. To re-generate the static bundle, `cd`\r\n .   +   * to your Xcode project folder in the terminal, and run\r\n .   +   *\r\n .   +   * $ curl 'http://localhost:\u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40m8081/Examples/2048/Game2048.includeRequire.runModule.bundle\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m' -o main.jsbundle\r\n .   +   *\r\n .   ___________________________________________________________________________________________________________________\u001b[33;1H===  [f|A] selection, [down|j|up|k|space|b] navigation, [enter] open, [c] command mode\u001b[16;6H"
+    ],
+    [
+      0.247931,
+      "\u001b[39;49m\u001b[37m\u001b[40m\u001b[H\u001b[2J===  +   * Load from development server. Start the server from the repository root:\r\n\\-/  +   *\r\n .   +   * $ npm start\r\n .   +   *\r\n .   +   * To run on device, change `localhost` to the IP address of your computer\r\n .   +   * (you can get this by typing `ifconfig` into the terminal and selecting the\r\n .   +   * `inet` value under `en0:`) and make sure your computer and iOS device are\r\n .   +   * on the same Wi-Fi network.\r\n .   +   */\r\n .   +\r\n .\u001b[9GjsCodeLocation = [NSURL URLWithString:@\"http://localhost:\u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40m8081/Examples/2048/Game2048.includeRequire.runModule.bu\u001b[12;2H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m.\n\u0008.   -  // OPTION 2\r\n .   -  // Load from pre-bundled file on disk. To re-generate the static bundle, run\r\n .   -  //\r\n .   -  // $ curl http://localhost:\u001b[37m\u001b[41m8081/Examples/2048/Game2048.includeRequire.runModule.bundle\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m -o main.jsbundle\r\n .   -  //\r\n .   -  // and uncomment the next following line\r\n .   -  // jsCodeLocation = [[NSBundle main"
+    ],
+    [
+      0.000011,
+      "Bundle] URLForResource:@\"main\" withExtension:@\"jsbundle\"];\r\n .   +  /**\r\n .   +   * OPTION 2\r\n .   +   * Load from pre-bundled file on disk. To re-generate the static bundle, `cd`\r\n .   +   * to your Xcode project folder in the terminal, and run\r\n .   +   *\r\n .   +   * $ curl 'http://localhost:\u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40m8081/Examples/2048/Game2048.includeRequire.runModule.bundle\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m' -o main.jsbundle\r\n .   +   *\r\n .   +   * then add the `main.jsbundle` file to your project and uncomment this line:\r\n .   +   */\r\n .   +\r\n .   +//  jsCodeLocation = [[NSBundle mainBundle] URLForResource:@\"main\" withExtension:@\"jsbundle\"];\r\n .\n\u0008.   ___________________________________________________________________________________________________________________\u001b[33;1H===  [f|A] selection, [down|j|up|k|space|b] navigation, [enter] open, [c] command mode\u001b[16;6H"
+    ],
+    [
+      0.039377,
+      "\u001b[39;49m\u001b[37m\u001b[40m\u001b[H\u001b[2J===  +\r\n\\-/     jsCodeLocation = [NSURL URLWithString:@\"http://localhost:\u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40m8081/Examples/2048/Game2048.includeRequire.runModule.bu\u001b[3;2H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m.\n\u0008.   -  // OPTION 2\r\n .   -  // Load from pre-bundled file on disk. To re-generate the static bundle, run\r\n .   -  //\r\n .   -  // $ curl http://localhost:\u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40m8081/Examples/2048/Game2048.includeRequire.runModule.bundle\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m -o main.jsbundle\r\n .   -  //\r\n .   -  // and uncomment the next following line\r\n .   -  // jsCodeLocation = [[NSBundle mainBundle] URLForResource:@\"main\" withExtension:@\"jsbundle\"];\r\n .   +  /**\r\n .   +   * OPTION 2\r\n .   +   * Load from pre-bundled file on disk. To re-generate the static bundle, `cd`\r\n .   +   * to your Xcode project folder in the terminal, and run\r\n .   +   *\r\n .   +   * $ curl 'http://localhost:\u001b[37m\u001b[41m8081/Examples/2048/Game2048.includeRequire.runModule.bundle\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m' -o main.jsbundle\r\n .   +   *\r\n .  "
+    ],
+    [
+      0.000071,
+      " +   * then add the `main.jsbundle` file to your project and uncomment this line:\r\n .   +   */\r\n .   +\r\n .   +//  jsCodeLocation = [[NSBundle mainBundle] URLForResource:@\"main\" withExtension:@\"jsbundle\"];\r\n .\n\u0008.\u001b[9GRCTRootView *rootView = [[RCTRootView alloc] initWithBundleURL:jsCodeLocation\r\n .\u001b[24;61HmoduleName:@\"Game2048\"\r\n .   diff --git \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40ma/Examples/Movies/Movies/AppDelegate.m\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m b/Examples/Movies/Movies/AppDelegate.m\r\n .   index b567227..74aed2c 100644\r\n .   --- \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40ma/Examples/Movies/Movies/AppDelegate.m\r\n\u001b[C\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m.   +++ \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mb/Examples/Movies/Movies/AppDelegate.m\r\n\u001b[C\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m.   @@ -23,24 +23,33 @@\r\n .    {\r\n .\u001b[9GNSURL *jsCodeLocation;\r\n .   ___________________________________________________________________________________________________________________\u001b[33;1H===  [f|A] selection, [down|j|up|k|space|b] navigation, [enter] open, [c] command mode\u001b[16;6H"
+    ],
+    [
+      0.039985,
+      "\u001b[39;49m\u001b[37m\u001b[40m\u001b[H\u001b[2J===  -  // jsCodeLocation = [[NSBundle mainBundle] URLForResource:@\"main\" withExtension:@\"jsbundle\"];\r\n\\-/  +  /**\r\n .   +   * OPTION 2\r\n .   +   * Load from pre-bundled file on disk. To re-generate the static bundle, `cd`\r\n .   +   * to your Xcode project folder in the terminal, and run\r\n .   +   *\r\n .   +   * $ curl 'http://localhost:\u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40m8081/Examples/2048/Game2048.includeRequire.runModule.bundle\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m' -o main.jsbundle\r\n .   +   *\r\n .   +   * then add the `main.jsbundle` file to your project and uncomment this line:\r\n .   +   */\r\n .   +\r\n .   +//  jsCodeLocation = [[NSBundle mainBundle] URLForResource:@\"main\" withExtension:@\"jsbundle\"];\r\n .\n\u0008.\u001b[9GRCTRootView *rootView = [[RCTRootView alloc] initWithBundleURL:jsCodeLocation\r\n .\u001b[15;61HmoduleName:@\"Game2048\"\r\n .   diff --git \u001b[37m\u001b[41ma/Examples/Movies/Movies/AppDelegate.m\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m b/Examples/Movies/Movies/AppDelegate.m\r\n .   index b567227..74aed2c 100644\r\n .   --- \u001b(B\u001b[0;4m\u001b[39"
+    ],
+    [
+      0.000023,
+      ";49m\u001b[37m\u001b[40ma/Examples/Movies/Movies/AppDelegate.m\r\n\u001b[C\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m.   +++ \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mb/Examples/Movies/Movies/AppDelegate.m\r\n\u001b[C\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m.   @@ -23,24 +23,33 @@\r\n .    {\r\n .\u001b[9GNSURL *jsCodeLocation;\r\n .\n\u0008.   -  // Loading JavaScript code - uncomment the one you want.\r\n .   +  /**\r\n .   +   * Loading JavaScript code - uncomment the one you want.\r\n .   +   *\r\n .   +   * OPTION 1\r\n .   +   * Load from development server. Start the server from the repository root:\r\n .   +   *\r\n .   +   * $ npm start\r\n .   ___________________________________________________________________________________________________________________\u001b[33;1H===  [f|A] selection, [down|j|up|k|space|b] navigation, [enter] open, [c] command mode\u001b[16;6H"
+    ],
+    [
+      0.039736,
+      "\u001b[39;49m\u001b[37m\u001b[40m\u001b[H\u001b[2J===  +   * OPTION 2\r\n\\-/  +   * Load from pre-bundled file on disk. To re-generate the static bundle, `cd`\r\n .   +   * to your Xcode project folder in the terminal, and run\r\n .   +   *\r\n .   +   * $ curl 'http://localhost:\u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40m8081/Examples/2048/Game2048.includeRequire.runModule.bundle\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m' -o main.jsbundle\r\n .   +   *\r\n .   +   * then add the `main.jsbundle` file to your project and uncomment this line:\r\n .   +   */\r\n .   +\r\n .   +//  jsCodeLocation = [[NSBundle mainBundle] URLForResource:@\"main\" withExtension:@\"jsbundle\"];\r\n .\n\u0008.\u001b[9GRCTRootView *rootView = [[RCTRootView alloc] initWithBundleURL:jsCodeLocation\r\n .\u001b[13;61HmoduleName:@\"Game2048\"\r\n .   diff --git \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40ma/Examples/Movies/Movies/AppDelegate.m\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m b/Examples/Movies/Movies/AppDelegate.m\r\n .   index b567227..74aed2c 100644\r\n .   --- \u001b[37m\u001b[41ma/Examples/Movies/Movies/AppDelegate.m\r\n\u001b[C\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m.   +++ \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.000021,
+      "b/Examples/Movies/Movies/AppDelegate.m\r\n\u001b[C\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m.   @@ -23,24 +23,33 @@\r\n .    {\r\n .\u001b[9GNSURL *jsCodeLocation;\r\n .\n\u0008.   -  // Loading JavaScript code - uncomment the one you want.\r\n .   +  /**\r\n .   +   * Loading JavaScript code - uncomment the one you want.\r\n .   +   *\r\n .   +   * OPTION 1\r\n .   +   * Load from development server. Start the server from the repository root:\r\n .   +   *\r\n .   +   * $ npm start\r\n .   +   *\r\n .   +   * To run on device, change `localhost` to the IP address of your computer\r\n .   ___________________________________________________________________________________________________________________\u001b[33;1H===  [f|A] selection, [down|j|up|k|space|b] navigation, [enter] open, [c] command mode\u001b[16;6H"
+    ],
+    [
+      0.039925,
+      "\u001b[39;49m\u001b[37m\u001b[40m\u001b[H\u001b[2J===  +   * Load from pre-bundled file on disk. To re-generate the static bundle, `cd`\r\n\\-/  +   * to your Xcode project folder in the terminal, and run\r\n .   +   *\r\n .   +   * $ curl 'http://localhost:\u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40m8081/Examples/2048/Game2048.includeRequire.runModule.bundle\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m' -o main.jsbundle\r\n .   +   *\r\n .   +   * then add the `main.jsbundle` file to your project and uncomment this line:\r\n .   +   */\r\n .   +\r\n .   +//  jsCodeLocation = [[NSBundle mainBundle] URLForResource:@\"main\" withExtension:@\"jsbundle\"];\r\n .\n\u0008.\u001b[9GRCTRootView *rootView = [[RCTRootView alloc] initWithBundleURL:jsCodeLocation\r\n .\u001b[12;61HmoduleName:@\"Game2048\"\r\n .   diff --git \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40ma/Examples/Movies/Movies/AppDelegate.m\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m b/Examples/Movies/Movies/AppDelegate.m\r\n .   index b567227..74aed2c 100644\r\n .   --- \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40ma/Examples/Movies/Movies/AppDelegate.m\r\n\u001b[C\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m.   +++ \u001b[37m\u001b[41mb/Examples/Movies/Mov"
+    ],
+    [
+      0.000012,
+      "ies/AppDelegate.m\r\n\u001b[C\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m.   @@ -23,24 +23,33 @@\r\n .    {\r\n .\u001b[9GNSURL *jsCodeLocation;\r\n .\n\u0008.   -  // Loading JavaScript code - uncomment the one you want.\r\n .   +  /**\r\n .   +   * Loading JavaScript code - uncomment the one you want.\r\n .   +   *\r\n .   +   * OPTION 1\r\n .   +   * Load from development server. Start the server from the repository root:\r\n .   +   *\r\n .   +   * $ npm start\r\n .   +   *\r\n .   +   * To run on device, change `localhost` to the IP address of your computer\r\n .   +   * (you can get this by typing `ifconfig` into the terminal and selecting the\r\n .   ___________________________________________________________________________________________________________________\u001b[33;1H===  [f|A] selection, [down|j|up|k|space|b] navigation, [enter] open, [c] command mode\u001b[16;6H"
+    ],
+    [
+      0.039693,
+      "\u001b[39;49m\u001b[37m\u001b[40m\u001b[H\u001b[2J===  +   * $ npm start\r\n\\-/  +   *\r\n .   +   * To run on device, change `localhost` to the IP address of your computer\r\n .   +   * (you can get this by typing `ifconfig` into the terminal and selecting the\r\n .   +   * `inet` value under `en0:`) and make sure your computer and iOS device are\r\n .   +   * on the same Wi-Fi network.\r\n .   +   */\r\n .\n\u0008.   -  // OPTION 1\r\n .   -  // Load from development server. Start the server from the repository root:\r\n .   -  //\r\n .   -  // $ npm start\r\n .   -  //\r\n .   -  // To run on device, change `localhost` to the IP address of your computer, and make sure your computer and\r\n .   -  // iOS device are on the same Wi-Fi network.\r\n .\u001b[9GjsCodeLocation = [NSURL URLWithString:@\"http://localhost:\u001b[37m\u001b[41m8081/Examples/Movies/MoviesApp.includeRequire.runModule\u001b[17;2H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m.\n\u0008.   -  // OPTION 2\r\n .   -  // Load from pre-bundled file on disk. To re-generate the static bundle, run\r\n .   -  //\r\n .   -  // $ curl http://localhost:\u001b(B\u001b[0;4m\u001b["
+    ],
+    [
+      0.000011,
+      "39;49m\u001b[37m\u001b[40m8081/Examples/Movies/MoviesApp.includeRequire.runModule.bundle\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m -o main.jsbundle\r\n .   -  //\r\n .   -  // and uncomment the next following line\r\n .   -  // jsCodeLocation = [[NSBundle mainBundle] URLForResource:@\"main\" withExtension:@\"jsbundle\"];\r\n .   +  /**\r\n .   +   * OPTION 2\r\n .   +   * Load from pre-bundled file on disk. To re-generate the static bundle, `cd`\r\n .   +   * to your Xcode project folder in the terminal, and run\r\n .   +   *\r\n .   +   * $ curl 'http://localhost:\u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40m8081/Examples/Movies/MoviesApp.includeRequire.runModule.bundle\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m' -o main.jsbundle\r\n .   +   *\r\n .   ___________________________________________________________________________________________________________________\u001b[33;1H===  [f|A] selection, [down|j|up|k|space|b] navigation, [enter] open, [c] command mode\u001b[16;6H"
+    ],
+    [
+      0.037546,
+      "\u001b[39;49m\u001b[37m\u001b[40m\u001b[H\u001b[2J===  +   * on the same Wi-Fi network.\r\n\\-/  +   */\r\n .\n\u0008.   -  // OPTION 1\r\n .   -  // Load from development server. Start the server from the repository root:\r\n .   -  //\r\n .   -  // $ npm start\r\n .   -  //\r\n .   -  // To run on device, change `localhost` to the IP address of your computer, and make sure your computer and\r\n .   -  // iOS device are on the same Wi-Fi network.\r\n .\u001b[9GjsCodeLocation = [NSURL URLWithString:@\"http://localhost:\u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40m8081/Examples/Movies/MoviesApp.includeRequire.runModule\u001b[12;2H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m.\n\u0008.   -  // OPTION 2\r\n .   -  // Load from pre-bundled file on disk. To re-generate the static bundle, run\r\n .   -  //\r\n .   -  // $ curl http://localhost:\u001b[37m\u001b[41m8081/Examples/Movies/MoviesApp.includeRequire.runModule.bundle\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m -o main.jsbundle\r\n .   -  //\r\n .   -  // and uncomment the next following line\r\n .   -  // jsCodeLocation = [[NSBundle mainBundle] URLForResource:@\"main\" withExtension:@\"jsbundle\"];\r\n .   + "
+    ],
+    [
+      0.000011,
+      " /**\r\n .   +   * OPTION 2\r\n .   +   * Load from pre-bundled file on disk. To re-generate the static bundle, `cd`\r\n .   +   * to your Xcode project folder in the terminal, and run\r\n .   +   *\r\n .   +   * $ curl 'http://localhost:\u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40m8081/Examples/Movies/MoviesApp.includeRequire.runModule.bundle\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m' -o main.jsbundle\r\n .   +   *\r\n .   +   * then add the `main.jsbundle` file to your project and uncomment this line:\r\n .   +   */\r\n .   +\r\n .   +//  jsCodeLocation = [[NSBundle mainBundle] URLForResource:@\"main\" withExtension:@\"jsbundle\"];\r\n .\n\u0008.   ___________________________________________________________________________________________________________________\u001b[33;1H===  [f|A] selection, [down|j|up|k|space|b] navigation, [enter] open, [c] command mode\u001b[16;6H"
+    ],
+    [
+      1.728265,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000028,
+      "\u001b[39;49m\r\u001b[33d\u001b[K\u001b[33;1H\u001b[?1049l\r\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.014423,
+      "nothing to do!\r\n"
+    ],
+    [
+      0.000432,
+      "bash-3.2$ "
+    ],
+    [
+      1.540252,
+      "git diff HEAD~10 | fpp"
+    ],
+    [
+      0.359765,
+      "\u0008"
+    ],
+    [
+      0.157455,
+      "\u0008"
+    ],
+    [
+      0.246987,
+      "\u0008"
+    ],
+    [
+      0.158003,
+      "\u0008"
+    ],
+    [
+      0.180045,
+      "\u0008"
+    ],
+    [
+      0.213694,
+      "\u001b[1@-"
+    ],
+    [
+      0.731443,
+      "\u001b[1@-"
+    ],
+    [
+      0.202479,
+      "\u001b[1@s"
+    ],
+    [
+      0.157342,
+      "\u001b[1@t"
+    ],
+    [
+      0.101581,
+      "\u001b[1@a"
+    ],
+    [
+      0.202368,
+      "\u001b[1@t"
+    ],
+    [
+      0.134839,
+      "\u001b[1@ "
+    ],
+    [
+      0.281234,
+      "\r\n"
+    ],
+    [
+      0.104990,
+      "\u001b[?1049h\u001b[1;33r\u001b(B\u001b[m\u001b[4l\u001b[?7h\u001b[?1h\u001b="
+    ],
+    [
+      0.015416,
+      "\u001b[39;49m\u001b[39;49m\u001b[37m\u001b[40m\u001b[H\u001b[2J===   .\u001b[37m\u001b[41mtravis.yml\u001b[1;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|  12 +-\r\n/-\\   \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mExamples/2048/2048/AppDelegate.m\u001b[2;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|  41 +-\r\n|-|   \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mExamples/Movies/Movies/AppDelegate.m\u001b[3;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|  39 +-\r\n|-|   \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mExamples/SampleApp/iOS/AppDelegate.m\u001b[4;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|  42 +-\r\n|-|   \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mExamples/SampleApp/iOS/main.jsbundle\u001b[5;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|   7 +-\r\n|-|   \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mExamples/TicTacToe/TicTacToe/AppDelegate.m\u001b[6;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|  41 +-\r\n|-|   \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mExamples/UIExplorer/Navigator/NavigatorExample.js\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m  |   2 +\r\n\\-/   \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mExamples/UIExplorer/NavigatorIOSColorsExample.js\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m   |  90 +++++\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mExamples/UIExplorer/NetInfoExample.js\u001b[9;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|   4 +-\r\n .    \u001b(B\u001b[0;4m\u001b[39;49"
+    ],
+    [
+      0.000094,
+      "m\u001b[37m\u001b[40mExamples/UIExplorer/UIExplorer/AppDelegate.m\u001b[58G\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|  41 +-\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mExamples/UIExplorer/UIExplorerList.js\u001b[11;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|  10 +-\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40m.../testTabBarExampleSnapshot_1\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m@2x.png\u001b[12;58H| Bin 28887 -\u003e 27640 bytes\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40m.../UIExplorer/UIExplorerTests/UIExplorerTests.m\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m   |  12 +-\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40m.../RCTActionSheet.xcodeproj/project.pbxproj\u001b[58G\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|   4 +\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/ActionSheetIOS/RCTActionSheetManager.m\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m   | 125 +++---\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40m.../RCTAdSupport.xcodeproj/project.pbxproj\u001b[16;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|   3 +\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/Animation/AnimationUtils.js\u001b[17;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|   3 +\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40m.../Animation/RCTAnimationExperimentalManager.m\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m "
+    ],
+    [
+      0.000011,
+      "   |   9 +-\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40m.../__mocks__/NativeModules.js\u001b[19;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|  44 +++\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40m.../ActivityIndicatorIOS.ios.js\u001b[20;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|  26 +-\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40m.../Components/DatePicker/DatePickerIOS.ios.js\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m     |  19 +-\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/Components/MapView/MapView.js\u001b[22;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|  68 ++--\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40m.../Components/Navigation/NavigatorIOS.ios.js\u001b[58G\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|  14 +-\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/Components/ScrollView/ScrollView.js\u001b[58G\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|   4 -\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/Components/Slider"
+    ],
+    [
+      0.000049,
+      "IOS/SliderIOS.js\u001b[25;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|  35 +-\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/Components/SwitchIOS/SwitchIOS.ios.js\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m    |  27 +-\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/Components/TabBarIOS/TabBarIOS.ios.js\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m    |   9 +-\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40m.../Components/TabBarIOS/TabBarItemIOS.ios.js\u001b[58G\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|  17 +-\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/Components/TextInput/TextInput.js\u001b[29;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|   3 +\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/Components/View/View.js\u001b[30;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|  30 +-\r\n .\n\u0008.   ___________________________________________________________________________________________________________________\u001b[33;1H===  [f|A] selection, [down|j|up|k|space|b] navigation, [enter] open, [c] command mode\u001b[1;6H"
+    ],
+    [
+      7.698342,
+      " .\u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mtravis.yml\n\u001b[7G\u001b(B\u001b[0m\u001b[37m\u001b[41mExamples/2048/2048/AppDelegate.m\u001b[6G\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.253205,
+      " \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mExamples/2048/2048/AppDelegate.m\n\u001b[7G\u001b(B\u001b[0m\u001b[37m\u001b[41mExamples/Movies/Movies/AppDelegate.m\u001b[6G\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.034428,
+      " \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mExamples/Movies/Movies/AppDelegate.m\n\u001b[7G\u001b(B\u001b[0m\u001b[37m\u001b[41mExamples/SampleApp/iOS/AppDelegate.m\u001b[6G\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.034517,
+      " \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mExamples/SampleApp/iOS/AppDelegate.m\n\u001b[7G\u001b(B\u001b[0m\u001b[37m\u001b[41mExamples/SampleApp/iOS/main.jsbundle\u001b[6G\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.034424,
+      " \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mExamples/SampleApp/iOS/main.jsbundle\n\u001b[7G\u001b(B\u001b[0m\u001b[37m\u001b[41mExamples/TicTacToe/TicTacToe/AppDelegate.m\u001b[6G\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.034483,
+      " \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mExamples/TicTacToe/TicTacToe/AppDelegate.m\n\u001b[7G\u001b(B\u001b[0m\u001b[37m\u001b[41mExamples/UIExplorer/Navigator/NavigatorExample.js\u001b[6G\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.034394,
+      " \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mExamples/UIExplorer/Navigator/NavigatorExample.js\n\u001b[7G\u001b(B\u001b[0m\u001b[37m\u001b[41mExamples/UIExplorer/NavigatorIOSColorsExample.js\u001b[6G\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.034689,
+      " \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mExamples/UIExplorer/NavigatorIOSColorsExample.js\n\u001b[7G\u001b(B\u001b[0m\u001b[37m\u001b[41mExamples/UIExplorer/NetInfoExample.js\u001b[6G\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      1.373506,
+      " \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mExamples/UIExplorer/NetInfoExample.js\n\u001b[7G\u001b(B\u001b[0m\u001b[37m\u001b[41mExamples/UIExplorer/UIExplorer/AppDelegate.m\u001b[6G\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.253244,
+      " \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mExamples/UIExplorer/UIExplorer/AppDelegate.m\n\u001b[7G\u001b(B\u001b[0m\u001b[37m\u001b[41mExamples/UIExplorer/UIExplorerList.js\u001b[6G\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.034335,
+      " \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mExamples/UIExplorer/UIExplorerList.js\n\u001b[7G\u001b(B\u001b[0m\u001b[37m\u001b[41m.../testTabBarExampleSnapshot_1\u001b[6G\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.034388,
+      " \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40m.../testTabBarExampleSnapshot_1\n\u001b[7G\u001b(B\u001b[0m\u001b[37m\u001b[41m.../UIExplorer/UIExplorerTests/UIExplorerTests.m\u001b[6G\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.034679,
+      " \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40m.../UIExplorer/UIExplorerTests/UIExplorerTests.m\n\u001b[7G\u001b(B\u001b[0m\u001b[37m\u001b[41m.../RCTActionSheet.xcodeproj/project.pbxproj\u001b[6G\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.034183,
+      " \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40m.../RCTActionSheet.xcodeproj/project.pbxproj\n\u001b[7G\u001b(B\u001b[0m\u001b[37m\u001b[41mLibraries/ActionSheetIOS/RCTActionSheetManager.m\u001b[6G\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.340331,
+      " \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/ActionSheetIOS/RCTActionSheetManager.m\n\u001b[7G\u001b(B\u001b[0m\u001b[37m\u001b[41m.../RCTAdSupport.xcodeproj/project.pbxproj\u001b[6G\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.252271,
+      " \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40m.../RCTAdSupport.xcodeproj/project.pbxproj\n\u001b[7G\u001b(B\u001b[0m\u001b[37m\u001b[41mLibraries/Animation/AnimationUtils.js\u001b[6G\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.033787,
+      " \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/Animation/AnimationUtils.js\n\u001b[7G\u001b(B\u001b[0m\u001b[37m\u001b[41m.../Animation/RCTAnimationExperimentalManager.m\u001b[6G\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.034918,
+      " \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40m.../Animation/RCTAnimationExperimentalManager.m\n\u001b[7G\u001b(B\u001b[0m\u001b[37m\u001b[41m.../__mocks__/NativeModules.js\u001b[6G\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.034461,
+      " \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40m.../__mocks__/NativeModules.js\n\u001b[7G\u001b(B\u001b[0m\u001b[37m\u001b[41m.../ActivityIndicatorIOS.ios.js\u001b[6G\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.034519,
+      " \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40m.../ActivityIndicatorIOS.ios.js\n\u001b[7G\u001b(B\u001b[0m\u001b[37m\u001b[41m.../Components/DatePicker/DatePickerIOS.ios.js\u001b[6G\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.034459,
+      " \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40m.../Components/DatePicker/DatePickerIOS.ios.js\n\u001b[7G\u001b(B\u001b[0m\u001b[37m\u001b[41mLibraries/Components/MapView/MapView.js\u001b[6G\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.034415,
+      " \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/Components/MapView/MapView.js\n\u001b[7G\u001b(B\u001b[0m\u001b[37m\u001b[41m.../Components/Navigation/NavigatorIOS.ios.js\u001b[6G\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.036319,
+      "\u001b[39;49m\u001b[37m\u001b[40m\u001b[H\u001b[2J===   \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mExamples/UIExplorer/NetInfoExample.js\u001b[1;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|   4 +-\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mExamples/UIExplorer/UIExplorer/AppDelegate.m\u001b[58G\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|  41 +-\r\n/-\\   \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mExamples/UIExplorer/UIExplorerList.js\u001b[3;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|  10 +-\r\n|-|   \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40m.../testTabBarExampleSnapshot_1\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m@2x.png\u001b[4;58H| Bin 28887 -\u003e 27640 bytes\r\n|-|   \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40m.../UIExplorer/UIExplorerTests/UIExplorerTests.m\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m   |  12 +-\r\n|-|   \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40m.../RCTActionSheet.xcodeproj/project.pbxproj\u001b[58G\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|   4 +\r\n|-|   \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/ActionSheetIOS/RCTActionSheetManager.m\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m   | 125 +++---\r\n|-|   \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40m.../RCTAdSupport.xcodeproj/project.pbxproj\u001b[8;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|   3 +\r\n\\-/   \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/Animation/Animatio"
+    ],
+    [
+      0.000116,
+      "nUtils.js\u001b[9;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|   3 +\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40m.../Animation/RCTAnimationExperimentalManager.m\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m    |   9 +-\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40m.../__mocks__/NativeModules.js\u001b[11;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|  44 +++\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40m.../ActivityIndicatorIOS.ios.js\u001b[12;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|  26 +-\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40m.../Components/DatePicker/DatePickerIOS.ios.js\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m     |  19 +-\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/Components/MapView/MapView.js\u001b[14;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|  68 ++--\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40m.../Components/Navigation/NavigatorIOS.ios.js\u001b[58G\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|  14 +-\r\n .    \u001b[37m\u001b[41mLibraries/Components/ScrollView/ScrollView.js\u001b[58G\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|   4 -\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/Components/SliderIOS/SliderIOS.js\u001b[17;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|  35 +-\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/Components/SwitchIOS/SwitchIOS.ios"
+    ],
+    [
+      0.000020,
+      ".js\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m    |  27 +-\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/Components/TabBarIOS/TabBarIOS.ios.js\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m    |   9 +-\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40m.../Components/TabBarIOS/TabBarItemIOS.ios.js\u001b[58G\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|  17 +-\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/Components/TextInput/TextInput.js\u001b[21;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|   3 +\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/Components/View/View.js\u001b[22;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|  30 +-\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/Components/View/ViewStylePropTypes.js\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m    |   3 +\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/Components/WebView/WebView.ios.js\u001b[24;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|  27 +-\r\n .    \u001b(B\u001b[0;4m\u001b"
+    ],
+    [
+      0.000061,
+      "[39;49m\u001b[37m\u001b[40mLibraries/CustomComponents/Navigator/Navigator.js\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m  | 120 ++++--\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40m.../Navigator/NavigatorBreadcrumbNavigationBar.js\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m  |  33 +-\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40m.../NavigatorBreadcrumbNavigationBarStyles.ios.js\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m  |   9 +-\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40m.../Navigator/NavigatorNavigationBar.js\u001b[28;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|   2 +-\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40m.../Navigator/NavigatorNavigationBarStyles.ios.js\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m  |   1 -\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/Geolocation/Geolocation.ios.js\u001b[30;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m| 111 ------\r\n .\n\u0008.   ___________________________________________________________________________________________________________________\u001b[33;1H===  [f|A] selection, [down|j|up|k|space|b] navigation, [enter] open, [c] command mode\u001b[16;6H"
+    ],
+    [
+      0.032542,
+      " \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/Components/ScrollView/ScrollView.js\n\u001b[7G\u001b(B\u001b[0m\u001b[37m\u001b[41mLibraries/Components/SliderIOS/SliderIOS.js\u001b[6G\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.203552,
+      " \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/Components/SliderIOS/SliderIOS.js\n\u001b[7G\u001b(B\u001b[0m\u001b[37m\u001b[41mLibraries/Components/SwitchIOS/SwitchIOS.ios.js\u001b[6G\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.292451,
+      " \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/Components/SwitchIOS/SwitchIOS.ios.js\n\u001b[7G\u001b(B\u001b[0m\u001b[37m\u001b[41mLibraries/Components/TabBarIOS/TabBarIOS.ios.js\u001b[6G\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.253372,
+      " \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/Components/TabBarIOS/TabBarIOS.ios.js\n\u001b[7G\u001b(B\u001b[0m\u001b[37m\u001b[41m.../Components/TabBarIOS/TabBarItemIOS.ios.js\u001b[6G\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.034290,
+      " \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40m.../Components/TabBarIOS/TabBarItemIOS.ios.js\n\u001b[7G\u001b(B\u001b[0m\u001b[37m\u001b[41mLibraries/Components/TextInput/TextInput.js\u001b[6G\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.034587,
+      " \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/Components/TextInput/TextInput.js\n\u001b[7G\u001b(B\u001b[0m\u001b[37m\u001b[41mLibraries/Components/View/View.js\u001b[6G\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.033314,
+      " \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/Components/View/View.js\n\u001b[7G\u001b(B\u001b[0m\u001b[37m\u001b[41mLibraries/Components/View/ViewStylePropTypes.js\u001b[6G\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.035967,
+      "\u001b[39;49m\u001b[37m\u001b[40m\u001b[H\u001b[2J===   \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/Animation/AnimationUtils.js\u001b[1;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|   3 +\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40m.../Animation/RCTAnimationExperimentalManager.m\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m    |   9 +-\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40m.../__mocks__/NativeModules.js\u001b[3;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|  44 +++\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40m.../ActivityIndicatorIOS.ios.js\u001b[4;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|  26 +-\r\n/-\\   \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40m.../Components/DatePicker/DatePickerIOS.ios.js\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m     |  19 +-\r\n|-|   \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/Components/MapView/MapView.js\u001b[6;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|  68 ++--\r\n|-|   \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40m.../Components/Navigation/NavigatorIOS.ios.js\u001b[58G\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|  14 +-\r\n|-|   \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/Components/ScrollView/ScrollView.js\u001b[58G\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|   4 -\r\n|-|   \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/Components/SliderIOS/SliderIOS.js\u001b[9;58H\u001b(B\u001b[m\u001b[39;4"
+    ],
+    [
+      0.000108,
+      "9m\u001b[37m\u001b[40m|  35 +-\r\n|-|   \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/Components/SwitchIOS/SwitchIOS.ios.js\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m    |  27 +-\r\n\\-/   \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/Components/TabBarIOS/TabBarIOS.ios.js\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m    |   9 +-\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40m.../Components/TabBarIOS/TabBarItemIOS.ios.js\u001b[58G\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|  17 +-\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/Components/TextInput/TextInput.js\u001b[13;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|   3 +\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/Components/View/View.js\u001b[14;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|  30 +-\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/Components/View/ViewStylePropTypes.js\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m    |   3 +\r\n .    \u001b[37m\u001b[41mLibraries/Components/WebView/WebView.ios.js\u001b[16;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|  27 +-\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/CustomComponents/Navigator/Navigator.js\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m  | 120 ++++--\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40m.../Navigator/NavigatorBreadcrumbNavigationBar.js\u001b("
+    ],
+    [
+      0.000015,
+      "B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m  |  33 +-\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40m.../NavigatorBreadcrumbNavigationBarStyles.ios.js\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m  |   9 +-\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40m.../Navigator/NavigatorNavigationBar.js\u001b[20;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|   2 +-\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40m.../Navigator/NavigatorNavigationBarStyles.ios.js\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m  |   1 -\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/Geolocation/Geolocation.ios.js\u001b[22;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m| 111 ------\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/Geolocation/Geolocation.js\u001b[23;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m| 111 ++++++\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40m.../RCTGeolocation.xcodeproj/project.pbxproj\u001b[58G\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|   3 +\r\n .    \u001b(B\u001b[0;4m\u001b[39;"
+    ],
+    [
+      0.000068,
+      "49m\u001b[37m\u001b[40mLibraries/Geolocation/RCTLocationObserver.m\u001b[25;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m| 130 +++----\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/Image/Image.ios.js\u001b[26;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|  54 +--\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/Image/ImageResizeMode.js\u001b[27;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|   4 +-\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/Image/RCTGIFImage.m\u001b[28;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|   1 -\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/Image/RCTImage.xcodeproj/project.pbxproj\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m |   4 +\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40m.../Image/__tests__/resolveAssetSource-test.js\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m     | 135 +++++++\r\n .\n\u0008.   ___________________________________________________________________________________________________________________\u001b[33;1H===  [f|A] selection, [down|j|up|k|space|b] navigation, [enter] open, [c] command mode\u001b[16;6H"
+    ],
+    [
+      0.032164,
+      " \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/Components/WebView/WebView.ios.js\n\u001b[7G\u001b(B\u001b[0m\u001b[37m\u001b[41mLibraries/CustomComponents/Navigator/Navigator.js\u001b[6G\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.034062,
+      " \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/CustomComponents/Navigator/Navigator.js\n\u001b[7G\u001b(B\u001b[0m\u001b[37m\u001b[41m.../Navigator/NavigatorBreadcrumbNavigationBar.js\u001b[6G\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.034726,
+      " \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40m.../Navigator/NavigatorBreadcrumbNavigationBar.js\n\u001b[7G\u001b(B\u001b[0m\u001b[37m\u001b[41m.../NavigatorBreadcrumbNavigationBarStyles.ios.js\u001b[6G\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.034500,
+      " \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40m.../NavigatorBreadcrumbNavigationBarStyles.ios.js\n\u001b[7G\u001b(B\u001b[0m\u001b[37m\u001b[41m.../Navigator/NavigatorNavigationBar.js\u001b[6G\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.034466,
+      " \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40m.../Navigator/NavigatorNavigationBar.js\n\u001b[7G\u001b(B\u001b[0m\u001b[37m\u001b[41m.../Navigator/NavigatorNavigationBarStyles.ios.js\u001b[6G\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.034008,
+      " \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40m.../Navigator/NavigatorNavigationBarStyles.ios.js\n\u001b[7G\u001b(B\u001b[0m\u001b[37m\u001b[41mLibraries/Geolocation/Geolocation.ios.js\u001b[6G\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.033658,
+      " \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/Geolocation/Geolocation.ios.js\n\u001b[7G\u001b(B\u001b[0m\u001b[37m\u001b[41mLibraries/Geolocation/Geolocation.js\u001b[6G\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.034669,
+      "\u001b[39;49m\u001b[37m\u001b[40m\u001b[H\u001b[2J===   \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/Components/SliderIOS/SliderIOS.js\u001b[1;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|  35 +-\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/Components/SwitchIOS/SwitchIOS.ios.js\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m    |  27 +-\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/Components/TabBarIOS/TabBarIOS.ios.js\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m    |   9 +-\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40m.../Components/TabBarIOS/TabBarItemIOS.ios.js\u001b[58G\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|  17 +-\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/Components/TextInput/TextInput.js\u001b[5;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|   3 +\r\n/-\\   \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/Components/View/View.js\u001b[6;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|  30 +-\r\n|-|   \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/Components/View/ViewStylePropTypes.js\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m    |   3 +\r\n|-|   \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/Components/WebView/WebView.ios.js\u001b[8;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|  27 +-\r\n|-|   \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/CustomComponents/Navigator/Na"
+    ],
+    [
+      0.000128,
+      "vigator.js\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m  | 120 ++++--\r\n|-|   \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40m.../Navigator/NavigatorBreadcrumbNavigationBar.js\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m  |  33 +-\r\n|-|   \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40m.../NavigatorBreadcrumbNavigationBarStyles.ios.js\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m  |   9 +-\r\n\\-/   \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40m.../Navigator/NavigatorNavigationBar.js\u001b[12;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|   2 +-\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40m.../Navigator/NavigatorNavigationBarStyles.ios.js\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m  |   1 -\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/Geolocation/Geolocation.ios.js\u001b[14;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m| 111 ------\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/Geolocation/Geolocation.js\u001b[15;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m| 111 ++++++\r\n .    \u001b[37m\u001b[41m.../RCTGeolocation.xcodeproj/project.pbxproj\u001b[58G\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|   3 +\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/Geolocation/RCTLocationObserver.m\u001b[17;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m| 130 +++----\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/Image/Ima"
+    ],
+    [
+      0.000015,
+      "ge.ios.js\u001b[18;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|  54 +--\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/Image/ImageResizeMode.js\u001b[19;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|   4 +-\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/Image/RCTGIFImage.m\u001b[20;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|   1 -\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/Image/RCTImage.xcodeproj/project.pbxproj\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m |   4 +\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40m.../Image/__tests__/resolveAssetSource-test.js\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m     | 135 +++++++\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/Image/resolveAssetSource.js\u001b[23;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m| 101 +++++\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40m.../Initialization/ExceptionsManager.js\u001b[24;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|   2 +-\r\n .    \u001b(B\u001b[0;4m\u001b[39"
+    ],
+    [
+      0.000044,
+      ";49m\u001b[37m\u001b[40m.../Initialization/loadSourceMap.js\u001b[25;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|   8 +-\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/LinkingIOS/RCTLinkingManager.h\u001b[26;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|   2 +-\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/LinkingIOS/RCTLinkingManager.m\u001b[27;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|   7 +\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/Network/NetInfo.js\u001b[28;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|   4 +-\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40m.../Network/RCTNetwork.xcodeproj/project.pbxproj\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m   |   3 +\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/Network/RCTReachability.m\u001b[30;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|   6 +-\r\n .\n\u0008.   ___________________________________________________________________________________________________________________\u001b[33;1H===  [f|A] selection, [down|j|up|k|space|b] navigation, [enter] open, [c] command mode\u001b[16;6H"
+    ],
+    [
+      0.033434,
+      " \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40m.../RCTGeolocation.xcodeproj/project.pbxproj\n\u001b[7G\u001b(B\u001b[0m\u001b[37m\u001b[41mLibraries/Geolocation/RCTLocationObserver.m\u001b[6G\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.034469,
+      " \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/Geolocation/RCTLocationObserver.m\n\u001b[7G\u001b(B\u001b[0m\u001b[37m\u001b[41mLibraries/Image/Image.ios.js\u001b[6G\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.034539,
+      " \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/Image/Image.ios.js\n\u001b[7G\u001b(B\u001b[0m\u001b[37m\u001b[41mLibraries/Image/ImageResizeMode.js\u001b[6G\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.033547,
+      " \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/Image/ImageResizeMode.js\n\u001b[7G\u001b(B\u001b[0m\u001b[37m\u001b[41mLibraries/Image/RCTGIFImage.m\u001b[6G\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.033537,
+      " \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/Image/RCTGIFImage.m\n\u001b[7G\u001b(B\u001b[0m\u001b[37m\u001b[41mLibraries/Image/RCTImage.xcodeproj/project.pbxproj\u001b[6G\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.034660,
+      " \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/Image/RCTImage.xcodeproj/project.pbxproj\n\u001b[7G\u001b(B\u001b[0m\u001b[37m\u001b[41m.../Image/__tests__/resolveAssetSource-test.js\u001b[6G\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.034503,
+      " \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40m.../Image/__tests__/resolveAssetSource-test.js\n\u001b[7G\u001b(B\u001b[0m\u001b[37m\u001b[41mLibraries/Image/resolveAssetSource.js\u001b[6G\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.035477,
+      "\u001b[39;49m\u001b[37m\u001b[40m\u001b[H\u001b[2J===   \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/CustomComponents/Navigator/Navigator.js\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m  | 120 ++++--\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40m.../Navigator/NavigatorBreadcrumbNavigationBar.js\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m  |  33 +-\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40m.../NavigatorBreadcrumbNavigationBarStyles.ios.js\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m  |   9 +-\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40m.../Navigator/NavigatorNavigationBar.js\u001b[4;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|   2 +-\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40m.../Navigator/NavigatorNavigationBarStyles.ios.js\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m  |   1 -\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/Geolocation/Geolocation.ios.js\u001b[6;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m| 111 ------\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/Geolocation/Geolocation.js\u001b[7;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m| 111 ++++++\r\n/-\\   \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40m.../RCTGeolocation.xcodeproj/project.pbxproj\u001b[58G\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|   3 +\r\n|-|   \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/Geolocation/RCTLocati"
+    ],
+    [
+      0.000101,
+      "onObserver.m\u001b[9;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m| 130 +++----\r\n|-|   \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/Image/Image.ios.js\u001b[10;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|  54 +--\r\n|-|   \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/Image/ImageResizeMode.js\u001b[11;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|   4 +-\r\n|-|   \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/Image/RCTGIFImage.m\u001b[12;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|   1 -\r\n|-|   \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/Image/RCTImage.xcodeproj/project.pbxproj\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m |   4 +\r\n\\-/   \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40m.../Image/__tests__/resolveAssetSource-test.js\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m     | 135 +++++++\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/Image/resolveAssetSource.js\u001b[15;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m| 101 +++++\r\n .    \u001b[37m\u001b[41m.../Initialization/ExceptionsManager.js\u001b[16;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|   2 +-\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40m.../Initialization/loadSourceMap.js\u001b[17;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|   8 +-\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/LinkingIOS/RCTLinkingManager.h\u001b[18;58H\u001b(B\u001b[m\u001b"
+    ],
+    [
+      0.000027,
+      "[39;49m\u001b[37m\u001b[40m|   2 +-\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/LinkingIOS/RCTLinkingManager.m\u001b[19;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|   7 +\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/Network/NetInfo.js\u001b[20;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|   4 +-\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40m.../Network/RCTNetwork.xcodeproj/project.pbxproj\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m   |   3 +\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/Network/RCTReachability.m\u001b[22;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|   6 +-\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/Network/XMLHttpRequestBase.js\u001b[23;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|  20 +-\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40m.../RCTPushNotification.xcodeproj/project.pbxproj\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m  |   3 +\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40m.../RCTPushNotifi"
+    ],
+    [
+      0.000065,
+      "cationManager.h\u001b[25;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|   2 +-\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40m.../RCTPushNotificationManager.m\u001b[26;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|   2 +-\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40m.../RCTTest/RCTTest.xcodeproj/project.pbxproj\u001b[58G\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|   3 +\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/RCTTest/RCTTestModule.h\u001b[28;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|  23 +-\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/RCTTest/RCTTestModule.m\u001b[29;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|  41 +-\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/RCTTest/RCTTestRunner.m\u001b[30;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|  47 ++-\r\n .\n\u0008.   ___________________________________________________________________________________________________________________\u001b[33;1H===  [f|A] selection, [down|j|up|k|space|b] navigation, [enter] open, [c] command mode\u001b[16;6H"
+    ],
+    [
+      0.032297,
+      " \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40m.../Initialization/ExceptionsManager.js\n\u001b[7G\u001b(B\u001b[0m\u001b[37m\u001b[41m.../Initialization/loadSourceMap.js\u001b[6G\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.034634,
+      " \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40m.../Initialization/loadSourceMap.js\n\u001b[7G\u001b(B\u001b[0m\u001b[37m\u001b[41mLibraries/LinkingIOS/RCTLinkingManager.h\u001b[6G\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.034587,
+      " \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/LinkingIOS/RCTLinkingManager.h\n\u001b[7G\u001b(B\u001b[0m\u001b[37m\u001b[41mLibraries/LinkingIOS/RCTLinkingManager.m\u001b[6G\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.033353,
+      " \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/LinkingIOS/RCTLinkingManager.m\n\u001b[7G\u001b(B\u001b[0m\u001b[37m\u001b[41mLibraries/Network/NetInfo.js\u001b[6G\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.034533,
+      " \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/Network/NetInfo.js\n\u001b[7G\u001b(B\u001b[0m\u001b[37m\u001b[41m.../Network/RCTNetwork.xcodeproj/project.pbxproj\u001b[6G\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.034513,
+      " \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40m.../Network/RCTNetwork.xcodeproj/project.pbxproj\n\u001b[7G\u001b(B\u001b[0m\u001b[37m\u001b[41mLibraries/Network/RCTReachability.m\u001b[6G\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.037789,
+      " \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/Network/RCTReachability.m\n\u001b[7G\u001b(B\u001b[0m\u001b[37m\u001b[41mLibraries/Network/XMLHttpRequestBase.js\u001b[6G\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.035052,
+      "\u001b[39;49m\u001b[37m\u001b[40m\u001b[H\u001b[2J===   \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/Geolocation/RCTLocationObserver.m\u001b[1;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m| 130 +++----\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/Image/Image.ios.js\u001b[2;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|  54 +--\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/Image/ImageResizeMode.js\u001b[3;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|   4 +-\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/Image/RCTGIFImage.m\u001b[4;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|   1 -\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/Image/RCTImage.xcodeproj/project.pbxproj\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m |   4 +\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40m.../Image/__tests__/resolveAssetSource-test.js\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m     | 135 +++++++\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/Image/resolveAssetSource.js\u001b[7;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m| 101 +++++\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40m.../Initialization/ExceptionsManager.js\u001b[8;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|   2 +-\r\n/-\\   \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40m.../Initialization/loadSourceMap.js\u001b[9;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[4"
+    ],
+    [
+      0.000102,
+      "0m|   8 +-\r\n|-|   \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/LinkingIOS/RCTLinkingManager.h\u001b[10;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|   2 +-\r\n|-|   \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/LinkingIOS/RCTLinkingManager.m\u001b[11;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|   7 +\r\n|-|   \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/Network/NetInfo.js\u001b[12;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|   4 +-\r\n|-|   \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40m.../Network/RCTNetwork.xcodeproj/project.pbxproj\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m   |   3 +\r\n|-|   \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/Network/RCTReachability.m\u001b[14;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|   6 +-\r\n\\-/   \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/Network/XMLHttpRequestBase.js\u001b[15;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|  20 +-\r\n .    \u001b[37m\u001b[41m.../RCTPushNotification.xcodeproj/project.pbxproj\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m  |   3 +\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40m.../RCTPushNotificationManager.h\u001b[17;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|   2 +-\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40m.../RCTPushNotificationManager.m\u001b[18;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|   2 +-\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b["
+    ],
+    [
+      0.000027,
+      "37m\u001b[40m.../RCTTest/RCTTest.xcodeproj/project.pbxproj\u001b[58G\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|   3 +\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/RCTTest/RCTTestModule.h\u001b[20;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|  23 +-\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/RCTTest/RCTTestModule.m\u001b[21;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|  41 +-\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/RCTTest/RCTTestRunner.m\u001b[22;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|  47 ++-\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40m.../RCTWebSocketDebugger.xcodeproj/project.pbxproj\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m |  15 +-\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40m.../RCTWebSocketDebugger/RCTWebSocketExecutor.h\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m    |   6 +\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40m.../RCTWebSocketDebugger/RCTWebSocketExecutor.m\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b["
+    ],
+    [
+      0.000068,
+      "40m    |  27 +-\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/RCTWebSocketDebugger/SRWebSocket.m\u001b[58G\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|   4 +-\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/ReactIOS/NativeMethodsMixin.js\u001b[27;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|   3 +-\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/ReactIOS/ReactIOSNativeComponent.js\u001b[58G\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|   3 +-\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/ReactIOS/requireNativeComponent.js\u001b[58G\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|   9 +-\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/ReactIOS/verifyPropTypes.js\u001b[30;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|   2 +-\r\n .\n\u0008.   ___________________________________________________________________________________________________________________\u001b[33;1H===  [f|A] selection, [down|j|up|k|space|b] navigation, [enter] open, [c] command mode\u001b[16;6H"
+    ],
+    [
+      0.029538,
+      " \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40m.../RCTPushNotification.xcodeproj/project.pbxproj\n\u001b[7G\u001b(B\u001b[0m\u001b[37m\u001b[41m.../RCTPushNotificationManager.h\u001b[6G\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.037430,
+      " \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40m.../RCTPushNotificationManager.h\n\u001b[7G\u001b(B\u001b[0m\u001b[37m\u001b[41m.../RCTPushNotificationManager.m\u001b[6G\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.031493,
+      " \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40m.../RCTPushNotificationManager.m\n\u001b[7G\u001b(B\u001b[0m\u001b[37m\u001b[41m.../RCTTest/RCTTest.xcodeproj/project.pbxproj\u001b[6G\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.033101,
+      " \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40m.../RCTTest/RCTTest.xcodeproj/project.pbxproj\n\u001b[7G\u001b(B\u001b[0m\u001b[37m\u001b[41mLibraries/RCTTest/RCTTestModule.h\u001b[6G\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.034277,
+      " \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/RCTTest/RCTTestModule.h\n\u001b[7G\u001b(B\u001b[0m\u001b[37m\u001b[41mLibraries/RCTTest/RCTTestModule.m\u001b[6G\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.033453,
+      " \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/RCTTest/RCTTestModule.m\n\u001b[7G\u001b(B\u001b[0m\u001b[37m\u001b[41mLibraries/RCTTest/RCTTestRunner.m\u001b[6G\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.033221,
+      " \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/RCTTest/RCTTestRunner.m\n\u001b[7G\u001b(B\u001b[0m\u001b[37m\u001b[41m.../RCTWebSocketDebugger.xcodeproj/project.pbxproj\u001b[6G\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.034216,
+      "\u001b[39;49m\u001b[37m\u001b[40m\u001b[H\u001b[2J===   \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40m.../Initialization/loadSourceMap.js\u001b[1;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|   8 +-\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/LinkingIOS/RCTLinkingManager.h\u001b[2;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|   2 +-\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/LinkingIOS/RCTLinkingManager.m\u001b[3;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|   7 +\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/Network/NetInfo.js\u001b[4;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|   4 +-\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40m.../Network/RCTNetwork.xcodeproj/project.pbxproj\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m   |   3 +\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/Network/RCTReachability.m\u001b[6;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|   6 +-\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/Network/XMLHttpRequestBase.js\u001b[7;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|  20 +-\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40m.../RCTPushNotification.xcodeproj/project.pbxproj\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m  |   3 +\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40m.../RCTPushNotificationManager.h\u001b[9;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|   2 +-\r"
+    ],
+    [
+      0.000097,
+      "\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40m.../RCTPushNotificationManager.m\u001b[10;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|   2 +-\r\n/-\\   \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40m.../RCTTest/RCTTest.xcodeproj/project.pbxproj\u001b[58G\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|   3 +\r\n|-|   \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/RCTTest/RCTTestModule.h\u001b[12;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|  23 +-\r\n|-|   \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/RCTTest/RCTTestModule.m\u001b[13;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|  41 +-\r\n|-|   \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/RCTTest/RCTTestRunner.m\u001b[14;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|  47 ++-\r\n|-|   \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40m.../RCTWebSocketDebugger.xcodeproj/project.pbxproj\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m |  15 +-\r\n|-|   \u001b[37m\u001b[41m.../RCTWebSocketDebugger/RCTWebSocketExecutor.h\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m    |   6 +\r\n\\-/   \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40m.../RCTWebSocketDebugger/RCTWebSocketExecutor.m\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m    |  27 +-\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/RCTWebSocketDebugger/SRWebSocket.m\u001b[58G\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|   4 +-\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m"
+    ],
+    [
+      0.000013,
+      "\u001b[37m\u001b[40mLibraries/ReactIOS/NativeMethodsMixin.js\u001b[19;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|   3 +-\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/ReactIOS/ReactIOSNativeComponent.js\u001b[58G\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|   3 +-\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/ReactIOS/requireNativeComponent.js\u001b[58G\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|   9 +-\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/ReactIOS/verifyPropTypes.js\u001b[22;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|   2 +-\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/StyleSheet/precomputeStyle.js\u001b[23;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m| 161 ++++++++\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/Text/RCTShadowText.m\u001b[24;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|   8 +-\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/Text/RCTText.m\u001b[25;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|"
+    ],
+    [
+      0.000056,
+      "  20 +-\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/Text/RCTText.xcodeproj/project.pbxproj\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m   |   3 +\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/Text/RCTTextManager.m\u001b[27;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|   2 +-\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/Utilities/AlertIOS.js\u001b[28;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|   2 +-\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/Utilities/MatrixMath.js\u001b[29;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m| 131 +++++++\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/Utilities/MessageQueue.js\u001b[30;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|  32 +-\r\n .\n\u0008.   ___________________________________________________________________________________________________________________\u001b[33;1H===  [f|A] selection, [down|j|up|k|space|b] navigation, [enter] open, [c] command mode\u001b[16;6H"
+    ],
+    [
+      0.033886,
+      " \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40m.../RCTWebSocketDebugger/RCTWebSocketExecutor.h\n\u001b[7G\u001b(B\u001b[0m\u001b[37m\u001b[41m.../RCTWebSocketDebugger/RCTWebSocketExecutor.m\u001b[6G\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.432349,
+      "\u001b[39;49m\u001b[37m\u001b[40m\u001b[H\u001b[2J===   \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40m.../RCTWebSocketDebugger/RCTWebSocketExecutor.h\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m    |   6 +\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40m.../RCTWebSocketDebugger/RCTWebSocketExecutor.m\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m    |  27 +-\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/RCTWebSocketDebugger/SRWebSocket.m\u001b[58G\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|   4 +-\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/ReactIOS/NativeMethodsMixin.js\u001b[4;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|   3 +-\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/ReactIOS/ReactIOSNativeComponent.js\u001b[58G\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|   3 +-\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/ReactIOS/requireNativeComponent.js\u001b[58G\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|   9 +-\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/ReactIOS/verifyPropTypes.js\u001b[7;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|   2 +-\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/StyleSheet/precomputeStyle.js\u001b[8;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m| 161 ++++++++\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/Text/RCTShadowText.m\u001b[9;58H\u001b"
+    ],
+    [
+      0.000121,
+      "(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|   8 +-\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/Text/RCTText.m\u001b[10;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|  20 +-\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/Text/RCTText.xcodeproj/project.pbxproj\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m   |   3 +\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/Text/RCTTextManager.m\u001b[12;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|   2 +-\r\n/-\\   \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/Utilities/AlertIOS.js\u001b[13;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|   2 +-\r\n|-|   \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/Utilities/MatrixMath.js\u001b[14;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m| 131 +++++++\r\n|-|   \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/Utilities/MessageQueue.js\u001b[15;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|  32 +-\r\n|-|   \u001b[37m\u001b[41mLibraries/Utilities/PixelRatio.js\u001b[16;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|  15 +-\r\n|-|   \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/Utilities/__mocks__/ErrorUtils.js\u001b[17;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|  23 ++\r\n|-|   \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/Utilities/__mocks__/PixelRatio.js\u001b[18;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|  20 +\r\n|-|   \u001b(B\u001b[0;4"
+    ],
+    [
+      0.000020,
+      "m\u001b[39;49m\u001b[37m\u001b[40m.../Utilities/differ/__tests__/deepDiffer-test.js\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m  | 102 +++++\r\n\\-/   \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/Utilities/differ/deepDiffer.js\u001b[20;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|  29 +-\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40m.../RCTVibration.xcodeproj/project.pbxproj\u001b[21;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|   3 +\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mReact/Base/RCTAssert.h\u001b[22;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|  31 +-\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mReact/Base/RCTBridge.h\u001b[23;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|  25 +-\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mReact/Base/RCTBridge.m\u001b[24;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m| 429 +++++++++++----------\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mReact/Base/RCTBridgeModule.h\u001b[25;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|  90 ++++-"
+    ],
+    [
+      0.000067,
+      "\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mReact/Base/RCTConvert.h\u001b[26;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|  67 ++--\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mReact/Base/RCTConvert.m\u001b[27;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m| 143 ++++---\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mReact/Base/RCTDefines.h\u001b[28;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|  55 +++\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mReact/Base/RCTDevMenu.h\u001b[29;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|  45 ++-\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mReact/Base/RCTDevMenu.m\u001b[30;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m| 233 ++++++++---\r\n .\n\u0008.   ___________________________________________________________________________________________________________________\u001b[33;1H===  [f|A] selection, [down|j|up|k|space|b] navigation, [enter] open, [c] command mode\u001b[16;6H"
+    ],
+    [
+      0.482423,
+      "\u001b[39;49m\u001b[37m\u001b[40m\u001b[H\u001b[2J===   \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/Utilities/MessageQueue.js\u001b[1;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|  32 +-\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/Utilities/PixelRatio.js\u001b[2;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|  15 +-\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/Utilities/__mocks__/ErrorUtils.js\u001b[3;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|  23 ++\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/Utilities/__mocks__/PixelRatio.js\u001b[4;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|  20 +\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40m.../Utilities/differ/__tests__/deepDiffer-test.js\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m  | 102 +++++\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mLibraries/Utilities/differ/deepDiffer.js\u001b[6;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|  29 +-\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40m.../RCTVibration.xcodeproj/project.pbxproj\u001b[7;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|   3 +\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mReact/Base/RCTAssert.h\u001b[8;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|  31 +-\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mReact/Base/RCTBridge.h\u001b[9;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|  25 +-\r\n .    \u001b("
+    ],
+    [
+      0.000124,
+      "B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mReact/Base/RCTBridge.m\u001b[10;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m| 429 +++++++++++----------\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mReact/Base/RCTBridgeModule.h\u001b[11;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|  90 ++++-\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mReact/Base/RCTConvert.h\u001b[12;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|  67 ++--\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mReact/Base/RCTConvert.m\u001b[13;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m| 143 ++++---\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mReact/Base/RCTDefines.h\u001b[14;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|  55 +++\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mReact/Base/RCTDevMenu.h\u001b[15;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|  45 ++-\r\n/-\\   \u001b[37m\u001b[41mReact/Base/RCTDevMenu.m\u001b[16;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m| 233 ++++++++---\r\n|-|   \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mReact/Base/RCTJavaScriptExecutor.h\u001b[17;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|  26 ++\r\n|-|   \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mReact/Base/RCTJavaScriptLoader.h\u001b[18;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|   9 +-\r\n|-|   \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mReact/Base/RCTJavaScriptLoader.m\u001b[19;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|  16 "
+    ],
+    [
+      0.000102,
+      "+-\r\n|-|   \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mReact/Base/RCTLog.h\u001b[20;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|  30 +-\r\n|-|   \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mReact/Base/RCTLog.m\u001b[21;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|  57 +--\r\n\\-/   \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mReact/Base/RCTProfile.h\u001b[22;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m| 105 +++++\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mReact/Base/RCTProfile.m\u001b[23;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m| 174 +++++++++\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mReact/Base/RCTRedBox.h\u001b[24;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|   6 +\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mReact/Base/RCTRedBox.m\u001b[25;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|  21 +-\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mReact/Base/RCTRootView.h\u001b[26;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|   6 -\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mReact/Base/RCTRootView.m\u001b[27;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|  22 +-\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mReact/Base/RCTUtils.h\u001b[28;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|  39 +-\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mReact/Executors/RCTContextExecutor.h\u001b[29;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|   2 +-\r\n .    \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m"
+    ],
+    [
+      0.000014,
+      "\u001b[40mReact/Executors/RCTContextExecutor.m\u001b[30;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|  83 ++--\r\n .\n\u0008.   ___________________________________________________________________________________________________________________\u001b[33;1H===  [f|A] selection, [down|j|up|k|space|b] navigation, [enter] open, [c] command mode\u001b[16;6H"
+    ],
+    [
+      1.235750,
+      "\u001b[A \u001b[37m\u001b[41mReact/Base/RCTDevMenu.h\n\u001b[7G\u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40mReact/Base/RCTDevMenu.m\u001b[15;6H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      2.193564,
+      " \u001b[37m\u001b[42m|===\u003eReact/Base/RCTDevMenu.h\u001b[15;58H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m     |  45 ++-\u001b[6G"
+    ],
+    [
+      1.238630,
+      "\u001b[39;49m\u001b[37m\u001b[40m\u001b[H\u001b[2J\u001b[11d==========================================================\r\nFiles you have selected:\r\n==========================================================\r\n/Users/frantic/code/PathPicker/React/Base/RCTDevMenu.h\r\n==========================================================\r\nType a command below! Files will be appended or replace $F\r\nEnter a blank line to go back to the selection process\r\n==========================================================\r\n..........................................................\r\u001b[32d________________________________________________________________________________________________________________________\u001b[33;1Hcommand examples: | git add | git checkout HEAD~1 -- | mv $F ../here/ |\u001b[19;59H"
+    ],
+    [
+      0.000022,
+      "\r"
+    ],
+    [
+      0.561308,
+      "l"
+    ],
+    [
+      0.067373,
+      "s"
+    ],
+    [
+      0.135230,
+      " "
+    ],
+    [
+      0.854825,
+      "$"
+    ],
+    [
+      0.191149,
+      "F"
+    ],
+    [
+      0.506376,
+      "\r\n"
+    ],
+    [
+      0.012927,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000016,
+      "\u001b[39;49m\u001b[33d\u001b[K\u001b[33;1H\u001b[?1049l\r\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.005666,
+      "executing command:\r\n"
+    ],
+    [
+      0.000007,
+      "ls '/Users/frantic/code/PathPicker/React/Base/RCTDevMenu.h'\r\n"
+    ],
+    [
+      0.001568,
+      "ls: /Users/frantic/code/PathPicker/React/Base/RCTDevMenu.h: No such file or directory\r\n"
+    ],
+    [
+      0.000573,
+      "bash-3.2$ "
+    ],
+    [
+      3.196548,
+      "o"
+    ],
+    [
+      0.719923,
+      "\u0008\u001b[K"
+    ],
+    [
+      12.824749,
+      "exit\r\n"
+    ]
+  ]
+}
