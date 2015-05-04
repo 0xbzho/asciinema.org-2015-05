@@ -1,0 +1,1134 @@
+{
+  "version": 1,
+  "width": 89,
+  "height": 25,
+  "duration": 75.014172,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.076043,
+      "\u001b]0;francesco@francesco-VirtualBox: ~/crc32\u0007francesco@francesco-VirtualBox:~/crc32$ "
+    ],
+    [
+      4.794695,
+      "p"
+    ],
+    [
+      0.116065,
+      "e"
+    ],
+    [
+      0.084047,
+      "r"
+    ],
+    [
+      0.128072,
+      "f"
+    ],
+    [
+      0.192108,
+      " "
+    ],
+    [
+      0.140079,
+      "r"
+    ],
+    [
+      0.100056,
+      "e"
+    ],
+    [
+      0.196110,
+      "c"
+    ],
+    [
+      0.136077,
+      "o"
+    ],
+    [
+      0.108061,
+      "r"
+    ],
+    [
+      0.120068,
+      "d"
+    ],
+    [
+      0.128072,
+      " "
+    ],
+    [
+      1.172659,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.112063,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.144081,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.136077,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.136077,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.144081,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.128072,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.176099,
+      "r"
+    ],
+    [
+      0.112063,
+      "e"
+    ],
+    [
+      0.120068,
+      "p"
+    ],
+    [
+      0.072041,
+      "o"
+    ],
+    [
+      0.088050,
+      "r"
+    ],
+    [
+      0.080045,
+      "t"
+    ],
+    [
+      0.080045,
+      " "
+    ],
+    [
+      0.480270,
+      "-"
+    ],
+    [
+      0.248140,
+      "i"
+    ],
+    [
+      0.084047,
+      " "
+    ],
+    [
+      0.164092,
+      "p"
+    ],
+    [
+      0.088050,
+      "e"
+    ],
+    [
+      0.064036,
+      "r"
+    ],
+    [
+      0.080045,
+      "f"
+    ],
+    [
+      0.808455,
+      "-"
+    ],
+    [
+      0.272153,
+      "h"
+    ],
+    [
+      0.048027,
+      "a"
+    ],
+    [
+      0.104059,
+      "s"
+    ],
+    [
+      0.120068,
+      "k.data "
+    ],
+    [
+      0.568320,
+      "\r\n"
+    ],
+    [
+      0.020011,
+      "\u001b[?1049h\u001b[1;25r\u001b[4l\u001b(B\u001b[m\u001b[37m\u001b[40m\u001b[1;25r\u001b[H\u001b[2J\u001b[25;89H"
+    ],
+    [
+      0.000000,
+      "\u001b[1;25r\u001b[H\u001b[2J\u001b[11;1H┌Processing events...───────────────────────────────────────────────────────────────────┐\u001b[12;1H│\u001b[30m\u001b[47m     \u001b[82C\u001b[37m\u001b[40m│\u001b[13;1H└───────────────────────────────────────────────────────────────────────────────────────┘\u001b[12;7H"
+    ],
+    [
+      0.000000,
+      "\u001b[30m\u001b[47m     \u001b[77C\u001b[12;12H"
+    ],
+    [
+      0.000000,
+      "      \u001b[71C\u001b[12;18H"
+    ],
+    [
+      0.000000,
+      "     \u001b[66C\u001b[12;23H"
+    ],
+    [
+      0.004002,
+      "      \u001b[60C\u001b[12;29H"
+    ],
+    [
+      0.000000,
+      "     \u001b[55C\u001b[12;34H"
+    ],
+    [
+      0.000000,
+      "      \u001b[49C\u001b[12;40H"
+    ],
+    [
+      0.000000,
+      "     \u001b[44C\u001b[12;45H"
+    ],
+    [
+      0.000000,
+      "     \u001b[39C\u001b[12;50H"
+    ],
+    [
+      0.000000,
+      "      \u001b[33C\u001b[12;56H"
+    ],
+    [
+      0.000000,
+      "     \u001b[28C\u001b[12;61H"
+    ],
+    [
+      0.004002,
+      "      \u001b[22C\u001b[12;67H"
+    ],
+    [
+      0.004002,
+      "     \u001b[17C\u001b[12;72H      \u001b[11C\u001b[12;78H     \u001b[6C\u001b[12;83H"
+    ],
+    [
+      0.036020,
+      "\u001b[11;13H\u001b[37m\u001b[40mtime ordered events...\u001b[12;7H                                                                            \u001b[6C\u001b[12;7H"
+    ],
+    [
+      0.000000,
+      "\u001b[30m\u001b[47m     \u001b[77C\u001b[12;12H"
+    ],
+    [
+      0.080045,
+      "      \u001b[71C\u001b[12;18H"
+    ],
+    [
+      0.000000,
+      "     \u001b[66C\u001b[12;23H"
+    ],
+    [
+      0.000000,
+      "      \u001b[60C\u001b[12;29H"
+    ],
+    [
+      0.000000,
+      "     \u001b[55C\u001b[12;34H"
+    ],
+    [
+      0.000000,
+      "      \u001b[49C\u001b[12;40H"
+    ],
+    [
+      0.004002,
+      "     \u001b[44C\u001b[12;45H"
+    ],
+    [
+      0.000000,
+      "     \u001b[39C\u001b[12;50H      \u001b[33C\u001b[12;56H     \u001b[28C\u001b[12;61H      \u001b[22C\u001b[12;67H     \u001b[17C\u001b[12;72H      \u001b[11C\u001b[12;78H     \u001b[6C\u001b[12;83H     \u001b[37m\u001b[40m \u0008\u001b[11;2HMerging related events...────────\u001b[12;9H                                                                                \u001b[12;9H\u001b[30m\u001b[47m        \u001b[72C\u001b[12;17H        \u001b[64C\u001b[12;25H        \u001b[56C\u001b[12;33H        \u001b[48C\u001b[12;41H        \u001b[40C\u001b[12;49H        \u001b[32C\u001b[12;57H        \u001b[24C\u001b[12;65H        \u001b[16C\u001b[12;73H        \u001b[8C\u001b[12;81H        \u001b[25;1H\u001b[37m\u001b[40mFor a higher level overview, try: perf report --sort comm,dso\u001b[25;89H\u001b[1;1H\u001b[1m\u001b[37m\u001b[44mSamples: 8K of event 'cpu-clock', Event count (approx.): 2233500000                      \u001b[25;1H\u001b(B\u001b[m\u001b[37m\u001b[40mPress '?' for help on key bindings\u001b[K\u001b[25;89H\u001b[2;1H\u001b[31m\u001b[49m  99,75%\u001b[39m  crc32  crc32              [.] s4Tw_info\u001b[K\r\n   0,10%  crc32  crc32              [.] c5gn_info\u001b[K\r\n   0,03%  crc32  crc32              [.] c5g3_info\u001b[K\r\n   0,02%  crc32  crc32              [.] c2k_info\u001b[K\r\n   0,02%  crc32  crc32              [.] c7F_info\u001b[K\r\n   0,01%  crc32  [kernel.kallsyms]  [k] __do_softirq\u001b[K\r\n   0,01%  crc32  crc32              [.] allocatePinned\u001b[K\r\n   0,01%  crc32  crc32              [.] c6le_info\u001b[K\r\n   0,01%  crc32  crc32              [.] chg3_info\u001b[K\r\n   0,01%  crc32  crc32              [.] 0x000000000041ca88\u001b[K\r\n   0,01%  crc32  libc-2.19.so       [.] _dl_addr\u001b[K\r\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\u001b[13;89H"
+    ],
+    [
+      1.857044,
+      "\u001b[2;1H\u001b[30m\u001b[47m  99,75%  crc32  crc32              [.] s4Tw_info                                       \u001b[39m\u001b[49m◆\u001b[3;89H▒\u001b[4;89H▒\u001b[5;89H▒\u001b[6;89H▒\u001b[7;89H▒\u001b[8;89H▒\u001b[9;89H▒\u001b[10;89H▒\u001b[11;89H▒\u001b[12;89H▒\u001b[13;89H▒\u001b[14;89H▒\u001b[15;89H▒\u001b[16;89H▒\u001b[17;89H▒\u001b[18;89H▒\u001b[19;89H▒\u001b[20;89H▒\u001b[21;89H▒\u001b[22;89H▒\u001b[23;89H▒\u001b[24;89H▒\u001b[13;89H"
+    ],
+    [
+      2.049152,
+      "\u001b[2;1H\u001b[31m  99,75%\u001b[39m  crc32  crc32              [.] s4Tw_info                                       ▒\u001b[3;1H\u001b[30m\u001b[47m   0,10%  crc32  crc32              [.] c5gn_info                                       \u001b[4;89H\u001b[39m\u001b[49m◆\u001b[13;89H"
+    ],
+    [
+      0.164092,
+      "\u001b[3;1H   0,10%  crc32  crc32              [.] c5gn_info                                       \r\n\u001b[30m\u001b[47m   0,03%  crc32  crc32              [.] c5g3_info                                       \u001b[39m\u001b[49m▒\u001b[6;89H◆\u001b[13;89H"
+    ],
+    [
+      0.180101,
+      "\u001b[4;1H   0,03%  crc32  crc32              [.] c5g3_info                                       \r\n\u001b[30m\u001b[47m   0,02%  crc32  crc32              [.] c2k_info                                        \u001b[6;89H\u001b[39m\u001b[49m▒\u001b[8;89H◆\u001b[13;89H"
+    ],
+    [
+      0.152086,
+      "\u001b[5;1H   0,02%  crc32  crc32              [.] c2k_info                                        \r\n\u001b[30m\u001b[47m   0,02%  crc32  crc32              [.] c7F_info                                        \u001b[8;89H\u001b[39m\u001b[49m▒\u001b[10;89H◆\u001b[13;89H"
+    ],
+    [
+      0.176099,
+      "\u001b[6;1H   0,02%  crc32  crc32              [.] c7F_info                                        \r\n\u001b[30m\u001b[47m   0,01%  crc32  [kernel.kallsyms]  [k] __do_softirq                                    \u001b[10;89H\u001b[39m\u001b[49m▒\u001b[13;89H◆\u001b[13;89H"
+    ],
+    [
+      0.136077,
+      "\u001b[7;1H   0,01%  crc32  [kernel.kallsyms]  [k] __do_softirq                                    \r\n\u001b[30m\u001b[47m   0,01%  crc32  crc32              [.] allocatePinned                                  \u001b[13;89H\u001b[39m\u001b[49m▒\u001b[15;89H◆\u001b[13;89H"
+    ],
+    [
+      0.404227,
+      "\u001b[7;1H\u001b[30m\u001b[47m   0,01%  crc32  [kernel.kallsyms]  [k] __do_softirq                                    \r\n\u001b[39m\u001b[49m   0,01%  crc32  crc32              [.] allocatePinned                                  \u001b[13;89H◆\u001b[15;89H▒\u001b[13;89H"
+    ],
+    [
+      0.160090,
+      "\u001b[6;1H\u001b[30m\u001b[47m   0,02%  crc32  crc32              [.] c7F_info                                        \r\n\u001b[39m\u001b[49m   0,01%  crc32  [kernel.kallsyms]  [k] __do_softirq                                    \u001b[10;89H◆\u001b[13;89H▒\u001b[13;89H"
+    ],
+    [
+      0.144081,
+      "\u001b[5;1H\u001b[30m\u001b[47m   0,02%  crc32  crc32              [.] c2k_info                                        \r\n\u001b[39m\u001b[49m   0,02%  crc32  crc32              [.] c7F_info                                        \u001b[8;89H◆\u001b[10;89H▒\u001b[13;89H"
+    ],
+    [
+      0.172097,
+      "\u001b[4;1H\u001b[30m\u001b[47m   0,03%  crc32  crc32              [.] c5g3_info                                       \r\n\u001b[39m\u001b[49m   0,02%  crc32  crc32              [.] c2k_info                                        \u001b[6;89H◆\u001b[8;89H▒\u001b[13;89H"
+    ],
+    [
+      0.144081,
+      "\u001b[3;1H\u001b[30m\u001b[47m   0,10%  crc32  crc32              [.] c5gn_info                                       \r\n\u001b[39m\u001b[49m   0,03%  crc32  crc32              [.] c5g3_info                                       ◆\u001b[6;89H▒\u001b[13;89H"
+    ],
+    [
+      0.336189,
+      "\u001b[2;1H\u001b[30m\u001b[47m  99,75%  crc32  crc32              [.] s4Tw_info                                       \u001b[39m\u001b[49m◆\u001b[3;1H   0,10%  crc32  crc32              [.] c5gn_info                                       \u001b[4;89H▒\u001b[13;89H"
+    ],
+    [
+      0.300169,
+      "\u001b[1;1H\u001b[1m\u001b[37m\u001b[44m                                                                   \u001b[25;1H\u001b(B\u001b[m\u001b[37m\u001b[40mESC: exit, ENTER|-\u003e: Select option\u001b[25;89H\u001b[2;1H\u001b[30m\u001b[47mAnnotate s4Tw_info    \u001b[14C             \r\n\u001b[39m\u001b[49mZoom into\u001b[6C(4258) thread\u001b[8C             \r\nZoom into\u001b[7CDSO   \u001b[14C             \r\nBrowse map details    \u001b[14C            \r\nRun scripts for samples of thread [crc32]       \r\nRun scripts for samples of symbol [s4Tw_info]       \r\nRun scripts for all samples\u001b[9C                  \r\nSwitch to another data file in PWD               \r\nExit                  \u001b[14C             \u001b[11;4H                   \u001b[14C                      \u001b[12;4H                          \u001b[7C            \u001b[11;89H"
+    ],
+    [
+      3.025701,
+      "\u001b[25;1H\u001b[37m\u001b[40mPress \u003c- or ESC to exit\u001b[K\u001b[25;89H"
+    ],
+    [
+      0.000000,
+      "\u001b[1;1H\u001b[1m\u001b[37m\u001b[44ms4Tw_info  /home/francesco/crc32/crc32\u001b[25;7H\u001b(B\u001b[m\u001b[37m\u001b[40m'h' for help on key bindings\u001b[25;89H"
+    ],
+    [
+      0.000000,
+      "\u001b[2;1H\u001b[39m\u001b[49m  0,02 │\u001b[35m    \u001b[39m  mov    $0xffffffff,%eax\u001b[K\r\n\u001b[31m 10,01 \u001b[39m│\u001b[35m    \u001b[31m  xor    %rax,%r14\u001b[K\r\n\u001b[39m  0,03 │\u001b[35m    \u001b[39m  mov    $0xffffffff,%eax\u001b[K\r\n\u001b[32m  1,07 \u001b[39m│\u001b[35m    \u001b[32m  mov    %r14,%rcx\u001b[K\r\n\u001b[39m       │\u001b[35m    \u001b[39m  shr    $0x8,%rcx\u001b[K\r\n\u001b[31m 10,55 \u001b[39m│\u001b[35m    \u001b[31m  xor    %rax,%rcx\u001b[K\r\n\u001b[39m  0,10 │\u001b[35m    \u001b[39m  mov    0x4(%rbx),%rax\u001b[K\r\n\u001b[32m  1,03 \u001b[39m│\u001b[35m    \u001b[32m  movzbl (%rsi),%edx\u001b[K\r\n\u001b[39m  0,16 │\u001b[35m    \u001b[39m  xor    %rdx,%r14\u001b[K\r\n\u001b[31m  9,69 \u001b[39m│\u001b[35m    \u001b[31m  and    $0xff,%r14d\u001b[K\r\n\u001b[32m  0,75 \u001b[39m│\u001b[35m    \u001b[32m  mov    0x10(%rax,%r14,4),%eax\u001b[K\r\n\u001b[31m 44,32 \u001b[39m│\u001b[35m    \u001b[31m  xor    %rcx,%rax\u001b[K\r\n 10,31 \u001b[39m│\u001b[35m    \u001b[31m  inc    %rsi\u001b[K\u001b[15;3H\u001b[39m0,01 │\u001b[35m    \u001b[39m  mov    %rax,%r14\u001b[K\u001b[16;8H│\u001b[35m    \u001b[39m↑ jmp    0\u001b[K\u001b[17;89H\u001b[K\u001b[18;89H\u001b[K\u001b[19;89H\u001b[K\u001b[20;89H\u001b[K\u001b[21;89H\u001b[K\u001b[22;89H\u001b[K\u001b[23;89H\u001b[K\u001b[24;89H\u001b[K\u001b[17;89H"
+    ],
+    [
+      1.620911,
+      "\u001b[2;89H▒\u001b[3;89H▒\u001b[4;89H▒\u001b[5;89H▒\u001b[6;89H▒\u001b[7;89H▒\u001b[8;89H▒\u001b[9;89H▒\u001b[10;89H▒\u001b[11;89H▒\u001b[12;89H▒\u001b[13;1H\u001b[30m\u001b[47m 44,32 \u001b[39m\u001b[49m│\u001b[30m\u001b[47m      xor    %rcx,%rax                                                          \u001b[39m\u001b[49m▒\u001b[14;89H▒\u001b[15;89H▒\u001b[16;89H▒\u001b[17;89H▒\u001b[18;89H▒\u001b[19;89H▒\u001b[20;89H▒\u001b[21;89H▒\u001b[22;89H◆\u001b[23;89H▒\u001b[24;89H▒\u001b[17;89H"
+    ],
+    [
+      0.220124,
+      "\u001b[12;1H\u001b[30m\u001b[47m  0,75 \u001b[39m\u001b[49m│\u001b[30m\u001b[47m      mov    0x10(%rax,%r14,4),%eax                                             \r\n\u001b[31m\u001b[49m 44,32 \u001b[39m│\u001b[35m    \u001b[31m  xor    %rcx,%rax                                                          \u001b[17;89H"
+    ],
+    [
+      0.640360,
+      "\u001b[11;1H\u001b[30m\u001b[47m  9,69 \u001b[39m\u001b[49m│\u001b[30m\u001b[47m      and    $0xff,%r14d                                                        \r\n\u001b[32m\u001b[49m  0,75 \u001b[39m│\u001b[35m    \u001b[32m  mov    0x10(%rax,%r14,4),%eax                                             \u001b[21;89H\u001b[39m◆\u001b[22;89H▒\u001b[17;89H"
+    ],
+    [
+      0.620349,
+      "\u001b[10;1H\u001b[30m\u001b[47m  0,16 \u001b[39m\u001b[49m│\u001b[30m\u001b[47m      xor    %rdx,%r14                                                          \r\n\u001b[31m\u001b[49m  9,69 \u001b[39m│\u001b[35m    \u001b[31m  and    $0xff,%r14d                                                        \u001b[17;89H"
+    ],
+    [
+      0.372209,
+      "\u001b[9;1H\u001b[30m\u001b[47m  1,03 \u001b[39m\u001b[49m│\u001b[30m\u001b[47m      movzbl (%rsi),%edx                                                        \r\n\u001b[39m\u001b[49m  0,16 │\u001b[35m    \u001b[39m  xor    %rdx,%r14                                                          \u001b[20;89H◆\u001b[21;89H▒\u001b[17;89H"
+    ],
+    [
+      0.220124,
+      "\u001b[8;1H\u001b[30m\u001b[47m  0,10 \u001b[39m\u001b[49m│\u001b[30m\u001b[47m      mov    0x4(%rbx),%rax                                                     \r\n\u001b[32m\u001b[49m  1,03 \u001b[39m│\u001b[35m    \u001b[32m  movzbl (%rsi),%edx                                                        \u001b[17;89H"
+    ],
+    [
+      0.172097,
+      "\u001b[7;1H\u001b[30m\u001b[47m 10,55 \u001b[39m\u001b[49m│\u001b[30m\u001b[47m      xor    %rax,%rcx                                                          \r\n\u001b[39m\u001b[49m  0,10 │\u001b[35m    \u001b[39m  mov    0x4(%rbx),%rax                                                     \u001b[19;89H◆\u001b[20;89H▒\u001b[17;89H"
+    ],
+    [
+      0.348196,
+      "\u001b[6;1H\u001b[30m\u001b[47m       \u001b[39m\u001b[49m│\u001b[30m\u001b[47m      shr    $0x8,%rcx                                                          \r\n\u001b[31m\u001b[49m 10,55 \u001b[39m│\u001b[35m    \u001b[31m  xor    %rax,%rcx                                                          \u001b[17;89H"
+    ],
+    [
+      0.240135,
+      "\u001b[5;1H\u001b[30m\u001b[47m  1,07 \u001b[39m\u001b[49m│\u001b[30m\u001b[47m      mov    %r14,%rcx                                                          \r\n\u001b[39m\u001b[49m       │\u001b[35m    \u001b[39m  shr    $0x8,%rcx                                                          \u001b[18;89H◆\u001b[19;89H▒\u001b[17;89H"
+    ],
+    [
+      1.448815,
+      "\u001b[5;1H\u001b[32m  1,07 \u001b[39m│\u001b[35m    \u001b[32m  mov    %r14,%rcx                                                          \r\n\u001b[30m\u001b[47m       \u001b[39m\u001b[49m│\u001b[30m\u001b[47m      shr    $0x8,%rcx                                                          \u001b[18;89H\u001b[39m\u001b[49m▒\u001b[19;89H◆\u001b[17;89H"
+    ],
+    [
+      0.248140,
+      "\u001b[6;1H       │\u001b[35m    \u001b[39m  shr    $0x8,%rcx                                                          \r\n\u001b[30m\u001b[47m 10,55 \u001b[39m\u001b[49m│\u001b[30m\u001b[47m      xor    %rax,%rcx                                                          \u001b[17;89H"
+    ],
+    [
+      0.020011,
+      "\u001b[7;1H\u001b[31m\u001b[49m 10,55 \u001b[39m│\u001b[35m    \u001b[31m  xor    %rax,%rcx                                                          \r\n\u001b[30m\u001b[47m  0,10 \u001b[39m\u001b[49m│\u001b[30m\u001b[47m      mov    0x4(%rbx),%rax                                                     \u001b[19;89H\u001b[39m\u001b[49m▒\u001b[20;89H◆\u001b[17;89H"
+    ],
+    [
+      0.020011,
+      "\u001b[8;1H  0,10 │\u001b[35m    \u001b[39m  mov    0x4(%rbx),%rax                                                     \r\n\u001b[30m\u001b[47m  1,03 \u001b[39m\u001b[49m│\u001b[30m\u001b[47m      movzbl (%rsi),%edx                                                        \u001b[17;89H"
+    ],
+    [
+      0.020011,
+      "\u001b[9;1H\u001b[32m\u001b[49m  1,03 \u001b[39m│\u001b[35m    \u001b[32m  movzbl (%rsi),%edx                                                        \r\n\u001b[30m\u001b[47m  0,16 \u001b[39m\u001b[49m│\u001b[30m\u001b[47m      xor    %rdx,%r14                                                          \u001b[20;89H\u001b[39m\u001b[49m▒\u001b[21;89H◆\u001b[17;89H"
+    ],
+    [
+      0.020011,
+      "\u001b[10;1H  0,16 │\u001b[35m    \u001b[39m  xor    %rdx,%r14                                                          \r\n\u001b[30m\u001b[47m  9,69 \u001b[39m\u001b[49m│\u001b[30m\u001b[47m      and    $0xff,%r14d                                                        \u001b[17;89H"
+    ],
+    [
+      0.264149,
+      "\u001b[11;1H\u001b[31m\u001b[49m  9,69 \u001b[39m│\u001b[35m    \u001b[31m  and    $0xff,%r14d                                                        \r\n\u001b[30m\u001b[47m  0,75 \u001b[39m\u001b[49m│\u001b[30m\u001b[47m      mov    0x10(%rax,%r14,4),%eax                                             \u001b[21;89H\u001b[39m\u001b[49m▒\u001b[22;89H◆\u001b[17;89H"
+    ],
+    [
+      0.152086,
+      "\u001b[12;1H\u001b[32m  0,75 \u001b[39m│\u001b[35m    \u001b[32m  mov    0x10(%rax,%r14,4),%eax                                             \r\n\u001b[30m\u001b[47m 44,32 \u001b[39m\u001b[49m│\u001b[30m\u001b[47m      xor    %rcx,%rax                                                          \u001b[17;89H"
+    ],
+    [
+      2.001125,
+      "\u001b[12;1H  0,75 \u001b[39m\u001b[49m│\u001b[30m\u001b[47m      mov    0x10(%rax,%r14,4),%eax                                             \r\n\u001b[31m\u001b[49m 44,32 \u001b[39m│\u001b[35m    \u001b[31m  xor    %rcx,%rax                                                          \u001b[17;89H"
+    ],
+    [
+      0.192108,
+      "\u001b[11;1H\u001b[30m\u001b[47m  9,69 \u001b[39m\u001b[49m│\u001b[30m\u001b[47m      and    $0xff,%r14d                                                        \r\n\u001b[32m\u001b[49m  0,75 \u001b[39m│\u001b[35m    \u001b[32m  mov    0x10(%rax,%r14,4),%eax                                             \u001b[21;89H\u001b[39m◆\u001b[22;89H▒\u001b[17;89H"
+    ],
+    [
+      0.192108,
+      "\u001b[10;1H\u001b[30m\u001b[47m  0,16 \u001b[39m\u001b[49m│\u001b[30m\u001b[47m      xor    %rdx,%r14                                                          \r\n\u001b[31m\u001b[49m  9,69 \u001b[39m│\u001b[35m    \u001b[31m  and    $0xff,%r14d                                                        \u001b[17;89H"
+    ],
+    [
+      0.192108,
+      "\u001b[9;1H\u001b[30m\u001b[47m  1,03 \u001b[39m\u001b[49m│\u001b[30m\u001b[47m      movzbl (%rsi),%edx                                                        \r\n\u001b[39m\u001b[49m  0,16 │\u001b[35m    \u001b[39m  xor    %rdx,%r14                                                          \u001b[20;89H◆\u001b[21;89H▒\u001b[17;89H"
+    ],
+    [
+      0.192108,
+      "\u001b[8;1H\u001b[30m\u001b[47m  0,10 \u001b[39m\u001b[49m│\u001b[30m\u001b[47m      mov    0x4(%rbx),%rax                                                     \r\n\u001b[32m\u001b[49m  1,03 \u001b[39m│\u001b[35m    \u001b[32m  movzbl (%rsi),%edx                                                        \u001b[17;89H"
+    ],
+    [
+      0.224126,
+      "\u001b[7;1H\u001b[30m\u001b[47m 10,55 \u001b[39m\u001b[49m│\u001b[30m\u001b[47m      xor    %rax,%rcx                                                          \r\n\u001b[39m\u001b[49m  0,10 │\u001b[35m    \u001b[39m  mov    0x4(%rbx),%rax                                                     \u001b[19;89H◆\u001b[20;89H▒\u001b[17;89H"
+    ],
+    [
+      0.224126,
+      "\u001b[6;1H\u001b[30m\u001b[47m       \u001b[39m\u001b[49m│\u001b[30m\u001b[47m      shr    $0x8,%rcx                                                          \r\n\u001b[31m\u001b[49m 10,55 \u001b[39m│\u001b[35m    \u001b[31m  xor    %rax,%rcx                                                          \u001b[17;89H"
+    ],
+    [
+      0.212119,
+      "\u001b[5;1H\u001b[30m\u001b[47m  1,07 \u001b[39m\u001b[49m│\u001b[30m\u001b[47m      mov    %r14,%rcx                                                          \r\n\u001b[39m\u001b[49m       │\u001b[35m    \u001b[39m  shr    $0x8,%rcx                                                          \u001b[18;89H◆\u001b[19;89H▒\u001b[17;89H"
+    ],
+    [
+      0.196110,
+      "\u001b[4;1H\u001b[30m\u001b[47m  0,03 \u001b[39m\u001b[49m│\u001b[30m\u001b[47m      mov    $0xffffffff,%eax                                                   \r\n\u001b[32m\u001b[49m  1,07 \u001b[39m│\u001b[35m    \u001b[32m  mov    %r14,%rcx                                                          \u001b[17;89H"
+    ],
+    [
+      0.184104,
+      "\u001b[3;1H\u001b[30m\u001b[47m 10,01 \u001b[39m\u001b[49m│\u001b[30m\u001b[47m      xor    %rax,%r14                                                          \r\n\u001b[39m\u001b[49m  0,03 │\u001b[35m    \u001b[39m  mov    $0xffffffff,%eax                                                   \u001b[17;89H◆\u001b[18;89H▒\u001b[17;89H"
+    ],
+    [
+      0.152086,
+      "\u001b[2;1H\u001b[30m\u001b[47m  0,02 \u001b[39m\u001b[49m│\u001b[30m\u001b[47m      mov    $0xffffffff,%eax                                                   \r\n\u001b[31m\u001b[49m 10,01 \u001b[39m│\u001b[35m    \u001b[31m  xor    %rax,%r14                                                          \u001b[17;89H"
+    ],
+    [
+      0.132074,
+      "\u001b[37m\u001b[40m\u001b[16;17r\u001b[16;1H\u001b[1L\u001b[1;25r\u001b[3;15r\u001b[3;1H\u001b[1L\u001b[1;25r\u001b[2;5H\u001b[30m\u001b[47m76 \u001b[39m\u001b[49m│\u001b[30m\u001b[47m36:   add\u001b[15Cfffffff0,%r12\r\n\u001b[39m\u001b[49m  0,02 │\u001b[35m    \u001b[39m  mov    $0xffffffff,%eax                                                   ▒\u001b[16;1H  0,01 │\u001b[35m    \u001b[39m  mov    %rax,%r14                                                          ◆\u001b[18;89H"
+    ],
+    [
+      0.276155,
+      "\u001b[37m\u001b[40m\u001b[17;18r\u001b[17;1H\u001b[1L\u001b[1;25r\u001b[3;15r\u001b[3;1H\u001b[1L\u001b[1;25r\u001b[2;3H\u001b[30m\u001b[47m     \u001b[39m\u001b[49m│\u001b[30m\u001b[47m        crc = flipAll prevCRC        \r\n\u001b[32m\u001b[49m  0,76 \u001b[39m│\u001b[35m36: \u001b[32m  add    $0xfffffffffffffff0,%r12                                           \u001b[39m▒\u001b[16;1H\u001b[31m 10,31 \u001b[5C  inc    %rsi                                                               \r\n\u001b[39m  0,01 │\u001b[35m    \u001b[39m  mov    %rax,%r14                                                          ▒\u001b[19;89H"
+    ],
+    [
+      0.228128,
+      "\u001b[37m\u001b[40m\u001b[17;19r\u001b[17;1H\u001b[1L\u001b[1;25r\u001b[15;16r\u001b[15;1H\u001b[1L\u001b[1;25r\u001b[3;14r\u001b[3;1H\u001b[1L\u001b[1;25r\u001b[2;17H\u001b[30m\u001b[47mtblEntry = crc32Table !!! ((crc `xor` (fromIntegral c)) .\u0026. 0xff)\r\n\u001b[39m\u001b[49m       │        crc = flipAll prevCRC                                                   ▒\u001b[15;1H\u001b[32m  0,75 \u001b[39m│\u001b[35m    \u001b[32m  mov    0x10(%rax,%r14,4),%eax                                             \u001b[39m◆\u001b[17;1H\u001b[31m 10,31 \u001b[39m│\u001b[35m    \u001b[31m  inc    %rsi                                                               \u001b[39m▒\u001b[20;89H"
+    ],
+    [
+      0.480270,
+      "\u001b[37m\u001b[40m\u001b[16;20r\u001b[16;1H\u001b[1L\u001b[1;25r\u001b[3;14r\u001b[3;1H\u001b[1L\u001b[1;25r\u001b[2;17H\u001b[30m\u001b[47m-- (0..255), crc32Table covers that range.                       \r\n\u001b[39m\u001b[49m       │        tblEntry = crc32Table !!! ((crc `xor` (fromIntegral c)) .\u0026. 0xff)       ▒\u001b[15;1H\u001b[31m  9,69 \u001b[5C  and    $0xff,%r14d                                                        \r\n\u001b[32m  0,75 \u001b[39m│\u001b[35m    \u001b[32m  mov    0x10(%rax,%r14,4),%eax                                             \u001b[39m▒\u001b[21;89H"
+    ],
+    [
+      0.200112,
+      "\u001b[37m\u001b[40m\u001b[16;21r\u001b[16;1H\u001b[1L\u001b[1;25r\u001b[14;15r\u001b[14;1H\u001b[1L\u001b[1;25r\u001b[3;13r\u001b[3;1H\u001b[1L\u001b[1;25r\u001b[2;20H\u001b[30m\u001b[47mNote: unsafe access is ok here, we guarantee that the value is within\r\n\u001b[39m\u001b[49m       │        -- (0..255), crc32Table covers that range.                              ▒\u001b[14;1H\u001b[32m  1,03 \u001b[39m│\u001b[35m    \u001b[32m  movzbl (%rsi),%edx                                                        \u001b[39m◆\u001b[16;1H\u001b[31m  9,69 \u001b[39m│\u001b[35m    \u001b[31m  and    $0xff,%r14d                                                        \u001b[39m▒\u001b[22;89H"
+    ],
+    [
+      0.164092,
+      "\u001b[37m\u001b[40m\u001b[15;22r\u001b[15;1H\u001b[1L\u001b[1;25r\u001b[3;13r\u001b[3;1H\u001b[1L\u001b[1;25r\u001b[2;15H\u001b[30m\u001b[47mwhere                                                                     \r\n\u001b[39m\u001b[49m       │        -- Note: unsafe access is ok here, we guarantee that the value is within▒\u001b[14;1H  0,10 \u001b[5C  mov    0x4(%rbx),%rax                                                     \r\n\u001b[32m  1,03 \u001b[39m│\u001b[35m    \u001b[32m  movzbl (%rsi),%edx                                                        \u001b[39m▒\u001b[23;89H"
+    ],
+    [
+      0.156088,
+      "\u001b[37m\u001b[40m\u001b[15;23r\u001b[15;1H\u001b[1L\u001b[1;25r\u001b[13;14r\u001b[13;1H\u001b[1L\u001b[1;25r\u001b[3;12r\u001b[3;1H\u001b[1L\u001b[1;25r\u001b[2;15H\u001b[30m\u001b[47mflipAll (tblEntry `xor` (crc `shiftR` 8))\r\n\u001b[39m\u001b[49m       │      where                                                                     ▒\u001b[13;1H       │\u001b[35m    \u001b[39m  shr    $0x8,%rcx                                                          ◆\u001b[15;1H  0,10 │\u001b[35m    \u001b[39m  mov    0x4(%rbx),%rax                                                     ▒\u001b[24;89H"
+    ],
+    [
+      0.600338,
+      "\u001b[37m\u001b[40m\u001b[14;24r\u001b[14;1H\u001b[1L\u001b[1;25r\u001b[3;12r\u001b[3;1H\u001b[1L\u001b[1;25r\u001b[2;13H\u001b[30m\u001b[47m↓ jmpq   ffffffffff9c58c8                  \r\n\u001b[39m\u001b[49m       │      flipAll (tblEntry `xor` (crc `shiftR` 8))                                 ▒\u001b[13;1H\u001b[32m  1,07 \u001b[5C  mov    %r14,%rcx                                                          \r\n\u001b[39m       │\u001b[35m    \u001b[39m  shr    $0x8,%rcx                                                          ▒\u001b[25;1H"
+    ],
+    [
+      0.544306,
+      "\u001b[37m\u001b[40m\u001b[14;24r\u001b[14;1H\u001b[1L\u001b[1;25r\u001b[12;13r\u001b[12;1H\u001b[1L\u001b[1;25r\u001b[3;11r\u001b[3;1H\u001b[1L\u001b[1;25r\u001b[2;9H\u001b[30m\u001b[47m27:   movq   $0x10,0x388(%r13)\r\n\u001b[39m\u001b[49m       │\u001b[35m    \u001b[39m↓ jmpq   ffffffffff9c58c8                                                   ▒\u001b[12;1H\u001b[31m 10,01 \u001b[39m│\u001b[35m    \u001b[31m  xor    %rax,%r14                                                          \u001b[39m◆\u001b[14;1H\u001b[32m  1,07 \u001b[39m│\u001b[35m    \u001b[32m  mov    %r14,%rcx                                                          \u001b[39m▒\u001b[25;1H"
+    ],
+    [
+      0.280158,
+      "\u001b[2;1H       │\u001b[35m27: \u001b[39m  movq   $0x10,0x388(%r13)                                                  \r\n\u001b[30m\u001b[47m       \u001b[39m\u001b[49m│\u001b[30m\u001b[47m    ↓ jmpq   ffffffffff9c58c8                                                   \u001b[12;89H\u001b[39m\u001b[49m▒\u001b[13;89H◆\u001b[25;1H"
+    ],
+    [
+      0.172097,
+      "\u001b[3;1H       │\u001b[35m    \u001b[39m↓ jmpq   ffffffffff9c58c8                                                   \r\n\u001b[30m\u001b[47m       \u001b[39m\u001b[49m│\u001b[30m\u001b[47m      flipAll (tblEntry `xor` (crc `shiftR` 8))                                 \u001b[25;1H"
+    ],
+    [
+      4.090300,
+      "\u001b[4;1H\u001b[39m\u001b[49m       │      flipAll (tblEntry `xor` (crc `shiftR` 8))                                 \r\n\u001b[30m\u001b[47m       \u001b[39m\u001b[49m│\u001b[30m\u001b[47m      where                                                                     \u001b[13;89H\u001b[39m\u001b[49m▒\u001b[14;89H◆\u001b[25;1H"
+    ],
+    [
+      0.248140,
+      "\u001b[5;1H       │      where                                                                     \r\n\u001b[30m\u001b[47m       \u001b[39m\u001b[49m│\u001b[30m\u001b[47m        -- Note: unsafe access is ok here, we guarantee that the value is within\u001b[25;1H"
+    ],
+    [
+      0.020011,
+      "\u001b[6;1H\u001b[39m\u001b[49m       │        -- Note: unsafe access is ok here, we guarantee that the value is within\r\n\u001b[30m\u001b[47m       \u001b[39m\u001b[49m│\u001b[30m\u001b[47m        -- (0..255), crc32Table covers that range.                              \u001b[14;89H\u001b[39m\u001b[49m▒\u001b[15;89H◆\u001b[25;1H"
+    ],
+    [
+      0.020011,
+      "\u001b[7;1H       │        -- (0..255), crc32Table covers that range.                              \r\n\u001b[30m\u001b[47m       \u001b[39m\u001b[49m│\u001b[30m\u001b[47m        tblEntry = crc32Table !!! ((crc `xor` (fromIntegral c)) .\u0026. 0xff)       \u001b[25;1H"
+    ],
+    [
+      0.912513,
+      "\u001b[1;1H\u001b[1m\u001b[37m\u001b[44mSamples: 8K of event 'cpu-clock', Event count (approx.): 2233500000\u001b[25;89H"
+    ],
+    [
+      0.004002,
+      "\u001b[2;1H\u001b(B\u001b[m\u001b[30m\u001b[47m  99,75%  crc32  crc32              [.] s4Tw_info                                       \u001b[39m\u001b[49m◆\u001b[3;4H0,10%  crc32  crc32              [.] c5gn_info\u001b[4;4H0,03%  crc32  crc32              [.] c5g3_info      \u001b[5;4H0,02%  crc32  crc32\u001b[14C[.] c2k_info\u001b[6;4H0,02%  crc32  crc32              [.] c7F_info                                        \u001b[7;4H0,01%  crc32  [kernel.kallsyms]  [k] __do_softirq      \r\n   0,01%  crc32  crc32              [.] allocatePinned                                  \u001b[9;4H0,01%  crc32  crc32              [.] c6le_info\r\n   0,01%  crc32  crc32              [.] chg3_info                                       \u001b[11;3H 0,01%  crc32  crc32              [.] 0x000000000041ca88\r\n   0,01%  crc32  libc-2.19.so       [.] _dl_addr                                        \u001b[13;3H                                   \r\n                                                                                        \u001b[15;8H                       \u001b[58C▒\u001b[16;1H                                                                                        \u001b[17;3H                                 \r\n                                                                                        \u001b[19;3H                            \r\n                                                                                        \r\n                                                                                        \r\n                                                                                        \r\n                                                                                        \u001b[24;3H                            \u001b[25;8H\u001b[37m\u001b[40m?\u001b[25;89H"
+    ],
+    [
+      0.000000,
+      "\u001b[13;89H"
+    ],
+    [
+      0.668376,
+      "\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000000,
+      "\u001b[25;1H\u001b(B\u001b[m\u001b[39;49m\r\u001b[K\r\u001b[?1049l"
+    ],
+    [
+      0.004002,
+      "\u001b]0;francesco@francesco-VirtualBox: ~/crc32\u0007francesco@francesco-VirtualBox:~/crc32$ "
+    ],
+    [
+      1.933087,
+      "p"
+    ],
+    [
+      0.152086,
+      "e"
+    ],
+    [
+      0.080045,
+      "r"
+    ],
+    [
+      0.164092,
+      "f"
+    ],
+    [
+      0.504283,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.184104,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.160090,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.152086,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.152086,
+      "o"
+    ],
+    [
+      0.512288,
+      "b"
+    ],
+    [
+      0.056032,
+      "j"
+    ],
+    [
+      0.288162,
+      "d"
+    ],
+    [
+      0.124070,
+      "u"
+    ],
+    [
+      0.112063,
+      "mp "
+    ],
+    [
+      0.476268,
+      "-"
+    ],
+    [
+      0.216122,
+      "W"
+    ],
+    [
+      0.180101,
+      "i"
+    ],
+    [
+      0.116065,
+      " "
+    ],
+    [
+      0.536301,
+      "c"
+    ],
+    [
+      0.084047,
+      "r"
+    ],
+    [
+      0.124070,
+      "c"
+    ],
+    [
+      0.156088,
+      "\u0007"
+    ],
+    [
+      0.000000,
+      "32"
+    ],
+    [
+      0.464261,
+      "|"
+    ],
+    [
+      0.140079,
+      " "
+    ],
+    [
+      0.372209,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.140079,
+      "l"
+    ],
+    [
+      0.040023,
+      "e"
+    ],
+    [
+      0.072041,
+      "s"
+    ],
+    [
+      0.148083,
+      "s"
+    ],
+    [
+      0.112063,
+      "\r\n"
+    ],
+    [
+      0.008005,
+      "\u001b[?1049h\u001b[?1h\u001b=\r"
+    ],
+    [
+      0.028016,
+      "\r\ncrc32:     file format elf64-x86-64\r\n\r\nContents of the .debug_info section:\r\n\r\n  Compilation Unit @ offset 0x0:\r\n   Length:        0x56c (32-bit)\r\n   Version:       3\r\n   Abbrev Offset: 0x0\r\n   Pointer Size:  8\r\n \u003c0\u003e\u003cb\u003e: Abbrev Number: 1 (DW_TAG_compile_unit)\r\n    \u003cc\u003e   DW_AT_name        : crc32.hs  \r\n    \u003c15\u003e   DW_AT_producer    : The Glorious Glasgow Haskell Compilation System 7.11.20150 \u0008403    \r\n    \u003c53\u003e   DW_AT_language    : 0x18     (Unknown: 18)\r\n    \u003c57\u003e   DW_AT_comp_dir    : /home/francesco/crc32/   \r\n    \u003c6e\u003e   DW_AT_use_UTF8    : 255      \r\n    \u003c6f\u003e   DW_AT_stmt_list   : 0x0      \r\n \u003c1\u003e\u003c73\u003e: Abbrev Number: 2 (DW_TAG_subprogram)\r\n    \u003c74\u003e   DW_AT_name        : cc08     \r\n    \u003c79\u003e   DW_AT_MIPS_linkage_name: rbTI_info   \r\n    \u003c83\u003e   DW_AT_external    : 0        \r\n    \u003c84\u003e   DW_AT_low_pc      : 0x406840 \r\n    \u003c8c\u003e   DW_AT_high_pc     : 0x4068a8 \r\n:\u001b[K"
+    ],
+    [
+      1.144643,
+      "\r\u001b[K/"
+    ],
+    [
+      3.077730,
+      "\u001b[Ks\u0008s"
+    ],
+    [
+      0.384216,
+      "\u001b[K4\u00084"
+    ],
+    [
+      0.760428,
+      "\u001b[KT\u0008T"
+    ],
+    [
+      0.284160,
+      "\u001b[Kw\u0008w"
+    ],
+    [
+      0.480270,
+      "\u001b[K_\u0008_"
+    ],
+    [
+      0.216122,
+      "\u001b[Ki\u0008i"
+    ],
+    [
+      0.104059,
+      "\u001b[Kn\u0008n"
+    ],
+    [
+      0.120068,
+      "\u001b[Kf\u0008f"
+    ],
+    [
+      0.068038,
+      "\u001b[Ko\u0008o"
+    ],
+    [
+      0.264149,
+      "\r\u001b[K"
+    ],
+    [
+      0.004002,
+      "\u001b[1;1H\r\n\u001b[2;1Hcrc32:     file format elf64-x86-64\r\n\u001b[3;1H\r\n\u001b[4;1HContents of the .debug_info section:\r\n\u001b[5;1H\r\n\u001b[6;1H  Compilation Unit @ offset 0x0:\r\n\u001b[7;1H   Length:        0x56c (32-bit)\r\n\u001b[8;1H   Version:       3\r\n\u001b[9;1H   Abbrev Offset: 0x0"
+    ],
+    [
+      0.000000,
+      "\r\n\u001b[10;1H   Pointer Size:  8\r\n\u001b[11;1H \u003c0\u003e\u003cb\u003e: Abbrev Number: 1 (DW_TAG_compile_unit)\r\n\u001b[12;1H    \u003cc\u003e   DW_AT_name        : crc32.hs  \r\n\u001b[13;1H    \u003c15\u003e   DW_AT_producer    : The Glorious Glasgow Haskell Compilation System 7.11.20150 \u0008\u001b[14;1H403    \r\n\u001b[15;1H    \u003c53\u003e   DW_AT_language    : 0x18     (Unknown: 18)\r\n\u001b[16;1H    \u003c57\u003e   DW_AT_comp_dir    : /home/francesco/crc32/   \r\n\u001b[17;1H    \u003c6e\u003e   DW_AT_use_UTF8    : 255      \r\n\u001b[18;1H    \u003c6f\u003e   DW_AT_stmt_list   : 0x0      \r\n\u001b[19;1H \u003c1\u003e\u003c73\u003e: Abbrev Number: 2 (DW_TAG_subprogram)\r\n\u001b[20;1H    \u003c74\u003e   DW_AT_name        : cc08     \r\n\u001b[21;1H    \u003c79\u003e   DW_AT_MIPS_linkage_name: rbTI_info   \r\n\u001b[22;1H    \u003c83\u003e   DW_AT_external    : 0        \r\n\u001b[23;1H    \u003c84\u003e   DW_AT_low_pc      : 0x406840 \r\n\u001b[24;1H    \u003c8c\u003e   DW_AT_high_pc     : 0x4068a8 \r\n\u001b[25;1H\u001b[1;1H\r\n\u001b[2;1"
+    ],
+    [
+      0.000000,
+      "Hcrc32:     file format elf64-x86-64\r\n\u001b[3;1H\r\n\u001b[4;1HContents of the .debug_info section:\r\n\u001b[5;1H\r\n\u001b[6;1H  Compilation Unit @ offset 0x0:\r\n\u001b[7;1H   Length:        0x56c (32-bit)\r\n\u001b[8;1H   Version:       3\r\n\u001b[9;1H   Abbrev Offset: 0x0\r\n\u001b[10;1H   Pointer Size:  8\r\n\u001b[11;1H \u003c0\u003e\u003cb\u003e: Abbrev Number: 1 (DW_TAG_compile_unit)\r\n\u001b[12;1H    \u003cc\u003e   DW_AT_name        : crc32.hs  \r\n\u001b[13;1H    \u003c15\u003e   DW_AT_producer    : The Glorious Glasgow Haskell Compilation System 7.11.20150 \u0008\u001b[14;1H403    \r\n\u001b[15;1H    \u003c53\u003e   DW_AT_language    : 0x18     (Unknown: 18)\r\n\u001b[16;1H    \u003c57\u003e   DW_AT_comp_dir    : /home/francesco/crc32/   \r\n\u001b[17;1H    \u003c6e\u003e   DW_AT_use_UTF8    : 255      \r\n\u001b[18;1H    \u003c6f\u003e   DW_AT_stmt_list   : 0x0      \r\n\u001b[19;1H \u003c1\u003e\u003c73\u003e: Abbrev Number: 2 (DW_TAG_subprogram)\r\n\u001b[20;1H    \u003c74\u003e   DW_AT_name        : cc08     \r\n\u001b[21;1H    \u003c79\u003e   DW_AT_MIPS_linkage_name: rbTI_info   \r\n\u001b[22;1H    \u003c83\u003e   DW_AT_external    : 0        \r\n\u001b[23;1H    \u003c84\u003e   DW_AT_low_pc      : 0x406840 \r\n\u001b[24;1H    \u003c8c\u003e   DW_AT_high_pc     : 0x4068a8 \r\n\u001b[25;1H"
+    ],
+    [
+      0.476268,
+      "...skipping...\r\n"
+    ],
+    [
+      0.004002,
+      "    \u003cdbce6\u003e   DW_AT_MIPS_linkage_name: \u001b[7ms4Tw_info\u001b[27m        \r\n    \u003cdbcf0\u003e   DW_AT_external    : 0     \r\n    \u003cdbcf1\u003e   DW_AT_low_pc      : 0x63a738      \r\n    \u003cdbcf9\u003e   DW_AT_high_pc     : 0x63a7aa      "
+    ],
+    [
+      0.000000,
+      "\r\n    \u003cdbd01\u003e   DW_AT_frame_base  : 1 byte block: 9c      (DW_OP_call_frame_cfa)\r\n \u003c2\u003e\u003cdbd03\u003e: Abbrev Number: 0\r\n \u003c1\u003e\u003cdbd04\u003e: Abbrev Number: 2 (DW_TAG_subprogram)\r\n    \u003cdbd05\u003e   DW_AT_name        : foldl'        \r\n    \u003cdbd0c\u003e   DW_AT_MIPS_linkage_name: digeszuHW7jLTQo7hbH8JJ8nYQHlJ_DataziDigestziPurezi \u0008CRC32_zdwgo1_info      \r\n    \u003cdbd50\u003e   DW_AT_external    : 255   \r\n    \u003cdbd51\u003e   DW_AT_low_pc      : 0x63a7d0      \r\n    \u003cdbd59\u003e   DW_AT_high_pc     : 0x63a99b      \r\n    \u003cdbd61\u003e   DW_AT_frame_base  : 1 byte block: 9c      (DW_OP_call_frame_cfa)\r\n \u003c2\u003e\u003cdbd63\u003e: Abbrev Number: 0\r\n \u003c1\u003e\u003cdbd64\u003e: Abbrev Number: 2 (DW_TAG_subprogram)\r\n    \u003cdbd65\u003e   DW_AT_name        : crc32Update   \r\n    \u003cdbd71\u003e   DW_AT_MIPS_linkage_name: digeszuHW7jLTQo7hbH8JJ8nYQHlJ_DataziDigestziPurezi \u0008CRC32_zdfCRC32ByteStringzuzdccrc32Update1_info \r\n    \u003cdbdd2\u003e   DW_AT_external    : 255   \r\n    \u003cdbdd3\u003e   DW_AT_low_pc      : 0x63a9c0      \r\n    \u003cdbddb\u003e   DW_AT_high_pc     : 0x63aa6f      \r\n    \u003cdbde3\u003e   DW_AT_frame_base  : 1 byte block: 9c      (DW_OP_call_frame_cfa)\r\n \u003c2\u003e\u003cdbde5\u003e: Abbrev Number: 0\r\n:\u001b[K"
+    ],
+    [
+      1.048590,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O"
+    ],
+    [
+      0.000000,
+      "\u001b[KA\u0008A\r\u001b[K"
+    ],
+    [
+      0.004002,
+      "\u001b[H\u001bM    \u003cdbce2\u003e   DW_AT_name        : !!!   \r\n\u001b[25;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.240135,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O"
+    ],
+    [
+      0.000000,
+      "\u001b[KA\u0008A\r\u001b[K"
+    ],
+    [
+      0.004002,
+      "\u001b[H\u001bM \u003c1\u003e\u003cdbce1\u003e: Abbrev Number: 2 (DW_TAG_subprogram)\r\n\u001b[25;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.020011,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u001b[H\u001bM \u003c2\u003e\u003cdbce0\u003e: Abbrev Number: 0\r\n\u001b[25;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.020011,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K"
+    ],
+    [
+      0.000000,
+      "\u001b[H\u001bM    \u003cdbcde\u003e   DW_AT_frame_base  : 1 byte block: 9c      (DW_OP_call_frame_cfa)\r\n\u001b[25;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.020011,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u001b[H\u001bM    \u003cdbcd6\u003e   DW_AT_high_pc     : 0x63a71c      \r\n\u001b[25;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.020011,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u001b[H\u001bM    \u003cdbcce\u003e   DW_AT_low_pc      : 0x63a6d8      "
+    ],
+    [
+      0.000000,
+      "\r\n\u001b[25;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.020011,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K"
+    ],
+    [
+      0.008005,
+      "\u001b[H\u001bM    \u003cdbccd\u003e   DW_AT_external    : 0     \r\n\u001b[25;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.012007,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u001b[H\u001bM    \u003cdbcc3\u003e   DW_AT_MIPS_linkage_name: r1Qn_info        \r\n\u001b[25;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.020011,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u001b[H\u001bM    \u003cdbcb8\u003e   DW_AT_name        : crc32Table    \r\n\u001b[25;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.020011,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u001b[H\u001bM \u003c1\u003e\u003cdbcb7\u003e: Abbrev Number: 2 (DW_TAG_subprogram)\r\n\u001b[25;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.020011,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u001b[H\u001bM \u003c2\u003e\u003cdbcb6\u003e: Abbrev Number: 0\r\n"
+    ],
+    [
+      0.000000,
+      "\u001b[25;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.020011,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K"
+    ],
+    [
+      0.000000,
+      "\u001b[H\u001bM    \u003cdbcb4\u003e   DW_AT_frame_base  : 1 byte block: 9c      (DW_OP_call_frame_cfa)\r\n\u001b[25;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.020011,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC"
+    ],
+    [
+      0.000000,
+      "\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K"
+    ],
+    [
+      0.000000,
+      "\u001b[H\u001bM    \u003cdbcac\u003e   DW_AT_high_pc     : 0x63a6c6      "
+    ],
+    [
+      0.004002,
+      "\r\n\u001b[25;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.016009,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K"
+    ],
+    [
+      0.000000,
+      "\u001b[H\u001bM    \u003cdbca4\u003e   DW_AT_low_pc      : 0x63a558      \r\n\u001b[25;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.448252,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O"
+    ],
+    [
+      0.000000,
+      "\u001b[KA\u0008A\r\u001b[K"
+    ],
+    [
+      0.000000,
+      "\u001b[H\u001bM    \u003cdbca3\u003e   DW_AT_external    : 0     "
+    ],
+    [
+      0.000000,
+      "\r\n\u001b[25;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.244137,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O"
+    ],
+    [
+      0.000000,
+      "\u001b[KA\u0008A\r\u001b[K"
+    ],
+    [
+      0.000000,
+      "\u001b[H\u001bM    \u003cdbc99\u003e   DW_AT_MIPS_linkage_name: r4S6_info        "
+    ],
+    [
+      0.000000,
+      "\r\n\u001b[25;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.016009,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u001b[H\u001bM    \u003cdbc8e\u003e   DW_AT_name        : crc32Table    \r\n\u001b[25;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.020011,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O"
+    ],
+    [
+      0.000000,
+      "\u001b[KA\u0008A\r\u001b[K"
+    ],
+    [
+      0.000000,
+      "\u001b[H\u001bM \u003c1\u003e\u003cdbc8d\u003e: Abbrev Number: 2 (DW_TAG_subprogram)\r\n"
+    ],
+    [
+      0.000000,
+      "\u001b[25;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.020011,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u001b[H\u001bM \u003c2\u003e\u003cdbc8c\u003e: Abbrev Number: 0\r\n\u001b[25;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.020011,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u001b[H\u001bM    \u003cdbc8a\u003e   DW_AT_frame_base  : 1 byte block: 9c      (DW_OP_call_frame_cfa)\r\n\u001b[25;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.024014,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K"
+    ],
+    [
+      0.000000,
+      "\u001b[H\u001bM    \u003cdbc82\u003e   DW_AT_high_pc     : 0x63a53c      \r\n\u001b[25;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.016009,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K"
+    ],
+    [
+      0.000000,
+      "\u001b[H\u001bM    \u003cdbc7a\u003e   DW_AT_low_pc      : 0x63a510      \r\n\u001b[25;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.024014,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u001b[H\u001bM    \u003cdbc79\u003e   DW_AT_external    : 0     \r\n\u001b[25;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.024014,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u001b[H\u001bM    \u003cdbc6f\u003e   DW_AT_MIPS_linkage_name: s4SF_info        \r\n\u001b[25;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.016009,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u001b[H\u001bM    \u003cdbc64\u003e   DW_AT_name        : crc32Table    \r\n\u001b[25;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.216122,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u001b[H\u001bM \u003c1\u003e\u003cdbc63\u003e: Abbrev Number: 2 (DW_TAG_subprogram)\r\n\u001b[25;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.228128,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u001b[H\u001bM \u003c2\u003e\u003cdbc62\u003e: Abbrev Number: 0\r\n\u001b[25;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.216122,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u001b[H\u001bM    \u003cdbc60\u003e   DW_AT_frame_base  : 1 byte block: 9c      (DW_OP_call_frame_cfa)\r\n\u001b[25;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.216122,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u001b[H\u001bM    \u003cdbc58\u003e   DW_AT_high_pc     : 0x63a4f3      \r\n\u001b[25;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.244137,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u001b[H\u001bM    \u003cdbc50\u003e   DW_AT_low_pc      : 0x63a428      \r\n\u001b[25;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.020011,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u001b[H\u001bM    \u003cdbc4f\u003e   DW_AT_external    : 0     \r\n\u001b[25;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.020011,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u001b[H\u001bM    \u003cdbc45\u003e   DW_AT_MIPS_linkage_name: s4SG_info        \r\n\u001b[25;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.024014,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u001b[H\u001bM    \u003cdbc3a\u003e   DW_AT_name        : crc32Table    \r\n\u001b[25;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.016009,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u001b[H\u001bM \u003c1\u003e\u003cdbc39\u003e: Abbrev Number: 2 (DW_TAG_subprogram)\r\n\u001b[25;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.020011,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u001b[H\u001bM \u003c2\u003e\u003cdbc38\u003e: Abbrev Number: 0\r\n\u001b[25;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.020011,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u001b[H\u001bM    \u003cdbc36\u003e   DW_AT_frame_base  : 1 byte block: 9c      (DW_OP_call_frame_cfa)\r\n\u001b[25;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.020011,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u001b[H\u001bM    \u003cdbc2e\u003e   DW_AT_high_pc     : 0x63a40b      \r\n\u001b[25;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.024014,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u001b[H\u001bM    \u003cdbc26\u003e   DW_AT_low_pc      : 0x63a3e8      \r\n\u001b[25;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.020011,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u001b[H\u001bM    \u003cdbc25\u003e   DW_AT_external    : 0     \r\n\u001b[25;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.372209,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u001b[H\u001bM    \u003cdbc1b\u003e   DW_AT_MIPS_linkage_name: s4Sw_info        \r\n\u001b[25;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.248140,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u001b[H\u001bM    \u003cdbc10\u003e   DW_AT_name        : crc32Table    \r\n\u001b[25;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.016009,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u001b[H\u001bM \u003c1\u003e\u003cdbc0f\u003e: Abbrev Number: 2 (DW_TAG_subprogram)\r\n\u001b[25;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.020011,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u001b[H\u001bM \u003c2\u003e\u003cdbc0e\u003e: Abbrev Number: 0\r\n\u001b[25;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.020011,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u001b[H\u001bM    \u003cdbc0c\u003e   DW_AT_frame_base  : 1 byte block: 9c      (DW_OP_call_frame_cfa)\r\n\u001b[25;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.024014,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u001b[H\u001bM    \u003cdbc04\u003e   DW_AT_high_pc     : 0x63a3ce      \r\n\u001b[25;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.020011,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u001b[H\u001bM    \u003cdbbfc\u003e   DW_AT_low_pc      : 0x63a388      \r\n\u001b[25;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.020011,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u001b[H\u001bM    \u003cdbbfb\u003e   DW_AT_external    : 255   \r\n\u001b[25;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.020011,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u001b[H\u001bMCRC32_crc32Update_info \r\n\u001b[25;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.300169,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u001b[H\u001bM    \u003cdbbb2\u003e   DW_AT_MIPS_linkage_name: digeszuHW7jLTQo7hbH8JJ8nYQHlJ_DataziDigestziPurezi\u001b[25;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      2.825589,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u001b[H\u001bM    \u003cdbbad\u003e   DW_AT_name        : c4UO  \r\n\u001b[25;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.416234,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u001b[H\u001bM \u003c1\u003e\u003cdbbac\u003e: Abbrev Number: 2 (DW_TAG_subprogram)\r\n\u001b[25;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.168095,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u001b[H\u001bM \u003c2\u003e\u003cdbbab\u003e: Abbrev Number: 0\r\n\u001b[25;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.124070,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u001b[H\u001bM    \u003cdbba9\u003e   DW_AT_frame_base  : 1 byte block: 9c      (DW_OP_call_frame_cfa)\r\n\u001b[25;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.248140,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u001b[H\u001bM    \u003cdbba1\u003e   DW_AT_high_pc     : 0x63a36e      \r\n\u001b[25;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.020011,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u001b[H\u001bM    \u003cdbb99\u003e   DW_AT_low_pc      : 0x63a328      \r\n\u001b[25;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.020011,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u001b[H\u001bM    \u003cdbb98\u003e   DW_AT_external    : 255   \r\n\u001b[25;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.020011,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u001b[H\u001bMCRC32_crc32_info       \r\n\u001b[25;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.020011,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u001b[H\u001bM    \u003cdbb55\u003e   DW_AT_MIPS_linkage_name: digeszuHW7jLTQo7hbH8JJ8nYQHlJ_DataziDigestziPurezi\u001b[25;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.020011,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u001b[H\u001bM    \u003cdbb50\u003e   DW_AT_name        : c4Ut  \r\n\u001b[25;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.020011,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u001b[H\u001bM \u003c1\u003e\u003cdbb4f\u003e: Abbrev Number: 2 (DW_TAG_subprogram)\r\n\u001b[25;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.020011,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u001b[H\u001bM    \u003cdbb4b\u003e   DW_AT_stmt_list   : 0x32691       \r\n\u001b[25;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.024014,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u001b[H\u001bM    \u003cdbb4a\u003e   DW_AT_use_UTF8    : 255   \r\n\u001b[25;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.020011,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u001b[H\u001bM    \u003cdbb21\u003e   DW_AT_comp_dir    : /home/francesco/crc32/digest-pure-0.0.3/      \r\n\u001b[25;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.244137,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u001b[H\u001bM    \u003cdbb1d\u003e   DW_AT_language    : 0x18  (Unknown: 18)\r\n\u001b[25;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.408230,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u001b[H\u001bM150403 \r\n\u001b[25;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.168095,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u001b[H\u001bM    \u003cdbadf\u003e   DW_AT_producer    : The Glorious Glasgow Haskell Compilation System 7.11.20\u001b[25;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.184104,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O"
+    ],
+    [
+      0.000000,
+      "\u001b[KA\u0008A\r\u001b[K"
+    ],
+    [
+      0.000000,
+      "\u001b[H\u001bM    \u003cdbac1\u003e   DW_AT_name        : src/Data/Digest/Pure/CRC32.hs "
+    ],
+    [
+      0.004002,
+      "\r\n\u001b[25;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.196110,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u001b[H\u001bM \u003c0\u003e\u003cdbac0\u003e: Abbrev Number: 1 (DW_TAG_compile_unit)\r\n\u001b[25;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.292164,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u001b[H\u001bM   Pointer Size:  8\r\n\u001b[25;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.236133,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u001b[H\u001bM   Abbrev Offset: 0x6cb\r\n\u001b[25;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.304171,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u001b[H\u001bM   Version:       3\r\n\u001b[25;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      5.843285,
+      "\r\u001b[K\u001b[?1l\u001b\u003e\u001b[?1049l"
+    ],
+    [
+      0.004002,
+      "\u001b]0;francesco@francesco-VirtualBox: ~/crc32\u0007francesco@francesco-VirtualBox:~/crc32$ "
+    ],
+    [
+      1.496841,
+      "exit\r\n"
+    ]
+  ]
+}
