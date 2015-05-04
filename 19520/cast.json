@@ -1,0 +1,598 @@
+{
+  "version": 1,
+  "width": 81,
+  "height": 29,
+  "duration": 35.822761,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.023915,
+      "\u001b[?1034h\u001b[0;32mpcottle$ "
+    ],
+    [
+      1.224810,
+      "g"
+    ],
+    [
+      0.095927,
+      "i"
+    ],
+    [
+      0.055961,
+      "t"
+    ],
+    [
+      0.103789,
+      " "
+    ],
+    [
+      0.095971,
+      "s"
+    ],
+    [
+      0.096144,
+      "h"
+    ],
+    [
+      0.040107,
+      "o"
+    ],
+    [
+      0.247972,
+      "w"
+    ],
+    [
+      0.144162,
+      " "
+    ],
+    [
+      0.183839,
+      "H"
+    ],
+    [
+      0.064088,
+      "E"
+    ],
+    [
+      0.055778,
+      "A"
+    ],
+    [
+      0.079779,
+      "D"
+    ],
+    [
+      0.224398,
+      "~"
+    ],
+    [
+      0.296320,
+      "1"
+    ],
+    [
+      0.447721,
+      " "
+    ],
+    [
+      0.184076,
+      "-"
+    ],
+    [
+      0.143894,
+      "-"
+    ],
+    [
+      0.119995,
+      "s"
+    ],
+    [
+      0.072302,
+      "t"
+    ],
+    [
+      0.071764,
+      "a"
+    ],
+    [
+      0.080130,
+      "t"
+    ],
+    [
+      0.351692,
+      "\r\n"
+    ],
+    [
+      0.014568,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.001417,
+      "\u001b[33mcommit 8458c9256d8eb096c7fb66ab6f26b086ec83c273\u001b[m\u001b[m\r\nAuthor: Peter Cottle \u003cpcottle@fb.com\u003e\u001b[m\r\nDate:   Sat May 2 10:47:14 2015 -0700\u001b[m\r\n\u001b[m\r\n    temp\u001b[m\r\n\u001b[m\r\n src/js/native_react_views/SequenceSelectView.js | 16 \u001b[32m+++++++++\u001b[m\u001b[31m-------\u001b[m\u001b[m\r\n 1 file changed, 9 insertions(+), 7 deletions(-)\u001b[m\r\n"
+    ],
+    [
+      0.000010,
+      "\r\u001b[K\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.001369,
+      "\u001b[0;32mpcottle$ "
+    ],
+    [
+      1.215361,
+      "git show HEAD~1 --stat"
+    ],
+    [
+      0.119800,
+      " "
+    ],
+    [
+      0.376074,
+      "|"
+    ],
+    [
+      0.063804,
+      " "
+    ],
+    [
+      0.159934,
+      "f"
+    ],
+    [
+      0.080323,
+      "p"
+    ],
+    [
+      0.143844,
+      "p"
+    ],
+    [
+      0.695949,
+      "\r\n"
+    ],
+    [
+      0.142007,
+      "\u001b[?1049h\u001b[1;29r\u001b(B\u001b[m\u001b[4l\u001b[?7h\u001b[?1h\u001b="
+    ],
+    [
+      0.011847,
+      "\u001b[39;49m\u001b[39;49m\u001b[37m\u001b[40m\u001b[H\u001b[2Jcommit 8458c9256d8eb096c7fb66ab6f26b086ec83c273\r\nAuthor: Peter Cottle \u003cpcottle@fb.com\u003e\r\nDate:   Sat May 2 10:47:14 2015 -0700\n\n\u001b[5Gtemp\r\n\n \u001b[37m\u001b[41msrc/js/native_react_views/SequenceSelectView.js\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m | 16 +++++++++-------\r\n 1 file changed, 9 insertions(+), 7 deletions(-)\r\u001b[28d_________________________________________________________________________________\u001b[29;1H[f|A] selection, [down|j|up|k|space|b] navigation, [enter] open, [c] command mod\u001b[?7le\u001b[?7h\r\u001b[7d"
+    ],
+    [
+      1.550848,
+      " \u001b[37m\u001b[42m|===\u003esrc/js/native_react_views/SequenceSelectView.js\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m | 16 +++++++++-------\r"
+    ],
+    [
+      1.112661,
+      "\u001b[39;49m\u001b[37m\u001b[40m\u001b[H\u001b[2J\u001b[9d==========================================================\r\nFiles you have selected:\r\n==========================================================\r\n/Users/pcottle/Dropbox (Personal)/wip/learnGitBranching/src/js/native_react_\r\n==========================================================\r\nType a command below! Files will be appended or replace $F\r\nEnter a blank line to go back to the selection process\r\n==========================================================\r\n..........................................................\r\u001b[28d_________________________________________________________________________________\u001b[29;1Hcommand examples: | git add | git checkout HEAD~1 -- | mv $F ../here/ |\u001b[17;59H"
+    ],
+    [
+      0.000053,
+      "\r"
+    ],
+    [
+      1.735050,
+      "c"
+    ],
+    [
+      0.200297,
+      "a"
+    ],
+    [
+      0.159965,
+      "t"
+    ],
+    [
+      0.279854,
+      " "
+    ],
+    [
+      0.823994,
+      "\r\n"
+    ],
+    [
+      0.018430,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000044,
+      "\u001b[39;49m\u001b[29d\u001b[K\u001b[29;1H\u001b[?1049l\r\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.008785,
+      "executing command:\r\n"
+    ],
+    [
+      0.000069,
+      "cat  '/Users/pcottle/Dropbox (Personal)/wip/learnGitBranching/src/js/native_react_views/SequenceSelectView.js'\r\n"
+    ],
+    [
+      0.003097,
+      "var assign = require('object-assign');\r\nvar NavButton = require('../native_react_views/NavButton');\r\nvar React = require('react-native');\r\nvar Routes = require('../constants/Routes');\r\nvar {\r\n  ScrollView,\r\n  StyleSheet,\r\n  Text,\r\n  TouchableHighlight,\r\n  View,\r\n} = React;\r\n\r\nvar AppStyles = require('../constants/AppStyles');\r\nvar AppViews = require('../native_react_views/AppViews');\r\nvar {\r\n  HeaderSpacer,\r\n} = AppViews;\r\nvar TerminalCardView = require('../native_react_views/TerminalCardView');\r\nvar NavButton = require('../native_react_views/NavButton');\r\nvar Levels = require('../../levels');\r\n\r\nvar intl = require('../intl');\r\n\r\nvar SequenceSelectView = React.createClass({\r\n\r\n  propTypes: {\r\n    navigator: React.PropTypes.object.isRequired,\r\n  },\r\n\r\n  render: function() {\r\n    return (\r\n      \u003cView style={styles.background}\u003e\r\n        \u003cHeaderSpacer /\u003e\r\n        \u003cScrollView style={styles.container}\u003e\r\n          \u003cView style={styles.headerSpacer} /\u003e\r\n          \u003cTerminalCardView\u003e\r\n            \u003cView style={styles.te"
+    ],
+    [
+      0.000031,
+      "rminalContainer}\u003e\r\n              {Object.keys(Levels.levelSequences).map(\r\n                sequenceID =\u003e this.renderSelector(sequenceID)\r\n              )}\r\n            \u003c/View\u003e\r\n          \u003c/TerminalCardView\u003e\r\n        \u003c/ScrollView\u003e\r\n      \u003c/View\u003e\r\n    );\r\n  },\r\n\r\n  renderSelector: function(sequenceID) {\r\n    var info = Levels.sequenceInfo[sequenceID];\r\n    var name = intl.getIntlKey(info, 'displayName');\r\n    var about = intl.getIntlKey(info, 'about');\r\n\r\n    return (\r\n      \u003cTouchableHighlight\r\n        onPress={() =\u003e {\r\n          this.props.navigator.push(\r\n            Routes.getRouteForID(Routes.LEVEL_SELECT)\r\n          );\r\n        }}\r\n        underlayColor=\"#6E6E6E\"\u003e\r\n        \u003cView\u003e\r\n          \u003cView style={styles.textContainer}\u003e\r\n            \u003cText style={styles.sequenceName}\u003e\r\n              {name}\r\n            \u003c/Text\u003e\r\n            \u003cText style={styles.sequenceAbout}\u003e\r\n              {about}\r\n            \u003c/Text\u003e\r\n          \u003c/View\u003e\r\n          \u003cView style={styles.divider} /\u003e\r\n        \u003c/View\u003e\r\n      \u003c/TouchableHig"
+    ],
+    [
+      0.000013,
+      "hlight\u003e\r\n    );\r\n  }\r\n\r\n});\r\n\r\nvar styles = StyleSheet.create({\r\n  divider: {\r\n    height: 1,\r\n    marginBottom: 8,\r\n    backgroundColor: '#FFF'\r\n  },\r\n  terminalContainer: {\r\n    paddingTop: 8,\r\n    paddingBottom: 8,\r\n  },\r\n  textContainer: {\r\n    paddingLeft: 8,\r\n    paddingRight: 8,\r\n  },\r\n  sequenceName: assign({}, AppStyles.terminalTextStyle, {\r\n    fontSize: 20,\r\n  }),\r\n  sequenceAbout: assign({}, AppStyles.terminalTextStyle, {\r\n    fontSize: 10,\r\n    marginTop: 8,\r\n    marginBottom: 8,\r\n  }),\r\n  container: {\r\n    padding: 8,\r\n  },\r\n  headerSpacer: {\r\n    height: 24,\r\n  },\r\n  background: {\r\n    backgroundColor: AppStyles.blueBackground,\r\n    flex: 1\r\n  },\r\n});\r\n\r\nmodule.exports = SequenceSelectView;\r\n"
+    ],
+    [
+      0.000987,
+      "\u001b[0;32mpcottle$ "
+    ],
+    [
+      2.985160,
+      "f"
+    ],
+    [
+      0.119866,
+      "p"
+    ],
+    [
+      0.159917,
+      "p"
+    ],
+    [
+      0.176185,
+      "\r\n"
+    ],
+    [
+      0.063880,
+      "Using old result...\r\n"
+    ],
+    [
+      0.053038,
+      "\u001b[?1049h\u001b[1;29r\u001b(B\u001b[m\u001b[4l\u001b[?7h\u001b[?1h\u001b="
+    ],
+    [
+      0.009603,
+      "\u001b[39;49m\u001b[39;49m\u001b[37m\u001b[40m\u001b[H\u001b[2Jcommit 8458c9256d8eb096c7fb66ab6f26b086ec83c273\r\nAuthor: Peter Cottle \u003cpcottle@fb.com\u003e\r\nDate:   Sat May 2 10:47:14 2015 -0700\n\n\u001b[5Gtemp\r\n\n \u001b[37m\u001b[41msrc/js/native_react_views/SequenceSelectView.js\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m | 16 +++++++++-------\r\n 1 file changed, 9 insertions(+), 7 deletions(-)\r\u001b[28d_________________________________________________________________________________\u001b[29;1H[f|A] selection, [down|j|up|k|space|b] navigation, [enter] open, [c] command mod\u001b[?7le\u001b[?7h\r\u001b[7d"
+    ],
+    [
+      0.738474,
+      "\u001b[39;49m\u001b[37m\u001b[40m\u001b[H\u001b[2J\u001b[9d==========================================================\r\nFiles you have selected:\r\n==========================================================\r\n/Users/pcottle/Dropbox (Personal)/wip/learnGitBranching/src/js/native_react_\r\n==========================================================\r\nType a command below! Files will be appended or replace $F\r\nEnter a blank line to go back to the selection process\r\n==========================================================\r\n..........................................................\r\u001b[28d_________________________________________________________________________________\u001b[29;1Hcommand examples: | git add | git checkout HEAD~1 -- | mv $F ../here/ |\u001b[17;59H"
+    ],
+    [
+      0.000092,
+      "\r"
+    ],
+    [
+      1.127184,
+      "c"
+    ],
+    [
+      0.087585,
+      "a"
+    ],
+    [
+      0.103974,
+      "t"
+    ],
+    [
+      0.096194,
+      " "
+    ],
+    [
+      0.119989,
+      "$"
+    ],
+    [
+      0.184013,
+      "F"
+    ],
+    [
+      0.208023,
+      " "
+    ],
+    [
+      0.192249,
+      "|"
+    ],
+    [
+      0.079966,
+      " "
+    ],
+    [
+      0.111974,
+      "w"
+    ],
+    [
+      0.103801,
+      "c"
+    ],
+    [
+      0.048132,
+      " "
+    ],
+    [
+      0.112345,
+      "-"
+    ],
+    [
+      0.199758,
+      "l"
+    ],
+    [
+      0.680073,
+      "\r\n"
+    ],
+    [
+      0.017626,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000025,
+      "\u001b[39;49m\u001b[29d\u001b[K\u001b[29;1H\u001b[?1049l\r\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.006965,
+      "executing command:\r\n"
+    ],
+    [
+      0.000066,
+      "cat '/Users/pcottle/Dropbox (Personal)/wip/learnGitBranching/src/js/native_react_views/SequenceSelectView.js' | wc -l\r\n"
+    ],
+    [
+      0.003236,
+      "     112\r\n"
+    ],
+    [
+      0.001178,
+      "\u001b[0;32mpcottle$ "
+    ],
+    [
+      1.691222,
+      "f"
+    ],
+    [
+      0.095738,
+      "p"
+    ],
+    [
+      0.135960,
+      "p"
+    ],
+    [
+      0.183884,
+      "\r\n"
+    ],
+    [
+      0.057315,
+      "Using old result...\r\n"
+    ],
+    [
+      0.057014,
+      "\u001b[?1049h\u001b[1;29r\u001b(B\u001b[m\u001b[4l\u001b[?7h\u001b[?1h\u001b="
+    ],
+    [
+      0.009498,
+      "\u001b[39;49m\u001b[39;49m\u001b[37m\u001b[40m\u001b[H\u001b[2Jcommit 8458c9256d8eb096c7fb66ab6f26b086ec83c273\r\nAuthor: Peter Cottle \u003cpcottle@fb.com\u003e\r\nDate:   Sat May 2 10:47:14 2015 -0700\n\n\u001b[5Gtemp\r\n\n \u001b[37m\u001b[41msrc/js/native_react_views/SequenceSelectView.js\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m | 16 +++++++++-------\r\n 1 file changed, 9 insertions(+), 7 deletions(-)\r\u001b[28d_________________________________________________________________________________\u001b[29;1H[f|A] selection, [down|j|up|k|space|b] navigation, [enter] open, [c] command mod\u001b[?7le\u001b[?7h\r\u001b[7d"
+    ],
+    [
+      0.732813,
+      " \u001b[37m\u001b[42m|===\u003esrc/js/native_react_views/SequenceSelectView.js\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m | 16 +++++++++-------\r"
+    ],
+    [
+      0.400561,
+      "\u001b[39;49m\u001b[37m\u001b[40m\u001b[H\u001b[2J\u001b[9d==========================================================\r\nFiles you have selected:\r\n==========================================================\r\n/Users/pcottle/Dropbox (Personal)/wip/learnGitBranching/src/js/native_react_\r\n==========================================================\r\nType a command below! Files will be appended or replace $F\r\nEnter a blank line to go back to the selection process\r\n==========================================================\r\n..........................................................\r\u001b[28d_________________________________________________________________________________\u001b[29;1Hcommand examples: | git add | git checkout HEAD~1 -- | mv $F ../here/ |\u001b[17;59H"
+    ],
+    [
+      0.000030,
+      "\r"
+    ],
+    [
+      0.975178,
+      "g"
+    ],
+    [
+      0.088218,
+      "i"
+    ],
+    [
+      0.055964,
+      "t"
+    ],
+    [
+      0.087894,
+      " "
+    ],
+    [
+      0.112102,
+      "c"
+    ],
+    [
+      0.096072,
+      "h"
+    ],
+    [
+      0.096009,
+      "e"
+    ],
+    [
+      0.039923,
+      "c"
+    ],
+    [
+      0.088143,
+      "k"
+    ],
+    [
+      0.127702,
+      "o"
+    ],
+    [
+      0.136306,
+      "u"
+    ],
+    [
+      0.127646,
+      "t"
+    ],
+    [
+      0.152231,
+      " "
+    ],
+    [
+      0.136122,
+      "H"
+    ],
+    [
+      0.040042,
+      "E"
+    ],
+    [
+      0.071768,
+      "A"
+    ],
+    [
+      0.063943,
+      "D"
+    ],
+    [
+      0.208098,
+      "~"
+    ],
+    [
+      0.888222,
+      "1"
+    ],
+    [
+      0.096309,
+      "0"
+    ],
+    [
+      0.095796,
+      " "
+    ],
+    [
+      0.111757,
+      "-"
+    ],
+    [
+      0.128212,
+      "-"
+    ],
+    [
+      0.080018,
+      " "
+    ],
+    [
+      0.480005,
+      "\r\n"
+    ],
+    [
+      0.017644,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000012,
+      "\u001b[39;49m\u001b[29d\u001b[K\u001b[29;1H\u001b[?1049l\r\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.007574,
+      "executing command:\r\n"
+    ],
+    [
+      0.000073,
+      "git checkout HEAD~10 --  '/Users/pcottle/Dropbox (Personal)/wip/learnGitBranching/src/js/native_react_views/SequenceSelectView.js'\r\n"
+    ],
+    [
+      0.025519,
+      "\u001b[0;32mpcottle$ "
+    ],
+    [
+      1.157322,
+      "g"
+    ],
+    [
+      0.079806,
+      "i"
+    ],
+    [
+      0.055781,
+      "t"
+    ],
+    [
+      0.112131,
+      " "
+    ],
+    [
+      0.063881,
+      "s"
+    ],
+    [
+      0.088358,
+      "t"
+    ],
+    [
+      0.079740,
+      "a"
+    ],
+    [
+      0.048573,
+      "t"
+    ],
+    [
+      0.135828,
+      "u"
+    ],
+    [
+      0.023568,
+      "s"
+    ],
+    [
+      0.144075,
+      "\r\n"
+    ],
+    [
+      0.026302,
+      "On branch master\r\n"
+    ],
+    [
+      0.000989,
+      "Your branch is up-to-date with 'origin/master'.\r\n\r\n"
+    ],
+    [
+      0.000007,
+      "Changes to be committed:\r\n  (use \"git reset HEAD \u003cfile\u003e...\" to unstage)\r\n\r\n"
+    ],
+    [
+      0.000028,
+      "\t\u001b[32mmodified:   native_react_views/SequenceSelectView.js\u001b[m\r\n\r\n"
+    ],
+    [
+      0.001248,
+      "\u001b[0;32mpcottle$ "
+    ],
+    [
+      2.236368,
+      "g"
+    ],
+    [
+      0.087616,
+      "s"
+    ],
+    [
+      0.087786,
+      "\r\n"
+    ],
+    [
+      0.017804,
+      "## \u001b[32mmaster\u001b[m...\u001b[31morigin/master\u001b[m\r\n\u001b[32mM\u001b[m  native_react_views/SequenceSelectView.js\r\n"
+    ],
+    [
+      0.001376,
+      "\u001b[0;32mpcottle$ "
+    ],
+    [
+      2.157498,
+      "exit\r\n"
+    ]
+  ]
+}
