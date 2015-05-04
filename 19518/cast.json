@@ -1,0 +1,358 @@
+{
+  "version": 1,
+  "width": 81,
+  "height": 29,
+  "duration": 14.986668,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.021794,
+      "\u001b[?1034h"
+    ],
+    [
+      0.000010,
+      "\u001b[0;32mpcottle$ "
+    ],
+    [
+      0.689022,
+      "g"
+    ],
+    [
+      0.079758,
+      "i"
+    ],
+    [
+      0.056251,
+      "t"
+    ],
+    [
+      0.111569,
+      " "
+    ],
+    [
+      0.072284,
+      "d"
+    ],
+    [
+      0.111941,
+      "i"
+    ],
+    [
+      0.072071,
+      "f"
+    ],
+    [
+      0.239937,
+      "f"
+    ],
+    [
+      0.391687,
+      " "
+    ],
+    [
+      0.168179,
+      "H"
+    ],
+    [
+      0.088335,
+      "E"
+    ],
+    [
+      0.055768,
+      "A"
+    ],
+    [
+      0.088450,
+      "D"
+    ],
+    [
+      0.263914,
+      "~"
+    ],
+    [
+      0.567871,
+      "8"
+    ],
+    [
+      0.191867,
+      " "
+    ],
+    [
+      0.128192,
+      "-"
+    ],
+    [
+      0.184158,
+      "-"
+    ],
+    [
+      0.096245,
+      "s"
+    ],
+    [
+      0.095887,
+      "t"
+    ],
+    [
+      0.063865,
+      "a"
+    ],
+    [
+      0.071915,
+      "t"
+    ],
+    [
+      0.495803,
+      "\r\n"
+    ],
+    [
+      0.017258,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.006009,
+      " assets/emoji_table.rtf                          | 2523 \u001b[32m++++++++++++++++++++++++\u001b[m\u001b[m\r\n src/js/dialogs/confirmShowSolution.js           |   16 \u001b[32m+\u001b[m\u001b[m\r\n src/js/dialogs/levelBuilder.js                  |   19 \u001b[32m+\u001b[m\u001b[m\r\n src/js/dialogs/sandbox.js                       |   10 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\u001b[m\r\n src/js/intl/strings.js                          |   35 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\u001b[m\r\n src/js/native/index.ios.js                      |    4 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\u001b[m\r\n src/js/native_react_views/NUXView.js            |   33 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\u001b[m\r\n src/js/native_react_views/SequenceSelectView.js |   67 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\u001b[m\r\n src/js/native_react_views/TerminalCardView.js   |    1 \u001b[31m-\u001b[m\u001b[m\r\n src/levels/intro/commits.js                     |    2 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\u001b[m\r\n src/levels/mixed/describe.js                    |   65 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\u001b[m\r\n src/levels/mixed/tags.js                        |   52 \u001b[32m+\u001b[m\u001b[m\r\n src/levels/rampup/cherryPick.js                 |    6 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\u001b[m\r\n src/levels/rampup/"
+    ],
+    [
+      0.000015,
+      "detachedHead"
+    ],
+    [
+      0.000120,
+      ".js               |    6 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\u001b[m\r\n src/levels/rampup/relativeRefs.js               |    5 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\u001b[m\r\n src/levels/rampup/relativeRefs2.js              |    2 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\u001b[m\r\n src/levels/rampup/reversingChanges.js           |    2 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\u001b[m\r\n src/levels/rebase/manyRebases.js                |    3 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\u001b[m\r\n src/levels/remote/clone.js                      |   21 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\u001b[m\r\n src/levels/remote/push.js                       |    2 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\u001b[m\r\n src/levels/remote/remoteBranches.js             |   62 \u001b[32m+\u001b[m\u001b[31m-\u001b[m\u001b[m\r\n 21 files changed, 2869 insertions(+), 67 deletions(-)\u001b[m\r\n"
+    ],
+    [
+      0.000038,
+      "\r\u001b[K\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.001394,
+      "\u001b[0;32mpcottle$ "
+    ],
+    [
+      1.007626,
+      "git diff HEAD~8 --stat"
+    ],
+    [
+      0.111926,
+      " "
+    ],
+    [
+      0.183838,
+      "|"
+    ],
+    [
+      0.056272,
+      " "
+    ],
+    [
+      0.143893,
+      "f"
+    ],
+    [
+      0.088188,
+      "p"
+    ],
+    [
+      0.135873,
+      "p"
+    ],
+    [
+      0.736359,
+      "\r\n"
+    ],
+    [
+      0.137649,
+      "\u001b[?1049h\u001b[1;29r\u001b(B\u001b[m\u001b[4l\u001b[?7h\u001b[?1h\u001b="
+    ],
+    [
+      0.010751,
+      "\u001b[39;49m\u001b[39;49m\u001b[37m\u001b[40m\u001b[H\u001b[2J \u001b[37m\u001b[41massets/emoji_table.rtf\u001b[1;50H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m| 2523 +++++++++++++++++++++++\r\n \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40msrc/js/dialogs/confirmShowSolution.js\u001b[2;50H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|   16 +\r\n \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40msrc/js/dialogs/levelBuilder.js\u001b[3;50H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|   19 +\r\n \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40msrc/js/dialogs/sandbox.js\u001b[4;50H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|   10 +-\r\n \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40msrc/js/intl/strings.js\u001b[5;50H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|   35 +-\r\n \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40msrc/js/native/index.ios.js\u001b[6;50H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|    4 +-\r\n \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40msrc/js/native_react_views/NUXView.js\u001b[7;50H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|   33 +-\r\n \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40msrc/js/native_react_views/SequenceSelectView.js\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m |   67 +-\r\n \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40msrc/js/native_react_views/TerminalCardView.js\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m   |    1 -\r\n \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40msrc/levels/intro/commits.js\u001b[10;50H\u001b(B\u001b[m\u001b[39;49m\u001b[3"
+    ],
+    [
+      0.000031,
+      "7m\u001b[40m|    2 +-\r\n \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40msrc/levels/mixed/describe.js\u001b[11;50H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|   65 +-\r\n \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40msrc/levels/mixed/tags.js\u001b[12;50H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|   52 +\r\n \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40msrc/levels/rampup/cherryPick.js\u001b[13;50H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|    6 +-\r\n \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40msrc/levels/rampup/detachedHead.js\u001b[14;50H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|    6 +-\r\n \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40msrc/levels/rampup/relativeRefs.js\u001b[15;50H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|    5 +-\r\n \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40msrc/levels/rampup/relativeRefs2.js\u001b[16;50H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|    2 +-\r\n \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40msrc/levels/rampup/reversingChanges.js\u001b[17;50H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|    2 +-\r\n \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40msrc/levels/rebase/manyRebases.js\u001b[18;50H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|    3 +-\r\n \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40msrc/levels/remote/clone.js\u001b[19;50H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|   21 +-\r\n \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40msrc/levels/remote/push.js\u001b[20;50H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|    "
+    ],
+    [
+      0.000028,
+      "2 +-\r\n \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40msrc/levels/remote/remoteBranches.js\u001b[21;50H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m|   62 +-\r\n 21 files changed, 2869 insertions(+), 67 deletions(-)\r\u001b[28d_________________________________________________________________________________\u001b[29;1H[f|A] selection, [down|j|up|k|space|b] navigation, [enter] open, [c] command mod\u001b[?7le\u001b[?7h\u001b[H"
+    ],
+    [
+      0.483614,
+      " \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40massets/emoji_table.rtf\r\n\u001b[C\u001b(B\u001b[0m\u001b[37m\u001b[41msrc/js/dialogs/confirmShowSolution.js\r\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.192175,
+      " \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40msrc/js/dialogs/confirmShowSolution.js\r\n\u001b[C\u001b(B\u001b[0m\u001b[37m\u001b[41msrc/js/dialogs/levelBuilder.js\r\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.207895,
+      " \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40msrc/js/dialogs/levelBuilder.js\r\n\u001b[C\u001b(B\u001b[0m\u001b[37m\u001b[41msrc/js/dialogs/sandbox.js\r\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.216239,
+      " \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40msrc/js/dialogs/sandbox.js\r\n\u001b[C\u001b(B\u001b[0m\u001b[37m\u001b[41msrc/js/intl/strings.js\r\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.175895,
+      " \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40msrc/js/intl/strings.js\r\n\u001b[C\u001b(B\u001b[0m\u001b[37m\u001b[41msrc/js/native/index.ios.js\r\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.159897,
+      " \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40msrc/js/native/index.ios.js\r\n\u001b[C\u001b(B\u001b[0m\u001b[37m\u001b[41msrc/js/native_react_views/NUXView.js\r\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.143742,
+      " \u001b[37m\u001b[42m|===\u003esrc/js/native_react_views/NUXView.js\u001b[50G\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m     |   33 +-\r"
+    ],
+    [
+      0.304204,
+      " \u001b[37m\u001b[44m|===\u003esrc/js/native_react_views/NUXView.js\r\n\u001b[C\u001b[37m\u001b[41msrc/js/native_react_views/SequenceSelectView.js\r\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.208148,
+      " \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40msrc/js/native_react_views/SequenceSelectView.js\r\n\u001b[C\u001b(B\u001b[0m\u001b[37m\u001b[41msrc/js/native_react_views/TerminalCardView.js\r\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.167496,
+      " \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40msrc/js/native_react_views/TerminalCardView.js\r\n\u001b[C\u001b(B\u001b[0m\u001b[37m\u001b[41msrc/levels/intro/commits.js\r\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.160448,
+      " \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40msrc/levels/intro/commits.js\r\n\u001b[C\u001b(B\u001b[0m\u001b[37m\u001b[41msrc/levels/mixed/describe.js\r\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.175741,
+      " \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40msrc/levels/mixed/describe.js\r\n\u001b[C\u001b(B\u001b[0m\u001b[37m\u001b[41msrc/levels/mixed/tags.js\r\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.200257,
+      " \u001b(B\u001b[0;4m\u001b[39;49m\u001b[37m\u001b[40msrc/levels/mixed/tags.js\r\n\u001b[C\u001b(B\u001b[0m\u001b[37m\u001b[41msrc/levels/rampup/cherryPick.js\r\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.223961,
+      " \u001b[37m\u001b[42m|===\u003esrc/levels/rampup/cherryPick.js\u001b[13;50H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m     |    6 +-\r"
+    ],
+    [
+      0.591275,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000010,
+      "\u001b[39;49m\u001b[29d\u001b[K\u001b[29;1H\u001b[?1049l\r\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.013263,
+      "2 files to edit\r\n"
+    ],
+    [
+      0.213440,
+      "\u001b[?1000h\u001b[?1049h\u001b[?1h\u001b="
+    ],
+    [
+      0.000983,
+      "\u001b[1;29r\u001b[?12;25h\u001b[?12l\u001b[?25h\u001b[27m\u001b[m\u001b[38;5;255m\u001b[48;5;236m\u001b[H\u001b[2J\u001b[?25l\u001b[29;1H\u003crsonal)/wip/learnGitBranching/src/js/native_react_views/NUXView.js\""
+    ],
+    [
+      0.000139,
+      "\r\u003cp/learnGitBranching/src/js/native_react_views/NUXView.js\" 96L, 2492C"
+    ],
+    [
+      0.062130,
+      "\r\u003cx (Personal)/wip/learnGitBranching/src/levels/rampup/cherryPick.js\" "
+    ],
+    [
+      0.000386,
+      "\r\u003c/wip/learnGitBranching/src/levels/rampup/cherryPick.js\" 485L, 24908C"
+    ],
+    [
+      0.026657,
+      "\u001b[\u003ec"
+    ],
+    [
+      0.007887,
+      "\u001b[1;1H\u001b[38;5;228mvar\u001b[m\u001b[38;5;255m\u001b[48;5;236m assign \u001b[38;5;215m=\u001b[m\u001b[38;5;255m\u001b[48;5;236m require(\u001b[38;5;247m'object-assign'\u001b[m\u001b[38;5;255m\u001b[48;5;236m);  \u001b[38;5;237m\u001b[48;5;237m|\u001b[m\u001b[38;5;255m\u001b[48;5;236m\r\n\u001b[38;5;228mvar\u001b[m\u001b[38;5;255m\u001b[48;5;236m React \u001b[38;5;215m=\u001b[m\u001b[38;5;255m\u001b[48;5;236m require(\u001b[38;5;247m'react-native'\u001b[m\u001b[38;5;255m\u001b[48;5;236m);    \u001b[38;5;237m\u001b[48;5;237m|\u001b[m\u001b[38;5;255m\u001b[48;5;236m\r\n\u001b[38;5;228mvar\u001b[m\u001b[38;5;255m\u001b[48;5;236m Routes \u001b[38;5;215m=\u001b[m\u001b[38;5;255m\u001b[48;5;236m require(\u001b[38;5;247m'../constants/Route\u001b[m\u001b[38;5;255m\u001b[48;5;236m\u001b[38;5;237m\u001b[48;5;237m|\u001b[m\u001b[38;5;255m\u001b[48;5;236m\r\n\u001b[38;5;228mvar\u001b[m\u001b[38;5;255m\u001b[48;5;236m {\u001b[35C\u001b[38;5;237m\u001b[48;5;237m|\u001b[m\u001b[38;5;255m\u001b[48;5;236m\r\n  ScrollView,\u001b[27C\u001b[38;5;237m\u001b[48;5;237m|\u001b[m\u001b[38;5;255m\u001b[48;5;236m\r\n  StyleSheet,\u001b[27C\u001b[38;5;237m\u001b[48;5;237m|\u001b[m\u001b[38;5;255m\u001b[48;5;236m\r\n  \u001b[97mText\u001b[m\u001b[38;5;255m\u001b[48;5;236m,\u001b[33C\u001b[38;5;237m\u001b[48;5;237m|\u001b[m\u001b[38;5;255m\u001b[48;5;236m\r\n  View,\u001b[33C\u001b[38;5;237m\u001b[48;5;237m|\u001b[m\u001b[38;5;255m\u001b[48;5;236m\r\n} \u001b[38;5;215m=\u001b[m\u001b[38;5;255m\u001b[48;5;236"
+    ],
+    [
+      0.000029,
+      "m React;\u001b[30C\u001b[38;5;237m\u001b[48;5;237m|\u001b[10;41H|\u001b[m\u001b[38;5;255m\u001b[48;5;236m\r\n\u001b[38;5;228mvar\u001b[m\u001b[38;5;255m\u001b[48;5;236m AppStyles \u001b[38;5;215m=\u001b[m\u001b[38;5;255m\u001b[48;5;236m require(\u001b[38;5;247m'../constants/Ap\u001b[m\u001b[38;5;255m\u001b[48;5;236m\u001b[38;5;237m\u001b[48;5;237m|\u001b[m\u001b[38;5;255m\u001b[48;5;236m\r\n\u001b[38;5;228mvar\u001b[m\u001b[38;5;255m\u001b[48;5;236m AppViews \u001b[38;5;215m=\u001b[m\u001b[38;5;255m\u001b[48;5;236m require(\u001b[38;5;247m'../native_react_\u001b[m\u001b[38;5;255m\u001b[48;5;236m\u001b[38;5;237m\u001b[48;5;237m|\u001b[m\u001b[38;5;255m\u001b[48;5;236m\r\n\u001b[38;5;228mvar\u001b[m\u001b[38;5;255m\u001b[48;5;236m {\u001b[35C\u001b[38;5;237m\u001b[48;5;237m|\u001b[m\u001b[38;5;255m\u001b[48;5;236m\r\n  HeaderSpacer,\u001b[25C\u001b[38;5;237m\u001b[48;5;237m|\u001b[m\u001b[38;5;255m\u001b[48;5;236m\r\n} \u001b[38;5;215m=\u001b[m\u001b[38;5;255m\u001b[48;5;236m AppViews;\u001b[27C\u001b[38;5;237m\u001b[48;5;237m|\u001b[m\u001b[38;5;255m\u001b[48;5;236m\r\n\u001b[38;5;228mvar\u001b[m\u001b[38;5;255m\u001b[48;5;236m TerminalCardView \u001b[38;5;215m=\u001b[m\u001b[38;5;255m\u001b[48;5;236m require(\u001b[38;5;247m'../nativ\u001b[m\u001b[38;5;255m\u001b[48;5;236m\u001b[38;5;237m\u001b[48;5;237m|\u001b[m\u001b[38;5;255m\u001b[48;5;236m\r\n\u001b[38;5;228mvar\u001b[m\u001b[38;5;255m\u001b[48;5;236m NavButton \u001b[38;5;215m=\u001b[m\u001b[38;5;255m"
+    ],
+    [
+      0.006476,
+      "\u001b[48;5;236m require(\u001b[38;5;247m'../native_react\u001b[m\u001b[38;5;255m\u001b[48;5;236m\u001b[38;5;237m\u001b[48;5;237m|\u001b[18;41H|\u001b[m\u001b[38;5;255m\u001b[48;5;236m\r\n\u001b[38;5;228mvar\u001b[m\u001b[38;5;255m\u001b[48;5;236m NUXView \u001b[38;5;215m=\u001b[m\u001b[38;5;255m\u001b[48;5;236m React.createClass({\u001b[7C\u001b[38;5;237m\u001b[48;5;237m|\u001b[20;41H|\u001b[m\u001b[38;5;255m\u001b[48;5;236m\r\n  propTypes: {\u001b[26C\u001b[38;5;237m\u001b[48;5;237m|\u001b[m\u001b[38;5;255m\u001b[48;5;236m\r\n    navigator: React.PropTypes.object.is\u001b[38;5;237m\u001b[48;5;237m|\u001b[m\u001b[38;5;255m\u001b[48;5;236m\r\n  },\u001b[36C\u001b[38;5;237m\u001b[48;5;237m|\u001b[24;41H|\u001b[m\u001b[38;5;255m\u001b[48;5;236m\r\n  render: \u001b[38;5;110mfunction\u001b[m\u001b[38;5;255m\u001b[48;5;236m() {\u001b[18C\u001b[38;5;237m\u001b[48;5;237m|\u001b[m\u001b[38;5;255m\u001b[48;5;236m\r\n    \u001b[38;5;215mreturn\u001b[m\u001b[38;5;255m\u001b[48;5;236m (\u001b[28C\u001b[38;5;237m\u001b[48;5;237m|\u001b[m\u001b[38;5;255m\u001b[48;5;236m\u001b[27;6H \u001b[38;5;110m\u003cView style\u001b[m\u001b[38;5;255m\u001b[48;5;236m={styles.background}\u001b[38;5;110m\u003e\u001b[m\u001b[38;5;255m\u001b[48;5;236m  \u001b[38;5;237m\u001b[48;5;237m|\u001b[m\u001b[38;5;255m\u001b[48;5;236m\r\n\u001b[38;5;232m\u001b[48;5;192m \u001b[m\u001b[38;5;255m\u001b[48;5;236m\u001b[1m\u001b[38;5;232m\u001b[48;5;192mNORMAL\u001b[m\u001b[38;5;255m\u001b[48;5;236m\u001b[38;5;232m\u001b[48"
+    ],
+    [
+      0.000061,
+      ";5;192m \u001b[m\u001b[38;5;255m\u001b[48;5;236m\u001b[38;5;192m\u001b[48;5;236m  master \u001b[m\u001b[38;5;255m\u001b[48;5;236m\u001b[38;5;236m\u001b[48;5;234m\u001b[m\u001b[38;5;255m\u001b[48;5;236m\u001b[38;5;192m\u001b[48;5;234m \u001b[m\u001b[38;5;255m\u001b[48;5;236m\u001b[38;5;232m\u001b[48;5;192m\u003c  \u001b[m\u001b[38;5;255m\u001b[48;5;236m\u001b[38;5;232m\u001b[48;5;166m ✹ trailing[42] \u001b[m\u001b[38;5;255m\u001b[48;5;236m\u001b[1m\u001b[97m\u001b[48;5;241m \u001b[m\u001b[38;5;255m\u001b[48;5;236m\u001b[1;42Hexports.level \u001b[38;5;215m=\u001b[m\u001b[38;5;255m\u001b[48;5;236m {\u001b[2;43H \u001b[38;5;247m\"goalTreeString\"\u001b[m\u001b[38;5;255m\u001b[48;5;236m: \u001b[38;5;247m\"%7B%22branches%22%3\u001b[m\u001b[38;5;255m\u001b[48;5;236m\u001b[3;43H \u001b[38;5;247m\"solutionCommand\"\u001b[m\u001b[38;5;255m\u001b[48;5;236m: \u001b[38;5;247m\"git cherry-pick C3\u001b[m\u001b[38;5;255m\u001b[48;5;236m\u001b[4;43H \u001b[38;5;247m\"compareOnlyMasterHashAgnostic\"\u001b[m\u001b[38;5;255m\u001b[48;5;236m: \u001b[38;5;150mtrue\u001b[m\u001b[38;5;255m\u001b[48;5;236m,\u001b[5;43H \u001b[38;5;247m\"disabledMap\"\u001b[m\u001b[38;5;255m\u001b[48;5;236m: {\u001b[6;45H \u001b[38;5;247m\"git rebase\"\u001b[m\u001b[38;5;255m\u001b[48;5;236m: \u001b[38;5;150mtrue\u001b[m\u001b[38;5;255m\u001b[48;5;236m\u001b[7;43H },\u001b[8;43H \u001b[38;5;247m\"startTree\"\u001b[m\u001b[38;5;255m\u001b[48;5;236m: \u001b[38;5;247m\"{"
+    ],
+    [
+      0.009966,
+      "\u001b[m\u001b[38;5;255m\u001b[48;5;236m\u001b[97m\\\"\u001b[m\u001b[38;5;255m\u001b[48;5;236m\u001b[38;5;247mbranches\u001b[m\u001b[38;5;255m\u001b[48;5;236m\u001b[97m\\\"\u001b[m\u001b[38;5;255m\u001b[48;5;236m\u001b[38;5;247m:{\u001b[m\u001b[38;5;255m\u001b[48;5;236m\u001b[97m\\\"\u001b[m\u001b[38;5;255m\u001b[48;5;236m\u001b[38;5;247mmaster\u001b[m\u001b[38;5;255m\u001b[48;5;236m\u001b[97m\\\u001b[m\u001b[38;5;255m\u001b[48;5;236m\u001b[9;43H \u001b[38;5;247m\"name\"\u001b[m\u001b[38;5;255m\u001b[48;5;236m: {\u001b[10;45H \u001b[38;5;247m\"fr_FR\"\u001b[m\u001b[38;5;255m\u001b[48;5;236m: \u001b[38;5;247m\"Introduction à cherry-pick\u001b[m\u001b[38;5;255m\u001b[48;5;236m\u001b[11;45H \u001b[38;5;247m\"en_US\"\u001b[m\u001b[38;5;255m\u001b[48;5;236m: \u001b[38;5;247m\"Cherry-pick Intro\"\u001b[m\u001b[38;5;255m\u001b[48;5;236m,\u001b[12;45H \u001b[38;5;247m\"de_DE\"\u001b[m\u001b[38;5;255m\u001b[48;5;236m: \u001b[38;5;247m\"Einführung Cherry-picking\"\u001b[m\u001b[38;5;255m\u001b[48;5;236m\u001b[13;45H \u001b[38;5;247m\"ja\"\u001b[m\u001b[38;5;255m\u001b[48;5;236m   : \u001b[38;5;247m\"cherry-pick入門\"\u001b[m\u001b[38;5;255m\u001b[48;5;236m,\u001b[14;45H \u001b[38;5;247m\"es_AR\"\u001b[m\u001b[38;5;255m\u001b[48;5;236m: \u001b[38;5;247m\"Introducción a cherry-pick\u001b[m\u001b[38;5;255m\u001b[48;5;236m\u001b[15;45H \u001b[38;5;247m\"pt_BR\"\u001b[m\u001b[38;5;255m\u001b[48;5;236m: \u001b[38;5;247m\"Introdução ao cherry-pick\"\u001b[m\u001b[38;5;255m\u001b[48;5;236m\u001b["
+    ],
+    [
+      0.000020,
+      "16;45H \u001b[38;5;247m\"zh_CN\"\u001b[m\u001b[38;5;255m\u001b[48;5;236m: \u001b[38;5;247m\"介绍 Cherry-pick\"\u001b[m\u001b[38;5;255m\u001b[48;5;236m,\u001b[17;45H \u001b[38;5;247m\"zh_TW\"\u001b[m\u001b[38;5;255m\u001b[48;5;236m: \u001b[38;5;247m\"介紹 cherry-pick\"\u001b[m\u001b[38;5;255m\u001b[48;5;236m\u001b[18;43H },\u001b[19;43H \u001b[38;5;247m\"hint\"\u001b[m\u001b[38;5;255m\u001b[48;5;236m: {\u001b[20;45H \u001b[38;5;247m\"fr_FR\"\u001b[m\u001b[38;5;255m\u001b[48;5;236m: \u001b[38;5;247m\"git cherry-pick suivis par\u001b[m\u001b[38;5;255m\u001b[48;5;236m\u001b[21;45H \u001b[38;5;247m\"en_US\"\u001b[m\u001b[38;5;255m\u001b[48;5;236m: \u001b[38;5;247m\"git cherry-pick followed b\u001b[m\u001b[38;5;255m\u001b[48;5;236m\u001b[22;45H \u001b[38;5;247m\"de_DE\"\u001b[m\u001b[38;5;255m\u001b[48;5;236m: \u001b[38;5;247m\"git cherry-pick gefolgt vo\u001b[m\u001b[38;5;255m\u001b[48;5;236m\u001b[23;45H \u001b[38;5;247m\"ja\"\u001b[m\u001b[38;5;255m\u001b[48;5;236m   : \u001b[38;5;247m\"git cherry-pickの後にコミ\u001b[m\u001b[38;5;255m\u001b[48;5;236m\u001b[38;5;237m\u001b[48;5;237m\u003e\u001b[m\u001b[38;5;255m\u001b[48;5;236m\u001b[24;45H \u001b[38;5;247m\"es_AR\"\u001b[m\u001b[38;5;255m\u001b[48;5;236m: \u001b[38;5;247m\"git cherry-pick seguido de\u001b[m\u001b[38;5;255m\u001b[48;5;236m\u001b[25;45H \u001b[38;5;247m\"pt_BR\"\u001b[m\u001b[38;5;255m\u001b[48;5;236m: \u001b[38;5;247m\"git cherry-pick seguido do"
+    ],
+    [
+      0.005124,
+      "\u001b[m\u001b[38;5;255m\u001b[48;5;236m\u001b[26;45H \u001b[38;5;247m\"zh_CN\"\u001b[m\u001b[38;5;255m\u001b[48;5;236m: \u001b[38;5;247m\"git cherry-pick 后面跟着 c\u001b[m\u001b[38;5;255m\u001b[48;5;236m\u001b[27;45H \u001b[38;5;247m\"zh_TW\"\u001b[m\u001b[38;5;255m\u001b[48;5;236m: \u001b[38;5;247m\"git cherry-pick 後面要接著\u001b[m\u001b[38;5;255m\u001b[48;5;236m\u001b[28;42H\u001b[38;5;243m\u001b[48;5;234m\u003cscript \u001b[m\u001b[38;5;255m\u001b[48;5;236m\u001b[38;5;234m\u001b[48;5;234m\u001b[m\u001b[38;5;255m\u001b[48;5;236m\u001b[38;5;243m\u001b[48;5;234m utf-8[unix] \u001b[m\u001b[38;5;255m\u001b[48;5;236m\u001b[38;5;234m\u001b[48;5;234m\u001b[m\u001b[38;5;255m\u001b[48;5;236m\u001b[38;5;243m\u001b[48;5;234m   0%    1:  1  \u001b[1;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.015960,
+      "\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.518094,
+      "\u001b[?25l\u001b[m\u001b[38;5;255m\u001b[48;5;236m\u001b[29;71H:\u001b[1;1H"
+    ],
+    [
+      0.000031,
+      "\u001b[29;1H\u001b[K\u001b[29;1H:"
+    ],
+    [
+      0.000019,
+      "\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.264023,
+      "q"
+    ],
+    [
+      0.192007,
+      "a"
+    ],
+    [
+      0.767828,
+      "\r"
+    ],
+    [
+      0.011672,
+      "\u001b[?25l\u001b[?1000l"
+    ],
+    [
+      0.007671,
+      "\u001b[?1000h"
+    ],
+    [
+      0.009630,
+      "\u001b[?1000l"
+    ],
+    [
+      0.000030,
+      "\u001b[29;1H\u001b[K\u001b[29;1H\u001b[?1l\u001b\u003e\u001b[?12l\u001b[?25h\u001b[?1049l"
+    ],
+    [
+      0.002196,
+      "\u001b[0;32mpcottle$ "
+    ],
+    [
+      2.193418,
+      "exit\r\n"
+    ]
+  ]
+}
