@@ -1,0 +1,830 @@
+{
+  "version": 1,
+  "width": 92,
+  "height": 23,
+  "duration": 54.422595,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.080045,
+      "\u001b]0;francesco@francesco-VirtualBox: ~/crc32\u0007francesco@francesco-VirtualBox:~/crc32$ "
+    ],
+    [
+      0.736414,
+      "p"
+    ],
+    [
+      0.120068,
+      "e"
+    ],
+    [
+      0.076043,
+      "r"
+    ],
+    [
+      0.104059,
+      "f"
+    ],
+    [
+      0.100056,
+      " "
+    ],
+    [
+      0.268151,
+      "r"
+    ],
+    [
+      0.120068,
+      "e"
+    ],
+    [
+      0.116065,
+      "p"
+    ],
+    [
+      0.120068,
+      "o"
+    ],
+    [
+      0.084047,
+      "r"
+    ],
+    [
+      0.048027,
+      "t"
+    ],
+    [
+      0.104059,
+      " "
+    ],
+    [
+      0.128072,
+      "-"
+    ],
+    [
+      0.200112,
+      "i"
+    ],
+    [
+      0.080045,
+      " "
+    ],
+    [
+      0.084047,
+      "p"
+    ],
+    [
+      0.096054,
+      "e"
+    ],
+    [
+      0.064036,
+      "r"
+    ],
+    [
+      0.088050,
+      "f"
+    ],
+    [
+      0.188106,
+      "-"
+    ],
+    [
+      0.164092,
+      "c"
+    ],
+    [
+      0.120068,
+      "."
+    ],
+    [
+      0.120068,
+      "d"
+    ],
+    [
+      0.064036,
+      "a"
+    ],
+    [
+      0.092052,
+      "t"
+    ],
+    [
+      0.048027,
+      "a"
+    ],
+    [
+      0.260146,
+      "\r\n"
+    ],
+    [
+      0.024014,
+      "\u001b[?1049h\u001b[1;23r\u001b[4l\u001b(B\u001b[m\u001b[37m\u001b[40m\u001b[1;23r\u001b[H\u001b[2J\u001b[23;92H"
+    ],
+    [
+      0.000000,
+      "\u001b[1;23r\u001b[H\u001b[2J\u001b[10;1H┌Processing events...──────────────────────────────────────────────────────────────────────┐\u001b[11;1H│\u001b[30m\u001b[47m     \u001b[85C\u001b[37m\u001b[40m│\u001b[12;1H└──────────────────────────────────────────────────────────────────────────────────────────┘\u001b[11;7H"
+    ],
+    [
+      0.000000,
+      "\u001b[30m\u001b[47m      \u001b[79C\u001b[11;13H"
+    ],
+    [
+      0.000000,
+      "     \u001b[74C\u001b[11;18H      \u001b[68C\u001b[11;24H"
+    ],
+    [
+      0.000000,
+      "      \u001b[62C\u001b[11;30H"
+    ],
+    [
+      0.004002,
+      "     \u001b[57C\u001b[11;35H      \u001b[51C\u001b[11;41H      \u001b[45C\u001b[11;47H     \u001b[40C\u001b[11;52H      \u001b[34C\u001b[11;58H     \u001b[29C\u001b[11;63H      \u001b[23C\u001b[11;69H      \u001b[17C\u001b[11;75H     \u001b[12C\u001b[11;80H      \u001b[6C\u001b[11;86H"
+    ],
+    [
+      0.112063,
+      "\u001b[10;13H\u001b[37m\u001b[40mtime ordered events...\u001b[11;7H                                                                               \u001b[6C\u001b[11;7H"
+    ],
+    [
+      0.000000,
+      "\u001b[30m\u001b[47m      \u001b[79C\u001b[11;13H"
+    ],
+    [
+      0.000000,
+      "     \u001b[74C\u001b[11;18H"
+    ],
+    [
+      0.000000,
+      "      \u001b[68C\u001b[11;24H"
+    ],
+    [
+      0.000000,
+      "      \u001b[62C\u001b[11;30H"
+    ],
+    [
+      0.000000,
+      "     \u001b[57C\u001b[11;35H"
+    ],
+    [
+      0.000000,
+      "      \u001b[51C\u001b[11;41H"
+    ],
+    [
+      0.000000,
+      "     \u001b[46C\u001b[11;46H"
+    ],
+    [
+      0.000000,
+      "      \u001b[40C\u001b[11;52H"
+    ],
+    [
+      0.000000,
+      "      \u001b[34C\u001b[11;58H"
+    ],
+    [
+      0.000000,
+      "     \u001b[29C\u001b[11;63H"
+    ],
+    [
+      0.000000,
+      "      \u001b[23C\u001b[11;69H"
+    ],
+    [
+      0.000000,
+      "      \u001b[17C\u001b[11;75H"
+    ],
+    [
+      0.004002,
+      "     \u001b[12C\u001b[11;80H"
+    ],
+    [
+      0.000000,
+      "      \u001b[6C\u001b[11;86H"
+    ],
+    [
+      0.000000,
+      "     \u001b[37m\u001b[40m \u0008"
+    ],
+    [
+      0.000000,
+      "\u001b[10;2HMerging related events...────────\u001b[11;7H                                                                                     \u001b[11;7H\u001b[30m\u001b[47m      \u001b[79C\u001b[11;13H"
+    ],
+    [
+      0.000000,
+      "     \u001b[74C\u001b[11;18H      \u001b[68C\u001b[11;24H"
+    ],
+    [
+      0.000000,
+      "      \u001b[62C\u001b[11;30H"
+    ],
+    [
+      0.000000,
+      "     \u001b[57C\u001b[11;35H      \u001b[51C\u001b[11;41H"
+    ],
+    [
+      0.000000,
+      "      \u001b[45C\u001b[11;47H     \u001b[40C\u001b[11;52H"
+    ],
+    [
+      0.000000,
+      "      \u001b[34C\u001b[11;58H     \u001b[29C\u001b[11;63H"
+    ],
+    [
+      0.000000,
+      "      \u001b[23C\u001b[11;69H"
+    ],
+    [
+      0.000000,
+      "      \u001b[17C\u001b[11;75H"
+    ],
+    [
+      0.000000,
+      "     \u001b[12C\u001b[11;80H      \u001b[6C\u001b[11;86H"
+    ],
+    [
+      0.000000,
+      "      "
+    ],
+    [
+      0.000000,
+      "\u001b[23;1H\u001b[37m\u001b[40mFor a higher level overview, try: perf report --sort comm,dso\u001b[23;92H"
+    ],
+    [
+      0.000000,
+      "\u001b[1;1H\u001b[1m\u001b[37m\u001b[44mSamples: 2K of event 'cpu-clock', Event count (approx.): 669000000                          \u001b[23;1H\u001b(B\u001b[m\u001b[37m\u001b[40mPress '?' for help on key bindings\u001b[K\u001b[23;92H"
+    ],
+    [
+      0.000000,
+      "\u001b[2;1H\u001b[31m\u001b[49m  98,77%\u001b[39m  crc32  libz.so.1.2.8      [.] crc32\u001b[K\r\n   0,26%  crc32  [kernel.kallsyms]  [k] test_clear_page_writeback\u001b[K\r\n   0,22%  crc32  [kernel.kallsyms]  [k] _raw_spin_unlock_irqrestore\u001b[K\r\n   0,19%  crc32  [kernel.kallsyms]  [k] __do_softirq\u001b[K\r\n   0,11%  crc32  crc32              [.] c3KC_info\u001b[K\r\n   0,07%  crc32  crc32              [.] cl2_info\u001b[K\r\n   0,04%  crc32  [kernel.kallsyms]  [k] copy_user_generic_string\u001b[K\r\n   0,04%  crc32  [kernel.kallsyms]  [k] native_read_tsc\u001b[K\r\n   0,04%  crc32  crc32              [.] GarbageCollect\u001b[K\r\n   0,04%  crc32  crc32              [.] c2k_info\u001b[K\r\n   0,04%  crc32  crc32              [.] c3LD_info\u001b[K\r\n   0,04%  crc32  crc32              [.] c7F_info\u001b[K\r\n   0,04%  crc32  crc32              [.] evacuate\u001b[K\r\n   0,04%  crc32  crc32              [.] s3Eh_info\u001b[K\r\n   0,04%  crc32  crc32              [.] sbUR_info\u001b[K\r\n   0,04%  crc32  crc32              [.] 0x00000000007953c0\u001b[K\r\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\u001b[18;92H"
+    ],
+    [
+      1.396785,
+      "\u001b[2;1H\u001b[30m\u001b[47m  98,77%  crc32  libz.so.1.2.8      [.] crc32                                              \u001b[39m\u001b[49m◆\u001b[3;92H▒\u001b[4;92H▒\u001b[5;92H▒\u001b[6;92H▒\u001b[7;92H▒\u001b[8;92H▒\u001b[9;92H▒\u001b[10;92H▒\u001b[11;92H▒\u001b[12;92H▒\u001b[13;92H▒\u001b[14;92H▒\u001b[15;92H▒\u001b[16;92H▒\u001b[17;92H▒\u001b[18;92H▒\u001b[19;92H▒\u001b[20;92H▒\u001b[21;92H▒\u001b[22;92H▒\u001b[18;92H"
+    ],
+    [
+      2.081170,
+      "\u001b[2;1H\u001b[31m  98,77%\u001b[39m  crc32  libz.so.1.2.8      [.] crc32                                              ▒\u001b[3;1H\u001b[30m\u001b[47m   0,26%  crc32  [kernel.kallsyms]  [k] test_clear_page_writeback                          \u001b[39m\u001b[49m◆\u001b[18;92H"
+    ],
+    [
+      0.192108,
+      "\u001b[3;1H   0,26%  crc32  [kernel.kallsyms]  [k] test_clear_page_writeback                          ▒\u001b[4;1H\u001b[30m\u001b[47m   0,22%  crc32  [kernel.kallsyms]  [k] _raw_spin_unlock_irqrestore                        \u001b[39m\u001b[49m◆\u001b[18;92H"
+    ],
+    [
+      0.176099,
+      "\u001b[4;1H   0,22%  crc32  [kernel.kallsyms]  [k] _raw_spin_unlock_irqrestore                        ▒\u001b[5;1H\u001b[30m\u001b[47m   0,19%  crc32  [kernel.kallsyms]  [k] __do_softirq                                       \u001b[6;92H\u001b[39m\u001b[49m◆\u001b[18;92H"
+    ],
+    [
+      0.168095,
+      "\u001b[5;1H   0,19%  crc32  [kernel.kallsyms]  [k] __do_softirq                                       \r\n\u001b[30m\u001b[47m   0,11%  crc32  crc32              [.] c3KC_info                                          \u001b[39m\u001b[49m▒\u001b[7;92H◆\u001b[18;92H"
+    ],
+    [
+      0.152086,
+      "\u001b[6;1H   0,11%  crc32  crc32              [.] c3KC_info                                          \r\n\u001b[30m\u001b[47m   0,07%  crc32  crc32              [.] cl2_info                                           \u001b[39m\u001b[49m▒\u001b[8;92H◆\u001b[18;92H"
+    ],
+    [
+      2.205240,
+      "\u001b[6;1H\u001b[30m\u001b[47m   0,11%  crc32  crc32              [.] c3KC_info                                          \r\n\u001b[39m\u001b[49m   0,07%  crc32  crc32              [.] cl2_info                                           ◆\u001b[8;92H▒\u001b[18;92H"
+    ],
+    [
+      0.504283,
+      "\u001b[5;1H\u001b[30m\u001b[47m   0,19%  crc32  [kernel.kallsyms]  [k] __do_softirq                                       \r\n\u001b[39m\u001b[49m   0,11%  crc32  crc32              [.] c3KC_info                                          ◆\u001b[7;92H▒\u001b[18;92H"
+    ],
+    [
+      0.176099,
+      "\u001b[4;1H\u001b[30m\u001b[47m   0,22%  crc32  [kernel.kallsyms]  [k] _raw_spin_unlock_irqrestore                        \u001b[39m\u001b[49m◆\u001b[5;1H   0,19%  crc32  [kernel.kallsyms]  [k] __do_softirq                                       \u001b[6;92H▒\u001b[18;92H"
+    ],
+    [
+      0.168095,
+      "\u001b[3;1H\u001b[30m\u001b[47m   0,26%  crc32  [kernel.kallsyms]  [k] test_clear_page_writeback                          \u001b[39m\u001b[49m◆\u001b[4;1H   0,22%  crc32  [kernel.kallsyms]  [k] _raw_spin_unlock_irqrestore                        ▒\u001b[18;92H"
+    ],
+    [
+      0.136077,
+      "\u001b[2;1H\u001b[30m\u001b[47m  98,77%  crc32  libz.so.1.2.8      [.] crc32                                              \u001b[39m\u001b[49m◆\u001b[3;1H   0,26%  crc32  [kernel.kallsyms]  [k] test_clear_page_writeback                          ▒\u001b[18;92H"
+    ],
+    [
+      0.704396,
+      "\u001b[1;1H\u001b[1m\u001b[37m\u001b[44m                                                                  \u001b[23;1H\u001b(B\u001b[m\u001b[37m\u001b[40mESC: exit, ENTER|-\u003e: Select option\u001b[23;92H"
+    ],
+    [
+      0.000000,
+      "\u001b[2;1H\u001b[30m\u001b[47mAnnotate crc32                \u001b[6C         \r\n\u001b[39m\u001b[49mZoom into\u001b[6C(5052) thread                                     \r\nZoom into libz.so.1.2.8 DSO                                        \r\nBrowse map details                                  \r\nRun scripts for samples of thread [crc32]        \r\nRun scripts for samples of symbol [crc32]       \r\nRun scripts for all samples                                     \r\nSwitch to another data file in PWD                     \r\nExit                  \u001b[14C                  \u001b[11;4H                   \u001b[14C            \u001b[12;4H                   \u001b[14C             \u001b[13;4H                   \u001b[14C            \u001b[14;4H                   \u001b[14C            \u001b[15;4H                   \u001b[14C             \u001b[16;4H                   \u001b[14C             \u001b[17;4H                   \u001b[14C                      \u001b[11;92H"
+    ],
+    [
+      1.648927,
+      "\u001b[23;1H\u001b[37m\u001b[40mPress \u003c- or ESC to exit\u001b[K\u001b[23;92H"
+    ],
+    [
+      0.004002,
+      "\u001b[1;1H\u001b[1m\u001b[37m\u001b[44mcrc32  /home/francesco/zlib-1.2.8/libz.so.1.2.8\u001b[23;7H\u001b(B\u001b[m\u001b[37m\u001b[40m'h' for help on key bindings\u001b[23;92H"
+    ],
+    [
+      0.000000,
+      "\u001b[2;1H\u001b[32m\u001b[49m  4,20 \u001b[39m│\u001b[35m     \u001b[32m  xor    -0x4(%r8),%eax\u001b[K\r\n  1,29 \u001b[39m│\u001b[35m     \u001b[32m  xor    0x800(%rcx,%rbx,4),%eax\u001b[K\r\n  1,25 \u001b[39m│\u001b[35m     \u001b[32m  xor    0x400(%rcx,%rdi,4),%eax\u001b[K\r\n  1,44 \u001b[39m│\u001b[35m     \u001b[32m  mov    %eax,%edi\u001b[K\r\n\u001b[39m       │\u001b[35m     \u001b[39m  mov    %eax,%r11d\u001b[K\r\n       │\u001b[35m     \u001b[39m  movzbl %al,%ebx\u001b[K\r\n       │\u001b[35m     \u001b[39m  shr    $0x18,%edi\u001b[K\r\n\u001b[32m  1,17 \u001b[39m│\u001b[35m     \u001b[32m  shr    $0x10,%r11d\u001b[K\r\n\u001b[39m  0,08 │\u001b[35m     \u001b[39m  movzbl %ah,%eax\u001b[K\r\n\u001b[32m  1,06 \u001b[39m│\u001b[35m     \u001b[32m  mov    (%rcx,%rdi,4),%edi\u001b[K\r\n  4,20 \u001b[39m│\u001b[35m     \u001b[32m  xor    0xc00(%rcx,%rbx,4),%edi\u001b[K\r\n  2,38 \u001b[39m│\u001b[35m     \u001b[32m  movzbl %r11b,%r11d\u001b[K\u001b[14;8H\u001b[39m│\u001b[35m     \u001b[39m  xor    0x800(%rcx,%rax,4),%edi\u001b[K\r\n\u001b[32m  1,14 \u001b[39m│\u001b[35m     \u001b[32m  xor    0x400(%rcx,%r11,4),%edi\u001b[K\u001b[16;8H\u001b[39m│\u001b[13Cc = crc_table[0][(c ^ *buf++) \u0026 0xff] ^ (c \u003e\u003e 8);\u001b[K\u001b[17;8H│\u001b[13Clen--;\u001b[K\u001b[18;8H│\u001b[9C}\u001b[K\u001b[19;8H│\u001b[K\u001b[20;8H│\u001b[9Cbuf4 = (const z_crc_t FAR *)(const void FAR *)buf;\u001b[K\u001b[21;8H│\u001b[9Cwhile (len \u003e= 32) {\u001b[K\r\n\u001b[32m  1,51 \u001b[39m│\u001b[35m     \u001b[32m  cmp    %r9,%r8\u001b[K\r\n"
+    ],
+    [
+      2.689512,
+      "\u001b[2;92H\u001b[39m▒\u001b[3;92H▒\u001b[4;92H▒\u001b[5;92H▒\u001b[6;92H▒\u001b[7;92H▒\u001b[8;92H▒\u001b[9;92H▒\u001b[10;92H▒\u001b[11;92H▒\u001b[12;1H\u001b[30m\u001b[47m  4,20 \u001b[39m\u001b[49m│\u001b[30m\u001b[47m       xor    0xc00(%rcx,%rbx,4),%edi                                              \u001b[39m\u001b[49m▒\u001b[13;92H▒\u001b[14;92H▒\u001b[15;92H◆\u001b[16;92H▒\u001b[17;92H▒\u001b[18;92H▒\u001b[19;92H▒\u001b[20;92H▒\u001b[21;92H▒\u001b[22;92H▒\u001b[23;1H"
+    ],
+    [
+      0.448252,
+      "\u001b[2;3H\u001b[32m2,04\u001b[9Cmovzbl %al,%ebp      \r\n\u001b[39m       \u001b[6C  mov    %eax,%edi                                                            \r\n       \u001b[6C  shr    $0x18,%eax                                                           \r\n  0,11 \u001b[6C  shr    $0x10,%edi                                                           \r\n\u001b[32m  1,36 \u001b[6C  mov    %eax,%r11d                                                           \u001b[7;19H\u001b[39m    0xc00(%rcx,%rbp,4),%eax\r\n\u001b[32m  2,04 \u001b[6C  movzbl %dil,%edi                                                            \r\n\u001b[39m       \u001b[6C  xor    (%rcx,%r11,4),%eax                                                   \r\n\u001b[32m  3,37 \u001b[6C  add    $0x20,%r8                                                            \r\n\u001b[39m       \u001b[6C  xor    -0x8(%r8),%eax                                                       \u001b[12;3H\u001b[30m\u001b[47m1,06\u001b[18C8\u001b[18Cax\u001b[13;3H\u001b[32m\u001b[49m1,06\u001b[9Cxor    0x400(%rcx,%rdi,4),%eax\r\n  1,10 \u001b[6C  movzbl %ah,%ebx                                                             \u001b[39m◆\u001b[15;3H\u001b[32m2,08\u001b[9Cmov    %eax,%edi              \u001b[46C\u001b[39m▒\u001b[16;9H\u001b[35m     \u001b[39m  movzbl %al,%ebp                                        \u001b[17;9H\u001b[35m     \u001b[39m  shr    $0x18,%eax\u001b[18;9H\u001b[35m     \u001b[39m  shr    $0x10,%edi\r\n\u001b[32m  1,06 \u001b[39m│\u001b[35m     \u001b[32m  mov    %eax,%r11d                                                           \u001b[20;9H\u001b[35m     \u001b[39m  mov    0xc00(%rcx,%rbp,4),%eax                      \r\n\u001b[32m  2,46 \u001b[39m│\u001b[35m     \u001b[32m  movzbl %dil,%edi                                                            \r\n\u001b[39m       \u001b[6C  xor    (%rcx,%r11,4),%eax                                                   \r\n"
+    ],
+    [
+      0.200112,
+      "\u001b[37m\u001b[40m\u001b[13;18r\u001b[13;1H\u001b[4M\u001b[1;23r\u001b[2;1H\u001b[39m\u001b[49m       \u001b[6C  shr    $0x10,%edi                                                           \r\n\u001b[32m  1,21 \u001b[6C  mov    %eax,%r11d                                                           \u001b[4;16H\u001b[39mmov    0xc00(%rcx,%rbp,4),%eax\r\n\u001b[32m  2,19 \u001b[6C  movzbl %dil,%edi                                                            \r\n\u001b[39m       \u001b[6C  xor    (%rcx,%r11,4),%eax                                                   \r\n\u001b[32m  3,14 \u001b[6C  xor    0x10(%r8),%eax                                                       \u001b[8;3H1,32\u001b[9Cxor    0x800(%rcx,%rbx,4),%eax\r\n  1,14 \u001b[6C  xor    0x400(%rcx,%rdi,4),%eax                                              \u001b[10;3H1,02\u001b[9Cmovzbl %ah,%ebx \r\n  2,12 \u001b[6C  movzbl %al,%ebp                                                             \u001b[12;3H\u001b[30m\u001b[47m    \u001b[9Cmov    %eax,%edi              \u001b[46C\u001b[39m\u001b[49m◆\u001b[15;1H\u001b[32m  1,21 \u001b[39m│\u001b[35m     \u001b[32m  mov    %eax,%r11d                                                           \u001b[39m▒\u001b[16;1H       │\u001b[35m     \u001b[39m  mov    0xc00(%rcx,%rbp,4),%eax                                              ▒\u001b[17;1H\u001b[32m  1,97 \u001b[39m│\u001b[35m     \u001b[32m  movzbl %dil,%edi                                                            \u001b[39m▒\u001b[18;1H       │\u001b[35m     \u001b[39m  xor    (%rcx,%r11,4),%eax                                                   ▒\u001b[19;3H\u001b[32m3,14\u001b[9Cxor    0x14(%r8),%eax\r\n  1,21 \u001b[6C  xor    0x800(%rcx,%rbx,4),%eax                                              \u001b[21;3H1,17\u001b[9Cxor    0x400(%rcx,%rdi,4),%eax\r\n  1,32 \u001b[6C  movzbl %ah,%ebx                                                             \r\n"
+    ],
+    [
+      0.736414,
+      "\u001b[2;1H  2,04 \u001b[6C  movzbl %dil,%edi                                                            \r\n\u001b[39m       \u001b[6C  xor    (%rcx,%r11,4),%eax                                                   \r\n\u001b[32m  3,14 \u001b[6C  xor    0x8(%r8),%eax                                                        \u001b[5;3H1,21\u001b[9Cxor    0x800(%rcx,%rbx,4),%eax\r\n  1,10 \u001b[6C  xor    0x400(%rcx,%rdi,4),%eax                                              \u001b[7;3H1,4\u001b[10Cmovzbl %ah,%ebx      \u001b[8;3H2,31\u001b[9Cmovzbl %al,%ebp               \r\n\u001b[39m       \u001b[6C  mov    %eax,%edi                                                            \r\n       \u001b[6C  shr    $0x18,%eax                                                           \r\n       \u001b[6C  shr    $0x10,%edi                                                           ◆\u001b[12;3H\u001b[30m\u001b[47m0,87\u001b[22Cr11d\u001b[59C\u001b[39m\u001b[49m▒\u001b[13;16Hmov    0xc00(%rcx,%rbp,4),%eax\r\n\u001b[32m  2,46 \u001b[6C  movzbl %dil,%edi                                                            \r\n\u001b[39m  0,04 \u001b[6C  xor    (%rcx,%r11,4),%eax                                                   \r\n\u001b[32m  3,41 \u001b[6C  xor    0xc(%r8),%eax                                                        \u001b[17;3H0,95\u001b[9Cxor    0x800(%rcx,%rbx,4),%eax\r\n  1,29 \u001b[6C  xor    0x400(%rcx,%rdi,4),%eax                                              \u001b[19;3H1,55\u001b[9Cmovzbl %ah,%ebx      \u001b[20;3H2,08\u001b[9Cmovzbl %al,%ebp               \r\n\u001b[39m       \u001b[6C  mov    %eax,%edi                                                            \r\n       \u001b[6C  shr    $0x18,%eax                                                           \r\n"
+    ],
+    [
+      0.432243,
+      "\u001b[37m\u001b[40m\u001b[9;19r\u001b[9;1H\u001b[9L\u001b[1;23r\u001b[2;1H\u001b[39m\u001b[49m       │             DOLIT32;                                                              \u001b[3;3H0,04 │\u001b[35m 70:\u001b[13C\u001b[39m8),%edi        \u001b[4;3H\u001b[32m1,29\u001b[9Cmov    %rdi,%rax    \r\n\u001b[39m       \u001b[6C  mov    %edi,%r11d                                                           \r\n       \u001b[6C  movzbl %ah,%ebx                                                             \u001b[7;3H\u001b[32m2,31\u001b[17Cdil,%eax\r\n\u001b[39m  0,04 \u001b[6C  shr    $0x18,%edi                                                           \r\n       │\u001b[35m     \u001b[39m  mov    0xc00(%rcx,%rax,4),%eax                                              ◆\u001b[10;1H\u001b[32m  3,33 \u001b[39m│\u001b[35m     \u001b[32m  xor    (%rcx,%rdi,4),%eax                                                   \u001b[39m▒\u001b[11;1H\u001b[32m  2,76 \u001b[39m│\u001b[35m     \u001b[32m  shr    $0x10,%r11d                                                          \u001b[39m▒\u001b[12;1H\u001b[30m\u001b[47m       \u001b[39m\u001b[49m│\u001b[30m\u001b[47m       xor    0x4(%r8),%eax                                                        \u001b[39m\u001b[49m▒\u001b[13;1H\u001b[32m  1,06 \u001b[39m│\u001b[35m     \u001b[32m  movzbl %r11b,%r11d                                                          \u001b[39m▒\u001b[14;1H       │\u001b[35m     \u001b[39m  xor    0x800(%rcx,%rbx,4),%eax                                              ▒\u001b[15;1H\u001b[32m  0,95 \u001b[39m│\u001b[35m     \u001b[32m  xor    0x400(%rcx,%r11,4),%eax                                              \u001b[39m▒\u001b[16;1H\u001b[32m  1,10 \u001b[39m│\u001b[35m     \u001b[32m  movzbl %ah,%ebx                                                             \u001b[39m▒\u001b[17;1H\u001b[32m  2,27 \u001b[39m│\u001b[35m     \u001b[32m  movzbl %al,%ebp                                                             \u001b[39m▒\u001b[20;1H       \u001b[6C  shr    $0x10,%edi                                                           \r\n\u001b[32m  1,25 \u001b[6C  mov    %eax,%r11d                                                           \u001b[22;16H\u001b[39mmov    0xc00(%rcx,%rbp,4),%eax\r\n"
+    ],
+    [
+      1.028578,
+      "\u001b[2;18Hreturn crc ^ 0xffffffffUL;\u001b[3;3H     │     }                  \r\n       \u001b[6C  pop    %rbp                                                                 \u001b[5;14H← retq             \u001b[6;16Hnop            \r\n       │             c = crc_table[0][(c ^ *buf++) \u0026 0xff] ^ (c \u003e\u003e 8);                     \u001b[8;3H     │             len--;     \u001b[59C◆\u001b[9;9H         }                           \u001b[46C▒\u001b[10;1H       │                                                                                   \r\n       │         buf4 = (const z_crc_t FAR *)(const void FAR *)buf;                        \u001b[12;16H\u001b[30m\u001b[47m  while (len \u003e= 32) {\r\n\u001b[39m\u001b[49m       │\u001b[35m 48: \u001b[39m  cmp    $0x1f,%edx                                                           \u001b[14;14H↓ jbe    21e                    \r\n       \u001b[6C  lea    -0x20(%rdx),%r10d                                                    \r\n       \u001b[6C  lea    crc_table,%rcx                                                       \r\n       \u001b[6C  mov    %rsi,%r8                                                             \u001b[18;16Hshr    $0x5,%r10d\u001b[19;16Hmov    %r10,%rax \u001b[20;18Hl\u001b[7C5,%rax \r\n       \u001b[6C  lea    0x20(%rsi,%rax,1),%r9                                                \u001b[22;16Hnop                           \r\n"
+    ],
+    [
+      0.616347,
+      "\u001b[37m\u001b[40m\u001b[2;10r\u001b[2;1H\u001b[7L\u001b[1;23r\u001b[2;1H\u001b[39m\u001b[49m       │         c = ~c;                                                                   ▒\u001b[3;1H       │         return (unsigned long)c;                                                  ▒\u001b[4;1H       │\u001b[35m 3d: \u001b[39m  mov    %edi,%eax                                                            ▒\u001b[5;1H       │         }                                                                         ▒\u001b[6;1H       │         if (len) do {                                                             ▒\u001b[7;1H       │             DO1;                                                                  ◆\u001b[8;1H       │         } while (--len);                                                          ▒\u001b[11;9H\u001b[35m     \u001b[39m  pop    %rbx                                         \u001b[12;18H\u001b[30m\u001b[47m                   \u001b[13;9H\u001b[39m\u001b[49m         if (len) do {  \u001b[14;9H             c = crc_table[0][(c ^ *buf++) \u0026 0xff] ^ (c \u003e\u003e 8);\u001b[15;9H         } while (--len);      \u001b[16;9H         c = ~c;            \u001b[17;9H         return (unsigned long)c;\u001b[18;3H0,04\u001b[9Cnot    %eax      \u001b[19;9H         }             \u001b[20;9H         if (len) do { \u001b[21;9H             DO1;                  \u001b[22;9H         } while (--len);\r\n"
+    ],
+    [
+      0.196110,
+      "\u001b[37m\u001b[40m\u001b[15;16r\u001b[15;1H\u001b[1M\u001b[1;23r\u001b[2;9H\u001b[35m\u001b[49m 20: \u001b[39m  test   $0x3,%sil\u001b[3;9H\u001b[35m     \u001b[39m↓ je     48                 \u001b[4;9H             c = crc_table[0][(c ^ *buf++) \u0026 0xff] ^ (c \u003e\u003e 8);\u001b[5;9H\u001b[35m 26: \u001b[39m  add    $0x1,%rsi\u001b[60C◆\u001b[6;9H\u001b[35m     \u001b[39m  mov    %edi,%eax\u001b[7;9H\u001b[35m     \u001b[39m  shr    $0x8,%edi\u001b[60C▒\u001b[8;9H\u001b[35m     \u001b[39m  xor    -0x1(%rsi),%al\u001b[9;9H\u001b[35m     \u001b[39m  movzbl %al,%eax             \u001b[10;9H\u001b[35m     \u001b[39m  xor    (%rcx,%rax,4),%edi\u001b[11;9H         register z_crc_t c;\u001b[12;18H\u001b[30m\u001b[47mregister const z_crc_t FAR *buf4;\u001b[13;18H\u001b[39m\u001b[49m             \u001b[14;18Hc = (z_crc_t)crc;                                    \r\n\n       │         while (len \u0026\u0026 ((ptrdiff_t)buf \u0026 3)) {                                     ▒\u001b[17;9H\u001b[35m     \u001b[39m  sub    $0x1,%edx          \u001b[18;3H    \u001b[7C↑ jne    20  \u001b[19;18H \u001b[21;22Hc = crc_table[0][(c ^ *buf++) \u0026 0xff] ^ (c \u003e\u003e 8);\r\n\n"
+    ],
+    [
+      0.376212,
+      "\u001b[37m\u001b[40m\u001b[16;17r\u001b[16;1H\u001b[1L\u001b[1;23r\u001b[2;10H\u001b[35m\u001b[49m    \u001b[39m↓ je     2c0      \u001b[3;9H         register z_crc_t c;\u001b[4;18Hregister const z_crc_t FAR *buf4;                    \u001b[21C◆\u001b[5;9H                       \u001b[60C▒\u001b[6;9H         c = (z_crc_t)crc;\u001b[7;9H         c = ~c;       \u001b[8;9H         while (len \u0026\u0026 ((ptrdiff_t)buf \u0026 3)) {\u001b[9;16Htest   %edx,%edx\u001b[10;9H     {                          \u001b[16;1H       │\u001b[35m     \u001b[39m  not    %edi                                                                 ▒\u001b[18;14H↓ je     3d\u001b[19;9H\u001b[35m     \u001b[39m  test   $0x3,%sil\u001b[20;9H\u001b[35m     \u001b[39m↓ je     48      \u001b[21;9H\u001b[35m     \u001b[39m  lea    crc_table,%rcx                                  \u001b[22;9H\u001b[35m     \u001b[39m↓ jmp    26         \r\n"
+    ],
+    [
+      0.416234,
+      "\u001b[37m\u001b[40m\u001b[10;11r\u001b[10;1H\u001b[1L\u001b[1;23r\u001b[2;9H\u001b[39m\u001b[49m         \u001b[5C   \u001b[66C◆\u001b[3;14HDisassembly of section .text:\u001b[4;18H                                 \u001b[41C▒\u001b[5;14H0000000000002b40 \u003ccrc32\u003e:\u001b[6;14H/* ========================================================================= *\u001b[7;14Hunsigned long ZEXPORT crc32(crc, buf, len)\u001b[8;18Hunsigned long crc;                   \u001b[9;9H         const unsigned char FAR *buf;\r\n       │         uInt len;                                                                 ▒\u001b[12;16H\u001b[30m\u001b[47mpush   %rbp                        \u001b[13;18H\u001b[39m\u001b[49mif (buf == Z_NULL) return 0UL;\u001b[14;9H\u001b[35m     \u001b[39m  test   %rsi,%rsi   \u001b[15;14H/* ========================================================================= *\u001b[16;9H     unsigned long ZEXPORT crc32(crc, buf, len)\u001b[17;18Hunsigned long crc;                   \u001b[18;9H         const unsigned char FAR *buf;\u001b[19;9H         uInt len;     \u001b[20;9H     {   \u001b[5C  \u001b[21;16Hpush   %rbx          \u001b[22;9H         if (buf == Z_NULL) return 0UL;\r\n"
+    ],
+    [
+      2.501406,
+      "\u001b[12;1H       │\u001b[35m     \u001b[39m  push   %rbp                                                                 \r\n\u001b[30m\u001b[47m       \u001b[39m\u001b[49m│\u001b[30m\u001b[47m         if (buf == Z_NULL) return 0UL;                                            \u001b[23;1H"
+    ],
+    [
+      0.224126,
+      "\u001b[13;1H\u001b[39m\u001b[49m       │         if (buf == Z_NULL) return 0UL;                                            \r\n\u001b[30m\u001b[47m       \u001b[39m\u001b[49m│\u001b[30m\u001b[47m       test   %rsi,%rsi                                                            \u001b[23;1H"
+    ],
+    [
+      1.316740,
+      "\u001b[2;92H\u001b[39m\u001b[49m▒\u001b[3;92H◆\u001b[14;1H       │\u001b[35m     \u001b[39m  test   %rsi,%rsi                                                            \r\n\u001b[30m\u001b[47m       \u001b[39m\u001b[49m│\u001b[30m\u001b[47m     /* ========================================================================= *\u001b[23;1H"
+    ],
+    [
+      0.244137,
+      "\u001b[15;1H\u001b[39m\u001b[49m       │     /* ========================================================================= *\r\n\u001b[30m\u001b[47m       \u001b[39m\u001b[49m│\u001b[30m\u001b[47m     unsigned long ZEXPORT crc32(crc, buf, len)                                    \u001b[23;1H"
+    ],
+    [
+      0.020011,
+      "\u001b[16;1H\u001b[39m\u001b[49m       │     unsigned long ZEXPORT crc32(crc, buf, len)                                    \r\n\u001b[30m\u001b[47m       \u001b[39m\u001b[49m│\u001b[30m\u001b[47m         unsigned long crc;                                                        \u001b[23;1H"
+    ],
+    [
+      0.020011,
+      "\u001b[17;1H\u001b[39m\u001b[49m       │         unsigned long crc;                                                        \r\n\u001b[30m\u001b[47m       \u001b[39m\u001b[49m│\u001b[30m\u001b[47m         const unsigned char FAR *buf;                                             \u001b[23;1H"
+    ],
+    [
+      0.024014,
+      "\u001b[18;1H\u001b[39m\u001b[49m       │         const unsigned char FAR *buf;                                             \r\n\u001b[30m\u001b[47m       \u001b[39m\u001b[49m│\u001b[30m\u001b[47m         uInt len;                                                                 \r\n\n\n\n"
+    ],
+    [
+      0.020011,
+      "\u001b[19;1H\u001b[39m\u001b[49m       │         uInt len;                                                                 \r\n\u001b[30m\u001b[47m       \u001b[39m\u001b[49m│\u001b[30m\u001b[47m     {                                                                             \r\n\n\n"
+    ],
+    [
+      0.016009,
+      "\u001b[20;1H\u001b[39m\u001b[49m       │     {                                                                             \r\n\u001b[30m\u001b[47m       \u001b[39m\u001b[49m│\u001b[30m\u001b[47m       push   %rbx                                                                 \r\n\n"
+    ],
+    [
+      0.020011,
+      "\u001b[21;1H\u001b[39m\u001b[49m       │\u001b[35m     \u001b[39m  push   %rbx                                                                 \r\n\u001b[30m\u001b[47m       \u001b[39m\u001b[49m│\u001b[30m\u001b[47m         if (buf == Z_NULL) return 0UL;                                            \r\n"
+    ],
+    [
+      0.336189,
+      "\u001b[37m\u001b[40m\u001b[4;21r\u001b[4;1H\u001b[1M\u001b[1;23r\u001b[2;14H\u001b[39m\u001b[49mDisassembly of section .text:\u001b[3;14H                             \u001b[21;1H       │         if (buf == Z_NULL) return 0UL;                                            ▒\u001b[22;13H\u001b[34m┌──\u001b[30m\u001b[47mje     2c0                      \r\n"
+    ],
+    [
+      0.244137,
+      "\u001b[37m\u001b[40m\u001b[4;21r\u001b[4;1H\u001b[1M\u001b[1;23r\u001b[2;14H\u001b[39m\u001b[49m                             \u001b[3;14H0000000000002b40 \u003ccrc32\u003e:\u001b[21;1H       │\u001b[35m     \u001b[39m↓ je     2c0                                                                  ▒\u001b[22;13H\u001b[30m\u001b[47m     register z_crc_t c;\r\n"
+    ],
+    [
+      0.020011,
+      "\u001b[37m\u001b[40m\u001b[4;21r\u001b[4;1H\u001b[1M\u001b[1;23r\u001b[2;14H\u001b[39m\u001b[49m0000000000002b40 \u003ccrc32\u003e:\u001b[3;14H/* ========================================================================= *\u001b[21;1H       │         register z_crc_t c;                                                       ▒\u001b[22;27H\u001b[30m\u001b[47mconst z_crc_t FAR *buf4;\r\n"
+    ],
+    [
+      0.020011,
+      "\u001b[37m\u001b[40m\u001b[4;21r\u001b[4;1H\u001b[1M\u001b[1;23r\u001b[2;14H\u001b[39m\u001b[49m/* ========================================================================= *\u001b[3;14Hunsigned long ZEXPORT crc32(crc, buf, len)                                    \u001b[21;1H       │         register const z_crc_t FAR *buf4;                                         ▒\u001b[22;18H\u001b[30m\u001b[47m                                 \r\n"
+    ],
+    [
+      0.020011,
+      "\u001b[37m\u001b[40m\u001b[4;21r\u001b[4;1H\u001b[1M\u001b[1;23r\u001b[2;14H\u001b[39m\u001b[49munsigned long ZEXPORT crc32(crc, buf, len)                                    \u001b[3;14H    unsigned long crc;                    \u001b[21;1H       │                                                                                   ▒\u001b[22;18H\u001b[30m\u001b[47mc = (z_crc_t)crc;\r\n"
+    ],
+    [
+      0.024014,
+      "\u001b[37m\u001b[40m\u001b[4;21r\u001b[4;1H\u001b[1M\u001b[1;23r\u001b[2;14H\u001b[39m\u001b[49m    unsigned long crc;                    \u001b[3;18Hconst unsigned char FAR *buf;\u001b[21;1H       │         c = (z_crc_t)crc;                                                         ▒\u001b[22;22H\u001b[30m\u001b[47m~c;          \r\n"
+    ],
+    [
+      0.020011,
+      "\u001b[37m\u001b[40m\u001b[4;21r\u001b[4;1H\u001b[1M\u001b[1;23r\u001b[2;18H\u001b[39m\u001b[49mconst unsigned char FAR *buf;\u001b[3;18HuInt len;                    \u001b[21;1H       │         c = ~c;                                                                   ▒\u001b[22;18H\u001b[30m\u001b[47mwhile (len \u0026\u0026 ((ptrdiff_t)buf \u0026 3)) {\r\n"
+    ],
+    [
+      0.028016,
+      "\u001b[37m\u001b[40m\u001b[2;13r\u001b[2;1H\u001b[10M\u001b[1;23r\u001b[13;21r\u001b[13;1H\u001b[1M\u001b[1;23r\u001b[4;1H\u001b[39m\u001b[49m       │\u001b[35m     \u001b[39m  push   %rbp                                                                 ◆\u001b[5;1H       │         if (buf == Z_NULL) return 0UL;                                            ▒\u001b[6;1H       │\u001b[35m     \u001b[39m  test   %rsi,%rsi                                                            ▒\u001b[7;1H       │     /* ========================================================================= *▒\u001b[8;1H       │     unsigned long ZEXPORT crc32(crc, buf, len)                                    ▒\u001b[9;1H       │         unsigned long crc;                                                        ▒\u001b[10;1H       │         const unsigned char FAR *buf;                                             ▒\u001b[11;1H       │         uInt len;                                                                 ▒\u001b[12;1H       │     {                                                                             ▒\u001b[21;1H       │         while (len \u0026\u0026 ((ptrdiff_t)buf \u0026 3)) {                                     ▒\u001b[22;16H\u001b[30m\u001b[47mtest   %edx,%edx                       \r\n"
+    ],
+    [
+      0.556313,
+      "\u001b[37m\u001b[40m\u001b[2;3r\u001b[2;1H\u001b[1M\u001b[1;23r\u001b[5;21r\u001b[5;1H\u001b[1M\u001b[1;23r\u001b[3;1H\u001b[39m\u001b[49m       │\u001b[35m     \u001b[39m  push   %rbp                                                                 ▒\u001b[4;9H         if (buf == Z_NULL) return 0UL;\u001b[21;1H       │\u001b[35m     \u001b[39m  test   %edx,%edx                                                            ▒\u001b[22;14H\u001b[30m\u001b[47m{                 \r\n"
+    ],
+    [
+      0.248140,
+      "\u001b[37m\u001b[40m\u001b[2;3r\u001b[2;1H\u001b[1M\u001b[1;23r\u001b[5;21r\u001b[5;1H\u001b[1M\u001b[1;23r\u001b[3;1H\u001b[39m\u001b[49m       │         if (buf == Z_NULL) return 0UL;                                            ▒\u001b[4;9H\u001b[35m     \u001b[39m  test   %rsi,%rsi                \u001b[21;1H       │     {                                                                             ▒\u001b[22;14H\u001b[30m\u001b[47m    register z_crc_t c;\r\n"
+    ],
+    [
+      0.020011,
+      "\u001b[37m\u001b[40m\u001b[2;3r\u001b[2;1H\u001b[1M\u001b[1;23r\u001b[5;21r\u001b[5;1H\u001b[1M\u001b[1;23r\u001b[3;1H\u001b[39m\u001b[49m       │\u001b[35m     \u001b[39m  test   %rsi,%rsi                                                            ▒\u001b[4;9H     /* ========================================================================= *\u001b[21;1H       │         register z_crc_t c;                                                       ▒\u001b[22;27H\u001b[30m\u001b[47mconst z_crc_t FAR *buf4;\r\n"
+    ],
+    [
+      0.020011,
+      "\u001b[37m\u001b[40m\u001b[2;3r\u001b[2;1H\u001b[1M\u001b[1;23r\u001b[5;21r\u001b[5;1H\u001b[1M\u001b[1;23r\u001b[3;1H\u001b[39m\u001b[49m       │     /* ========================================================================= *▒\u001b[4;14Hunsigned long ZEXPORT crc32(crc, buf, len)                                    \u001b[21;1H       │         register const z_crc_t FAR *buf4;                                         ▒\u001b[22;18H\u001b[30m\u001b[47m                                 \r\n"
+    ],
+    [
+      0.020011,
+      "\u001b[37m\u001b[40m\u001b[2;3r\u001b[2;1H\u001b[1M\u001b[1;23r\u001b[5;21r\u001b[5;1H\u001b[1M\u001b[1;23r\u001b[3;1H\u001b[39m\u001b[49m       │     unsigned long ZEXPORT crc32(crc, buf, len)                                    ▒\u001b[4;14H    unsigned long crc;                    \u001b[21;1H       │                                                                                   ▒\u001b[22;18H\u001b[30m\u001b[47mc = (z_crc_t)crc;\r\n"
+    ],
+    [
+      0.020011,
+      "\u001b[37m\u001b[40m\u001b[2;3r\u001b[2;1H\u001b[1M\u001b[1;23r\u001b[5;21r\u001b[5;1H\u001b[1M\u001b[1;23r\u001b[3;1H\u001b[39m\u001b[49m       │         unsigned long crc;                                                        ▒\u001b[4;18Hconst unsigned char FAR *buf;\u001b[21;1H       │         c = (z_crc_t)crc;                                                         ▒\u001b[22;22H\u001b[30m\u001b[47m~c;          \r\n"
+    ],
+    [
+      0.024014,
+      "\u001b[37m\u001b[40m\u001b[2;3r\u001b[2;1H\u001b[1M\u001b[1;23r\u001b[5;21r\u001b[5;1H\u001b[1M\u001b[1;23r\u001b[3;1H\u001b[39m\u001b[49m       │         const unsigned char FAR *buf;                                             ▒\u001b[4;18HuInt len;                    \u001b[21;1H       │         c = ~c;                                                                   ▒\u001b[22;16H\u001b[30m\u001b[47mnot    %edi\r\n"
+    ],
+    [
+      0.020011,
+      "\u001b[37m\u001b[40m\u001b[2;3r\u001b[2;1H\u001b[1M\u001b[1;23r\u001b[5;21r\u001b[5;1H\u001b[1M\u001b[1;23r\u001b[3;1H\u001b[39m\u001b[49m       │         uInt len;                                                                 ▒\u001b[4;14H{            \u001b[21;1H       │\u001b[35m     \u001b[39m  not    %edi                                                                 ▒\u001b[22;16H\u001b[30m\u001b[47m  while (len \u0026\u0026 ((ptrdiff_t)buf \u0026 3)) {\r\n"
+    ],
+    [
+      0.736414,
+      "\u001b[2;9H\u001b[35m\u001b[49m     \u001b[39m↓ je     3d                      \u001b[3;9H\u001b[35m     \u001b[39m  test   $0x3,%sil\u001b[4;9H\u001b[35m     \u001b[39m↓ je\u001b[5C48\u001b[67C▒\u001b[5;16Hlea    crc_table,%rcx\u001b[55C◆\u001b[6;9H\u001b[35m     \u001b[39m↓ jmp    26                       \u001b[7;10H\u001b[35m20: \u001b[39m  test   $0x3,%sil\u001b[8;9H\u001b[35m     \u001b[39m↓ je     48            \u001b[9;18H    c = crc_table[0][(c ^ *buf++) \u0026 0xff] ^ (c \u003e\u003e 8);\u001b[10;9H\u001b[35m 26: \u001b[39m  add    $0x1,%rsi\u001b[11;9H\u001b[35m     \u001b[39m  mov    %edi,%eax   \u001b[12;9H\u001b[35m     \u001b[39m  shr    $0x8,%edi\u001b[13;9H\u001b[35m     \u001b[39m  xor    -0x1(%rsi),%al                  \u001b[14;16Hmovzbl %al,%eax \u001b[15;9H\u001b[35m     \u001b[39m  xor    (%rcx,%rax,4),%edi\u001b[21;9H         while (len \u0026\u0026 ((ptrdiff_t)buf \u0026 3)) {\u001b[22;16H\u001b[30m\u001b[47msub    $0x1,%edx                       \r\n"
+    ],
+    [
+      1.256706,
+      "\u001b[37m\u001b[40m\u001b[20;21r\u001b[20;1H\u001b[1L\u001b[1;23r\u001b[2;14H\u001b[39m\u001b[49m↑ jne    20\u001b[3;9H                       \u001b[4;9H         if (len) do {\u001b[5;9H             c = crc_table[0][(c ^ *buf++) \u0026 0xff] ^ (c \u003e\u003e 8);\u001b[21C▒\u001b[6;9H         } while (--len);\u001b[7;9H         c = ~c;       \u001b[60C◆\u001b[8;9H         return (unsigned long)c;\u001b[9;9H\u001b[35m 3d: \u001b[39m  mov    %edi,%eax                                       \u001b[10;9H         }             \u001b[11;9H         if (len) do { \u001b[12;9H             DO1;      \u001b[13;9H         } while (--len);   \u001b[14;9H         return crc ^ 0xffffffffUL;\u001b[15;9H     }                          \u001b[16;9H\u001b[35m     \u001b[39m  pop    %rbx          \u001b[17;18H                                 \u001b[18;18Hif (len) do {\u001b[19;18H    c = crc_table[0][(c ^ *buf++) \u0026 0xff] ^ (c \u003e\u003e 8);\r\n       │         } while (--len);                                                          ▒\u001b[22;16H\u001b[30m\u001b[47m  return (unsigned long)c;\r\n"
+    ],
+    [
+      1.040585,
+      "\u001b[2;3H\u001b[39m\u001b[49m0,04\u001b[7C  not    %eax\u001b[3;18H}\u001b[5;22HDO1;                                             \u001b[7;18Hreturn crc ^ 0xffffffffUL;\u001b[48C▒\u001b[8;14H}                           \u001b[50C◆\u001b[9;10H\u001b[35m    \u001b[39m  pop\u001b[5Crbp     \u001b[10;9H\u001b[35m     \u001b[39m← retq\u001b[11;9H\u001b[35m     \u001b[39m  nop            \u001b[12;22Hc = crc_table[0][(c ^ *buf++) \u0026 0xff] ^ (c \u003e\u003e 8);\u001b[13;18H    len--;      \u001b[14;18H}                         \u001b[15;14H \u001b[16;9H         buf4 = (const z_crc_t FAR *)(const void FAR *)buf;\u001b[17;18Hwhile (len \u003e= 32) {\u001b[18;9H\u001b[35m 48: \u001b[39m  cmp    $0x1f,%edx\u001b[19;9H\u001b[35m     \u001b[39m↓ jbe    21e                                             \u001b[20;9H\u001b[35m     \u001b[39m  lea    -0x20(%rdx),%r10d\u001b[21;9H\u001b[35m     \u001b[39m  lea    crc_table,%rcx\u001b[22;16H\u001b[30m\u001b[47mmov    %rsi,%r8           \r\n"
+    ],
+    [
+      0.644362,
+      "\u001b[2;3H\u001b[39m\u001b[49m    \u001b[9Cshr    $0x5,%r10d\u001b[3;9H\u001b[35m     \u001b[39m  mov    %r10,%rax\u001b[4;9H\u001b[35m     \u001b[39m  shl    $0x5,%rax\u001b[5;9H\u001b[35m     \u001b[39m  lea    0x20(%rsi,%rax,1),%r9\u001b[6;9H\u001b[35m     \u001b[39m  nop               \u001b[7;18H    DOLIT32;              \u001b[8;3H0,04 │\u001b[35m 70: \u001b[39m  xor    (%r8),%edi\u001b[59C▒\u001b[9;1H\u001b[32m  1,29 \u001b[6C  mov    %rdi,%rax                                                            \u001b[10;14H\u001b[39m  mov    %edi,%r11d\u001b[59C◆\u001b[11;16Hmovzbl %ah,%ebx\r\n\u001b[32m  2,31 \u001b[39m│\u001b[35m     \u001b[32m  movzbl %dil,%eax                                                            \u001b[13;3H\u001b[39m0,04 │\u001b[35m     \u001b[39m  shr    $0x18,%edi\u001b[14;9H\u001b[35m     \u001b[39m  mov    0xc00(%rcx,%rax,4),%eax\r\n\u001b[32m  3,33 \u001b[39m│\u001b[35m     \u001b[32m  xor    (%rcx,%rdi,4),%eax                                                   \r\n  2,76 \u001b[39m│\u001b[35m     \u001b[32m  shr    $0x10,%r11d                                                          \u001b[17;9H\u001b[35m     \u001b[39m  xor    0x4(%r8),%eax \r\n\u001b[32m  1,06 \u001b[39m│\u001b[35m     \u001b[32m  movzbl %r11b,%r11d                                                          \u001b[19;14H\u001b[39m  xor    0x800(%rcx,%rbx,4),%eax\r\n\u001b[32m  0,95 \u001b[6C  xor    0x400(%rcx,%r11,4),%eax                                              \r\n  1,10 \u001b[6C  movzbl %ah,%ebx                                                             \u001b[22;3H\u001b[30m\u001b[47m2,27\u001b[12Czbl %al,%ebp\r\n"
+    ],
+    [
+      1.068601,
+      "\u001b[21;1H  1,10 \u001b[39m\u001b[49m│\u001b[30m\u001b[47m       movzbl %ah,%ebx                                                             \r\n\u001b[32m\u001b[49m  2,27 \u001b[39m│\u001b[35m     \u001b[32m  movzbl %al,%ebp                                                             \r\n"
+    ],
+    [
+      0.248140,
+      "\u001b[20;1H\u001b[30m\u001b[47m  0,95 \u001b[39m\u001b[49m│\u001b[30m\u001b[47m       xor    0x400(%rcx,%r11,4),%eax                                              \r\n\u001b[32m\u001b[49m  1,10 \u001b[39m│\u001b[35m     \u001b[32m  movzbl %ah,%ebx                                                             \r\n\n"
+    ],
+    [
+      0.020011,
+      "\u001b[9;92H\u001b[39m◆\u001b[10;92H▒\u001b[19;1H\u001b[30m\u001b[47m       \u001b[39m\u001b[49m│\u001b[30m\u001b[47m       xor    0x800(%rcx,%rbx,4),%eax                                              \r\n\u001b[32m\u001b[49m  0,95 \u001b[39m│\u001b[35m     \u001b[32m  xor    0x400(%rcx,%r11,4),%eax                                              \r\n\n\n"
+    ],
+    [
+      0.020011,
+      "\u001b[18;1H\u001b[30m\u001b[47m  1,06 \u001b[39m\u001b[49m│\u001b[30m\u001b[47m       movzbl %r11b,%r11d                                                          \r\n\u001b[39m\u001b[49m       │\u001b[35m     \u001b[39m  xor    0x800(%rcx,%rbx,4),%eax                                              \r\n\n\n\n"
+    ],
+    [
+      0.020011,
+      "\u001b[17;1H\u001b[30m\u001b[47m       \u001b[39m\u001b[49m│\u001b[30m\u001b[47m       xor    0x4(%r8),%eax                                                        \r\n\u001b[32m\u001b[49m  1,06 \u001b[39m│\u001b[35m     \u001b[32m  movzbl %r11b,%r11d                                                          \u001b[23;1H"
+    ],
+    [
+      0.020011,
+      "\u001b[16;1H\u001b[30m\u001b[47m  2,76 \u001b[39m\u001b[49m│\u001b[30m\u001b[47m       shr    $0x10,%r11d                                                          \r\n\u001b[39m\u001b[49m       │\u001b[35m     \u001b[39m  xor    0x4(%r8),%eax                                                        \u001b[23;1H"
+    ],
+    [
+      0.020011,
+      "\u001b[15;1H\u001b[30m\u001b[47m  3,33 \u001b[39m\u001b[49m│\u001b[30m\u001b[47m       xor    (%rcx,%rdi,4),%eax                                                   \r\n\u001b[32m\u001b[49m  2,76 \u001b[39m│\u001b[35m     \u001b[32m  shr    $0x10,%r11d                                                          \u001b[23;1H"
+    ],
+    [
+      0.020011,
+      "\u001b[14;1H\u001b[30m\u001b[47m       \u001b[39m\u001b[49m│\u001b[30m\u001b[47m       mov    0xc00(%rcx,%rax,4),%eax                                              \r\n\u001b[32m\u001b[49m  3,33 \u001b[39m│\u001b[35m     \u001b[32m  xor    (%rcx,%rdi,4),%eax                                                   \u001b[23;1H"
+    ],
+    [
+      0.020011,
+      "\u001b[13;1H\u001b[30m\u001b[47m  0,04 \u001b[39m\u001b[49m│\u001b[30m\u001b[47m       shr    $0x18,%edi                                                           \r\n\u001b[39m\u001b[49m       │\u001b[35m     \u001b[39m  mov    0xc00(%rcx,%rax,4),%eax                                              \u001b[23;1H"
+    ],
+    [
+      0.020011,
+      "\u001b[12;1H\u001b[30m\u001b[47m  2,31 \u001b[39m\u001b[49m│\u001b[30m\u001b[47m       movzbl %dil,%eax                                                            \r\n\u001b[39m\u001b[49m  0,04 │\u001b[35m     \u001b[39m  shr    $0x18,%edi                                                           \u001b[23;1H"
+    ],
+    [
+      0.020011,
+      "\u001b[11;1H\u001b[30m\u001b[47m       \u001b[39m\u001b[49m│\u001b[30m\u001b[47m       movzbl %ah,%ebx                                                             \r\n\u001b[32m\u001b[49m  2,31 \u001b[39m│\u001b[35m     \u001b[32m  movzbl %dil,%eax                                                            \u001b[23;1H"
+    ],
+    [
+      0.020011,
+      "\u001b[10;1H\u001b[30m\u001b[47m       \u001b[39m\u001b[49m│\u001b[30m\u001b[47m       mov    %edi,%r11d                                                           \r\n\u001b[39m\u001b[49m       │\u001b[35m     \u001b[39m  movzbl %ah,%ebx                                                             \u001b[23;1H"
+    ],
+    [
+      0.024014,
+      "\u001b[9;1H\u001b[30m\u001b[47m  1,29 \u001b[39m\u001b[49m│\u001b[30m\u001b[47m       mov    %rdi,%rax                                                            \r\n\u001b[39m\u001b[49m       │\u001b[35m     \u001b[39m  mov    %edi,%r11d                                                           \u001b[23;1H"
+    ],
+    [
+      0.016009,
+      "\u001b[8;1H\u001b[30m\u001b[47m  0,04 \u001b[39m\u001b[49m│\u001b[30m\u001b[47m 70:   xor    (%r8),%edi                                                           \r\n\u001b[32m\u001b[49m  1,29 \u001b[39m│\u001b[35m     \u001b[32m  mov    %rdi,%rax                                                            \u001b[23;1H"
+    ],
+    [
+      0.700394,
+      "\u001b[7;1H\u001b[30m\u001b[47m       \u001b[39m\u001b[49m│\u001b[30m\u001b[47m             DOLIT32;                                                              \r\n\u001b[39m\u001b[49m  0,04 │\u001b[35m 70: \u001b[39m  xor    (%r8),%edi                                                           \u001b[23;1H"
+    ],
+    [
+      7.804387,
+      "\u001b[2;16Hmov    %eax,%edi \u001b[3;16Hshr    $0x18,%eax\u001b[4;18Hr\u001b[7C10,%edi\r\n\u001b[32m  1,25 \u001b[6C  mov    %eax,%r11d                                                           \u001b[6;16H\u001b[39mmov    0xc00(%rcx,%rbp,4),%eax\u001b[7;3H\u001b[30m\u001b[47m2,04\u001b[9Cmovzbl %dil,%edi\u001b[8;3H\u001b[39m\u001b[49m     │\u001b[35m    \u001b[13C\u001b[39mcx,%r11,4),%eax\u001b[9;3H\u001b[32m3,14\u001b[9Cxor    0x8(%r8),%eax\u001b[56C\u001b[39m▒\u001b[10;1H\u001b[32m  1,21 \u001b[6C  xor    0x800(%rcx,%rbx,4),%eax                                              \u001b[39m◆\u001b[11;1H\u001b[32m  1,10 \u001b[6C  xor    0x400(%rcx,%rdi,4),%eax                                              \u001b[12;3H1,44\u001b[17Cah,%ebx \r\n  2,31 \u001b[6C  movzbl %al,%ebp                                                             \u001b[14;23H\u001b[39m%eax,%edi              \r\n       \u001b[6C  shr    $0x18,%eax                                                           \r\n       \u001b[6C  shr    $0x10,%edi                                                           \r\n\u001b[32m  0,87 \u001b[6C  mov    %eax,%r11d                                                           \r\n\u001b[39m       \u001b[6C  mov    0xc00(%rcx,%rbp,4),%eax                                              \r\n\u001b[32m  2,46 \u001b[6C  movzbl %dil,%edi                                                            \r\n\u001b[39m  0,04 \u001b[6C  xor    (%rcx,%r11,4),%eax                                                   \u001b[21;3H\u001b[32m3,41\u001b[9Cxor    0xc(%r8),%eax\u001b[22;3H0,95\u001b[9Cxor    0x800(%rcx,%rbx,4),%eax\r\n"
+    ],
+    [
+      0.472266,
+      "\u001b[37m\u001b[40m\u001b[14;19r\u001b[14;1H\u001b[3L\u001b[1;23r\u001b[2;6r\u001b[2;1H\u001b[3L\u001b[1;23r\u001b[2;1H\u001b[32m\u001b[49m  1,29 \u001b[39m│\u001b[35m     \u001b[32m  xor    0x400(%rcx,%rdi,4),%eax                                              \u001b[39m▒\u001b[3;1H\u001b[32m  1,55 \u001b[39m│\u001b[35m     \u001b[32m  movzbl %ah,%ebx                                                             \u001b[39m▒\u001b[4;1H\u001b[32m  2,08 \u001b[39m│\u001b[35m     \u001b[32m  movzbl %al,%ebp                                                             \u001b[39m▒\u001b[7;3H\u001b[30m\u001b[47m    \u001b[9Cshr    $0x10,%edi\r\n\u001b[32m\u001b[49m  1,21 \u001b[6C  mov    %eax,%r11d                                                           \r\n\u001b[39m       \u001b[6C  mov    0xc00(%rcx,%rbp,4),%eax                                              \u001b[10;3H\u001b[32m2,19\u001b[9Cmovzbl %dil,%edi              \u001b[46C\u001b[39m▒\u001b[11;1H       \u001b[6C  xor    (%rcx,%r11,4),%eax                                                   ◆\u001b[12;3H\u001b[32m3,1\u001b[10Cxor    0x10(%r8),%eax\u001b[13;3H1,32\u001b[9Cxor    0x800(%rcx,%rbx,4),%eax\r\n  1,14 \u001b[39m│\u001b[35m     \u001b[32m  xor    0x400(%rcx,%rdi,4),%eax                                              \u001b[39m▒\u001b[15;1H\u001b[32m  1,02 \u001b[39m│\u001b[35m     \u001b[32m  movzbl %ah,%ebx                                                             \u001b[39m▒\u001b[16;1H\u001b[32m  2,12 \u001b[39m│\u001b[35m     \u001b[32m  movzbl %al,%ebp                                                             \u001b[39m▒\u001b[20;1H\u001b[32m  1,21 \u001b[6C  mov    %eax,%r11d                                                           \r\n\u001b[39m       \u001b[6C  mov    0xc00(%rcx,%rbp,4),%eax                                              \u001b[22;3H\u001b[32m1,97\u001b[9Cmovzbl %dil,%edi              \r\n"
+    ],
+    [
+      0.364205,
+      "\u001b[37m\u001b[40m\u001b[5;9r\u001b[5;1H\u001b[3L\u001b[1;23r\u001b[2;1H\u001b[39m\u001b[49m       \u001b[6C  xor    (%rcx,%r11,4),%eax                                                   \u001b[3;3H\u001b[32m3,14\u001b[9Cxor    0x14(%r8),%eax\u001b[4;3H1,21\u001b[9Cxor    0x800(%rcx,%rbx,4),%eax\r\n  1,17 \u001b[39m│\u001b[35m     \u001b[32m  xor    0x400(%rcx,%rdi,4),%eax                                              \u001b[39m▒\u001b[6;1H\u001b[32m  1,32 \u001b[39m│\u001b[35m     \u001b[32m  movzbl %ah,%ebx                                                             \u001b[39m▒\u001b[7;1H\u001b[30m\u001b[47m  2,04 \u001b[39m\u001b[49m│\u001b[30m\u001b[47m       movzbl %al,%ebp                                                             \u001b[39m\u001b[49m▒\u001b[10;1H  0,11 \u001b[6C  shr    $0x10,%edi                                                           \r\n\u001b[32m  1,36 \u001b[6C  mov    %eax,%r11d                                                           \u001b[39m▒\u001b[12;1H       \u001b[6C  mov    0xc00(%rcx,%rbp,4),%eax                                              \u001b[13;3H\u001b[32m2,04\u001b[9Cmovzbl %dil,%edi              \u001b[46C\u001b[39m◆\u001b[14;1H       \u001b[6C  xor    (%rcx,%r11,4),%eax                                                   \u001b[15;3H\u001b[32m3,37\u001b[9Cadd    $0x20,%r8\r\n\u001b[39m       \u001b[6C  xor    -0x8(%r8),%eax                                                       \r\n\u001b[32m  1,06 \u001b[6C  xor    0x800(%rcx,%rbx,4),%eax                                              \r\n  1,06 \u001b[6C  xor    0x400(%rcx,%rdi,4),%eax                                              \r\n  1,10 \u001b[6C  movzbl %ah,%ebx                                                             \u001b[20;3H2,08\u001b[22Cedi \u001b[21;19H\u001b[39mzbl %al,%ebp               \r\n       \u001b[6C  shr    $0x18,%eax                                                           \r\n"
+    ],
+    [
+      0.576324,
+      "\u001b[2;16Hsh\u001b[5C$0x10,%edi        \u001b[3;3H\u001b[32m1,06\u001b[9Cmov    %eax,%r11d    \r\n\u001b[39m       \u001b[6C  mov    0xc00(%rcx,%rbp,4),%eax                                              \u001b[5;3H\u001b[32m2,46\u001b[9Cmovzbl %dil,%edi              \r\n\u001b[39m       \u001b[6C  xor    (%rcx,%r11,4),%eax                                                   \u001b[7;3H\u001b[30m\u001b[47m4,20\u001b[9Cxor    -0x4(%r8),%eax\r\n\u001b[32m\u001b[49m  1,29 \u001b[6C  xor    0x800(%rcx,%rbx,4),%eax                                              \r\n  1,25 \u001b[6C  xor    0x400(%rcx,%rdi,4),%eax                                              \r\n  1,44 \u001b[6C  mov    %eax,%edi                                                            \r\n\u001b[39m       \u001b[6C  mov    %eax,%r11d                                                           \u001b[12;19Hzbl %al,%ebx               \r\n       \u001b[6C  shr    $0x18,%edi                                                           ▒\u001b[14;1H\u001b[32m  1,17 \u001b[6C  shr    $0x10,%r11d                                                          \u001b[39m◆\u001b[15;1H  0,08 \u001b[6C  movzbl %ah,%eax                                                             \r\n\u001b[32m  1,06 \u001b[6C  mov    (%rcx,%rdi,4),%edi                                                   \u001b[17;3H4,20\u001b[18Cc\u001b[18Cdi\u001b[18;3H2,38\u001b[9Cmovzbl %r11b,%r11d            \r\n\u001b[39m       \u001b[6C  xor    0x800(%rcx,%rax,4),%edi                                              \u001b[20;3H\u001b[32m1,14\u001b[9Cxor    0x400(%rcx,%r11,4),%edi\u001b[21;9H\u001b[39m             c = crc_table[0][(c ^ *buf++) \u0026 0xff] ^ (c \u003e\u003e 8);\u001b[22;9H             len--;     \r\n"
+    ],
+    [
+      0.480270,
+      "\u001b[2;9H    \u001b[34m│\u001b[39m    }              \r\n       │    \u001b[34m│\u001b[39m                                                                              \u001b[4;9H    \u001b[34m│\u001b[39m    buf4 = (const z_crc_t FAR *)(const void FAR *)buf;\r\n       │    \u001b[34m│\u001b[39m    while (len \u003e= 32) {                                                       \r\n\u001b[32m  1,51 \u001b[5C\u001b[34m│\u001b[32m  cmp    %r9,%r8                                                              \u001b[7;3H\u001b[30m\u001b[47m    \u001b[6C\u001b[34m\u001b[49m└──\u001b[30m\u001b[47mjne    70            \r\n\u001b[39m\u001b[49m       \u001b[6C  add    $0x1,%r10                                                            \r\n       \u001b[6C  and    $0x1f,%edx                                                           \r\n       \u001b[6C  shl    $0x5,%r10                                                            \u001b[11;16Hadd\u001b[5Cr10,%rsi \u001b[12;9H             DOLIT32; \u001b[13;9H             len -= 32; \r\n       │         }                                                                         ▒\u001b[15;3H     │         while (len \u003e= 4) {\r\n       │\u001b[35m21e: \u001b[39m  cmp    $0x3,%edx                                                            ◆\u001b[17;1H       \u001b[6C↓ jbe    287                                                                  \r\n       \u001b[6C  lea    -0x4(%rdx),%eax                                                      \u001b[19;16Hlea    crc_table,%rcx         \r\n       \u001b[6C  mov    %rsi,%r8                                                             \u001b[21;9H\u001b[35m     \u001b[39m  shr    $0x2,%eax                                       \u001b[22;9H\u001b[35m     \u001b[39m  mov    %eax,%ebx\r\n"
+    ],
+    [
+      0.484272,
+      "\u001b[2;13H \u001b[3;13H \u001b[4;13H \u001b[5;13H \r\n\u001b[30m\u001b[47m  1,51 \u001b[39m\u001b[49m│\u001b[30m\u001b[47m       cmp    %r9,%r8                                                              \r\n\u001b[39m\u001b[49m       │\u001b[35m     \u001b[39m↑ jne    70                                                                   \u001b[23;1H"
+    ],
+    [
+      0.176099,
+      "\u001b[5;1H\u001b[30m\u001b[47m       \u001b[39m\u001b[49m│\u001b[30m\u001b[47m         while (len \u003e= 32) {                                                       \r\n\u001b[32m\u001b[49m  1,51 \u001b[39m│\u001b[35m     \u001b[32m  cmp    %r9,%r8                                                              \u001b[23;1H"
+    ],
+    [
+      0.152086,
+      "\u001b[4;1H\u001b[30m\u001b[47m       \u001b[39m\u001b[49m│\u001b[30m\u001b[47m         buf4 = (const z_crc_t FAR *)(const void FAR *)buf;                        \r\n\u001b[39m\u001b[49m       │         while (len \u003e= 32) {                                                       \u001b[15;92H◆\u001b[16;92H▒\u001b[23;1H"
+    ],
+    [
+      0.216122,
+      "\u001b[3;1H\u001b[30m\u001b[47m       \u001b[39m\u001b[49m│\u001b[30m\u001b[47m                                                                                   \r\n\u001b[39m\u001b[49m       │         buf4 = (const z_crc_t FAR *)(const void FAR *)buf;                        \u001b[23;1H"
+    ],
+    [
+      0.168095,
+      "\u001b[2;1H\u001b[30m\u001b[47m       \u001b[39m\u001b[49m│\u001b[30m\u001b[47m         }                                                                         \r\n\u001b[39m\u001b[49m       │                                                                                   \u001b[23;1H"
+    ],
+    [
+      0.136077,
+      "\u001b[37m\u001b[40m\u001b[16;22r\u001b[16;1H\u001b[1L\u001b[1;23r\u001b[3;14r\u001b[3;1H\u001b[1L\u001b[1;23r\u001b[2;18H\u001b[30m\u001b[47m    len--;\r\n\u001b[39m\u001b[49m       │         }                                                                         ▒\u001b[15;18H}                 \r\n       │         while (len \u003e= 4) {                                                        ▒\u001b[23;1H"
+    ],
+    [
+      0.152086,
+      "\u001b[37m\u001b[40m\u001b[16;22r\u001b[16;1H\u001b[1L\u001b[1;23r\u001b[3;14r\u001b[3;1H\u001b[1L\u001b[1;23r\u001b[2;22H\u001b[30m\u001b[47mc = crc_table[0][(c ^ *buf++) \u0026 0xff] ^ (c \u003e\u003e 8);\r\n\u001b[39m\u001b[49m       │             len--;                                                                ▒\u001b[15;18H    len -= 32;\r\n       │         }                                                                         ▒\u001b[23;1H"
+    ],
+    [
+      0.168095,
+      "\u001b[37m\u001b[40m\u001b[16;22r\u001b[16;1H\u001b[1L\u001b[1;23r\u001b[3;14r\u001b[3;1H\u001b[1L\u001b[1;23r\u001b[2;3H\u001b[30m\u001b[47m1,14\u001b[9Cxor    0x400(%rcx,%r11,4),%edi                         \r\n\u001b[39m\u001b[49m       │             c = crc_table[0][(c ^ *buf++) \u0026 0xff] ^ (c \u003e\u003e 8);                     ▒\u001b[15;22HDOLIT32;  \r\n       │             len -= 32;                                                            ▒\u001b[23;1H"
+    ],
+    [
+      0.176099,
+      "\u001b[37m\u001b[40m\u001b[16;22r\u001b[16;1H\u001b[1L\u001b[1;23r\u001b[3;14r\u001b[3;1H\u001b[1L\u001b[1;23r\u001b[2;3H\u001b[30m\u001b[47m    \u001b[18C8\u001b[10Cax\r\n\u001b[32m\u001b[49m  1,14 \u001b[39m│\u001b[35m     \u001b[32m  xor    0x400(%rcx,%r11,4),%edi                                              \u001b[39m▒\u001b[15;9H\u001b[35m     \u001b[39m  add    %r10,%rsi\r\n       │             DOLIT32;                                                              ▒\u001b[23;1H"
+    ],
+    [
+      0.236133,
+      "\u001b[37m\u001b[40m\u001b[16;22r\u001b[16;1H\u001b[1L\u001b[1;23r\u001b[3;14r\u001b[3;1H\u001b[1L\u001b[1;23r\u001b[2;3H\u001b[30m\u001b[47m2,38\u001b[9Cmovzbl %r11b,%r11d            \r\n\u001b[39m\u001b[49m       │\u001b[35m     \u001b[39m  xor    0x800(%rcx,%rax,4),%edi                                              ▒\u001b[15;16Hshl    $0x5,%r10\r\n       │\u001b[35m     \u001b[39m  add    %r10,%rsi                                                            ▒\u001b[23;1H"
+    ],
+    [
+      0.020011,
+      "\u001b[37m\u001b[40m\u001b[16;22r\u001b[16;1H\u001b[1L\u001b[1;23r\u001b[3;14r\u001b[3;1H\u001b[1L\u001b[1;23r\u001b[2;3H\u001b[30m\u001b[47m4,20\u001b[9Cxor    0xc00(%rcx,%rbx,4),%edi\r\n\u001b[32m\u001b[49m  2,38 \u001b[39m│\u001b[35m     \u001b[32m  movzbl %r11b,%r11d                                                          \u001b[39m▒\u001b[15;16Hand\u001b[7C1f,%edx\r\n       │\u001b[35m     \u001b[39m  shl    $0x5,%r10                                                            ▒\u001b[23;1H"
+    ],
+    [
+      0.020011,
+      "\u001b[37m\u001b[40m\u001b[16;22r\u001b[16;1H\u001b[1L\u001b[1;23r\u001b[3;14r\u001b[3;1H\u001b[1L\u001b[1;23r\u001b[2;3H\u001b[30m\u001b[47m1,06\u001b[9Cmov    (%rcx,%rdi,4),%edi     \r\n\u001b[32m\u001b[49m  4,20 \u001b[39m│\u001b[35m     \u001b[32m  xor    0xc00(%rcx,%rbx,4),%edi                                              \u001b[39m▒\u001b[15;17Hd\u001b[9C,%r10 \r\n       │\u001b[35m     \u001b[39m  and    $0x1f,%edx                                                           ▒\u001b[23;1H"
+    ],
+    [
+      1.052592,
+      "\u001b[2;1H\u001b[32m  1,06 \u001b[39m│\u001b[35m     \u001b[32m  mov    (%rcx,%rdi,4),%edi                                                   \r\n\u001b[30m\u001b[47m  4,20 \u001b[39m\u001b[49m│\u001b[30m\u001b[47m       xor    0xc00(%rcx,%rbx,4),%edi                                              \u001b[23;1H"
+    ],
+    [
+      0.248140,
+      "\u001b[3;1H\u001b[32m\u001b[49m  4,20 \u001b[39m│\u001b[35m     \u001b[32m  xor    0xc00(%rcx,%rbx,4),%edi                                              \r\n\u001b[30m\u001b[47m  2,38 \u001b[39m\u001b[49m│\u001b[30m\u001b[47m       movzbl %r11b,%r11d                                                          \u001b[23;1H"
+    ],
+    [
+      0.020011,
+      "\u001b[4;1H\u001b[32m\u001b[49m  2,38 \u001b[39m│\u001b[35m     \u001b[32m  movzbl %r11b,%r11d                                                          \r\n\u001b[30m\u001b[47m       \u001b[39m\u001b[49m│\u001b[30m\u001b[47m       xor    0x800(%rcx,%rax,4),%edi                                              \u001b[23;1H"
+    ],
+    [
+      0.020011,
+      "\u001b[5;1H\u001b[39m\u001b[49m       │\u001b[35m     \u001b[39m  xor    0x800(%rcx,%rax,4),%edi                                              \r\n\u001b[30m\u001b[47m  1,14 \u001b[39m\u001b[49m│\u001b[30m\u001b[47m       xor    0x400(%rcx,%r11,4),%edi                                              \u001b[23;1H"
+    ],
+    [
+      0.020011,
+      "\u001b[6;1H\u001b[32m\u001b[49m  1,14 \u001b[39m│\u001b[35m     \u001b[32m  xor    0x400(%rcx,%r11,4),%edi                                              \r\n\u001b[30m\u001b[47m       \u001b[39m\u001b[49m│\u001b[30m\u001b[47m             c = crc_table[0][(c ^ *buf++) \u0026 0xff] ^ (c \u003e\u003e 8);                     \u001b[23;1H"
+    ],
+    [
+      0.020011,
+      "\u001b[7;1H\u001b[39m\u001b[49m       │             c = crc_table[0][(c ^ *buf++) \u0026 0xff] ^ (c \u003e\u003e 8);                     \r\n\u001b[30m\u001b[47m       \u001b[39m\u001b[49m│\u001b[30m\u001b[47m             len--;                                                                \u001b[23;1H"
+    ],
+    [
+      0.020011,
+      "\u001b[8;1H\u001b[39m\u001b[49m       │             len--;                                                                \r\n\u001b[30m\u001b[47m       \u001b[39m\u001b[49m│\u001b[30m\u001b[47m         }                                                                         \u001b[23;1H"
+    ],
+    [
+      0.020011,
+      "\u001b[9;1H\u001b[39m\u001b[49m       │         }                                                                         \r\n\u001b[30m\u001b[47m       \u001b[39m\u001b[49m│\u001b[30m\u001b[47m                                                                                   \u001b[23;1H"
+    ],
+    [
+      0.020011,
+      "\u001b[10;1H\u001b[39m\u001b[49m       │                                                                                   \r\n\u001b[30m\u001b[47m       \u001b[39m\u001b[49m│\u001b[30m\u001b[47m         buf4 = (const z_crc_t FAR *)(const void FAR *)buf;                        \u001b[23;1H"
+    ],
+    [
+      0.020011,
+      "\u001b[11;1H\u001b[39m\u001b[49m       │         buf4 = (const z_crc_t FAR *)(const void FAR *)buf;                        \r\n\u001b[30m\u001b[47m       \u001b[39m\u001b[49m│\u001b[30m\u001b[47m         while (len \u003e= 32) {                                                       \u001b[15;92H\u001b[39m\u001b[49m▒\u001b[16;92H◆\u001b[23;1H"
+    ],
+    [
+      0.020011,
+      "\u001b[12;1H       │         while (len \u003e= 32) {                                                       \r\n\u001b[30m\u001b[47m  1,51 \u001b[39m\u001b[49m│\u001b[30m\u001b[47m       cmp    %r9,%r8                                                              \u001b[23;1H"
+    ],
+    [
+      0.248140,
+      "\u001b[2;13H\u001b[34m\u001b[49m│\u001b[3;13H│\u001b[4;13H│\u001b[5;13H│\u001b[6;13H│\u001b[7;13H│\u001b[8;13H│\u001b[9;13H│\u001b[10;13H│\u001b[11;13H│\u001b[12;13H│\r\n\u001b[32m  1,51 \u001b[39m│\u001b[35m    \u001b[34m│\u001b[32m  cmp    %r9,%r8                                                              \r\n\u001b[30m\u001b[47m       \u001b[39m\u001b[49m│\u001b[30m\u001b[47m    \u001b[34m\u001b[49m└──\u001b[30m\u001b[47mjne    70                                                                   \u001b[23;1H"
+    ],
+    [
+      0.376212,
+      "\u001b[2;13H\u001b[35m\u001b[49m \u001b[3;13H \u001b[4;13H \u001b[5;13H \u001b[6;13H \u001b[7;13H\u001b[39m \u001b[8;13H \u001b[9;13H \u001b[10;13H \u001b[11;13H \u001b[12;13H \u001b[13;13H\u001b[35m \r\n\u001b[39m       │\u001b[35m     \u001b[39m↑ jne    70                                                                   \r\n\u001b[30m\u001b[47m       \u001b[39m\u001b[49m│\u001b[30m\u001b[47m       add    $0x1,%r10                                                            \u001b[23;1H"
+    ],
+    [
+      0.244137,
+      "\u001b[15;1H\u001b[39m\u001b[49m       │\u001b[35m     \u001b[39m  add    $0x1,%r10                                                            \r\n\u001b[30m\u001b[47m       \u001b[39m\u001b[49m│\u001b[30m\u001b[47m       and    $0x1f,%edx                                                           \u001b[23;1H"
+    ],
+    [
+      0.020011,
+      "\u001b[16;1H\u001b[39m\u001b[49m       │\u001b[35m     \u001b[39m  and    $0x1f,%edx                                                           \r\n\u001b[30m\u001b[47m       \u001b[39m\u001b[49m│\u001b[30m\u001b[47m       shl    $0x5,%r10                                                            \u001b[23;1H"
+    ],
+    [
+      0.020011,
+      "\u001b[17;1H\u001b[39m\u001b[49m       │\u001b[35m     \u001b[39m  shl    $0x5,%r10                                                            \r\n\u001b[30m\u001b[47m       \u001b[39m\u001b[49m│\u001b[30m\u001b[47m       add    %r10,%rsi                                                            \u001b[23;1H"
+    ],
+    [
+      0.020011,
+      "\u001b[18;1H\u001b[39m\u001b[49m       │\u001b[35m     \u001b[39m  add    %r10,%rsi                                                            \r\n\u001b[30m\u001b[47m       \u001b[39m\u001b[49m│\u001b[30m\u001b[47m             DOLIT32;                                                              \r\n\n\n\n"
+    ],
+    [
+      0.020011,
+      "\u001b[19;1H\u001b[39m\u001b[49m       │             DOLIT32;                                                              \r\n\u001b[30m\u001b[47m       \u001b[39m\u001b[49m│\u001b[30m\u001b[47m             len -= 32;                                                            \r\n\n\n"
+    ],
+    [
+      0.020011,
+      "\u001b[20;1H\u001b[39m\u001b[49m       │             len -= 32;                                                            \r\n\u001b[30m\u001b[47m       \u001b[39m\u001b[49m│\u001b[30m\u001b[47m         }                                                                         \r\n\n"
+    ],
+    [
+      0.020011,
+      "\u001b[21;1H\u001b[39m\u001b[49m       │         }                                                                         \r\n\u001b[30m\u001b[47m       \u001b[39m\u001b[49m│\u001b[30m\u001b[47m         while (len \u003e= 4) {                                                        \r\n"
+    ],
+    [
+      0.020011,
+      "\u001b[37m\u001b[40m\u001b[2;15r\u001b[2;1H\u001b[1M\u001b[1;23r\u001b[17;21r\u001b[17;1H\u001b[1M\u001b[1;23r\u001b[15;1H\u001b[39m\u001b[49m       │\u001b[35m     \u001b[39m  and    $0x1f,%edx                                                           ▒\u001b[16;16Hshl\u001b[7C5,%r10 \u001b[21;1H       │         while (len \u003e= 4) {                                                        ▒\u001b[22;9H\u001b[30m\u001b[47m21e:   cmp    $0x3,%edx    \r\n"
+    ],
+    [
+      0.024014,
+      "\u001b[37m\u001b[40m\u001b[2;15r\u001b[2;1H\u001b[1M\u001b[1;23r\u001b[17;21r\u001b[17;1H\u001b[1M\u001b[1;23r\u001b[15;1H\u001b[39m\u001b[49m       │\u001b[35m     \u001b[39m  shl    $0x5,%r10                                                            ▒\u001b[16;16Hadd    %r10,%rsi\u001b[21;1H       │\u001b[35m21e: \u001b[39m  cmp    $0x3,%edx                                                            ▒\u001b[22;9H\u001b[30m\u001b[47m    \u001b[34m\u001b[49m┌──\u001b[30m\u001b[47mjbe    287      \r\n"
+    ],
+    [
+      0.016009,
+      "\u001b[37m\u001b[40m\u001b[2;15r\u001b[2;1H\u001b[1M\u001b[1;23r\u001b[17;21r\u001b[17;1H\u001b[1M\u001b[1;23r\u001b[15;1H\u001b[39m\u001b[49m       │\u001b[35m     \u001b[39m  add    %r10,%rsi                                                            ▒\u001b[16;9H             DOLIT32;  \u001b[21;1H       │\u001b[35m     \u001b[39m↓ jbe    287                                                                  ▒\u001b[22;13H\u001b[30m\u001b[47m   lea    -0x4(%rdx),%eax\r\n"
+    ],
+    [
+      0.016009,
+      "\u001b[37m\u001b[40m\u001b[2;15r\u001b[2;1H\u001b[1M\u001b[1;23r\u001b[17;21r\u001b[17;1H\u001b[1M\u001b[1;23r\u001b[15;1H\u001b[39m\u001b[49m       │             DOLIT32;                                                              ▒\u001b[16;22Hlen -= 32;\u001b[21;1H       │\u001b[35m     \u001b[39m  lea    -0x4(%rdx),%eax                                                      ▒\u001b[22;23H\u001b[30m\u001b[47mcrc_table,%rcx \r\n"
+    ],
+    [
+      0.020011,
+      "\u001b[37m\u001b[40m\u001b[2;15r\u001b[2;1H\u001b[1M\u001b[1;23r\u001b[16;17r\u001b[16;1H\u001b[1M\u001b[1;23r\u001b[18;21r\u001b[18;1H\u001b[1M\u001b[1;23r\u001b[15;1H\u001b[39m\u001b[49m       │             len -= 32;                                                            ▒\u001b[17;1H       │         while (len \u003e= 4) {                                                        ◆\u001b[21;1H       │\u001b[35m     \u001b[39m  lea    crc_table,%rcx                                                       ▒\u001b[22;16H\u001b[30m\u001b[47mmov    %rsi,%r8      \r\n"
+    ],
+    [
+      0.024014,
+      "\u001b[37m\u001b[40m\u001b[2;16r\u001b[2;1H\u001b[1M\u001b[1;23r\u001b[18;21r\u001b[18;1H\u001b[1M\u001b[1;23r\u001b[16;1H\u001b[39m\u001b[49m       │         while (len \u003e= 4) {                                                        ▒\u001b[17;9H\u001b[35m21e: \u001b[39m  cmp    $0x3,%edx    \r\n\n\n\n       │\u001b[35m     \u001b[39m  mov    %rsi,%r8                                                             ▒\u001b[22;16H\u001b[30m\u001b[47mshr    $0x2,%eax\r\n"
+    ],
+    [
+      0.156088,
+      "\u001b[37m\u001b[40m\u001b[2;16r\u001b[2;1H\u001b[1M\u001b[1;23r\u001b[18;21r\u001b[18;1H\u001b[1M\u001b[1;23r\u001b[16;1H\u001b[39m\u001b[49m       │\u001b[35m21e: \u001b[39m  cmp    $0x3,%edx                                                            ▒\u001b[17;9H\u001b[35m     \u001b[39m↓ jbe    287      \r\n\n\n\n       │\u001b[35m     \u001b[39m  shr    $0x2,%eax                                                            ▒\u001b[22;16H\u001b[30m\u001b[47mmov    %eax,%eb\r\n"
+    ],
+    [
+      0.244137,
+      "\u001b[37m\u001b[40m\u001b[2;16r\u001b[2;1H\u001b[1M\u001b[1;23r\u001b[18;21r\u001b[18;1H\u001b[1M\u001b[1;23r\u001b[16;1H\u001b[39m\u001b[49m       │\u001b[35m     \u001b[39m↓ jbe    287                                                                  ▒\u001b[17;14H  lea    -0x4(%rdx),%eax\r\n\n\n\n       │\u001b[35m     \u001b[39m  mov    %eax,%ebx                                                            ▒\u001b[22;16H\u001b[30m\u001b[47mlea    0x4(%rsi,%rbx,4),%r11\r\n"
+    ],
+    [
+      0.020011,
+      "\u001b[37m\u001b[40m\u001b[2;16r\u001b[2;1H\u001b[1M\u001b[1;23r\u001b[18;21r\u001b[18;1H\u001b[1M\u001b[1;23r\u001b[16;1H\u001b[39m\u001b[49m       │\u001b[35m     \u001b[39m  lea    -0x4(%rdx),%eax                                                      ▒\u001b[17;23Hcrc_table,%rcx \r\n\n\n\n       │\u001b[35m     \u001b[39m  lea    0x4(%rsi,%rbx,4),%r11                                                ▒\u001b[22;16H\u001b[30m\u001b[47mnop                         \r\n"
+    ],
+    [
+      0.020011,
+      "\u001b[37m\u001b[40m\u001b[2;16r\u001b[2;1H\u001b[1M\u001b[1;23r\u001b[18;21r\u001b[18;1H\u001b[1M\u001b[1;23r\u001b[16;1H\u001b[39m\u001b[49m       │\u001b[35m     \u001b[39m  lea    crc_table,%rcx                                                       ▒\u001b[17;16Hmov    %rsi,%r8      \r\n\n\n\n       │\u001b[35m     \u001b[39m  nop                                                                         ▒\u001b[22;16H\u001b[30m\u001b[47m      DOLIT4;\r\n"
+    ],
+    [
+      0.016009,
+      "\u001b[37m\u001b[40m\u001b[2;16r\u001b[2;1H\u001b[1M\u001b[1;23r\u001b[18;21r\u001b[18;1H\u001b[1M\u001b[1;23r\u001b[16;1H\u001b[39m\u001b[49m       │\u001b[35m     \u001b[39m  mov    %rsi,%r8                                                             ▒\u001b[17;16Hshr    $0x2,%eax\r\n\n\n\n       │             DOLIT4;                                                               ▒\u001b[22;9H\u001b[30m\u001b[47m240:   mov    (%r8),%eax\r\n"
+    ],
+    [
+      0.020011,
+      "\u001b[37m\u001b[40m\u001b[2;16r\u001b[2;1H\u001b[1M\u001b[1;23r\u001b[18;21r\u001b[18;1H\u001b[1M\u001b[1;23r\u001b[16;1H\u001b[39m\u001b[49m       │\u001b[35m     \u001b[39m  shr    $0x2,%eax                                                            ▒\u001b[17;16Hmov    %eax,%eb\r\n\n\n\n       │\u001b[35m240: \u001b[39m  mov    (%r8),%eax                                                           ▒\u001b[22;9H\u001b[30m\u001b[47m       add    $0x4,%r8  \r\n"
+    ],
+    [
+      0.020011,
+      "\u001b[37m\u001b[40m\u001b[2;16r\u001b[2;1H\u001b[1M\u001b[1;23r\u001b[18;21r\u001b[18;1H\u001b[1M\u001b[1;23r\u001b[16;1H\u001b[39m\u001b[49m       │\u001b[35m     \u001b[39m  mov    %eax,%ebx                                                            ▒\u001b[17;16Hlea    0x4(%rsi,%rbx,4),%r11\r\n\n\n\n       │\u001b[35m     \u001b[39m  add    $0x4,%r8                                                             ▒\u001b[22;16H\u001b[30m\u001b[47mxor    %edi,%eax\r\n"
+    ],
+    [
+      0.024014,
+      "\u001b[37m\u001b[40m\u001b[2;16r\u001b[2;1H\u001b[1M\u001b[1;23r\u001b[18;21r\u001b[18;1H\u001b[1M\u001b[1;23r\u001b[16;1H\u001b[39m\u001b[49m       │\u001b[35m     \u001b[39m  lea    0x4(%rsi,%rbx,4),%r11                                                ▒\u001b[17;16Hnop                         \r\n\n\n\n       │\u001b[35m     \u001b[39m  xor    %edi,%eax                                                            ▒\u001b[22;16H\u001b[30m\u001b[47mmov\u001b[6Cax,%edi\r\n"
+    ],
+    [
+      0.020011,
+      "\u001b[37m\u001b[40m\u001b[2;16r\u001b[2;1H\u001b[1M\u001b[1;23r\u001b[18;21r\u001b[18;1H\u001b[1M\u001b[1;23r\u001b[16;1H\u001b[39m\u001b[49m       │\u001b[35m     \u001b[39m  nop                                                                         ▒\u001b[17;9H             DOLIT4;\r\n\n\n\n       │\u001b[35m     \u001b[39m  mov    %eax,%edi                                                            ▒\u001b[22;29H\u001b[30m\u001b[47mr9d\r\n"
+    ],
+    [
+      0.020011,
+      "\u001b[37m\u001b[40m\u001b[2;16r\u001b[2;1H\u001b[1M\u001b[1;23r\u001b[18;21r\u001b[18;1H\u001b[1M\u001b[1;23r\u001b[16;1H\u001b[39m\u001b[49m       │             DOLIT4;                                                               ▒\u001b[17;9H\u001b[35m240: \u001b[39m  mov    (%r8),%eax\r\n\n\n\n       │\u001b[35m     \u001b[39m  mov    %eax,%r9d                                                            ▒\u001b[22;19H\u001b[30m\u001b[47mzbl %al,%r10\r\n"
+    ],
+    [
+      0.020011,
+      "\u001b[37m\u001b[40m\u001b[2;16r\u001b[2;1H\u001b[1M\u001b[1;23r\u001b[18;21r\u001b[18;1H\u001b[1M\u001b[1;23r\u001b[16;1H\u001b[39m\u001b[49m       │\u001b[35m240: \u001b[39m  mov    (%r8),%eax                                                           ▒\u001b[17;9H\u001b[35m     \u001b[39m  add    $0x4,%r8  \r\n\n\n\n       │\u001b[35m     \u001b[39m  movzbl %al,%r10d                                                            ▒\u001b[22;16H\u001b[30m\u001b[47mshr    $0x18,%edi\r\n"
+    ],
+    [
+      0.016009,
+      "\u001b[37m\u001b[40m\u001b[2;16r\u001b[2;1H\u001b[1M\u001b[1;23r\u001b[18;21r\u001b[18;1H\u001b[1M\u001b[1;23r\u001b[16;1H\u001b[39m\u001b[49m       │\u001b[35m     \u001b[39m  add    $0x4,%r8                                                             ▒\u001b[17;16Hxor    %edi,%eax\r\n\n\n\n       │\u001b[35m     \u001b[39m  shr    $0x18,%edi                                                           ▒\u001b[22;27H\u001b[30m\u001b[47m0,%r9d\r\n"
+    ],
+    [
+      0.020011,
+      "\u001b[37m\u001b[40m\u001b[2;16r\u001b[2;1H\u001b[1M\u001b[1;23r\u001b[18;21r\u001b[18;1H\u001b[1M\u001b[1;23r\u001b[16;1H\u001b[39m\u001b[49m       │\u001b[35m     \u001b[39m  xor    %edi,%eax                                                            ▒\u001b[17;16Hmov\u001b[6Cax,%edi\r\n\n\n\n       │\u001b[35m     \u001b[39m  shr    $0x10,%r9d                                                           ▒\u001b[22;16H\u001b[30m\u001b[47mmovzbl %ah,%eax  \r\n"
+    ],
+    [
+      0.020011,
+      "\u001b[37m\u001b[40m\u001b[2;16r\u001b[2;1H\u001b[1M\u001b[1;23r\u001b[17;18r\u001b[17;1H\u001b[1M\u001b[1;23r\u001b[19;21r\u001b[19;1H\u001b[1M\u001b[1;23r\u001b[16;1H\u001b[39m\u001b[49m       │\u001b[35m     \u001b[39m  mov    %eax,%edi                                                            ▒\u001b[18;1H       │\u001b[35m     \u001b[39m  movzbl %al,%r10d                                                            ◆\u001b[21;1H       │\u001b[35m     \u001b[39m  movzbl %ah,%eax                                                             ▒\u001b[22;19H\u001b[30m\u001b[47m    (%rcx,%rdi,4),%edi\r\n"
+    ],
+    [
+      0.292164,
+      "\u001b[37m\u001b[40m\u001b[2;17r\u001b[2;1H\u001b[1M\u001b[1;23r\u001b[19;21r\u001b[19;1H\u001b[1M\u001b[1;23r\u001b[17;1H\u001b[39m\u001b[49m       │\u001b[35m     \u001b[39m  movzbl %al,%r10d                                                            ▒\u001b[18;16Hshr    $0x18,%edi\r\n\n\n       │\u001b[35m     \u001b[39m  mov    (%rcx,%rdi,4),%edi                                                   ▒\u001b[22;3H\u001b[30m\u001b[47m0,04\u001b[9Cxor    0xc00(%rcx,%r10,4),%edi\r\n"
+    ],
+    [
+      0.416234,
+      "\u001b[2;3H\u001b[39m\u001b[49m0,04 │\u001b[35m    \u001b[34m│\u001b[39m  movzbl %r9b,%r9d\u001b[3;13H\u001b[34m│\u001b[39m  xor    0x800(%rcx,%rax,4),%edi\u001b[4;13H\u001b[34m│\u001b[39m  xor    0x400(%rcx,%r9,4),%edi\u001b[5;9H    \u001b[34m│\u001b[39m    buf4 = (const z_crc_t FAR *)(const void FAR *)buf;\u001b[6;9H    \u001b[34m│\u001b[39m    while (len \u003e= 32) {\u001b[7;9H    \u001b[34m│\u001b[39m        DOLIT32;  \u001b[8;9H    \u001b[34m│\u001b[39m        len -= 32;\u001b[9;9H    \u001b[34m│\u001b[39m    }                         \u001b[10;9H    \u001b[34m│\u001b[39m    while (len \u003e= 4) {\u001b[11;9H\u001b[35m    \u001b[34m│\u001b[39m  cmp    %r11,%r8\u001b[12;9H\u001b[35m    \u001b[34m│\u001b[39m↑ jne    240       \u001b[13;13H\u001b[34m│\u001b[39m  lea    0x4(%rsi,%rbx,4),%rsi\u001b[14;13H\u001b[34m│\u001b[39m  and    $0x3,%ed\u001b[15;9H    \u001b[34m│\u001b[39m        DOLIT4;   \u001b[16;9H    \u001b[34m│\u001b[39m        len -= 4; \u001b[17;9H    \u001b[34m│\u001b[39m    }             \u001b[18;9H    \u001b[34m│\u001b[39m    buf = (const unsigned char FAR *)buf4;\u001b[36C▒\u001b[19;9H    \u001b[34m│\u001b[39m                   \u001b[59C◆\u001b[20;9H    \u001b[34m│\u001b[39m    if (len) do {\u001b[21;9H\u001b[35m287:\u001b[34m│\u001b[39m  test   %edx,%edx         \u001b[22;3H\u001b[30m\u001b[47m    \u001b[6C\u001b[34m\u001b[49m└──\u001b[30m\u001b[47mje     3d                     \r\n"
+    ],
+    [
+      0.468263,
+      "\u001b[2;3H\u001b[39m\u001b[49m    \u001b[6C\u001b[35m \u001b[39m  sub    $0x1,%edx\u001b[3;13H\u001b[35m \u001b[39m  lea    crc_table,%rcx         \u001b[4;13H\u001b[35m \u001b[39m  lea\u001b[6C1(%rsi,%rdx,1),%rdx \u001b[5;9H\u001b[35m     \u001b[39m  xchg   %ax,%ax                                      \u001b[6;13H         c = crc_table[0][(c ^ *buf++) \u0026 0xff] ^ (c \u003e\u003e 8);\u001b[7;9H\u001b[35m2a0: \u001b[39m  add    $0x1,%rsi\u001b[8;9H\u001b[35m     \u001b[39m  mov    %edi,%eax\u001b[9;9H\u001b[35m     \u001b[39m  shr    $0x8,%edi\u001b[10;9H\u001b[35m     \u001b[39m  xor    -0x1(%rsi),%al\u001b[11;13H\u001b[35m \u001b[39m  movzbl %al,%eax\u001b[12;13H\u001b[35m \u001b[39m  xor    (%rcx,%rax,4),%edi\u001b[13;9H         } while (--len);          \u001b[14;13H\u001b[35m \u001b[39m  cmp    %rdx,%rsi\u001b[15;9H\u001b[35m     \u001b[39m↑ jne    2a0   \u001b[16;9H\u001b[35m     \u001b[39m↑ jmpq   3d      \u001b[17;9H\u001b[35m     \u001b[39m  nop\u001b[18;13H     }                                     \u001b[19;13H     if (len) do {\u001b[61C▒\u001b[20;13H         DO1;     \u001b[61C◆\u001b[21;9H         } while (--len);\u001b[22;13H\u001b[30m\u001b[47m     return crc ^ 0xffffffffUL;\r\n"
+    ],
+    [
+      0.404227,
+      "\u001b[37m\u001b[40m\u001b[15;19r\u001b[15;1H\u001b[3M\u001b[1;23r\u001b[2;9H\u001b[39m\u001b[49m         if (len) do { \u001b[3;9H             DO1;           \u001b[4;9H         } while (--len);          \u001b[5;9H         return crc ^ 0xffffffffUL;\u001b[6;14H}\u001b[7C                                                 \u001b[7;10H\u001b[35mc\u001b[5C\u001b[39mpop    %rbx     \u001b[8;9H     unsigned long ZEXPORT crc32(crc, buf, len)\u001b[9;9H         unsigned long crc;\u001b[10;9H         const unsigned char FAR *buf;\u001b[11;9H         uInt len;    \u001b[12;9H     {                          \u001b[13;18Hif (buf == Z_NULL) return 0UL;\u001b[14;16Hxor\u001b[5Ceax,%eax\r\n\n\n       │             DO1;                                                                  ▒\u001b[18;1H       │         } while (--len);                                                          ▒\u001b[19;1H       │         return crc ^ 0xffffffffUL;                                                ▒\u001b[20;14H}\u001b[7C    \u001b[66C▒\u001b[21;9H\u001b[35m     \u001b[39m  pop    %rbp       \u001b[22;14H\u001b[30m\u001b[47m← retq                        \u001b[48C\u001b[39m\u001b[49m◆\u001b[23;1H"
+    ],
+    [
+      2.037145,
+      "\u001b[1;1H\u001b[1m\u001b[37m\u001b[44mSamples: 2K of event 'cpu-clock', Event count (approx.): 669000000\u001b[23;92H"
+    ],
+    [
+      0.000000,
+      "\u001b[2;1H\u001b(B\u001b[m\u001b[30m\u001b[47m  98,77%  crc32  libz.so.1.2.8      [.] crc32                                              \u001b[39m\u001b[49m◆\u001b[3;4H0,26%  crc32  [kernel.kallsyms]  [k] test_clear_page_writeback\u001b[4;4H0,22%  crc32  [kernel.kallsyms]  [k] _raw_spin_unlock_irqrestore\u001b[5;4H0,19%  crc32  [kernel.kallsyms]  [k] __do_softirq\u001b[6;4H0,11%  crc32  crc32\u001b[14C[.] c3KC_info\u001b[7;4H0,07%  crc32  crc32    \u001b[10C[.] cl2_info\u001b[8;4H0,04%  crc32  [kernel.kallsyms]  [k] copy_user_generic_string\u001b[9;4H0,04%  crc32  [kernel.kallsyms]  [k] native_read_tsc\u001b[10;4H0,04%  crc32  crc32              [.] GarbageCollect\u001b[11;4H0,04%  crc32  crc32    \u001b[10C[.] c2k_info\u001b[12;4H0,04%  crc32  crc32\u001b[14C[.] c3LD_info\u001b[13;4H0,04%  crc32  crc32              [.] c7F_info\u001b[14;4H0,04%  crc32  crc32         \u001b[5C[.] evacuate\u001b[15;4H0,04%  crc32  crc32\u001b[14C[.] s3Eh_info\u001b[16;4H0,04%  crc32  crc32        \u001b[6C[.] sbUR_info\u001b[17;4H0,04%  crc32  crc32   \u001b[11C[.] 0x00000000007953c0\u001b[18;8H \u001b[9C                \u001b[19;8H \u001b[9C                          \u001b[20;8H \u001b[5C \u001b[21;8H                   \r\n                                                                                           ▒\u001b[23;8H\u001b[37m\u001b[40m?\u001b[23;92H"
+    ],
+    [
+      0.000000,
+      "\u001b[18;92H"
+    ],
+    [
+      1.132637,
+      "\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000000,
+      "\u001b[23;1H\u001b(B\u001b[m\u001b[39;49m\r\u001b[K\r\u001b[?1049l"
+    ],
+    [
+      0.004002,
+      "\u001b]0;francesco@francesco-VirtualBox: ~/crc32\u0007francesco@francesco-VirtualBox:~/crc32$ "
+    ],
+    [
+      0.776437,
+      "^C\r\n"
+    ],
+    [
+      0.000000,
+      "\u001b]0;francesco@francesco-VirtualBox: ~/crc32\u0007francesco@francesco-VirtualBox:~/crc32$ "
+    ],
+    [
+      1.004565,
+      "exit\r\n"
+    ]
+  ]
+}
