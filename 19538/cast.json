@@ -1,0 +1,1834 @@
+{
+  "version": 1,
+  "width": 157,
+  "height": 41,
+  "duration": 68.281364,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.487415,
+      "s"
+    ],
+    [
+      0.434646,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                            \r \r"
+    ],
+    [
+      0.000211,
+      "\u001b]2;mmcdaris@mcretina: ~\u0007"
+    ],
+    [
+      0.000063,
+      "\u001b]1;~\u0007"
+    ],
+    [
+      0.036348,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36m~ \u001b[01;34m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000068,
+      "\u001b[K"
+    ],
+    [
+      0.000165,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.002072,
+      "s"
+    ],
+    [
+      0.358968,
+      "\u0008st"
+    ],
+    [
+      0.480160,
+      "a"
+    ],
+    [
+      0.247994,
+      "r"
+    ],
+    [
+      0.311810,
+      "t"
+    ],
+    [
+      0.312110,
+      " "
+    ],
+    [
+      0.184021,
+      "a"
+    ],
+    [
+      0.184035,
+      "b"
+    ],
+    [
+      0.431791,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000129,
+      "\r\r\n"
+    ],
+    [
+      0.001413,
+      "\u001b]2;start ab\u0007\u001b]1;start\u0007"
+    ],
+    [
+      4.295055,
+      "arranging in: 7f9c,317x75,0,0[317x68,0,0,0,317x6,0,69,7]\r\n"
+    ],
+    [
+      0.031570,
+      "arranging in: 7f9c,317x75,0,0[317x68,0,0,0,317x6,0,69,7]\r\n"
+    ],
+    [
+      0.064839,
+      "arranging in: b397,180x85,0,0[180x7,0,0,52,180x8,0,8,54,180x68,0,17,55]\r\n"
+    ],
+    [
+      0.052028,
+      "arranging in: b397,180x85,0,0[180x7,0,0,52,180x8,0,8,54,180x68,0,17,55]\r\n"
+    ],
+    [
+      0.036026,
+      "arranging in: b397,180x85,0,0[180x7,0,0,52,180x8,0,8,54,180x68,0,17,55]\r\n"
+    ],
+    [
+      0.038223,
+      "\u001b[?1049h\u001b(B\u001b[m\u001b[?1l\u001b\u003e\u001b[H\u001b[2J\u001b[?12l\u001b[?25h\u001b[?1000l\u001b[?1006l\u001b[?1005l\u001b[c\u001b]112\u0007\u001b]0;ab:1:airbrake - \"mcretina.local\"\u0007\u001b[32m\u001b[38;1H───────────────────────────────────────────────────────────────────────────────\u001b[39m──────────────────────────────────────────────────────────────────────────────\u001b[?25l\u001b[1;1H\u001b(B\u001b[m\u001b[K\r\nvim\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\u001b[2Bguard\u001b[K\r\n\u001b[K\r\n\u001b[30m\u001b[42m[ab] 1:airbrake* 2:foreman-                                                                                                  \"mcretina.local\" 19:14 04-May-15\u001b(B\u001b[m\u001b[41;1H\u001b[1;41r\u001b[H\u001b[2B\u001b[?12l\u001b[?"
+    ],
+    [
+      0.000148,
+      "25h"
+    ],
+    [
+      1.496277,
+      "\u001b[39;40r\u001b[H\u001b[40d\u001b[1m\u001b[7m%\u001b[1;41r\u001b[H\u001b[2B\u001b(B\u001b[m\u001b[39;40r\u001b[H\u001b[40;2H      \u001b[1;41r\u001b[H\u001b[2B\u001b[39;40r\u001b[H\u001b[40;8H       \u001b[1;41r\u001b[H\u001b[2B\u001b[39;40r\u001b[H\u001b[40;15H       \u001b[1;41r\u001b[H\u001b[2B\u001b[39;40r\u001b[H\u001b[40;22H       \u001b[1;41r\u001b[H\u001b[2B\u001b[39;40r\u001b[H\u001b[40;29H       \u001b[1;41r\u001b[H\u001b[2B\u001b[39;40r\u001b[H\u001b[40;36H       "
+    ],
+    [
+      0.000056,
+      "\u001b[1;41r\u001b[H\u001b[2B\u001b[39;40r\u001b[H\u001b[40;43H       \u001b[1;41r\u001b[H\u001b[2B\u001b[39;40r\u001b[H\u001b[40;50H       \u001b[1;41r\u001b[H\u001b[2B"
+    ],
+    [
+      0.000013,
+      "\u001b[39;40r\u001b[H\u001b[40;57H       \u001b[1;41r\u001b[H\u001b[2B\u001b[39;40r\u001b[H\u001b[40;64H       \u001b[1;41r\u001b[H\u001b[2B"
+    ],
+    [
+      0.000383,
+      "\u001b[39;40r\u001b[H\u001b[40;71H       \u001b[1;41r\u001b[H\u001b[2B\u001b[39;40r\u001b[H\u001b[40;78H       \u001b[1;41r\u001b[H\u001b[2B\u001b[39;40r\u001b[H\u001b[40;85H       \u001b[1;41r\u001b[H\u001b[2B\u001b[39;40r\u001b[H\u001b[40;92H       \u001b[1;41r\u001b[H\u001b[2B\u001b[39;40r\u001b[H\u001b[40;99H       \u001b[1;41r\u001b[H\u001b[2B\u001b[39;40r\u001b[H\u001b[40;106H       \u001b[1;41r\u001b[H\u001b[2B\u001b[39;40r\u001b[H\u001b[40;113H       \u001b[1;41r\u001b[H\u001b[2B\u001b[39;40r\u001b[H\u001b[40;120H       "
+    ],
+    [
+      0.000049,
+      "\u001b[1;41r\u001b[H\u001b[2B\u001b[39;40r\u001b[H\u001b[40;127H       \u001b[1;41r\u001b[H\u001b[2B\u001b[39;40r\u001b[H\u001b[40;134H       \u001b[1;41r\u001b[H\u001b[2B\u001b[39;40r\u001b[H\u001b[40;141H       \u001b[1;41r\u001b[H\u001b[2B\u001b[39;40r\u001b[H\u001b[40;148H       \u001b[1;41r\u001b[H\u001b[2B\u001b[39;40r\u001b[H\u001b[40;155H   \u001b[40;1H \u001b[1;41r\u001b[H\u001b[2B"
+    ],
+    [
+      0.292651,
+      "\u001b[39;40r\u001b[H\u001b[40d\u001b[K\u001b[1;41r\u001b[H\u001b[2B"
+    ],
+    [
+      0.001822,
+      "\u001b[39;40r\u001b[H\u001b[40d\u001b[32m\u001b[1m➜ \u001b[1;41r\u001b[H\u001b[2B\u001b(B\u001b[m"
+    ],
+    [
+      0.000350,
+      "\u001b[39;40r\u001b[H\u001b[40;3H\u001b[32m\u001b[1m \u001b[1;41r\u001b[H\u001b[2B\u001b(B\u001b[m\u001b[39;40r\u001b[H\u001b[40;4H\u001b[36m\u001b[1mai\u001b[1;41r\u001b[H\u001b[2B\u001b(B\u001b[m\u001b[39;40r\u001b[H\u001b[40;6H\u001b[36m\u001b[1mrbrake-\u001b[1;41r\u001b[H\u001b[2B\u001b(B\u001b[m\u001b[39;40r\u001b[H\u001b[40;13H\u001b[36m\u001b[1mapp \u001b[1;41r\u001b[H\u001b[2B\u001b(B\u001b[m\u001b[39;40r\u001b[H\u001b[40;17H\u001b[34m\u001b[1mgi\u001b[1;41r\u001b[H\u001b[2B\u001b(B\u001b[m\u001b[39;40r\u001b[H\u001b[40;19H\u001b[34m\u001b[1mt:(\u001b[1;41r\u001b[H\u001b[2B\u001b(B\u001b[m"
+    ],
+    [
+      0.000028,
+      "\u001b[39;40r\u001b[H\u001b[40;22H\u001b[31m\u001b[1madmin/\u001b[1;41r\u001b[H\u001b[2B\u001b(B\u001b[m\u001b[39;40r\u001b[H\u001b[40;28H\u001b[31m\u001b[1mrevenue\u001b[1;41r\u001b[H\u001b[2B\u001b(B\u001b[m\u001b[39;40r\u001b[H\u001b[40;35H\u001b[31m\u001b[1m-helper\u001b[1;41r\u001b[H\u001b[2B\u001b(B\u001b[m\u001b[39;40r\u001b[H\u001b[40;42H\u001b[34m\u001b[1m)"
+    ],
+    [
+      0.000176,
+      "\u001b[1;41r\u001b[H\u001b[2B\u001b(B\u001b[m\u001b[39;40r\u001b[H\u001b[40;43H\u001b[34m\u001b[1m \u001b[1;41r\u001b[H\u001b[2B\u001b(B\u001b[m"
+    ],
+    [
+      0.003456,
+      "\u001b[39;40r\u001b[H\u001b[40d\n\u001b[1;41r\u001b[H\u001b[2B"
+    ],
+    [
+      0.016674,
+      "\u001b[39;40r\u001b[H\u001b[40d\u001b[1m\u001b[7m%\u001b[1;41r\u001b[H\u001b[2B\u001b(B\u001b[m"
+    ],
+    [
+      0.000024,
+      "\u001b[39;40r\u001b[H\u001b[40;2H  \u001b[1;41r\u001b[H\u001b[2B"
+    ],
+    [
+      0.000037,
+      "\u001b[39;40r\u001b[H\u001b[40;4H      \u001b[1;41r\u001b[H\u001b[2B"
+    ],
+    [
+      0.000043,
+      "\u001b[39;40r\u001b[H\u001b[40;10H      \u001b[1;41r\u001b[H\u001b[2B\u001b[39;40r\u001b[H\u001b[40;16H      "
+    ],
+    [
+      0.000013,
+      "\u001b[1;41r\u001b[H\u001b[2B"
+    ],
+    [
+      0.000039,
+      "\u001b[39;40r\u001b[H\u001b[40;22H      \u001b[1;41r\u001b[H\u001b[2B"
+    ],
+    [
+      0.000084,
+      "\u001b[39;40r\u001b[H\u001b[40;28H      \u001b[1;41r\u001b[H\u001b[2B\u001b[39;40r\u001b[H\u001b[40;34H      "
+    ],
+    [
+      0.000007,
+      "\u001b[1;41r\u001b[H\u001b[2B\u001b[39;40r\u001b[H\u001b[40;40H      "
+    ],
+    [
+      0.000148,
+      "\u001b[1;41r\u001b[H\u001b[2B\u001b[39;40r\u001b[H\u001b[40;46H      \u001b[1;41r\u001b[H\u001b[2B\u001b[39;40r\u001b[H\u001b[40;52H      \u001b[1;41r\u001b[H\u001b[2B"
+    ],
+    [
+      0.000007,
+      "\u001b[39;40r\u001b[H\u001b[40;58H      \u001b[1;41r\u001b[H\u001b[2B\u001b[39;40r\u001b[H\u001b[40;64H      \u001b[1;41r\u001b[H\u001b[2B"
+    ],
+    [
+      0.000254,
+      "\u001b[39;40r\u001b[H\u001b[40;70H      \u001b[1;41r\u001b[H\u001b[2B\u001b[39;40r\u001b[H\u001b[40;76H      \u001b[1;41r\u001b[H\u001b[2B\u001b[39;40r\u001b[H\u001b[40;82H      \u001b[1;41r\u001b[H\u001b[2B\u001b[39;40r\u001b[H\u001b[40;88H      \u001b[1;41r\u001b[H\u001b[2B\u001b[39;40r\u001b[H\u001b[40;94H      \u001b[1;41r\u001b[H\u001b[2B\u001b[39;40r\u001b[H\u001b[40;100H      \u001b[1;41r\u001b[H\u001b[2B\u001b[39;40r\u001b[H\u001b[40;106H      \u001b[1;41r\u001b[H\u001b[2B"
+    ],
+    [
+      0.000064,
+      "\u001b[39;40r\u001b[H\u001b[40;112H      \u001b[1;41r\u001b[H\u001b[2B\u001b[39;40r\u001b[H\u001b[40;118H      \u001b[1;41r\u001b[H\u001b[2B\u001b[39;40r\u001b[H\u001b[40;124H      \u001b[1;41r\u001b[H\u001b[2B\u001b[39;40r\u001b[H\u001b[40;130H      \u001b[1;41r\u001b[H\u001b[2B"
+    ],
+    [
+      0.000196,
+      "\u001b[39;40r\u001b[H\u001b[40;136H      \u001b[1;41r\u001b[H\u001b[2B\u001b[39;40r\u001b[H\u001b[40;142H      \u001b[1;41r\u001b[H\u001b[2B\u001b[39;40r\u001b[H\u001b[40;148H      \u001b[1;41r\u001b[H\u001b[2B\u001b[39;40r\u001b[H\u001b[40;154H    \u001b[40;1H \u001b[1;41r\u001b[H\u001b[2B"
+    ],
+    [
+      0.105783,
+      "\u001b[39;40r\u001b[H\u001b[40d\u001b[K\u001b[1;41r\u001b[H\u001b[2B"
+    ],
+    [
+      0.000024,
+      "\u001b[39;40r\u001b[H\u001b[40d\u001b[32m\u001b[1m➜ \u001b[1;41r\u001b[H\u001b[2B\u001b(B\u001b[m"
+    ],
+    [
+      0.000227,
+      "\u001b[39;40r\u001b[H\u001b[40;3H\u001b[32m\u001b[1m \u001b[1;41r\u001b[H\u001b[2B\u001b(B\u001b[m\u001b[39;40r\u001b[H\u001b[40;4H\u001b[36m\u001b[1mairb\u001b[1;41r\u001b[H\u001b[2B\u001b(B\u001b[m\u001b[39;40r\u001b[H\u001b[40;8H\u001b[36m\u001b[1mrake-a\u001b[1;41r\u001b[H\u001b[2B\u001b(B\u001b[m\u001b[39;40r\u001b[H\u001b[40;14H\u001b[36m\u001b[1mpp \u001b[1;41r\u001b[H\u001b[2B\u001b(B\u001b[m\u001b[39;40r\u001b[H\u001b[40;17H\u001b[34m\u001b[1mg"
+    ],
+    [
+      0.000016,
+      "\u001b[1;41r\u001b[H\u001b[2B\u001b(B\u001b[m\u001b[39;40r\u001b[H\u001b[40;18H\u001b[34m\u001b[1mit:("
+    ],
+    [
+      0.000137,
+      "\u001b[1;41r\u001b[H\u001b[2B\u001b(B\u001b[m\u001b[39;40r\u001b[H\u001b[40;22H\u001b[31m\u001b[1madm\u001b[1;41r\u001b[H\u001b[2B\u001b(B\u001b[m\u001b[39;40r\u001b[H\u001b[40;25H\u001b[31m\u001b[1min/rev\u001b[1;41r\u001b[H\u001b[2B\u001b(B\u001b[m\u001b[39;40r\u001b[H\u001b[40;31H\u001b[31m\u001b[1menue-h"
+    ],
+    [
+      0.000196,
+      "\u001b[1;41r\u001b[H\u001b[2B\u001b(B\u001b[m\u001b[39;40r\u001b[H\u001b[40;37H\u001b[31m\u001b[1melper\u001b[1;41r\u001b[H\u001b[2B\u001b(B\u001b[m\u001b[39;40r\u001b[H\u001b[40;42H\u001b[34m\u001b[1m)\u001b[1;41r\u001b[H\u001b[2B\u001b(B\u001b[m\u001b[39;40r\u001b[H\u001b[40;43H\u001b[34m\u001b[1m \u001b[1;41r\u001b[H\u001b[2B\u001b(B\u001b[m"
+    ],
+    [
+      0.011885,
+      "\u001b[39;40r\u001b[H\u001b[40;44Hg\u001b[1;41r\u001b[H\u001b[2B"
+    ],
+    [
+      0.000258,
+      "\u001b[39;40r\u001b[H\u001b[40;45Hu\u001b[1;41r\u001b[H\u001b[2B"
+    ],
+    [
+      0.000717,
+      "\u001b[39;40r\u001b[H\u001b[40;46Hard\r\n\u001b[1;41r\u001b[H\u001b[2B"
+    ],
+    [
+      0.498309,
+      "\u001b[1;37r\u001b[H\u001b[2B\u001b[1m\u001b[7m%\u001b[1;41r\u001b[H\u001b[3;2H\u001b(B\u001b[m"
+    ],
+    [
+      0.000036,
+      "\u001b[1;37r\u001b[H\u001b[3;2H   \u001b[1;41r\u001b[H\u001b[3;5H"
+    ],
+    [
+      0.000034,
+      "\u001b[1;37r\u001b[H\u001b[3;5H     \u001b[1;41r\u001b[H\u001b[3;10H"
+    ],
+    [
+      0.000048,
+      "\u001b[1;37r\u001b[H\u001b[3;10H     \u001b[1;41r\u001b[H\u001b[3;15H\u001b[1;37r\u001b[H\u001b[3;15H     "
+    ],
+    [
+      0.000034,
+      "\u001b[1;41r\u001b[H\u001b[3;20H\u001b[1;37r\u001b[H\u001b[3;20H     "
+    ],
+    [
+      0.000015,
+      "\u001b[1;41r\u001b[H\u001b[3;25H"
+    ],
+    [
+      0.000033,
+      "\u001b[1;37r\u001b[H\u001b[3;25H     \u001b[1;41r\u001b[H\u001b[3;30H"
+    ],
+    [
+      0.000035,
+      "\u001b[1;37r\u001b[H\u001b[3;30H     \u001b[1;41r\u001b[H\u001b[3;35H"
+    ],
+    [
+      0.000047,
+      "\u001b[1;37r\u001b[H\u001b[3;35H     \u001b[1;41r\u001b[H\u001b[3;40H\u001b[1;37r\u001b[H\u001b[3;40H     "
+    ],
+    [
+      0.000021,
+      "\u001b[1;41r\u001b[H\u001b[3;45H"
+    ],
+    [
+      0.000032,
+      "\u001b[1;37r\u001b[H\u001b[3;45H     \u001b[1;41r\u001b[H\u001b[3;50H"
+    ],
+    [
+      0.000030,
+      "\u001b[1;37r\u001b[H\u001b[3;50H     \u001b[1;41r\u001b[H\u001b[3;55H"
+    ],
+    [
+      0.000043,
+      "\u001b[1;37r\u001b[H\u001b[3;55H     \u001b[1;41r\u001b[H\u001b[3;60H"
+    ],
+    [
+      0.000029,
+      "\u001b[1;37r\u001b[H\u001b[3;60H     \u001b[1;41r\u001b[H\u001b[3;65H"
+    ],
+    [
+      0.000034,
+      "\u001b[1;37r\u001b[H\u001b[3;65H     \u001b[1;41r\u001b[H\u001b[3;70H"
+    ],
+    [
+      0.000051,
+      "\u001b[1;37r\u001b[H\u001b[3;70H     \u001b[1;41r\u001b[H\u001b[3;75H"
+    ],
+    [
+      0.000012,
+      "\u001b[1;37r\u001b[H\u001b[3;75H     \u001b[1;41r\u001b[H\u001b[3;80H"
+    ],
+    [
+      0.000037,
+      "\u001b[1;37r\u001b[H\u001b[3;80H     \u001b[1;41r\u001b[H\u001b[3;85H"
+    ],
+    [
+      0.000048,
+      "\u001b[1;37r\u001b[H\u001b[3;85H     \u001b[1;41r\u001b[H\u001b[3;90H\u001b[1;37r\u001b[H\u001b[3;90H     "
+    ],
+    [
+      0.000033,
+      "\u001b[1;41r\u001b[H\u001b[3;95H\u001b[1;37r\u001b[H\u001b[3;95H     "
+    ],
+    [
+      0.000014,
+      "\u001b[1;41r\u001b[H\u001b[3;100H"
+    ],
+    [
+      0.000037,
+      "\u001b[1;37r\u001b[H\u001b[3;100H     \u001b[1;41r\u001b[H\u001b[3;105H"
+    ],
+    [
+      0.000034,
+      "\u001b[1;37r\u001b[H\u001b[3;105H     \u001b[1;41r\u001b[H\u001b[3;110H"
+    ],
+    [
+      0.000045,
+      "\u001b[1;37r\u001b[H\u001b[3;110H     \u001b[1;41r\u001b[H\u001b[3;115H"
+    ],
+    [
+      0.000025,
+      "\u001b[1;37r\u001b[H\u001b[3;115H     \u001b[1;41r\u001b[H\u001b[3;120H"
+    ],
+    [
+      0.000044,
+      "\u001b[1;37r\u001b[H\u001b[3;120H     \u001b[1;41r\u001b[H\u001b[3;125H\u001b[1;37r\u001b[H\u001b[3;125H     "
+    ],
+    [
+      0.000020,
+      "\u001b[1;41r\u001b[H\u001b[3;130H"
+    ],
+    [
+      0.000027,
+      "\u001b[1;37r\u001b[H\u001b[3;130H     \u001b[1;41r\u001b[H\u001b[3;135H"
+    ],
+    [
+      0.000037,
+      "\u001b[1;37r\u001b[H\u001b[3;135H     \u001b[1;41r\u001b[H\u001b[3;140H"
+    ],
+    [
+      0.000037,
+      "\u001b[1;37r\u001b[H\u001b[3;140H     \u001b[1;41r\u001b[H\u001b[3;145H"
+    ],
+    [
+      0.000045,
+      "\u001b[1;37r\u001b[H\u001b[3;145H     \u001b[1;41r\u001b[H\u001b[3;150H\u001b[1;37r\u001b[H\u001b[3;150H     "
+    ],
+    [
+      0.000019,
+      "\u001b[1;41r\u001b[H\u001b[3;155H"
+    ],
+    [
+      0.000031,
+      "\u001b[1;37r\u001b[H\u001b[3;155H   \u001b[3;1H \u001b[1;41r\u001b[H\u001b[3;2H"
+    ],
+    [
+      0.000021,
+      "\r"
+    ],
+    [
+      0.001141,
+      "\u001b]0;ab:1:airbrake - \"mmcdaris@mcretina: ~/projects/airbrake-app\"\u0007\u001b[?25l\u001b[41d\u001b[30m\u001b[42m[ab] 1:airbrake* 2:foreman-                                                                                          \"mmcdaris@mcretina: ~/p\" 19:14 04-May-15\u001b(B\u001b[m\u001b[3;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.089165,
+      "\u001b[1;37r\u001b[H\u001b[2B\u001b[K\r\n\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1;41r\u001b[H\u001b[2B"
+    ],
+    [
+      0.000031,
+      "\u001b[1;37r\u001b[H\u001b[2B\u001b[32m\u001b[1m➜ \u001b[1;41r\u001b[H\u001b[3;3H\u001b(B\u001b[m"
+    ],
+    [
+      0.000066,
+      "\u001b[1;37r\u001b[H\u001b[3;3H\u001b[32m\u001b[1m \u001b[1;41r\u001b[H\u001b[3;4H\u001b(B\u001b[m"
+    ],
+    [
+      0.000017,
+      "\u001b[1;37r\u001b[H\u001b[3;4H\u001b[36m\u001b[1ma\u001b[1;41r\u001b[H\u001b[3;5H\u001b(B\u001b[m"
+    ],
+    [
+      0.000033,
+      "\u001b[1;37r\u001b[H\u001b[3;5H\u001b[36m\u001b[1mirbra\u001b[1;41r\u001b[H\u001b[3;10H\u001b(B\u001b[m"
+    ],
+    [
+      0.000033,
+      "\u001b[1;37r\u001b[H\u001b[3;10H\u001b[36m\u001b[1mke-ap\u001b[1;41r\u001b[H\u001b[3;15H\u001b(B\u001b[m"
+    ],
+    [
+      0.000036,
+      "\u001b[1;37r\u001b[H\u001b[3;15H\u001b[36m\u001b[1mp \u001b[1;41r\u001b[H\u001b[3;17H\u001b(B\u001b[m"
+    ],
+    [
+      0.000043,
+      "\u001b[1;37r\u001b[H\u001b[3;17H\u001b[34m\u001b[1mgit:(\u001b[1;41r\u001b[H\u001b[3;22H\u001b(B\u001b[m"
+    ],
+    [
+      0.000073,
+      "\u001b[1;37r\u001b[H\u001b[3;22H\u001b[31m\u001b[1madmin\u001b[1;41r\u001b[H\u001b[3;27H\u001b(B\u001b[m\u001b[1;37r\u001b[H\u001b[3;27H\u001b[31m\u001b[1m/reve"
+    ],
+    [
+      0.000016,
+      "\u001b[1;41r\u001b[H\u001b[3;32H\u001b(B\u001b[m\u001b[1;37r\u001b[H\u001b[3;32H\u001b[31m\u001b[1mnue-h"
+    ],
+    [
+      0.000020,
+      "\u001b[1;41r\u001b[H\u001b[3;37H\u001b(B\u001b[m"
+    ],
+    [
+      0.000026,
+      "\u001b[1;37r\u001b[H\u001b[3;37H\u001b[31m\u001b[1melper\u001b[1;41r\u001b[H\u001b[3;42H\u001b(B\u001b[m"
+    ],
+    [
+      0.000047,
+      "\u001b[1;37r\u001b[H\u001b[3;42H\u001b[34m\u001b[1m)\u001b[1;41r\u001b[H\u001b[3;43H\u001b(B\u001b[m"
+    ],
+    [
+      0.000042,
+      "\u001b[1;37r\u001b[H\u001b[3;43H\u001b[34m\u001b[1m \u001b[1;41r\u001b[H\u001b[3;44H\u001b(B\u001b[m"
+    ],
+    [
+      0.000030,
+      "\u001b[K"
+    ],
+    [
+      0.000039,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000441,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.001124,
+      "\u001b[1;37r\u001b[H\u001b[3B\u001b[1m\u001b[7m%\u001b[1;41r\u001b[H\u001b[4;2H\u001b(B\u001b[m"
+    ],
+    [
+      0.000047,
+      "\u001b[1;37r\u001b[H\u001b[4;2H  \u001b[1;41r\u001b[H\u001b[4;4H"
+    ],
+    [
+      0.000042,
+      "\u001b[1;37r\u001b[H\u001b[4;4H    \u001b[1;41r\u001b[H\u001b[4;8H"
+    ],
+    [
+      0.000021,
+      "\u001b[1;37r\u001b[H\u001b[4;8H    \u001b[1;41r\u001b[H\u001b[4;12H"
+    ],
+    [
+      0.000033,
+      "\u001b[1;37r\u001b[H\u001b[4;12H    \u001b[1;41r\u001b[H\u001b[4;16H"
+    ],
+    [
+      0.000072,
+      "\u001b[1;37r\u001b[H\u001b[4;16H    \u001b[1;41r\u001b[H\u001b[4;20H\u001b[1;37r\u001b[H\u001b[4;20H    \u001b[1;41r\u001b[H\u001b[4;24H"
+    ],
+    [
+      0.000037,
+      "\u001b[1;37r\u001b[H\u001b[4;24H    \u001b[1;41r\u001b[H\u001b[4;28H\u001b[1;37r\u001b[H\u001b[4;28H    "
+    ],
+    [
+      0.000013,
+      "\u001b[1;41r\u001b[H\u001b[4;32H"
+    ],
+    [
+      0.000056,
+      "\u001b[1;37r\u001b[H\u001b[4;32H    \u001b[1;41r\u001b[H\u001b[4;36H"
+    ],
+    [
+      0.000006,
+      "\u001b[1;37r\u001b[H\u001b[4;36H    \u001b[1;41r\u001b[H\u001b[4;40H"
+    ],
+    [
+      0.000033,
+      "\u001b[1;37r\u001b[H\u001b[4;40H    \u001b[1;41r\u001b[H\u001b[4;44H"
+    ],
+    [
+      0.000055,
+      "\u001b[1;37r\u001b[H\u001b[4;44H    \u001b[1;41r\u001b[H\u001b[4;48H"
+    ],
+    [
+      0.000006,
+      "\u001b[1;37r\u001b[H\u001b[4;48H    \u001b[1;41r\u001b[H\u001b[4;52H"
+    ],
+    [
+      0.000060,
+      "\u001b[1;37r\u001b[H\u001b[4;52H    \u001b[1;41r\u001b[H\u001b[4;56H\u001b[1;37r\u001b[H\u001b[4;56H    "
+    ],
+    [
+      0.000006,
+      "\u001b[1;41r\u001b[H\u001b[4;60H"
+    ],
+    [
+      0.000031,
+      "\u001b[1;37r\u001b[H\u001b[4;60H    \u001b[1;41r\u001b[H\u001b[4;64H"
+    ],
+    [
+      0.000034,
+      "\u001b[1;37r\u001b[H\u001b[4;64H    \u001b[1;41r\u001b[H\u001b[4;68H"
+    ],
+    [
+      0.000026,
+      "\u001b[1;37r\u001b[H\u001b[4;68H    \u001b[1;41r\u001b[H\u001b[4;72H"
+    ],
+    [
+      0.000026,
+      "\u001b[1;37r\u001b[H\u001b[4;72H    \u001b[1;41r\u001b[H\u001b[4;76H"
+    ],
+    [
+      0.000053,
+      "\u001b[1;37r\u001b[H\u001b[4;76H    \u001b[1;41r\u001b[H\u001b[4;80H\u001b[1;37r\u001b[H\u001b[4;80H    "
+    ],
+    [
+      0.000006,
+      "\u001b[1;41r\u001b[H\u001b[4;84H"
+    ],
+    [
+      0.000038,
+      "\u001b[1;37r\u001b[H\u001b[4;84H    \u001b[1;41r\u001b[H\u001b[4;88H"
+    ],
+    [
+      0.000052,
+      "\u001b[1;37r\u001b[H\u001b[4;88H    \u001b[1;41r\u001b[H\u001b[4;92H"
+    ],
+    [
+      0.000007,
+      "\u001b[1;37r\u001b[H\u001b[4;92H    \u001b[1;41r\u001b[H\u001b[4;96H"
+    ],
+    [
+      0.000038,
+      "\u001b[1;37r\u001b[H\u001b[4;96H    \u001b[1;41r\u001b[H\u001b[4;100H"
+    ],
+    [
+      0.000207,
+      "\u001b[1;37r\u001b[H\u001b[4;100H    \u001b[1;41r\u001b[H\u001b[4;104H\u001b[1;37r\u001b[H\u001b[4;104H    \u001b[1;41r\u001b[H\u001b[4;108H\u001b[1;37r\u001b[H\u001b[4;108H    \u001b[1;41r\u001b[H\u001b[4;112H\u001b[1;37r\u001b[H\u001b[4;112H    \u001b[1;41r\u001b[H\u001b[4;116H\u001b[1;37r\u001b[H\u001b[4;116H    \u001b[1;41r\u001b[H\u001b[4;120H\u001b[1;37r\u001b[H\u001b[4;120H    \u001b[1;41r\u001b[H\u001b[4;124H\u001b[1;37r\u001b[H\u001b[4;124H    "
+    ],
+    [
+      0.000008,
+      "\u001b[1;41r\u001b[H\u001b[4;128H\u001b[1;37r\u001b[H\u001b[4;128H    \u001b[1;41r\u001b[H\u001b[4;132H"
+    ],
+    [
+      0.000049,
+      "\u001b[1;37r\u001b[H\u001b[4;132H    \u001b[1;41r\u001b[H\u001b[4;136H"
+    ],
+    [
+      0.000006,
+      "\u001b[1;37r\u001b[H\u001b[4;136H    \u001b[1;41r\u001b[H\u001b[4;140H"
+    ],
+    [
+      0.000100,
+      "\u001b[1;37r\u001b[H\u001b[4;140H    \u001b[1;41r\u001b[H\u001b[4;144H\u001b[1;37r\u001b[H\u001b[4;144H    \u001b[1;41r\u001b[H\u001b[4;148H\u001b[1;37r\u001b[H\u001b[4;148H    \u001b[1;41r\u001b[H\u001b[4;152H\u001b[1;37r\u001b[H\u001b[4;152H    \u001b[1;41r\u001b[H\u001b[4;156H"
+    ],
+    [
+      0.000046,
+      "\u001b[1;37r\u001b[H\u001b[4;156H  \u001b[4;1H \u001b[1;41r\u001b[H\u001b[4;2H"
+    ],
+    [
+      0.000006,
+      "\r"
+    ],
+    [
+      0.088490,
+      "\u001b[1;37r\u001b[H\u001b[3B\u001b[K\r\n\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1;41r\u001b[H\u001b[3B"
+    ],
+    [
+      0.000042,
+      "\u001b[1;37r\u001b[H\u001b[3B\u001b[32m\u001b[1m➜ \u001b[1;41r\u001b[H\u001b[4;3H\u001b(B\u001b[m"
+    ],
+    [
+      0.000052,
+      "\u001b[1;37r\u001b[H\u001b[4;3H\u001b[32m\u001b[1m \u001b[1;41r\u001b[H\u001b[4;4H\u001b(B\u001b[m"
+    ],
+    [
+      0.000071,
+      "\u001b[1;37r\u001b[H\u001b[4;4H\u001b[36m\u001b[1mairb\u001b[1;41r\u001b[H\u001b[4;8H\u001b(B\u001b[m"
+    ],
+    [
+      0.000031,
+      "\u001b[1;37r\u001b[H\u001b[4;8H\u001b[36m\u001b[1mrak\u001b[1;41r\u001b[H\u001b[4;11H\u001b(B\u001b[m"
+    ],
+    [
+      0.000090,
+      "\u001b[1;37r\u001b[H\u001b[4;11H\u001b[36m\u001b[1me-a\u001b[1;41r\u001b[H\u001b[4;14H\u001b(B\u001b[m\u001b[1;37r\u001b[H\u001b[4;14H\u001b[36m\u001b[1mpp "
+    ],
+    [
+      0.000031,
+      "\u001b[1;41r\u001b[H\u001b[4;17H\u001b(B\u001b[m"
+    ],
+    [
+      0.000078,
+      "\u001b[1;37r\u001b[H\u001b[4;17H\u001b[34m\u001b[1mg\u001b[1;41r\u001b[H\u001b[4;18H\u001b(B\u001b[m"
+    ],
+    [
+      0.000052,
+      "\u001b[1;37r\u001b[H\u001b[4;18H\u001b[34m\u001b[1mit:\u001b[1;41r\u001b[H\u001b[4;21H\u001b(B\u001b[m"
+    ],
+    [
+      0.000040,
+      "\u001b[1;37r\u001b[H\u001b[4;21H\u001b[34m\u001b[1m(\u001b[1;41r\u001b[H\u001b[4;22H\u001b(B\u001b[m"
+    ],
+    [
+      0.000072,
+      "\u001b[1;37r\u001b[H\u001b[4;22H\u001b[31m\u001b[1madm\u001b[1;41r\u001b[H\u001b[4;25H\u001b(B\u001b[m"
+    ],
+    [
+      0.000046,
+      "\u001b[1;37r\u001b[H\u001b[4;25H\u001b[31m\u001b[1min/\u001b[1;41r\u001b[H\u001b[4;28H\u001b(B\u001b[m"
+    ],
+    [
+      0.000080,
+      "\u001b[1;37r\u001b[H\u001b[4;28H\u001b[31m\u001b[1mrev\u001b[1;41r\u001b[H\u001b[4;31H\u001b(B\u001b[m"
+    ],
+    [
+      0.000068,
+      "\u001b[1;37r\u001b[H\u001b[4;31H\u001b[31m\u001b[1menu\u001b[1;41r\u001b[H\u001b[4;34H\u001b(B\u001b[m"
+    ],
+    [
+      0.000078,
+      "\u001b[1;37r\u001b[H\u001b[4;34H\u001b[31m\u001b[1me-h\u001b[1;41r\u001b[H\u001b[4;37H\u001b(B\u001b[m"
+    ],
+    [
+      0.000027,
+      "\u001b[1;37r\u001b[H\u001b[4;37H\u001b[31m\u001b[1melp\u001b[1;41r\u001b[H\u001b[4;40H\u001b(B\u001b[m"
+    ],
+    [
+      0.000044,
+      "\u001b[1;37r\u001b[H\u001b[4;40H\u001b[31m\u001b[1mer\u001b[1;41r\u001b[H\u001b[4;42H\u001b(B\u001b[m"
+    ],
+    [
+      0.000072,
+      "\u001b[1;37r\u001b[H\u001b[4;42H\u001b[34m\u001b[1m)\u001b[1;41r\u001b[H\u001b[4;43H\u001b(B\u001b[m"
+    ],
+    [
+      0.000071,
+      "\u001b[1;37r\u001b[H\u001b[4;43H\u001b[34m\u001b[1m \u001b[1;41r\u001b[H\u001b[4;44H\u001b(B\u001b[m"
+    ],
+    [
+      0.000055,
+      "\u001b[K"
+    ],
+    [
+      0.000084,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000718,
+      "\u001b[1;37r\u001b[H\u001b[4;44Hv\u001b[1;41r\u001b[H\u001b[4;45H"
+    ],
+    [
+      0.000140,
+      "\u0008"
+    ],
+    [
+      0.000059,
+      "\u001b[1;37r\u001b[H\u001b[4;44Hv\u001b[1;41r\u001b[H\u001b[4;45H"
+    ],
+    [
+      0.000031,
+      "\u001b[1;37r\u001b[H\u001b[4;45Hi\u001b[1;41r\u001b[H\u001b[4;46H"
+    ],
+    [
+      0.000098,
+      "\u001b[1;37r\u001b[H\u001b[4;46Hm\u001b[1;41r\u001b[H\u001b[4;47H"
+    ],
+    [
+      0.000135,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000133,
+      "\r\n"
+    ],
+    [
+      0.002300,
+      "\u001b]0;ab:1:airbrake - \"vim\"\u0007\u001b[?25l\u001b[41d\u001b[30m\u001b[42m[ab] 1:airbrake* 2:foreman-                                                                                                             \"vim\" 19:14 04-May-15\u001b(B\u001b[m\u001b[5;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      5.410178,
+      "\u001b[32m\u001b[37d───────────────────────────────────────────────────────────────────────────────\u001b[39m──────────────────────────────────────────────────────────────────────────────\u001b[?25l\u001b[1;1H\u001b(B\u001b[m\u001b[K\r\nvim\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36mairbrake-app \u001b[34mgit:(\u001b[31madmin/revenue-helper\u001b[34m) \u001b(B\u001b[m\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36mairbrake-app \u001b[34mgit:(\u001b[31madmin/revenue-helper\u001b[34m) \u001b(B\u001b[mvim\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\u001b[2B\u001b[32m\u001b[1m➜  \u001b[36mairbrake-app \u001b[34mgit:(\u001b[31madmin/revenue-helper\u001b[34m) \u001b(B\u001b[m\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36mairbrake-app \u001b[34mgit:(\u001b[31madmin/revenue-helper\u001b[34m) \u001b(B\u001b[mguard\u001b["
+    ],
+    [
+      0.000015,
+      "K\r\n\u001b[K\r\n\u001b[30m\u001b[42m[ab] 1:airbrake* 2:foreman-                                                                                                             \"vim\" 19:14 04-May-15\u001b(B\u001b[m\u001b[5;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.184056,
+      "\u001b[32m\u001b[36d───────────────────────────────────────────────────────────────────────────────\u001b[39m──────────────────────────────────────────────────────────────────────────────\u001b[?25l\u001b[1;1H\u001b(B\u001b[m\u001b[K\r\nvim\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36mairbrake-app \u001b[34mgit:(\u001b[31madmin/revenue-helper\u001b[34m) \u001b(B\u001b[m\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36mairbrake-app \u001b[34mgit:(\u001b[31madmin/revenue-helper\u001b[34m) \u001b(B\u001b[mvim\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\u001b[2Bguard\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36mairbrake-app \u001b[34mgit:(\u001b[31madmin/revenue-helper\u001b[34m) \u001b(B\u001b[m\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36mairbrake-app \u001b[34mgit:(\u001b[31madmin/revenue-helper\u001b[34m) \u001b(B\u001b[mgu"
+    ],
+    [
+      0.000033,
+      "ard\u001b[K\r\n\u001b[K\r\n\u001b[30m\u001b[42m[ab] 1:airbrake* 2:foreman-                                                                                                             \"vim\" 19:14 04-May-15\u001b(B\u001b[m\u001b[5;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.136195,
+      "\u001b[32m\u001b[35d───────────────────────────────────────────────────────────────────────────────\u001b[39m──────────────────────────────────────────────────────────────────────────────\u001b[?25l\u001b[1;1H\u001b(B\u001b[m\u001b[K\r\nvim\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36mairbrake-app \u001b[34mgit:(\u001b[31madmin/revenue-helper\u001b[34m) \u001b(B\u001b[m\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36mairbrake-app \u001b[34mgit:(\u001b[31madmin/revenue-helper\u001b[34m) \u001b(B\u001b[mvim\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\u001b[2B\u001b[K\r\nguard\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36mairbrake-app \u001b[34mgit:(\u001b[31madmin/revenue-helper\u001b[34m) \u001b(B\u001b[m\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36mairbrake-app \u001b[34mgit:(\u001b[31madmin/revenue-helper\u001b[34m) \u001b(B\u001b[mgu"
+    ],
+    [
+      0.000609,
+      "ard\u001b[K\r\n\u001b[K\r\n\u001b[30m\u001b[42m[ab] 1:airbrake* 2:foreman-                                                                                                             \"vim\" 19:14 04-May-15\u001b(B\u001b[m\u001b[5;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.423488,
+      "\u001b[32m\u001b[34d───────────────────────────────────────────────────────────────────────────────\u001b[39m──────────────────────────────────────────────────────────────────────────────\u001b[?25l\u001b[1;1H\u001b(B\u001b[m\u001b[K\r\nvim\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36mairbrake-app \u001b[34mgit:(\u001b[31madmin/revenue-helper\u001b[34m) \u001b(B\u001b[m\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36mairbrake-app \u001b[34mgit:(\u001b[31madmin/revenue-helper\u001b[34m) \u001b(B\u001b[mvim\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\u001b[2B\u001b[K\r\nguard\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36mairbrake-app \u001b[34mgit:(\u001b[31madmin/revenue-helper\u001b[34m) \u001b(B\u001b[m\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36mairbrake-app \u001b[34mgit:(\u001b[31madmin/revenue-helper\u001b[34m) \u001b(B\u001b[mguard\u001b["
+    ],
+    [
+      0.000017,
+      "K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[30m\u001b[42m[ab] 1:airbrake* 2:foreman-                                                                                                             \"vim\" 19:14 04-May-15\u001b(B\u001b[m\u001b[5;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.159627,
+      "\u001b[32m\u001b[33d───────────────────────────────────────────────────────────────────────────────\u001b[39m──────────────────────────────────────────────────────────────────────────────\u001b[?25l\u001b[1;1H\u001b(B\u001b[m\u001b[K\r\nvim\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36mairbrake-app \u001b[34mgit:(\u001b[31madmin/revenue-helper\u001b[34m) \u001b(B\u001b[m\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36mairbrake-app \u001b[34mgit:(\u001b[31madmin/revenue-helper\u001b[34m) \u001b(B\u001b[mvim\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\u001b[2B\u001b[K\r\nguard\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36mairbrake-app \u001b[34mgit:(\u001b[31madmin/revenue-helper\u001b[34m) \u001b(B\u001b[m\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36mairbrake-app \u001b[34mgit:(\u001b[31madmin/revenue-helper\u001b[34m) \u001b(B\u001b[mguard\u001b[K\r\n\u001b["
+    ],
+    [
+      0.000015,
+      "K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[30m\u001b[42m[ab] 1:airbrake* 2:foreman-                                                                                                             \"vim\" 19:14 04-May-15\u001b(B\u001b[m\u001b[5;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.167892,
+      "\u001b[32m\u001b[32d───────────────────────────────────────────────────────────────────────────────\u001b[39m──────────────────────────────────────────────────────────────────────────────\u001b[?25l\u001b[1;1H\u001b(B\u001b[m\u001b[K\r\nvim\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36mairbrake-app \u001b[34mgit:(\u001b[31madmin/revenue-helper\u001b[34m) \u001b(B\u001b[m\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36mairbrake-app \u001b[34mgit:(\u001b[31madmin/revenue-helper\u001b[34m) \u001b(B\u001b[mvim\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\u001b[2B\u001b[K\r\nguard\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36mairbrake-app \u001b[34mgit:(\u001b[31madmin/revenue-helper\u001b[34m) \u001b(B\u001b[m\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36mairbrake-app \u001b[34mgit:(\u001b[31madmin/revenue-helper\u001b[34m) \u001b(B\u001b[mguard\u001b[K\r\n\u001b[K\r\n\u001b["
+    ],
+    [
+      0.000041,
+      "K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[30m\u001b[42m[ab] 1:airbrake* 2:foreman-                                                                                                             \"vim\" 19:14 04-May-15\u001b(B\u001b[m\u001b[5;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.159396,
+      "\u001b[32m\u001b[31d───────────────────────────────────────────────────────────────────────────────\u001b[39m──────────────────────────────────────────────────────────────────────────────\u001b[?25l\u001b[1;1H\u001b(B\u001b[m\u001b[K\r\nvim\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36mairbrake-app \u001b[34mgit:(\u001b[31madmin/revenue-helper\u001b[34m) \u001b(B\u001b[m\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36mairbrake-app \u001b[34mgit:(\u001b[31madmin/revenue-helper\u001b[34m) \u001b(B\u001b[mvim\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\u001b[2B\u001b[K\r\nguard\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36mairbrake-app \u001b[34mgit:(\u001b[31madmin/revenue-helper\u001b[34m) \u001b(B\u001b[m\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36mairbrake-app \u001b[34mgit:(\u001b[31madmin/revenue-helper\u001b[34m) \u001b(B\u001b[mguard\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b["
+    ],
+    [
+      0.000013,
+      "K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[30m\u001b[42m[ab] 1:airbrake* 2:foreman-                                                                                                             \"vim\" 19:14 04-May-15\u001b(B\u001b[m\u001b[5;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.184449,
+      "\u001b[32m\u001b[30d───────────────────────────────────────────────────────────────────────────────\u001b[39m──────────────────────────────────────────────────────────────────────────────\u001b[?25l\u001b[1;1H\u001b(B\u001b[m\u001b[K\r\nvim\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36mairbrake-app \u001b[34mgit:(\u001b[31madmin/revenue-helper\u001b[34m) \u001b(B\u001b[m\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36mairbrake-app \u001b[34mgit:(\u001b[31madmin/revenue-helper\u001b[34m) \u001b(B\u001b[mvim\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\u001b[2B\u001b[K\r\nguard\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36mairbrake-app \u001b[34mgit:(\u001b[31madmin/revenue-helper\u001b[34m) \u001b(B\u001b[m\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36mairbrake-app \u001b[34mgit:(\u001b[31madmin/revenue-helper\u001b[34m) \u001b(B\u001b[mguard\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b["
+    ],
+    [
+      0.000016,
+      "K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[30m\u001b[42m[ab] 1:airbrake* 2:foreman-                                                                                                             \"vim\" 19:14 04-May-15\u001b(B\u001b[m\u001b[5;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.178894,
+      "\u001b]0;ab:2:foreman - \"cd $HOME/projects/airbrake-ng/build/dev; python -m SimpleHTTPServer 4001\"\u0007\u001b[32m\u001b[2A─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────\u001b[39m\u001b[6;1H──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────\ufffd"
+    ],
+    [
+      0.000057,
+      "\ufffd\ufffd──────────\u001b[?25l\u001b[1;1H\u001b(B\u001b[mServing HTTP on 0.0.0.0 port 4001 ...\u001b[K\r\n\u001b[K\u001b[2B\u001b[36m19:14:08 redis.1       | \u001b[39m[63074] 04 May 19:14:08.308 # +monitor master master 127.0.0.1 6379 quorum 1\u001b[K\r\n\u001b[K\u001b[2B\u001b[K\r\nforeman start -f Procfile.dev -c mailcatcher=1,server=1\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36mairbrake-app \u001b[34mgit:(\u001b[31madmin/revenue-helper\u001b[34m) \u001b(B\u001b[m\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36mairbrake-app \u001b[34mgit:(\u001b[31madmin/revenue-helper\u001b[34m) \u001b(B\u001b[mforeman start -f Procfile.dev -c mailcatcher=1,server=1\u001b[K\r\n\u001b[32m19:14:08 mailcatcher.1 | \u001b[39mstarted with pid 63075\u001b[K\r\n\u001b[35m19:14:08 server.1      | \u001b[39mstarted with pid 63077\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[30m\u001b[42m[ab] 1:airbrake- 2:foreman*                                                                                          \"cd $HOME/projects/airb\" 19:14 04-May-15\u001b(B\u001b[m\u001b[2;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.461166,
+      "\u001b]0;ab:2:foreman - \"foreman start -f Procfile.dev -c redis=1,goab=1\"\u0007\u001b[32m\r\n─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────\u001b[6;1H─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────"
+    ],
+    [
+      0.000025,
+      "\u001b[?25l\u001b[1;1H\u001b(B\u001b[mServing HTTP on 0.0.0.0 port 4001 ...\u001b[K\r\n\u001b[K\u001b[2B\u001b[36m19:14:08 redis.1       | \u001b[39m[63074] 04 May 19:14:08.308 # +monitor master master 127.0.0.1 6379 quorum 1\u001b[K\r\n\u001b[K\u001b[2B\u001b[K\r\nforeman start -f Procfile.dev -c mailcatcher=1,server=1\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36mairbrake-app \u001b[34mgit:(\u001b[31madmin/revenue-helper\u001b[34m) \u001b(B\u001b[m\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36mairbrake-app \u001b[34mgit:(\u001b[31madmin/revenue-helper\u001b[34m) \u001b(B\u001b[mforeman start -f Procfile.dev -c mailcatcher=1,server=1\u001b[K\r\n\u001b[32m19:14:08 mailcatcher.1 | \u001b[39mstarted with pid 63075\u001b[K\r\n\u001b[35m19:14:08 server.1      | \u001b[39mstarted with pid 63077\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[30m\u001b[42m[ab] 1:airbrake- 2:foreman*                                                                                          \"foreman start -f Procf\" 19:14 04-May-15\u001b(B\u001b[m\u001b[5;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.041484,
+      "\u001b[32m\u001b[2A─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────\u001b[7;1H─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────\u001b[?25l\u001b[1;1H\u001b(B\u001b[mServing HTTP on 0.0.0.0 port 4001 ...\u001b[K\r\n\u001b[K\u001b[2B"
+    ],
+    [
+      0.000312,
+      "\u001b[36m19:14:08 redis.1       | \u001b[39m[63074] 04 May 19:14:08.308 # Sentinel runid is 04226d6a782b105b710e07ffc5c232eacf754a93\u001b[K\r\n\u001b[36m19:14:08 redis.1       | \u001b[39m[63074] 04 May 19:14:08.308 # +monitor master master 127.0.0.1 6379 quorum 1\u001b[K\r\n\u001b[K\u001b[2B\u001b[K\r\nforeman start -f Procfile.dev -c mailcatcher=1,server=1\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36mairbrake-app \u001b[34mgit:(\u001b[31madmin/revenue-helper\u001b[34m) \u001b(B\u001b[m\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36mairbrake-app \u001b[34mgit:(\u001b[31madmin/revenue-helper\u001b[34m) \u001b(B\u001b[mforeman start -f Procfile.dev -c mailcatcher=1,server=1\u001b[K\r\n\u001b[32m19:14:08 mailcatcher.1 | \u001b[39mstarted with pid 63075\u001b[K\r\n\u001b[35m19:14:08 server.1      | \u001b[39mstarted with pid 63077\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[30m\u001b[42m[ab] 1:airbrake- 2:foreman*                                                                                          \"foreman start -f Procf\" 19:14 04-May-15\u001b(B\u001b[m\u001b[6;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.149636,
+      "\u001b[32m\u001b[3d─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────\u001b[8;1H─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────\u001b[?25l\u001b[1;1H\u001b(B\u001b[mServing HTTP on 0.0.0.0 port 4001 ...\u001b[K\r\n\u001b[K\u001b[2B"
+    ],
+    [
+      0.000209,
+      "\u001b[36m19:14:08 redis.1       | \u001b[39m              `-.__.-'                                               \u001b[K\r\n\u001b[36m19:14:08 redis.1       | \u001b[39m[63074] 04 May 19:14:08.308 # Sentinel runid is 04226d6a782b105b710e07ffc5c232eacf754a93\u001b[K\r\n\u001b[36m19:14:08 redis.1       | \u001b[39m[63074] 04 May 19:14:08.308 # +monitor master master 127.0.0.1 6379 quorum 1\u001b[K\r\n\u001b[K\u001b[2B\u001b[K\r\nforeman start -f Procfile.dev -c mailcatcher=1,server=1\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36mairbrake-app \u001b[34mgit:(\u001b[31madmin/revenue-helper\u001b[34m) \u001b(B\u001b[m\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36mairbrake-app \u001b[34mgit:(\u001b[31madmin/revenue-helper\u001b[34m) \u001b(B\u001b[mforeman start -f Procfile.dev -c mailcatcher=1,server=1\u001b[K\r\n\u001b[32m19:14:08 mailcatcher.1 | \u001b[39mstarted with pid 63075\u001b[K\r\n\u001b[35m19:14:08 server.1      | \u001b[39mstarted with pid 63077\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[30m\u001b[42m[ab] 1:airbrake- 2:foreman*                                                                                   "
+    ],
+    [
+      0.000016,
+      "       \"foreman start -f Procf\" 19:14 04-May-15\u001b(B\u001b[m\u001b[7;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.144023,
+      "\u001b[32m\u001b[3d─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────\u001b[9;1H─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────\u001b[?25l\u001b[1;1H\u001b(B\u001b[mServing HTTP on 0.0.0.0 port 4001 ...\u001b[K\r\n\u001b[K\u001b[2B"
+    ],
+    [
+      0.000309,
+      "\u001b[36m19:14:08 redis.1       | \u001b[39m          `-._        _.-'                                           \u001b[K\r\n\u001b[36m19:14:08 redis.1       | \u001b[39m              `-.__.-'                                               \u001b[K\r\n\u001b[36m19:14:08 redis.1       | \u001b[39m[63074] 04 May 19:14:08.308 # Sentinel runid is 04226d6a782b105b710e07ffc5c232eacf754a93\u001b[K\r\n\u001b[36m19:14:08 redis.1       | \u001b[39m[63074] 04 May 19:14:08.308 # +monitor master master 127.0.0.1 6379 quorum 1\u001b[K\r\n\u001b[K\u001b[2B\u001b[K\r\nforeman start -f Procfile.dev -c mailcatcher=1,server=1\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36mairbrake-app \u001b[34mgit:(\u001b[31madmin/revenue-helper\u001b[34m) \u001b(B\u001b[m\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36mairbrake-app \u001b[34mgit:(\u001b[31madmin/revenue-helper\u001b[34m) \u001b(B\u001b[mforeman start -f Procfile.dev -c mailcatcher=1,server=1\u001b[K\r\n\u001b[32m19:14:08 mailcatcher.1 | \u001b[39mstarted with pid 63075\u001b[K\r\n\u001b[35m19:14:08 server.1      | \u001b[39mstarted with pid 63077\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[30m\u001b[42m[ab] 1"
+    ],
+    [
+      0.000007,
+      ":airbrake- 2:foreman*                                                                                          \"foreman start -f Procf\" 19:14 04-May-15\u001b(B\u001b[m\u001b[8;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.151932,
+      "\u001b[32m\u001b[3d─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────\u001b[10;1H─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────\u001b[?25l\u001b[1;1H\u001b(B\u001b[mServing HTTP on 0.0.0.0 port 4001 ...\u001b[K\r\n\u001b[K\u001b[2"
+    ],
+    [
+      0.000264,
+      "B\u001b[36m19:14:08 redis.1       | \u001b[39m      `-._    `-.__.-'    _.-'                                       \u001b[K\r\n\u001b[36m19:14:08 redis.1       | \u001b[39m          `-._        _.-'                                           \u001b[K\r\n\u001b[36m19:14:08 redis.1       | \u001b[39m              `-.__.-'                                               \u001b[K\r\n\u001b[36m19:14:08 redis.1       | \u001b[39m[63074] 04 May 19:14:08.308 # Sentinel runid is 04226d6a782b105b710e07ffc5c232eacf754a93\u001b[K\r\n\u001b[36m19:14:08 redis.1       | \u001b[39m[63074] 04 May 19:14:08.308 # +monitor master master 127.0.0.1 6379 quorum 1\u001b[K\r\n\u001b[K\u001b[2B\u001b[K\r\nforeman start -f Procfile.dev -c mailcatcher=1,server=1\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36mairbrake-app \u001b[34mgit:(\u001b[31madmin/revenue-helper\u001b[34m) \u001b(B\u001b[m\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36mairbrake-app \u001b[34mgit:(\u001b[31madmin/revenue-helper\u001b[34m) \u001b(B\u001b[mforeman start -f Procfile.dev -c mailcatcher=1,server=1\u001b[K\r\n\u001b[32m19:14:08 mailcatcher.1 | \u001b[39mstarted with pid 63075\u001b[K\r\n\u001b[35m19:14:08 server.1      | \u001b[39mstarted with pid 63077\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b"
+    ],
+    [
+      0.000013,
+      "[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[30m\u001b[42m[ab] 1:airbrake- 2:foreman*                                                                                          \"foreman start -f Procf\" 19:14 04-May-15\u001b(B\u001b[m\u001b[9;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.151611,
+      "\u001b[32m\u001b[3d─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────\u001b[11;1H─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────\u001b[?25l\u001b[1;1H\u001b(B\u001b[mServing HTTP on 0.0.0.0 port 4001 ...\u001b[K\r\n\u001b[K\u001b[2"
+    ],
+    [
+      0.000298,
+      "B\u001b[36m19:14:08 redis.1       | \u001b[39m  `-._    `-._`-.__.-'_.-'    _.-'                                   \u001b[K\r\n\u001b[36m19:14:08 redis.1       | \u001b[39m      `-._    `-.__.-'    _.-'                                       \u001b[K\r\n\u001b[36m19:14:08 redis.1       | \u001b[39m          `-._        _.-'                                           \u001b[K\r\n\u001b[36m19:14:08 redis.1       | \u001b[39m              `-.__.-'                                               \u001b[K\r\n\u001b[36m19:14:08 redis.1       | \u001b[39m[63074] 04 May 19:14:08.308 # Sentinel runid is 04226d6a782b105b710e07ffc5c232eacf754a93\u001b[K\r\n\u001b[36m19:14:08 redis.1       | \u001b[39m[63074] 04 May 19:14:08.308 # +monitor master master 127.0.0.1 6379 quorum 1\u001b[K\r\n\u001b[K\u001b[2B\u001b[K\r\nforeman start -f Procfile.dev -c mailcatcher=1,server=1\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36mairbrake-app \u001b[34mgit:(\u001b[31madmin/revenue-helper\u001b[34m) \u001b(B\u001b[m\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36mairbrake-app \u001b[34mgit:(\u001b[31madmin/revenue-helper\u001b[34m) \u001b(B\u001b[mforeman start -f Procfile.dev -c mailcatcher=1,server=1\u001b[K\r\n\u001b[32m19:14:08 mailcatcher.1 | \u001b[39mstarted wit"
+    ],
+    [
+      0.000039,
+      "h pid 63075\u001b[K\r\n\u001b[35m19:14:08 server.1      | \u001b[39mstarted with pid 63077\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[30m\u001b[42m[ab] 1:airbrake- 2:foreman*                                                                                          \"foreman start -f Procf\" 19:14 04-May-15\u001b(B\u001b[m\u001b[10;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.495737,
+      "\u001b]0;ab:2:foreman - \"cd $HOME/projects/airbrake-ng/build/dev; python -m SimpleHTTPServer 4001\"\u0007\u001b[32m\u001b[3d─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────\u001b[39m\u001b[11;1H──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────"
+    ],
+    [
+      0.000890,
+      "───────────\u001b[?25l\u001b[1;1H\u001b(B\u001b[mServing HTTP on 0.0.0.0 port 4001 ...\u001b[K\r\n\u001b[K\u001b[2B\u001b[36m19:14:08 redis.1       | \u001b[39m  `-._    `-._`-.__.-'_.-'    _.-'                                   \u001b[K\r\n\u001b[36m19:14:08 redis.1       | \u001b[39m      `-._    `-.__.-'    _.-'                                       \u001b[K\r\n\u001b[36m19:14:08 redis.1       | \u001b[39m          `-._        _.-'                                           \u001b[K\r\n\u001b[36m19:14:08 redis.1       | \u001b[39m              `-.__.-'                                               \u001b[K\r\n\u001b[36m19:14:08 redis.1       | \u001b[39m[63074] 04 May 19:14:08.308 # Sentinel runid is 04226d6a782b105b710e07ffc5c232eacf754a93\u001b[K\r\n\u001b[36m19:14:08 redis.1       | \u001b[39m[63074] 04 May 19:14:08.308 # +monitor master master 127.0.0.1 6379 quorum 1\u001b[K\r\n\u001b[K\u001b[2B\u001b[K\r\nforeman start -f Procfile.dev -c mailcatcher=1,server=1\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36mairbrake-app \u001b[34mgit:(\u001b[31madmin/revenue-helper\u001b[34m) \u001b(B\u001b[m\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36mairbrake-app \u001b[34mgit:(\u001b[31madmin/revenue-helper\u001b[34m) \u001b(B\u001b[mforeman"
+    ],
+    [
+      0.000021,
+      " start -f Procfile.dev -c mailcatcher=1,server=1\u001b[K\r\n\u001b[32m19:14:08 mailcatcher.1 | \u001b[39mstarted with pid 63075\u001b[K\r\n\u001b[35m19:14:08 server.1      | \u001b[39mstarted with pid 63077\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[30m\u001b[42m[ab] 1:airbrake- 2:foreman*                                                                                          \"cd $HOME/projects/airb\" 19:14 04-May-15\u001b(B\u001b[m\u001b[2;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.470400,
+      "\u001b[32m\u001b[2B─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────\u001b[39m\u001b[11;1H─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────\u001b[?25l\u001b[1;1H\u001b(B\u001b[m\u001b[32m\u001b[1m➜  \u001b[36mairbrake-app \u001b[34mgit:(\u001b"
+    ],
+    [
+      0.000283,
+      "[31madmin/revenue-helper\u001b[34m) \u001b(B\u001b[mcd $HOME/projects/airbrake-ng/build/dev; python -m SimpleHTTPServer 4001\u001b[K\r\nServing HTTP on 0.0.0.0 port 4001 ...\u001b[K\r\n\u001b[K\u001b[2B\u001b[36m19:14:08 redis.1       | \u001b[39m      `-._    `-.__.-'    _.-'                                       \u001b[K\r\n\u001b[36m19:14:08 redis.1       | \u001b[39m          `-._        _.-'                                           \u001b[K\r\n\u001b[36m19:14:08 redis.1       | \u001b[39m              `-.__.-'                                               \u001b[K\r\n\u001b[36m19:14:08 redis.1       | \u001b[39m[63074] 04 May 19:14:08.308 # Sentinel runid is 04226d6a782b105b710e07ffc5c232eacf754a93\u001b[K\r\n\u001b[36m19:14:08 redis.1       | \u001b[39m[63074] 04 May 19:14:08.308 # +monitor master master 127.0.0.1 6379 quorum 1\u001b[K\r\n\u001b[K\u001b[2B\u001b[K\r\nforeman start -f Procfile.dev -c mailcatcher=1,server=1\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36mairbrake-app \u001b[34mgit:(\u001b[31madmin/revenue-helper\u001b[34m) \u001b(B\u001b[m\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36mairbrake-app \u001b[34mgit:(\u001b[31madmin/revenue-helper\u001b[34m) \u001b(B\u001b[mforeman start -f Procfile.dev -c mailcatcher=1,server"
+    ],
+    [
+      0.000017,
+      "=1\u001b[K\r\n\u001b[32m19:14:08 mailcatcher.1 | \u001b[39mstarted with pid 63075\u001b[K\r\n\u001b[35m19:14:08 server.1      | \u001b[39mstarted with pid 63077\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[30m\u001b[42m[ab] 1:airbrake- 2:foreman*                                                                                          \"cd $HOME/projects/airb\" 19:14 04-May-15\u001b(B\u001b[m\u001b[3;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.152152,
+      "\u001b[32m\u001b[2B─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────\u001b[39m\u001b[11;1H─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────\u001b[?25l\u001b[1;1H\u001b(B\u001b[m\u001b[32m\u001b[1m➜  \u001b[36mairbrake-app \u001b[34mgit:(\u001b"
+    ],
+    [
+      0.000288,
+      "[31madmin/revenue-helper\u001b[34m) \u001b(B\u001b[m\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36mairbrake-app \u001b[34mgit:(\u001b[31madmin/revenue-helper\u001b[34m) \u001b(B\u001b[mcd $HOME/projects/airbrake-ng/build/dev; python -m SimpleHTTPServer 4001\u001b[K\r\nServing HTTP on 0.0.0.0 port 4001 ...\u001b[K\r\n\u001b[K\u001b[2B\u001b[36m19:14:08 redis.1       | \u001b[39m          `-._        _.-'                                           \u001b[K\r\n\u001b[36m19:14:08 redis.1       | \u001b[39m              `-.__.-'                                               \u001b[K\r\n\u001b[36m19:14:08 redis.1       | \u001b[39m[63074] 04 May 19:14:08.308 # Sentinel runid is 04226d6a782b105b710e07ffc5c232eacf754a93\u001b[K\r\n\u001b[36m19:14:08 redis.1       | \u001b[39m[63074] 04 May 19:14:08.308 # +monitor master master 127.0.0.1 6379 quorum 1\u001b[K\r\n\u001b[K\u001b[2B\u001b[K\r\nforeman start -f Procfile.dev -c mailcatcher=1,server=1\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36mairbrake-app \u001b[34mgit:(\u001b[31madmin/revenue-helper\u001b[34m) \u001b(B\u001b[m\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36mairbrake-app \u001b[34mgit:(\u001b[31madmin/revenue-helper\u001b[34m) \u001b(B\u001b[mforeman start -f Procfile.dev -c mailcatcher=1,server=1\u001b[K\r\n\u001b[32m19:14:08 mai"
+    ],
+    [
+      0.000017,
+      "lcatcher.1 | \u001b[39mstarted with pid 63075\u001b[K\r\n\u001b[35m19:14:08 server.1      | \u001b[39mstarted with pid 63077\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[30m\u001b[42m[ab] 1:airbrake- 2:foreman*                                                                                          \"cd $HOME/projects/airb\" 19:14 04-May-15\u001b(B\u001b[m\u001b[4;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.151351,
+      "\u001b[32m\u001b[2B─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────\u001b[39m\u001b[11;1H─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────\u001b[?25l\u001b[1;1H\u001b(B\u001b[mcd $HOME/projects/airbrake-ng/build/dev; py"
+    ],
+    [
+      0.000264,
+      "thon -m SimpleHTTPServer 4001\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36mairbrake-app \u001b[34mgit:(\u001b[31madmin/revenue-helper\u001b[34m) \u001b(B\u001b[m\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36mairbrake-app \u001b[34mgit:(\u001b[31madmin/revenue-helper\u001b[34m) \u001b(B\u001b[mcd $HOME/projects/airbrake-ng/build/dev; python -m SimpleHTTPServer 4001\u001b[K\r\nServing HTTP on 0.0.0.0 port 4001 ...\u001b[K\r\n\u001b[K\u001b[2B\u001b[36m19:14:08 redis.1       | \u001b[39m              `-.__.-'                                               \u001b[K\r\n\u001b[36m19:14:08 redis.1       | \u001b[39m[63074] 04 May 19:14:08.308 # Sentinel runid is 04226d6a782b105b710e07ffc5c232eacf754a93\u001b[K\r\n\u001b[36m19:14:08 redis.1       | \u001b[39m[63074] 04 May 19:14:08.308 # +monitor master master 127.0.0.1 6379 quorum 1\u001b[K\r\n\u001b[K\u001b[2B\u001b[K\r\nforeman start -f Procfile.dev -c mailcatcher=1,server=1\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36mairbrake-app \u001b[34mgit:(\u001b[31madmin/revenue-helper\u001b[34m) \u001b(B\u001b[m\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36mairbrake-app \u001b[34mgit:(\u001b[31madmin/revenue-helper\u001b[34m) \u001b(B\u001b[mforeman start -f Procfile.dev -c mailcatcher=1,server=1\u001b[K\r\n\u001b[32m19:14:08 mailcatcher.1 | \u001b[39mstarted with p"
+    ],
+    [
+      0.000045,
+      "id 63075\u001b[K\r\n\u001b[35m19:14:08 server.1      | \u001b[39mstarted with pid 63077\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[30m\u001b[42m[ab] 1:airbrake- 2:foreman*                                                                                          \"cd $HOME/projects/airb\" 19:14 04-May-15\u001b(B\u001b[m\u001b[5;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.159531,
+      "\u001b[32m\u001b[2B─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────\u001b[39m\u001b[11;1H─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────\u001b[?25l\u001b[1;1H\u001b(B\u001b[m\u001b[K\r\ncd $HOME/projects/airbrake-ng/build/de"
+    ],
+    [
+      0.000226,
+      "v; python -m SimpleHTTPServer 4001\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36mairbrake-app \u001b[34mgit:(\u001b[31madmin/revenue-helper\u001b[34m) \u001b(B\u001b[m\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36mairbrake-app \u001b[34mgit:(\u001b[31madmin/revenue-helper\u001b[34m) \u001b(B\u001b[mcd $HOME/projects/airbrake-ng/build/dev; python -m SimpleHTTPServer 4001\u001b[K\r\nServing HTTP on 0.0.0.0 port 4001 ...\u001b[K\r\n\u001b[K\u001b[2B\u001b[36m19:14:08 redis.1       | \u001b[39m[63074] 04 May 19:14:08.308 # Sentinel runid is 04226d6a782b105b710e07ffc5c232eacf754a93\u001b[K\r\n\u001b[36m19:14:08 redis.1       | \u001b[39m[63074] 04 May 19:14:08.308 # +monitor master master 127.0.0.1 6379 quorum 1\u001b[K\r\n\u001b[K\u001b[2B\u001b[K\r\nforeman start -f Procfile.dev -c mailcatcher=1,server=1\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36mairbrake-app \u001b[34mgit:(\u001b[31madmin/revenue-helper\u001b[34m) \u001b(B\u001b[m\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36mairbrake-app \u001b[34mgit:(\u001b[31madmin/revenue-helper\u001b[34m) \u001b(B\u001b[mforeman start -f Procfile.dev -c mailcatcher=1,server=1\u001b[K\r\n\u001b[32m19:14:08 mailcatcher.1 | \u001b[39mstarted with pid 63075\u001b[K\r\n\u001b[35m19:14:08 server.1      | \u001b[39mstarted with pid 63077\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r"
+    ],
+    [
+      0.000015,
+      "\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[30m\u001b[42m[ab] 1:airbrake- 2:foreman*                                                                                          \"cd $HOME/projects/airb\" 19:14 04-May-15\u001b(B\u001b[m\u001b[6;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.143933,
+      "\u001b[32m\u001b[2B─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────\u001b[39m\u001b[11;1H─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────\u001b[?25l\u001b[1;1H\u001b(B\u001b[m\u001b[K\r\ncd $HOME/projects/airbrake-ng/build/de"
+    ],
+    [
+      1.164776,
+      "v; python -m SimpleHTTPServer 4001\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36mairbrake-app \u001b[34mgit:(\u001b[31madmin/revenue-helper\u001b[34m) \u001b(B\u001b[m\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36mairbrake-app \u001b[34mgit:(\u001b[31madmin/revenue-helper\u001b[34m) \u001b(B\u001b[mcd $HOME/projects/airbrake-ng/build/dev; python -m SimpleHTTPServer 4001\u001b[K\r\nServing HTTP on 0.0.0.0 port 4001 ...\u001b[K\r\n\u001b[K\r\n\u001b[K\u001b[2B\u001b[36m19:14:08 redis.1       | \u001b[39m[63074] 04 May 19:14:08.308 # +monitor master master 127.0.0.1 6379 quorum 1\u001b[K\r\n\u001b[K\u001b[2B\u001b[K\r\nforeman start -f Procfile.dev -c mailcatcher=1,server=1\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36mairbrake-app \u001b[34mgit:(\u001b[31madmin/revenue-helper\u001b[34m) \u001b(B\u001b[m\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36mairbrake-app \u001b[34mgit:(\u001b[31madmin/revenue-helper\u001b[34m) \u001b(B\u001b[mforeman start -f Procfile.dev -c mailcatcher=1,server=1\u001b[K\r\n\u001b[32m19:14:08 mailcatcher.1 | \u001b[39mstarted with pid 63075\u001b[K\r\n\u001b[35m19:14:08 server.1      | \u001b[39mstarted with pid 63077\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[30m\u001b[42m[ab] 1:airbrake- 2:foreman*"
+    ],
+    [
+      0.000017,
+      "                                                                                          \"cd $HOME/projects/airb\" 19:14 04-May-15\u001b(B\u001b[m\u001b[6;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.048195,
+      "\u001b]0;ab:2:foreman - \"foreman start -f Procfile.dev -c redis=1,goab=1\"\u0007\u001b[32m\u001b[2B─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────\u001b[11;1H────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────"
+    ],
+    [
+      0.002194,
+      "─\u001b[?25l\u001b[1;1H\u001b(B\u001b[m\u001b[K\r\ncd $HOME/projects/airbrake-ng/build/dev; python -m SimpleHTTPServer 4001\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36mairbrake-app \u001b[34mgit:(\u001b[31madmin/revenue-helper\u001b[34m) \u001b(B\u001b[m\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36mairbrake-app \u001b[34mgit:(\u001b[31madmin/revenue-helper\u001b[34m) \u001b(B\u001b[mcd $HOME/projects/airbrake-ng/build/dev; python -m SimpleHTTPServer 4001\u001b[K\r\nServing HTTP on 0.0.0.0 port 4001 ...\u001b[K\r\n\u001b[K\r\n\u001b[K\u001b[2B\u001b[36m19:14:08 redis.1       | \u001b[39m[63074] 04 May 19:14:08.308 # +monitor master master 127.0.0.1 6379 quorum 1\u001b[K\r\n\u001b[K\u001b[2B\u001b[K\r\nforeman start -f Procfile.dev -c mailcatcher=1,server=1\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36mairbrake-app \u001b[34mgit:(\u001b[31madmin/revenue-helper\u001b[34m) \u001b(B\u001b[m\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36mairbrake-app \u001b[34mgit:(\u001b[31madmin/revenue-helper\u001b[34m) \u001b(B\u001b[mforeman start -f Procfile.dev -c mailcatcher=1,server=1\u001b[K\r\n\u001b[32m19:14:08 mailcatcher.1 | \u001b[39mstarted with pid 63075\u001b[K\r\n\u001b[35m19:14:08 server.1      | \u001b[39mstarted with pid 63077\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K"
+    ],
+    [
+      0.000015,
+      "\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[30m\u001b[42m[ab] 1:airbrake- 2:foreman*                                                                                          \"foreman start -f Procf\" 19:14 04-May-15\u001b(B\u001b[m\u001b[10;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.081743,
+      "\u001b]0;ab:2:foreman - \"foreman start -f Procfile.dev -c mailcatcher=1,server=1\"\u0007\u001b[2A─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────\u001b[32m\u001b[11;1H─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────\ufffd"
+    ],
+    [
+      0.003783,
+      "\ufffd\ufffd───\u001b[?25l\u001b[1;1H\u001b(B\u001b[m\u001b[K\r\ncd $HOME/projects/airbrake-ng/build/dev; python -m SimpleHTTPServer 4001\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36mairbrake-app \u001b[34mgit:(\u001b[31madmin/revenue-helper\u001b[34m) \u001b(B\u001b[m\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36mairbrake-app \u001b[34mgit:(\u001b[31madmin/revenue-helper\u001b[34m) \u001b(B\u001b[mcd $HOME/projects/airbrake-ng/build/dev; python -m SimpleHTTPServer 4001\u001b[K\r\nServing HTTP on 0.0.0.0 port 4001 ...\u001b[K\r\n\u001b[K\r\n\u001b[K\u001b[2B\u001b[36m19:14:08 redis.1       | \u001b[39m[63074] 04 May 19:14:08.308 # +monitor master master 127.0.0.1 6379 quorum 1\u001b[K\r\n\u001b[K\u001b[2B\u001b[K\r\nforeman start -f Procfile.dev -c mailcatcher=1,server=1\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36mairbrake-app \u001b[34mgit:(\u001b[31madmin/revenue-helper\u001b[34m) \u001b(B\u001b[m\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36mairbrake-app \u001b[34mgit:(\u001b[31madmin/revenue-helper\u001b[34m) \u001b(B\u001b[mforeman start -f Procfile.dev -c mailcatcher=1,server=1\u001b[K\r\n\u001b[32m19:14:08 mailcatcher.1 | \u001b[39mstarted with pid 63075\u001b[K\r\n\u001b[35m19:14:08 server.1      | \u001b[39mstarted with pid 63077\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n"
+    ],
+    [
+      0.000060,
+      "\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[30m\u001b[42m[ab] 1:airbrake- 2:foreman*                                                                                          \"foreman start -f Procf\" 19:14 04-May-15\u001b(B\u001b[m\u001b[18;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.906911,
+      "\u001b]0;ab:2:foreman - \"foreman start -f Procfile.dev -c redis=1,goab=1\"\u0007\u001b[32m\u001b[8d─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────\u001b[11;1H────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────"
+    ],
+    [
+      0.001022,
+      "─\u001b[?25l\u001b[1;1H\u001b(B\u001b[m\u001b[K\r\ncd $HOME/projects/airbrake-ng/build/dev; python -m SimpleHTTPServer 4001\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36mairbrake-app \u001b[34mgit:(\u001b[31madmin/revenue-helper\u001b[34m) \u001b(B\u001b[m\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36mairbrake-app \u001b[34mgit:(\u001b[31madmin/revenue-helper\u001b[34m) \u001b(B\u001b[mcd $HOME/projects/airbrake-ng/build/dev; python -m SimpleHTTPServer 4001\u001b[K\r\nServing HTTP on 0.0.0.0 port 4001 ...\u001b[K\r\n\u001b[K\r\n\u001b[K\u001b[2B\u001b[36m19:14:08 redis.1       | \u001b[39m[63074] 04 May 19:14:08.308 # +monitor master master 127.0.0.1 6379 quorum 1\u001b[K\r\n\u001b[K\u001b[2B\u001b[K\r\nforeman start -f Procfile.dev -c mailcatcher=1,server=1\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36mairbrake-app \u001b[34mgit:(\u001b[31madmin/revenue-helper\u001b[34m) \u001b(B\u001b[m\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36mairbrake-app \u001b[34mgit:(\u001b[31madmin/revenue-helper\u001b[34m) \u001b(B\u001b[mforeman start -f Procfile.dev -c mailcatcher=1,server=1\u001b[K\r\n\u001b[32m19:14:08 mailcatcher.1 | \u001b[39mstarted with pid 63075\u001b[K\r\n\u001b[35m19:14:08 server.1      | \u001b[39mstarted with pid 63077\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K"
+    ],
+    [
+      0.000016,
+      "\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[30m\u001b[42m[ab] 1:airbrake- 2:foreman*                                                                                          \"foreman start -f Procf\" 19:14 04-May-15\u001b(B\u001b[m\u001b[10;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.570987,
+      "\u001b[32m\u001b[2A─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────\u001b[12;1H─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────\u001b[?25l\u001b[1;1H\u001b(B\u001b[m\u001b[K\r\ncd $HOME/projects/airbrake-ng/build/dev; py"
+    ],
+    [
+      0.000286,
+      "thon -m SimpleHTTPServer 4001\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36mairbrake-app \u001b[34mgit:(\u001b[31madmin/revenue-helper\u001b[34m) \u001b(B\u001b[m\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36mairbrake-app \u001b[34mgit:(\u001b[31madmin/revenue-helper\u001b[34m) \u001b(B\u001b[mcd $HOME/projects/airbrake-ng/build/dev; python -m SimpleHTTPServer 4001\u001b[K\r\nServing HTTP on 0.0.0.0 port 4001 ...\u001b[K\r\n\u001b[K\r\n\u001b[K\u001b[2B\u001b[36m19:14:08 redis.1       | \u001b[39m[63074] 04 May 19:14:08.308 # Sentinel runid is 04226d6a782b105b710e07ffc5c232eacf754a93\u001b[K\r\n\u001b[36m19:14:08 redis.1       | \u001b[39m[63074] 04 May 19:14:08.308 # +monitor master master 127.0.0.1 6379 quorum 1\u001b[K\r\n\u001b[K\u001b[2B\u001b[K\r\nforeman start -f Procfile.dev -c mailcatcher=1,server=1\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36mairbrake-app \u001b[34mgit:(\u001b[31madmin/revenue-helper\u001b[34m) \u001b(B\u001b[m\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36mairbrake-app \u001b[34mgit:(\u001b[31madmin/revenue-helper\u001b[34m) \u001b(B\u001b[mforeman start -f Procfile.dev -c mailcatcher=1,server=1\u001b[K\r\n\u001b[32m19:14:08 mailcatcher.1 | \u001b[39mstarted with pid 63075\u001b[K\r\n\u001b[35m19:14:08 server.1      | \u001b[39mstarted with pid 63077\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r"
+    ],
+    [
+      0.000015,
+      "\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[30m\u001b[42m[ab] 1:airbrake- 2:foreman*                                                                                          \"foreman start -f Procf\" 19:14 04-May-15\u001b(B\u001b[m\u001b[11;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.141242,
+      "\u001b[32m\u001b[3A─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────\u001b[13;1H─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────\u001b[?25l\u001b[1;1H\u001b(B\u001b[m\u001b[K\r\ncd $HOME/projects/airbrake-ng/build/dev; py"
+    ],
+    [
+      0.000605,
+      "thon -m SimpleHTTPServer 4001\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36mairbrake-app \u001b[34mgit:(\u001b[31madmin/revenue-helper\u001b[34m) \u001b(B\u001b[m\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36mairbrake-app \u001b[34mgit:(\u001b[31madmin/revenue-helper\u001b[34m) \u001b(B\u001b[mcd $HOME/projects/airbrake-ng/build/dev; python -m SimpleHTTPServer 4001\u001b[K\r\nServing HTTP on 0.0.0.0 port 4001 ...\u001b[K\r\n\u001b[K\r\n\u001b[K\u001b[2B\u001b[36m19:14:08 redis.1       | \u001b[39m              `-.__.-'                                               \u001b[K\r\n\u001b[36m19:14:08 redis.1       | \u001b[39m[63074] 04 May 19:14:08.308 # Sentinel runid is 04226d6a782b105b710e07ffc5c232eacf754a93\u001b[K\r\n\u001b[36m19:14:08 redis.1       | \u001b[39m[63074] 04 May 19:14:08.308 # +monitor master master 127.0.0.1 6379 quorum 1\u001b[K\r\n\u001b[K\u001b[2B\u001b[K\r\nforeman start -f Procfile.dev -c mailcatcher=1,server=1\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36mairbrake-app \u001b[34mgit:(\u001b[31madmin/revenue-helper\u001b[34m) \u001b(B\u001b[m\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36mairbrake-app \u001b[34mgit:(\u001b[31madmin/revenue-helper\u001b[34m) \u001b(B\u001b[mforeman start -f Procfile.dev -c mailcatcher=1,server=1\u001b[K\r\n\u001b[32m19:14:08 mailcatcher.1 | \u001b[39mstarted w"
+    ],
+    [
+      0.000019,
+      "ith pid 63075\u001b[K\r\n\u001b[35m19:14:08 server.1      | \u001b[39mstarted with pid 63077\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[30m\u001b[42m[ab] 1:airbrake- 2:foreman*                                                                                          \"foreman start -f Procf\" 19:14 04-May-15\u001b(B\u001b[m\u001b[12;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.159451,
+      "\u001b[32m\u001b[4A─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────\u001b[14;1H─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────\u001b[?25l\u001b[1;1H\u001b(B\u001b[m\u001b[K\r\ncd $HOME/projects/airbrake-ng/build/dev; py"
+    ],
+    [
+      0.000254,
+      "thon -m SimpleHTTPServer 4001\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36mairbrake-app \u001b[34mgit:(\u001b[31madmin/revenue-helper\u001b[34m) \u001b(B\u001b[m\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36mairbrake-app \u001b[34mgit:(\u001b[31madmin/revenue-helper\u001b[34m) \u001b(B\u001b[mcd $HOME/projects/airbrake-ng/build/dev; python -m SimpleHTTPServer 4001\u001b[K\r\nServing HTTP on 0.0.0.0 port 4001 ...\u001b[K\r\n\u001b[K\r\n\u001b[K\u001b[2B\u001b[36m19:14:08 redis.1       | \u001b[39m          `-._        _.-'                                           \u001b[K\r\n\u001b[36m19:14:08 redis.1       | \u001b[39m              `-.__.-'                                               \u001b[K\r\n\u001b[36m19:14:08 redis.1       | \u001b[39m[63074] 04 May 19:14:08.308 # Sentinel runid is 04226d6a782b105b710e07ffc5c232eacf754a93\u001b[K\r\n\u001b[36m19:14:08 redis.1       | \u001b[39m[63074] 04 May 19:14:08.308 # +monitor master master 127.0.0.1 6379 quorum 1\u001b[K\r\n\u001b[K\u001b[2B\u001b[K\r\nforeman start -f Procfile.dev -c mailcatcher=1,server=1\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36mairbrake-app \u001b[34mgit:(\u001b[31madmin/revenue-helper\u001b[34m) \u001b(B\u001b[m\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36mairbrake-app \u001b[34mgit:(\u001b[31madmin/revenue-helper\u001b[34m) \u001b"
+    ],
+    [
+      0.000043,
+      "(B\u001b[mforeman start -f Procfile.dev -c mailcatcher=1,server=1\u001b[K\r\n\u001b[32m19:14:08 mailcatcher.1 | \u001b[39mstarted with pid 63075\u001b[K\r\n\u001b[35m19:14:08 server.1      | \u001b[39mstarted with pid 63077\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[30m\u001b[42m[ab] 1:airbrake- 2:foreman*                                                                                          \"foreman start -f Procf\" 19:14 04-May-15\u001b(B\u001b[m\u001b[13;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.150581,
+      "\u001b[32m\u001b[5A─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────\u001b[15;1H─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────\u001b[?25l\u001b[1;1H\u001b(B\u001b[m\u001b[K\r\ncd $HOME/projects/airbrake-ng/build/dev; py"
+    ],
+    [
+      0.000222,
+      "thon -m SimpleHTTPServer 4001\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36mairbrake-app \u001b[34mgit:(\u001b[31madmin/revenue-helper\u001b[34m) \u001b(B\u001b[m\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36mairbrake-app \u001b[34mgit:(\u001b[31madmin/revenue-helper\u001b[34m) \u001b(B\u001b[mcd $HOME/projects/airbrake-ng/build/dev; python -m SimpleHTTPServer 4001\u001b[K\r\nServing HTTP on 0.0.0.0 port 4001 ...\u001b[K\r\n\u001b[K\r\n\u001b[K\u001b[2B\u001b[36m19:14:08 redis.1       | \u001b[39m      `-._    `-.__.-'    _.-'                                       \u001b[K\r\n\u001b[36m19:14:08 redis.1       | \u001b[39m          `-._        _.-'                                           \u001b[K\r\n\u001b[36m19:14:08 redis.1       | \u001b[39m              `-.__.-'                                               \u001b[K\r\n\u001b[36m19:14:08 redis.1       | \u001b[39m[63074] 04 May 19:14:08.308 # Sentinel runid is 04226d6a782b105b710e07ffc5c232eacf754a93\u001b[K\r\n\u001b[36m19:14:08 redis.1       | \u001b[39m[63074] 04 May 19:14:08.308 # +monitor master master 127.0.0.1 6379 quorum 1\u001b[K\r\n\u001b[K\u001b[2B\u001b[K\r\nforeman start -f Procfile.dev -c mailcatcher=1,server=1\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36mairbrake-app \u001b[34mgit:(\u001b[31madmi"
+    ],
+    [
+      0.000016,
+      "n/revenue-helper\u001b[34m) \u001b(B\u001b[m\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36mairbrake-app \u001b[34mgit:(\u001b[31madmin/revenue-helper\u001b[34m) \u001b(B\u001b[mforeman start -f Procfile.dev -c mailcatcher=1,server=1\u001b[K\r\n\u001b[32m19:14:08 mailcatcher.1 | \u001b[39mstarted with pid 63075\u001b[K\r\n\u001b[35m19:14:08 server.1      | \u001b[39mstarted with pid 63077\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[30m\u001b[42m[ab] 1:airbrake- 2:foreman*                                                                                          \"foreman start -f Procf\" 19:14 04-May-15\u001b(B\u001b[m\u001b[14;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.073808,
+      "\u001b[16;40r\u001b[H\u001b[22d\u001b[35m19:14:22 server.1      | \u001b[39m=\u003e Booting Puma\r\n\u001b[35m19:14:22 server.1      | \u001b[39m=\u003e Rails 4.1.6 application starting in development on http://0.0.0.0:3000\r\n\u001b[35m19:14:22 server.1      | \u001b[39m=\u003e Run `rails server -h` for more startup options\r\n\u001b[35m19:14:22 server.1      | \u001b[39m=\u003e Notice: server is listening on all interfaces (0.0.0.0). Consider using 127.0.0.1 (--binding option)\r\n\u001b[35m19:14:22 server.1      | \u001b[39m=\u003e Ctrl-C to shutdown server\u001b[1;41r\u001b[H\u001b[13B"
+    ],
+    [
+      0.085360,
+      "\u001b[32m\u001b[6A─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────\u001b[16;1H─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────\u001b[?25l\u001b[1;1H\u001b(B\u001b[m\u001b[K\r\ncd $HOME/projects/airbrake-ng/build/dev; py"
+    ],
+    [
+      0.000403,
+      "thon -m SimpleHTTPServer 4001\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36mairbrake-app \u001b[34mgit:(\u001b[31madmin/revenue-helper\u001b[34m) \u001b(B\u001b[m\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36mairbrake-app \u001b[34mgit:(\u001b[31madmin/revenue-helper\u001b[34m) \u001b(B\u001b[mcd $HOME/projects/airbrake-ng/build/dev; python -m SimpleHTTPServer 4001\u001b[K\r\nServing HTTP on 0.0.0.0 port 4001 ...\u001b[K\r\n\u001b[K\r\n\u001b[K\u001b[2B\u001b[36m19:14:08 redis.1       | \u001b[39m  `-._    `-._`-.__.-'_.-'    _.-'                                   \u001b[K\r\n\u001b[36m19:14:08 redis.1       | \u001b[39m      `-._    `-.__.-'    _.-'                                       \u001b[K\r\n\u001b[36m19:14:08 redis.1       | \u001b[39m          `-._        _.-'                                           \u001b[K\r\n\u001b[36m19:14:08 redis.1       | \u001b[39m              `-.__.-'                                               \u001b[K\r\n\u001b[36m19:14:08 redis.1       | \u001b[39m[63074] 04 May 19:14:08.308 # Sentinel runid is 04226d6a782b105b710e07ffc5c232eacf754a93\u001b[K\r\n\u001b[36m19:14:08 redis.1       | \u001b[39m[63074] 04 May 19:14:08.308 # +monitor master master 127.0.0.1 6379 quorum 1\u001b[K\r\n\u001b[K\u001b[2B\u001b[K\r\nfo"
+    ],
+    [
+      0.000333,
+      "reman start -f Procfile.dev -c mailcatcher=1,server=1\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36mairbrake-app \u001b[34mgit:(\u001b[31madmin/revenue-helper\u001b[34m) \u001b(B\u001b[m\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36mairbrake-app \u001b[34mgit:(\u001b[31madmin/revenue-helper\u001b[34m) \u001b(B\u001b[mforeman start -f Procfile.dev -c mailcatcher=1,server=1\u001b[K\r\n\u001b[32m19:14:08 mailcatcher.1 | \u001b[39mstarted with pid 63075\u001b[K\r\n\u001b[35m19:14:08 server.1      | \u001b[39mstarted with pid 63077\u001b[K\r\n\u001b[35m19:14:22 server.1      | \u001b[39m=\u003e Booting Puma\u001b[K\r\n\u001b[35m19:14:22 server.1      | \u001b[39m=\u003e Rails 4.1.6 application starting in development on http://0.0.0.0:3000\u001b[K\r\n\u001b[35m19:14:22 server.1      | \u001b[39m=\u003e Run `rails server -h` for more startup options\u001b[K\r\n\u001b[35m19:14:22 server.1      | \u001b[39m=\u003e Notice: server is listening on all interfaces (0.0.0.0). Consider using 127.0.0.1 (--binding option)\u001b[K\r\n\u001b[35m19:14:22 server.1      | \u001b[39m=\u003e Ctrl-C to shutdown server\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[30m\u001b[42m[ab] 1:airbrake- 2:foreman*                                               "
+    ],
+    [
+      0.000009,
+      "                                           \"foreman start -f Procf\" 19:14 04-May-15\u001b(B\u001b[m\u001b[15;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.887195,
+      "\u001b]0;ab:2:foreman - \"foreman start -f Procfile.dev -c mailcatcher=1,server=1\"\u0007\u001b[7A─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────\u001b[32m\u001b[16;1H─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────\ufffd"
+    ],
+    [
+      0.000815,
+      "\ufffd\ufffd───\u001b[?25l\u001b[1;1H\u001b(B\u001b[m\u001b[K\r\ncd $HOME/projects/airbrake-ng/build/dev; python -m SimpleHTTPServer 4001\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36mairbrake-app \u001b[34mgit:(\u001b[31madmin/revenue-helper\u001b[34m) \u001b(B\u001b[m\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36mairbrake-app \u001b[34mgit:(\u001b[31madmin/revenue-helper\u001b[34m) \u001b(B\u001b[mcd $HOME/projects/airbrake-ng/build/dev; python -m SimpleHTTPServer 4001\u001b[K\r\nServing HTTP on 0.0.0.0 port 4001 ...\u001b[K\r\n\u001b[K\r\n\u001b[K\u001b[2B\u001b[36m19:14:08 redis.1       | \u001b[39m  `-._    `-._`-.__.-'_.-'    _.-'                                   \u001b[K\r\n\u001b[36m19:14:08 redis.1       | \u001b[39m      `-._    `-.__.-'    _.-'                                       \u001b[K\r\n\u001b[36m19:14:08 redis.1       | \u001b[39m          `-._        _.-'                                           \u001b[K\r\n\u001b[36m19:14:08 redis.1       | \u001b[39m              `-.__.-'                                               \u001b[K\r\n\u001b[36m19:14:08 redis.1       | \u001b[39m[63074] 04 May 19:14:08.308 # Sentinel runid is 04226d6a782b105b710e07ffc5c232eacf754a93\u001b[K\r\n\u001b[36m19:14:08 redis.1       | \u001b[39m[63074] 04 May 19:"
+    ],
+    [
+      0.000249,
+      "14:08.308 # +monitor master master 127.0.0.1 6379 quorum 1\u001b[K\r\n\u001b[K\u001b[2B\u001b[K\r\nforeman start -f Procfile.dev -c mailcatcher=1,server=1\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36mairbrake-app \u001b[34mgit:(\u001b[31madmin/revenue-helper\u001b[34m) \u001b(B\u001b[m\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36mairbrake-app \u001b[34mgit:(\u001b[31madmin/revenue-helper\u001b[34m) \u001b(B\u001b[mforeman start -f Procfile.dev -c mailcatcher=1,server=1\u001b[K\r\n\u001b[32m19:14:08 mailcatcher.1 | \u001b[39mstarted with pid 63075\u001b[K\r\n\u001b[35m19:14:08 server.1      | \u001b[39mstarted with pid 63077\u001b[K\r\n\u001b[35m19:14:22 server.1      | \u001b[39m=\u003e Booting Puma\u001b[K\r\n\u001b[35m19:14:22 server.1      | \u001b[39m=\u003e Rails 4.1.6 application starting in development on http://0.0.0.0:3000\u001b[K\r\n\u001b[35m19:14:22 server.1      | \u001b[39m=\u003e Run `rails server -h` for more startup options\u001b[K\r\n\u001b[35m19:14:22 server.1      | \u001b[39m=\u003e Notice: server is listening on all interfaces (0.0.0.0). Consider using 127.0.0.1 (--binding option)\u001b[K\r\n\u001b[35m19:14:22 server.1      | \u001b[39m=\u003e Ctrl-C to shutdown server\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[30m\u001b["
+    ],
+    [
+      0.000028,
+      "42m[ab] 1:airbrake- 2:foreman*                                                                                          \"foreman start -f Procf\" 19:14 04-May-15\u001b(B\u001b[m\u001b[28;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.886579,
+      "\u001b[17;40r\u001b[H\u001b[28d#\u001b[1;41r\u001b[H\u001b[28;2H"
+    ],
+    [
+      0.315337,
+      "\u001b[17;40r\u001b[H\u001b[28;2H\u001b[35m19:14:25 server.1      | \u001b[39mPuma 2.9.1 starting...\u001b[1;41r\u001b[H\u001b[29d"
+    ],
+    [
+      0.000138,
+      "\u001b[17;40r\u001b[H\u001b[29d\u001b[35m19:14:25 server.1      | \u001b[39m* Min threads: 0, max threads: 16\r\n\u001b[35m19:14:25 server.1      | \u001b[39m* Environment: development\u001b[1;41r\u001b[H\u001b[31d\u001b[17;40r\u001b[H\u001b[31d\u001b[35m19:14:25 server.1      | \u001b[39m* Listening on tcp://0.0.0.0:3000\u001b[1;41r\u001b[H\u001b[32d"
+    ],
+    [
+      0.211829,
+      "\u001b[17;40r\u001b[H\u001b[32d \u001b[1;41r\u001b[H\u001b[32;2H"
+    ],
+    [
+      0.303824,
+      "\u001b[17;40r\u001b[H\u001b[32;2Hr\u001b[1;41r\u001b[H\u001b[32;3H"
+    ],
+    [
+      0.088351,
+      "\u001b[17;40r\u001b[H\u001b[32;3Ha\u001b[1;41r\u001b[H\u001b[32;4H"
+    ],
+    [
+      0.175673,
+      "\u001b[17;40r\u001b[H\u001b[32;4Hi\u001b[1;41r\u001b[H\u001b[32;5H"
+    ],
+    [
+      0.288614,
+      "\u001b[17;40r\u001b[H\u001b[32;5Hl\u001b[1;41r\u001b[H\u001b[32;6H"
+    ],
+    [
+      0.247744,
+      "\u001b[17;40r\u001b[H\u001b[32;6Hs\u001b[1;41r\u001b[H\u001b[32;7H"
+    ],
+    [
+      0.152083,
+      "\u001b[17;40r\u001b[H\u001b[32;7H \u001b[1;41r\u001b[H\u001b[32;8H"
+    ],
+    [
+      0.191729,
+      "\u001b[17;40r\u001b[H\u001b[32;8Hs\u001b[1;41r\u001b[H\u001b[32;9H"
+    ],
+    [
+      0.192012,
+      "\u001b[17;40r\u001b[H\u001b[32;9He\u001b[1;41r\u001b[H\u001b[32;10H"
+    ],
+    [
+      0.088204,
+      "\u001b[17;40r\u001b[H\u001b[32;10Hr\u001b[1;41r\u001b[H\u001b[32;11H"
+    ],
+    [
+      0.215699,
+      "\u001b[17;40r\u001b[H\u001b[32;11Hv\u001b[1;41r\u001b[H\u001b[32;12H"
+    ],
+    [
+      0.120331,
+      "\u001b[17;40r\u001b[H\u001b[32;12He\u001b[1;41r\u001b[H\u001b[32;13H"
+    ],
+    [
+      0.143906,
+      "\u001b[17;40r\u001b[H\u001b[32;13Hr\u001b[1;41r\u001b[H\u001b[32;14H"
+    ],
+    [
+      0.127767,
+      "\u001b[17;40r\u001b[H\u001b[32;14H \u001b[1;41r\u001b[H\u001b[32;15H"
+    ],
+    [
+      0.184223,
+      "\u001b[17;40r\u001b[H\u001b[32;15Hr\u001b[1;41r\u001b[H\u001b[32;16H"
+    ],
+    [
+      0.215868,
+      "\u001b[17;40r\u001b[H\u001b[32;16Hu\u001b[1;41r\u001b[H\u001b[32;17H"
+    ],
+    [
+      0.664233,
+      "\u001b[17;40r\u001b[H\u001b[32;17Hn\u001b[1;41r\u001b[H\u001b[32;18H"
+    ],
+    [
+      0.175699,
+      "\u001b[17;40r\u001b[H\u001b[32;18Hn\u001b[1;41r\u001b[H\u001b[32;19H"
+    ],
+    [
+      0.183743,
+      "\u001b[17;40r\u001b[H\u001b[32;19Hi\u001b[1;41r\u001b[H\u001b[32;20H"
+    ],
+    [
+      0.080075,
+      "\u001b[17;40r\u001b[H\u001b[32;20Hn\u001b[1;41r\u001b[H\u001b[32;21H"
+    ],
+    [
+      0.436496,
+      "\u001b[17;40r\u001b[H\u001b[32;21Hg\u001b[1;41r\u001b[H\u001b[32;22H"
+    ],
+    [
+      0.171417,
+      "\u001b[17;40r\u001b[H\u001b[32;22H \u001b[1;41r\u001b[H\u001b[32;23H"
+    ],
+    [
+      0.248212,
+      "\u001b[17;40r\u001b[H\u001b[32;23Hh\u001b[1;41r\u001b[H\u001b[32;24H"
+    ],
+    [
+      0.071956,
+      "\u001b[17;40r\u001b[H\u001b[32;24He\u001b[1;41r\u001b[H\u001b[32;25H"
+    ],
+    [
+      0.088301,
+      "\u001b[17;40r\u001b[H\u001b[32;25Hr\u001b[1;41r\u001b[H\u001b[32;26H"
+    ],
+    [
+      0.087686,
+      "\u001b[17;40r\u001b[H\u001b[32;26He\u001b[1;41r\u001b[H\u001b[32;27H"
+    ],
+    [
+      0.705560,
+      "\u001b]0;ab:2:foreman - \"foreman start -f Procfile.dev -c redis=1,goab=1\"\u0007\u001b[32m\u001b[8;1H─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────\u001b[16;1H───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────\ufffd"
+    ],
+    [
+      0.000882,
+      "\ufffd\ufffd─\u001b[?25l\u001b[1;1H\u001b(B\u001b[m\u001b[K\r\ncd $HOME/projects/airbrake-ng/build/dev; python -m SimpleHTTPServer 4001\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36mairbrake-app \u001b[34mgit:(\u001b[31madmin/revenue-helper\u001b[34m) \u001b(B\u001b[m\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36mairbrake-app \u001b[34mgit:(\u001b[31madmin/revenue-helper\u001b[34m) \u001b(B\u001b[mcd $HOME/projects/airbrake-ng/build/dev; python -m SimpleHTTPServer 4001\u001b[K\r\nServing HTTP on 0.0.0.0 port 4001 ...\u001b[K\r\n\u001b[K\r\n\u001b[K\u001b[2B\u001b[36m19:14:08 redis.1       | \u001b[39m  `-._    `-._`-.__.-'_.-'    _.-'                                   \u001b[K\r\n\u001b[36m19:14:08 redis.1       | \u001b[39m      `-._    `-.__.-'    _.-'                                       \u001b[K\r\n\u001b[36m19:14:08 redis.1       | \u001b[39m          `-._        _.-'                                           \u001b[K\r\n\u001b[36m19:14:08 redis.1       | \u001b[39m              `-.__.-'                                               \u001b[K\r\n\u001b[36m19:14:08 redis.1       | \u001b[39m[63074] 04 May 19:14:08.308 # Sentinel runid is 04226d6a782b105b710e07ffc5c232eacf754a93\u001b[K\r\n\u001b[36m19:14:08 redis.1       | \u001b[39m[63074] 04 May 19:14:08."
+    ],
+    [
+      0.000232,
+      "308 # +monitor master master 127.0.0.1 6379 quorum 1\u001b[K\r\n\u001b[K\u001b[2B\u001b[K\r\nforeman start -f Procfile.dev -c mailcatcher=1,server=1\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36mairbrake-app \u001b[34mgit:(\u001b[31madmin/revenue-helper\u001b[34m) \u001b(B\u001b[m\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36mairbrake-app \u001b[34mgit:(\u001b[31madmin/revenue-helper\u001b[34m) \u001b(B\u001b[mforeman start -f Procfile.dev -c mailcatcher=1,server=1\u001b[K\r\n\u001b[32m19:14:08 mailcatcher.1 | \u001b[39mstarted with pid 63075\u001b[K\r\n\u001b[35m19:14:08 server.1      | \u001b[39mstarted with pid 63077\u001b[K\r\n\u001b[35m19:14:22 server.1      | \u001b[39m=\u003e Booting Puma\u001b[K\r\n\u001b[35m19:14:22 server.1      | \u001b[39m=\u003e Rails 4.1.6 application starting in development on http://0.0.0.0:3000\u001b[K\r\n\u001b[35m19:14:22 server.1      | \u001b[39m=\u003e Run `rails server -h` for more startup options\u001b[K\r\n\u001b[35m19:14:22 server.1      | \u001b[39m=\u003e Notice: server is listening on all interfaces (0.0.0.0). Consider using 127.0.0.1 (--binding option)\u001b[K\r\n\u001b[35m19:14:22 server.1      | \u001b[39m=\u003e Ctrl-C to shutdown server\u001b[K\r\n#\u001b[35m19:14:25 server.1      | \u001b[39mPuma 2.9.1 starting...\u001b[K\r\n\u001b[35m19:14:25 s"
+    ],
+    [
+      0.000012,
+      "erver.1      | \u001b[39m* Min threads: 0, max threads: 16\u001b[K\r\n\u001b[35m19:14:25 server.1      | \u001b[39m* Environment: development\u001b[K\r\n\u001b[35m19:14:25 server.1      | \u001b[39m* Listening on tcp://0.0.0.0:3000\u001b[K\r\n rails server running here\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[30m\u001b[42m[ab] 1:airbrake- 2:foreman*                                                                                          \"foreman start -f Procf\" 19:14 04-May-15\u001b(B\u001b[m\u001b[15;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.501900,
+      "\u001b[9;15r\u001b[H\u001b[15d\n\u001b[1;41r\u001b[H\u001b[14B"
+    ],
+    [
+      0.495146,
+      "\u001b[9;15r\u001b[H\u001b[15dg\u001b[1;41r\u001b[H\u001b[15;2H"
+    ],
+    [
+      0.120558,
+      "\u001b[9;15r\u001b[H\u001b[15;2Ho\u001b[1;41r\u001b[H\u001b[15;3H"
+    ],
+    [
+      0.135631,
+      "\u001b[9;15r\u001b[H\u001b[15;3Ha\u001b[1;41r\u001b[H\u001b[15;4H"
+    ],
+    [
+      0.135940,
+      "\u001b[9;15r\u001b[H\u001b[15;4Hb\u001b[1;41r\u001b[H\u001b[15;5H"
+    ],
+    [
+      0.207914,
+      "\u001b[9;15r\u001b[H\u001b[15;5H \u001b[1;41r\u001b[H\u001b[15;6H"
+    ],
+    [
+      0.384307,
+      "\u001b[9;15r\u001b[H\u001b[15;6Ha\u001b[1;41r\u001b[H\u001b[15;7H"
+    ],
+    [
+      0.088023,
+      "\u001b[9;15r\u001b[H\u001b[15;7Hp\u001b[1;41r\u001b[H\u001b[15;8H"
+    ],
+    [
+      0.103867,
+      "\u001b[9;15r\u001b[H\u001b[15;8Hi\u001b[1;41r\u001b[H\u001b[15;9H"
+    ],
+    [
+      0.239889,
+      "\u001b[9;15r\u001b[H\u001b[15;9H \u001b[1;41r\u001b[H\u001b[15;10H"
+    ],
+    [
+      0.095852,
+      "\u001b[9;15r\u001b[H\u001b[15;10Ha\u001b[1;41r\u001b[H\u001b[15;11H"
+    ],
+    [
+      0.120249,
+      "\u001b[9;15r\u001b[H\u001b[15;11Hn\u001b[1;41r\u001b[H\u001b[15;12H"
+    ],
+    [
+      0.095774,
+      "\u001b[9;15r\u001b[H\u001b[15;12Hd\u001b[1;41r\u001b[H\u001b[15;13H"
+    ],
+    [
+      0.112215,
+      "\u001b[9;15r\u001b[H\u001b[15;13H \u001b[1;41r\u001b[H\u001b[15;14H"
+    ],
+    [
+      0.815997,
+      "\u001b[9;15r\u001b[H\u001b[15;14Hr\u001b[1;41r\u001b[H\u001b[15;15H"
+    ],
+    [
+      0.106312,
+      "\u001b[9;15r\u001b[H\u001b[15;15He\u001b[1;41r\u001b[H\u001b[15;16H"
+    ],
+    [
+      0.206083,
+      "\u001b[9;15r\u001b[H\u001b[15;16Hd\u001b[1;41r\u001b[H\u001b[15;17H"
+    ],
+    [
+      0.071729,
+      "\u001b[9;15r\u001b[H\u001b[15;17Hi\u001b[1;41r\u001b[H\u001b[15;18H"
+    ],
+    [
+      0.103958,
+      "\u001b[9;15r\u001b[H\u001b[15;18Hs\u001b[1;41r\u001b[H\u001b[15;19H"
+    ],
+    [
+      0.127589,
+      "\u001b[9;15r\u001b[H\u001b[15;19H \u001b[1;41r\u001b[H\u001b[15;20H"
+    ],
+    [
+      0.200404,
+      "\u001b[9;15r\u001b[H\u001b[15;20Hh\u001b[1;41r\u001b[H\u001b[15;21H"
+    ],
+    [
+      0.072403,
+      "\u001b[9;15r\u001b[H\u001b[15;21He\u001b[1;41r\u001b[H\u001b[15;22H"
+    ],
+    [
+      0.079783,
+      "\u001b[9;15r\u001b[H\u001b[15;22Hr\u001b[1;41r\u001b[H\u001b[15;23H"
+    ],
+    [
+      0.135618,
+      "\u001b[9;15r\u001b[H\u001b[15;23He\u001b[1;41r\u001b[H\u001b[15;24H"
+    ],
+    [
+      0.641392,
+      "\u001b]0;ab:2:foreman - \"cd $HOME/projects/airbrake-ng/build/dev; python -m SimpleHTTPServer 4001\"\u0007\u001b[32m\u001b[8;1H─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────\u001b[39m\u001b[16;1H─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────\ufffd"
+    ],
+    [
+      0.000836,
+      "\ufffd\ufffd───────────\u001b[?25l\u001b[1;1H\u001b(B\u001b[m\u001b[K\r\ncd $HOME/projects/airbrake-ng/build/dev; python -m SimpleHTTPServer 4001\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36mairbrake-app \u001b[34mgit:(\u001b[31madmin/revenue-helper\u001b[34m) \u001b(B\u001b[m\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36mairbrake-app \u001b[34mgit:(\u001b[31madmin/revenue-helper\u001b[34m) \u001b(B\u001b[mcd $HOME/projects/airbrake-ng/build/dev; python -m SimpleHTTPServer 4001\u001b[K\r\nServing HTTP on 0.0.0.0 port 4001 ...\u001b[K\r\n\u001b[K\r\n\u001b[K\u001b[2B\u001b[36m19:14:08 redis.1       | \u001b[39m      `-._    `-.__.-'    _.-'                                       \u001b[K\r\n\u001b[36m19:14:08 redis.1       | \u001b[39m          `-._        _.-'                                           \u001b[K\r\n\u001b[36m19:14:08 redis.1       | \u001b[39m              `-.__.-'                                               \u001b[K\r\n\u001b[36m19:14:08 redis.1       | \u001b[39m[63074] 04 May 19:14:08.308 # Sentinel runid is 04226d6a782b105b710e07ffc5c232eacf754a93\u001b[K\r\n\u001b[36m19:14:08 redis.1       | \u001b[39m[63074] 04 May 19:14:08.308 # +monitor master master 127.0.0.1 6379 quorum 1\u001b[K\r\n\u001b[K\r\ngoab api and redi"
+    ],
+    [
+      0.000246,
+      "s here\u001b[K\u001b[17;1H\u001b[K\r\nforeman start -f Procfile.dev -c mailcatcher=1,server=1\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36mairbrake-app \u001b[34mgit:(\u001b[31madmin/revenue-helper\u001b[34m) \u001b(B\u001b[m\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36mairbrake-app \u001b[34mgit:(\u001b[31madmin/revenue-helper\u001b[34m) \u001b(B\u001b[mforeman start -f Procfile.dev -c mailcatcher=1,server=1\u001b[K\r\n\u001b[32m19:14:08 mailcatcher.1 | \u001b[39mstarted with pid 63075\u001b[K\r\n\u001b[35m19:14:08 server.1      | \u001b[39mstarted with pid 63077\u001b[K\r\n\u001b[35m19:14:22 server.1      | \u001b[39m=\u003e Booting Puma\u001b[K\r\n\u001b[35m19:14:22 server.1      | \u001b[39m=\u003e Rails 4.1.6 application starting in development on http://0.0.0.0:3000\u001b[K\r\n\u001b[35m19:14:22 server.1      | \u001b[39m=\u003e Run `rails server -h` for more startup options\u001b[K\r\n\u001b[35m19:14:22 server.1      | \u001b[39m=\u003e Notice: server is listening on all interfaces (0.0.0.0). Consider using 127.0.0.1 (--binding option)\u001b[K\r\n\u001b[35m19:14:22 server.1      | \u001b[39m=\u003e Ctrl-C to shutdown server\u001b[K\r\n#\u001b[35m19:14:25 server.1      | \u001b[39mPuma 2.9.1 starting...\u001b[K\r\n\u001b[35m19:14:25 server.1      | \u001b[39m* Min threads: 0, max thread"
+    ],
+    [
+      0.000039,
+      "s: 16\u001b[K\r\n\u001b[35m19:14:25 server.1      | \u001b[39m* Environment: development\u001b[K\r\n\u001b[35m19:14:25 server.1      | \u001b[39m* Listening on tcp://0.0.0.0:3000\u001b[K\r\n rails server running here\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[30m\u001b[42m[ab] 1:airbrake- 2:foreman*                                                                                          \"cd $HOME/projects/airb\" 19:14 04-May-15\u001b(B\u001b[m\u001b[6;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.789664,
+      "\r\n"
+    ],
+    [
+      0.680688,
+      "\u001b[1;7r\u001b[H\u001b[7dn\u001b[1;41r\u001b[H\u001b[7;2H"
+    ],
+    [
+      1.063211,
+      "\u001b[1;7r\u001b[H\u001b[7;2Hg\u001b[1;41r\u001b[H\u001b[7;3H"
+    ],
+    [
+      0.144171,
+      "\u001b[1;7r\u001b[H\u001b[7;3H \u001b[1;41r\u001b[H\u001b[7;4H"
+    ],
+    [
+      0.575505,
+      "\u001b[1;7r\u001b[H\u001b[7;4Hr\u001b[1;41r\u001b[H\u001b[7;5H"
+    ],
+    [
+      0.128352,
+      "\u001b[1;7r\u001b[H\u001b[7;5Hu\u001b[1;41r\u001b[H\u001b[7;6H"
+    ],
+    [
+      0.071732,
+      "\u001b[1;7r\u001b[H\u001b[7;6Hn\u001b[1;41r\u001b[H\u001b[7;7H"
+    ],
+    [
+      0.168088,
+      "\u001b[1;7r\u001b[H\u001b[7;7Hn\u001b[1;41r\u001b[H\u001b[7;8H"
+    ],
+    [
+      0.152193,
+      "\u001b[1;7r\u001b[H\u001b[7;8Hi\u001b[1;41r\u001b[H\u001b[7;9H"
+    ],
+    [
+      0.087787,
+      "\u001b[1;7r\u001b[H\u001b[7;9Hn\u001b[1;41r\u001b[H\u001b[7;10H"
+    ],
+    [
+      0.079769,
+      "\u001b[1;7r\u001b[H\u001b[7;10Hg\u001b[1;41r\u001b[H\u001b[7;11H"
+    ],
+    [
+      0.136405,
+      "\u001b[1;7r\u001b[H\u001b[7;11H \u001b[1;41r\u001b[H\u001b[7;12H"
+    ],
+    [
+      0.199857,
+      "\u001b[1;7r\u001b[H\u001b[7;12Hh\u001b[1;41r\u001b[H\u001b[7;13H"
+    ],
+    [
+      0.071806,
+      "\u001b[1;7r\u001b[H\u001b[7;13He\u001b[1;41r\u001b[H\u001b[7;14H"
+    ],
+    [
+      0.072213,
+      "\u001b[1;7r\u001b[H\u001b[7;14Hr\u001b[1;41r\u001b[H\u001b[7;15H"
+    ],
+    [
+      0.120172,
+      "\u001b[1;7r\u001b[H\u001b[7;15He\u001b[1;41r\u001b[H\u001b[7;16H"
+    ],
+    [
+      0.608899,
+      "\u001b]0;ab:1:airbrake - \"vim: \"\u0007\u001b[32m\u001b[30;1H───────────────────────────────────────────────────────────────────────────────\u001b[39m──────────────────────────────────────────────────────────────────────────────\u001b[?25l\u001b[1;1H\u001b(B\u001b[m\u001b[38;5;232m\u001b[48;5;144m ¹[No Name] \u001b[38;5;144m\u001b[48;5;67m\u001b[38;5;253m                                                                                                                                     \u001b[38;5;67m\u001b[38;5;208m\u001b[38;5;232m\u001b[48;5;208m buffers \u001b[2;1H\u001b[49m\u001b[38;5;130m1   \u001b[39m\u001b[47m \u001b[49m                                                                              \u001b[48;5;224m \u001b(B\u001b[m\u001b[K\r\n\u001b[94m~                                                                                "
+    ],
+    [
+      0.000795,
+      "                                                                            \u001b[4;1H~                                                                                                                                                            \u001b[5;1H~                                                                                                                                                            \u001b[6;1H~                                                                                                                                                            \u001b[7;1H~                                                                                                                                                            \u001b[8;1H~                                                                     \u001b[39mVIM - Vi IMproved\u001b[94m                                                                      \u001b[9;1H~                                                                                                                    "
+    ],
+    [
+      0.000119,
+      "                                        \u001b[10;1H~                                                                      \u001b[39mversion 7.4.430\u001b[94m                                                                       \u001b[11;1H~                                                                 \u001b[39mby Bram Moolenaar et al.\u001b[94m                                                                   \u001b[12;1H~                                                        \u001b[39mVim is open source and freely distributable\u001b[94m                                                         \u001b[13;1H~                                                                                                                                                            \u001b[14;1H~                                                               \u001b[39mHelp poor children in Uganda!\u001b[94m                                                                \u001b[15;1H~                                                      \u001b[39mtype  :help iccf\u001b[34m\u003cEnter\u003e\u001b[39m       for information \u001b"
+    ],
+    [
+      0.000141,
+      "[94m                                                        \u001b[16;1H~                                                                                                                                                            \u001b[17;1H~                                                      \u001b[39mtype  :q\u001b[34m\u003cEnter\u003e\u001b[39m               to exit         \u001b[94m                                                        \u001b[18;1H~                                                      \u001b[39mtype  :help\u001b[34m\u003cEnter\u003e\u001b[39m  or  \u001b[34m\u003cF1\u003e\u001b[39m  for on-line help\u001b[94m                                                        \u001b[19;1H~                                                      \u001b[39mtype  :help version7\u001b[34m\u003cEnter\u003e\u001b[39m   for version info\u001b[94m                                                        \u001b[20;1H~                                                                                                                                                            \u001b[21;1H~                                                                  "
+    ],
+    [
+      0.000132,
+      "                                                                                          \u001b[22;1H~                                                                                                                                                            \u001b[23;1H~                                                                                                                                                            \u001b[24;1H~                                                                                                                                                            \u001b[25;1H~                                                                                                                                                            \u001b[26;1H~                                                                                                                                                            \u001b[27;1H~                                                                                                          "
+    ],
+    [
+      0.000136,
+      "                                                  \u001b[28;1H\u001b[38;5;232m\u001b[48;5;144m \u001b[1mNORMAL\u001b(B\u001b[m\u001b[38;5;232m\u001b[48;5;144m \u001b[38;5;144m\u001b[48;5;16m\u001b[38;5;253m +0 ~0 -0  admin/revenue-helper \u001b[38;5;16m\u001b[48;5;67m\u001b[38;5;253m \u001b[39m\u001b[49m\u001b[1m 1:  \u001b(B\u001b[m\u001b[38;5;253m\u001b[48;5;67m                                                                                \u001b[38;5;67m\u001b[38;5;16m\u001b[38;5;253m\u001b[48;5;16m [unix] \u001b[38;5;144m\u001b[38;5;232m\u001b[48;5;144m 100% \u001b[1m   0\u001b(B\u001b[m\u001b[38;5;232m\u001b[48;5;144m:  1  \u001b[29;1H\u001b[39m\u001b[49m[WakaTime] Setup complete! Visit http://wakatime.com to view your logged time.\u001b[K\u001b[31;1Hguard\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36mairbrake-app \u001b[34mgit:(\u001b[31madmin/revenue-helper\u001b[34m) \u001b(B\u001b[m\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36mairbrake-app \u001b[34mgit:(\u001b[31madmin/revenue-helper\u001b[34m) \u001b(B\u001b[mguard\u001b[K\r\n19:14:16 - INFO - Guard is using Tmux to send notifications.\u001b[K\r\n19:14:17 - INFO - Guard is using TerminalTitle to send notifications.\u001b[K\r\n19:14:17 - INFO - Guard::RSpec is running\u001b[K\r\n19:14:17 - INFO - Guard is now watching at '/Users/mmcdar"
+    ],
+    [
+      0.000020,
+      "is/projects/airbrake-app'\u001b[K\r\n\u001b[K\r\n\u001b[1mFrame number:\u001b(B\u001b[m 0/1\u001b[K\r\n[1] guard(main)\u003e \u001b[K\r\n\u001b[30m\u001b[42m[ab] 1:airbrake* 2:foreman-                                                                                                           \"vim: \" 19:14 04-May-15\u001b(B\u001b[m\u001b[2;5H\u001b[?12l\u001b[?25h\u001b[?1h\u001b="
+    ],
+    [
+      1.784678,
+      "\u001b[1;29r\u001b[H\u001b[29d\u001b[97m\u001b[101mneosnippet default snippets cannot be loaded.\u001b(B\u001b[m\u001b[K\r\u001b[97m\u001b[101mYou must install neosnippet-snippets or disable runtime snippets.\u001b[1;41r\u001b[H\u001b[29;66H\u001b[?25l\u001b(B\u001b[m"
+    ],
+    [
+      0.148735,
+      "\u001b[1;29r\u001b[H\u001b[29d\u001b[1m-- INSERT --\u001b(B\u001b[m\u001b[K\u001b[1;41r\u001b[H\u001b[29;13H"
+    ],
+    [
+      0.009139,
+      "\u001b[1;29r\u001b[H\u001b[8;71H\u001b[94m                 \u001b[10;72H               \u001b[11;67H                        \u001b[12;58H                                           \u001b[14;65H                             \u001b[15;56H                                              \u001b[17;56H                                              \u001b[18;56H                                              \u001b[19;56H                                              \u001b[28;1H\u001b[38;5;232m\u001b[48;5;81m \u001b[1mINSERT\u001b(B\u001b[m\u001b[38;5;232m\u001b[48;5;144m \u0008\u001b[48;5;81m \u001b[38;5;81m\u001b[48;5;16m\u001b[130C\u001b[38;5;232m\u001b[48;5;81m 100% \u001b[1m   0\u001b(B\u001b[m\u001b[38;5;232m\u001b[48;5;144m:\u0008\u001b[48;5;81m:  1  \u001b[28;1H\u001b[1;41r\u001b[H\u001b[2;5H\u001b[?12l\u001b[?25h\u001b(B\u001b[m"
+    ],
+    [
+      0.531613,
+      "\u001b[1;29r\u001b[H\u001b[38;5;232m\u001b[48;5;81m ¹[No Name]+ \u001b[38;5;81m\u001b[48;5;67m\u001b[2;5H\u001b[39m\u001b[49mt\u001b[47m \u001b[28;43H\u001b[38;5;16m\u001b[48;5;81m\u001b[38;5;232m \u001b[3C\u001b[39m\u001b[49m\u001b[1m+\u001b[C\u001b(B\u001b[m\u001b[38;5;232m\u001b[48;5;81m                                                                                \u001b[38;5;67m\u001b[20C\u001b[38;5;232m\u001b[1m1\u001b(B\u001b[m\u001b[38;5;232m\u001b[48;5;81m:  2\u001b[1;41r\u001b[H\u001b[29d\u001b(B\u001b[m"
+    ],
+    [
+      0.025197,
+      "\u001b[2;6H"
+    ],
+    [
+      0.025435,
+      "\u001b[1;29r\u001b[H\u001b[2;6Hh\u001b[47m \u001b[1;41r\u001b[H\u001b[29d\u001b(B\u001b[m"
+    ],
+    [
+      0.026604,
+      "\u001b[1;29r\u001b[H\u001b[28;155H\u001b[38;5;232m\u001b[48;5;81m3\u001b[1;41r\u001b[H\u001b[2;7H\u001b(B\u001b[m"
+    ],
+    [
+      0.031330,
+      "\u001b[1;29r\u001b[H\u001b[2;7Hi\u001b[47m \u001b[1;41r\u001b[H\u001b[29d\u001b(B\u001b[m"
+    ],
+    [
+      0.024914,
+      "\u001b[1;29r\u001b[H\u001b[28;155H\u001b[38;5;232m\u001b[48;5;81m4\u001b[1;41r\u001b[H\u001b[2;8H\u001b(B\u001b[m"
+    ],
+    [
+      0.087373,
+      "\u001b[1;29r\u001b[H\u001b[2;8Hs\u001b[47m \u001b[1;41r\u001b[H\u001b[29d\u001b(B\u001b[m"
+    ],
+    [
+      0.028812,
+      "\u001b[1;29r\u001b[H\u001b[28;155H\u001b[38;5;232m\u001b[48;5;81m5\u001b[1;41r\u001b[H\u001b[2;9H\u001b(B\u001b[m"
+    ],
+    [
+      0.077111,
+      "\u001b[1;29r\u001b[H\u001b[2;9H\u001b[34m.\u001b[39m\u001b[47m \u001b[1;41r\u001b[H\u001b[29d\u001b(B\u001b[m"
+    ],
+    [
+      0.036332,
+      "\u001b[1;29r\u001b[H\u001b[28;155H\u001b[38;5;232m\u001b[48;5;81m6\u001b[1;41r\u001b[H\u001b[2;10H\u001b(B\u001b[m"
+    ],
+    [
+      0.194759,
+      "\u001b[1;29r\u001b[H\u001b[2;9H i\u001b[47m \u001b[1;41r\u001b[H\u001b[29d\u001b(B\u001b[m"
+    ],
+    [
+      0.024783,
+      "\u001b[1;29r\u001b[H\u001b[28;155H\u001b[38;5;232m\u001b[48;5;81m7\u001b[1;41r\u001b[H\u001b[2;11H\u001b(B\u001b[m"
+    ],
+    [
+      0.094154,
+      "\u001b[1;29r\u001b[H\u001b[2;11Hs\u001b[47m \u001b[1;41r\u001b[H\u001b[29d\u001b(B\u001b[m"
+    ],
+    [
+      0.024900,
+      "\u001b[1;29r\u001b[H\u001b[28;155H\u001b[38;5;232m\u001b[48;5;81m8\u001b[1;41r\u001b[H\u001b[2;12H\u001b(B\u001b[m"
+    ],
+    [
+      0.071818,
+      "\u001b[1;29r\u001b[H\u001b[2;12H\u001b[34m.\u001b[39m\u001b[47m \u001b[1;41r\u001b[H\u001b[29d\u001b(B\u001b[m"
+    ],
+    [
+      0.027226,
+      "\u001b[1;29r\u001b[H\u001b[28;155H\u001b[38;5;232m\u001b[48;5;81m9\u001b[1;41r\u001b[H\u001b[2;13H\u001b(B\u001b[m"
+    ],
+    [
+      0.283961,
+      "\u001b[1;29r\u001b[H\u001b[2;12H j\u001b[47m \u001b[1;41r\u001b[H\u001b[29d\u001b(B\u001b[m"
+    ],
+    [
+      0.028759,
+      "\u001b[1;29r\u001b[H\u001b[28;154H\u001b[38;5;232m\u001b[48;5;81m10\u001b[1;41r\u001b[H\u001b[2;14H\u001b(B\u001b[m"
+    ],
+    [
+      0.101230,
+      "\u001b[1;29r\u001b[H\u001b[2;14Hu\u001b[47m \u001b[1;41r\u001b[H\u001b[29d\u001b(B\u001b[m"
+    ],
+    [
+      0.028492,
+      "\u001b[1;29r\u001b[H\u001b[28;155H\u001b[38;5;232m\u001b[48;5;81m1\u001b[1;41r\u001b[H\u001b[2;15H\u001b(B\u001b[m"
+    ],
+    [
+      0.280083,
+      "\u001b[1;29r\u001b[H\u001b[2;14H\u001b[47m \u001b[49m \u001b[1;41r\u001b[H\u001b[29d"
+    ],
+    [
+      0.026182,
+      "\u001b[1;29r\u001b[H\u001b[28;155H\u001b[38;5;232m\u001b[48;5;81m0\u001b[1;41r\u001b[H\u001b[2;14H\u001b(B\u001b[m"
+    ],
+    [
+      0.096282,
+      "\u001b[1;29r\u001b[H\u001b[2;12H\u001b[34m.\u001b[39m\u001b[47m \u001b[49m \u001b[1;41r\u001b[H\u001b[29d"
+    ],
+    [
+      0.026050,
+      "\u001b[1;29r\u001b[H\u001b[28;154H\u001b[38;5;232m\u001b[48;5;81m 9\u001b[1;41r\u001b[H\u001b[2;13H\u001b(B\u001b[m"
+    ],
+    [
+      0.359762,
+      "\u001b[1;29r\u001b[H\u001b[2;12H v\u001b[47m \u001b[1;41r\u001b[H\u001b[29d\u001b(B\u001b[m"
+    ],
+    [
+      0.025477,
+      "\u001b[1;29r\u001b[H\u001b[28;154H\u001b[38;5;232m\u001b[48;5;81m10\u001b[1;41r\u001b[H\u001b[2;14H\u001b(B\u001b[m"
+    ],
+    [
+      0.033257,
+      "\u001b[1;29r\u001b[H\u001b[2;14Hi\u001b[47m \u001b[1;41r\u001b[H\u001b[29d\u001b(B\u001b[m"
+    ],
+    [
+      0.026166,
+      "\u001b[1;29r\u001b[H\u001b[28;155H\u001b[38;5;232m\u001b[48;5;81m1\u001b[1;41r\u001b[H\u001b[2;15H\u001b(B\u001b[m"
+    ],
+    [
+      0.025647,
+      "\u001b[1;29r\u001b[H\u001b[2;15Hm\u001b[47m \u001b[1;41r\u001b[H\u001b[29d\u001b(B\u001b[m"
+    ],
+    [
+      0.048165,
+      "\u001b[1;29r\u001b[H\u001b[28;155H\u001b[38;5;232m\u001b[48;5;81m2\u001b[1;41r\u001b[H\u001b[2;16H\u001b(B\u001b[m"
+    ],
+    [
+      0.113199,
+      "\u001b[1;29r\u001b[H\u001b[2;16H\u001b[34m.\u001b[39m\u001b[47m \u001b[1;41r\u001b[H\u001b[29d\u001b(B\u001b[m"
+    ],
+    [
+      0.029427,
+      "\u001b[1;29r\u001b[H\u001b[28;155H\u001b[38;5;232m\u001b[48;5;81m3\u001b[1;41r\u001b[H\u001b[2;17H\u001b(B\u001b[m"
+    ],
+    [
+      1.762338,
+      "\u001b[1;29r\u001b[H\u001b[2;16H f\u001b[47m \u001b[1;41r\u001b[H\u001b[29d\u001b(B\u001b[m"
+    ],
+    [
+      0.026187,
+      "\u001b[1;29r\u001b[H\u001b[28;155H\u001b[38;5;232m\u001b[48;5;81m4\u001b[1;41r\u001b[H\u001b[2;18H\u001b(B\u001b[m"
+    ],
+    [
+      0.038099,
+      "\u001b[1;29r\u001b[H\u001b[2;18Ho\u001b[47m \u001b[1;41r\u001b[H\u001b[29d\u001b(B\u001b[m"
+    ],
+    [
+      0.025698,
+      "\u001b[1;29r\u001b[H\u001b[28;155H\u001b[38;5;232m\u001b[48;5;81m5\u001b[1;41r\u001b[H\u001b[2;19H\u001b(B\u001b[m"
+    ],
+    [
+      0.126162,
+      "\u001b[1;29r\u001b[H\u001b[2;19Hr\u001b[47m \u001b[1;41r\u001b[H\u001b[29d\u001b(B\u001b[m"
+    ],
+    [
+      0.025574,
+      "\u001b[1;29r\u001b[H\u001b[28;155H\u001b[38;5;232m\u001b[48;5;81m6\u001b[1;41r\u001b[H\u001b[2;20H\u001b(B\u001b[m"
+    ],
+    [
+      0.109758,
+      "\u001b[1;29r\u001b[H\u001b[2;20H\u001b[34m.\u001b[39m\u001b[47m \u001b[1;41r\u001b[H\u001b[29d\u001b(B\u001b[m"
+    ],
+    [
+      0.028754,
+      "\u001b[1;29r\u001b[H\u001b[28;155H\u001b[38;5;232m\u001b[48;5;81m7\u001b[1;41r\u001b[H\u001b[2;21H\u001b(B\u001b[m"
+    ],
+    [
+      0.257383,
+      "\u001b[1;29r\u001b[H\u001b[2;20H f\u001b[47m \u001b[1;41r\u001b[H\u001b[29d\u001b(B\u001b[m"
+    ],
+    [
+      0.028694,
+      "\u001b[1;29r\u001b[H\u001b[28;155H\u001b[38;5;232m\u001b[48;5;81m8\u001b[1;41r\u001b[H\u001b[2;22H\u001b(B\u001b[m"
+    ],
+    [
+      0.099779,
+      "\u001b[1;29r\u001b[H\u001b[2;22Hi\u001b[47m \u001b[1;41r\u001b[H\u001b[29d\u001b(B\u001b[m"
+    ],
+    [
+      0.029183,
+      "\u001b[1;29r\u001b[H\u001b[28;155H\u001b[38;5;232m\u001b[48;5;81m9\u001b[1;41r\u001b[H\u001b[2;23H\u001b(B\u001b[m"
+    ],
+    [
+      0.163074,
+      "\u001b[1;29r\u001b[H\u001b[2;23Hl\u001b[47m \u001b[1;41r\u001b[H\u001b[29d\u001b(B\u001b[m"
+    ],
+    [
+      0.026545,
+      "\u001b[1;29r\u001b[H\u001b[28;154H\u001b[38;5;232m\u001b[48;5;81m20\u001b[1;41r\u001b[H\u001b[2;24H\u001b(B\u001b[m"
+    ],
+    [
+      0.034481,
+      "\u001b[1;29r\u001b[H\u001b[2;24He\u001b[47m \u001b[1;41r\u001b[H\u001b[29d\u001b(B\u001b[m"
+    ],
+    [
+      0.027310,
+      "\u001b[1;29r\u001b[H\u001b[28;155H\u001b[38;5;232m\u001b[48;5;81m1\u001b[1;41r\u001b[H\u001b[2;25H\u001b(B\u001b[m"
+    ],
+    [
+      0.134860,
+      "\u001b[1;29r\u001b[H\u001b[2;25H\u001b[34m.\u001b[39m\u001b[47m \u001b[1;41r\u001b[H\u001b[29d\u001b(B\u001b[m"
+    ],
+    [
+      0.026205,
+      "\u001b[1;29r\u001b[H\u001b[28;155H\u001b[38;5;232m\u001b[48;5;81m2\u001b[1;41r\u001b[H\u001b[2;26H\u001b(B\u001b[m"
+    ],
+    [
+      0.152147,
+      "\u001b[1;29r\u001b[H\u001b[2;25H e\u001b[47m \u001b[1;41r\u001b[H\u001b[29d\u001b(B\u001b[m"
+    ],
+    [
+      0.027959,
+      "\u001b[1;29r\u001b[H\u001b[28;155H\u001b[38;5;232m\u001b[48;5;81m3\u001b[1;41r\u001b[H\u001b[2;27H\u001b(B\u001b[m"
+    ],
+    [
+      0.178185,
+      "\u001b[1;29r\u001b[H\u001b[2;27Hd\u001b[47m \u001b[1;41r\u001b[H\u001b[29d\u001b(B\u001b[m"
+    ],
+    [
+      0.026554,
+      "\u001b[1;29r\u001b[H\u001b[28;155H\u001b[38;5;232m\u001b[48;5;81m4\u001b[1;41r\u001b[H\u001b[2;28H\u001b(B\u001b[m"
+    ],
+    [
+      0.084932,
+      "\u001b[1;29r\u001b[H\u001b[2;28Hi\u001b[47m \u001b[1;41r\u001b[H\u001b[29d\u001b(B\u001b[m"
+    ],
+    [
+      0.027791,
+      "\u001b[1;29r\u001b[H\u001b[28;155H\u001b[38;5;232m\u001b[48;5;81m5\u001b[1;41r\u001b[H\u001b[2;29H\u001b(B\u001b[m"
+    ],
+    [
+      0.189475,
+      "\u001b[1;29r\u001b[H\u001b[2;29Ht\u001b[47m \u001b[1;41r\u001b[H\u001b[29d\u001b(B\u001b[m"
+    ],
+    [
+      0.037449,
+      "\u001b[1;29r\u001b[H\u001b[28;155H\u001b[38;5;232m\u001b[48;5;81m6\u001b[1;41r\u001b[H\u001b[2;30H\u001b(B\u001b[m"
+    ],
+    [
+      0.131076,
+      "\u001b[1;29r\u001b[H\u001b[2;30Hi\u001b[47m \u001b[1;41r\u001b[H\u001b[29d\u001b(B\u001b[m"
+    ],
+    [
+      0.026491,
+      "\u001b[1;29r\u001b[H\u001b[28;155H\u001b[38;5;232m\u001b[48;5;81m7\u001b[1;41r\u001b[H\u001b[2;31H\u001b(B\u001b[m"
+    ],
+    [
+      0.045743,
+      "\u001b[1;29r\u001b[H\u001b[2;31Hn\u001b[47m \u001b[1;41r\u001b[H\u001b[29d\u001b(B\u001b[m"
+    ],
+    [
+      0.026051,
+      "\u001b[1;29r\u001b[H\u001b[28;155H\u001b[38;5;232m\u001b[48;5;81m8\u001b[1;41r\u001b[H\u001b[2;32H\u001b(B\u001b[m"
+    ],
+    [
+      0.062265,
+      "\u001b[1;29r\u001b[H\u001b[2;32Hg\u001b[47m \u001b[1;41r\u001b[H\u001b[29d\u001b(B\u001b[m"
+    ],
+    [
+      0.027956,
+      "\u001b[1;29r\u001b[H\u001b[28;155H\u001b[38;5;232m\u001b[48;5;81m9\u001b[1;41r\u001b[H\u001b[2;33H\u001b(B\u001b[m"
+    ],
+    [
+      0.537965,
+      "\u001b]0;ab:1:airbrake - \"guard\"\u0007\u001b[30;1H───────────────────────────────────────────────────────────────────────────────\u001b[32m──────────────────────────────────────────────────────────────────────────────\u001b[?25l\u001b[1;1H\u001b(B\u001b[m\u001b[38;5;232m\u001b[48;5;81m ¹[No Name]+ \u001b[38;5;81m\u001b[48;5;67m\u001b[38;5;253m                                                                                                                                    \u001b[38;5;67m\u001b[38;5;208m\u001b[38;5;232m\u001b[48;5;208m buffers \u001b[2;1H\u001b[49m\u001b[38;5;130m1   \u001b[39mthis is vim for file editing\u001b[47m \u001b[49m                                                  \u001b[48;5;224m \u001b(B\u001b[m\u001b[K\r\n\u001b[94m~                                                                                       "
+    ],
+    [
+      0.000925,
+      "                                                                     \u001b[4;1H~                                                                                                                                                            \u001b[5;1H~                                                                                                                                                            \u001b[6;1H~                                                                                                                                                            \u001b[7;1H~                                                                                                                                                            \u001b[8;1H~                                                                                                                                                            \u001b[9;1H~                                                                                                                                     "
+    ],
+    [
+      0.000114,
+      "                       \u001b[10;1H~                                                                                                                                                            \u001b[11;1H~                                                                                                                                                            \u001b[12;1H~                                                                                                                                                            \u001b[13;1H~                                                                                                                                                            \u001b[14;1H~                                                                                                                                                            \u001b[15;1H~                                                                                                                                                            \u001b[16;1H~         "
+    ],
+    [
+      0.000164,
+      "                                                                                                                                                   \u001b[17;1H~                                                                                                                                                            \u001b[18;1H~                                                                                                                                                            \u001b[19;1H~                                                                                                                                                            \u001b[20;1H~                                                                                                                                                            \u001b[21;1H~                                                                                                                                                            \u001b[22;1H~                                                 "
+    ],
+    [
+      0.000083,
+      "                                                                                                           \u001b[23;1H~                                                                                                                                                            \u001b[24;1H~                                                                                                                                                            \u001b[25;1H~                                                                                                                                                            \u001b[26;1H~                                                                                                                                                            \u001b[27;1H~                                                                                                                                                            \u001b[28;1H\u001b[38;5;232m\u001b[48;5;81m \u001b[1mINSERT\u001b(B\u001b[m\u001b[38;5;232m\u001b[48;5;81m \u001b[38;5;81m\u001b[48;5;16m\u001b[38;5;"
+    ],
+    [
+      0.000134,
+      "253m +0 ~0 -0  admin/revenue-helper \u001b[38;5;16m\u001b[48;5;81m\u001b[38;5;232m \u001b[39m\u001b[49m\u001b[1m 1:+ \u001b(B\u001b[m\u001b[38;5;232m\u001b[48;5;81m                                                                                \u001b[38;5;67m\u001b[38;5;16m\u001b[48;5;67m\u001b[38;5;253m\u001b[48;5;16m [unix] \u001b[38;5;81m\u001b[38;5;232m\u001b[48;5;81m 100% \u001b[1m   1\u001b(B\u001b[m\u001b[38;5;232m\u001b[48;5;81m: 29  \u001b[29;1H\u001b[39m\u001b[49m\u001b[1m-- INSERT --\u001b(B\u001b[m\u001b[K\u001b[31;1Hguard\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36mairbrake-app \u001b[34mgit:(\u001b[31madmin/revenue-helper\u001b[34m) \u001b(B\u001b[m\u001b[K\r\n\u001b[32m\u001b[1m➜  \u001b[36mairbrake-app \u001b[34mgit:(\u001b[31madmin/revenue-helper\u001b[34m) \u001b(B\u001b[mguard\u001b[K\r\n19:14:16 - INFO - Guard is using Tmux to send notifications.\u001b[K\r\n19:14:17 - INFO - Guard is using TerminalTitle to send notifications.\u001b[K\r\n19:14:17 - INFO - Guard::RSpec is running\u001b[K\r\n19:14:17 - INFO - Guard is now watching at '/Users/mmcdaris/projects/airbrake-app'\u001b[K\r\n\u001b[K\r\n\u001b[1mFrame number:\u001b(B\u001b[m 0/1\u001b[K\r\n[1] guard(main)\u003e \u001b[K\r\n\u001b[30m\u001b[42m[ab] 1:airbrake* 2:foreman-                                                                         "
+    ],
+    [
+      0.000009,
+      "                                  \"guard\" 19:14 04-May-15\u001b(B\u001b[m\u001b[40;18H\u001b[?12l\u001b[?25h\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.629167,
+      "\u001b[31;40r\u001b[H\u001b[40;18Ht\u001b[1;41r\u001b[H\u001b[40;19H"
+    ],
+    [
+      0.111302,
+      "\u001b[31;40r\u001b[H\u001b[40;19Hh\u001b[1;41r\u001b[H\u001b[40;20H"
+    ],
+    [
+      0.080022,
+      "\u001b[31;40r\u001b[H\u001b[40;20Hi\u001b[1;41r\u001b[H\u001b[40;21H"
+    ],
+    [
+      0.056028,
+      "\u001b[31;40r\u001b[H\u001b[40;21Hs\u001b[1;41r\u001b[H\u001b[40;22H"
+    ],
+    [
+      0.159976,
+      "\u001b[31;40r\u001b[H\u001b[40;22H \u001b[1;41r\u001b[H\u001b[40;23H"
+    ],
+    [
+      0.240006,
+      "\u001b[31;40r\u001b[H\u001b[40;23Hi\u001b[1;41r\u001b[H\u001b[40;24H"
+    ],
+    [
+      0.119984,
+      "\u001b[31;40r\u001b[H\u001b[40;24Hs\u001b[1;41r\u001b[H\u001b[40;25H"
+    ],
+    [
+      0.111939,
+      "\u001b[31;40r\u001b[H\u001b[40;25H \u001b[1;41r\u001b[H\u001b[40;26H"
+    ],
+    [
+      0.379926,
+      "\u001b[31;40r\u001b[H\u001b[40;26Hg\u001b[1;41r\u001b[H\u001b[40;27H"
+    ],
+    [
+      0.139995,
+      "\u001b[31;40r\u001b[H\u001b[40;27Hu\u001b[1;41r\u001b[H\u001b[40;28H"
+    ],
+    [
+      0.136065,
+      "\u001b[31;40r\u001b[H\u001b[40;28Ha\u001b[1;41r\u001b[H\u001b[40;29H"
+    ],
+    [
+      0.079991,
+      "\u001b[31;40r\u001b[H\u001b[40;29Hr\u001b[1;41r\u001b[H\u001b[40;30H"
+    ],
+    [
+      0.232255,
+      "\u001b[31;40r\u001b[H\u001b[40;30Hd\u001b[1;41r\u001b[H\u001b[40;31H"
+    ],
+    [
+      0.103723,
+      "\u001b[31;40r\u001b[H\u001b[40;31H \u001b[1;41r\u001b[H\u001b[40;32H"
+    ],
+    [
+      0.152001,
+      "\u001b[31;40r\u001b[H\u001b[40;32Hf\u001b[1;41r\u001b[H\u001b[40;33H"
+    ],
+    [
+      0.087918,
+      "\u001b[31;40r\u001b[H\u001b[40;33Ho\u001b[1;41r\u001b[H\u001b[40;34H"
+    ],
+    [
+      0.128073,
+      "\u001b[31;40r\u001b[H\u001b[40;34Hr\u001b[1;41r\u001b[H\u001b[40;35H"
+    ],
+    [
+      0.080014,
+      "\u001b[31;40r\u001b[H\u001b[40;35H \u001b[1;41r\u001b[H\u001b[40;36H"
+    ],
+    [
+      0.311861,
+      "\u001b[31;40r\u001b[H\u001b[40;36Ht\u001b[1;41r\u001b[H\u001b[40;37H"
+    ],
+    [
+      0.104114,
+      "\u001b[31;40r\u001b[H\u001b[40;37He\u001b[1;41r\u001b[H\u001b[40;38H"
+    ],
+    [
+      0.183902,
+      "\u001b[31;40r\u001b[H\u001b[40;38Hs\u001b[1;41r\u001b[H\u001b[40;39H"
+    ],
+    [
+      0.064173,
+      "\u001b[31;40r\u001b[H\u001b[40;39Ht\u001b[1;41r\u001b[H\u001b[40;40H"
+    ],
+    [
+      0.191696,
+      "\u001b[31;40r\u001b[H\u001b[40;40Hs\u001b[1;41r\u001b[H\u001b[40;41H"
+    ],
+    [
+      1.104946,
+      "\u001b[?25l\r\n\u001b[30m\u001b[43m:\u001b[7m \u001b(B\u001b[m\u001b[30m\u001b[43m                                                                                                                                                           \u001b(B\u001b[m\u001b[40;41H"
+    ],
+    [
+      0.359560,
+      "\r\n\u001b[30m\u001b[43m:k\u001b[7m \u001b(B\u001b[m\u001b[30m\u001b[43m                                                                                                                                                          \u001b(B\u001b[m\u001b[40;41H"
+    ],
+    [
+      0.176001,
+      "\r\n\u001b[30m\u001b[43m:ki\u001b[7m \u001b(B\u001b[m\u001b[30m\u001b[43m                                                                                                                                                         \u001b(B\u001b[m\u001b[40;41H"
+    ],
+    [
+      0.215798,
+      "\r\n\u001b[30m\u001b[43m:kil\u001b[7m \u001b(B\u001b[m\u001b[30m\u001b[43m                                                                                                                                                        \u001b(B\u001b[m\u001b[40;41H"
+    ],
+    [
+      0.135812,
+      "\r\n\u001b[30m\u001b[43m:kill\u001b[7m \u001b(B\u001b[m\u001b[30m\u001b[43m                                                                                                                                                       \u001b(B\u001b[m\u001b[40;41H"
+    ],
+    [
+      0.208128,
+      "\r\n\u001b[30m\u001b[43m:kill-\u001b[7m \u001b(B\u001b[m\u001b[30m\u001b[43m                                                                                                                                                      \u001b(B\u001b[m\u001b[40;41H"
+    ],
+    [
+      0.223846,
+      "\r\n\u001b[30m\u001b[43m:kill-s\u001b[7m \u001b(B\u001b[m\u001b[30m\u001b[43m                                                                                                                                                     \u001b(B\u001b[m\u001b[40;41H"
+    ],
+    [
+      0.168035,
+      "\r\n\u001b[30m\u001b[43m:kill-se\u001b[7m \u001b(B\u001b[m\u001b[30m\u001b[43m                                                                                                                                                    \u001b(B\u001b[m\u001b[40;41H"
+    ],
+    [
+      0.232166,
+      "\r\n\u001b[30m\u001b[43m:kill-ses\u001b[7m \u001b(B\u001b[m\u001b[30m\u001b[43m                                                                                                                                                   \u001b(B\u001b[m\u001b[40;41H"
+    ],
+    [
+      0.135771,
+      "\r\n\u001b[30m\u001b[43m:kill-sesi\u001b[7m \u001b(B\u001b[m\u001b[30m\u001b[43m                                                                                                                                                  \u001b(B\u001b[m\u001b[40;41H"
+    ],
+    [
+      0.488101,
+      "\r\n\u001b[30m\u001b[43m:kill-ses\u001b[7m \u001b(B\u001b[m\u001b[30m\u001b[43m                                                                                                                                                   \u001b(B\u001b[m\u001b[40;41H"
+    ],
+    [
+      0.216191,
+      "\r\n\u001b[30m\u001b[43m:kill-sess\u001b[7m \u001b(B\u001b[m\u001b[30m\u001b[43m                                                                                                                                                  \u001b(B\u001b[m\u001b[40;41H"
+    ],
+    [
+      0.072161,
+      "\r\n\u001b[30m\u001b[43m:kill-sessi\u001b[7m \u001b(B\u001b[m\u001b[30m\u001b[43m                                                                                                                                                 \u001b(B\u001b[m\u001b[40;41H"
+    ],
+    [
+      0.159994,
+      "\r\n\u001b[30m\u001b[43m:kill-sessio\u001b[7m \u001b(B\u001b[m\u001b[30m\u001b[43m                                                                                                                                                \u001b(B\u001b[m\u001b[40;41H"
+    ],
+    [
+      0.079694,
+      "\r\n\u001b[30m\u001b[43m:kill-session\u001b[7m \u001b(B\u001b[m\u001b[30m\u001b[43m                                                                                                                                               \u001b(B\u001b[m\u001b[40;41H"
+    ],
+    [
+      0.434660,
+      "\u001b[1;41r\u001b(B\u001b[m\u001b[?1l\u001b\u003e\u001b[H\u001b[2J\u001b]112\u0007\u001b[?12l\u001b[?25h\u001b[?1000l\u001b[?1006l\u001b[?1005l\u001b[?1049l"
+    ],
+    [
+      0.005080,
+      "[exited]\r\n"
+    ],
+    [
+      0.003229,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                            \r \r\u001b]2;mmcdaris@mcretina: ~\u0007\u001b]1;~\u0007"
+    ],
+    [
+      0.050817,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36m~ \u001b[01;34m\u001b[01;34m \u001b[00m\u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      4.293021,
+      "\r\r\n"
+    ]
+  ]
+}
