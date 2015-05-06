@@ -1,0 +1,290 @@
+{
+  "version": 1,
+  "width": 102,
+  "height": 57,
+  "duration": 20.825464,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.029466,
+      "\u001b]0;jay@cee: ~\u0007jay@cee:~$ "
+    ],
+    [
+      2.378493,
+      "g"
+    ],
+    [
+      0.106138,
+      "d"
+    ],
+    [
+      0.072154,
+      "b"
+    ],
+    [
+      0.197802,
+      " "
+    ],
+    [
+      0.963351,
+      "a"
+    ],
+    [
+      0.101551,
+      "."
+    ],
+    [
+      0.129736,
+      "out "
+    ],
+    [
+      0.738610,
+      "\r\n"
+    ],
+    [
+      0.051105,
+      "GNU gdb (Ubuntu 7.7.1-0ubuntu5~14.04.2) 7.7.1\r\n"
+    ],
+    [
+      0.000008,
+      "Copyright (C) 2014 Free Software Foundation, Inc.\r\nLicense GPLv3+: GNU GPL version 3 or later \u003chttp://gnu.org/licenses/gpl.html\u003e\r\nThis is free software: you are free to change and redistribute it.\r\nThere is NO WARRANTY, to the extent permitted by law.  Type \"show copying\"\r\nand \"show warranty\" for details.\r\nThis GDB was configured as \"x86_64-linux-gnu\".\r\n"
+    ],
+    [
+      0.000007,
+      "Type \"show configuration\" for configuration details.\r\nFor bug reporting instructions, please see:"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000002,
+      "\u003chttp://www.gnu.org/software/gdb/bugs/\u003e.\r\n"
+    ],
+    [
+      0.000011,
+      "Find the GDB manual and other documentation resources online at:\r\n\u003chttp://www.gnu.org/software/gdb/documentation/\u003e."
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000002,
+      "For help, type \"help\".\r\n"
+    ],
+    [
+      0.000005,
+      "Type \"apropos word\" to search for commands related to \"word\"..."
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000129,
+      "$1 = 1"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000162,
+      "Reading symbols from a.out..."
+    ],
+    [
+      0.000126,
+      "(no debugging symbols found)...done.\r\n"
+    ],
+    [
+      0.000113,
+      "(gdb) "
+    ],
+    [
+      0.537821,
+      "s"
+    ],
+    [
+      0.391536,
+      "h"
+    ],
+    [
+      0.133882,
+      "o"
+    ],
+    [
+      0.113464,
+      "w"
+    ],
+    [
+      0.169452,
+      " "
+    ],
+    [
+      0.115851,
+      "h"
+    ],
+    [
+      0.125057,
+      "i"
+    ],
+    [
+      0.059313,
+      "s"
+    ],
+    [
+      0.133160,
+      "t"
+    ],
+    [
+      0.110853,
+      "o"
+    ],
+    [
+      0.060460,
+      "r"
+    ],
+    [
+      0.062867,
+      "y"
+    ],
+    [
+      0.492572,
+      "\r\nexpansion:  History expansion on command input is off.\r\nfilename:  The filename in which to record the command history is \"/home/jay/.gdb_history\".\r\nsave:  Saving of the history record on exit is on.\r\nsize:  The size of the command history is unlimited.\r\n(gdb) "
+    ],
+    [
+      2.144655,
+      "b"
+    ],
+    [
+      0.199849,
+      " "
+    ],
+    [
+      0.591845,
+      "m"
+    ],
+    [
+      0.154181,
+      "a"
+    ],
+    [
+      0.069516,
+      "i"
+    ],
+    [
+      0.157809,
+      "n"
+    ],
+    [
+      0.429549,
+      "\r\nBreakpoint 1 at 0x400531\r\n(gdb) "
+    ],
+    [
+      1.561400,
+      "q"
+    ],
+    [
+      0.355007,
+      "\r\n"
+    ],
+    [
+      0.006751,
+      "\u001b]0;jay@cee: ~\u0007jay@cee:~$ "
+    ],
+    [
+      0.368561,
+      "c"
+    ],
+    [
+      0.101008,
+      "a"
+    ],
+    [
+      0.283303,
+      "t"
+    ],
+    [
+      0.159510,
+      " "
+    ],
+    [
+      0.523997,
+      "."
+    ],
+    [
+      0.314549,
+      "g"
+    ],
+    [
+      0.212307,
+      "d"
+    ],
+    [
+      0.060980,
+      "b"
+    ],
+    [
+      0.284891,
+      ")"
+    ],
+    [
+      0.409878,
+      "h"
+    ],
+    [
+      0.326493,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.124557,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.721007,
+      "_"
+    ],
+    [
+      0.258378,
+      "h"
+    ],
+    [
+      0.211271,
+      "istory "
+    ],
+    [
+      0.431776,
+      "\r\n"
+    ],
+    [
+      0.001775,
+      "\u001b]0;jay@cee: ~\u0007jay@cee:~$ "
+    ],
+    [
+      1.517519,
+      "e"
+    ],
+    [
+      0.086043,
+      "x"
+    ],
+    [
+      0.136219,
+      "i"
+    ],
+    [
+      0.123819,
+      "t"
+    ],
+    [
+      1.221264,
+      "\r\nexit\r\n"
+    ]
+  ]
+}
