@@ -1,0 +1,1630 @@
+{
+  "version": 1,
+  "width": 176,
+  "height": 43,
+  "duration": 61.381865,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.170020,
+      "\u001b]1;       Users/shurain\u0007"
+    ],
+    [
+      0.000008,
+      "\u001b]2;[zsh]   sofia::/Users/shurain\u0007"
+    ],
+    [
+      0.025187,
+      "\u001b]1;        shurain/venv\u0007"
+    ],
+    [
+      0.000027,
+      "\u001b]2;[zsh]   sofia::/Users/shurain/venv\u0007"
+    ],
+    [
+      0.142444,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                               \r \r\u001b]2;title\u0007"
+    ],
+    [
+      0.000166,
+      "\u001b]2;~\u0007"
+    ],
+    [
+      0.000005,
+      "\u001b]1;~\u0007"
+    ],
+    [
+      0.012401,
+      "\u001b]1;       Users/shurain\u0007"
+    ],
+    [
+      0.000320,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[38;5;135mshurain\u001b[39m@\u001b[38;5;166msofia\u001b[39m \u001b[38;5;118m~\u001b[39m $ "
+    ],
+    [
+      0.000032,
+      "\u001b[K\u001b[157C\u001b[34m\u001b[39m\u001b[157D"
+    ],
+    [
+      0.000493,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[38;5;135mshurain\u001b[39m@\u001b[38;5;166msofia\u001b[39m \u001b[38;5;118m~\u001b[39m $ "
+    ],
+    [
+      0.000015,
+      "\u001b[K\u001b[157C\u001b[34m\u001b[39m\u001b[157D"
+    ],
+    [
+      0.564478,
+      "\u001b[4mv\u001b[24m"
+    ],
+    [
+      0.094017,
+      "\u0008\u001b[24m\u001b[32mv\u001b[32mi\u001b[39m"
+    ],
+    [
+      0.056696,
+      "\u0008\u0008\u001b[32mv\u001b[32mi\u001b[32mm\u001b[39m"
+    ],
+    [
+      0.433250,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[38;5;135mshurain\u001b[39m@\u001b[38;5;166msofia\u001b[39m \u001b[38;5;118m~\u001b[39m $ "
+    ],
+    [
+      0.000007,
+      "\u001b[32mvim\u001b[39m\u001b[K\u001b[154C\u001b[34m\u001b[39m\u001b[154D"
+    ],
+    [
+      0.000063,
+      "\r\r\n"
+    ],
+    [
+      0.001014,
+      "\u001b]2;title\u0007"
+    ],
+    [
+      0.000133,
+      "\u001b]2;mvim\u0007"
+    ],
+    [
+      0.000032,
+      "\u001b]1;mvim\u0007"
+    ],
+    [
+      0.037057,
+      "\u001b]1;  vim \u0007"
+    ],
+    [
+      0.238218,
+      "\u001b[43;1H"
+    ],
+    [
+      0.012633,
+      "\u001b[?1049h\u001b[?1h\u001b="
+    ],
+    [
+      0.153957,
+      "\u001b[94m\u001b[100m\u001b[94m\u001b[100m"
+    ],
+    [
+      0.336925,
+      "\u001b[94m\u001b[100m\u001b[94m\u001b[100m"
+    ],
+    [
+      0.000008,
+      "\u001b[2;1H▽\u001b[6n\u001b[2;1H  \u001b[1;1H"
+    ],
+    [
+      0.007389,
+      "\u001b[1;43r\u001b[?12;25h\u001b[?12l\u001b[?25h\u001b[27m\u001b[m\u001b[94m\u001b[100m\u001b[H\u001b[2J\u001b[\u003ec"
+    ],
+    [
+      0.009887,
+      "\u001b[?25l\u001b[1;1H\u001b[93m1   \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\r\n~\r\n~\r\n~\r\n~\r\n~\r\n~\r\n~\r\n~\r\n~\r\n~\r\n~\r\n~\r\n~\r\n~\r\n~\r\n~\r\n~\r\n~\r\n~\r\n~\r\n~\r\n~\r\n~\r\n~\r\n~\r\n~\r\n~\r\n~\r\n~\r\n~\r\n~\r\n~\r\n~\r\n~\r\n~\r\n~\r\n~\r\n~\r\n~\r\n~\r\n\u001b[38;5;230m\u001b[48;5;32m NORMAL \u001b[m\u001b[94m\u001b[100m\u001b[38;5;32m\u001b[48;5;241m⮀\u001b[m\u001b[94m\u001b[100m\u001b[38;5;230m\u001b[48;5;241m [NoName] \u001b[m\u001b[94m\u001b[100m\u001b[38;5;241m\u001b[48;5;24m⮀\u001b[m\u001b[94m\u001b[100m\u001b[38;5;109m\u001b[48;5;24m                                                                                                                     \u001b[m\u001b[94m\u001b[100m\u001b[38;5;24m\u001b[48;5;24m⮃\u001b[m\u001b[94m\u001b[100m\u001b[38;5;109m\u001b[48;5;24m unix ⮃ utf-8 ⮃ no ft \u001b[m\u001b[94m\u001b[100m\u001b[38;5;241m\u001b[48;5;24m⮂\u001b[m\u001b[94m\u001b[100m\u001b[38;5;109m\u001b[48;5;241m 100% \u001b[m\u001b[94m\u001b[100m\u001b[38;5;102m\u001b[48;5;241m⮂\u001b[m\u001b[94m\u001b[100m\u001b[38;5;24m\u001b[48;5;102m   0:1  \u001b[m\u001b[94m\u001b[100m\u001b[16;80HVIM - Vi IMproved\u001b[18;81Hversion 7.4.383\u001b[19;77Hby Bram Moolenaar et al.\u001b[20;67HVim is open source and freely distributable\u001b[22;74HHelp poor children in Uganda!\u001b[23;66Htype  :help icc"
+    ],
+    [
+      0.000014,
+      "f\u001b[1m\u001b[93m\u001b[40m\u003cEnter\u003e\u001b[m\u001b[94m\u001b[100m\u001b[7Cfor information\u001b[25;66Htype  :q\u001b[1m\u001b[93m\u001b[40m\u003cEnter\u003e\u001b[m\u001b[94m\u001b[100m\u001b[15Cto exit\u001b[26;66Htype  :help\u001b[1m\u001b[93m\u001b[40m\u003cEnter\u003e\u001b[m\u001b[94m\u001b[100m  or  \u001b[1m\u001b[93m\u001b[40m\u003cF1\u003e\u001b[m\u001b[94m\u001b[100m  for on-line help\u001b[27;66Htype  :help macvim\u001b[1m\u001b[93m\u001b[40m\u003cEnter\u003e\u001b[m\u001b[94m\u001b[100m     for MacVim help\u001b]2;[No Name] - VIM\u0007"
+    ],
+    [
+      0.000182,
+      "\u001b[1;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.591017,
+      "\u001b[?25l\u001b[43;166H,\u001b[1;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.191776,
+      "\u001b[?25l\u001b[43;166H  \u001b[1;5H\u001b[43;166H,\u001b[1;5H\u001b[43;167Hw\u001b[1;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.215944,
+      "\u001b[?25l\u001b[43;166H   \u001b[1;5H"
+    ],
+    [
+      0.009702,
+      "\u001b[43;1H\"index.wiki\""
+    ],
+    [
+      0.000225,
+      " 19L, 555C"
+    ],
+    [
+      0.142951,
+      "\u001b[1;5H=\u001b[1m\u001b[91m Core Dumped \u001b[m\u001b[94m\u001b[100m=                                                                \u001b[40m \u001b[m\u001b[94m\u001b[100m\r\n\u001b[38;5;146m\u001b[40m  1 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\r\n\u001b[38;5;146m\u001b[40m  2 \u001b[m\u001b[94m\u001b[100mRandom collection and organization of thoughts and interests.                  \u001b[40m \u001b[m\u001b[94m\u001b[100m\r\n\u001b[38;5;146m\u001b[40m  3 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\r\n\u001b[38;5;146m\u001b[40m  4 \u001b[m\u001b[94m\u001b[100mSome starting points.                                                          \u001b[40m \u001b[m\u001b[94m\u001b[100m\r\n\u001b[38;5;146m\u001b[40m  5 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\r\n\u001b[38;5;146m\u001b[40m  6 \u001b[m\u001b[94m\u001b[100m\u001b[34m- \u001b[m\u001b[94m\u001b[100m\u001b[95mScratchpad\u001b[m\u001b[94m\u001b[100m -- various temporary stuff.                                       \u001b[40m \u001b[m\u001b[94m\u001b[100m\r\n\u001b[38;5;146m\u001b[40m  7 \u001b[m\u001b[94m\u001b[100m\u001b[34m- \u001b[m\u001b["
+    ],
+    [
+      0.000237,
+      "94m\u001b[100m\u001b[95mWork Log\u001b[m\u001b[94m\u001b[100m -- I work on many things.                                           \u001b[40m \u001b[m\u001b[94m\u001b[100m\r\n\u001b[38;5;146m\u001b[40m  8 \u001b[m\u001b[94m\u001b[100m\u001b[34m- \u001b[m\u001b[94m\u001b[100m\u001b[95mSnippets\u001b[m\u001b[94m\u001b[100m -- Useful snippets.                                                 \u001b[40m \u001b[m\u001b[94m\u001b[100m\r\n\u001b[38;5;146m\u001b[40m  9 \u001b[m\u001b[94m\u001b[100m\u001b[34m- \u001b[m\u001b[94m\u001b[100m\u001b[95mKnowledge References\u001b[m\u001b[94m\u001b[100m -- My main interests.                                   \u001b[40m \u001b[m\u001b[94m\u001b[100m\r\n\u001b[38;5;146m\u001b[40m 10 \u001b[m\u001b[94m\u001b[100m\u001b[34m- \u001b[m\u001b[94m\u001b[100m\u001b[95mTrouble Shooting\u001b[m\u001b[94m\u001b[100m -- I tend to run into bunch of troubles.                    \u001b[40m \u001b[m\u001b[94m\u001b[100m\r\n\u001b[38;5;146m\u001b[40m 11 \u001b[m\u001b[94m\u001b[100m\u001b[34m- \u001b[m\u001b[94m\u001b[100m\u001b[95mMy Questions\u001b[m\u001b[94m\u001b[100m -- I have many questions.                                       \u001b[40m \u001b[m\u001b[94m\u001b[100m\r\n\u001b[38;5;146m\u001b[40m 12 \u001b[m\u001b[94m\u001b[100m\u001b[34m- \u001b[m\u001b[94m\u001b[100m\u001b[95mAsked Questions\u001b[m\u001b[94m\u001b[100m -- I receive some questions. I intend to maintain them.      \u001b[40m \u001b[m\u001b[94m\u001b[100m\r\n\u001b[38;5;146m\u001b[40m 13 "
+    ],
+    [
+      0.002627,
+      "\u001b[m\u001b[94m\u001b[100m\u001b[34m- \u001b[m\u001b[94m\u001b[100m\u001b[95mStock Pattern\u001b[m\u001b[94m\u001b[100m                                                                \u001b[40m \u001b[m\u001b[94m\u001b[100m\r\n\u001b[38;5;146m\u001b[40m 14 \u001b[m\u001b[94m\u001b[100m\u001b[34m- \u001b[m\u001b[94m\u001b[100m\u001b[95mGraduate School\u001b[m\u001b[94m\u001b[100m                                                              \u001b[40m \u001b[m\u001b[94m\u001b[100m\r\n\u001b[38;5;146m\u001b[40m 15 \u001b[m\u001b[94m\u001b[100m\u001b[34m- \u001b[m\u001b[94m\u001b[100m\u001b[95mBooks\u001b[m\u001b[94m\u001b[100m                                                                        \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[16;86H\u001b[K\u001b[17;1H\u001b[38;5;146m\u001b[40m 16 \u001b[m\u001b[94m\u001b[100m\u001b[34m- \u001b[m\u001b[94m\u001b[100m\u001b[95mVideos\u001b[m\u001b[94m\u001b[100m                                                                       \u001b[40m \u001b[m\u001b[94m\u001b[100m\r\n\u001b[38;5;146m\u001b[40m 17 \u001b[m\u001b[94m\u001b[100m\u001b[34m- \u001b[m\u001b[94m\u001b[100m\u001b[95mPapers\u001b[m\u001b[94m\u001b[100m                                                                       \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[18;85H\u001b[K\u001b[19;1H\u001b[38;5;146m\u001b[40m 18 \u001b[m\u001b[94m\u001b[100m\u001b[34m- \u001b[m\u001b[94m\u001b[100m\u001b[95mPersonal\u001b[m\u001b[94m\u001b[100m                                                                 "
+    ],
+    [
+      0.000044,
+      "    \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[19;85H\u001b[K\u001b[20;67H\u001b[K\u001b[22;74H\u001b[K\u001b[23;66H\u001b[K\u001b[25;66H\u001b[K\u001b[26;66H\u001b[K\u001b[27;66H\u001b[K\u001b[42;11H\u001b[38;5;230m\u001b[48;5;241m⭠ master ⮁ index.wiki \u001b[m\u001b[94m\u001b[100m\u001b[38;5;241m\u001b[48;5;24m⮀\u001b[m\u001b[94m\u001b[100m\u001b[102C\u001b[38;5;24m\u001b[48;5;24m⮃\u001b[m\u001b[94m\u001b[100m\u001b[1C\u001b[38;5;109m\u001b[48;5;24munix ⮃ utf-8 ⮃ vimwiki \u001b[m\u001b[94m\u001b[100m\u001b[2C\u001b[38;5;109m\u001b[48;5;241m  5%\u001b[m\u001b[94m\u001b[100m\u001b[5C\u001b[38;5;24m\u001b[48;5;102m1:\u001b]2;index.wiki (~/Dropbox/wiki/text) - VIM\u0007"
+    ],
+    [
+      0.000870,
+      "\u001b[1;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.712886,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100m\r\u001b[38;5;146m\u001b[40m  6 \u001b[m\u001b[94m\u001b[100m=\u001b[1m\u001b[91m Core Dumped \u001b[m\u001b[94m\u001b[100m=                                                                \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[2;3H\u001b[38;5;146m\u001b[40m5 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[3;3H\u001b[38;5;146m\u001b[40m4 \u001b[m\u001b[94m\u001b[100mRandom collection and organization of thoughts and interests.                  \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[5;3H\u001b[38;5;146m\u001b[40m2 \u001b[m\u001b[94m\u001b[100mSome starting points.                                                          \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[6;3H\u001b[38;5;146m\u001b[40m1 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\r\n\u001b[93m7   \u001b[m\u001b[94m\u001b[100m\u001b[34m- \u001b[m\u001b[94m\u001b[100m\u001b[34m\u001b[40m[\u001b[m\u001b[94m\u001b[100m\u001b[95m[Scratchpad]\u001b[m\u001b[94m\u001b[100m\u001b[34m\u001b[40m]\u001b[m\u001b[94m\u001b[100m -- various temporary stuff.                                   \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[8;3H\u001b[38;5;146m\u001b[40m1 \u001b[m\u001b[94m\u001b[100m\u001b[34m- \u001b[m\u001b[94m\u001b[100m\u001b[95mWork Log\u001b[m\u001b[94m\u001b[100m --"
+    ],
+    [
+      0.000021,
+      " I work on many things.                                           \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[9;3H\u001b[38;5;146m\u001b[40m2 \u001b[m\u001b[94m\u001b[100m\u001b[34m- \u001b[m\u001b[94m\u001b[100m\u001b[95mSnippets\u001b[m\u001b[94m\u001b[100m -- Useful snippets.                                                 \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[10;3H\u001b[38;5;146m\u001b[40m3 \u001b[m\u001b[94m\u001b[100m\u001b[34m- \u001b[m\u001b[94m\u001b[100m\u001b[95mKnowledge References\u001b[m\u001b[94m\u001b[100m -- My main interests.                                   \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[11;2H\u001b[38;5;146m\u001b[40m 4 \u001b[m\u001b[94m\u001b[100m\u001b[34m- \u001b[m\u001b[94m\u001b[100m\u001b[95mTrouble Shooting\u001b[m\u001b[94m\u001b[100m -- I tend to run into bunch of troubles.                    \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[12;2H\u001b[38;5;146m\u001b[40m 5 \u001b[m\u001b[94m\u001b[100m\u001b[34m- \u001b[m\u001b[94m\u001b[100m\u001b[95mMy Questions\u001b[m\u001b[94m\u001b[100m -- I have many questions.                                       \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[13;2H\u001b[38;5;146m\u001b[40m 6 \u001b[m\u001b[94m\u001b[100m\u001b[34m- \u001b[m\u001b[94m\u001b[100m\u001b[95mAsked Questions\u001b[m\u001b[94m\u001b[100m -- I receive some questions. I intend to maintain them.      \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[14;2H\u001b[38;5;146m\u001b[40m 7 \u001b[m\u001b[94m\u001b[100m"
+    ],
+    [
+      0.002687,
+      "\u001b[34m- \u001b[m\u001b[94m\u001b[100m\u001b[95mStock Pattern\u001b[m\u001b[94m\u001b[100m                                                                \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[15;2H\u001b[38;5;146m\u001b[40m 8 \u001b[m\u001b[94m\u001b[100m\u001b[34m- \u001b[m\u001b[94m\u001b[100m\u001b[95mGraduate School\u001b[m\u001b[94m\u001b[100m                                                              \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[16;2H\u001b[38;5;146m\u001b[40m 9 \u001b[m\u001b[94m\u001b[100m\u001b[34m- \u001b[m\u001b[94m\u001b[100m\u001b[95mBooks\u001b[m\u001b[94m\u001b[100m                                                                        \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[17;3H\u001b[38;5;146m\u001b[40m0 \u001b[m\u001b[94m\u001b[100m\u001b[34m- \u001b[m\u001b[94m\u001b[100m\u001b[95mVideos\u001b[m\u001b[94m\u001b[100m                                                                       \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[18;3H\u001b[38;5;146m\u001b[40m1 \u001b[m\u001b[94m\u001b[100m\u001b[34m- \u001b[m\u001b[94m\u001b[100m\u001b[95mPapers\u001b[m\u001b[94m\u001b[100m                                                                       \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[19;3H\u001b[38;5;146m\u001b[40m2 \u001b[m\u001b[94m\u001b[100m\u001b[34m- \u001b[m\u001b[94m\u001b[100m\u001b[95mPersonal\u001b[m\u001b[94m\u001b[100m                                                                     \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[42;"
+    ],
+    [
+      0.000051,
+      "164H\u001b[38;5;109m\u001b[48;5;241m36%\u001b[m\u001b[94m\u001b[100m\u001b[5C\u001b[38;5;24m\u001b[48;5;102m7:3 \u001b[7;7H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.343680,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100m\u001b[43;166Hj\u001b[7;7H"
+    ],
+    [
+      0.004075,
+      "\u001b[43;166H  \u001b[8;7H\u001b[1;3H\u001b[38;5;146m\u001b[40m7 \u001b[m\u001b[94m\u001b[100m=\u001b[1m\u001b[91m Core Dumped \u001b[m\u001b[94m\u001b[100m=                                                                \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[2;3H\u001b[38;5;146m\u001b[40m6 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[3;3H\u001b[38;5;146m\u001b[40m5 \u001b[m\u001b[94m\u001b[100mRandom collection and organization of thoughts and interests.                  \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[4;3H\u001b[38;5;146m\u001b[40m4 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[5;3H\u001b[38;5;146m\u001b[40m3 \u001b[m\u001b[94m\u001b[100mSome starting points.                                                          \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[6;3H\u001b[38;5;146m\u001b[40m2 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\r\n\u001b[38;5;146m\u001b[40m  1 \u001b[m\u001b[94m\u001b[100m\u001b[34m- \u001b[m\u001b[94m\u001b[100m\u001b[95mScratchpad\u001b[m\u001b[94m\u001b[100m -- various temporary stuff.                                       \u001b[40m \u001b[m"
+    ],
+    [
+      0.000017,
+      "\u001b[94m\u001b[100m\r\n\u001b[93m8   \u001b[m\u001b[94m\u001b[100m\u001b[34m- \u001b[m\u001b[94m\u001b[100m\u001b[34m\u001b[40m[\u001b[m\u001b[94m\u001b[100m\u001b[95m[Work Log]\u001b[m\u001b[94m\u001b[100m\u001b[34m\u001b[40m]\u001b[m\u001b[94m\u001b[100m -- I work on many things.                                       \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[9;3H\u001b[38;5;146m\u001b[40m1 \u001b[m\u001b[94m\u001b[100m\u001b[34m- \u001b[m\u001b[94m\u001b[100m\u001b[95mSnippets\u001b[m\u001b[94m\u001b[100m -- Useful snippets.                                                 \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[10;3H\u001b[38;5;146m\u001b[40m2 \u001b[m\u001b[94m\u001b[100m\u001b[34m- \u001b[m\u001b[94m\u001b[100m\u001b[95mKnowledge References\u001b[m\u001b[94m\u001b[100m -- My main interests.                                   \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[11;3H\u001b[38;5;146m\u001b[40m3 \u001b[m\u001b[94m\u001b[100m\u001b[34m- \u001b[m\u001b[94m\u001b[100m\u001b[95mTrouble Shooting\u001b[m\u001b[94m\u001b[100m -- I tend to run into bunch of troubles.                    \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[12;3H\u001b[38;5;146m\u001b[40m4 \u001b[m\u001b[94m\u001b[100m\u001b[34m- \u001b[m\u001b[94m\u001b[100m\u001b[95mMy Questions\u001b[m\u001b[94m\u001b[100m -- I have many questions.                                       \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[13;3H\u001b[38;5;146m\u001b[40m5 \u001b[m\u001b[94m\u001b[100m\u001b[34m- \u001b[m\u001b[94m\u001b[100m\u001b[95mAsked Questions"
+    ],
+    [
+      0.003019,
+      "\u001b[m\u001b[94m\u001b[100m -- I receive some questions. I intend to maintain them.      \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[14;3H\u001b[38;5;146m\u001b[40m6 \u001b[m\u001b[94m\u001b[100m\u001b[34m- \u001b[m\u001b[94m\u001b[100m\u001b[95mStock Pattern\u001b[m\u001b[94m\u001b[100m                                                                \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[15;3H\u001b[38;5;146m\u001b[40m7 \u001b[m\u001b[94m\u001b[100m\u001b[34m- \u001b[m\u001b[94m\u001b[100m\u001b[95mGraduate School\u001b[m\u001b[94m\u001b[100m                                                              \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[16;3H\u001b[38;5;146m\u001b[40m8 \u001b[m\u001b[94m\u001b[100m\u001b[34m- \u001b[m\u001b[94m\u001b[100m\u001b[95mBooks\u001b[m\u001b[94m\u001b[100m                                                                        \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[17;2H\u001b[38;5;146m\u001b[40m 9 \u001b[m\u001b[94m\u001b[100m\u001b[34m- \u001b[m\u001b[94m\u001b[100m\u001b[95mVideos\u001b[m\u001b[94m\u001b[100m                                                                       \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[18;3H\u001b[38;5;146m\u001b[40m0 \u001b[m\u001b[94m\u001b[100m\u001b[34m- \u001b[m\u001b[94m\u001b[100m\u001b[95mPapers\u001b[m\u001b[94m\u001b[100m                                                                       \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[19;3H\u001b[38;5;146m\u001b[40m1 \u001b[m\u001b[94m\u001b[100m\u001b[34m- \u001b"
+    ],
+    [
+      0.000047,
+      "[m\u001b[94m\u001b[100m\u001b[95mPersonal\u001b[m\u001b[94m\u001b[100m                                                                     \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[42;164H\u001b[38;5;109m\u001b[48;5;241m42%\u001b[m\u001b[94m\u001b[100m\u001b[5C\u001b[38;5;24m\u001b[48;5;102m8:\u001b[8;7H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.988864,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100m\u001b[43;2HWork Log.wiki\" ,\u001b[43;17H\u001b[K"
+    ],
+    [
+      0.000259,
+      "\u001b[43;17H39L, 3082C"
+    ],
+    [
+      0.122229,
+      "\u001b[1;1H\u001b[93m1   \u001b[m\u001b[94m\u001b[100m=\u001b[1m\u001b[91m Work Log \u001b[m\u001b[94m\u001b[100m=                                                                   \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[2;3H\u001b[38;5;146m\u001b[40m1 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[3;3H\u001b[38;5;146m\u001b[40m2 \u001b[m\u001b[94m\u001b[100m\u001b[34m- \u001b[m\u001b[94m\u001b[100m\u001b[95mdiary:diary\u001b[m\u001b[94m\u001b[100m -- Wiki 1 diary                                                  \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[4;3H\u001b[38;5;146m\u001b[40m3 \u001b[m\u001b[94m\u001b[100m\u001b[34m- \u001b[m\u001b[94m\u001b[100m\u001b[95mStock Market Work Log\u001b[m\u001b[94m\u001b[100m -- Wiki 2 diary                                        \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[5;3H\u001b[38;5;146m\u001b[40m4 \u001b[m\u001b[94m\u001b[100m\u001b[34m- \u001b[m\u001b[94m\u001b[100m\u001b[95mDeep Learning Log\u001b[m\u001b[94m\u001b[100m -- Wiki 3 diary                                            \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[6;3H\u001b[38;5;146m\u001b[40m5 \u001b[m\u001b[94m\u001b[100m\u001b[34m- \u001b[m\u001b[94m\u001b[100m\u001b[95mPristones Work Log\u001b[m\u001b[94m\u001b[100m -- Wiki 4 diary                                           \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[7;3H\u001b[38;5;146m\u001b[40m6 \u001b[m\u001b[94m\u001b[10"
+    ],
+    [
+      0.000096,
+      "0m\u001b[34m- \u001b[m\u001b[94m\u001b[100m\u001b[95mLotte RecSys Log\u001b[m\u001b[94m\u001b[100m -- Wiki 5 diary                                             \u001b[40m \u001b[m\u001b[94m\u001b[100m\r\n\u001b[38;5;146m\u001b[40m  7 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[9;3H\u001b[38;5;146m\u001b[40m8 \u001b[m\u001b[94m\u001b[100m==\u001b[1m\u001b[91m 작업 기록 \u001b[m\u001b[94m\u001b[100m==                                                                \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[10;3H\u001b[38;5;146m\u001b[40m9 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[11;2H\u001b[38;5;146m\u001b[40m10 \u001b[m\u001b[94m\u001b[100m무슨 일이든 작업을 하면 관련된 내용을 남긴다. 연구의 문맥에서는 연구 노트이며 작업의 문맥에서는 작업 노트이다. 굳이 강력한 형식을 강제하지는 않고 그때그때 드는 생각, 나에게\u001b[12;2H\u001b[38;5;146m\u001b[40m11 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[13;2H"
+    ],
+    [
+      0.001281,
+      "\u001b[38;5;146m\u001b[40m12 \u001b[m\u001b[94m\u001b[100m\u001b[91m{{{\u001b[m\u001b[94m\u001b[100m                                                                            \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[14;2H\u001b[38;5;146m\u001b[40m13 \u001b[m\u001b[94m\u001b[100m\u001b[91m    2013-01-09 14:21:23\u001b[m\u001b[94m\u001b[100m                                                        \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[15;2H\u001b[38;5;146m\u001b[40m14 \u001b[m\u001b[94m\u001b[100m\u001b[91m    와 진현이가 디버깅 해줌 \u003e_\u003c\u001b[m\u001b[94m\u001b[100m                                                \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[16;2H\u001b[38;5;146m\u001b[40m15 \u001b[m\u001b[94m\u001b[100m\u001b[91m    2013-01-14 16:40:07\u001b[m\u001b[94m\u001b[100m                                                        \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[17;2H\u001b[38;5;146m\u001b[40m16 \u001b[m\u001b[94m\u001b[100m\u001b[91m    와 진현이가 또 버그 잡아줌\u001b[m\u001b[94m\u001b[100m                                                 \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[18;3H\u001b[38;5;146m\u001b[40m7 \u001b[m\u001b[94m\u001b[100m\u001b[91m}}}\u001b[m\u001b[94m\u001b[100m                                                                            \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[19;3H\u001b[38;5;146m\u001b[40m8 \u001b[m\u001b[94m\u001b[100m                        "
+    ],
+    [
+      0.000060,
+      "                                                       \u001b[40m \u001b[m\u001b[94m\u001b[100m\r\n\u001b[38;5;146m\u001b[40m 19 \u001b[m\u001b[94m\u001b[100m현재는 만족할만한 시스템이 구축되지 않았기에 더 잘할 수 있을 만한 부분이 많이 있다. 당연한 이야기이지만 비정형 데이터는 나중에 살펴보기 힘들다. 하지만 일단 가장 기초가 되는\u001b[21;1H\u001b[38;5;146m\u001b[40m 20 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\r\n\u001b[38;5;146m\u001b[40m 21 \u001b[m\u001b[94m\u001b[100m\u001b[91m{{{\u001b[m\u001b[94m\u001b[100m                                                                            \u001b[40m \u001b[m\u001b[94m\u001b[100m\r\n\u001b[38;5;146m\u001b[40m 22 \u001b[m\u001b[94m\u001b[100m\u001b[91m    2014-07-03 14:32:37\u001b[m\u001b[94m\u001b[100m                                                        \u001b[40m \u001b[m\u001b[94m\u001b[100m\r\n\u001b[38;5;146m\u001b[40m 23 \u001b[m\u001b[94m\u001b[100m\u001b[91m    shared memory 용량이 부족하다고 생각하고 있었는데, 각각의 reduction을 위해 \u001b[m\u001b[94m\u001b[100m\u001b[91m\u001b[40m값\u001b[m\u001b[94m\u001b[100m\u001b[91m마다 따로 shared memory"
+    ],
+    [
+      0.002446,
+      "를 할당할 필요가 없을 것 같다.\u001b[m\u001b[94m\u001b[100m\r\n\u001b[38;5;146m\u001b[40m 24 \u001b[m\u001b[94m\u001b[100m\u001b[91m    가령 [...] 을 계산하는 부분을 생각해보자.\u001b[m\u001b[94m\u001b[100m                                  \u001b[40m \u001b[m\u001b[94m\u001b[100m\r\n\u001b[38;5;146m\u001b[40m 25 \u001b[m\u001b[94m\u001b[100m\u001b[91m    [...]\u001b[m\u001b[94m\u001b[100m                                                                      \u001b[40m \u001b[m\u001b[94m\u001b[100m\r\n\u001b[38;5;146m\u001b[40m 26 \u001b[m\u001b[94m\u001b[100m\u001b[91m    [...] 결국 reduction을 위한 공간은 획기적으로 줄일 수 있을 것 같다.\u001b[m\u001b[94m\u001b[100m        \u001b[40m \u001b[m\u001b[94m\u001b[100m\r\n\u001b[38;5;146m\u001b[40m 27 \u001b[m\u001b[94m\u001b[100m\u001b[91m}}}\u001b[m\u001b[94m\u001b[100m                                                                            \u001b[40m \u001b[m\u001b[94m\u001b[100m\r\n\u001b[38;5;146m\u001b[40m 28 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\r\n\u001b[38;5;146m\u001b[40m 29 \u001b[m\u001b[94m\u001b[100m연구자로서 나중에 논문을 작성할 때 이런 기록은 모두 도움이 될 여지가 있다. 개발\u001b[40m자\u001b[m\u001b[94m\u001b[100m로서 나\ufffd"
+    ],
+    [
+      0.000027,
+      "\ufffd\ufffd에 선택을 재고할 상황이 왔을 때 이 또한 쓸모 있는 정보가 된다. 보통은 선택의 원인\u003e\u001b[31;1H\u001b[38;5;146m\u001b[40m 30 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\r\n\u001b[38;5;146m\u001b[40m 31 \u001b[m\u001b[94m\u001b[100m===\u001b[1m\u001b[91m 규칙 \u001b[m\u001b[94m\u001b[100m===                                                                   \u001b[40m \u001b[m\u001b[94m\u001b[100m\r\n\u001b[38;5;146m\u001b[40m 32 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\r\n\u001b[38;5;146m\u001b[40m 33 \u001b[m\u001b[94m\u001b[100mTimestamp 등은 당연히 남겨야 한다.                                             \u001b[40m \u001b[m\u001b[94m\u001b[100m\r\n\u001b[38;5;146m\u001b[40m 34 \u001b[m\u001b[94m\u001b[100m중요한 부분은 선택의 기로에서 어떤 대안이 있었으며 어떤 선택을 왜 하였는지를 기\u001b[40m록\u001b[m\u001b[94m\u001b[100m으로 남기는 것이다.\r\n\u001b[38;5;146m\u001b[40m 35 \u001b[m\u001b[94m\u001b[100m이와 관련된 내용은 \u001b[95mA Record of reStructuredText Syntax Alternatives "
+    ],
+    [
+      0.001791,
+      "— Romantic \u001b[m\u001b[94m\u001b[100m\u001b[95m\u001b[40mB\u001b[m\u001b[94m\u001b[100m\u001b[95minaries\u001b[m\u001b[94m\u001b[100m에서 읽어볼 수 있다.\r\n\u001b[38;5;146m\u001b[40m 36 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\r\n\u001b[38;5;146m\u001b[40m 37 \u001b[m\u001b[94m\u001b[100m문서 구조도 고민해봐야 한다. 가령 tag 지원을 하면 좋을 것 같은데, (가령 대안을 \u001b[40m나\u001b[m\u001b[94m\u001b[100m열하는 곳에는 @alternative 등으로) 좋은 방법인지는 모르겠다.\r\n\u001b[38;5;146m\u001b[40m 38 \u001b[m\u001b[94m\u001b[100m설명 자체는 자세하게 쓰는 것이 좋다. 현재 무슨 일을 하고 있으며 왜 하고 있는지 \u001b[40m등\u001b[m\u001b[94m\u001b[100m이 남아 있어야 나중에 더 유용하다.\u001b[42;22H\u001b[38;5;230m\u001b[48;5;241mWork Log.wiki \u001b[m\u001b[94m\u001b[100m\u001b[38;5;241m\u001b[48;5;24m⮀\u001b[m\u001b[94m\u001b[100m\u001b[127C\u001b[38;5;109m\u001b[48;5;241m 2\u001b[m\u001b[94m\u001b[100m\u001b[6C\u001b[38;5;24m\u001b[48;5;102m1:1 \u001b]2;Work Log.wiki (~/Dropbox/wiki/text) - VIM\u0007"
+    ],
+    [
+      0.001100,
+      "\u001b[1;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      2.853113,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100m\u001b[43;166H4\u001b[1;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.221521,
+      "\u001b[?25l\u001b[43;167H,\u001b[1;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.176732,
+      "\u001b[?25l\u001b[43;167H  \u001b[1;5H\u001b[43;167H,\u001b[1;5H\u001b[43;168Hw\u001b[1;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.184033,
+      "\u001b[?25l\u001b[43;167H   \u001b[1;5H"
+    ],
+    [
+      0.010988,
+      "\u001b[43;2Hpristones.wiki\" 9\u001b[43;18H\u001b[K"
+    ],
+    [
+      0.000613,
+      "\u001b[43;18H15L, 406C"
+    ],
+    [
+      0.125646,
+      "\u001b[1;5H\u001b[2C\u001b[1m\u001b[91mPristones Log \u001b[m\u001b[94m\u001b[100m=                                                              \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[3;5H==\u001b[1m\u001b[91m 2015 \u001b[m\u001b[94m\u001b[100m==                                                                     \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[4;5H                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[5;5H===\u001b[1m\u001b[91m April \u001b[m\u001b[94m\u001b[100m===                                                                  \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[6;5H\u001b[34m    * \u001b[m\u001b[94m\u001b[100m\u001b[95mDB migration 2015-04-20\u001b[m\u001b[94m\u001b[100m                                                  \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[7;5H\u001b[34m    * \u001b[m\u001b[94m\u001b[100m\u001b[95mDB Migration 2015-04-13\u001b[m\u001b[94m\u001b[100m                                                  \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[8;5H\u001b[34m    * \u001b[m\u001b[94m\u001b[100m\u001b[95mDB Migration 2015-04-06\u001b[m\u001b[94m\u001b[100m                                                  \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[9;5H\u001b[34m    * \u001b[m\u001b[94m\u001b[100m\u001b[95mPandas + GA 2015-04-01\u001b[m\u001b[94m\u001b[100m                                "
+    ],
+    [
+      0.000062,
+      "                   \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[11;5H===\u001b[1m\u001b[91m March \u001b[m\u001b[94m\u001b[100m===                                                                  \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[11;85H\u001b[K\u001b[12;5H\u001b[34m    * \u001b[m\u001b[94m\u001b[100m\u001b[95mDB Migration 2015-03-30\u001b[m\u001b[94m\u001b[100m                                                  \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[13;5H\u001b[34m    * \u001b[m\u001b[94m\u001b[100m\u001b[95mElastic Search, DB Migration, Unicode Error 2015-03-18\u001b[m\u001b[94m\u001b[100m                   \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[14;5H\u001b[34m    * \u001b[m\u001b[94m\u001b[100m\u001b[95mDB Migration 2015-03-16\u001b[m\u001b[94m\u001b[100m                                                  \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[15;5H                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[16;2H\u001b[K\u001b[16;1H~\u001b[17;2H\u001b[K\u001b[17;1H~\u001b[18;2H\u001b[K\u001b[18;1H~\u001b[19;2H\u001b[K\u001b[19;1H~\u001b[20;2H\u001b[K\u001b[20;1H~\u001b[21;2H\u001b[K\u001b[21;1H~\u001b[22;2H\u001b[K\u001b[22;1H~\u001b[23;2H\u001b[K\u001b[23;1H~\u001b[24;2H\u001b[K\u001b[24;1H~\u001b[25;2H\u001b[K\u001b[25;1H~\u001b[26;2H\u001b[K\u001b[26;1H~\u001b[27;2H\u001b[K\u001b[27;1H~\u001b[28;2H\u001b[K\u001b[28;1H~\u001b[29;2H\u001b[K\u001b[29;1H~\u001b[30;2H\u001b[K\u001b[30;1H~\u001b[31;2H\u001b[K\u001b[31;1H~"
+    ],
+    [
+      0.001010,
+      "\u001b[32;2H\u001b[K\u001b[32;1H~\u001b[33;2H\u001b[K\u001b[33;1H~\u001b[34;2H\u001b[K\u001b[34;1H~\u001b[35;2H\u001b[K\u001b[35;1H~\u001b[36;2H\u001b[K\u001b[36;1H~\u001b[37;2H\u001b[K\u001b[37;1H~\u001b[38;2H\u001b[K\u001b[38;1H~\u001b[39;2H\u001b[K\u001b[39;1H~\u001b[42;22H\u001b[38;5;230m\u001b[48;5;241mpristones.wiki \u001b[m\u001b[94m\u001b[100m\u001b[38;5;109m\u001b[48;5;24m \u001b[m\u001b[94m\u001b[100m\u0008\u001b[38;5;241m\u001b[48;5;24m⮀\u001b[m\u001b[94m\u001b[100m\u001b[127C\u001b[38;5;109m\u001b[48;5;241m6%\u001b]2;pristones.wiki (~/Dropbox/wiki/text/pristoneslog) - VIM\u0007"
+    ],
+    [
+      0.001424,
+      "\u001b[1;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      4.126601,
+      "\u001b[?25l\u001b[1;5H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[m\u001b[94m\u001b[100m\u001b[43;166H,\u001b[1;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029523,
+      "\u001b[?25l\u001b[43;166H  \u001b[1;5H\u001b[43;166H,\u001b[1;5H\u001b[43;167Hw\u001b[1;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.121118,
+      "\u001b[?25l\u001b[43;166H   \u001b[1;5H\u001b[43;166H,\u001b[1;5H\u001b[43;167Hw\u001b[1;5H\u001b[43;168H,\u001b[1;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.198472,
+      "\u001b[?25l\u001b[43;166H    \u001b[1;5H"
+    ],
+    [
+      0.002292,
+      "\u001b[43;2H2015-05-06.wiki\" [New File]"
+    ],
+    [
+      0.124083,
+      "\u001b[1;5H                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[2;2H\u001b[K\u001b[2;1H~\u001b[3;2H\u001b[K\u001b[3;1H~\u001b[4;2H\u001b[K\u001b[4;1H~\u001b[5;2H\u001b[K\u001b[5;1H~\u001b[6;2H\u001b[K\u001b[6;1H~\u001b[7;2H\u001b[K\u001b[7;1H~\u001b[8;2H\u001b[K\u001b[8;1H~\u001b[9;2H\u001b[K\u001b[9;1H~\u001b[10;2H\u001b[K\u001b[10;1H~\u001b[11;2H\u001b[K\u001b[11;1H~\u001b[12;2H\u001b[K\u001b[12;1H~\u001b[13;2H\u001b[K\u001b[13;1H~\u001b[14;2H\u001b[K\u001b[14;1H~\u001b[15;2H\u001b[K\u001b[15;1H~\u001b[42;22H\u001b[38;5;230m\u001b[48;5;241m2015-05-06.wiki \u001b[m\u001b[94m\u001b[100m\u001b[38;5;109m\u001b[48;5;24m \u001b[m\u001b[94m\u001b[100m\u0008\u001b[38;5;241m\u001b[48;5;24m⮀\u001b[m\u001b[94m\u001b[100m\u001b[124C\u001b[38;5;109m\u001b[48;5;241m100%\u001b[m\u001b[94m\u001b[100m\u001b[5C\u001b[38;5;24m\u001b[48;5;102m0:\u001b]2;2015-05-06.wiki (~/Dropbox/wiki/text/pristoneslog) - VIM\u0007"
+    ],
+    [
+      0.001213,
+      "\u001b[1;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.312778,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100m\u001b[43;166Hi\u001b[1;5H"
+    ],
+    [
+      0.018469,
+      "\u001b[43;166H  \u001b[1;5H"
+    ],
+    [
+      0.000017,
+      "\u001b[43;1H\u001b[34m--\u001b[m\u001b[94m\u001b[100m0\u0008\u001b[34m INSERT\u001b[m\u001b[94m\u001b[100m0\u0008\u001b[34m --\u001b[m\u001b[94m\u001b[100mw\u001b[43;13H\u001b[K"
+    ],
+    [
+      0.005481,
+      "\u001b[42;1H\u001b[38;5;230m\u001b[48;5;100m INSERT \u001b[m\u001b[94m\u001b[100m\u001b[38;5;100m\u001b[48;5;241m⮀\u001b[m\u001b[94m\u001b[100m\u001b[38;5;230m\u001b[48;5;241m \u001b[1;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.511659,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100mt                                                                              \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[42;38H\u001b[38;5;230m\u001b[48;5;241m⮁ + \u001b[m\u001b[94m\u001b[100m\u001b[38;5;241m\u001b[48;5;24m⮀\u001b[m\u001b[94m\u001b[100m\u001b[129C\u001b[38;5;24m\u001b[48;5;102m1:2 "
+    ],
+    [
+      0.006431,
+      "\u001b]2;2015-05-06.wiki + (~/Dropbox/wiki/text/pristoneslog) - VIM\u0007"
+    ],
+    [
+      0.001630,
+      "\u001b[1;6H\u001b[m\u001b[94m\u001b[100m\u001b[43;1H\u001b[K"
+    ],
+    [
+      0.001037,
+      "\u001b[43;1H\u001b[34m-- INSERT --\u001b[1;6H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.010206,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100mo                                                                             \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[42;174H\u001b[38;5;24m\u001b[48;5;102m3 \u001b[1;7H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.128885,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100md                                                                            \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[42;174H\u001b[38;5;24m\u001b[48;5;102m4 \u001b[1;8H"
+    ],
+    [
+      0.001272,
+      "\u001b[m\u001b[94m\u001b[100m\u0008\u0008\u0008TODO                                                                           \u001b[40m \u001b[m\u001b[94m\u001b[100m\r\n~  \u001b[33m\u001b[40m TODO [S]       \u001b[m\u001b[94m\u001b[100m\u001b[2;4H\u001b[K\u001b[2;4H\u001b[33m\u001b[40m TODO [S]       \u001b[1;9H"
+    ],
+    [
+      0.000039,
+      "\u001b[m\u001b[94m\u001b[100m\u001b[43;4H\u001b[34mUser defined completion (^U^N^P)"
+    ],
+    [
+      0.000090,
+      "\u001b[m\u001b[94m\u001b[100m\u001b[1;5Htod                                                                            \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[2;4H\u001b[K\u001b[2;4H\u001b[33m\u001b[40m TODO [S]       "
+    ],
+    [
+      0.000065,
+      "\u001b[m\u001b[94m\u001b[100m\u001b[43;36H\u001b[34m \u001b[m\u001b[94m\u001b[100m\u001b[1m\u001b[31mBack at original\u001b[1;8H\u001b[m\u001b[94m\u001b[100m\r\n~  \u001b[32m\u001b[40m TODO\u001b[m\u001b[94m\u001b[100m\u001b[33m\u001b[40m \u001b[m\u001b[94m\u001b[100m\u0008\u001b[32m\u001b[40m [S]\u001b[m\u001b[94m\u001b[100m\u001b[33m\u001b[40m \u001b[m\u001b[94m\u001b[100m\u0008\u001b[32m\u001b[40m       \u001b[1;8H"
+    ],
+    [
+      0.000016,
+      "\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.068049,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100ma                                                                           \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[2;4H\u001b[K"
+    ],
+    [
+      0.007800,
+      "\u001b[42;174H\u001b[38;5;24m\u001b[48;5;102m5 \u001b[1;9H\u001b[m\u001b[94m\u001b[100m\u001b[43;1H\u001b[K"
+    ],
+    [
+      0.001103,
+      "\u001b[43;1H\u001b[34m-- INSERT --\u001b[1;9H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.047219,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100my                                                                          \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[42;174H\u001b[38;5;24m\u001b[48;5;102m6 \u001b[1;10H\u001b[m\u001b[94m\u001b[100m\u001b[43;1H\u001b[K"
+    ],
+    [
+      0.001848,
+      "\u001b[43;1H\u001b[34m-- INSERT --\u001b[1;10H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.759099,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100m'                                                                         \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[42;174H\u001b[38;5;24m\u001b[48;5;102m7 \u001b[1;11H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.104518,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100ms                                                                        \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[42;174H\u001b[38;5;24m\u001b[48;5;102m8 \u001b[1;12H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.136659,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100m\u001b[1m\u001b[93m\u001b[40m·\u001b[m\u001b[94m\u001b[100m                                                                       \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[42;174H\u001b[38;5;24m\u001b[48;5;102m9 \u001b[1;13H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.032793,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100m\u0008 l                                                                      \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[42;174H\u001b[38;5;24m\u001b[48;5;102m10\u001b[1;14H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.175472,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100mo                                                                     \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[42;175H\u001b[38;5;24m\u001b[48;5;102m1 \u001b[1;15H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.058897,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100mg                                                                    \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[42;175H\u001b[38;5;24m\u001b[48;5;102m2 \u001b[1;16H\u001b[m\u001b[94m\u001b[100m\u001b[43;1H\u001b[K"
+    ],
+    [
+      0.001094,
+      "\u001b[43;1H\u001b[34m-- INSERT --\u001b[1;16H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.498462,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100m\u001b[1m\u001b[93m\u001b[40m·\u001b[m\u001b[94m\u001b[100m                                                                   \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[42;175H\u001b[38;5;24m\u001b[48;5;102m3 \u001b[1;17H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.168429,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100m\u0008 ;                                                                  \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[42;175H\u001b[38;5;24m\u001b[48;5;102m4 \u001b[1;18H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.064040,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100md                                                                 \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[42;175H\u001b[38;5;24m\u001b[48;5;102m5 \u001b[1;19H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.097396,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100ma                                                                \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[42;175H\u001b[38;5;24m\u001b[48;5;102m6 \u001b[1;20H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.084706,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100mt                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[42;175H\u001b[38;5;24m\u001b[48;5;102m7 \u001b[1;21H\u001b[m\u001b[94m\u001b[100m\u001b[43;1H\u001b[K"
+    ],
+    [
+      0.001123,
+      "\u001b[43;1H\u001b[34m-- INSERT --\u001b[1;21H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.064003,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100m\u0008\u0008\u0008\u0008\u0008\u001b[1m\u001b[93m\u001b[40m·\u001b[m\u001b[94m\u001b[100m                                                                   \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[42;175H\u001b[38;5;24m\u001b[48;5;102m3 \u001b[1;17H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.035600,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100m\u0008 2015-05-06                                                         \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[42;174H\u001b[38;5;24m\u001b[48;5;102m23\u001b[1;27H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.536446,
+      "\u001b[m\u001b[94m\u001b[100m\u001b[43;1H\u001b[K\u001b[1;26H\u001b[?25l\u001b[43;166H^[\u001b[1;26H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.241839,
+      "\u001b[?25l\u001b[43;166H   \u001b[1;27H"
+    ],
+    [
+      0.006094,
+      "\u001b[42;1H\u001b[38;5;230m\u001b[48;5;32m NORMAL \u001b[m\u001b[94m\u001b[100m\u001b[38;5;32m\u001b[48;5;241m⮀\u001b[m\u001b[94m\u001b[100m\u001b[38;5;230m\u001b[48;5;241m \u001b[m\u001b[94m\u001b[100m\u001b[164C\u001b[38;5;24m\u001b[48;5;102m2 \u001b[1;26H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[m\u001b[94m\u001b[100m\u001b[43;166H=\u001b[1;26H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.257586,
+      "\u001b[?25l\u001b[43;166H  \u001b[1;26H"
+    ],
+    [
+      0.003631,
+      "\u001b[1;5H=\u001b[1m\u001b[91m today's log 2015-05-06 \u001b[m\u001b[94m\u001b[100m=                                                     \u001b[40m \u001b[1;26H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[43;1H\u001b[m\u001b[94m\u001b[100m:"
+    ],
+    [
+      0.000007,
+      "call vimwiki#lst#kbd_oO('o')\r"
+    ],
+    [
+      0.004248,
+      "\u001b[34m--\u001b[m\u001b[94m\u001b[100ma\u0008\u001b[34m INSERT\u001b[m\u001b[94m\u001b[100mw\u0008\u001b[34m --\u001b[m\u001b[94m\u001b[100mi\u001b[43;13H\u001b[K"
+    ],
+    [
+      0.004634,
+      "\u001b[1;1H\u001b[38;5;146m\u001b[40m  1 \u001b[m\u001b[94m\u001b[100m=\u001b[1m\u001b[91m today's log 2015-05-06 \u001b[m\u001b[94m\u001b[100m=                                                     \u001b[40m \u001b[m\u001b[94m\u001b[100m\r\n\u001b[93m2   \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[42;1H\u001b[38;5;230m\u001b[48;5;100m INSERT \u001b[m\u001b[94m\u001b[100m\u001b[38;5;100m\u001b[48;5;241m⮀\u001b[m\u001b[94m\u001b[100m\u001b[38;5;230m\u001b[48;5;241m \u001b[m\u001b[94m\u001b[100m\u001b[161C\u001b[38;5;24m\u001b[48;5;102m2:1  \u001b[2;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.095521,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100m\u001b[1;3H\u001b[38;5;146m\u001b[40m2 \u001b[m\u001b[94m\u001b[100m=\u001b[1m\u001b[91m today's log 2015-05-06 \u001b[m\u001b[94m\u001b[100m=                                                     \u001b[40m \u001b[m\u001b[94m\u001b[100m\r\n\u001b[38;5;146m\u001b[40m  1 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\r\n\u001b[93m3   \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[42;172H\u001b[38;5;24m\u001b[48;5;102m3:\u001b[3;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.993036,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100m;                                                                              \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[42;174H\u001b[38;5;24m\u001b[48;5;102m2 \u001b[3;6H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.079873,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100md                                                                             \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[42;174H\u001b[38;5;24m\u001b[48;5;102m3 \u001b[3;7H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.081002,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100m\u0008\u0008                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[42;174H\u001b[38;5;24m\u001b[48;5;102m1 \u001b[3;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.083388,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100m2015-05-06 15:40:41                                                            \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[42;174H\u001b[38;5;24m\u001b[48;5;102m20\u001b[3;24H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.490954,
+      "\u001b[m\u001b[94m\u001b[100m\u001b[43;1H\u001b[K\u001b[3;23H\u001b[?25l\u001b[43;166H^[\u001b[3;23H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.124070,
+      "\u001b[?25l\u001b[43;166H   \u001b[3;24H"
+    ],
+    [
+      0.005405,
+      "\u001b[42;1H\u001b[38;5;230m\u001b[48;5;32m NORMAL \u001b[m\u001b[94m\u001b[100m\u001b[38;5;32m\u001b[48;5;241m⮀\u001b[m\u001b[94m\u001b[100m\u001b[38;5;230m\u001b[48;5;241m \u001b[m\u001b[94m\u001b[100m\u001b[163C\u001b[38;5;24m\u001b[48;5;102m19 \u001b[3;23H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[m\u001b[94m\u001b[100m\u001b[43;166H=\u001b[3;23H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.162646,
+      "\u001b[?25l\u001b[43;166H  \u001b[3;23H"
+    ],
+    [
+      0.003627,
+      "\u001b[3;5H=\u001b[1m\u001b[91m 2015-05-06 15:40:41 \u001b[m\u001b[94m\u001b[100m=                                                        \u001b[40m \u001b[3;23H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[m\u001b[94m\u001b[100m\u001b[43;166H=\u001b[3;23H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.579597,
+      "\u001b[?25l\u001b[43;166H  \u001b[3;23H"
+    ],
+    [
+      0.002231,
+      "\u001b[3;6H=\u001b[1m\u001b[91m 2015-05-06 15:40:41 \u001b[m\u001b[94m\u001b[100m==                                                      \u001b[40m \u001b[3;23H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[43;1H\u001b[m\u001b[94m\u001b[100m:"
+    ],
+    [
+      0.000014,
+      "call vimwiki#lst#kbd_oO('o')\r"
+    ],
+    [
+      0.001558,
+      "\u001b[34m--\u001b[m\u001b[94m\u001b[100ma\u0008\u001b[34m INSERT\u001b[m\u001b[94m\u001b[100mw\u0008\u001b[34m --\u001b[m\u001b[94m\u001b[100mi\u001b[43;13H\u001b[K"
+    ],
+    [
+      0.004761,
+      "\u001b[1;3H\u001b[38;5;146m\u001b[40m3 \u001b[m\u001b[94m\u001b[100m=\u001b[1m\u001b[91m today's log 2015-05-06 \u001b[m\u001b[94m\u001b[100m=                                                     \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[2;3H\u001b[38;5;146m\u001b[40m2 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\r\n\u001b[38;5;146m\u001b[40m  1 \u001b[m\u001b[94m\u001b[100m==\u001b[1m\u001b[91m 2015-05-06 15:40:41 \u001b[m\u001b[94m\u001b[100m==                                                      \u001b[40m \u001b[m\u001b[94m\u001b[100m\r\n\u001b[93m4   \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[42;1H\u001b[38;5;230m\u001b[48;5;100m INSERT \u001b[m\u001b[94m\u001b[100m\u001b[38;5;100m\u001b[48;5;241m⮀\u001b[m\u001b[94m\u001b[100m\u001b[38;5;230m\u001b[48;5;241m \u001b[m\u001b[94m\u001b[100m\u001b[161C\u001b[38;5;24m\u001b[48;5;102m4:1  \u001b[4;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.066413,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100m\u001b[1;3H\u001b[38;5;146m\u001b[40m4 \u001b[m\u001b[94m\u001b[100m=\u001b[1m\u001b[91m today's log 2015-05-06 \u001b[m\u001b[94m\u001b[100m=                                                     \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[2;3H\u001b[38;5;146m\u001b[40m3 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[3;3H\u001b[38;5;146m\u001b[40m2 \u001b[m\u001b[94m\u001b[100m==\u001b[1m\u001b[91m 2015-05-06 15:40:41 \u001b[m\u001b[94m\u001b[100m==                                                      \u001b[40m \u001b[m\u001b[94m\u001b[100m\r\n\u001b[38;5;146m\u001b[40m  1 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\r\n\u001b[93m5   \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[42;172H\u001b[38;5;24m\u001b[48;5;102m5:\u001b[5;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.488615,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100mS                                                                              \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[42;174H\u001b[38;5;24m\u001b[48;5;102m2 \u001b[5;6H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.087900,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100mo                                                                             \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[42;174H\u001b[38;5;24m\u001b[48;5;102m3 \u001b[5;7H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.067984,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100mm                                                                            \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[42;174H\u001b[38;5;24m\u001b[48;5;102m4 \u001b[5;8H\u001b[m\u001b[94m\u001b[100m\u001b[43;1H\u001b[K"
+    ],
+    [
+      0.001762,
+      "\u001b[43;1H\u001b[34m-- INSERT --\u001b[5;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.061579,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100me                                                                           \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[42;174H\u001b[38;5;24m\u001b[48;5;102m5 \u001b[5;9H\u001b[m\u001b[94m\u001b[100m\u001b[43;1H\u001b[K"
+    ],
+    [
+      0.001627,
+      "\u001b[43;1H\u001b[34m-- INSERT --\u001b[5;9H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.178732,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100m\u001b[1m\u001b[93m\u001b[40m·\u001b[m\u001b[94m\u001b[100m                                                                          \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[42;174H\u001b[38;5;24m\u001b[48;5;102m6 \u001b[5;10H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.528224,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100m\u0008 s                                                                         \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[42;174H\u001b[38;5;24m\u001b[48;5;102m7 \u001b[5;11H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.096143,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100ms                                                                        \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[42;174H\u001b[38;5;24m\u001b[48;5;102m8 \u001b[5;12H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.083975,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100mt                                                                       \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[42;174H\u001b[38;5;24m\u001b[48;5;102m9 \u001b[5;13H\u001b[m\u001b[94m\u001b[100m\u001b[43;1H\u001b[K"
+    ],
+    [
+      0.001663,
+      "\u001b[43;1H\u001b[34m-- INSERT --\u001b[5;13H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.125125,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100mu                                                                      \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[42;174H\u001b[38;5;24m\u001b[48;5;102m10\u001b[5;14H\u001b[m\u001b[94m\u001b[100m\u001b[43;1H\u001b[K"
+    ],
+    [
+      0.001573,
+      "\u001b[43;1H\u001b[34m-- INSERT --\u001b[5;14H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.246881,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100m\u0008                                                                       \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[42;174H\u001b[38;5;24m\u001b[48;5;102m9  \u001b[5;13H\u001b[m\u001b[94m\u001b[100m\u001b[43;1H\u001b[K"
+    ],
+    [
+      0.001551,
+      "\u001b[43;1H\u001b[34m-- INSERT --\u001b[5;13H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.131512,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100m\u0008                                                                        \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[42;174H\u001b[38;5;24m\u001b[48;5;102m8 \u001b[5;12H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.159954,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100m\u0008                                                                         \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[42;174H\u001b[38;5;24m\u001b[48;5;102m7 \u001b[5;11H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.207704,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100mt                                                                        \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[42;174H\u001b[38;5;24m\u001b[48;5;102m8 \u001b[5;12H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.107332,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100mu                                                                       \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[42;174H\u001b[38;5;24m\u001b[48;5;102m9 \u001b[5;13H\u001b[m\u001b[94m\u001b[100m\u001b[43;1H\u001b[K"
+    ],
+    [
+      0.001698,
+      "\u001b[43;1H\u001b[34m-- INSERT --\u001b[5;13H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.110115,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100mf                                                                      \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[42;174H\u001b[38;5;24m\u001b[48;5;102m10\u001b[5;14H\u001b[m\u001b[94m\u001b[100m\u001b[43;1H\u001b[K"
+    ],
+    [
+      0.001577,
+      "\u001b[43;1H\u001b[34m-- INSERT --\u001b[5;14H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.152020,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100mf                                                                     \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[42;175H\u001b[38;5;24m\u001b[48;5;102m1 \u001b[5;15H\u001b[m\u001b[94m\u001b[100m\u001b[43;1H\u001b[K"
+    ],
+    [
+      0.001966,
+      "\u001b[43;1H\u001b[34m-- INSERT --\u001b[5;15H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.217450,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100m.                                                                    \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[42;175H\u001b[38;5;24m\u001b[48;5;102m2 \u001b[5;16H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.137350,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100m.                                                                   \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[42;175H\u001b[38;5;24m\u001b[48;5;102m3 \u001b[5;17H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.158499,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100m.                                                                  \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[42;175H\u001b[38;5;24m\u001b[48;5;102m4 \u001b[5;18H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.143852,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100m.                                                                 \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[42;175H\u001b[38;5;24m\u001b[48;5;102m5 \u001b[5;19H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.279843,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100m\u001b[1;3H\u001b[38;5;146m\u001b[40m5 \u001b[m\u001b[94m\u001b[100m=\u001b[1m\u001b[91m today's log 2015-05-06 \u001b[m\u001b[94m\u001b[100m=                                                     \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[2;3H\u001b[38;5;146m\u001b[40m4 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[3;3H\u001b[38;5;146m\u001b[40m3 \u001b[m\u001b[94m\u001b[100m==\u001b[1m\u001b[91m 2015-05-06 15:40:41 \u001b[m\u001b[94m\u001b[100m==                                                      \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[4;3H\u001b[38;5;146m\u001b[40m2 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\r\n\u001b[38;5;146m\u001b[40m  1 \u001b[m\u001b[94m\u001b[100mSome stuff....                                                                 \u001b[40m \u001b[m\u001b[94m\u001b[100m\r\n\u001b[93m6   \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[42;172H\u001b[38;5;24m\u001b[48;5;102m6:1  \u001b[6;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.166173,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100m\u001b[1;3H\u001b[38;5;146m\u001b[40m6 \u001b[m\u001b[94m\u001b[100m=\u001b[1m\u001b[91m today's log 2015-05-06 \u001b[m\u001b[94m\u001b[100m=                                                     \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[2;3H\u001b[38;5;146m\u001b[40m5 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[3;3H\u001b[38;5;146m\u001b[40m4 \u001b[m\u001b[94m\u001b[100m==\u001b[1m\u001b[91m 2015-05-06 15:40:41 \u001b[m\u001b[94m\u001b[100m==                                                      \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[4;3H\u001b[38;5;146m\u001b[40m3 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[5;3H\u001b[38;5;146m\u001b[40m2 \u001b[m\u001b[94m\u001b[100mSome stuff....                                                                 \u001b[40m \u001b[m\u001b[94m\u001b[100m\r\n\u001b[38;5;146m\u001b[40m  1 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\r\n\u001b[93m7   \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[42;172H\u001b[38;"
+    ],
+    [
+      0.000008,
+      "5;24m\u001b[48;5;102m7:\u001b[7;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.121914,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100m\u001b[1;3H\u001b[38;5;146m\u001b[40m7 \u001b[m\u001b[94m\u001b[100m=\u001b[1m\u001b[91m today's log 2015-05-06 \u001b[m\u001b[94m\u001b[100m=                                                     \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[2;3H\u001b[38;5;146m\u001b[40m6 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[3;3H\u001b[38;5;146m\u001b[40m5 \u001b[m\u001b[94m\u001b[100m==\u001b[1m\u001b[91m 2015-05-06 15:40:41 \u001b[m\u001b[94m\u001b[100m==                                                      \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[4;3H\u001b[38;5;146m\u001b[40m4 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[5;3H\u001b[38;5;146m\u001b[40m3 \u001b[m\u001b[94m\u001b[100mSome stuff....                                                                 \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[6;3H\u001b[38;5;146m\u001b[40m2 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\r\n\u001b[38;5;146m\u001b[40m  1 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\r"
+    ],
+    [
+      0.000011,
+      "\n\u001b[93m8   \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[42;172H\u001b[38;5;24m\u001b[48;5;102m8:\u001b[8;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.224031,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100m\u001b[1;3H\u001b[38;5;146m\u001b[40m8 \u001b[m\u001b[94m\u001b[100m=\u001b[1m\u001b[91m today's log 2015-05-06 \u001b[m\u001b[94m\u001b[100m=                                                     \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[2;3H\u001b[38;5;146m\u001b[40m7 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[3;3H\u001b[38;5;146m\u001b[40m6 \u001b[m\u001b[94m\u001b[100m==\u001b[1m\u001b[91m 2015-05-06 15:40:41 \u001b[m\u001b[94m\u001b[100m==                                                      \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[4;3H\u001b[38;5;146m\u001b[40m5 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[5;3H\u001b[38;5;146m\u001b[40m4 \u001b[m\u001b[94m\u001b[100mSome stuff....                                                                 \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[6;3H\u001b[38;5;146m\u001b[40m3 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[7;3H\u001b[38;5;146m\u001b[40m2 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100"
+    ],
+    [
+      0.000068,
+      "m\r\n\u001b[38;5;146m\u001b[40m  1 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\r\n\u001b[93m9   \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[42;172H\u001b[38;5;24m\u001b[48;5;102m9:\u001b[9;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.546633,
+      "\u001b[m\u001b[94m\u001b[100m\u001b[43;1H\u001b[K\u001b[9;5H"
+    ],
+    [
+      0.000011,
+      "\u001b[?25l\u001b[43;166H^[\u001b[9;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.593863,
+      "\u001b[?25l\u001b[43;166H   \u001b[9;5H"
+    ],
+    [
+      0.005179,
+      "\u001b[42;1H\u001b[38;5;230m\u001b[48;5;32m NORMAL \u001b[m\u001b[94m\u001b[100m\u001b[38;5;32m\u001b[48;5;241m⮀\u001b[m\u001b[94m\u001b[100m\u001b[38;5;230m\u001b[48;5;241m \u001b[9;5H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[m\u001b[94m\u001b[100m\u001b[43;166Hk\u001b[9;5H"
+    ],
+    [
+      0.002655,
+      "\u001b[43;166H  \u001b[8;5H\u001b[1;3H\u001b[38;5;146m\u001b[40m7 \u001b[m\u001b[94m\u001b[100m=\u001b[1m\u001b[91m today's log 2015-05-06 \u001b[m\u001b[94m\u001b[100m=                                                     \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[2;3H\u001b[38;5;146m\u001b[40m6 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[3;3H\u001b[38;5;146m\u001b[40m5 \u001b[m\u001b[94m\u001b[100m==\u001b[1m\u001b[91m 2015-05-06 15:40:41 \u001b[m\u001b[94m\u001b[100m==                                                      \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[4;3H\u001b[38;5;146m\u001b[40m4 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[5;3H\u001b[38;5;146m\u001b[40m3 \u001b[m\u001b[94m\u001b[100mSome stuff....                                                                 \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[6;3H\u001b[38;5;146m\u001b[40m2 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[7;3H\u001b[38;5;146m\u001b[40m1 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[93m8   \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\r\n\u001b[38;5;146m\u001b[40m  1 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[42;163H\u001b[38;5;109m\u001b[48;5;241m 88%\u001b[m\u001b[94m\u001b[100m\u001b[5C\u001b[38;5;24m\u001b[48;5;102m8:\u001b[8;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.680305,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100m\u001b[43;166Hk\u001b[8;5H"
+    ],
+    [
+      0.002426,
+      "\u001b[43;166H  \u001b[7;5H\u001b[1;3H\u001b[38;5;146m\u001b[40m6 \u001b[m\u001b[94m\u001b[100m=\u001b[1m\u001b[91m today's log 2015-05-06 \u001b[m\u001b[94m\u001b[100m=                                                     \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[2;3H\u001b[38;5;146m\u001b[40m5 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[3;3H\u001b[38;5;146m\u001b[40m4 \u001b[m\u001b[94m\u001b[100m==\u001b[1m\u001b[91m 2015-05-06 15:40:41 \u001b[m\u001b[94m\u001b[100m==                                                      \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[4;3H\u001b[38;5;146m\u001b[40m3 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[5;3H\u001b[38;5;146m\u001b[40m2 \u001b[m\u001b[94m\u001b[100mSome stuff....                                                                 \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[6;3H\u001b[38;5;146m\u001b[40m1 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\r\n\u001b[93m7   \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\r\n\u001b[38;5;146m\u001b["
+    ],
+    [
+      0.000011,
+      "40m  1 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[9;3H\u001b[38;5;146m\u001b[40m2 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[42;164H\u001b[38;5;109m\u001b[48;5;241m77%\u001b[m\u001b[94m\u001b[100m\u001b[5C\u001b[38;5;24m\u001b[48;5;102m7:\u001b[7;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      2.661832,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100m\u001b[43;166Hi\u001b[7;5H"
+    ],
+    [
+      0.001777,
+      "\u001b[43;166H  \u001b[7;5H"
+    ],
+    [
+      0.000007,
+      "\u001b[43;1H\u001b[34m-- INSERT --"
+    ],
+    [
+      0.005211,
+      "\u001b[m\u001b[94m\u001b[100m\u001b[42;1H\u001b[38;5;230m\u001b[48;5;100m INSERT \u001b[m\u001b[94m\u001b[100m\u001b[38;5;100m\u001b[48;5;241m⮀\u001b[m\u001b[94m\u001b[100m\u001b[38;5;230m\u001b[48;5;241m \u001b[7;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.388251,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100m;                                                                              \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[42;174H\u001b[38;5;24m\u001b[48;5;102m2 \u001b[7;6H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.103946,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100mw                                                                             \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[42;174H\u001b[38;5;24m\u001b[48;5;102m3 \u001b[7;7H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.175890,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100mi                                                                            \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[42;174H\u001b[38;5;24m\u001b[48;5;102m4 \u001b[7;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.301450,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100m\u0008                                                                             \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[42;174H\u001b[38;5;24m\u001b[48;5;102m3 \u001b[7;7H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.186577,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100ml                                                                            \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[42;174H\u001b[38;5;24m\u001b[48;5;102m4 \u001b[7;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.076098,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100mi                                                                           \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[42;174H\u001b[38;5;24m\u001b[48;5;102m5 \u001b[7;9H\u001b[m\u001b[94m\u001b[100m\u001b[43;1H\u001b[K"
+    ],
+    [
+      0.001757,
+      "\u001b[43;1H\u001b[34m-- INSERT --\u001b[7;9H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.142687,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100mn                                                                          \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[42;174H\u001b[38;5;24m\u001b[48;5;102m6 \u001b[7;10H\u001b[m\u001b[94m\u001b[100m\u001b[43;1H\u001b[K"
+    ],
+    [
+      0.001792,
+      "\u001b[43;1H\u001b[34m-- INSERT --\u001b[7;10H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.101075,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100mk                                                                         \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[42;174H\u001b[38;5;24m\u001b[48;5;102m7 \u001b[7;11H\u001b[m\u001b[94m\u001b[100m\u001b[43;1H\u001b[K"
+    ],
+    [
+      0.001729,
+      "\u001b[43;1H\u001b[34m-- INSERT --\u001b[7;11H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.866085,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100m\u001b[7;5H                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[42;174H\u001b[38;5;24m\u001b[48;5;102m1 \u001b[7;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.544674,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100m;                                                                              \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[42;174H\u001b[38;5;24m\u001b[48;5;102m2 \u001b[7;6H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.104119,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100mw                                                                             \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[42;174H\u001b[38;5;24m\u001b[48;5;102m3 \u001b[7;7H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.148758,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100ml                                                                            \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[42;174H\u001b[38;5;24m\u001b[48;5;102m4 \u001b[7;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.110318,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100mi                                                                           \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[42;174H\u001b[38;5;24m\u001b[48;5;102m5 \u001b[7;9H\u001b[m\u001b[94m\u001b[100m\u001b[43;1H\u001b[K"
+    ],
+    [
+      0.002030,
+      "\u001b[43;1H\u001b[34m-- INSERT --\u001b[7;9H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.117944,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100mn                                                                          \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[42;174H\u001b[38;5;24m\u001b[48;5;102m6 \u001b[7;10H\u001b[m\u001b[94m\u001b[100m\u001b[43;1H\u001b[K"
+    ],
+    [
+      0.001759,
+      "\u001b[43;1H\u001b[34m-- INSERT --\u001b[7;10H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.096956,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100m\u0008\u0008\u0008\u0008\u0008                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[42;174H\u001b[38;5;24m\u001b[48;5;102m1 \u001b[7;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.085681,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100m\u001b[43;1H\u001b[K"
+    ],
+    [
+      0.005477,
+      "\u001b[7;5H\u001b[95m[[http://dotd.shurain.net/post/2015-02-03-00-04.html|]]\u001b[m\u001b[94m\u001b[100m                        \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[42;1H\u001b[38;5;230m\u001b[48;5;32m NORMAL \u001b[m\u001b[94m\u001b[100m\u001b[38;5;32m\u001b[48;5;241m⮀\u001b[m\u001b[94m\u001b[100m\u001b[38;5;230m\u001b[48;5;241m \u001b[m\u001b[94m\u001b[100m\u001b[163C\u001b[38;5;24m\u001b[48;5;102m53\u001b[7;57H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.005814,
+      "\u001b[?25l\u001b[7;57H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.001496,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100m\u001b[1C\u001b[95m글쓰기 관찰]]\u001b[m\u001b[94m\u001b[100m             \u001b[40m "
+    ],
+    [
+      0.008079,
+      "\u001b[m\u001b[94m\u001b[100m\u001b[43;1H\u001b[34m-- INSERT --\u001b[m\u001b[94m\u001b[100m\u001b[7;5H\u001b[34m\u001b[40m[\u001b[m\u001b[94m\u001b[100m\u001b[95m[http://dotd.shurain.net/post/2015-02-03-00-04.html|글쓰기 관찰]\u001b[m\u001b[94m\u001b[100m\u001b[34m\u001b[40m]\u001b[m\u001b[94m\u001b[100m             \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[42;1H\u001b[38;5;230m\u001b[48;5;100m INSERT \u001b[m\u001b[94m\u001b[100m\u001b[38;5;100m\u001b[48;5;241m⮀\u001b[m\u001b[94m\u001b[100m\u001b[38;5;230m\u001b[48;5;241m \u001b[m\u001b[94m\u001b[100m\u001b[163C\u001b[38;5;24m\u001b[48;5;102m67 \u001b[7;71H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.777022,
+      "\u001b[m\u001b[94m\u001b[100m\u001b[43;1H\u001b[K\u001b[7;70H\u001b[?25l\u001b[43;166H^[\u001b[7;70H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.532831,
+      "\u001b[?25l\u001b[43;166H   \u001b[7;71H"
+    ],
+    [
+      0.005312,
+      "\u001b[42;1H\u001b[38;5;230m\u001b[48;5;32m NORMAL \u001b[m\u001b[94m\u001b[100m\u001b[38;5;32m\u001b[48;5;241m⮀\u001b[m\u001b[94m\u001b[100m\u001b[38;5;230m\u001b[48;5;241m \u001b[m\u001b[94m\u001b[100m\u001b[164C\u001b[38;5;24m\u001b[48;5;102m6 \u001b[7;70H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000008,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100m\u001b[43;166Hk\u001b[7;70H"
+    ],
+    [
+      0.003075,
+      "\u001b[43;166H  \u001b[6;5H\u001b[1;3H\u001b[38;5;146m\u001b[40m5 \u001b[m\u001b[94m\u001b[100m=\u001b[1m\u001b[91m today's log 2015-05-06 \u001b[m\u001b[94m\u001b[100m=                                                     \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[2;3H\u001b[38;5;146m\u001b[40m4 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[3;3H\u001b[38;5;146m\u001b[40m3 \u001b[m\u001b[94m\u001b[100m==\u001b[1m\u001b[91m 2015-05-06 15:40:41 \u001b[m\u001b[94m\u001b[100m==                                                      \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[4;3H\u001b[38;5;146m\u001b[40m2 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[5;3H\u001b[38;5;146m\u001b[40m1 \u001b[m\u001b[94m\u001b[100mSome stuff....                                                                 \u001b[40m \u001b[m\u001b[94m\u001b[100m\r\n\u001b[93m6   \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\r\n\u001b[38;5;146m\u001b[40m  1 \u001b[m\u001b[94m\u001b[100m\u001b[95m글쓰기 관찰\u001b[m\u001b[94m\u001b[100m                                                                    \u001b[40m \u001b[m\u001b[94"
+    ],
+    [
+      0.000010,
+      "m\u001b[100m\u001b[8;3H\u001b[38;5;146m\u001b[40m2 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[9;3H\u001b[38;5;146m\u001b[40m3 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[42;164H\u001b[38;5;109m\u001b[48;5;241m66%\u001b[m\u001b[94m\u001b[100m\u001b[5C\u001b[38;5;24m\u001b[48;5;102m6:1  \u001b[6;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.014266,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100m\u001b[43;166Hj\u001b[6;5H"
+    ],
+    [
+      0.004765,
+      "\u001b[43;166H  \u001b[7;70H\u001b[1;3H\u001b[38;5;146m\u001b[40m6 \u001b[m\u001b[94m\u001b[100m=\u001b[1m\u001b[91m today's log 2015-05-06 \u001b[m\u001b[94m\u001b[100m=                                                     \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[2;3H\u001b[38;5;146m\u001b[40m5 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[3;3H\u001b[38;5;146m\u001b[40m4 \u001b[m\u001b[94m\u001b[100m==\u001b[1m\u001b[91m 2015-05-06 15:40:41 \u001b[m\u001b[94m\u001b[100m==                                                      \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[4;3H\u001b[38;5;146m\u001b[40m3 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[5;3H\u001b[38;5;146m\u001b[40m2 \u001b[m\u001b[94m\u001b[100mSome stuff....                                                                 \u001b[40m \u001b[m\u001b[94m\u001b[100m\r\n\u001b[38;5;146m\u001b[40m  1 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\r\n\u001b[93m7   \u001b[m\u001b[94m\u001b[100m\u001b[34m\u001b[40m[\u001b[m\u001b[94m\u001b[100m\u001b[95m[http://dotd.shurain.net/post/2015-02-03-00-04.html|글쓰기 관찰]\u001b[m\u001b[94m\u001b[100m\u001b["
+    ],
+    [
+      0.000015,
+      "34m\u001b[40m]\u001b[m\u001b[94m\u001b[100m             \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[8;3H\u001b[38;5;146m\u001b[40m1 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[9;3H\u001b[38;5;146m\u001b[40m2 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[42;164H\u001b[38;5;109m\u001b[48;5;241m77%\u001b[m\u001b[94m\u001b[100m\u001b[5C\u001b[38;5;24m\u001b[48;5;102m7:66\u001b[7;70H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.938576,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100m\u001b[43;166Hj\u001b[7;70H"
+    ],
+    [
+      0.002819,
+      "\u001b[43;166H  \u001b[8;5H\u001b[1;3H\u001b[38;5;146m\u001b[40m7 \u001b[m\u001b[94m\u001b[100m=\u001b[1m\u001b[91m today's log 2015-05-06 \u001b[m\u001b[94m\u001b[100m=                                                     \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[2;3H\u001b[38;5;146m\u001b[40m6 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[3;3H\u001b[38;5;146m\u001b[40m5 \u001b[m\u001b[94m\u001b[100m==\u001b[1m\u001b[91m 2015-05-06 15:40:41 \u001b[m\u001b[94m\u001b[100m==                                                      \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[4;3H\u001b[38;5;146m\u001b[40m4 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[5;3H\u001b[38;5;146m\u001b[40m3 \u001b[m\u001b[94m\u001b[100mSome stuff....                                                                 \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[6;3H\u001b[38;5;146m\u001b[40m2 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\r\n\u001b[38;5;146m\u001b[40m  1 \u001b[m\u001b[94m\u001b[100m\u001b[95m글쓰기 관찰\u001b[m\u001b[94m\u001b[100m                                                                    "
+    ],
+    [
+      0.000013,
+      "\u001b[40m \u001b[m\u001b[94m\u001b[100m\r\n\u001b[93m8   \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[9;3H\u001b[38;5;146m\u001b[40m1 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[42;164H\u001b[38;5;109m\u001b[48;5;241m88%\u001b[m\u001b[94m\u001b[100m\u001b[5C\u001b[38;5;24m\u001b[48;5;102m8:1  \u001b[8;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.533561,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100m\u001b[43;166Hj\u001b[8;5H"
+    ],
+    [
+      0.003110,
+      "\u001b[43;166H  \u001b[9;5H\u001b[1;3H\u001b[38;5;146m\u001b[40m8 \u001b[m\u001b[94m\u001b[100m=\u001b[1m\u001b[91m today's log 2015-05-06 \u001b[m\u001b[94m\u001b[100m=                                                     \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[2;3H\u001b[38;5;146m\u001b[40m7 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[3;3H\u001b[38;5;146m\u001b[40m6 \u001b[m\u001b[94m\u001b[100m==\u001b[1m\u001b[91m 2015-05-06 15:40:41 \u001b[m\u001b[94m\u001b[100m==                                                      \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[4;3H\u001b[38;5;146m\u001b[40m5 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[5;3H\u001b[38;5;146m\u001b[40m4 \u001b[m\u001b[94m\u001b[100mSome stuff....                                                                 \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[6;3H\u001b[38;5;146m\u001b[40m3 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[7;3H\u001b[38;5;146m\u001b[40m2 \u001b[m\u001b[94m\u001b[100m\u001b[95m글쓰기 관찰\u001b[m\u001b[94m\u001b[100m                                                                  "
+    ],
+    [
+      0.000058,
+      "  \u001b[40m \u001b[m\u001b[94m\u001b[100m\r\n\u001b[38;5;146m\u001b[40m  1 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\r\n\u001b[93m9   \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[42;163H\u001b[38;5;109m\u001b[48;5;241m100%\u001b[m\u001b[94m\u001b[100m\u001b[5C\u001b[38;5;24m\u001b[48;5;102m9:\u001b[9;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.884869,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100m\u001b[43;166H:\u001b[9;5H"
+    ],
+    [
+      0.000008,
+      "\u001b[43;166H\u001b[K\u001b[43;1H:\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.080229,
+      "w\u0008"
+    ],
+    [
+      0.127886,
+      "  \u0008\u0008w\r"
+    ],
+    [
+      0.000126,
+      "\u001b[?25l\"2015-05-06.wiki\""
+    ],
+    [
+      0.000425,
+      " [New] 9L, 145C written"
+    ],
+    [
+      0.049093,
+      "\u001b[9;5H\u001b[42;38H\u001b[38;5;241m\u001b[48;5;24m⮀\u001b[m\u001b[94m\u001b[100m\u001b[38;5;230m\u001b[48;5;241m \u001b[m\u001b[94m\u001b[100m\u0008\u001b[38;5;109m\u001b[48;5;24m     \u001b]2;2015-05-06.wiki (~/Dropbox/wiki/text/pristoneslog) - VIM\u0007"
+    ],
+    [
+      0.001813,
+      "\u001b[9;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.580239,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100m\u001b[43;166H:\u001b[9;5H"
+    ],
+    [
+      0.000010,
+      "\u001b[43;1H\u001b[K\u001b[43;1H:"
+    ],
+    [
+      0.000035,
+      "\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.104206,
+      "v"
+    ],
+    [
+      0.000031,
+      "\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.080048,
+      "s"
+    ],
+    [
+      0.000011,
+      "\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.087494,
+      "\u001b[?25l \u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.071938,
+      "."
+    ],
+    [
+      0.000006,
+      "\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.055881,
+      "\r"
+    ],
+    [
+      0.003963,
+      "\u001b[?25l\"pristoneslog\" is a directory"
+    ],
+    [
+      0.058018,
+      "\u001b[1;1H\u001b[32m\u001b[40m/Users/shurain/Dropbox/wiki/text/pristoneslog/\u001b[m\u001b[94m\u001b[100m\u001b[40m                                          \u001b[m\u001b[94m\u001b[100m|\r\n  2015-03-16.wiki                                                              \u001b[40m \u001b[m\u001b[94m\u001b[100m        |\r\n  2015-03-18.wiki                                                              \u001b[40m \u001b[m\u001b[94m\u001b[100m        |\r\n  2015-03-30.wiki                                                              \u001b[40m \u001b[m\u001b[94m\u001b[100m        |\r\n  2015-04-01.wiki                                                              \u001b[40m \u001b[m\u001b[94m\u001b[100m        |\r\n  2015-04-06.wiki                                                              \u001b[40m \u001b[m\u001b[94m\u001b[100m        |\r\n  2015-04-13.wiki                                                              \u001b[40m \u001b[m\u001b[94m\u001b[100m        |\r\n  2015-04-20.wiki                                                              \u001b[40m \u001b[m\u001b[94m\u001b[100m        |\r\n  2015-05-06.wiki                                                              \u001b[40m \u001b[m\u001b[94m\u001b[100m        |\r\n  pr"
+    ],
+    [
+      0.000203,
+      "istones.wiki                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[8C|\u001b[11;89H|\u001b[12;89H|\u001b[13;89H|\u001b[14;89H|\u001b[15;89H|\u001b[16;89H|\u001b[17;89H|\u001b[18;89H|\u001b[19;89H|\u001b[20;89H|\u001b[21;89H|\u001b[22;89H|\u001b[23;89H|\u001b[24;89H|\u001b[25;89H|\u001b[26;89H|\u001b[27;89H|\u001b[28;89H|\u001b[29;89H|\u001b[30;89H|\u001b[31;89H|\u001b[32;89H|\u001b[33;89H|\u001b[34;89H|\u001b[35;89H|\u001b[36;89H|\u001b[37;89H|\u001b[38;89H|\u001b[39;89H|\u001b[40;89H|\u001b[41;89H|\u001b[42;22H\u001b[38;5;230m\u001b[48;5;241mNERD_tree_1 ⮁ - \u001b[m\u001b[94m\u001b[100m\u001b[9C\u001b[38;5;24m\u001b[48;5;24m⮃\u001b[m\u001b[94m\u001b[100m\u001b[1C\u001b[38;5;109m\u001b[48;5;24munix ⮃ utf-8 ⮃ nerdtree\u001b[m\u001b[94m\u001b[100m\u001b[1C\u001b[38;5;241m\u001b[48;5;24m⮂\u001b[m\u001b[94m\u001b[100m\u001b[38;5;109m\u001b[48;5;241m  10% \u001b[m\u001b[94m\u001b[100m\u001b[38;5;102m\u001b[48;5;241m⮂\u001b[m\u001b[94m\u001b[100m\u001b[38;5;24m\u001b[48;5;102m   1:1  \u001b[m\u001b[94m\u001b[100m\u001b[33m\u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[1;90H\u001b[38;5;146m\u001b[40m  8 \u001b[m\u001b[94m\u001b[100m=\u001b[1m\u001b[91m today's log 2015-05-06 \u001b[m\u001b[94m\u001b[100m=                                                     \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[2;90H\u001b[38;5;146m\u001b[40m  7 \u001b[m\u001b[94m\u001b[100m                                                                               "
+    ],
+    [
+      0.001219,
+      "\u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[3;90H\u001b[38;5;146m\u001b[40m  6 \u001b[m\u001b[94m\u001b[100m==\u001b[1m\u001b[91m 2015-05-06 15:40:41 \u001b[m\u001b[94m\u001b[100m==                                                      \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[4;90H\u001b[38;5;146m\u001b[40m  5 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[5;90H\u001b[38;5;146m\u001b[40m  4 \u001b[m\u001b[94m\u001b[100mSome stuff....                                                                 \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[6;90H\u001b[38;5;146m\u001b[40m  3 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[7;90H\u001b[38;5;146m\u001b[40m  2 \u001b[m\u001b[94m\u001b[100m\u001b[95m글쓰기 관찰\u001b[m\u001b[94m\u001b[100m                                                                    \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[8;90H\u001b[38;5;146m\u001b[40m  1 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[9;90H\u001b[93m9   \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b["
+    ],
+    [
+      0.000072,
+      "m\u001b[94m\u001b[100m\u001b[10;90H~\u001b[11;90H~\u001b[12;90H~\u001b[13;90H~\u001b[14;90H~\u001b[15;90H~\u001b[16;90H~\u001b[17;90H~\u001b[18;90H~\u001b[19;90H~\u001b[20;90H~\u001b[21;90H~\u001b[22;90H~\u001b[23;90H~\u001b[24;90H~\u001b[25;90H~\u001b[26;90H~\u001b[27;90H~\u001b[28;90H~\u001b[29;90H~\u001b[30;90H~\u001b[31;90H~\u001b[32;90H~\u001b[33;90H~\u001b[34;90H~\u001b[35;90H~\u001b[36;90H~\u001b[37;90H~\u001b[38;90H~\u001b[39;90H~\u001b[40;90H~\u001b[41;90H~\u001b[42;90H\u001b[38;5;102m\u001b[48;5;24m pristoneslog/2015-05-06.wiki \u001b[m\u001b[94m\u001b[100m\u001b[38;5;24m\u001b[48;5;24m⮀\u001b[m\u001b[94m\u001b[100m\u001b[38;5;102m\u001b[48;5;24m                                        \u001b[m\u001b[94m\u001b[100m\u001b[38;5;24m\u001b[48;5;24m⮂\u001b[m\u001b[94m\u001b[100m\u001b[38;5;109m\u001b[48;5;241m \u001b[m\u001b[94m\u001b[100m\u0008\u001b[38;5;66m\u001b[48;5;24m 100% \u001b[m\u001b[94m\u001b[100m\u001b[38;5;241m\u001b[48;5;24m⮂\u001b[m\u001b[94m\u001b[100m\u001b[38;5;24m\u001b[48;5;102m \u001b[m\u001b[94m\u001b[100m\u0008\u001b[38;5;24m\u001b[48;5;241m   9:1  \u001b]2;NERD_tree_1 - (~/Dropbox/wiki/text) - VIM\u0007"
+    ],
+    [
+      0.001211,
+      "\u001b[1;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.183713,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100m\u001b[43;166H:\u001b[1;1H"
+    ],
+    [
+      0.000071,
+      "\u001b[43;1H\u001b[K\u001b[43;1H:"
+    ],
+    [
+      0.000019,
+      "\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.080125,
+      "q"
+    ],
+    [
+      0.000010,
+      "\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.088455,
+      "\r"
+    ],
+    [
+      0.008017,
+      "\u001b[?25l\u001b[9;5H\u001b[1;1H\u001b[38;5;146m\u001b[40m  8 \u001b[m\u001b[94m\u001b[100m=\u001b[1m\u001b[91m today's log 2015-05-06 \u001b[m\u001b[94m\u001b[100m=                                                     \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[1;85H\u001b[K\u001b[2;1H\u001b[38;5;146m\u001b[40m  7 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[2;89H\u001b[K\u001b[3;1H\u001b[38;5;146m\u001b[40m  6 \u001b[m\u001b[94m\u001b[100m==\u001b[1m\u001b[91m 2015-05-06 15:40:41 \u001b[m\u001b[94m\u001b[100m==                                                      \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[3;89H\u001b[K\u001b[4;1H\u001b[38;5;146m\u001b[40m  5 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[4;89H\u001b[K\u001b[5;1H\u001b[38;5;146m\u001b[40m  4 \u001b[m\u001b[94m\u001b[100mSome stuff....                                                                 \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[5;89H\u001b[K\u001b[6;1H\u001b[38;5;146m\u001b[40m  3 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[6;89H\u001b[K\u001b[7;1H\u001b[38;5;146m\u001b[40m  2 \u001b[m\u001b[94m\u001b[100m\u001b[95m글쓰기 관찰\u001b[m\u001b[94m\u001b[1"
+    ],
+    [
+      0.000048,
+      "00m                                                                    \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[7;89H\u001b[K\u001b[8;1H\u001b[38;5;146m\u001b[40m  1 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[8;89H\u001b[K\u001b[9;1H\u001b[93m9   \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[9;89H\u001b[K\u001b[10;3H\u001b[K\u001b[10;1H~\u001b[11;89H\u001b[K\u001b[12;89H\u001b[K\u001b[13;89H\u001b[K\u001b[14;89H\u001b[K\u001b[15;89H\u001b[K\u001b[16;89H\u001b[K\u001b[17;89H\u001b[K\u001b[18;89H\u001b[K\u001b[19;89H\u001b[K\u001b[20;89H\u001b[K\u001b[21;89H\u001b[K\u001b[22;89H\u001b[K\u001b[23;89H\u001b[K\u001b[24;89H\u001b[K\u001b[25;89H\u001b[K\u001b[26;89H\u001b[K\u001b[27;89H\u001b[K\u001b[28;89H\u001b[K\u001b[29;89H\u001b[K\u001b[30;89H\u001b[K\u001b[31;89H\u001b[K\u001b[32;89H\u001b[K\u001b[33;89H\u001b[K\u001b[34;89H\u001b[K\u001b[35;89H\u001b[K\u001b[36;89H\u001b[K\u001b[37;89H\u001b[K\u001b[38;89H\u001b[K\u001b[39;89H\u001b[K\u001b[40;89H\u001b[K\u001b[41;89H\u001b[K\u001b[42;22H\u001b[38;5;230m\u001b[48;5;241m2015-05-06.wiki \u001b[m\u001b[94m\u001b[100m\u001b[9C\u001b[38;5;109m\u001b[48;5;24m                                                                                         \u001b[m\u001b[94m\u001b[100m\u001b[38;5;24m\u001b[48;5;24m⮃\u001b[m\u001b[94m\u001b[100m\u001b[38;5;109m\u001b[48;5;24m unix ⮃ utf-8 "
+    ],
+    [
+      0.000215,
+      "⮃ vimwiki \u001b[m\u001b[94m\u001b[100m\u001b[38;5;241m\u001b[48;5;24m⮂\u001b[m\u001b[94m\u001b[100m\u001b[38;5;66m\u001b[48;5;24m \u001b[m\u001b[94m\u001b[100m\u0008\u001b[38;5;109m\u001b[48;5;241m 100% \u001b[m\u001b[94m\u001b[100m\u001b[38;5;102m\u001b[48;5;241m⮂\u001b[m\u001b[94m\u001b[100m\u001b[38;5;24m\u001b[48;5;241m \u001b[m\u001b[94m\u001b[100m\u0008\u001b[38;5;24m\u001b[48;5;102m   9:1  \u001b]2;2015-05-06.wiki (~/Dropbox/wiki/text/pristoneslog) - VIM\u0007"
+    ],
+    [
+      0.001663,
+      "\u001b[9;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.461954,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100m\u001b[43;166Hv\u001b[9;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.176223,
+      "\u001b[?25l\u001b[43;166H  \u001b[9;5H"
+    ],
+    [
+      0.000013,
+      "\u001b[43;166H^Wv\u001b[9;5H"
+    ],
+    [
+      0.008810,
+      "\u001b[43;166H    \u001b[9;5H\u001b[1;89H|\u001b[2;89H|\u001b[3;89H|\u001b[4;89H|\u001b[5;89H|\u001b[6;89H|\u001b[7;89H|\u001b[8;89H|\u001b[9;89H|\u001b[10;89H|\u001b[11;89H|\u001b[12;89H|\u001b[13;89H|\u001b[14;89H|\u001b[15;89H|\u001b[16;89H|\u001b[17;89H|\u001b[18;89H|\u001b[19;89H|\u001b[20;89H|\u001b[21;89H|\u001b[22;89H|\u001b[23;89H|\u001b[24;89H|\u001b[25;89H|\u001b[26;89H|\u001b[27;89H|\u001b[28;89H|\u001b[29;89H|\u001b[30;89H|\u001b[31;89H|\u001b[32;89H|\u001b[33;89H|\u001b[34;89H|\u001b[35;89H|\u001b[36;89H|\u001b[37;89H|\u001b[38;89H|\u001b[39;89H|\u001b[40;89H|\u001b[41;89H|\u001b[42;48H\u001b[38;5;24m\u001b[48;5;24m⮃\u001b[m\u001b[94m\u001b[100m\u001b[1C\u001b[38;5;109m\u001b[48;5;24munix ⮃ utf-8 ⮃ vimwiki\u001b[m\u001b[94m\u001b[100m\u001b[1C\u001b[38;5;241m\u001b[48;5;24m⮂\u001b[m\u001b[94m\u001b[100m\u001b[38;5;109m\u001b[48;5;241m 100% \u001b[m\u001b[94m\u001b[100m\u001b[38;5;102m\u001b[48;5;241m⮂\u001b[m\u001b[94m\u001b[100m\u001b[38;5;24m\u001b[48;5;102m   9:1  \u001b[m\u001b[94m\u001b[100m\u001b[33m\u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[1;90H\u001b[38;5;146m\u001b[40m  8 \u001b[m\u001b[94m\u001b[100m=\u001b[1m\u001b[91m today's log 2015-05-06 \u001b[m\u001b[94m\u001b[100m=                                                     \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[2;90H\u001b[38;5;146m\u001b[40m  7 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[3;90H\u001b[38;5;146m\u001b[40m  6 \u001b[m\u001b[94m\u001b[100m"
+    ],
+    [
+      0.000068,
+      "==\u001b[1m\u001b[91m 2015-05-06 15:40:41 \u001b[m\u001b[94m\u001b[100m==                                                      \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[4;90H\u001b[38;5;146m\u001b[40m  5 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[5;90H\u001b[38;5;146m\u001b[40m  4 \u001b[m\u001b[94m\u001b[100mSome stuff....                                                                 \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[6;90H\u001b[38;5;146m\u001b[40m  3 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[7;90H\u001b[38;5;146m\u001b[40m  2 \u001b[m\u001b[94m\u001b[100m\u001b[95m글쓰기 관찰\u001b[m\u001b[94m\u001b[100m                                                                    \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[8;90H\u001b[38;5;146m\u001b[40m  1 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[9;90H\u001b[93m9   \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[10;90H~\u001b[11;90H~\u001b[12;90H~\u001b[13;90H~"
+    ],
+    [
+      0.001828,
+      "\u001b[14;90H~\u001b[15;90H~\u001b[16;90H~\u001b[17;90H~\u001b[18;90H~\u001b[19;90H~\u001b[20;90H~\u001b[21;90H~\u001b[22;90H~\u001b[23;90H~\u001b[24;90H~\u001b[25;90H~\u001b[26;90H~\u001b[27;90H~\u001b[28;90H~\u001b[29;90H~\u001b[30;90H~\u001b[31;90H~\u001b[32;90H~\u001b[33;90H~\u001b[34;90H~\u001b[35;90H~\u001b[36;90H~\u001b[37;90H~\u001b[38;90H~\u001b[39;90H~\u001b[40;90H~\u001b[41;90H~\u001b[42;90H\u001b[38;5;102m\u001b[48;5;24m 2015-05-06.wiki \u001b[m\u001b[94m\u001b[100m\u001b[38;5;24m\u001b[48;5;24m⮀\u001b[m\u001b[94m\u001b[100m\u001b[38;5;102m\u001b[48;5;24m                                                     \u001b[m\u001b[94m\u001b[100m\u001b[38;5;24m\u001b[48;5;24m⮂\u001b[m\u001b[94m\u001b[100m\u001b[38;5;109m\u001b[48;5;241m \u001b[m\u001b[94m\u001b[100m\u0008\u001b[38;5;66m\u001b[48;5;24m 100% \u001b[m\u001b[94m\u001b[100m\u001b[38;5;241m\u001b[48;5;24m⮂\u001b[m\u001b[94m\u001b[100m\u001b[38;5;24m\u001b[48;5;102m \u001b[m\u001b[94m\u001b[100m\u0008\u001b[38;5;24m\u001b[48;5;241m   9:1  \u001b[9;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.501124,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100m\u001b[43;166H4\u001b[9;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.135572,
+      "\u001b[?25l\u001b[43;167H,\u001b[9;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.135576,
+      "\u001b[?25l\u001b[43;167H  \u001b[9;5H\u001b[43;167H,\u001b[9;5H\u001b[43;168Hw\u001b[9;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.248009,
+      "\u001b[?25l\u001b[43;167H   \u001b[9;5H"
+    ],
+    [
+      0.007403,
+      "\u001b[43;1H\"pristones.wiki\" line 1 of 15 --6%-- col 1\u001b[43;166H\u001b[K"
+    ],
+    [
+      0.003949,
+      "\u001b[1;5H\r\u001b[93m1   \u001b[m\u001b[94m\u001b[100m=\u001b[1m\u001b[91m Pristones Log \u001b[m\u001b[94m\u001b[100m=                                                              \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[2;3H\u001b[38;5;146m\u001b[40m1 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[3;3H\u001b[38;5;146m\u001b[40m2 \u001b[m\u001b[94m\u001b[100m==\u001b[1m\u001b[91m 2015 \u001b[m\u001b[94m\u001b[100m==                                                                     \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[4;3H\u001b[38;5;146m\u001b[40m3 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[5;5H===\u001b[1m\u001b[91m April \u001b[m\u001b[94m\u001b[100m===                                                                  \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[6;3H\u001b[38;5;146m\u001b[40m5 \u001b[m\u001b[94m\u001b[100m\u001b[34m    * \u001b[m\u001b[94m\u001b[100m\u001b[95mDB migration 2015-04-20\u001b[m\u001b[94m\u001b[100m                                                  \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[7;3H\u001b[38;5;146m\u001b[40m6 \u001b[m\u001b[94m\u001b[100m\u001b[34m    * \u001b[m\u001b[94m\u001b[100m\u001b[95mDB Migration 2015-04-13\u001b[m\u001b[94m\u001b[100m                              "
+    ],
+    [
+      0.000038,
+      "                    \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[8;3H\u001b[38;5;146m\u001b[40m7 \u001b[m\u001b[94m\u001b[100m\u001b[34m    * \u001b[m\u001b[94m\u001b[100m\u001b[95mDB Migration 2015-04-06\u001b[m\u001b[94m\u001b[100m                                                  \u001b[40m \u001b[m\u001b[94m\u001b[100m\r\n\u001b[38;5;146m\u001b[40m  8 \u001b[m\u001b[94m\u001b[100m\u001b[34m    * \u001b[m\u001b[94m\u001b[100m\u001b[95mPandas + GA 2015-04-01\u001b[m\u001b[94m\u001b[100m                                                   \u001b[40m \u001b[m\u001b[94m\u001b[100m\r\n\u001b[38;5;146m\u001b[40m  9 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\r\n\u001b[38;5;146m\u001b[40m 10 \u001b[m\u001b[94m\u001b[100m===\u001b[1m\u001b[91m March \u001b[m\u001b[94m\u001b[100m===                                                                  \u001b[40m \u001b[m\u001b[94m\u001b[100m\r\n\u001b[38;5;146m\u001b[40m 11 \u001b[m\u001b[94m\u001b[100m\u001b[34m    * \u001b[m\u001b[94m\u001b[100m\u001b[95mDB Migration 2015-03-30\u001b[m\u001b[94m\u001b[100m                                                  \u001b[40m \u001b[m\u001b[94m\u001b[100m\r\n\u001b[38;5;146m\u001b[40m 12 \u001b[m\u001b[94m\u001b[100m\u001b[34m    * \u001b[m\u001b[94m\u001b[100m\u001b[95mElastic Search, DB Migration, Unicode Error 2015-03-18\u001b[m\u001b[94m\u001b[100m                   "
+    ],
+    [
+      0.001591,
+      "\u001b[40m \u001b[m\u001b[94m\u001b[100m\r\n\u001b[38;5;146m\u001b[40m 13 \u001b[m\u001b[94m\u001b[100m\u001b[34m    * \u001b[m\u001b[94m\u001b[100m\u001b[95mDB Migration 2015-03-16\u001b[m\u001b[94m\u001b[100m                                                  \u001b[40m \u001b[m\u001b[94m\u001b[100m\r\n\u001b[38;5;146m\u001b[40m 14 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[42;22H\u001b[38;5;230m\u001b[48;5;241mpristones.wiki  \u001b[m\u001b[94m\u001b[100m\u0008\u001b[38;5;241m\u001b[48;5;24m⮀\u001b[m\u001b[94m\u001b[100m\u001b[38;5;109m\u001b[48;5;24m  \u001b[m\u001b[94m\u001b[100m\u001b[35C\u001b[38;5;109m\u001b[48;5;241m  6%\u001b[m\u001b[94m\u001b[100m\u001b[5C\u001b[38;5;24m\u001b[48;5;102m1:\u001b]2;pristones.wiki (~/Dropbox/wiki/text/pristoneslog) - VIM\u0007"
+    ],
+    [
+      0.001647,
+      "\u001b[1;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.193427,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100m\u001b[43;166H,\u001b[1;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.103956,
+      "\u001b[?25l\u001b[43;166H  \u001b[1;5H\u001b[43;166H,\u001b[1;5H\u001b[43;167Hw\u001b[1;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.167955,
+      "\u001b[?25l\u001b[43;166H   \u001b[1;5H\u001b[43;166H,\u001b[1;5H\u001b[43;167Hw\u001b[1;5H\u001b[43;168H,\u001b[1;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.216072,
+      "\u001b[?25l\u001b[43;166H    \u001b[1;5H"
+    ],
+    [
+      0.016242,
+      "\u001b[5;9H\u001b[1m\u001b[91mMay \u001b[m\u001b[94m\u001b[100m===                                                                    \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[6;11H\u001b[95mtoday's log 2015-05-06\u001b[m\u001b[94m\u001b[100m                                                   \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[7;5H                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[8;5H===\u001b[1m\u001b[91m April \u001b[m\u001b[94m\u001b[100m===                                                                  \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[9;11H\u001b[95mDB migration 2015-04-20\u001b[m\u001b[94m\u001b[100m                                                  \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[10;5H\u001b[34m    * \u001b[m\u001b[94m\u001b[100m\u001b[95mDB Migration 2015-04-13\u001b[m\u001b[94m\u001b[100m                                                  \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[11;5H\u001b[34m    * \u001b[m\u001b[94m\u001b[100m\u001b[95mDB Migration 2015-04-06\u001b[m\u001b[94m\u001b[100m                                                  \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[12;11H\u001b[95mPandas + GA 2015-04-01\u001b[m\u001b[94m\u001b[100m                                                   \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[13;5H              "
+    ],
+    [
+      0.000276,
+      "                                                                 \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[14;5H===\u001b[1m\u001b[91m March \u001b[m\u001b[94m\u001b[100m===                                                                  \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[15;5H\u001b[34m    * \u001b[m\u001b[94m\u001b[100m\u001b[95mDB Migration 2015-03-30\u001b[m\u001b[94m\u001b[100m                                                  \u001b[40m \u001b[m\u001b[94m\u001b[100m\r\n\u001b[38;5;146m\u001b[40m 15 \u001b[m\u001b[94m\u001b[100m\u001b[34m    * \u001b[m\u001b[94m\u001b[100m\u001b[95mElastic Search, DB Migration, Unicode Error 2015-03-18\u001b[m\u001b[94m\u001b[100m                   \u001b[40m \u001b[m\u001b[94m\u001b[100m\r\n\u001b[38;5;146m\u001b[40m 16 \u001b[m\u001b[94m\u001b[100m\u001b[34m    * \u001b[m\u001b[94m\u001b[100m\u001b[95mDB Migration 2015-03-16\u001b[m\u001b[94m\u001b[100m                                                  \u001b[40m \u001b[m\u001b[94m\u001b[100m\r\n\u001b[38;5;146m\u001b[40m 17 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[42;37H\u001b[38;5;230m\u001b[48;5;241m⮁ + \u001b[m\u001b[94m\u001b[100m\u001b[38;5;241m\u001b[48;5;24m⮀\u001b[m\u001b[94m\u001b[100m\u001b[35C\u001b[38;5;109m\u001b[48;5;241m5%\u001b]2;pristones.wiki + (~/Dropbox/wiki/text/pristoneslog) - VIM\u0007\u001b[m\u001b[9"
+    ],
+    [
+      0.000008,
+      "4m\u001b[100m\r\n--No lines in buffer--\u001b[43;23H\u001b[K"
+    ],
+    [
+      0.001071,
+      "\u001b[1;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.494554,
+      "\u001b[?25l\u001b[43;166H:\u001b[1;5H"
+    ],
+    [
+      0.000007,
+      "\u001b[43;1H\u001b[K\u001b[43;1H:"
+    ],
+    [
+      0.000004,
+      "\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.215774,
+      "w\u0008"
+    ],
+    [
+      0.080077,
+      "  \u0008\u0008w\r"
+    ],
+    [
+      0.000154,
+      "\u001b[?25l\"pristones.wiki\""
+    ],
+    [
+      0.005007,
+      " 18L, 463C written"
+    ],
+    [
+      0.029284,
+      "\u001b[1;5H\u001b[42;37H\u001b[38;5;241m\u001b[48;5;24m⮀\u001b[m\u001b[94m\u001b[100m\u001b[38;5;230m\u001b[48;5;241m \u001b[m\u001b[94m\u001b[100m\u0008\u001b[38;5;109m\u001b[48;5;24m     \u001b]2;pristones.wiki (~/Dropbox/wiki/text/pristoneslog) - VIM\u0007"
+    ],
+    [
+      0.001437,
+      "\u001b[1;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.540249,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100m\u001b[43;166Hj\u001b[1;5H"
+    ],
+    [
+      0.003078,
+      "\u001b[43;166H  \u001b[2;5H\u001b[1;1H\u001b[38;5;146m\u001b[40m  1 \u001b[m\u001b[94m\u001b[100m=\u001b[1m\u001b[91m Pristones Log \u001b[m\u001b[94m\u001b[100m=                                                              \u001b[40m \u001b[m\u001b[94m\u001b[100m\r\n\u001b[93m2   \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[3;3H\u001b[38;5;146m\u001b[40m1 \u001b[m\u001b[94m\u001b[100m==\u001b[1m\u001b[91m 2015 \u001b[m\u001b[94m\u001b[100m==                                                                     \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[4;3H\u001b[38;5;146m\u001b[40m2 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[5;3H\u001b[38;5;146m\u001b[40m3 \u001b[m\u001b[94m\u001b[100m===\u001b[1m\u001b[91m May \u001b[m\u001b[94m\u001b[100m===                                                                    \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[6;3H\u001b[38;5;146m\u001b[40m4 \u001b[m\u001b[94m\u001b[100m\u001b[34m    * \u001b[m\u001b[94m\u001b[100m\u001b[95mtoday's log 2015-05-06\u001b[m\u001b[94m\u001b[100m                                                   \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[7;3H\u001b[38;5;146m\u001b[40m5 \u001b[m\u001b[94m\u001b[100m                                                   "
+    ],
+    [
+      0.000035,
+      "                            \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[8;3H\u001b[38;5;146m\u001b[40m6 \u001b[m\u001b[94m\u001b[100m===\u001b[1m\u001b[91m April \u001b[m\u001b[94m\u001b[100m===                                                                  \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[9;3H\u001b[38;5;146m\u001b[40m7 \u001b[m\u001b[94m\u001b[100m\u001b[34m    * \u001b[m\u001b[94m\u001b[100m\u001b[95mDB migration 2015-04-20\u001b[m\u001b[94m\u001b[100m                                                  \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[10;3H\u001b[38;5;146m\u001b[40m8 \u001b[m\u001b[94m\u001b[100m\u001b[34m    * \u001b[m\u001b[94m\u001b[100m\u001b[95mDB Migration 2015-04-13\u001b[m\u001b[94m\u001b[100m                                                  \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[11;2H\u001b[38;5;146m\u001b[40m 9 \u001b[m\u001b[94m\u001b[100m\u001b[34m    * \u001b[m\u001b[94m\u001b[100m\u001b[95mDB Migration 2015-04-06\u001b[m\u001b[94m\u001b[100m                                                  \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[12;3H\u001b[38;5;146m\u001b[40m0 \u001b[m\u001b[94m\u001b[100m\u001b[34m    * \u001b[m\u001b[94m\u001b[100m\u001b[95mPandas + GA 2015-04-01\u001b[m\u001b[94m\u001b[100m                                                   \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[13;3H\u001b[38;5;146m\u001b[40m1 \u001b[m\u001b[94m\u001b[100m                                                                        "
+    ],
+    [
+      0.002630,
+      "       \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[14;3H\u001b[38;5;146m\u001b[40m2 \u001b[m\u001b[94m\u001b[100m===\u001b[1m\u001b[91m March \u001b[m\u001b[94m\u001b[100m===                                                                  \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[15;3H\u001b[38;5;146m\u001b[40m3 \u001b[m\u001b[94m\u001b[100m\u001b[34m    * \u001b[m\u001b[94m\u001b[100m\u001b[95mDB Migration 2015-03-30\u001b[m\u001b[94m\u001b[100m                                                  \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[16;3H\u001b[38;5;146m\u001b[40m4 \u001b[m\u001b[94m\u001b[100m\u001b[34m    * \u001b[m\u001b[94m\u001b[100m\u001b[95mElastic Search, DB Migration, Unicode Error 2015-03-18\u001b[m\u001b[94m\u001b[100m                   \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[17;3H\u001b[38;5;146m\u001b[40m5 \u001b[m\u001b[94m\u001b[100m\u001b[34m    * \u001b[m\u001b[94m\u001b[100m\u001b[95mDB Migration 2015-03-16\u001b[m\u001b[94m\u001b[100m                                                  \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[18;3H\u001b[38;5;146m\u001b[40m6 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[42;76H\u001b[38;5;109m\u001b[48;5;241m11%\u001b[m\u001b[94m\u001b[100m\u001b[5C\u001b[38;5;24m\u001b[48;5;102m2:\u001b[2;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.242059,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100m\u001b[43;166Hj\u001b[2;5H"
+    ],
+    [
+      0.003335,
+      "\u001b[43;166H  \u001b[3;5H\u001b[1;3H\u001b[38;5;146m\u001b[40m2 \u001b[m\u001b[94m\u001b[100m=\u001b[1m\u001b[91m Pristones Log \u001b[m\u001b[94m\u001b[100m=                                                              \u001b[40m \u001b[m\u001b[94m\u001b[100m\r\n\u001b[38;5;146m\u001b[40m  1 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\r\n\u001b[93m3   \u001b[m\u001b[94m\u001b[100m==\u001b[1m\u001b[91m 2015 \u001b[m\u001b[94m\u001b[100m==                                                                     \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[4;3H\u001b[38;5;146m\u001b[40m1 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[5;3H\u001b[38;5;146m\u001b[40m2 \u001b[m\u001b[94m\u001b[100m===\u001b[1m\u001b[91m May \u001b[m\u001b[94m\u001b[100m===                                                                    \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[6;3H\u001b[38;5;146m\u001b[40m3 \u001b[m\u001b[94m\u001b[100m\u001b[34m    * \u001b[m\u001b[94m\u001b[100m\u001b[95mtoday's log 2015-05-06\u001b[m\u001b[94m\u001b[100m                                                   \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[7;3H\u001b[38;5;146m\u001b[40m4 \u001b[m\u001b[94m\u001b[100m                                                       "
+    ],
+    [
+      0.000175,
+      "                        \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[8;3H\u001b[38;5;146m\u001b[40m5 \u001b[m\u001b[94m\u001b[100m===\u001b[1m\u001b[91m April \u001b[m\u001b[94m\u001b[100m===                                                                  \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[9;3H\u001b[38;5;146m\u001b[40m6 \u001b[m\u001b[94m\u001b[100m\u001b[34m    * \u001b[m\u001b[94m\u001b[100m\u001b[95mDB migration 2015-04-20\u001b[m\u001b[94m\u001b[100m                                                  \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[10;3H\u001b[38;5;146m\u001b[40m7 \u001b[m\u001b[94m\u001b[100m\u001b[34m    * \u001b[m\u001b[94m\u001b[100m\u001b[95mDB Migration 2015-04-13\u001b[m\u001b[94m\u001b[100m                                                  \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[11;3H\u001b[38;5;146m\u001b[40m8 \u001b[m\u001b[94m\u001b[100m\u001b[34m    * \u001b[m\u001b[94m\u001b[100m\u001b[95mDB Migration 2015-04-06\u001b[m\u001b[94m\u001b[100m                                                  \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[12;2H\u001b[38;5;146m\u001b[40m 9 \u001b[m\u001b[94m\u001b[100m\u001b[34m    * \u001b[m\u001b[94m\u001b[100m\u001b[95mPandas + GA 2015-04-01\u001b[m\u001b[94m\u001b[100m                                                   \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[13;3H\u001b[38;5;146m\u001b[40m0 \u001b[m\u001b[94m\u001b[100m                                                                            "
+    ],
+    [
+      0.002638,
+      "   \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[14;3H\u001b[38;5;146m\u001b[40m1 \u001b[m\u001b[94m\u001b[100m===\u001b[1m\u001b[91m March \u001b[m\u001b[94m\u001b[100m===                                                                  \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[15;3H\u001b[38;5;146m\u001b[40m2 \u001b[m\u001b[94m\u001b[100m\u001b[34m    * \u001b[m\u001b[94m\u001b[100m\u001b[95mDB Migration 2015-03-30\u001b[m\u001b[94m\u001b[100m                                                  \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[16;3H\u001b[38;5;146m\u001b[40m3 \u001b[m\u001b[94m\u001b[100m\u001b[34m    * \u001b[m\u001b[94m\u001b[100m\u001b[95mElastic Search, DB Migration, Unicode Error 2015-03-18\u001b[m\u001b[94m\u001b[100m                   \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[17;3H\u001b[38;5;146m\u001b[40m4 \u001b[m\u001b[94m\u001b[100m\u001b[34m    * \u001b[m\u001b[94m\u001b[100m\u001b[95mDB Migration 2015-03-16\u001b[m\u001b[94m\u001b[100m                                                  \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[18;3H\u001b[38;5;146m\u001b[40m5 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[42;77H\u001b[38;5;109m\u001b[48;5;241m6%\u001b[m\u001b[94m\u001b[100m\u001b[5C\u001b[38;5;24m\u001b[48;5;102m3:\u001b[3;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.169986,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100m\u001b[43;166Hj\u001b[3;5H"
+    ],
+    [
+      0.003158,
+      "\u001b[43;166H  \u001b[4;5H\u001b[1;3H\u001b[38;5;146m\u001b[40m3 \u001b[m\u001b[94m\u001b[100m=\u001b[1m\u001b[91m Pristones Log \u001b[m\u001b[94m\u001b[100m=                                                              \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[2;3H\u001b[38;5;146m\u001b[40m2 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\r\n\u001b[38;5;146m\u001b[40m  1 \u001b[m\u001b[94m\u001b[100m==\u001b[1m\u001b[91m 2015 \u001b[m\u001b[94m\u001b[100m==                                                                     \u001b[40m \u001b[m\u001b[94m\u001b[100m\r\n\u001b[93m4   \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[5;3H\u001b[38;5;146m\u001b[40m1 \u001b[m\u001b[94m\u001b[100m===\u001b[1m\u001b[91m May \u001b[m\u001b[94m\u001b[100m===                                                                    \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[6;3H\u001b[38;5;146m\u001b[40m2 \u001b[m\u001b[94m\u001b[100m\u001b[34m    * \u001b[m\u001b[94m\u001b[100m\u001b[95mtoday's log 2015-05-06\u001b[m\u001b[94m\u001b[100m                                                   \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[7;3H\u001b[38;5;146m\u001b[40m3 \u001b[m\u001b[94m\u001b[100m                                                       "
+    ],
+    [
+      0.000152,
+      "                        \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[8;3H\u001b[38;5;146m\u001b[40m4 \u001b[m\u001b[94m\u001b[100m===\u001b[1m\u001b[91m April \u001b[m\u001b[94m\u001b[100m===                                                                  \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[9;3H\u001b[38;5;146m\u001b[40m5 \u001b[m\u001b[94m\u001b[100m\u001b[34m    * \u001b[m\u001b[94m\u001b[100m\u001b[95mDB migration 2015-04-20\u001b[m\u001b[94m\u001b[100m                                                  \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[10;3H\u001b[38;5;146m\u001b[40m6 \u001b[m\u001b[94m\u001b[100m\u001b[34m    * \u001b[m\u001b[94m\u001b[100m\u001b[95mDB Migration 2015-04-13\u001b[m\u001b[94m\u001b[100m                                                  \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[11;3H\u001b[38;5;146m\u001b[40m7 \u001b[m\u001b[94m\u001b[100m\u001b[34m    * \u001b[m\u001b[94m\u001b[100m\u001b[95mDB Migration 2015-04-06\u001b[m\u001b[94m\u001b[100m                                                  \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[12;3H\u001b[38;5;146m\u001b[40m8 \u001b[m\u001b[94m\u001b[100m\u001b[34m    * \u001b[m\u001b[94m\u001b[100m\u001b[95mPandas + GA 2015-04-01\u001b[m\u001b[94m\u001b[100m                                                   \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[13;2H\u001b[38;5;146m\u001b[40m 9 \u001b[m\u001b[94m\u001b[100m                                                                            "
+    ],
+    [
+      0.002792,
+      "   \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[14;3H\u001b[38;5;146m\u001b[40m0 \u001b[m\u001b[94m\u001b[100m===\u001b[1m\u001b[91m March \u001b[m\u001b[94m\u001b[100m===                                                                  \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[15;3H\u001b[38;5;146m\u001b[40m1 \u001b[m\u001b[94m\u001b[100m\u001b[34m    * \u001b[m\u001b[94m\u001b[100m\u001b[95mDB Migration 2015-03-30\u001b[m\u001b[94m\u001b[100m                                                  \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[16;3H\u001b[38;5;146m\u001b[40m2 \u001b[m\u001b[94m\u001b[100m\u001b[34m    * \u001b[m\u001b[94m\u001b[100m\u001b[95mElastic Search, DB Migration, Unicode Error 2015-03-18\u001b[m\u001b[94m\u001b[100m                   \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[17;3H\u001b[38;5;146m\u001b[40m3 \u001b[m\u001b[94m\u001b[100m\u001b[34m    * \u001b[m\u001b[94m\u001b[100m\u001b[95mDB Migration 2015-03-16\u001b[m\u001b[94m\u001b[100m                                                  \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[18;3H\u001b[38;5;146m\u001b[40m4 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[42;76H\u001b[38;5;109m\u001b[48;5;241m22%\u001b[m\u001b[94m\u001b[100m\u001b[5C\u001b[38;5;24m\u001b[48;5;102m4:\u001b[4;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.153800,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100m\u001b[43;166Hj\u001b[4;5H"
+    ],
+    [
+      0.002957,
+      "\u001b[43;166H  \u001b[5;5H\u001b[1;3H\u001b[38;5;146m\u001b[40m4 \u001b[m\u001b[94m\u001b[100m=\u001b[1m\u001b[91m Pristones Log \u001b[m\u001b[94m\u001b[100m=                                                              \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[2;3H\u001b[38;5;146m\u001b[40m3 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[3;3H\u001b[38;5;146m\u001b[40m2 \u001b[m\u001b[94m\u001b[100m==\u001b[1m\u001b[91m 2015 \u001b[m\u001b[94m\u001b[100m==                                                                     \u001b[40m \u001b[m\u001b[94m\u001b[100m\r\n\u001b[38;5;146m\u001b[40m  1 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\r\n\u001b[93m5   \u001b[m\u001b[94m\u001b[100m===\u001b[1m\u001b[91m May \u001b[m\u001b[94m\u001b[100m===                                                                    \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[6;3H\u001b[38;5;146m\u001b[40m1 \u001b[m\u001b[94m\u001b[100m\u001b[34m    * \u001b[m\u001b[94m\u001b[100m\u001b[95mtoday's log 2015-05-06\u001b[m\u001b[94m\u001b[100m                                                   \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[7;3H\u001b[38;5;146m\u001b[40m2 \u001b[m\u001b[94m\u001b[100m                                                       "
+    ],
+    [
+      0.000129,
+      "                        \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[8;3H\u001b[38;5;146m\u001b[40m3 \u001b[m\u001b[94m\u001b[100m===\u001b[1m\u001b[91m April \u001b[m\u001b[94m\u001b[100m===                                                                  \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[9;3H\u001b[38;5;146m\u001b[40m4 \u001b[m\u001b[94m\u001b[100m\u001b[34m    * \u001b[m\u001b[94m\u001b[100m\u001b[95mDB migration 2015-04-20\u001b[m\u001b[94m\u001b[100m                                                  \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[10;3H\u001b[38;5;146m\u001b[40m5 \u001b[m\u001b[94m\u001b[100m\u001b[34m    * \u001b[m\u001b[94m\u001b[100m\u001b[95mDB Migration 2015-04-13\u001b[m\u001b[94m\u001b[100m                                                  \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[11;3H\u001b[38;5;146m\u001b[40m6 \u001b[m\u001b[94m\u001b[100m\u001b[34m    * \u001b[m\u001b[94m\u001b[100m\u001b[95mDB Migration 2015-04-06\u001b[m\u001b[94m\u001b[100m                                                  \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[12;3H\u001b[38;5;146m\u001b[40m7 \u001b[m\u001b[94m\u001b[100m\u001b[34m    * \u001b[m\u001b[94m\u001b[100m\u001b[95mPandas + GA 2015-04-01\u001b[m\u001b[94m\u001b[100m                                                   \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[13;3H\u001b[38;5;146m\u001b[40m8 \u001b[m\u001b[94m\u001b[100m                                                                             "
+    ],
+    [
+      0.002553,
+      "  \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[14;2H\u001b[38;5;146m\u001b[40m 9 \u001b[m\u001b[94m\u001b[100m===\u001b[1m\u001b[91m March \u001b[m\u001b[94m\u001b[100m===                                                                  \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[15;3H\u001b[38;5;146m\u001b[40m0 \u001b[m\u001b[94m\u001b[100m\u001b[34m    * \u001b[m\u001b[94m\u001b[100m\u001b[95mDB Migration 2015-03-30\u001b[m\u001b[94m\u001b[100m                                                  \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[16;3H\u001b[38;5;146m\u001b[40m1 \u001b[m\u001b[94m\u001b[100m\u001b[34m    * \u001b[m\u001b[94m\u001b[100m\u001b[95mElastic Search, DB Migration, Unicode Error 2015-03-18\u001b[m\u001b[94m\u001b[100m                   \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[17;3H\u001b[38;5;146m\u001b[40m2 \u001b[m\u001b[94m\u001b[100m\u001b[34m    * \u001b[m\u001b[94m\u001b[100m\u001b[95mDB Migration 2015-03-16\u001b[m\u001b[94m\u001b[100m                                                  \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[18;3H\u001b[38;5;146m\u001b[40m3 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[42;77H\u001b[38;5;109m\u001b[48;5;241m7%\u001b[m\u001b[94m\u001b[100m\u001b[5C\u001b[38;5;24m\u001b[48;5;102m5:\u001b[5;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.146327,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100m\u001b[43;166Hj\u001b[5;5H"
+    ],
+    [
+      0.002980,
+      "\u001b[43;166H  \u001b[6;5H\u001b[1;3H\u001b[38;5;146m\u001b[40m5 \u001b[m\u001b[94m\u001b[100m=\u001b[1m\u001b[91m Pristones Log \u001b[m\u001b[94m\u001b[100m=                                                              \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[2;3H\u001b[38;5;146m\u001b[40m4 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[3;3H\u001b[38;5;146m\u001b[40m3 \u001b[m\u001b[94m\u001b[100m==\u001b[1m\u001b[91m 2015 \u001b[m\u001b[94m\u001b[100m==                                                                     \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[4;3H\u001b[38;5;146m\u001b[40m2 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\r\n\u001b[38;5;146m\u001b[40m  1 \u001b[m\u001b[94m\u001b[100m===\u001b[1m\u001b[91m May \u001b[m\u001b[94m\u001b[100m===                                                                    \u001b[40m \u001b[m\u001b[94m\u001b[100m\r\n\u001b[93m6   \u001b[m\u001b[94m\u001b[100m\u001b[34m    * \u001b[m\u001b[94m\u001b[100m\u001b[95m[[2015-05-06|today's log 2015-05-06]]\u001b[m\u001b[94m\u001b[100m                                    \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[7;3H\u001b[38;5;146m\u001b[40m1 \u001b[m\u001b[94m\u001b[100m                                                       "
+    ],
+    [
+      0.000127,
+      "                        \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[8;3H\u001b[38;5;146m\u001b[40m2 \u001b[m\u001b[94m\u001b[100m===\u001b[1m\u001b[91m April \u001b[m\u001b[94m\u001b[100m===                                                                  \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[9;3H\u001b[38;5;146m\u001b[40m3 \u001b[m\u001b[94m\u001b[100m\u001b[34m    * \u001b[m\u001b[94m\u001b[100m\u001b[95mDB migration 2015-04-20\u001b[m\u001b[94m\u001b[100m                                                  \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[10;3H\u001b[38;5;146m\u001b[40m4 \u001b[m\u001b[94m\u001b[100m\u001b[34m    * \u001b[m\u001b[94m\u001b[100m\u001b[95mDB Migration 2015-04-13\u001b[m\u001b[94m\u001b[100m                                                  \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[11;3H\u001b[38;5;146m\u001b[40m5 \u001b[m\u001b[94m\u001b[100m\u001b[34m    * \u001b[m\u001b[94m\u001b[100m\u001b[95mDB Migration 2015-04-06\u001b[m\u001b[94m\u001b[100m                                                  \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[12;3H\u001b[38;5;146m\u001b[40m6 \u001b[m\u001b[94m\u001b[100m\u001b[34m    * \u001b[m\u001b[94m\u001b[100m\u001b[95mPandas + GA 2015-04-01\u001b[m\u001b[94m\u001b[100m                                                   \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[13;3H\u001b[38;5;146m\u001b[40m7 \u001b[m\u001b[94m\u001b[100m                                                                             "
+    ],
+    [
+      0.002847,
+      "  \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[14;3H\u001b[38;5;146m\u001b[40m8 \u001b[m\u001b[94m\u001b[100m===\u001b[1m\u001b[91m March \u001b[m\u001b[94m\u001b[100m===                                                                  \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[15;2H\u001b[38;5;146m\u001b[40m 9 \u001b[m\u001b[94m\u001b[100m\u001b[34m    * \u001b[m\u001b[94m\u001b[100m\u001b[95mDB Migration 2015-03-30\u001b[m\u001b[94m\u001b[100m                                                  \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[16;3H\u001b[38;5;146m\u001b[40m0 \u001b[m\u001b[94m\u001b[100m\u001b[34m    * \u001b[m\u001b[94m\u001b[100m\u001b[95mElastic Search, DB Migration, Unicode Error 2015-03-18\u001b[m\u001b[94m\u001b[100m                   \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[17;3H\u001b[38;5;146m\u001b[40m1 \u001b[m\u001b[94m\u001b[100m\u001b[34m    * \u001b[m\u001b[94m\u001b[100m\u001b[95mDB Migration 2015-03-16\u001b[m\u001b[94m\u001b[100m                                                  \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[18;3H\u001b[38;5;146m\u001b[40m2 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[42;76H\u001b[38;5;109m\u001b[48;5;241m33%\u001b[m\u001b[94m\u001b[100m\u001b[5C\u001b[38;5;24m\u001b[48;5;102m6:\u001b[6;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.146152,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100m\u001b[43;166Hj\u001b[6;5H"
+    ],
+    [
+      0.002973,
+      "\u001b[43;166H  \u001b[7;5H\u001b[1;3H\u001b[38;5;146m\u001b[40m6 \u001b[m\u001b[94m\u001b[100m=\u001b[1m\u001b[91m Pristones Log \u001b[m\u001b[94m\u001b[100m=                                                              \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[2;3H\u001b[38;5;146m\u001b[40m5 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[3;3H\u001b[38;5;146m\u001b[40m4 \u001b[m\u001b[94m\u001b[100m==\u001b[1m\u001b[91m 2015 \u001b[m\u001b[94m\u001b[100m==                                                                     \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[4;3H\u001b[38;5;146m\u001b[40m3 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[5;3H\u001b[38;5;146m\u001b[40m2 \u001b[m\u001b[94m\u001b[100m===\u001b[1m\u001b[91m May \u001b[m\u001b[94m\u001b[100m===                                                                    \u001b[40m \u001b[m\u001b[94m\u001b[100m\r\n\u001b[38;5;146m\u001b[40m  1 \u001b[m\u001b[94m\u001b[100m\u001b[34m    * \u001b[m\u001b[94m\u001b[100m\u001b[95mtoday's log 2015-05-06\u001b[m\u001b[94m\u001b[100m                                                   \u001b[40m \u001b[m\u001b[94m\u001b[100m\r\n\u001b[93m7   \u001b[m\u001b[94m\u001b[100m                                                       "
+    ],
+    [
+      0.000123,
+      "                        \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[8;3H\u001b[38;5;146m\u001b[40m1 \u001b[m\u001b[94m\u001b[100m===\u001b[1m\u001b[91m April \u001b[m\u001b[94m\u001b[100m===                                                                  \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[9;3H\u001b[38;5;146m\u001b[40m2 \u001b[m\u001b[94m\u001b[100m\u001b[34m    * \u001b[m\u001b[94m\u001b[100m\u001b[95mDB migration 2015-04-20\u001b[m\u001b[94m\u001b[100m                                                  \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[10;3H\u001b[38;5;146m\u001b[40m3 \u001b[m\u001b[94m\u001b[100m\u001b[34m    * \u001b[m\u001b[94m\u001b[100m\u001b[95mDB Migration 2015-04-13\u001b[m\u001b[94m\u001b[100m                                                  \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[11;3H\u001b[38;5;146m\u001b[40m4 \u001b[m\u001b[94m\u001b[100m\u001b[34m    * \u001b[m\u001b[94m\u001b[100m\u001b[95mDB Migration 2015-04-06\u001b[m\u001b[94m\u001b[100m                                                  \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[12;3H\u001b[38;5;146m\u001b[40m5 \u001b[m\u001b[94m\u001b[100m\u001b[34m    * \u001b[m\u001b[94m\u001b[100m\u001b[95mPandas + GA 2015-04-01\u001b[m\u001b[94m\u001b[100m                                                   \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[13;3H\u001b[38;5;146m\u001b[40m6 \u001b[m\u001b[94m\u001b[100m                                                                             "
+    ],
+    [
+      0.002711,
+      "  \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[14;3H\u001b[38;5;146m\u001b[40m7 \u001b[m\u001b[94m\u001b[100m===\u001b[1m\u001b[91m March \u001b[m\u001b[94m\u001b[100m===                                                                  \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[15;3H\u001b[38;5;146m\u001b[40m8 \u001b[m\u001b[94m\u001b[100m\u001b[34m    * \u001b[m\u001b[94m\u001b[100m\u001b[95mDB Migration 2015-03-30\u001b[m\u001b[94m\u001b[100m                                                  \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[16;2H\u001b[38;5;146m\u001b[40m 9 \u001b[m\u001b[94m\u001b[100m\u001b[34m    * \u001b[m\u001b[94m\u001b[100m\u001b[95mElastic Search, DB Migration, Unicode Error 2015-03-18\u001b[m\u001b[94m\u001b[100m                   \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[17;3H\u001b[38;5;146m\u001b[40m0 \u001b[m\u001b[94m\u001b[100m\u001b[34m    * \u001b[m\u001b[94m\u001b[100m\u001b[95mDB Migration 2015-03-16\u001b[m\u001b[94m\u001b[100m                                                  \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[18;3H\u001b[38;5;146m\u001b[40m1 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[42;77H\u001b[38;5;109m\u001b[48;5;241m8%\u001b[m\u001b[94m\u001b[100m\u001b[5C\u001b[38;5;24m\u001b[48;5;102m7:\u001b[7;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.222487,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100m\u001b[1;3H\u001b[38;5;146m\u001b[40m8 \u001b[m\u001b[94m\u001b[100m=\u001b[1m\u001b[91m Pristones Log \u001b[m\u001b[94m\u001b[100m=                                                              \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[2;3H\u001b[38;5;146m\u001b[40m7 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[3;3H\u001b[38;5;146m\u001b[40m6 \u001b[m\u001b[94m\u001b[100m==\u001b[1m\u001b[91m 2015 \u001b[m\u001b[94m\u001b[100m==                                                                     \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[4;3H\u001b[38;5;146m\u001b[40m5 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[5;3H\u001b[38;5;146m\u001b[40m4 \u001b[m\u001b[94m\u001b[100m===\u001b[1m\u001b[91m May \u001b[m\u001b[94m\u001b[100m===                                                                    \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[6;3H\u001b[38;5;146m\u001b[40m3 \u001b[m\u001b[94m\u001b[100m\u001b[34m    * \u001b[m\u001b[94m\u001b[100m\u001b[95mtoday's log 2015-05-06\u001b[m\u001b[94m\u001b[100m                                                   \u001b[40m \u001b[m\u001b[94m\u001b[100m\r\n\u001b[38;5;146m\u001b[40m  2 \u001b[m\u001b[94m\u001b[100m                                       "
+    ],
+    [
+      0.000039,
+      "                                        \u001b[40m \u001b[m\u001b[94m\u001b[100m\r\n\r\n\u001b[93m9   \u001b[m\u001b[94m\u001b[100m\u001b[34m    * \u001b[m\u001b[94m\u001b[100m\u001b[34m\u001b[40m[\u001b[m\u001b[94m\u001b[100m\u001b[95m[2015-04-20|DB migration 2015-04-20]\u001b[m\u001b[94m\u001b[100m\u001b[34m\u001b[40m]\u001b[m\u001b[94m\u001b[100m                                   \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[10;3H\u001b[38;5;146m\u001b[40m1 \u001b[m\u001b[94m\u001b[100m\u001b[34m    * \u001b[m\u001b[94m\u001b[100m\u001b[95mDB Migration 2015-04-13\u001b[m\u001b[94m\u001b[100m                                                  \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[11;3H\u001b[38;5;146m\u001b[40m2 \u001b[m\u001b[94m\u001b[100m\u001b[34m    * \u001b[m\u001b[94m\u001b[100m\u001b[95mDB Migration 2015-04-06\u001b[m\u001b[94m\u001b[100m                                                  \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[12;3H\u001b[38;5;146m\u001b[40m3 \u001b[m\u001b[94m\u001b[100m\u001b[34m    * \u001b[m\u001b[94m\u001b[100m\u001b[95mPandas + GA 2015-04-01\u001b[m\u001b[94m\u001b[100m                                                   \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[13;3H\u001b[38;5;146m\u001b[40m4 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[14;3H\u001b[38;5;146m\u001b[40m5 \u001b[m\u001b[94m\u001b[100m===\u001b[1m\u001b[91m March \u001b[m\u001b[94m"
+    ],
+    [
+      0.002695,
+      "\u001b[100m===                                                                  \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[15;3H\u001b[38;5;146m\u001b[40m6 \u001b[m\u001b[94m\u001b[100m\u001b[34m    * \u001b[m\u001b[94m\u001b[100m\u001b[95mDB Migration 2015-03-30\u001b[m\u001b[94m\u001b[100m                                                  \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[16;3H\u001b[38;5;146m\u001b[40m7 \u001b[m\u001b[94m\u001b[100m\u001b[34m    * \u001b[m\u001b[94m\u001b[100m\u001b[95mElastic Search, DB Migration, Unicode Error 2015-03-18\u001b[m\u001b[94m\u001b[100m                   \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[17;2H\u001b[38;5;146m\u001b[40m 8 \u001b[m\u001b[94m\u001b[100m\u001b[34m    * \u001b[m\u001b[94m\u001b[100m\u001b[95mDB Migration 2015-03-16\u001b[m\u001b[94m\u001b[100m                                                  \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[18;2H\u001b[38;5;146m\u001b[40m 9 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[42;76H\u001b[38;5;109m\u001b[48;5;241m50%\u001b[m\u001b[94m\u001b[100m\u001b[5C\u001b[38;5;24m\u001b[48;5;102m9:7 \u001b[9;11H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.952904,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100m\u001b[43;166Hy\u001b[9;11H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.143132,
+      "\u001b[?25l\u001b[43;166H  \u001b[9;11H\u001b[9;11H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[9;11H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.002904,
+      "\u001b[?25l\u001b[9;11H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.231420,
+      "\u001b[?25l\u001b[43;166H^W\u001b[9;11H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.078398,
+      "\u001b[?25l\u001b[43;166H   \u001b[9;11H"
+    ],
+    [
+      0.000019,
+      "\u001b[43;166H^Wl\u001b[9;11H"
+    ],
+    [
+      0.004066,
+      "\u001b]2;2015-05-06.wiki (~/Dropbox/wiki/text/pristoneslog) - VIM\u0007"
+    ],
+    [
+      0.003968,
+      "\u001b[9;11H\u001b[95mDB migration 2015-04-20\u001b[m\u001b[94m\u001b[100m                                                  \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[43;166H    \u001b[9;94H\u001b[42;1H\u001b[38;5;102m\u001b[48;5;24m pristones.wiki \u001b[m\u001b[94m\u001b[100m\u001b[38;5;230m\u001b[48;5;241me\u001b[m\u001b[94m\u001b[100m\u0008\u001b[38;5;24m\u001b[48;5;24m⮀\u001b[m\u001b[94m\u001b[100m\u001b[38;5;230m\u001b[48;5;241mr\u001b[m\u001b[94m\u001b[100m\u0008\u001b[38;5;102m\u001b[48;5;24m                                                       \u001b[m\u001b[94m\u001b[100m\u001b[38;5;24m\u001b[48;5;24m⮂\u001b[m\u001b[94m\u001b[100m\u001b[38;5;109m\u001b[48;5;241m \u001b[m\u001b[94m\u001b[100m\u0008\u001b[38;5;66m\u001b[48;5;24m  50% \u001b[m\u001b[94m\u001b[100m\u001b[38;5;241m\u001b[48;5;24m⮂\u001b[m\u001b[94m\u001b[100m\u001b[38;5;24m\u001b[48;5;102m \u001b[m\u001b[94m\u001b[100m\u0008\u001b[38;5;24m\u001b[48;5;241m   9:7  \u001b[m\u001b[94m\u001b[100m\u001b[32m\u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[38;5;230m\u001b[48;5;32m NORMAL \u001b[m\u001b[94m\u001b[100m\u001b[38;5;102m\u001b[48;5;24m-\u001b[m\u001b[94m\u001b[100m\u0008\u001b[38;5;32m\u001b[48;5;241m⮀\u001b[m\u001b[94m\u001b[100m\u001b[38;5;102m\u001b[48;5;24m0\u001b[m\u001b[94m\u001b[100m\u0008\u001b[38;5;230m\u001b[48;5;241m ⭠ master ⮁ 2015-05-06.wiki \u001b[m\u001b[94m\u001b[100m\u001b[38;5;241m\u001b[48;5;24m⮀\u001b[m\u001b[94m\u001b[100m\u001b[38;5;109m\u001b[48;5;24m        \u001b[m\u001b[94m\u001b[100m\u001b[38;5;24m\u001b[48;5;24m⮃\u001b[m\u001b[94m\u001b[100m\u001b[38;5;109m\u001b[48;5;24m uni"
+    ],
+    [
+      0.000065,
+      "x ⮃ utf-8 ⮃ vimwiki \u001b[m\u001b[94m\u001b[100m\u001b[38;5;241m\u001b[48;5;24m⮂\u001b[m\u001b[94m\u001b[100m\u001b[38;5;66m\u001b[48;5;24m \u001b[m\u001b[94m\u001b[100m\u0008\u001b[38;5;109m\u001b[48;5;241m 100% \u001b[m\u001b[94m\u001b[100m\u001b[38;5;102m\u001b[48;5;241m⮂\u001b[m\u001b[94m\u001b[100m\u001b[38;5;24m\u001b[48;5;241m \u001b[m\u001b[94m\u001b[100m\u0008\u001b[38;5;24m\u001b[48;5;102m   9:1  \u001b[9;94H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.442867,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100m\u001b[1;92H\u001b[38;5;146m\u001b[40m9 \u001b[m\u001b[94m\u001b[100m=\u001b[1m\u001b[91m today's log 2015-05-06 \u001b[m\u001b[94m\u001b[100m=                                                     \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[2;92H\u001b[38;5;146m\u001b[40m8 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[3;92H\u001b[38;5;146m\u001b[40m7 \u001b[m\u001b[94m\u001b[100m==\u001b[1m\u001b[91m 2015-05-06 15:40:41 \u001b[m\u001b[94m\u001b[100m==                                                      \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[4;92H\u001b[38;5;146m\u001b[40m6 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[5;92H\u001b[38;5;146m\u001b[40m5 \u001b[m\u001b[94m\u001b[100mSome stuff....                                                                 \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[6;92H\u001b[38;5;146m\u001b[40m4 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[7;92H\u001b[38;5;146m\u001b[40m3 \u001b[m\u001b[94m\u001b[100m\u001b[95m글쓰기 관찰\u001b[m\u001b[94m\u001b[100m                                                        "
+    ],
+    [
+      0.000042,
+      "            \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[8;92H\u001b[38;5;146m\u001b[40m2 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[9;90H\u001b[38;5;146m\u001b[40m  1 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[10;90H\u001b[93m10  \u001b[m\u001b[94m\u001b[100m\u001b[34m    * \u001b[m\u001b[94m\u001b[100m\u001b[95m[[2015-04-20|DB migration 2015-04-20]]\u001b[m\u001b[94m\u001b[100m                                   \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[42;127H\u001b[38;5;230m\u001b[48;5;241m⮁ + \u001b[m\u001b[94m\u001b[100m\u001b[38;5;241m\u001b[48;5;24m⮀\u001b[m\u001b[94m\u001b[100m\u001b[39C\u001b[38;5;24m\u001b[48;5;102m10:5 \u001b]2;2015-05-06.wiki + (~/Dropbox/wiki/text/pristoneslog) - VIM\u0007"
+    ],
+    [
+      0.001373,
+      "\u001b[10;98H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.611619,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100m\u001b[43;166Hd\u001b[10;98H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.053683,
+      "\u001b[?25l\u001b[43;166H  \u001b[10;98H\u001b[10;98H\u001b[?12l\u001b[?25h\u001b[?25l\u0008\u0008\u0008\u0008    \u001b[34m\u001b[40m[\u001b[m\u001b[94m\u001b[100m\u001b[95m[2015-04-20|DB migration 2015-04-20]\u001b[m\u001b[94m\u001b[100m\u001b[34m\u001b[40m]\u001b[m\u001b[94m\u001b[100m                                     \u001b[40m \u001b[10;98H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.002876,
+      "\u001b[?25l\u001b[10;98H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.343362,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100m\u001b[43;166Hi\u001b[10;98H"
+    ],
+    [
+      0.002535,
+      "\u001b[43;166H  \u001b[10;98H\u001b[43;1H\u001b[34m--\u001b[m\u001b[94m\u001b[100mr\u0008\u001b[34m INSERT\u001b[m\u001b[94m\u001b[100ms\u0008\u001b[34m --\u001b[m\u001b[94m\u001b[100mi\u001b[43;13H\u001b[K"
+    ],
+    [
+      0.009041,
+      "\u001b[42;90H\u001b[38;5;230m\u001b[48;5;100m INSERT \u001b[m\u001b[94m\u001b[100m\u001b[38;5;100m\u001b[48;5;241m⮀\u001b[m\u001b[94m\u001b[100m\u001b[38;5;230m\u001b[48;5;241m \u001b[10;98H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.234408,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100m\u0008\u0008\u0008\u0008\u001b[95m[[20\u001b[m\u001b[94m\u001b[100m\u001b[34m\u001b[40m1\u001b[m\u001b[94m\u001b[100m\u001b[95m5-04-20|DB migration 2015-04-20]]\u001b[m\u001b[94m\u001b[100m                                         \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[10;94H\u001b[34m\u001b[40m[\u001b[m\u001b[94m\u001b[100m\u001b[95m[2015-04-20|DB migration 2015-04-20]\u001b[m\u001b[94m\u001b[100m\u001b[34m\u001b[40m]\u001b[m\u001b[94m\u001b[100m                                         \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[42;174H\u001b[38;5;24m\u001b[48;5;102m1 \u001b[10;94H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.439547,
+      "\u001b[m\u001b[94m\u001b[100m\u001b[43;1H\u001b[K\u001b[10;94H\u001b[?25l\u001b[43;166H^[\u001b[10;94H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.186453,
+      "\u001b[?25l\u001b[43;166H   \u001b[10;94H"
+    ],
+    [
+      0.005633,
+      "\u001b[42;90H\u001b[38;5;230m\u001b[48;5;32m NORMAL \u001b[m\u001b[94m\u001b[100m\u001b[38;5;32m\u001b[48;5;241m⮀\u001b[m\u001b[94m\u001b[100m\u001b[38;5;230m\u001b[48;5;241m \u001b[10;94H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[m\u001b[94m\u001b[100m\u001b[43;166Hl\u001b[10;94H"
+    ],
+    [
+      0.007014,
+      "\u001b[43;166H  \u001b[10;95H\u0008\u001b[95m[\u001b[m\u001b[94m\u001b[100m\u001b[34m\u001b[40m[\u001b[m\u001b[94m\u001b[100m\u001b[95m2015-04-20|DB migration 2015-04-20\u001b[m\u001b[94m\u001b[100m\u001b[34m\u001b[40m]\u001b[m\u001b[94m\u001b[100m\u001b[95m]\u001b[m\u001b[94m\u001b[100m                                         \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[42;174H\u001b[38;5;24m\u001b[48;5;102m2 \u001b[10;95H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.259446,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100m\u001b[43;166Hk\u001b[10;95H"
+    ],
+    [
+      0.002883,
+      "\u001b[43;166H  \u001b[9;94H\u001b[1;92H\u001b[38;5;146m\u001b[40m8 \u001b[m\u001b[94m\u001b[100m=\u001b[1m\u001b[91m today's log 2015-05-06 \u001b[m\u001b[94m\u001b[100m=                                                     \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[2;92H\u001b[38;5;146m\u001b[40m7 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[3;92H\u001b[38;5;146m\u001b[40m6 \u001b[m\u001b[94m\u001b[100m==\u001b[1m\u001b[91m 2015-05-06 15:40:41 \u001b[m\u001b[94m\u001b[100m==                                                      \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[4;92H\u001b[38;5;146m\u001b[40m5 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[5;92H\u001b[38;5;146m\u001b[40m4 \u001b[m\u001b[94m\u001b[100mSome stuff....                                                                 \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[6;92H\u001b[38;5;146m\u001b[40m3 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[7;92H\u001b[38;5;146m\u001b[40m2 \u001b[m\u001b[94m\u001b[100m\u001b[95m글쓰기 관찰\u001b[m\u001b[94m\u001b[100m                                                          "
+    ],
+    [
+      0.000050,
+      "          \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[8;92H\u001b[38;5;146m\u001b[40m1 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[9;90H\u001b[93m9   \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[10;90H\u001b[38;5;146m\u001b[40m  1 \u001b[m\u001b[94m\u001b[100m\u001b[95mDB migration 2015-04-20\u001b[m\u001b[94m\u001b[100m                                                        \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[42;163H\u001b[38;5;109m\u001b[48;5;241m 90\u001b[m\u001b[94m\u001b[100m\u001b[5C\u001b[38;5;24m\u001b[48;5;102m 9:1 \u001b[9;94H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.460991,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100m\u001b[43;166Hj\u001b[9;94H"
+    ],
+    [
+      0.003380,
+      "\u001b[43;166H  \u001b[10;95H\u001b[1;92H\u001b[38;5;146m\u001b[40m9 \u001b[m\u001b[94m\u001b[100m=\u001b[1m\u001b[91m today's log 2015-05-06 \u001b[m\u001b[94m\u001b[100m=                                                     \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[2;92H\u001b[38;5;146m\u001b[40m8 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[3;92H\u001b[38;5;146m\u001b[40m7 \u001b[m\u001b[94m\u001b[100m==\u001b[1m\u001b[91m 2015-05-06 15:40:41 \u001b[m\u001b[94m\u001b[100m==                                                      \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[4;92H\u001b[38;5;146m\u001b[40m6 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[5;92H\u001b[38;5;146m\u001b[40m5 \u001b[m\u001b[94m\u001b[100mSome stuff....                                                                 \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[6;92H\u001b[38;5;146m\u001b[40m4 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[7;92H\u001b[38;5;146m\u001b[40m3 \u001b[m\u001b[94m\u001b[100m\u001b[95m글쓰기 관찰\u001b[m\u001b[94m\u001b[100m                                                         "
+    ],
+    [
+      0.000049,
+      "           \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[8;92H\u001b[38;5;146m\u001b[40m2 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[9;90H\u001b[38;5;146m\u001b[40m  1 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[10;90H\u001b[93m10  \u001b[m\u001b[94m\u001b[100m\u001b[95m[\u001b[m\u001b[94m\u001b[100m\u001b[34m\u001b[40m[\u001b[m\u001b[94m\u001b[100m\u001b[95m2015-04-20|DB migration 2015-04-20\u001b[m\u001b[94m\u001b[100m\u001b[34m\u001b[40m]\u001b[m\u001b[94m\u001b[100m\u001b[95m]\u001b[m\u001b[94m\u001b[100m                                         \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[42;163H\u001b[38;5;109m\u001b[48;5;241m100\u001b[m\u001b[94m\u001b[100m\u001b[5C\u001b[38;5;24m\u001b[48;5;102m10:2 \u001b[10;95H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.431695,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100m\u001b[43;1H\"2015-04-20.wiki\""
+    ],
+    [
+      0.000010,
+      " 25L, 1352C"
+    ],
+    [
+      0.139889,
+      "\u001b[1;90H\u001b[93m1   \u001b[m\u001b[94m\u001b[100m=\u001b[1m\u001b[91m DB migration 2015-04-20 \u001b[m\u001b[94m\u001b[100m=                                                    \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[2;92H\u001b[38;5;146m\u001b[40m1 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[3;92H\u001b[38;5;146m\u001b[40m2 \u001b[m\u001b[94m\u001b[100m==\u001b[1m\u001b[91m 2015-04-20 13:58:40 \u001b[m\u001b[94m\u001b[100m==                                                      \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[4;92H\u001b[38;5;146m\u001b[40m3 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[5;92H\u001b[38;5;146m\u001b[40m4 \u001b[m\u001b[94m\u001b[100m지난번 작업으로 일단 JSON 형식의 export 파일을 생성하는 것 까지는 되었다. 이제 \u001b[40m이\u001b[m\u001b[94m\u001b[100m를\u001b[6;92H\u001b[38;5;146m\u001b[40m5 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[7;92H\u001b[38;5;146m\u001b[40m6 \u001b[m\u001b[94m\u001b[100m==\u001b[1m\u001b[91m 2015-04-20 14:03:28 \u001b[m\u001b[94m\u001b[100m==                                       "
+    ],
+    [
+      0.000083,
+      "               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[8;92H\u001b[38;5;146m\u001b[40m7 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[9;92H\u001b[38;5;146m\u001b[40m8 \u001b[m\u001b[94m\u001b[100m\u001b[91mtag_list\u001b[m\u001b[94m\u001b[100m와 \u001b[91mmembertitle\u001b[m\u001b[94m\u001b[100m은 사용자나 회사와는 별개로 존재해야 한다. 그러므로 이를 \u001b[40m먼\u001b[m\u001b[94m\u001b[100m저\u001b[10;90H\u001b[38;5;146m\u001b[40m  9 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[11;90H\u001b[38;5;146m\u001b[40m 10 \u001b[m\u001b[94m\u001b[100m==\u001b[1m\u001b[91m 2015-04-20 14:07:48 \u001b[m\u001b[94m\u001b[100m==                                                      \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[12;90H\u001b[38;5;146m\u001b[40m 11 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[13;90H\u001b[38;5;146m\u001b[40m 12 \u001b[m\u001b[94m\u001b[100m사용자 정보를 옮겨야 할 것 같다. 어떻게?? 무엇을 옮겨야 하지? 단순히 생각하면 \u001b[91ma\u001b[m\u001b[94m\u001b[100m\u001b[91m\u001b[40mu"
+    ],
+    [
+      0.003326,
+      "\u001b[m\u001b[94m\u001b[100m\u001b[91mth_\u001b[m\u001b[94m\u001b[100m\u001b[14;90H\u001b[38;5;146m\u001b[40m 13 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[15;90H\u001b[38;5;146m\u001b[40m 14 \u001b[m\u001b[94m\u001b[100m==\u001b[1m\u001b[91m 2015-04-20 14:46:12 \u001b[m\u001b[94m\u001b[100m==                                                      \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[16;90H\u001b[38;5;146m\u001b[40m 15 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[17;90H\u001b[38;5;146m\u001b[40m 16 \u001b[m\u001b[94m\u001b[100m\u001b[91mauth_user\u001b[m\u001b[94m\u001b[100m와 \u001b[91mcore_profile\u001b[m\u001b[94m\u001b[100m을 옮기면 된다. Social auth 관련된 부분은 그냥 테이블을\u001b[40m \u001b[m\u001b[94m\u001b[100m그\u003e\u001b[18;90H\u001b[38;5;146m\u001b[40m 17 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[19;90H\u001b[38;5;146m\u001b[40m 18 \u001b[m\u001b[94m\u001b[100m==\u001b[1m\u001b[91m 2015-04-20 15:29:17 \u001b[m\u001b[94m\u001b[100m==                                                      \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[20;90H\u001b[38;5;146m\u001b[40m 19 \u001b[m\u001b[94"
+    ],
+    [
+      0.000067,
+      "m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[21;90H\u001b[38;5;146m\u001b[40m 20 \u001b[m\u001b[94m\u001b[100mCompany 관련 정보에 \u001b[91muser_id\u001b[m\u001b[94m\u001b[100m가 들어있는 것들은 어떻게 처리하면 좋을까? ID를 그대\u001b[40m로\u001b[m\u001b[94m\u001b[100m \u003e\u001b[22;90H\u001b[38;5;146m\u001b[40m 21 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[23;90H\u001b[38;5;146m\u001b[40m 22 \u001b[m\u001b[94m\u001b[100m==\u001b[1m\u001b[91m 2015-04-20 16:01:54 \u001b[m\u001b[94m\u001b[100m==                                                      \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[24;90H\u001b[38;5;146m\u001b[40m 23 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[25;90H\u001b[38;5;146m\u001b[40m 24 \u001b[m\u001b[94m\u001b[100mcompany member를 추가하려고 하니 constraint가 걸려있어서 지금 없는 유저를 추가할 수\u001b[42;117H\u001b[38;5;230m\u001b[48;5;241m4-20.\u001b[m\u001b[94m\u001b[100m\u001b[5C\u001b[38;5;241m\u001b[48;5;24m⮀\u001b[m\u001b[94m\u001b[100m\u001b[38;5;230m\u001b[48;5;241m "
+    ],
+    [
+      0.000173,
+      "\u001b[m\u001b[94m\u001b[100m\u0008\u001b[38;5;109m\u001b[48;5;24m     \u001b[m\u001b[94m\u001b[100m\u001b[30C\u001b[38;5;109m\u001b[48;5;241m  4%\u001b[m\u001b[94m\u001b[100m\u001b[4C\u001b[38;5;24m\u001b[48;5;102m 1:1 \u001b]2;2015-04-20.wiki (~/Dropbox/wiki/text/pristoneslog) - VIM\u0007"
+    ],
+    [
+      0.001187,
+      "\u001b[1;94H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.997669,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100m\u001b[43;8H5-06.wiki\" [Modified] line 10 of 10 --100%-- col 2"
+    ],
+    [
+      0.005042,
+      "\u001b[1;90H\u001b[38;5;146m\u001b[40m  9 \u001b[m\u001b[94m\u001b[100m=\u001b[1m\u001b[91m today's log 2015-05-06 \u001b[m\u001b[94m\u001b[100m=                                                     \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[2;92H\u001b[38;5;146m\u001b[40m8 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[3;92H\u001b[38;5;146m\u001b[40m7 \u001b[m\u001b[94m\u001b[100m==\u001b[1m\u001b[91m 2015-05-06 15:40:41 \u001b[m\u001b[94m\u001b[100m==                                                      \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[4;92H\u001b[38;5;146m\u001b[40m6 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[5;92H\u001b[38;5;146m\u001b[40m5 \u001b[m\u001b[94m\u001b[100mSome stuff....                                                                 \u001b[40m  \u001b[m\u001b[94m\u001b[100m\u001b[5;174H\u001b[K\u001b[6;92H\u001b[38;5;146m\u001b[40m4 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[7;92H\u001b[38;5;146m\u001b[40m3 \u001b[m\u001b[94m\u001b[100m\u001b[95m글쓰기 관찰\u001b[m\u001b[94m\u001b[100m                                                              "
+    ],
+    [
+      0.000072,
+      "      \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[8;92H\u001b[38;5;146m\u001b[40m2 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[9;92H\u001b[38;5;146m\u001b[40m1 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m  \u001b[m\u001b[94m\u001b[100m\u001b[9;174H\u001b[K\u001b[10;90H\u001b[93m10  \u001b[m\u001b[94m\u001b[100m\u001b[95m[\u001b[m\u001b[94m\u001b[100m\u001b[34m\u001b[40m[\u001b[m\u001b[94m\u001b[100m\u001b[95m2015-04-20|DB migration 2015-04-20\u001b[m\u001b[94m\u001b[100m\u001b[34m\u001b[40m]\u001b[m\u001b[94m\u001b[100m\u001b[95m]\u001b[m\u001b[94m\u001b[100m                                         \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[11;91H\u001b[K\u001b[11;90H~\u001b[12;91H\u001b[K\u001b[12;90H~\u001b[13;91H\u001b[K\u001b[13;90H~\u001b[14;91H\u001b[K\u001b[14;90H~\u001b[15;91H\u001b[K\u001b[15;90H~\u001b[16;91H\u001b[K\u001b[16;90H~\u001b[17;91H\u001b[K\u001b[17;90H~\u001b[18;91H\u001b[K\u001b[18;90H~\u001b[19;91H\u001b[K\u001b[19;90H~\u001b[20;91H\u001b[K\u001b[20;90H~\u001b[21;91H\u001b[K\u001b[21;90H~\u001b[22;91H\u001b[K\u001b[22;90H~\u001b[23;91H\u001b[K\u001b[23;90H~\u001b[24;91H\u001b[K\u001b[24;90H~\u001b[25;91H\u001b[K\u001b[25;90H~\u001b[42;117H\u001b[38;5;230m\u001b[48;5;241m5-06.wiki ⮁ + \u001b[m\u001b[94m\u001b[100m\u001b[38;5;241m\u001b[48;5;24m⮀\u001b[m\u001b[94m\u001b[100m\u001b[31C\u001b[38;5;109m\u001b[48;5;241m100%\u001b[m\u001b[94m\u001b[100m\u001b[4C\u001b[38;5;24m"
+    ],
+    [
+      0.000219,
+      "\u001b[48;5;102m10:2 \u001b]2;2015-05-06.wiki + (~/Dropbox/wiki/text/pristoneslog) - VIM\u0007"
+    ],
+    [
+      0.001991,
+      "\u001b[10;95H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.495267,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100m\u001b[43;166Hk\u001b[10;95H"
+    ],
+    [
+      0.002919,
+      "\u001b[43;166H  \u001b[9;94H\u001b[1;92H\u001b[38;5;146m\u001b[40m8 \u001b[m\u001b[94m\u001b[100m=\u001b[1m\u001b[91m today's log 2015-05-06 \u001b[m\u001b[94m\u001b[100m=                                                     \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[2;92H\u001b[38;5;146m\u001b[40m7 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[3;92H\u001b[38;5;146m\u001b[40m6 \u001b[m\u001b[94m\u001b[100m==\u001b[1m\u001b[91m 2015-05-06 15:40:41 \u001b[m\u001b[94m\u001b[100m==                                                      \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[4;92H\u001b[38;5;146m\u001b[40m5 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[5;92H\u001b[38;5;146m\u001b[40m4 \u001b[m\u001b[94m\u001b[100mSome stuff....                                                                 \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[6;92H\u001b[38;5;146m\u001b[40m3 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[7;92H\u001b[38;5;146m\u001b[40m2 \u001b[m\u001b[94m\u001b[100m\u001b[95m글쓰기 관찰\u001b[m\u001b[94m\u001b[100m                                                          "
+    ],
+    [
+      0.000049,
+      "          \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[8;92H\u001b[38;5;146m\u001b[40m1 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[9;90H\u001b[93m9   \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[10;90H\u001b[38;5;146m\u001b[40m  1 \u001b[m\u001b[94m\u001b[100m\u001b[95mDB migration 2015-04-20\u001b[m\u001b[94m\u001b[100m                                                        \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[42;163H\u001b[38;5;109m\u001b[48;5;241m 90\u001b[m\u001b[94m\u001b[100m\u001b[5C\u001b[38;5;24m\u001b[48;5;102m 9:1 \u001b[9;94H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.164991,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100m\u001b[43;166Hk\u001b[9;94H"
+    ],
+    [
+      0.002703,
+      "\u001b[43;166H  \u001b[8;94H\u001b[1;92H\u001b[38;5;146m\u001b[40m7 \u001b[m\u001b[94m\u001b[100m=\u001b[1m\u001b[91m today's log 2015-05-06 \u001b[m\u001b[94m\u001b[100m=                                                     \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[2;92H\u001b[38;5;146m\u001b[40m6 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[3;92H\u001b[38;5;146m\u001b[40m5 \u001b[m\u001b[94m\u001b[100m==\u001b[1m\u001b[91m 2015-05-06 15:40:41 \u001b[m\u001b[94m\u001b[100m==                                                      \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[4;92H\u001b[38;5;146m\u001b[40m4 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[5;92H\u001b[38;5;146m\u001b[40m3 \u001b[m\u001b[94m\u001b[100mSome stuff....                                                                 \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[6;92H\u001b[38;5;146m\u001b[40m2 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[7;92H\u001b[38;5;146m\u001b[40m1 \u001b[m\u001b[94m\u001b[100m\u001b[95m글쓰기 관찰\u001b[m\u001b[94m\u001b[100m                                                          "
+    ],
+    [
+      0.000066,
+      "          \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[8;90H\u001b[93m8   \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[9;90H\u001b[38;5;146m\u001b[40m  1 \u001b[m\u001b[94m\u001b[100m                                                                               \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[10;92H\u001b[38;5;146m\u001b[40m2 \u001b[m\u001b[94m\u001b[100m\u001b[95mDB migration 2015-04-20\u001b[m\u001b[94m\u001b[100m                                                        \u001b[40m \u001b[m\u001b[94m\u001b[100m\u001b[42;164H\u001b[38;5;109m\u001b[48;5;241m80\u001b[m\u001b[94m\u001b[100m\u001b[6C\u001b[38;5;24m\u001b[48;5;102m8:\u001b[8;94H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.309183,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100m\u001b[43;166H:\u001b[8;94H"
+    ],
+    [
+      0.000015,
+      "\u001b[43;1H\u001b[K\u001b[43;1H:"
+    ],
+    [
+      0.000040,
+      "\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.119884,
+      "w\u0008"
+    ],
+    [
+      0.080047,
+      "  \u0008\u0008w\r"
+    ],
+    [
+      0.000161,
+      "\u001b[?25l\"2015-05-06.wiki\""
+    ],
+    [
+      0.000281,
+      " 10L, 184C written"
+    ],
+    [
+      0.024993,
+      "\u001b[8;94H\u001b[42;127H\u001b[38;5;241m\u001b[48;5;24m⮀\u001b[m\u001b[94m\u001b[100m\u001b[38;5;230m\u001b[48;5;241m \u001b[m\u001b[94m\u001b[100m\u0008\u001b[38;5;109m\u001b[48;5;24m     \u001b]2;2015-05-06.wiki (~/Dropbox/wiki/text/pristoneslog) - VIM\u0007"
+    ],
+    [
+      0.001102,
+      "\u001b[8;94H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.173384,
+      "\u001b[?25l\u001b[m\u001b[94m\u001b[100m\u001b[43;166H:\u001b[8;94H"
+    ],
+    [
+      0.000034,
+      "\u001b[43;1H\u001b[K\u001b[43;1H:"
+    ],
+    [
+      0.000037,
+      "\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.112006,
+      "q"
+    ],
+    [
+      0.000009,
+      "\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.200154,
+      "a"
+    ],
+    [
+      0.000036,
+      "\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.543792,
+      "\r"
+    ],
+    [
+      0.021177,
+      "\u001b[?25l\u001b]2;Thanks for flying Vim\u0007\u001b[43;1H\u001b[K\u001b[43;1H\u001b[?1l\u001b\u003e\u001b[?12l\u001b[?25h\u001b[?1049l"
+    ],
+    [
+      0.005014,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                               \r \r"
+    ],
+    [
+      0.000024,
+      "\u001b]2;title\u0007"
+    ],
+    [
+      0.000305,
+      "\u001b]2;~\u0007"
+    ],
+    [
+      0.000044,
+      "\u001b]1;~\u0007"
+    ],
+    [
+      0.008888,
+      "\u001b]1;       Users/shurain\u0007"
+    ],
+    [
+      0.000100,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[38;5;135mshurain\u001b[39m@\u001b[38;5;166msofia\u001b[39m \u001b[38;5;118m~\u001b[39m $ "
+    ],
+    [
+      0.000007,
+      "\u001b[K\u001b[157C\u001b[34m\u001b[39m\u001b[157D"
+    ],
+    [
+      0.000329,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[38;5;135mshurain\u001b[39m@\u001b[38;5;166msofia\u001b[39m \u001b[38;5;118m~\u001b[39m $ "
+    ],
+    [
+      0.000006,
+      "\u001b[K\u001b[157C\u001b[34m\u001b[39m\u001b[157D"
+    ],
+    [
+      0.702527,
+      "\u001b[32me\u001b[39m"
+    ],
+    [
+      0.184582,
+      "\u0008\u001b[32me\u001b[32mx\u001b[39m"
+    ],
+    [
+      0.108107,
+      "\u0008\u0008\u001b[1m\u001b[31me\u001b[1m\u001b[31mx\u001b[1m\u001b[31mi\u001b[0m\u001b[39m"
+    ],
+    [
+      0.106471,
+      "\u0008\u0008\u0008\u001b[0m\u001b[32me\u001b[0m\u001b[32mx\u001b[0m\u001b[32mi\u001b[32mt\u001b[39m"
+    ],
+    [
+      0.215080,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[38;5;135mshurain\u001b[39m@\u001b[38;5;166msofia\u001b[39m \u001b[38;5;118m~\u001b[39m $ "
+    ],
+    [
+      0.000006,
+      "\u001b[32mexit\u001b[39m\u001b[K\u001b[153C\u001b[34m\u001b[39m\u001b[153D"
+    ],
+    [
+      0.000043,
+      "\r\r\n"
+    ],
+    [
+      0.000602,
+      "\u001b]2;title\u0007"
+    ],
+    [
+      0.000118,
+      "\u001b]2;exit\u0007"
+    ],
+    [
+      0.000026,
+      "\u001b]1;exit\u0007"
+    ],
+    [
+      0.034674,
+      "\u001b]1;  exit \u0007"
+    ]
+  ]
+}
