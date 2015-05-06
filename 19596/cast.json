@@ -1,0 +1,782 @@
+{
+  "version": 1,
+  "width": 104,
+  "height": 27,
+  "duration": 39.810376,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.053430,
+      "\u001b]0;pimgeek@localhost: ~\u0007pimgeek@localhost:~$ "
+    ],
+    [
+      1.083025,
+      "#"
+    ],
+    [
+      1.383209,
+      " "
+    ],
+    [
+      3.574220,
+      "大家"
+    ],
+    [
+      0.391343,
+      "好"
+    ],
+    [
+      0.184934,
+      "，"
+    ],
+    [
+      0.618826,
+      "我"
+    ],
+    [
+      1.027378,
+      "要"
+    ],
+    [
+      0.750066,
+      "给"
+    ],
+    [
+      0.409499,
+      "大家"
+    ],
+    [
+      2.681754,
+      "讲"
+    ],
+    [
+      1.074259,
+      "一"
+    ],
+    [
+      0.850344,
+      "讲"
+    ],
+    [
+      0.168826,
+      " "
+    ],
+    [
+      3.115164,
+      "ls"
+    ],
+    [
+      0.115273,
+      " "
+    ],
+    [
+      0.248147,
+      "的"
+    ],
+    [
+      0.974348,
+      "用法"
+    ],
+    [
+      2.039561,
+      "\r\n\u001b]0;pimgeek@localhost: ~\u0007pimgeek@localhost:~$ "
+    ],
+    [
+      2.077807,
+      "l"
+    ],
+    [
+      0.147032,
+      "a"
+    ],
+    [
+      0.224365,
+      " "
+    ],
+    [
+      0.726755,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.146723,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.177499,
+      "s"
+    ],
+    [
+      0.649866,
+      "\r\n"
+    ],
+    [
+      0.001692,
+      "\u001b[0m\u001b[01;34mbin\u001b[0m  \u001b[01;34m_dev\u001b[0m  mbox  \u001b[01;34m_play\u001b[0m  \u001b[01;34mquicklisp\u001b[0m  \u001b[01;34m_tool\u001b[0m"
+    ],
+    [
+      0.000623,
+      "\r\n"
+    ],
+    [
+      0.001555,
+      "\u001b]0;pimgeek@localhost: ~\u0007pimgeek@localhost:~$ "
+    ],
+    [
+      0.907365,
+      "l"
+    ],
+    [
+      0.093029,
+      "s"
+    ],
+    [
+      0.092295,
+      " "
+    ],
+    [
+      0.355984,
+      "-"
+    ],
+    [
+      0.803467,
+      "l"
+    ],
+    [
+      0.263019,
+      "\r\n"
+    ],
+    [
+      0.002722,
+      "total 52"
+    ],
+    [
+      0.000806,
+      "\r\n"
+    ],
+    [
+      0.001209,
+      "drwxr-xr-x  2 pimgeek pimgeek  4096 May  7 00:55 \u001b[0m\u001b[01;34mbin\u001b[0m"
+    ],
+    [
+      0.000595,
+      "\r\n"
+    ],
+    [
+      0.000278,
+      "drwxr-xr-x 13 pimgeek pimgeek  4096 Feb 25 01:58 \u001b[01;34m_dev\u001b[0m"
+    ],
+    [
+      0.000492,
+      "\r\n"
+    ],
+    [
+      0.000303,
+      "-rw-------  1 pimgeek pimgeek 32312 May  3 22:52 mbox"
+    ],
+    [
+      0.000533,
+      "\r\n"
+    ],
+    [
+      0.000322,
+      "drwxr-xr-x  2 pimgeek pimgeek  4096 Nov 25 23:39 \u001b[01;34m_play\u001b[0m"
+    ],
+    [
+      0.000504,
+      "\r\n"
+    ],
+    [
+      0.000292,
+      "drwxr-xr-x  7 pimgeek pimgeek  4096 Dec 29 05:07 \u001b[01;34mquicklisp\u001b[0m"
+    ],
+    [
+      0.000239,
+      "\r\n"
+    ],
+    [
+      0.000348,
+      "drwxr-xr-x  3 pimgeek pimgeek  4096 Nov 29 02:17 \u001b[01;34m_tool\u001b[0m"
+    ],
+    [
+      0.000269,
+      "\r\n"
+    ],
+    [
+      0.001433,
+      "\u001b]0;pimgeek@localhost: ~\u0007pimgeek@localhost:~$ "
+    ],
+    [
+      1.998925,
+      "l"
+    ],
+    [
+      0.085236,
+      "s"
+    ],
+    [
+      0.177241,
+      " "
+    ],
+    [
+      0.325021,
+      "-"
+    ],
+    [
+      3.631912,
+      "a"
+    ],
+    [
+      0.719026,
+      "\r\n"
+    ],
+    [
+      0.002692,
+      "\u001b[0m\u001b[01;34m.\u001b[0m              \u001b[01;34m.cache\u001b[0m    \u001b[01;34m.fontconfig\u001b[0m             .lesshst   \u001b[01;34m_play\u001b[0m          \u001b[01;34m.rvm\u001b[0m             .vimrc"
+    ],
+    [
+      0.000696,
+      "\r\n"
+    ],
+    [
+      0.000200,
+      "\u001b[01;34m..\u001b[0m             \u001b[01;34m.config\u001b[0m   .geiser_history.racket  \u001b[01;34m.local\u001b[0m     .profile       .scala_history   \u001b[01;34m.wicd\u001b[0m"
+    ],
+    [
+      0.000600,
+      "\r\n"
+    ],
+    [
+      0.000270,
+      "\u001b[01;34m.asciinema\u001b[0m     .dbshell  \u001b[01;34m.gem\u001b[0m                    \u001b[01;34m.m2\u001b[0m        .pry_history   .sqlite_history  .Xauthority"
+    ],
+    [
+      0.000272,
+      "\r\n"
+    ],
+    [
+      0.000269,
+      ".bash_history  \u001b[01;34m.dbus\u001b[0m     .gemrc                  mbox       \u001b[01;34m.pulse\u001b[0m         \u001b[01;34m.ssh\u001b[0m             .xinitrc"
+    ],
+    [
+      0.000270,
+      "\r\n"
+    ],
+    [
+      0.000284,
+      ".bash_logout   \u001b[01;34m_dev\u001b[0m      .gitconfig              \u001b[01;34m.node-gyp\u001b[0m  .pulse-cookie  \u001b[01;34m_tool\u001b[0m            .zlogin"
+    ],
+    [
+      0.000270,
+      "\r\n"
+    ],
+    [
+      0.000261,
+      ".bash_profile  \u001b[01;36m.emacs\u001b[0m    \u001b[01;34m.gnupg\u001b[0m                  \u001b[01;34m.npm\u001b[0m       \u001b[01;34m.python-eggs\u001b[0m   \u001b[01;34m.vim\u001b[0m             .zshrc"
+    ],
+    [
+      0.001414,
+      "\r\n"
+    ],
+    [
+      0.000322,
+      ".bashrc        .emacs~   .irb-history            .npmrc     \u001b[01;34mquicklisp\u001b[0m      .viminfo"
+    ],
+    [
+      0.000283,
+      "\r\n"
+    ],
+    [
+      0.000250,
+      "\u001b[01;34mbin\u001b[0m            \u001b[01;36m.emacs.d\u001b[0m  \u001b[01;34m.lein\u001b[0m                   \u001b[01;34m.pki\u001b[0m       \u001b[01;34m.racket\u001b[0m        .viminfo.tmp"
+    ],
+    [
+      0.000412,
+      "\r\n"
+    ],
+    [
+      0.000793,
+      "\u001b]0;pimgeek@localhost: ~\u0007pimgeek@localhost:~$ "
+    ],
+    [
+      1.790928,
+      "l"
+    ],
+    [
+      0.054556,
+      "s"
+    ],
+    [
+      0.115775,
+      " "
+    ],
+    [
+      0.254913,
+      "-"
+    ],
+    [
+      0.262013,
+      "a"
+    ],
+    [
+      0.078138,
+      "l"
+    ],
+    [
+      0.301649,
+      "\r\n"
+    ],
+    [
+      0.003149,
+      "total 276"
+    ],
+    [
+      0.000627,
+      "\r\n"
+    ],
+    [
+      0.000341,
+      "drwxr-xr-x  27 pimgeek pimgeek  4096 May  7 00:58 \u001b[0m\u001b[01;34m.\u001b[0m"
+    ],
+    [
+      0.000436,
+      "\r\n"
+    ],
+    [
+      0.000271,
+      "drwxr-xr-x   4 root    root     4096 Jan 16 11:02 \u001b[01;34m..\u001b[0m"
+    ],
+    [
+      0.000619,
+      "\r\n"
+    ],
+    [
+      0.000270,
+      "drwxr-xr-x   2 pimgeek pimgeek  4096 May  7 00:58 \u001b[01;34m.asciinema\u001b[0m"
+    ],
+    [
+      0.000264,
+      "\r\n"
+    ],
+    [
+      0.001215,
+      "-rw-------   1 pimgeek pimgeek 30404 May  7 00:58 .bash_history"
+    ],
+    [
+      0.000485,
+      "\r\n"
+    ],
+    [
+      0.000350,
+      "-rw-r--r--   1 pimgeek pimgeek   220 Nov 25 03:25 .bash_logout"
+    ],
+    [
+      0.000275,
+      "\r\n"
+    ],
+    [
+      0.000279,
+      "-rw-r--r--   1 pimgeek pimgeek   396 Feb 13 10:50 .bash_profile"
+    ],
+    [
+      0.000256,
+      "\r\n"
+    ],
+    [
+      0.000423,
+      "-rw-r--r--   1 pimgeek pimgeek  3460 Nov 25 17:43 .bashrc"
+    ],
+    [
+      0.000255,
+      "\r\n"
+    ],
+    [
+      0.000270,
+      "drwxr-xr-x   2 pimgeek pimgeek  4096 May  7 00:55 \u001b[01;34mbin\u001b[0m"
+    ],
+    [
+      0.000254,
+      "\r\n"
+    ],
+    [
+      0.000037,
+      "drwxr-xr-x   6 pimgeek pimgeek  4096 Dec 31 10:33 \u001b[01;34m.cache\u001b[0m"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000177,
+      "drwx------   6 pimgeek pimgeek  4096 Dec 31 10:33 \u001b[01;34m.config\u001b[0m"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000030,
+      "-rw-r--r--   1 pimgeek pimgeek     9 Dec 22 15:46 .dbshell"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000027,
+      "drwx------   3 pimgeek pimgeek  4096 Nov 28 22:30 \u001b[01;34m.dbus\u001b[0m"
+    ],
+    [
+      0.000947,
+      "\r\n"
+    ],
+    [
+      0.000191,
+      "drwxr-xr-x  13 pimgeek pimgeek  4096 Feb 25 01:58 \u001b[01;34m_dev\u001b[0m"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000031,
+      "lrwxrwxrwx   1 pimgeek pimgeek    43 Apr 22 00:25 \u001b[01;36m.emacs\u001b[0m -\u003e \u001b[01;32m/home/pimgeek/_dev/f/prod/emacs_home/.emacs\u001b[0m"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.000029,
+      "-rw-r--r--   1 pimgeek pimgeek  1553 May  6 15:45 .emacs~"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000029,
+      "lrwxrwxrwx   1 pimgeek pimgeek    45 Apr 22 00:25 \u001b[01;36m.emacs.d\u001b[0m -\u003e \u001b[01;34m/home/pimgeek/_dev/f/prod/emacs_home/.emacs.d\u001b[0m"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000026,
+      "drwxr-xr-x   2 pimgeek pimgeek  4096 Nov 29 03:03 \u001b[01;34m.fontconfig\u001b[0m"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000023,
+      "-rw-r--r--   1 pimgeek pimgeek    35 May  1 05:17 .geiser_history.racket"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000038,
+      "drwxr-xr-x   3 pimgeek pimgeek  4096 Nov 25 18:00 \u001b[01;34m.gem\u001b[0m"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000028,
+      "-rw-r--r--   1 pimgeek pimgeek   118 Nov 25 20:24 .gemrc"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000029,
+      "-rw-r--r--   1 pimgeek pimgeek   228 Dec 15 19:35 .gitconfig"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000027,
+      "drwx------   2 pimgeek pimgeek  4096 May  2 23:26 \u001b[01;34m.gnupg\u001b[0m"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000029,
+      "-rw-r--r--   1 pimgeek pimgeek  2168 May  4 01:43 .irb-history"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000026,
+      "drwxr-xr-x   3 pimgeek pimgeek  4096 Nov 29 02:50 \u001b[01;34m.lein\u001b[0m"
+    ],
+    [
+      0.000023,
+      "\r\n"
+    ],
+    [
+      0.000017,
+      "-rw-------   1 pimgeek pimgeek   359 May  6 15:50 .lesshst"
+    ],
+    [
+      0.000000,
+      "\r\n"
+    ],
+    [
+      0.000056,
+      "drwxr-xr-x   3 pimgeek pimgeek  4096 Nov 28 22:30 \u001b[01;34m.local\u001b[0m"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000031,
+      "drwxr-xr-x   3 pimgeek pimgeek  4096 Nov 29 02:50 \u001b[01;34m.m2\u001b[0m"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000030,
+      "-rw-------   1 pimgeek pimgeek 32312 May  3 22:52 mbox"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000027,
+      "drwxr-xr-x   4 pimgeek pimgeek  4096 Feb 11 11:16 \u001b[01;34m.node-gyp\u001b[0m"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000087,
+      "drwxr-xr-x 193 pimgeek pimgeek 12288 Feb 11 11:17 \u001b[01;34m.npm\u001b[0m"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000030,
+      "-rw-------   1 pimgeek pimgeek    75 Dec 22 15:17 .npmrc"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000027,
+      "drwxr-xr-x   3 pimgeek pimgeek  4096 Nov 29 03:01 \u001b[01;34m.pki\u001b[0m"
+    ],
+    [
+      0.001208,
+      "\r\n"
+    ],
+    [
+      0.000060,
+      "drwxr-xr-x   2 pimgeek pimgeek  4096 Nov 25 23:39 \u001b[01;34m_play\u001b[0m"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000030,
+      "-rw-r--r--   1 pimgeek pimgeek   962 Nov 28 23:38 .profile"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000029,
+      "-rw-------   1 pimgeek pimgeek    11 Jan 19 12:17 .pry_history"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000026,
+      "drwx------   2 pimgeek pimgeek  4096 Jan 19 17:26 \u001b[01;34m.pulse\u001b[0m"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000028,
+      "-rw-------   1 pimgeek pimgeek   256 Dec 31 04:29 .pulse-cookie"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000026,
+      "drwxr-xr-x   3 pimgeek pimgeek  4096 Nov 29 02:19 \u001b[01;34m.python-eggs\u001b[0m"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000026,
+      "drwxr-xr-x   7 pimgeek pimgeek  4096 Dec 29 05:07 \u001b[01;34mquicklisp\u001b[0m"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.000027,
+      "drwxr-xr-x   4 pimgeek pimgeek  4096 May  7 00:52 \u001b[01;34m.racket\u001b[0m"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000025,
+      "drwxr-xr-x  26 pimgeek pimgeek  4096 Apr 26 03:31 \u001b[01;34m.rvm\u001b[0m"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000028,
+      "-rw-r--r--   1 pimgeek pimgeek    12 Jan 27 18:27 .scala_history"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000028,
+      "-rw-------   1 pimgeek pimgeek     4 Nov 28 00:51 .sqlite_history"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000026,
+      "drwx------   2 pimgeek pimgeek  4096 Apr 30 06:02 \u001b[01;34m.ssh\u001b[0m"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000000,
+      "drwxr-xr-x   3 pimgeek pimgeek  4096 Nov 29 02:17 \u001b[01;34m_tool\u001b[0m"
+    ],
+    [
+      0.000000,
+      "\r\n"
+    ],
+    [
+      0.000186,
+      "drwxr-xr-x   2 pimgeek pimgeek  4096 Dec 29 00:13 \u001b[01;34m.vim\u001b[0m"
+    ],
+    [
+      0.000065,
+      "\r\n"
+    ],
+    [
+      0.000042,
+      "-rw-------   1 pimgeek pimgeek 14558 May  7 00:41 .viminfo"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000030,
+      "-rw-------   1 pimgeek pimgeek     0 May  4 02:36 .viminfo.tmp"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000028,
+      "-rw-r--r--   1 pimgeek pimgeek  3467 Apr 26 16:29 .vimrc"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000027,
+      "drwxr-xr-x   2 pimgeek pimgeek  4096 Nov 28 22:58 \u001b[01;34m.wicd\u001b[0m"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000028,
+      "-rw-------   1 pimgeek pimgeek     0 Jan 19 17:39 .Xauthority"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000926,
+      "-rw-r--r--   1 pimgeek pimgeek    21 Nov 28 22:17 .xinitrc"
+    ],
+    [
+      0.000942,
+      "\r\n"
+    ],
+    [
+      0.000546,
+      "-rw-r--r--   1 pimgeek pimgeek   118 Nov 25 17:43 .zlogin"
+    ],
+    [
+      0.000075,
+      "\r\n"
+    ],
+    [
+      0.000041,
+      "-rw-r--r--   1 pimgeek pimgeek    68 Nov 25 17:43 .zshrc"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000397,
+      "\u001b]0;pimgeek@localhost: ~\u0007pimgeek@localhost:~$ "
+    ],
+    [
+      2.563829,
+      "exit\r\n"
+    ]
+  ]
+}
