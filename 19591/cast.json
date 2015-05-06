@@ -1,0 +1,346 @@
+{
+  "version": 1,
+  "width": 115,
+  "height": 32,
+  "duration": 45.418705,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.135423,
+      "\u001b(B\u001b[m"
+    ],
+    [
+      0.112034,
+      "\u001b]0;~/docker\u0007\u001b[1m\r\r\n\u001b[38;5;166mjessie\u001b[97m at \u001b[38;5;136mdebian\u001b[97m in \u001b[38;5;64m~/docker\u001b[97m on \u001b[38;5;61mdocs-tests\u001b[38;5;33m [!]\r\r\n\u001b[97m$ \u001b(B\u001b[m"
+    ],
+    [
+      0.982769,
+      "ssh core"
+    ],
+    [
+      0.335176,
+      "\r\u001b[C\u001b[Ccat ~/.bash_history | wc -l"
+    ],
+    [
+      0.406734,
+      "\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[2P\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.335348,
+      "\r\u001b[C\u001b[Cdocker build --rm --force-rm -t docker:$(git rev-parse --abbrev-ref HEAD 2\u003e/dev/null) ."
+    ],
+    [
+      1.513675,
+      "\r\u001b[C\u001b[Cvim hack/make/check-docs \u001b[K"
+    ],
+    [
+      0.576225,
+      "\r\u001b[C\u001b[Cdocker run --rm -it --privileged -v $(pwd)/bundles:/go/src/github.com/docker/docker/bundles docker:$( git rev-pars\rse --abbrev-ref HEAD 2\u003e/dev/null) hack/make.sh check-docs"
+    ],
+    [
+      1.360917,
+      "\r\n"
+    ],
+    [
+      0.207992,
+      "\r\r\n"
+    ],
+    [
+      0.097868,
+      "bundles/1.7.0-dev already exists. Removing.\r\r\n"
+    ],
+    [
+      0.001327,
+      "\r\r\n"
+    ],
+    [
+      0.005273,
+      "---\u003e Making bundle: check-docs (in bundles/1.7.0-dev/check-docs)\r\r\n"
+    ],
+    [
+      5.658627,
+      "\u003cresults\u003e\r\r\n  \u003cerror\u003e\r\r\n    \u003cstring\u003eDocker\u003c/string\u003e\r\r\n    \u003cdescription\u003eSpelling\u003c/description\u003e\r\r\n    \u003cprecontext\u003e\u003c/precontext\u003e\r\r\n    \u003csuggestions\u003e\r\r\n        \u003coption\u003eDecker\u003c/option\u003e\r\r\n"
+    ],
+    [
+      0.000045,
+      "        \u003coption\u003eCocker\u003c/option\u003e\r\r\n        \u003coption\u003erocker\u003c/option\u003e\r\r\n        \u003coption\u003eRocker\u003c/option\u003e\r\r\n        \u003coption\u003elocker\u003c/option\u003e\r\r\n    \u003c/suggestions\u003e\r\r\n    \u003ctype\u003espelling\u003c/type\u003e\r\r\n    \r\r\n  \u003c/error\u003e\r\r\n  \u003cerror\u003e\r\r\n    \u003cstring\u003eDocker\u003c/string\u003e\r\r\n    \u003cdescription\u003eSpelling\u003c/description\u003e\r\r\n    \u003cprecontext\u003e\u003c/precontext\u003e\r\r\n    \u003csuggestions\u003e\r\r\n        \u003coption\u003eDecker\u003c/option\u003e\r\r\n"
+    ],
+    [
+      0.000089,
+      "        \u003coption\u003eCocker\u003c/option\u003e\r\r\n        \u003coption\u003elocker\u003c/option\u003e\r\r\n        \u003coption\u003erocker\u003c/option\u003e\r\r\n        \u003coption\u003eRocker\u003c/option\u003e\r\r\n    \u003c/suggestions\u003e\r\r\n    \u003ctype\u003espelling\u003c/type\u003e\r\r\n    \r\r\n  \u003c/error\u003e\r\r\n  \u003cerror\u003e\r\r\n    \u003cstring\u003eDocker\u003c/string\u003e\r\r\n    \u003cdescription\u003eSpelling\u003c/description\u003e\r\r\n    \u003cprecontext\u003e\u003c/precontext\u003e\r\r\n    \u003csuggestions\u003e\r\r\n        \u003coption\u003eDecker\u003c/option\u003e\r\r\n        \u003coption\u003erocker\u003c/option\u003e\r\r\n        \u003coption\u003eRocker\u003c/option\u003e\r\r\n        \u003coption\u003eCocker\u003c/option\u003e\r\r\n        \u003coption\u003elocker\u003c/option\u003e\r\r\n    \u003c/suggestions\u003e\r\r\n    \u003ctype\u003espelling\u003c/type\u003e\r\r\n    \r\r\n  \u003c/error\u003e\r\r\n  \u003cerror\u003e\r\r\n"
+    ],
+    [
+      0.000126,
+      "    \u003cstring\u003erequire\u003c/string\u003e\r\r\n    \u003cdescription\u003eComplex Expression\u003c/description\u003e\r\r\n    \u003cprecontext\u003edon't\u003c/precontext\u003e\r\r\n    \u003csuggestions\u003e\r\r\n        \u003coption\u003eneed\u003c/option\u003e\r\r\n    \u003c/suggestions\u003e\r\r\n    \u003ctype\u003esuggestion\u003c/type\u003e\r\r\n    \u003curl\u003ehttp://service.afterthedeadline.com/info.slp?text=require\u0026amp;tags=VB\u0026amp;engine=1\u003c/url\u003e\r\r\n\r\r\n  \u003c/error\u003e\r\r\n  \u003cerror\u003e\r\r\n    \u003cstring\u003eDocker\u003c/string\u003e\r\r\n    \u003cdescription\u003eSpelling\u003c/description\u003e\r\r\n    \u003cprecontext\u003e\u003c/precontext\u003e\r\r\n    \u003csuggestions\u003e\r\r\n        \u003coption\u003eDecker\u003c/option\u003e\r\r\n        \u003coption\u003erocker\u003c/option\u003e\r\r\n        \u003coption\u003eRocker\u003c/option\u003e\r\r\n        \u003coption\u003eCocker\u003c/option\u003e\r\r\n"
+    ],
+    [
+      0.000107,
+      "        \u003coption\u003elocker\u003c/option\u003e\r\r\n    \u003c/suggestions\u003e\r\r\n    \u003ctype\u003espelling\u003c/type\u003e\r\r\n    \r\r\n  \u003c/error\u003e\r\r\n  \u003cerror\u003e\r\r\n    \u003cstring\u003edotCloud\u003c/string\u003e\r\r\n    \u003cdescription\u003eSpelling\u003c/description\u003e\r\r\n    \u003cprecontext\u003e\u003c/precontext\u003e\r\r\n\r\r\n    \u003ctype\u003espelling\u003c/type\u003e\r\r\n    \r\r\n  \u003c/error\u003e\r\r\n  \u003cerror\u003e\r\r\n    \u003cstring\u003eDocker\u003c/string\u003e\r\r\n    \u003cdescription\u003eSpelling\u003c/description\u003e\r\r\n    \u003cprecontext\u003e\u003c/precontext\u003e\r\r\n    \u003csuggestions\u003e\r\r\n        \u003coption\u003eDecker\u003c/option\u003e\r\r\n        \u003coption\u003eCocker\u003c/option\u003e\r\r\n        \u003coption\u003ecocker\u003c/option\u003e\r\r\n        \u003coption\u003elocker\u003c/option\u003e\r\r\n        \u003coption\u003eRocker\u003c/option\u003e\r\r\n    \u003c/suggestions\u003e\r\r\n    \u003ctype\u003espelling\u003c/type\u003e\r\r\n    \r\r\n  \u003c/error\u003e\r\r\n  \u003cerror\u003e\r\r\n    \u003cstring\u003estaticfiles\u003c/string\u003e\r\r\n    \u003cdescription\u003eSpelling\u003c/description\u003e\r\r\n    \u003cprecontext\u003e\u003c/precontext\u003e\r\r\n\r\r\n    \u003ctype\u003espelling\u003c/type\u003e\r\r\n    \r\r\n  \u003c/error\u003e\r\r\n  \u003cerror\u003e\r\r\n    \u003cstring\u003edocker-logo-compressedpng\u003c/string\u003e\r\r\n    \u003cdescription\u003eSpelling\u003c/description\u003e"
+    ],
+    [
+      0.000163,
+      "\r\r\n    \u003cprecontext\u003e\u003c/precontext\u003e\r\r\n\r\r\n    \u003ctype\u003espelling\u003c/type\u003e\r\r\n    \r\r\n  \u003c/error\u003e\r\r\n  \u003cerror\u003e\r\r\n    \u003cstring\u003eDocker\u003c/string\u003e\r\r\n    \u003cdescription\u003eSpelling\u003c/description\u003e\r\r\n    \u003cprecontext\u003edocker-logo-compressedpng\u003c/precontext\u003e\r\r\n    \u003csuggestions\u003e\r\r\n        \u003coption\u003eDecker\u003c/option\u003e\r\r\n        \u003coption\u003eCocker\u003c/option\u003e\r\r\n        \u003coption\u003ecocker\u003c/option\u003e\r\r\n        \u003coption\u003elocker\u003c/option\u003e\r\r\n        \u003coption\u003eRocker\u003c/option\u003e\r\r\n    \u003c/suggestions\u003e\r\r\n    \u003ctype\u003espelling\u003c/type\u003e\r\r\n    \r\r\n  \u003c/error\u003e\r\r\n  \u003cerror\u003e\r\r\n    \u003cstring\u003eregarding\u003c/string\u003e\r\r\n    \u003cdescription\u003eComplex Expression\u003c/description\u003e\r\r\n    \u003cprecontext\u003eissue\u003c/precontext\u003e\r\r\n    \u003csuggestions\u003e\r\r\n        \u003coption\u003eabout\u003c/option\u003e\r\r\n"
+    ],
+    [
+      0.000144,
+      "        \u003coption\u003eof\u003c/option\u003e\r\r\n        \u003coption\u003eon\u003c/option\u003e\r\r\n    \u003c/suggestions\u003e\r\r\n    \u003ctype\u003esuggestion\u003c/type\u003e\r\r\n    \u003curl\u003ehttp://service.afterthedeadline.com/info.slp?text=regarding\u0026amp;tags=VBG\u0026amp;engine=1\u003c/url\u003e\r\r\n\r\r\n  \u003c/error\u003e\r\r\n  \u003cerror\u003e\r\r\n    \u003cstring\u003edisclose\u003c/string\u003e\r\r\n    \u003cdescription\u003eComplex Expression\u003c/description\u003e\r\r\n    \u003cprecontext\u003eplease\u003c/precontext\u003e\r\r\n    \u003csuggestions\u003e\r\r\n        \u003coption\u003eshow\u003c/option\u003e\r\r\n    \u003c/suggestions\u003e\r\r\n    \u003ctype\u003esuggestion\u003c/type\u003e\r\r\n    \u003curl\u003ehttp://service.afterthedeadline.com/info.slp?text=disclose\u0026amp;tags=VB\u0026amp;engine=1\u003c/url\u003e\r\r\n\r\r\n  \u003c/error\u003e\r\r\n  \u003cerror\u003e\r\r\n    \u003cstring\u003esecuritydockercom\u003c/string\u003e\r\r\n    \u003cdescription\u003eSpelling\u003c/description\u003e\r\r\n    \u003cprecontext\u003e\u003c/precontext\u003e\r\r\n\r\r\n    \u003ctype\u003espelling\u003c/type\u003e\r\r\n    \r\r\n  \u003c/error\u003e\r\r\n  \u003cerror\u003e\r\r\n    \u003cstring\u003egithub\u003c/string\u003e\r\r\n    \u003cdescription\u003eSpelling\u003c/description\u003e\r\r\n    \u003cprecontext\u003ea\u003c/precontext\u003e\r\r\n\r\r\n    \u003ctype\u003espelling\u003c/type\u003e\r\r\n    \r\r\n  \u003c/error\u003e\r\r\n  \u003cerror\u003e\r\r\n    \u003cstring\u003eVMs\u003c/string\u003e\r\r\n    \u003cdescription\u003eSpelling\u003c/description\u003e\r\r\n    \u003cprecontext\u003ethan\u003c/precontext\u003e\r\r\n    \u003csuggestions\u003e\r\r\n        \u003coption\u003eVCs\u003c/option\u003e\r\r\n        \u003coption\u003eVMS\u003c/option\u003e\r\r\n        \u003coption\u003eVM\u003c/option\u003e\r\r\n        \u003coption\u003eV's\u003c/option\u003e\r\r\n        \u003coption\u003eVMA\u003c/option\u003e\r\r\n    \u003c/suggestions\u003e\r\r\n    \u003ctype\u003espelling\u003c/type\u003e"
+    ],
+    [
+      0.000330,
+      "\r\r\n    \r\r\n  \u003c/error\u003e\r\r\n  \u003cerror\u003e\r\r\n    \u003cstring\u003esandboxing\u003c/string\u003e\r\r\n    \u003cdescription\u003eSpelling\u003c/description\u003e\r\r\n    \u003cprecontext\u003eand\u003c/precontext\u003e\r\r\n\r\r\n    \u003ctype\u003espelling\u003c/type\u003e\r\r\n    \r\r\n  \u003c/error\u003e\r\r\n  \u003cerror\u003e\r\r\n    \u003cstring\u003etheir\u003c/string\u003e\r\r\n    \u003cdescription\u003eDid you mean...\u003c/description\u003e\r\r\n    \u003cprecontext\u003esandboxing\u003c/precontext\u003e\r\r\n    \u003csuggestions\u003e\r\r\n        \u003coption\u003ethere\u003c/option\u003e\r\r\n    \u003c/suggestions\u003e\r\r\n    \u003ctype\u003egrammar\u003c/type\u003e\r\r\n    \u003curl\u003ehttp://service.afterthedeadline.com/info.slp?text=their\u0026amp;tags=PRP%24\u0026amp;engine=1\u003c/url\u003e\r\r\n\r\r\n  \u003c/error\u003e\r\r\n  \u003cerror\u003e\r\r\n    \u003cstring\u003eVMs\u003c/string\u003e\r\r\n    \u003cdescription\u003eSpelling\u003c/description\u003e\r\r\n    \u003cprecontext\u003eor\u003c/precontext\u003e\r\r\n    \u003csuggestions\u003e\r\r\n        \u003coption\u003eVCs\u003c/option\u003e\r\r\n        \u003coption\u003eVMS\u003c/option\u003e\r\r\n        \u003coption\u003eVM\u003c/option\u003e\r\r\n        \u003coption\u003eV's\u003c/option\u003e\r\r\n        \u003coption\u003eVMA\u003c/option\u003e\r\r\n    \u003c/suggestions\u003e\r\r\n    \u003ctype\u003espelling\u003c/type\u003e\r\r\n    \r\r\n  \u003c/error\u003e\r\r\n  \u003cerror\u003e\r\r\n    \u003cstring\u003evmdk\u003c/string\u003e\r\r\n    \u003cdescription\u003eSpelling\u003c/description\u003e\r\r\n    \u003cprecontext\u003eVMWare's\u003c/precontext\u003e\r\r\n    \u003csuggestions\u003e\r\r\n        \u003coption\u003evodka\u003c/option\u003e\r\r\n        \u003coption\u003evid\u003c/option\u003e\r\r\n        \u003coption\u003evide\u003c/option\u003e\r\r\n        \u003coption\u003evids\u003c/option\u003e\r\r\n        \u003coption\u003evd\u003c/option\u003e\r\r\n    \u003c/suggestions\u003e\r\r\n    \u003ctype\u003espelling\u003c/type\u003e\r\r\n    \r\r\n  \u003c/error\u003e\r\r\n  \u003cerror\u003e\r\r\n    \u003cstring\u003eVirtualbox's\u003c/string\u003e\r\r\n    \u003cdescription\u003eSpelling\u003c/description\u003e\r\r\n    \u003cprecontext\u003eOracle\u003c/precontext\u003e\r\r\n\r\r\n    \u003ctype\u003espelling\u003c/type\u003e\r\r\n    \r\r\n  \u003c/error\u003e\r\r\n  \u003cerror\u003e\r\r\n    \u003cstring\u003evdi\u003c/string\u003e\r\r\n    \u003cdescription\u003eSpelling\u003c/description\u003e\r\r\n    \u003cprecontext\u003eVirtualbox's\u003c/precontext\u003e\r\r\n    \u003csuggestions\u003e\r\r\n        \u003coption\u003evi\u003c/option\u003e\r\r\n        \u003coption\u003evii\u003c/option\u003e\r\r\n        \u003coption\u003evid\u003c/option\u003e\r\r\n        \u003coption\u003evd\u003c/option\u003e\r\r\n        \u003coption\u003edi\u003c/option\u003e\r\r\n    \u003c/suggestions\u003e\r\r\n    \u003ctype\u003espelling\u003c/type\u003e\r\r\n    \r\r\n  \u003c/error\u003e\r\r\n  \u003cerror\u003e\r\r\n    \u003cstring\u003eVMs\u003c/string\u003e\r\r\n    \u003cdescription\u003eSpelling\u003c/description\u003e\r\r\n    \u003cprecontext\u003e\u003c/precontext\u003e\r\r\n    \u003csuggestions\u003e\r\r\n        \u003coption\u003eVCs\u003c/option\u003e\r\r\n        \u003coption\u003eVM\u003c/option\u003e\r\r\n        \u003coption\u003eVas\u003c/option\u003e\r\r\n        \u003coption\u003eVMA\u003c/option\u003e\r\r\n        \u003coption\u003eVMS\u003c/option\u003e\r\r\n    \u003c/suggestions\u003e\r\r\n    \u003ctype\u003espelling\u003c/type\u003e\r\r\n    \r\r\n  \u003c/error\u003e\r\r\n  \u003cerror\u003e\r\r\n    \u003cstring\u003eVMs\u003c/string\u003e\r\r\n    \u003cdescription\u003eSpelling\u003c/description\u003e\r\r\n    \u003cprecontext\u003erunning\u003c/precontext\u003e\r\r\n    \u003csuggestions\u003e\r\r\n        \u003coption\u003eVM\u003c/option\u003e\r\r\n        \u003coption\u003eVas\u003c/option\u003e\r\r\n        \u003coption\u003eVMA\u003c/option\u003e\r\r\n        \u003coption\u003eVMS\u003c/option\u003e\r\r\n        \u003coption\u003eVCs\u003c/option\u003e\r\r\n    \u003c/suggestions\u003e\r\r\n    \u003ctype\u003espelling\u003c/type\u003e\r\r\n    \r\r\n  \u003c/error\u003e\r\r\n  \u003cerror\u003e\r\r\n    \u003cstring\u003efor example\u003c/string\u003e\r\r\n    \u003cdescription\u003eComplex Expression\u003c/description\u003e\r\r\n    \u003cprecontext\u003e\u003c/precontext\u003e\r\r\n    \u003csuggestions\u003e\r\r\n        \u003coption\u003esuch as\u003c/option\u003e\r\r\n    \u003c/suggestions\u003e\r\r\n    \u003ctype\u003esuggestion\u003c/type\u003e\r\r\n"
+    ],
+    [
+      0.000556,
+      "    \u003curl\u003ehttp://service.afterthedeadline.com/info.slp?text=for+example\u0026amp;tags=IN%2FNN\u0026amp;engine=1\u003c/url\u003e\r\r\n\r\r\n  \u003c/error\u003e\r\r\n  \u003cerror\u003e\r\r\n    \u003cstring\u003eare limited\u003c/string\u003e\r\r\n    \u003cdescription\u003ePassive voice\u003c/description\u003e\r\r\n    \u003cprecontext\u003ethey\u003c/precontext\u003e\r\r\n\r\r\n    \u003ctype\u003egrammar\u003c/type\u003e\r\r\n    \u003curl\u003ehttp://service.afterthedeadline.com/info.slp?text=are+limited\u0026amp;tags=VBP%2FVBN\u0026amp;engine=3\u003c/url\u003e\r\r\n\r\r\n  \u003c/error\u003e\r\r\n  \u003cerror\u003e\r\r\n    \u003cstring\u003eVMs\u003c/string\u003e\r\r\n    \u003cdescription\u003eSpelling\u003c/description\u003e\r\r\n    \u003cprecontext\u003e\u003c/precontext\u003e\r\r\n    \u003csuggestions\u003e\r\r\n        \u003coption\u003eVCs\u003c/option\u003e\r\r\n        \u003coption\u003eVM\u003c/option\u003e\r\r\n        \u003coption\u003eVas\u003c/option\u003e\r\r\n        \u003coption\u003eVMA\u003c/option\u003e\r\r\n        \u003coption\u003eVMS\u003c/option\u003e\r\r\n    \u003c/suggestions\u003e\r\r\n    \u003ctype\u003espelling\u003c/type\u003e\r\r\n    \r\r\n  \u003c/error\u003e\r\r\n  \u003cerror\u003e\r\r\n    \u003cstring\u003ewere designed\u003c/string\u003e\r\r\n    \u003cdescription\u003ePassive voice\u003c/description\u003e\r\r\n    \u003cprecontext\u003eVMs\u003c/precontext\u003e\r\r\n\r\r\n    \u003ctype\u003egrammar\u003c/type\u003e\r\r\n    \u003curl\u003ehttp://service.afterthedeadline.com/info.slp?text=were+designed\u0026amp;tags=VBD%2FVBN\u0026amp;engine=3\u003c/url\u003e\r\r\n\r\r\n  \u003c/error\u003e\r\r\n  \u003cerror\u003e\r\r\n    \u003cstring\u003eVMs\u003c/string\u003e\r\r\n    \u003cdescription\u003eSpelling\u003c/description\u003e\r\r\n    \u003cprecontext\u003e\u003c/precontext\u003e\r\r\n    \u003csuggestions\u003e\r\r\n        \u003coption\u003eVM\u003c/option\u003e\r\r\n        \u003coption\u003eVas\u003c/option\u003e\r\r\n        \u003coption\u003eVMA\u003c/option\u003e\r\r\n        \u003coption\u003eVMS\u003c/option\u003e\r\r\n        \u003coption\u003eVCs\u003c/option\u003e\r\r\n    \u003c/suggestions\u003e\r\r\n    \u003ctype\u003espelling\u003c/type\u003e\r\r\n    \r\r\n  \u003c/error\u003e\r\r\n  \u003cerror\u003e\r\r\n    \u003cstring\u003eversioning\u003c/string\u003e\r\r\n    \u003cdescription\u003eSpelling\u003c/description\u003e\r\r\n    \u003cprecontext\u003eapplication\u003c/precontext\u003e\r\r\n    \u003csuggestions\u003e\r\r\n        \u003coption\u003epensioning\u003c/option\u003e\r\r\n    \u003c/suggestions\u003e\r\r\n    \u003ctype\u003espelling\u003c/type\u003e\r\r\n    \r\r\n  \u003c/error\u003e\r\r\n  \u003cerror\u003e\r\r\n    \u003cstring\u003eDocker\u003c/string\u003e\r\r\n    \u003cdescription\u003eSpelling\u003c/description\u003e\r\r\n    \u003cprecontext\u003e\u003c/precontext\u003e\r\r\n    \u003csuggestions\u003e\r\r\n        \u003coption\u003eDecker\u003c/option\u003e\r\r\n        \u003coption\u003eCocker\u003c/option\u003e\r\r\n        \u003coption\u003ecocker\u003c/option\u003e\r\r\n        \u003coption\u003elocker\u003c/option\u003e\r\r\n        \u003coption\u003eRocker\u003c/option\u003e\r\r\n    \u003c/suggestions\u003e\r\r\n    \u003ctype\u003espelling\u003c/type\u003e\r\r\n    \r\r\n  \u003c/error\u003e\r\r\n  \u003cerror\u003e\r\r\n    \u003cstring\u003esandboxing\u003c/string\u003e\r\r\n    \u003cdescription\u003eSpelling\u003c/description\u003e\r\r\n    \u003cprecontext\u003edifferent\u003c/precontext\u003e\r\r\n\r\r\n    \u003ctype\u003espelling\u003c/type\u003e\r\r\n    \r\r\n  \u003c/error\u003e\r\r\n  \u003cerror\u003e\r\r\n    \u003cstring\u003econtainerization\u003c/string\u003e\r\r\n    \u003cdescription\u003eSpelling\u003c/description\u003e\r\r\n    \u003cprecontext\u003e\u003c/precontext\u003e\r\r\n\r\r\n    \u003ctype\u003espelling\u003c/type\u003e\r\r\n    \r\r\n  \u003c/error\u003e\r\r\n  \u003cerror\u003e\r\r\n    \u003cstring\u003econtainerization\u003c/string\u003e\r\r\n    \u003cdescription\u003eSpelling\u003c/description\u003e\r\r\n    \u003cprecontext\u003e\u003c/precontext\u003e\r\r\n\r\r\n    \u003ctype\u003espelling\u003c/type\u003e\r\r\n    \r\r\n  \u003c/error\u003e\r\r\n  \u003cerror\u003e\r\r\n    \u003cstring\u003econtainerization\u003c/string\u003e\r\r\n    \u003cdescription\u003eSpelling\u003c/description\u003e\r\r\n    \u003cprecontext\u003efor\u003c/precontext\u003e\r\r\n\r\r\n    \u003ctype\u003espelling\u003c/type\u003e\r\r\n    \r\r\n  \u003c/error\u003e\r\r\n  \u003cerror\u003e\r\r\n    \u003cstring\u003eopenvz\u003c/string\u003e\r\r\n    \u003cdescription\u003eSpelling\u003c/description\u003e\r\r\n    \u003cprecontext\u003e\u003c/precontext\u003e\r\r\n    \u003csuggestions\u003e\r\r\n        \u003coption\u003eopen\u003c/option\u003e\r\r\n        \u003coption\u003eopener\u003c/option\u003e\r\r\n        \u003coption\u003eopened\u003c/option\u003e\r\r\n        \u003coption\u003eopenly\u003c/option\u003e\r\r\n        \u003coption\u003eopens\u003c/option\u003e\r\r\n    \u003c/suggestions\u003e\r\r\n    \u003ctype\u003espelling\u003c/type\u003e\r\r\n    \r\r\n  \u003c/error\u003e\r\r\n  \u003cerror\u003e\r\r\n    \u003cstring\u003evserver\u003c/string\u003e\r\r\n    \u003cdescription\u003eSpelling\u003c/description\u003e\r\r\n    \u003cprecontext\u003e\u003c/precontext\u003e\r\r\n    \u003csuggestions\u003e\r\r\n        \u003coption\u003eserver\u003c/option\u003e\r\r\n    \u003c/suggestions\u003e\r\r\n    \u003ctype\u003espelling\u003c/type\u003e\r\r\n    \r\r\n  \u003c/error\u003e\r\r\n  \u003cerror\u003e\r\r\n    \u003cstring\u003elxc\u003c/string\u003e\r\r\n    \u003cdescription\u003eSpelling\u003c/description\u003e\r\r\n    \u003cprecontext\u003e\u003c/precontext\u003e\r\r\n    \u003csuggestions\u003e\r\r\n        \u003coption\u003elx\u003c/option\u003e\r\r\n        \u003coption\u003elc\u003c/option\u003e\r\r\n        \u003coption\u003elac\u003c/option\u003e\r\r\n        \u003coption\u003eloc\u003c/option\u003e\r\r\n        \u003coption\u003elxi\u003c/option\u003e\r\r\n    \u003c/suggestions\u003e\r\r\n    \u003ctype\u003espelling\u003c/type\u003e\r\r\n    \r\r\n  \u003c/error\u003e\r\r\n  \u003cerror\u003e\r\r\n    \u003cstring\u003escrolltoc\u003c/string\u003e\r\r\n    \u003cdescription\u003eSpelling\u003c/description\u003e\r\r\n    \u003cprecontext\u003e\u003c/precontext\u003e\r\r\n\r\r\n    \u003ctype\u003espelling\u003c/type\u003e\r\r\n    \r\r\n  \u003c/error\u003e\r\r\n  \u003cerror\u003e\r\r\n    \u003cstring\u003eDocker\u003c/string\u003e\r\r\n    \u003cdescription\u003eSpelling\u003c/description\u003e\r\r\n    \u003cprecontext\u003e\u003c/precontext\u003e\r\r\n    \u003csuggestions\u003e\r\r\n        \u003coption\u003eDecker\u003c/option\u003e\r\r\n        \u003coption\u003erocker\u003c/opt"
+    ],
+    [
+      0.000005,
+      "ion\u003e\r\r\n        \u003coption\u003eRocker\u003c/option\u003e\r\r\n        \u003coption\u003eCocker\u003c/option\u003e"
+    ],
+    [
+      0.000720,
+      "\r\r\n        \u003coption\u003elocker\u003c/option\u003e\r\r\n    \u003c/suggestions\u003e\r\r\n    \u003ctype\u003espelling\u003c/type\u003e\r\r\n    \r\r\n  \u003c/error\u003e\r\r\n  \u003cerror\u003e\r\r\n    \u003cstring\u003eDocker\u003c/string\u003e\r\r\n    \u003cdescription\u003eSpelling\u003c/description\u003e\r\r\n    \u003cprecontext\u003e\u003c/precontext\u003e\r\r\n    \u003csuggestions\u003e\r\r\n        \u003coption\u003eDecker\u003c/option\u003e\r\r\n        \u003coption\u003erocker\u003c/option\u003e\r\r\n        \u003coption\u003eRocker\u003c/option\u003e\r\r\n        \u003coption\u003eCocker\u003c/option\u003e\r\r\n        \u003coption\u003elocker\u003c/option\u003e\r\r\n    \u003c/suggestions\u003e\r\r\n    \u003ctype\u003espelling\u003c/type\u003e\r\r\n    \r\r\n  \u003c/error\u003e\r\r\n  \u003cerror\u003e\r\r\n    \u003cstring\u003ecan be\u003c/string\u003e\r\r\n    \u003cdescription\u003ePassive voice\u003c/description\u003e\r\r\n    \u003cprecontext\u003etransfer\u003c/precontext\u003e\r\r\n\r\r\n    \u003ctype\u003egrammar\u003c/type\u003e\r\r\n    \u003curl\u003ehttp://service.afterthedeadline.com/info.slp?text=can+be\u0026amp;tags=MD%2FVB\u0026amp;engine=3\u003c/url\u003e\r\r\n\r\r\n  \u003c/error\u003e\r\r\n  \u003cerror\u003e\r\r\n    \u003cstring\u003eare designed\u003c/string\u003e\r\r\n    \u003cdescription\u003ePassive voice\u003c/description\u003e\r\r\n    \u003cprecontext\u003eand\u003c/precontext\u003e\r\r\n\r\r\n    \u003ctype\u003egrammar\u003c/type\u003e\r\r\n    \u003curl\u003ehttp://service.afterthedeadline.com/info.slp?text=are+designed\u0026amp;tags=VBP%2FVBN\u0026amp;engine=3\u003c/url\u003e\r\r\n\r\r\n  \u003c/error\u003e\r\r\n  \u003cerror\u003e\r\r\n    \u003cstring\u003eDocker\u003c/string\u003e\r\r\n    \u003cdescription\u003eSpelling\u003c/description\u003e\r\r\n    \u003cprecontext\u003ebecause\u003c/precontext\u003e\r\r\n    \u003csuggestions\u003e\r\r\n        \u003coption\u003eDecker\u003c/option\u003e\r\r\n        \u003coption\u003eCocker\u003c/option\u003e\r\r\n        \u003coption\u003ecocker\u003c/option\u003e\r\r\n        \u003coption\u003elocker\u003c/option\u003e\r\r\n        \u003coption\u003eRocker\u003c/option\u003e\r\r\n    \u003c/suggestions\u003e\r\r\n    \u003ctype\u003espelling\u003c/type\u003e\r\r\n    \r\r\n  \u003c/error\u003e\r\r\n  \u003cerror\u003e\r\r\n    \u003cstring\u003eDocker\u003c/string\u003e\r\r\n    \u003cdescription\u003eSpelling\u003c/description\u003e\r\r\n    \u003cprecontext\u003e\u003c/precontext\u003e\r\r\n    \u003csuggestions\u003e\r\r\n        \u003coption\u003eDecker\u003c/option\u003e\r\r\n        \u003coption\u003erocker\u003c/option\u003e\r\r\n        \u003coption\u003eRocker\u003c/option\u003e\r\r\n        \u003coption\u003eCocker\u003c/option\u003e\r\r\n        \u003coption\u003elocker\u003c/option\u003e\r\r\n    \u003c/suggestions\u003e\r\r\n    \u003ctype\u003espelling\u003c/type\u003e\r\r\n    \r\r\n  \u003c/error\u003e\r\r\n  \u003cerror\u003e\r\r\n    \u003cstring\u003erequire\u003c/string\u003e\r\r\n    \u003cdescription\u003eComplex Expression\u003c/description\u003e\r\r\n    \u003cprecontext\u003enot\u003c/precontext\u003e\r\r\n    \u003csuggestions\u003e\r\r\n        \u003coption\u003eneed\u003c/option\u003e\r\r\n    \u003c/suggestions\u003e\r\r\n    \u003ctype\u003esuggestion\u003c/type\u003e\r\r\n    \u003curl\u003ehttp://service.afterthedeadline.com/info.slp?text=require\u0026amp;tags=VB\u0026amp;engine=1\u003c/url\u003e\r\r\n\r\r\n  \u003c/error\u003e\r\r\n  \u003cerror\u003e\r\r\n    \u003cstring\u003eDocker\u003c/string\u003e\r\r\n    \u003cdescription\u003eSpelling\u003c/description\u003e\r\r\n    \u003cprecontext\u003eThen\u003c/precontext\u003e\r\r\n    \u003csuggestions\u003e\r\r\n        \u003coption\u003eDecker\u003c/option\u003e\r\r\n        \u003coption\u003eCocker\u003c/option\u003e\r\r\n        \u003coption\u003ecocker\u003c/option\u003e\r\r\n        \u003coption\u003elocker\u003c/option\u003e\r\r\n        \u003coption\u003eRocker\u003c/option\u003e\r\r\n    \u003c/suggestions\u003e\r\r\n    \u003ctype\u003espelling\u003c/type\u003e\r\r\n    \r\r\n  \u003c/error\u003e\r\r\n  \u003cerror\u003e\r\r\n    \u003cstring\u003ea sequence of\u003c/string\u003e\r\r\n    \u003cdescription\u003eHidden Verbs\u003c/description\u003e\r\r\n    \u003cprecontext\u003eas\u003c/precontext\u003e\r\r\n\r\r\n    \u003ctype\u003egrammar\u003c/type\u003e\r\r\n    \u003curl\u003ehttp://service.afterthedeadline.com/info.slp?text=a+sequence+of\u0026amp;tags=DT%2FNN%2FIN\u0026amp;engine=3\u003c/url\u003e\r\r\n\r\r\n  \u003c/error\u003e\r\r\n  \u003cerror\u003e\r\r\n    \u003cstring\u003eDocker\u003c/string\u003e\r\r\n    \u003cdescription\u003eSpelling\u003c/description\u003e\r\r\n    \u003cprecontext\u003eThen\u003c/precontext\u003e\r\r\n    \u003csuggestions\u003e\r\r\n        \u003coption\u003eDecker\u003c/option\u003e\r\r\n        \u003coption\u003eCocker\u003c/option\u003e\r\r\n"
+    ],
+    [
+      0.000031,
+      "        \u003coption\u003ecocker\u003c/option\u003e\r\r\n        \u003coption\u003elocker\u003c/option\u003e\r\r\n        \u003coption\u003eRocker\u003c/option\u003e\r\r\n    \u003c/suggestions\u003e\r\r\n    \u003ctype\u003espelling\u003c/type\u003e\r\r\n    \r\r\n  \u003c/error\u003e\r\r\n  \u003cerror\u003e\r\r\n    \u003cstring\u003ea combination of\u003c/string\u003e\r\r\n    \u003cdescription\u003eHidden Verbs\u003c/description\u003e\r\r\n    \u003cprecontext\u003e\u003c/precontext\u003e\r\r\n\r\r\n    \u003ctype\u003egrammar\u003c/type\u003e\r\r\n    \u003curl\u003ehttp://service.afterthedeadline.com/info.slp?text=a+combination+of\u0026amp;tags=DT%2FNN%2FIN\u0026amp;engine=3\u003c/url\u003e\r\r\n\r\r\n  \u003c/error\u003e\r\r\n  \u003cerror\u003e\r\r\n    \u003cstring\u003erequire\u003c/string\u003e\r\r\n    \u003cdescription\u003eComplex Expression\u003c/description\u003e\r\r\n    \u003cprecontext\u003eand\u003c/precontext\u003e\r\r\n    \u003csuggestions\u003e\r\r\n        \u003coption\u003emust\u003c/option\u003e\r\r\n        \u003coption\u003eneed\u003c/option\u003e\r\r\n    \u003c/suggestions\u003e\r\r\n    \u003ctype\u003esuggestion\u003c/type\u003e\r\r\n    \u003curl\u003ehttp://service.afterthedeadline.com/info.slp?text=require\u0026amp;tags=VB\u0026amp;engine=1\u003c/url\u003e\r\r\n\r\r\n  \u003c/error\u003e\r\r\n  \u003cerror\u003e\r\r\n    \u003cstring\u003eDocker\u003c/string\u003e\r\r\n    \u003cdescription\u003eSpelling\u003c/description\u003e\r\r\n    \u003cprecontext\u003e\u003c/precontext\u003e\r\r\n    \u003csuggestions\u003e\r\r\n        \u003coption\u003eDecker\u003c/option\u003e\r\r\n        \u003coption\u003erocker\u003c/option\u003e\r\r\n        \u003coption\u003eRocker\u003c/option\u003e\r\r\n        \u003coption\u003eCocker\u003c/option\u003e\r\r\n        \u003coption\u003elocker\u003c/option\u003e\r\r\n    \u003c/suggestions\u003e\r\r\n    \u003ctype\u003espelling\u003c/type\u003e\r\r\n    \r\r\n  "
+    ],
+    [
+      0.000698,
+      "\u003c/error\u003e\r\r\n  \u003cerror\u003e\r\r\n    \u003cstring\u003eXKCD\u003c/string\u003e\r\r\n    \u003cdescription\u003eSpelling\u003c/description\u003e\r\r\n    \u003cprecontext\u003e\u003c/precontext\u003e\r\r\n    \u003csuggestions\u003e\r\r\n        \u003coption\u003eXTC\u003c/option\u003e\r\r\n        \u003coption\u003eXC\u003c/option\u003e\r\r\n        \u003coption\u003eXD\u003c/option\u003e\r\r\n        \u003coption\u003eXCF\u003c/option\u003e\r\r\n    \u003c/suggestions\u003e\r\r\n    \u003ctype\u003espelling\u003c/type\u003e\r\r\n    \r\r\n  \u003c/error\u003e\r\r\n  \u003cerror\u003e\r\r\n    \u003cstring\u003eDocker\u003c/string\u003e\r\r\n    \u003cdescription\u003eSpelling\u003c/description\u003e\r\r\n    \u003cprecontext\u003e\u003c/precontext\u003e\r\r\n    \u003csuggestions\u003e\r\r\n        \u003coption\u003eDecker\u003c/option\u003e\r\r\n        \u003coption\u003erocker\u003c/option\u003e\r\r\n        \u003coption\u003eRocker\u003c/option\u003e\r\r\n        \u003coption\u003eCocker\u003c/option\u003e\r\r\n        \u003coption\u003elocker\u003c/option\u003e\r\r\n    \u003c/suggestions\u003e\r\r\n    \u003ctype\u003espelling\u003c/type\u003e\r\r\n    \r\r\n  \u003c/error\u003e\r\r\n  \u003cerror\u003e\r\r\n    \u003cstring\u003eDocker\u003c/string\u003e\r\r\n    \u003cdescription\u003eSpelling\u003c/description\u003e\r\r\n    \u003cprecontext\u003e\u003c/precontext\u003e\r\r\n    \u003csuggestions\u003e\r\r\n        \u003coption\u003eDecker\u003c/option\u003e\r\r\n        \u003coption\u003erocker\u003c/option\u003e\r\r\n        \u003coption\u003eRocker\u003c/option\u003e\r\r\n        \u003coption\u003eCocker\u003c/option\u003e\r\r\n        \u003coption\u003elocker\u003c/option\u003e\r\r\n    \u003c/suggestions\u003e\r\r\n    \u003ctype\u003espelling\u003c/type\u003e\r\r\n    \r\r\n  \u003c/error\u003e\r\r\n  \u003cerror\u003e\r\r\n    \u003cstring\u003ebuild\u003c/string\u003e\r\r\n    \u003cdescription\u003eDid you mean...\u003c/description\u003e\r\r\n    \u003cprecontext\u003ea\u003c/precontext\u003e\r\r\n    \u003csuggestions\u003e\r\r\n        \u003coption\u003ebilled\u003c/option\u003e\r\r\n    \u003c/suggestions\u003e\r\r\n    \u003ctype\u003espelling\u003c/type\u003e\r\r\n    \u003curl\u003ehttp://service.afterthedeadline.com/info.slp?text=build\u0026amp;tags=JJ\u0026amp;engine=0\u003c/url\u003e\r\r\n\r\r\n  \u003c/error\u003e\r\r\n  \u003cerror\u003e\r\r\n    \u003cstring\u003ea sequence of\u003c/string\u003e\r\r\n    \u003cdescription\u003eHidden Verbs\u003c/description\u003e\r\r\n    \u003cprecontext\u003erunning\u003c/precontext\u003e\r\r\n\r\r\n    \u003ctype\u003egrammar\u003c/type\u003e\r\r\n    \u003curl\u003ehttp://service.afterthedeadline.com/info.slp?text=a+sequence+of\u0026amp;tags=DT%2FNN%2FIN\u0026amp;engine=3\u003c/url\u003e\r\r\n\r\r\n  \u003c/error\u003e\r\r\n  \u003cerror\u003e\r\r\n    \u003cstring\u003emodify\u003c/string\u003e\r\r\n    \u003cdescription\u003eComplex Expression\u003c/description\u003e\r\r\n    \u003cprecontext\u003ecommands\u003c/precontext\u003e\r\r\n    \u003csuggestions\u003e\r\r\n        \u003coption\u003echange\u003c/option\u003e\r\r\n    \u003c/suggestions\u003e\r\r\n    \u003ctype\u003esuggestion\u003c/type\u003e\r\r\n    \u003curl\u003ehttp://service.afterthedeadline.com/info.slp?text=modify\u0026amp;tags=VB\u0026amp;engine=1\u003c/url\u003e\r\r\n\r\r\n  \u003c/error\u003e\r\r\n  \u003cerror\u003e\r\r\n    \u003cstring\u003eare executed\u003c/string\u003e\r\r\n    \u003cdescription\u003ePassive voice\u003c/description\u003e\r\r\n    \u003cprecontext\u003ecommands\u003c/precontext\u003e\r\r\n\r\r\n    \u003ctype\u003egrammar\u003c/type\u003e\r\r\n    \u003curl\u003ehttp://service.afterthedeadline.com/info.slp?text=are+executed\u0026amp;tags=VBP%2FVBN\u0026amp;engine=3\u003c/url\u003e\r\r\n\r\r\n  \u003c/error\u003e\r\r\n  \u003cerror\u003e\r\r\n    \u003cstring\u003eDocker\u003c/string\u003e\r\r\n    \u003cdescription\u003eSpelling\u003c/description\u003e\r\r\n    \u003cprecontext\u003etypical\u003c/precontext\u003e\r\r\n    \u003csuggestions\u003e\r\r\n        \u003coption\u003eDecker\u003c/option\u003e\r\r\n        \u003coption\u003eCocker\u003c/option\u003e\r\r\n        \u003coption\u003ecocker\u003c/option\u003e\r\r\n        \u003coption\u003elocker\u003c/option\u003e\r\r\n        \u003coption\u003eRocker\u003c/option\u003e\r\r\n    \u003c/suggestions\u003e\r\r\n    \u003ctype\u003espelling\u003c/type\u003e\r\r\n    \r\r\n  \u003c/error\u003e\r\r\n  \u003cerror\u003e\r\r\n    \u003cstring\u003e-y\u003c/string\u003e\r\r\n    \u003cdescription\u003eSpelling\u003c/description\u003e\r\r\n    \u003cprecontext\u003einstall\u003c/precontext\u003e\r\r\n    \u003csuggestions\u003e\r\r\n        \u003coption\u003e-\u003c/option\u003e\r\r\n        \u003coption\u003e--\u003c/option\u003e\r\r\n        \u003coption\u003emy\u003c/option\u003e\r\r\n        \u003coption\u003eby\u003c/option\u003e\r\r\n        \u003coption\u003ey\u003c/option\u003e\r\r\n    \u003c/suggestions\u003e\r\r\n    \u003ctype\u003espelling\u003c/type\u003e\r\r\n    \r\r\n  \u003c/error\u003e\r\r\n  \u003cerror\u003e\r\r\n    \u003cstring\u003e-sSL\u003c/string\u003e\r\r\n    \u003cdescription\u003eSpelling\u003c/description\u003e\r\r\n    \u003cprecontext\u003ecurl\u003c/precontext\u003e\r\r\n    \u003csuggestions\u003e\r\r\n        \u003coption\u003eDSL\u003c/option\u003e\r\r\n    \u003c/suggestions\u003e\r\r\n    \u003ctype\u003espelling\u003c/type\u003e\r\r\n    \r\r\n  \u003c/error\u003e\r\r\n  \u003cerror\u003e\r\r\n    \u003cstring\u003e-xzv\u003c/string\u003e\r\r\n    \u003cdescription\u003eSpelling\u003c/description\u003e\r\r\n    \u003cprecontext\u003etar\u003c/precontext\u003e\r\r\n    \u003csuggestions\u003e\r\r\n        \u003coption\u003exiv\u003c/option\u003e\r\r\n        \u003coption\u003exv\u003c/option\u003e\r\r\n        \u003coption\u003exxiv\u003c/option\u003e\r\r\n        \u003coption\u003exxv\u003c/option\u003e\r\r\n    \u003c/suggestions\u003e\r\r\n    \u003ctype\u003espelling\u003c/type\u003e\r\r\n    \r\r\n  \u003c/error\u003e\r\r\n  \u003cerror\u003e\r\r\n    \u003cstring\u003ehelloflask-master\u003c/string\u003e\r\r\n    \u003cdescription\u003eSpelling\u003c/description\u003e\r\r\n    \u003cprecontext\u003ecd\u003c/precontext\u003e\r\r\n\r\r\n    \u003ctype\u003espelling\u003c/type\u003e\r\r\n    \r\r\n  \u003c/error\u003e\r\r\n  \u003cerror\u003e\r\r\n    \u003cstring\u003e-r\u003c/string\u003e\r\r\n    \u003cdescription\u003eSpelling\u003c/description\u003e\r\r\n    \u003cprecontext\u003einstall\u003c/pre"
+    ],
+    [
+      0.000017,
+      "context\u003e\r\r\n    \u003csuggestions\u003e\r\r\n        \u003coption\u003e-\u003c/option\u003e\r\r\n        \u003coption\u003e--\u003c/option\u003e\r\r\n        \u003coption\u003eor\u003c/option\u003e\r\r\n        \u003coption\u003eMr\u003c/option\u003e\r\r\n        \u003coption\u003eDr\u003c/option\u003e\r\r\n    \u003c/suggestions\u003e\r\r\n    \u003ctype\u003espelling\u003c/type\u003e\r\r\n    \r\r\n  \u003c/error\u003e\r\r\n  \u003cerror\u003e\r\r\n    \u003cstring\u003erequirementstxt"
+    ],
+    [
+      0.000680,
+      "\u003c/string\u003e\r\r\n    \u003cdescription\u003eSpelling\u003c/description\u003e\r\r\n    \u003cprecontext\u003e-r\u003c/precontext\u003e\r\r\n\r\r\n    \u003ctype\u003espelling\u003c/type\u003e\r\r\n    \r\r\n  \u003c/error\u003e\r\r\n  \u003cerror\u003e\r\r\n    \u003cstring\u003eDocker\u003c/string\u003e\r\r\n    \u003cdescription\u003eSpelling\u003c/description\u003e\r\r\n    \u003cprecontext\u003ethat\u003c/precontext\u003e\r\r\n    \u003csuggestions\u003e\r\r\n        \u003coption\u003eDecker\u003c/option\u003e\r\r\n        \u003coption\u003elocker\u003c/option\u003e\r\r\n        \u003coption\u003eCocker\u003c/option\u003e\r\r\n        \u003coption\u003ecocker\u003c/option\u003e\r\r\n        \u003coption\u003eRocker\u003c/option\u003e\r\r\n    \u003c/suggestions\u003e\r\r\n    \u003ctype\u003espelling\u003c/type\u003e\r\r\n    \r\r\n  \u003c/error\u003e\r\r\n  \u003cerror\u003e\r\r\n    \u003cstring\u003eare built\u003c/string\u003e\r\r\n    \u003cdescription\u003ePassive voice\u003c/description\u003e\r\r\n    \u003cprecontext\u003edependencies\u003c/precontext\u003e\r\r\n\r\r\n    \u003ctype\u003egrammar\u003c/type\u003e\r\r\n    \u003curl\u003ehttp://service.afterthedeadline.com/info.slp?text=are+built\u0026amp;tags=VBP%2FVBN\u0026amp;engine=3\u003c/url\u003e\r\r\n\r\r\n  \u003c/error\u003e\r\r\n  \u003cerror\u003e\r\r\n    \u003cstring\u003ecan be\u003c/string\u003e\r\r\n    \u003cdescription\u003ePassive voice\u003c/description\u003e\r\r\n    \u003cprecontext\u003ethey\u003c/precontext\u003e\r\r\n\r\r\n    \u003ctype\u003egrammar\u003c/type\u003e\r\r\n    \u003curl\u003ehttp://service.afterthedeadline.com/info.slp?text=can+be\u0026amp;tags=MD%2FVB\u0026amp;engine=3\u003c/url\u003e\r\r\n\r\r\n  \u003c/error\u003e\r\r\n  \u003cerror\u003e\r\r\n    \u003cstring\u003eDocker\u003c/string\u003e\r\r\n    \u003cdescription\u003eSpelling\u003c/description\u003e\r\r\n    \u003cprecontext\u003e\u003c/precontext\u003e\r\r\n    \u003csuggestions\u003e\r\r\n        \u003coption\u003eDecker\u003c/option\u003e\r\r\n        \u003coption\u003erocker\u003c/option\u003e\r\r\n        \u003coption\u003eRocker\u003c/option\u003e\r\r\n        \u003coption\u003eCocker\u003c/option\u003e\r\r\n        \u003coption\u003elocker\u003c/option\u003e\r\r\n    \u003c/suggestions\u003e\r\r\n    \u003ctype\u003espelling\u003c/type\u003e\r\r\n    \r\r\n  \u003c/error\u003e\r\r\n  \u003cerror\u003e\r\r\n    \u003cstring\u003ecan be\u003c/string\u003e\r\r\n    \u003cdescription\u003ePassive voice\u003c/description\u003e\r\r\n    \u003cprecontext\u003eDocker\u003c/precontext\u003e\r\r\n\r\r\n    \u003ctype\u003egrammar\u003c/type\u003e\r\r\n    \u003curl\u003ehttp://service.afterthedeadline.com/info.slp?text=can+be\u0026amp;tags=MD%2FVB\u0026amp;engine=3\u003c/url\u003e\r\r\n\r\r\n  \u003c/error\u003e\r\r\n  \u003cerror\u003e\r\r\n    \u003cstring\u003evirtualized\u003c/string\u003e\r\r\n    \u003cdescription\u003eSpelling\u003c/description\u003e\r\r\n    \u003cprecontext\u003eand\u003c/precontext\u003e\r\r\n    \u003csuggestions\u003e\r\r\n        \u003coption\u003evitalized\u003c/option\u003e\r\r\n        \u003coption\u003evisualized\u003c/option\u003e\r\r\n        \u003coption\u003eritualized\u003c/option\u003e\r\r\n    \u003c/suggestions\u003e\r\r\n    \u003ctype\u003espelling\u003c/type\u003e\r\r\n    \r\r\n  \u003c/error\u003e\r\r\n  \u003cerror\u003e\r\r\n    \u003cstring\u003eDocker\u003c/string\u003e\r\r\n    \u003cdescription\u003eSpelling\u003c/description\u003e\r\r\n    \u003cprecontext\u003eusing\u003c/precontext\u003e\r\r\n    \u003csuggestions\u003e\r\r\n        \u003coption\u003eDecker\u003c/option\u003e\r\r\n        \u003coption\u003elocker\u003c/option\u003e\r\r\n        \u003coption\u003eCocker\u003c/option\u003e\r\r\n        \u003coption\u003erocker\u003c/option\u003e\r\r\n        \u003coption\u003eRocker\u003c/option\u003e\r\r\n    \u003c/suggestions\u003e\r\r\n    \u003ctype\u003espelling\u003c/type\u003e\r\r\n    \r\r\n  \u003c/error\u003e\r\r\n  \u003cerror\u003e\r\r\n    \u003cstring\u003eDocker\u003c/string\u003e\r\r\n    \u003cdescription\u003eSpelling\u003c/description\u003e\r\r\n    \u003cprecontext\u003e\u003c/precontext\u003e\r\r\n    \u003csuggestions\u003e\r\r\n        \u003coption\u003eDecker\u003c/option\u003e\r\r\n        \u003coption\u003erocker\u003c/option\u003e\r\r\n        \u003coption\u003eRocker\u003c/option\u003e\r\r\n        \u003coption\u003eCocker\u003c/option\u003e\r\r\n        \u003coption\u003elocker\u003c/option\u003e\r\r\n    \u003c/suggestions\u003e\r\r\n    \u003ctype\u003espelling\u003c/type\u003e\r\r\n    \r\r\n  \u003c/error\u003e\r\r\n  \u003cerror\u003e\r\r\n    \u003cstring\u003ecan be\u003c/string\u003e\r\r\n    \u003cdescription\u003ePassive voice\u003c/description\u003e\r\r\n    \u003cprecontext\u003eDocker\u003c/precontext\u003e\r\r\n\r\r\n    \u003ctype\u003egrammar\u003c/type\u003e\r\r\n    \u003curl\u003ehttp://service.afterthedeadline.com/info.slp?text=can+be\u0026amp;tags=MD%2FVB\u0026amp;engine=3\u003c/url\u003e\r\r\n\r\r\n  \u003c/error\u003e\r\r\n  \u003cerror\u003e\r\r\n    \u003cstring\u003eDocker\u003c/string\u003e\r\r\n    \u003cdescription\u003eSpelling\u003c/description\u003e\r\r\n    \u003cprecontext\u003e\u003c/precontext\u003e\r\r\n    \u003csuggestions\u003e\r\r\n        \u003coption\u003eDecker\u003c/option\u003e\r\r\n        \u003coption\u003eCocker\u003c/option\u003e\r\r\n        \u003coption\u003elocker\u003c/option\u003e\r\r\n        \u003coption\u003ecocker\u003c/option\u003e\r\r\n        \u003coption\u003eRocker\u003c/option\u003e\r\r\n    \u003c/suggestions\u003e\r\r\n    \u003ctype\u003espelling\u003c/type\u003e\r\r\n    \r\r\n"
+    ],
+    [
+      0.000017,
+      "  \u003c/error\u003e\r\r\n  \u003cerror\u003e\r\r\n    \u003cstring\u003eis built\u003c/string\u003e\r\r\n    \u003cdescription\u003ePassive voice\u003c/description\u003e\r\r\n    \u003cprecontext\u003eDocker\u003c/precontext\u003e\r\r\n\r\r\n    \u003ctype\u003egrammar\u003c/type\u003e\r\r\n    \u003curl\u003ehttp://service.afterthedeadline.com/info.slp?text=is+built\u0026amp;tags=VBZ%2FVBN\u0026amp;engine=3\u003c/url\u003e\r\r\n\r\r\n  \u003c/error\u003e\r\r\n  \u003cerror\u003e\r\r\n    \u003cstring\u003ecgroup\u003c/string\u003e\r\r\n    \u003cdescription\u003eSpelling\u003c/description\u003e\r\r\n    \u003cprecontext\u003e\u003c/precontext\u003e\r\r\n    \u003csuggestions\u003e\r\r\n        \u003coption\u003ecroup\u003c/option\u003e\r\r\n        \u003coption\u003egroup\u003c/option\u003e\r\r\n    \u003c/suggestions\u003e\r\r\n    \u003ctype\u003espelling\u003c/type\u003e\r\r\n    \r\r\n  \u003c/error\u003e\r\r\n  \u003cerror\u003e\r\r\n    \u003cstring\u003enamespacing\u003c/string\u003e\r\r\n    \u003cdescription\u003eSpelling\u003c/description\u003e\r\r\n    \u003cprecontext\u003e\u003c/precontext\u003e\r\r\n\r\r\n    \u003ctype\u003espelling\u003c/type\u003e\r\r\n    \r\r\n  \u003c/error\u003e\r\r\n  \u003cerror\u003e\r\r\n    \u003cstring\u003eDocker\u003c/string\u003e\r\r\n    \u003cdescript"
+    ],
+    [
+      0.000714,
+      "ion\u003eSpelling\u003c/description\u003e\r\r\n    \u003cprecontext\u003e\u003c/precontext\u003e\r\r\n    \u003csuggestions\u003e\r\r\n        \u003coption\u003eDecker\u003c/option\u003e\r\r\n        \u003coption\u003elocker\u003c/option\u003e\r\r\n        \u003coption\u003erocker\u003c/option\u003e\r\r\n        \u003coption\u003eCocker\u003c/option\u003e\r\r\n        \u003coption\u003eRocker\u003c/option\u003e\r\r\n    \u003c/suggestions\u003e\r\r\n    \u003ctype\u003espelling\u003c/type\u003e\r\r\n    \r\r\n  \u003c/error\u003e\r\r\n  \u003cerror\u003e\r\r\n    \u003cstring\u003eLibcontainer\u003c/string\u003e\r\r\n    \u003cdescription\u003eSpelling\u003c/description\u003e\r\r\n    \u003cprecontext\u003e\u003c/precontext\u003e\r\r\n\r\r\n    \u003ctype\u003espelling\u003c/type\u003e\r\r\n    \r\r\n  \u003c/error\u003e\r\r\n  \u003cerror\u003e\r\r\n    \u003cstring\u003eDocker\u003c/string\u003e\r\r\n    \u003cdescription\u003eSpelling\u003c/description\u003e\r\r\n    \u003cprecontext\u003eto\u003c/precontext\u003e\r\r\n    \u003csuggestions\u003e\r\r\n        \u003coption\u003eDecker\u003c/option\u003e\r\r\n        \u003coption\u003elocker\u003c/option\u003e\r\r\n        \u003coption\u003eCocker\u003c/option\u003e\r\r\n        \u003coption\u003erocker\u003c/option\u003e\r\r\n        \u003coption\u003eRocker\u003c/option\u003e\r\r\n    \u003c/suggestions\u003e\r\r\n    \u003ctype\u003espelling\u003c/type\u003e\r\r\n    \r\r\n  \u003c/error\u003e\r\r\n  \u003cerror\u003e\r\r\n    \u003cstring\u003eGoDoc\u003c/string\u003e\r\r\n    \u003cdescription\u003eSpelling\u003c/description\u003e\r\r\n    \u003cprecontext\u003e\u003c/precontext\u003e\r\r\n    \u003csuggestions\u003e\r\r\n        \u003coption\u003eGood\u003c/option\u003e\r\r\n        \u003coption\u003eGooch\u003c/option\u003e\r\r\n        \u003coption\u003eGogol\u003c/option\u003e\r\r\n        \u003coption\u003eGodot\u003c/option\u003e\r\r\n        \u003coption\u003eGoto\u003c/option\u003e\r\r\n    \u003c/suggestions\u003e\r\r\n    \u003ctype\u003espelling\u003c/type\u003e\r\r\n    \r\r\n  \u003c/error\u003e\r\r\n  \u003cerror\u003e\r\r\n    \u003cstring\u003eDocker\u003c/string\u003e\r\r\n    \u003cdescription\u003eSpelling\u003c/description\u003e\r\r\n    \u003cprecontext\u003eon\u003c/precontext\u003e\r\r\n    \u003csuggestions\u003e\r\r\n        \u003coption\u003eDecker\u003c/option\u003e\r\r\n        \u003coption\u003elocker\u003c/option\u003e\r\r\n        \u003coption\u003eCocker\u003c/option\u003e\r\r\n        \u003coption\u003erocker\u003c/option\u003e\r\r\n        \u003coption\u003eRocker\u003c/option\u003e\r\r\n    \u003c/suggestions\u003e\r\r\n    \u003ctype\u003espelling\u003c/type\u003e\r\r\n    \r\r\n  \u003c/error\u003e\r\r\n  \u003cerror\u003e\r\r\n    \u003cstring\u003esubmit\u003c/string\u003e\r\r\n    \u003cdescription\u003eComplex Expression\u003c/description\u003e\r\r\n    \u003cprecontext\u003e\u003c/precontext\u003e\r\r\n    \u003csuggestions\u003e\r\r\n        \u003coption\u003egive\u003c/option\u003e\r\r\n        \u003coption\u003esend\u003c/option\u003e\r\r\n    \u003c/suggestions\u003e\r\r\n    \u003ctype\u003esuggestion\u003c/type\u003e\r\r\n    \u003curl\u003ehttp://service.afterthedeadline.com/info.slp?text=submit\u0026amp;tags=VB\u0026amp;engine=1\u003c/url\u003e\r\r\n\r\r\n  \u003c/error\u003e\r\r\n  \u003cerror\u003e\r\r\n    \u003cstring\u003eDocker\u003c/string\u003e\r\r\n    \u003cdescription\u003eSpelling\u003c/description\u003e\r\r\n    \u003cprecontext\u003erun\u003c/precontext\u003e\r\r\n    \u003csuggestions\u003e\r\r\n        \u003coption\u003eDecker\u003c/option\u003e\r\r\n        \u003coption\u003eCocker\u003c/option\u003e\r\r\n        \u003coption\u003ecocker\u003c/option\u003e\r\r\n        \u003coption\u003elocker\u003c/option\u003e\r\r\n        \u003coption\u003eRocker\u003c/option\u003e\r\r\n    \u003c/suggestions\u003e\r\r\n    \u003ctype\u003espelling\u003c/type\u003e\r\r\n    \r\r\n  \u003c/error\u003e\r\r\n  \u003cerror\u003e\r\r\n    \u003cstring\u003emasterdockerprojectcom\u003c/string\u003e\r\r\n    \u003cdescription\u003eSpelling\u003c/description\u003e\r\r\n    \u003cprecontext\u003e\u003c/precontext\u003e\r\r\n\r\r\n    \u003ctype\u003espelling\u003c/type\u003e\r\r\n    \r\r\n  \u003c/error\u003e\r\r\n  \u003cerror\u003e\r\r\n    \u003cstring\u003eare updated\u003c/string\u003e\r\r\n    \u003cdescription\u003ePassive voice\u003c/description\u003e\r\r\n    \u003cprecontext\u003eThey\u003c/precontext\u003e\r\r\n\r\r\n    \u003ctype\u003egrammar\u003c/type\u003e\r\r\n    \u003curl\u003ehttp://service.afterthedeadline.com/info.slp?text=are+updated\u0026amp;tags=VBP%2FVBN\u0026amp;engine=3\u003c/url\u003e\r\r\n\r\r\n  \u003c/error\u003e\r\r\n  \u003cerror\u003e\r\r\n    \u003cstring\u003edocsmasterdockerprojectcom\u003c/string\u003e\r\r\n    \u003cdescription\u003eSpelling\u003c/description\u003e\r\r\n    \u003cprecontext\u003e\u003c/precontext\u003e\r\r\n\r\r\n    \u003ctype\u003espelling\u003c/type\u003e\r\r\n    \r\r\n  \u003c/error\u003e\r\r\n  \u003cerror\u003e\r\r\n    \u003cstring\u003eis run\u003c/string\u003e\r\r\n    \u003cdescription\u003ePassive voice\u003c/description\u003e\r\r\n    \u003cprecontext\u003eproject\u003c/precontext\u003e\r\r\n\r\r\n    \u003ctype\u003egrammar\u003c/type\u003e\r\r\n    \u003curl\u003ehttp://service.afterthedeadline.com/info.slp?text=is+run\u0026amp;tags=VBZ%2FVBN\u0026amp;engine=3\u003c/url\u003e\r\r\n\r\r\n  \u003c/error\u003e\r\r\n  \u003cerror\u003e\r\r\n    \u003cstring\u003eDocker\u003c/string\u003e\r\r\n    \u003cdescription\u003eSpelling\u003c/description\u003e\r\r\n    \u003cprecontext\u003e\u003c/precontext\u003e\r\r\n    \u003csuggestions\u003e\r\r\n        \u003coption\u003eDecker\u003c/option\u003e\r\r\n        \u003coption\u003eCocker\u003c/option\u003e\r\r\n        \u003coption\u003elocker\u003c/option\u003e\r\r\n        \u003coption\u003erocker\u003c/option\u003e\r\r\n        \u003coption\u003eRocker\u003c/option\u003e\r\r\n    \u003c/suggestions\u003e\r\r\n    \u003ctype\u003espelling\u003c/ty"
+    ],
+    [
+      0.000019,
+      "pe\u003e\r\r\n    \r\r\n  \u003c/error\u003e\r\r\n  \u003cerror\u003e\r\r\n    \u003cstring\u003eis run\u003c/string\u003e\r\r\n    \u003cdescription\u003ePassive voice\u003c/description\u003e\r\r\n    \u003cprecontext\u003eit\u003c/precontext\u003e\r\r\n\r\r\n    \u003ctype\u003egrammar\u003c/type\u003e\r\r\n    \u003curl\u003ehttp://service.afterthedeadline.com/info.slp?text=is+run\u0026amp;tags=VBZ%2FVBN\u0026amp;engine=3\u003c/url\u003e\r\r\n\r\r\n  \u003c/error\u003e\r\r\n  \u003cerror\u003e\r\r\n    \u003cstring\u003eDocker\u003c/string\u003e\r\r\n    \u003cdescription\u003eSpelling\u003c/description\u003e\r\r\n    \u003cprecontext\u003eof\u003c/precontext\u003e\r\r\n    \u003csuggestions\u003e\r\r\n        \u003coption\u003eDecker\u003c/option\u003e\r\r\n        \u003coption\u003eCocker\u003c/option\u003e\r\r\n        \u003coption\u003elocker\u003c/option\u003e\r\r\n        \u003coption\u003ecocker\u003c/option\u003e\r\r\n        \u003coption\u003eRock"
+    ],
+    [
+      0.000770,
+      "er\u003c/option\u003e\r\r\n    \u003c/suggestions\u003e\r\r\n    \u003ctype\u003espelling\u003c/type\u003e\r\r\n    \r\r\n  \u003c/error\u003e\r\r\n  \u003cerror\u003e\r\r\n    \u003cstring\u003emay be\u003c/string\u003e\r\r\n    \u003cdescription\u003ePassive voice\u003c/description\u003e\r\r\n    \u003cprecontext\u003eDocker\u003c/precontext\u003e\r\r\n\r\r\n    \u003ctype\u003egrammar\u003c/type\u003e\r\r\n    \u003curl\u003ehttp://service.afterthedeadline.com/info.slp?text=may+be\u0026amp;tags=NNP%2FVB\u0026amp;engine=3\u003c/url\u003e\r\r\n\r\r\n  \u003c/error\u003e\r\r\n  \u003cerror\u003e\r\r\n    \u003cstring\u003eensure\u003c/string\u003e\r\r\n    \u003cdescription\u003eComplex Expression\u003c/description\u003e\r\r\n    \u003cprecontext\u003eto\u003c/precontext\u003e\r\r\n    \u003csuggestions\u003e\r\r\n        \u003coption\u003emake sure\u003c/option\u003e\r\r\n    \u003c/suggestions\u003e\r\r\n    \u003ctype\u003esuggestion\u003c/type\u003e\r\r\n    \u003curl\u003ehttp://service.afterthedeadline.com/info.slp?text=ensure\u0026amp;tags=VB\u0026amp;engine=1\u003c/url\u003e\r\r\n\r\r\n  \u003c/error\u003e\r\r\n  \u003cerror\u003e\r\r\n    \u003cstring\u003eDocker\u003c/string\u003e\r\r\n    \u003cdescription\u003eSpelling\u003c/description\u003e\r\r\n    \u003cprecontext\u003e\u003c/precontext\u003e\r\r\n    \u003csuggestions\u003e\r\r\n        \u003coption\u003eDecker\u003c/option\u003e\r\r\n        \u003coption\u003eCocker\u003c/option\u003e\r\r\n        \u003coption\u003elocker\u003c/option\u003e\r\r\n        \u003coption\u003erocker\u003c/option\u003e\r\r\n        \u003coption\u003eRocker\u003c/option\u003e\r\r\n    \u003c/suggestions\u003e\r\r\n    \u003ctype\u003espelling\u003c/type\u003e\r\r\n    \r\r\n  \u003c/error\u003e\r\r\n  \u003cerror\u003e\r\r\n    \u003cstring\u003eis licensed\u003c/string\u003e\r\r\n    \u003cdescription\u003ePassive voice\u003c/description\u003e\r\r\n    \u003cprecontext\u003eDocker\u003c/precontext\u003e\r\r\n\r\r\n    \u003ctype\u003egrammar\u003c/type\u003e\r\r\n    \u003curl\u003ehttp://service.afterthedeadline.com/info.slp?text=is+licensed\u0026amp;tags=VBZ%2FVBN\u0026amp;engine=3\u003c/url\u003e\r\r\n\r\r\n  \u003c/error\u003e\r\r\n  \u003cerror\u003e\r\r\n    \u003cstring\u003eDocker\u003c/string\u003e\r\r\n    \u003cdescription\u003eSpelling\u003c/description\u003e\r\r\n    \u003cprecontext\u003eOther\u003c/precontext\u003e\r\r\n    \u003csuggestions\u003e\r\r\n        \u003coption\u003eDecker\u003c/option\u003e\r\r\n        \u003coption\u003elocker\u003c/option\u003e\r\r\n        \u003coption\u003erocker\u003c/option\u003e\r\r\n        \u003coption\u003eCocker\u003c/option\u003e\r\r\n        \u003coption\u003eRocker\u003c/option\u003e\r\r\n    \u003c/suggestions\u003e\r\r\n    \u003ctype\u003espelling\u003c/type\u003e\r\r\n    \r\r\n  \u003c/error\u003e\r\r\n  \u003cerror\u003e\r\r\n    \u003cstring\u003eDocker's\u003c/string\u003e\r\r\n    \u003cdescription\u003eSpelling\u003c/description\u003e\r\r\n    \u003cprecontext\u003eon\u003c/precontext\u003e\r\r\n    \u003csuggestions\u003e\r\r\n        \u003coption\u003eDecker's\u003c/option\u003e\r\r\n        \u003coption\u003elocker's\u003c/option\u003e\r\r\n        \u003coption\u003eCocker's\u003c/option\u003e\r\r\n        \u003coption\u003erocker's\u003c/option\u003e\r\r\n        \u003coption\u003eRocker's\u003c/option\u003e\r\r\n    \u003c/suggestions\u003e\r\r\n    \u003ctype\u003espelling\u003c/type\u003e\r\r\n    \r\r\n  \u003c/error\u003e\r\r\n  \u003cerror\u003e\r\r\n    \u003cstring\u003ethat are based\u003c/string\u003e\r\r\n    \u003cdescription\u003eComplex Expression\u003c/description\u003e\r\r\n    \u003cprecontext\u003edevelopment\u003c/precontext\u003e\r\r\n    \u003csuggestions\u003e\r\r\n        \u003coption\u003ebased\u003c/option\u003e\r\r\n    \u003c/suggestions\u003e\r\r\n    \u003ctype\u003esuggestion\u003c/type\u003e\r\r\n    \u003curl\u003ehttp://service.afterthedeadline.com/info.slp?text=that+are+based\u0026amp;tags=IN%2FNNP%2FVBN\u0026amp;engine=1\u003c/url\u003e\r\r\n\r\r\n  \u003c/error\u003e\r\r\n  \u003cerror\u003e\r\r\n    \u003cstring\u003eare based\u003c/string\u003e\r\r\n    \u003cdescription\u003ePassive voice\u003c/description\u003e\r\r\n    \u003cprecontext\u003ethat\u003c/precontext\u003e\r\r\n\r\r\n    \u003ctype\u003egrammar\u003c/type\u003e\r\r\n    \u003curl\u003ehttp://service.afterthedeadline.com/info.slp?text=are+based\u0026amp;tags=NNP%2FVBN\u0026amp;engine=3\u003c/url\u003e\r\r\n\r\r\n  \u003c/error\u003e\r\r\n  \u003cerror\u003e\r\r\n    \u003cstring\u003eDocker\u003c/string\u003e\r\r\n    \u003cdescription\u003eSpelling\u003c/description\u003e\r\r\n    \u003cprecontext\u003e\u003c/precontext\u003e\r\r\n    \u003csuggestions\u003e\r\r\n        \u003coption\u003eDecker\u003c/option\u003e\r\r\n        \u003coption\u003erocker\u003c/option\u003e\r\r\n        \u003coption\u003eRocker\u003c/option\u003e\r\r\n        \u003coption\u003eCocker\u003c/option\u003e\r\r\n        \u003coption\u003elocker\u003c/option\u003e\r\r\n    \u003c/suggestions\u003e\r\r\n    \u003ctype\u003espelling\u003c/type\u003e\r\r\n    \r\r\n  \u003c/error\u003e\r\r\n  \u003cerror\u003e\r\r\n    \u003cstring\u003eDocker\u003c/string\u003e\r\r\n    \u003cdescription\u003eSpelling\u003c/description\u003e\r\r\n    \u003cprecontext\u003e\u003c/precontext\u003e\r\r\n    \u003csuggestions\u003e\r\r\n        \u003coption\u003eDecker\u003c/option\u003e\r\r\n        \u003coption\u003elocker\u003c/option\u003e\r\r\n        \u003coption\u003erocker\u003c/option\u003e\r\r\n        \u003coption\u003eCocker\u003c/option\u003e\r\r\n        \u003coption\u003eRocker\u003c/option\u003e\r\r\n    \u003c/suggestions\u003e\r\r\n    \u003ctype\u003espelling\u003c/type\u003e\r\r\n    \r\r\n  \u003c/error\u003e\r\r\n  \u003cerror\u003e\r\r\n    \u003cstring\u003eDocker\u003c/string\u003e\r\r\n    \u003cdescription\u003eSpelling\u003c/description\u003e\r\r\n    \u003cprecontext\u003efor\u003c/precontext\u003e\r\r\n    \u003csuggestions\u003e\r\r\n        \u003coption\u003eDecker\u003c/option\u003e\r\r\n        \u003coption\u003eRocker\u003c/option\u003e\r\r\n        \u003coption\u003eCocker\u003c/option\u003e\r\r\n        \u003coption\u003ecocker\u003c/option\u003e\r\r\n        \u003coption\u003elocker\u003c/option\u003e\r\r\n    \u003c/suggestions\u003e\r\r\n    \u003ctype\u003espelling\u003c/type\u003e\r\r\n    \r\r\n  \u003c/error\u003e\r\r\n  \u003cerror\u003e\r\r\n    \u003cstring\u003eDocker\u003c/string\u003e\r\r\n    \u003cdescription\u003eSpelling\u003c/description\u003e\r\r\n    \u003cprecontext\u003e\u003c/precontext\u003e\r\r\n    \u003csuggestions\u003e\r\r\n        \u003coption\u003eDec"
+    ],
+    [
+      0.000028,
+      "ker\u003c/option\u003e\r\r\n        \u003coption\u003elocker\u003c/option\u003e\r\r\n        \u003coption\u003erocker\u003c/option\u003e\r\r\n        \u003coption\u003eCocker\u003c/option\u003e\r\r\n        \u003coption\u003eRocker\u003c/option"
+    ],
+    [
+      0.001037,
+      "\u003e\r\r\n    \u003c/suggestions\u003e\r\r\n    \u003ctype\u003espelling\u003c/type\u003e\r\r\n    \r\r\n  \u003c/error\u003e\r\r\n  \u003cerror\u003e\r\r\n    \u003cstring\u003eDocker\u003c/string\u003e\r\r\n    \u003cdescription\u003eSpelling\u003c/description\u003e\r\r\n    \u003cprecontext\u003e\u003c/precontext\u003e\r\r\n    \u003csuggestions\u003e\r\r\n        \u003coption\u003eDecker\u003c/option\u003e\r\r\n        \u003coption\u003elocker\u003c/option\u003e\r\r\n        \u003coption\u003erocker\u003c/option\u003e\r\r\n        \u003coption\u003eCocker\u003c/option\u003e\r\r\n        \u003coption\u003eRocker\u003c/option\u003e\r\r\n    \u003c/suggestions\u003e\r\r\n    \u003ctype\u003espelling\u003c/type\u003e\r\r\n    \r\r\n  \u003c/error\u003e\r\r\n  \u003cerror\u003e\r\r\n    \u003cstring\u003eDocker-native\u003c/string\u003e\r\r\n    \u003cdescription\u003eSpelling\u003c/description\u003e\r\r\n    \u003cprecontext\u003eA\u003c/precontext\u003e\r\r\n\r\r\n    \u003ctype\u003espelling\u003c/type\u003e\r\r\n    \r\r\n  \u003c/error\u003e\r\r\n  \u003cerror\u003e\r\r\n    \u003cstring\u003eDocker\u003c/string\u003e\r\r\n    \u003cdescription\u003eSpelling\u003c/description\u003e\r\r\n    \u003cprecontext\u003e\u003c/precontext\u003e\r\r\n    \u003csuggestions\u003e\r\r\n        \u003coption\u003eDecker\u003c/option\u003e\r\r\n        \u003coption\u003elocker\u003c/option\u003e\r\r\n        \u003coption\u003erocker\u003c/option\u003e\r\r\n        \u003coption\u003eCocker\u003c/option\u003e\r\r\n        \u003coption\u003eRocker\u003c/option\u003e\r\r\n    \u003c/suggestions\u003e\r\r\n    \u003ctype\u003espelling\u003c/type\u003e\r\r\n    \r\r\n  \u003c/error\u003e\r\r\n  \u003cerror\u003e\r\r\n    \u003cstring\u003eKitematic\u003c/string\u003e\r\r\n    \u003cdescription\u003eSpelling\u003c/description\u003e\r\r\n    \u003cprecontext\u003e\u003c/precontext\u003e\r\r\n    \u003csuggestions\u003e\r\r\n        \u003coption\u003ekinematic\u003c/option\u003e\r\r\n        \u003coption\u003ecinematic\u003c/option\u003e\r\r\n    \u003c/suggestions\u003e\r\r\n    \u003ctype\u003espelling\u003c/type\u003e\r\r\n    \r\r\n  \u003c/error\u003e\r\r\n  \u003cerror\u003e\r\r\n    \u003cstring\u003eDocker\u003c/string\u003e\r\r\n    \u003cdescription\u003eSpelling\u003c/description\u003e\r\r\n    \u003cprecontext\u003e\u003c/precontext\u003e\r\r\n    \u003csuggestions\u003e\r\r\n        \u003coption\u003eDecker\u003c/option\u003e\r\r\n        \u003coption\u003erocker\u003c/option\u003e\r\r\n        \u003coption\u003eRocker\u003c/option\u003e\r\r\n        \u003coption\u003eCocker\u003c/option\u003e\r\r\n        \u003coption\u003elocker\u003c/option\u003e\r\r\n    \u003c/suggestions\u003e\r\r\n    \u003ctype\u003espelling\u003c/type\u003e\r\r\n    \r\r\n  \u003c/error\u003e\r\r\n  \u003cerror\u003e\r\r\n    \u003cstring\u003eshould be\u003c/string\u003e\r\r\n    \u003cdescription\u003ePassive voice\u003c/description\u003e\r\r\n    \u003cprecontext\u003ethat\u003c/precontext\u003e\r\r\n\r\r\n    \u003ctype\u003egrammar\u003c/type\u003e\r\r\n    \u003curl\u003ehttp://service.afterthedeadline.com/info.slp?text=should+be\u0026amp;tags=MD%2FVB\u0026amp;engine=3\u003c/url\u003e\r\r\n\r\r\n  \u003c/error\u003e\r\r\n\u003c/results\u003eCongratulations!  All Go source files are properly formatted.\r\r\n\r\r\n"
+    ],
+    [
+      0.156389,
+      "\u001b]0;~/docker\u0007\u001b[1m\r\r\n\u001b[38;5;166mjessie\u001b[97m at \u001b[38;5;136mdebian\u001b[97m in \u001b[38;5;64m~/docker\u001b[97m on \u001b[38;5;61mdocs-tests\u001b[38;5;33m [!]\r\r\n\u001b[97m$ \u001b(B\u001b[m"
+    ],
+    [
+      18.373888,
+      "d"
+    ],
+    [
+      0.095991,
+      "i"
+    ],
+    [
+      0.137611,
+      "f"
+    ],
+    [
+      0.552025,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.129926,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.138992,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.085197,
+      "\u0007"
+    ],
+    [
+      0.707662,
+      "g"
+    ],
+    [
+      0.077404,
+      "i"
+    ],
+    [
+      0.129090,
+      "t"
+    ],
+    [
+      0.195363,
+      " "
+    ],
+    [
+      0.581756,
+      "d"
+    ],
+    [
+      0.095713,
+      "i"
+    ],
+    [
+      0.182704,
+      "f"
+    ],
+    [
+      0.111949,
+      "f"
+    ],
+    [
+      0.328787,
+      " "
+    ],
+    [
+      0.572412,
+      "H"
+    ],
+    [
+      0.227204,
+      "E"
+    ],
+    [
+      0.200238,
+      "A"
+    ],
+    [
+      0.229230,
+      "D"
+    ],
+    [
+      0.946421,
+      "~"
+    ],
+    [
+      0.333421,
+      "1"
+    ],
+    [
+      0.421324,
+      "\r\n"
+    ],
+    [
+      0.009803,
+      "\u001b[?1h\u001b=\r"
+    ],
+    [
+      0.012849,
+      "\u001b[1;33mdiff --git a/README.md b/README.md\u001b[m\u001b[m\r\n\u001b[1;33mindex 5603a55..7d678b4 100644\u001b[m\u001b[m\r\n\u001b[1;33m--- a/README.md\u001b[m\u001b[m\r\n\u001b[1;33m+++ b/README.md\u001b[m\u001b[m\r\n"
+    ],
+    [
+      0.000021,
+      "\u001b[1;35m@@ -1,5 +1,8 @@\u001b[m\u001b[m\r\n Docker: the Linux container engine\u001b[m\u001b[m\r\n ==================================\u001b[m\u001b[m\r\n\u001b[32m+\u001b[m\u001b[32mThe dark cow jumped\u001b[m\u001b[m\r\n\u001b[32m+\u001b[m\u001b[32mmoon\u001b[m\u001b[m\r\n\u001b[32m+\u001b[m\u001b[32mthing\u001b[m\u001b[m\r\n \u001b[m\u001b[m\r\n Docker is an open source project to pack, ship and run any application\u001b[m\u001b[m\r\n"
+    ],
+    [
+      0.000010,
+      " as a lightweight container.\u001b[m\u001b[m\r\n\u001b[1;33mdiff --git a/hack/make/check-docs b/hack/make/check-docs\u001b[m\u001b[m\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[1;33mindex 38dc9f2..cd477fa 100644\u001b[m\u001b[m\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[1;33m--- a/hack/make/check-docs\u001b[m\u001b[m\r\n\u001b[1;33m+++ b/hack/make/check-docs\u001b[m\u001b[m"
+    ],
+    [
+      0.000006,
+      "\r\n\u001b[1;35m@@ -9,10 +9,10 @@\u001b[m \u001b[munset IFS\u001b[m\u001b[m"
+    ],
+    [
+      0.000016,
+      "\r\n badFiles=()\u001b[m\u001b[m\r\n for f in \"${files[@]}\"; do\u001b[m\u001b[m"
+    ],
+    [
+      0.000006,
+      "\r\n        # we use \"git show\" here to pass to after the deadline what has been committed\u001b[m\u001b[m"
+    ],
+    [
+      0.000006,
+      "\r\n\u001b[31m-       doc=\"$(git show \"$VALIDATE_HEAD:$f\")\u001b[m\u001b[m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[32m+\u001b[m       \u001b[32mdoc=\"$(git show \"$VALIDATE_HEAD:$f\")\"\u001b[m\u001b[m\r\n"
+    ],
+    [
+      0.000004,
+      "        \u001b[m\u001b[m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "        # post to api\u001b[m\u001b[m"
+    ],
+    [
+      0.000171,
+      "\r\n\u001b[31m-       curl -SL --data-urlencode \"data=${doc}\" --data-urlencode https://atd.dockerproject.com/checkDocument\u001b[m\u001b[m\r\n\u001b[32m+\u001b[m       \u001b[32mcurl -SL --data-urlencode \"data=${doc}\" https://atd.dockerproject.com/checkDocument\u001b[m\u001b[m\r\n"
+    ],
+    [
+      0.000033,
+      " done\u001b[m\u001b[m\r\n \u001b[m\u001b[m\r\n if [ ${#badFiles[@]} -eq 0 ]; then\u001b[m\u001b[m\r\n\r\u001b[K\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.043836,
+      "\u001b]0;~/docker\u0007\u001b[1m\r\r\n\u001b[38;5;166mjessie\u001b[97m at \u001b[38;5;136mdebian\u001b[97m in \u001b[38;5;64m~/docker\u001b[97m on \u001b[38;5;61mdocs-tests\u001b[38;5;33m [!]\r\r\n\u001b[97m$ \u001b(B\u001b[m"
+    ],
+    [
+      6.619915,
+      "a"
+    ],
+    [
+      1.036295,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.207064,
+      "e"
+    ],
+    [
+      0.343801,
+      "x"
+    ],
+    [
+      0.069558,
+      "i"
+    ],
+    [
+      0.200342,
+      "t"
+    ],
+    [
+      0.128254,
+      "\r\nexit\r\n"
+    ]
+  ]
+}
