@@ -1,0 +1,1670 @@
+{
+  "version": 1,
+  "width": 113,
+  "height": 65,
+  "duration": 27.896888,
+  "command": "/usr/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/usr/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.104699,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                \r \r"
+    ],
+    [
+      0.000072,
+      "\u001b]2;jeff@minishwoods: ~/ctf/tools/radare2\u0007"
+    ],
+    [
+      0.000034,
+      "\u001b]1;..tools/radare2\u0007"
+    ],
+    [
+      0.029491,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[32mminishwoods\u001b[00m tools/radare2 \u001b[33m‹master*› \u001b[00m\u001b[00m\u001b[1m»\u001b[0m "
+    ],
+    [
+      0.000014,
+      "\u001b[K"
+    ],
+    [
+      0.000080,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.995973,
+      "\u001b[H\u001b[2J\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[32mminishwoods\u001b[00m tools/radare2 \u001b[33m‹master*› \u001b[00m\u001b[00m\u001b[1m»\u001b[0m "
+    ],
+    [
+      0.000014,
+      "\u001b[K"
+    ],
+    [
+      0.311032,
+      "s"
+    ],
+    [
+      0.151943,
+      "\u0008sy"
+    ],
+    [
+      0.118050,
+      "s"
+    ],
+    [
+      0.226997,
+      "/"
+    ],
+    [
+      0.392147,
+      "p"
+    ],
+    [
+      0.232653,
+      "y"
+    ],
+    [
+      0.194992,
+      "t"
+    ],
+    [
+      0.095192,
+      "h"
+    ],
+    [
+      0.099957,
+      "o"
+    ],
+    [
+      0.104478,
+      "n"
+    ],
+    [
+      0.302155,
+      "."
+    ],
+    [
+      0.293517,
+      "s"
+    ],
+    [
+      0.095535,
+      "h"
+    ],
+    [
+      0.389729,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000084,
+      "\r"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.000445,
+      "\u001b]2;sys/python.sh\u0007"
+    ],
+    [
+      0.000010,
+      "\u001b]1;sys/python.sh\u0007"
+    ],
+    [
+      0.285451,
+      "Already up-to-date."
+    ],
+    [
+      0.000218,
+      "\r\n"
+    ],
+    [
+      0.001435,
+      "============="
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000494,
+      "PYTHON_VERSION=2.7"
+    ],
+    [
+      0.000021,
+      "\r\nPYTHON=python${PYTHON_VERSION}\r\n\r\n[ -z \"${PREFIX}\" ] \u0026\u0026 PREFIX=/usr\r\n"
+    ],
+    [
+      0.000019,
+      "ID=`id -u` \r\nif [ \"$ID\" = 0 ]; then\r\n\tSUDO=\r\nelse"
+    ],
+    [
+      0.000027,
+      "\r\n\tSUDO=sudo\r\nfi\r\n[ -n \"${NOSUDO}\" ] \u0026\u0026 SUDO=\r\n"
+    ],
+    [
+      0.000148,
+      "============="
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "Using PYTHON_VERSION 2.7"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "Using PYTHON_CONFIG python2.7-config"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.013281,
+      "==\u003e Using valabind "
+    ],
+    [
+      0.001804,
+      "0.8.0"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.000428,
+      "==\u003e Using swig "
+    ],
+    [
+      0.001906,
+      "2.0.12"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.028446,
+      "Checking valabind languages support..."
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.002571,
+      " - python: "
+    ],
+    [
+      0.186263,
+      "cc1plus: warning: command line option ‘-Wstrict-prototypes’ is valid for C/ObjC but not for C++\r\n"
+    ],
+    [
+      0.549301,
+      "yes"
+    ],
+    [
+      0.000023,
+      "\r\n - perl: "
+    ],
+    [
+      0.455363,
+      "/"
+    ],
+    [
+      0.000017,
+      "usr/bin/ld: cannot find -lperl\r\n"
+    ],
+    [
+      0.000020,
+      "collect2: error: ld returned 1 exit status"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.001192,
+      "no\r\n - ruby: "
+    ],
+    [
+      0.226223,
+      "test_wrap.c:821:18: fatal error: ruby.h: No such file or directory\r\n #include \u003cruby.h\u003e\r\n                  ^\r\n"
+    ],
+    [
+      0.000014,
+      "compilation terminated.\r\n"
+    ],
+    [
+      0.039757,
+      "no"
+    ],
+    [
+      0.000014,
+      "\r\n - lua: "
+    ],
+    [
+      0.048151,
+      "test_wrap.c:709:17: fatal error: lua.h: No such file or directory"
+    ],
+    [
+      0.000025,
+      "\r\n #include \"lua.h\"\r\n                 ^\r\n"
+    ],
+    [
+      0.000120,
+      "compilation terminated.\r\n"
+    ],
+    [
+      0.036681,
+      "no\r\n"
+    ],
+    [
+      0.000013,
+      " - go: "
+    ],
+    [
+      0.008857,
+      "SW"
+    ],
+    [
+      0.000013,
+      "IG -go: -intgosi"
+    ],
+    [
+      0.000008,
+      "ze "
+    ],
+    [
+      0.000007,
+      "opt"
+    ],
+    [
+      0.000007,
+      "ion"
+    ],
+    [
+      0.000007,
+      " re"
+    ],
+    [
+      0.000007,
+      "qu"
+    ],
+    [
+      0.000007,
+      "ire"
+    ],
+    [
+      0.000007,
+      "d b"
+    ],
+    [
+      0.000007,
+      "ut "
+    ],
+    [
+      0.000007,
+      "not"
+    ],
+    [
+      0.000007,
+      " sp"
+    ],
+    [
+      0.000006,
+      "ec"
+    ],
+    [
+      0.000006,
+      "ifi"
+    ],
+    [
+      0.000006,
+      "ed"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.001047,
+      "no\r\n"
+    ],
+    [
+      0.000012,
+      " - java: "
+    ],
+    [
+      0.003831,
+      "perl: warning: Setting locale failed."
+    ],
+    [
+      0.000026,
+      "\r\nperl: warning: Please check that your locale settings:\r\n\tLANGUAGE = \"\","
+    ],
+    [
+      0.000086,
+      "\r\n"
+    ],
+    [
+      0.000015,
+      "\tLC_ALL = (unset),\r\n"
+    ],
+    [
+      0.000015,
+      "\tLC_CTYPE = \"en_US.UTF-8\",\r\n"
+    ],
+    [
+      0.000014,
+      "\tLANG = \"java\"\r\n"
+    ],
+    [
+      0.000011,
+      "    are supported and installed on your system.\r\n"
+    ],
+    [
+      0.000012,
+      "perl: warning: Falling back to the standard locale (\"C\").\r\n"
+    ],
+    [
+      0.126057,
+      "yes"
+    ],
+    [
+      0.000020,
+      "\r\n - guile: "
+    ],
+    [
+      0.046517,
+      "test_wrap.cxx:730:22: fatal error: libguile.h: No such file or directory\r\n"
+    ],
+    [
+      0.000024,
+      " #include \u003clibguile.h\u003e\r\n                      ^\r\ncompilation terminated."
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.039138,
+      "no"
+    ],
+    [
+      0.000020,
+      "\r\n - php5: "
+    ],
+    [
+      0.082045,
+      "test_wrap.c:706:18: fatal error: zend.h: No such file or directory\r\n"
+    ],
+    [
+      0.000029,
+      " #include \"zend.h\"\r\n                  ^\r\ncompilation terminated.\r\n"
+    ],
+    [
+      0.037560,
+      "no\r\n - node-ffi: "
+    ],
+    [
+      0.003000,
+      "no\r\n - ctypes: "
+    ],
+    [
+      0.006768,
+      "yes\r\n - ocaml: "
+    ],
+    [
+      0.005050,
+      "SWIG is buggy. Please set in ocamldec.swg the following line:\r\n"
+    ],
+    [
+      0.000015,
+      "#define caml_array_length swig_caml_array_length\r\n"
+    ],
+    [
+      0.000154,
+      "/usr/bin/valabind-cc: 1: /usr/bin/valabind-cc: "
+    ],
+    [
+      0.000013,
+      "ocamlc: not found\r\n"
+    ],
+    [
+      0.048351,
+      "test_wrap.cxx:741:24: fatal error: caml/alloc.h: No such file or directory\r\n #include \u003ccaml/alloc.h\u003e\r\n                        ^\r\n"
+    ],
+    [
+      0.000016,
+      "compilation terminated.\r\n"
+    ],
+    [
+      0.056750,
+      "no\r\n"
+    ],
+    [
+      0.001176,
+      " - cxx: yes (g++)"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.001714,
+      " - valac: yes\r\n"
+    ],
+    [
+      0.022564,
+      "Supported langs:\r\n"
+    ],
+    [
+      0.001034,
+      " - python\r\n"
+    ],
+    [
+      0.015919,
+      "checking build system type... x86_64-unknown-linux-gnu\r\n"
+    ],
+    [
+      0.000042,
+      "checking host system type... x86_64-unknown-linux-gnu\r\nchecking target system type... x86_64-unknown-linux-gnu\r\nchecking for working directories... current\r\nusing prefix '/usr'"
+    ],
+    [
+      0.000024,
+      "\r\nchecking for c compiler... "
+    ],
+    [
+      0.037090,
+      "gcc\r\n"
+    ],
+    [
+      0.000013,
+      "checking for c++ compiler... "
+    ],
+    [
+      0.226455,
+      "g++"
+    ],
+    [
+      0.000020,
+      "\r\nchecking for valabind... "
+    ],
+    [
+      0.000083,
+      "/usr/bin/valabind\r\n"
+    ],
+    [
+      0.000008,
+      "checking for swig... "
+    ],
+    [
+      0.000083,
+      "/usr/bin/swig"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "checking for g-ir-compiler... "
+    ],
+    [
+      0.000135,
+      "no"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000041,
+      "checking pkg-config flags for r_core... "
+    ],
+    [
+      0.003236,
+      "yes\r\n"
+    ],
+    [
+      0.067342,
+      "creating ./config.mk\r\n"
+    ],
+    [
+      0.018161,
+      "cleaning temporally files... "
+    ],
+    [
+      0.002062,
+      "done"
+    ],
+    [
+      0.000026,
+      "\r\n\r\nFinal report:\r\n"
+    ],
+    [
+      0.000011,
+      " - PREFIX = /usr\r\n"
+    ],
+    [
+      0.000007,
+      " - HAVE_SWIG = 1"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      " - HAVE_VALABIND = 1"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000436,
+      " - HAVE_GIRCOMPILER = 0\r\n"
+    ],
+    [
+      0.011190,
+      "[sudo] password for jeff: "
+    ],
+    [
+      4.580368,
+      "\r\n"
+    ],
+    [
+      0.046935,
+      "mkdir -p /usr/share/vala/vapi\r\n"
+    ],
+    [
+      0.001070,
+      "/usr/bin/install -m 644 vapi/*.vapi vapi/*.deps /usr/share/vala/vapi\r\n"
+    ],
+    [
+      0.007361,
+      "rm -f r_*.so _r_*.so"
+    ],
+    [
+      0.000066,
+      "\r\n"
+    ],
+    [
+      0.012465,
+      "Build r_core -lr_core -lr_config -lr_cons -lr_io -lr_util -lr_flags -lr_asm -lr_db -lr_debug -lr_hash -lr_bin -lr_lang -lr_io -lr_anal -lr_parse -lr_bp -lr_egg -lr_reg -lr_search -lr_syscall -lr_diff -lr_socket -lr_fs -lr_magic \r\n"
+    ],
+    [
+      0.023666,
+      "valabind-cc python r_core -NRadare -NSDB --swig -x --vapidir=../vapi ../vapi/r_core -I/usr/include/libr -lr_core -lr_config -lr_cons -lr_io -lr_util -lr_flags -lr_asm -lr_db -lr_debug -lr_hash -lr_bin -lr_lang -lr_io -lr_anal -lr_parse -lr_bp -lr_egg -lr_reg -lr_search -lr_syscall -lr_diff -lr_socket -lr_fs -lr_magic"
+    ],
+    [
+      0.000021,
+      "\r\n"
+    ],
+    [
+      0.288348,
+      "valabind --swig -I /usr/include/libr -x -N SDB -N Radare -x --vapidir ../vapi -o r_core.i -m r_core ../vapi/r_core --swig"
+    ],
+    [
+      0.000023,
+      "\r\n"
+    ],
+    [
+      0.001135,
+      "\u001b[34;1mNOTICE\u001b[0m Adding dependency package glib-2.0"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.000120,
+      "\u001b[34;1mNOTICE\u001b[0m Adding dependency package gobject-2.0\r\n"
+    ],
+    [
+      0.000043,
+      "\u001b[34;1mNOTICE\u001b[0m Adding dependency package ../vapi/r_core"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000047,
+      "\u001b[34;1mNOTICE\u001b[0m Adding dependency package r_cmd"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.000026,
+      "\u001b[34;1mNOTICE\u001b[0m Adding dependency package r_util"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000026,
+      "\u001b[34;1mNOTICE\u001b[0m Adding dependency package r_cons"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000031,
+      "\u001b[34;1mNOTICE\u001b[0m Adding dependency package r_anal"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000029,
+      "\u001b[34;1mNOTICE\u001b[0m Adding dependency package r_reg"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000034,
+      "\u001b[34;1mNOTICE\u001b[0m Adding dependency package r_hash"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000025,
+      "\u001b[34;1mNOTICE\u001b[0m Adding dependency package r_egg"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000035,
+      "\u001b[34;1mNOTICE\u001b[0m Adding dependency package r_asm"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000039,
+      "\u001b[34;1mNOTICE\u001b[0m Adding dependency package r_syscall"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000020,
+      "\u001b[34;1mNOTICE\u001b[0m Adding dependency package r_db"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000033,
+      "\u001b[34;1mNOTICE\u001b[0m Adding dependency package r_io"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.000025,
+      "\u001b[34;1mNOTICE\u001b[0m Adding dependency package r_bp"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000033,
+      "\u001b[34;1mNOTICE\u001b[0m Adding dependency package r_debug"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000034,
+      "\u001b[34;1mNOTICE\u001b[0m Adding dependency package r_diff"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000021,
+      "\u001b[34;1mNOTICE\u001b[0m Adding dependency package r_search"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000037,
+      "\u001b[34;1mNOTICE\u001b[0m Adding dependency package r_flags"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000028,
+      "\u001b[34;1mNOTICE\u001b[0m Adding dependency package r_config"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000036,
+      "\u001b[34;1mNOTICE\u001b[0m Adding dependency package r_bin"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000031,
+      "\u001b[34;1mNOTICE\u001b[0m Adding dependency package r_parse"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000029,
+      "\u001b[34;1mNOTICE\u001b[0m Adding dependency package r_lang"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000037,
+      "\u001b[34;1mNOTICE\u001b[0m Adding dependency package r_print"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000025,
+      "\u001b[34;1mNOTICE\u001b[0m Adding dependency package r_fs"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000028,
+      "\u001b[34;1mNOTICE\u001b[0m Adding dependency package r_magic"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.089610,
+      "\u001b[33;1mWARNING\u001b[0m Method delete renamed to _delete (don't ask where)"
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.003736,
+      "\u001b[33;1mWARNING\u001b[0m Method continue renamed to cont (don't ask where)"
+    ],
+    [
+      0.000017,
+      "\r\n"
+    ],
+    [
+      0.280374,
+      "r_core.i:40:"
+    ],
+    [
+      0.000016,
+      " Warning 302: "
+    ],
+    [
+      0.000016,
+      "Identifier 'RCoreAsmHitVector' redefined (ignored) (Renamed from 'vector\u003c RCoreAsmHit \u003e'),\r\nr_core.i"
+    ],
+    [
+      0.000008,
+      ":39: W"
+    ],
+    [
+      0.000007,
+      "arn"
+    ],
+    [
+      0.000007,
+      "ing"
+    ],
+    [
+      0.000007,
+      " 302"
+    ],
+    [
+      0.000007,
+      ":"
+    ],
+    [
+      0.000008,
+      " previous definition of 'RCoreAsmHitVector' (Renamed from 'vector\u003c RCoreAsmHit \u003e')."
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.027539,
+      "r_core.i:42: "
+    ],
+    [
+      0.000016,
+      "Warning 302: Identifier 'RAnalRefVector' redefined (ignored) (Renamed from 'vector\u003c RAnalRef \u003e'),"
+    ],
+    [
+      0.000016,
+      "\r\nr_core.i:"
+    ],
+    [
+      0.000007,
+      "41: Wa"
+    ],
+    [
+      0.000008,
+      "rn"
+    ],
+    [
+      0.000007,
+      "ing"
+    ],
+    [
+      0.000008,
+      " 302:"
+    ],
+    [
+      0.000008,
+      " "
+    ],
+    [
+      0.000010,
+      "previous definition of 'RAnalRefVector' (Renamed from 'vector\u003c RAnalRef \u003e').\r\n"
+    ],
+    [
+      0.053162,
+      "r_core.i"
+    ],
+    [
+      0.000013,
+      ":46: Warnin"
+    ],
+    [
+      0.000009,
+      "g "
+    ],
+    [
+      0.000008,
+      "302:"
+    ],
+    [
+      0.000008,
+      " "
+    ],
+    [
+      0.000012,
+      "Identifier 'RAnalRefVector' redefined (ignored) (Renamed from 'vector\u003c RAnalRef \u003e'),\r\n"
+    ],
+    [
+      0.000008,
+      "r_core.i:41"
+    ],
+    [
+      0.000008,
+      ": "
+    ],
+    [
+      0.000007,
+      "Wa"
+    ],
+    [
+      0.000007,
+      "rn"
+    ],
+    [
+      0.000007,
+      "ing"
+    ],
+    [
+      0.000007,
+      " 302"
+    ],
+    [
+      0.000008,
+      ": previous definition of 'RAnalRefVector' (Renamed from 'vector\u003c RAnalRef \u003e')."
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.014096,
+      "r_core.i"
+    ],
+    [
+      0.000012,
+      ":47: Warni"
+    ],
+    [
+      0.000007,
+      "ng "
+    ],
+    [
+      0.000007,
+      "302:"
+    ],
+    [
+      0.000007,
+      " Identifier 'RAnalRefVector' redefined (ignored) (Renamed from 'vector\u003c RAnalRef \u003e'),"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "r_core.i:41:"
+    ],
+    [
+      0.000007,
+      " W"
+    ],
+    [
+      0.000007,
+      "arn"
+    ],
+    [
+      0.000007,
+      "in"
+    ],
+    [
+      0.000007,
+      "g "
+    ],
+    [
+      0.000007,
+      "302"
+    ],
+    [
+      0.000008,
+      ": "
+    ],
+    [
+      0.000012,
+      "previous definition of 'RAnalRefVector' (Renamed from 'vector\u003c RAnalRef \u003e').\r\n"
+    ],
+    [
+      0.199196,
+      "r_core.i"
+    ],
+    [
+      0.000033,
+      ":62: Warning 302: "
+    ],
+    [
+      0.000014,
+      "Identifier 'charVector' redefined (ignored) (Renamed from 'vector\u003c char \u003e'),\r\nr_core.i"
+    ],
+    [
+      0.000010,
+      ":58: W"
+    ],
+    [
+      0.000007,
+      "arn"
+    ],
+    [
+      0.000007,
+      "in"
+    ],
+    [
+      0.000007,
+      "g "
+    ],
+    [
+      0.000007,
+      "302"
+    ],
+    [
+      0.000007,
+      ": "
+    ],
+    [
+      0.000011,
+      "previous definition of 'charVector' (Renamed from 'vector\u003c char \u003e').\r\n"
+    ],
+    [
+      0.013242,
+      "r_core.i:63: "
+    ],
+    [
+      0.000016,
+      "Warning 302: "
+    ],
+    [
+      0.000016,
+      "Identifier 'charVector' redefined (ignored) (Renamed from 'vector\u003c char \u003e'),\r\nr_core.i"
+    ],
+    [
+      0.000009,
+      ":58: Wa"
+    ],
+    [
+      0.000007,
+      "rni"
+    ],
+    [
+      0.000007,
+      "ng "
+    ],
+    [
+      0.000007,
+      "302:"
+    ],
+    [
+      0.000008,
+      " previous definition of 'charVector' (Renamed from 'vector\u003c char \u003e')."
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.015241,
+      "r_core.i:94: W"
+    ],
+    [
+      0.000021,
+      "arning 314: 'print' is a python keyword, renaming to '_print'\r\n"
+    ],
+    [
+      0.029436,
+      "r_core.i:312: "
+    ],
+    [
+      0.000016,
+      "Warning 314: 'from' is a python keyword, renaming to '_from'"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000677,
+      "r_core.i"
+    ],
+    [
+      0.000008,
+      ":317: "
+    ],
+    [
+      0.000007,
+      "Wa"
+    ],
+    [
+      0.000011,
+      "rni"
+    ],
+    [
+      0.000306,
+      "ng 314"
+    ],
+    [
+      0.000018,
+      ": 'from' is a python keyword, renaming to '_from'\r\n"
+    ],
+    [
+      0.035321,
+      "r_core.i:"
+    ],
+    [
+      0.000014,
+      "576: Warnin"
+    ],
+    [
+      0.000008,
+      "g 314"
+    ],
+    [
+      0.000008,
+      ": "
+    ],
+    [
+      0.000011,
+      "'import' is a python keyword, renaming to '_import'\r\n"
+    ],
+    [
+      0.099646,
+      "r_core.i:"
+    ],
+    [
+      0.000016,
+      "1936: Warni"
+    ],
+    [
+      0.000010,
+      "ng "
+    ],
+    [
+      0.000005,
+      "314:"
+    ],
+    [
+      0.000005,
+      " "
+    ],
+    [
+      0.000005,
+      "'del' is a python keyword, renaming to '_del'"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      2.452100,
+      "r_core.i:1621:"
+    ],
+    [
+      0.000015,
+      " Warning 453: "
+    ],
+    [
+      0.000012,
+      "Can't apply (RAsmOp *OUTPUT). No typemaps are defined.\r\n"
+    ],
+    [
+      0.002358,
+      "r_core.i:1626: "
+    ],
+    [
+      0.000012,
+      "Warning "
+    ],
+    [
+      0.000010,
+      "453: "
+    ],
+    [
+      0.000014,
+      "Can't apply (RAsmOp *OUTPUT). No typemaps are defined.\r\n"
+    ],
+    [
+      0.940153,
+      "cc1plus: warning: command line option ‘-Wstrict-prototypes’ is valid for C/ObjC but not for C++\r\n"
+    ],
+    [
+      1.275105,
+      "r_core_wrap.cxx: In function ‘void delete_RListIter(RListIter*)’:\r\nr_core_wrap.cxx:7397:25: warning: statement has no effect [-Wunused-value]\r\n   r_list_iter_free(self);\r\n                         ^\r\n"
+    ],
+    [
+      0.533729,
+      "r_core_wrap.cxx: In function ‘PyObject* _wrap_RCore_sdb_set(PyObject*, PyObject*)’:\r\n"
+    ],
+    [
+      0.000033,
+      "r_core_wrap.cxx:22892:31: error: ‘SDBSdb’ was not declared in this scope\r\n   RCore *arg1 = (RCore *) 0 ; SDBSdb *arg2 = (SDBSdb *) 0 ; void *argp1 = 0 ; int res1 = 0 ; void *argp2 = 0 ; int res2 = 0 ;\r\n                               ^\r\nr_core_wrap.cxx:22892:39: error: ‘arg2’ was not declared in this scope\r\n"
+    ],
+    [
+      0.000017,
+      "   RCore *arg1 = (RCore *) 0 ; SDBSdb *arg2 = (SDBSdb *) 0 ; void *argp1 = 0 ; int res1 = 0 ; void *argp2 = 0 ; int res2 = 0 ;\r\n                                       ^\r\n"
+    ],
+    [
+      0.000021,
+      "r_core_wrap.cxx:22892:55: error: expected primary-expression before ‘)’ token\r\n   RCore *arg1 = (RCore *) 0 ; SDBSdb *arg2 = (SDBSdb *) 0 ; void *argp1 = 0 ; int res1 = 0 ; void *argp2 = 0 ; int res2 = 0 ;\r\n                                                       ^"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000298,
+      "r_core_wrap.cxx:22899:28: error: ‘SDBSdb’ does not name a type\r\n"
+    ],
+    [
+      0.000020,
+      "   arg2 = reinterpret_cast\u003c SDBSdb * \u003e(argp2); if (arg1) (arg1)-\u003esdb = arg2; resultobj = SWIG_Py_Void(); return resultobj; fail:\r\n                            ^\r\n"
+    ],
+    [
+      0.000026,
+      "r_core_wrap.cxx:22899:35: error: expected ‘\u003e’ before ‘*’ token\r\n   arg2 = reinterpret_cast\u003c SDBSdb * \u003e(argp2); if (arg1) (arg1)-\u003esdb = arg2; resultobj = SWIG_Py_Void(); return resultobj; fail:\r\n                                   ^\r\n"
+    ],
+    [
+      0.000012,
+      "r_core_wrap.cxx:22899:35: error: expected ‘(’ before ‘*’ token\r\n"
+    ],
+    [
+      0.000025,
+      "r_core_wrap.cxx:22899:37: error: expected primary-expression before ‘\u003e’ token\r\n   arg2 = reinterpret_cast\u003c SDBSdb * \u003e(argp2); if (arg1) (arg1)-\u003esdb = arg2; resultobj = SWIG_Py_Void(); return resultobj; fail:\r\n                                     ^\r\n"
+    ],
+    [
+      0.000021,
+      "r_core_wrap.cxx:22899:45: error: expected ‘)’ before ‘;’ token\r\n   arg2 = reinterpret_cast\u003c SDBSdb * \u003e(argp2); if (arg1) (arg1)-\u003esdb = arg2; resultobj = SWIG_Py_Void(); return resultobj; fail:\r\n"
+    ],
+    [
+      0.000011,
+      "                                             ^\r\n"
+    ],
+    [
+      0.000188,
+      "r_core_wrap.cxx: In function ‘PyObject* _wrap_RCore_sdb_get(PyObject*, PyObject*)’:\r\n"
+    ],
+    [
+      0.000026,
+      "r_core_wrap.cxx:22902:88: error: ‘SDBSdb’ was not declared in this scope\r\n   RCore *arg1 = (RCore *) 0 ; void *argp1 = 0 ; int res1 = 0 ; PyObject *swig_obj[1] ; SDBSdb *result = 0 ;\r\n                                                                                        ^\r\n"
+    ],
+    [
+      0.000023,
+      "r_core_wrap.cxx:22902:96: error: ‘result’ was not declared in this scope\r\n   RCore *arg1 = (RCore *) 0 ; void *argp1 = 0 ; int res1 = 0 ; PyObject *swig_obj[1] ; SDBSdb *result = 0 ;\r\n                                                                                                ^"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000121,
+      "r_core_wrap.cxx:22906:64: error: expected primary-expression before ‘)’ token"
+    ],
+    [
+      0.000024,
+      "\r\n   arg1 = reinterpret_cast\u003c RCore * \u003e(argp1); result = (SDBSdb *) ((arg1)-\u003esdb);\r\n                                                                ^\r\n"
+    ],
+    [
+      0.533512,
+      "r_core_wrap.cxx: In function ‘PyObject* Swig_var_OS_get()’:\r\n"
+    ],
+    [
+      0.000027,
+      "r_core_wrap.cxx:37577:92: error: ‘OS’ was not declared in this scope\r\n SWIGINTERN PyObject *Swig_var_OS_get(void) { PyObject *pyobj = 0; pyobj = SWIG_FromCharPtr(OS); return pyobj; }\r\n                                                                                            ^\r\n"
+    ],
+    [
+      0.000141,
+      "r_core_wrap.cxx: In function ‘PyObject* Swig_var_ARCH_get()’:\r\n"
+    ],
+    [
+      0.000027,
+      "r_core_wrap.cxx:37579:94: error: ‘ARCH’ was not declared in this scope\r\n SWIGINTERN PyObject *Swig_var_ARCH_get(void) { PyObject *pyobj = 0; pyobj = SWIG_FromCharPtr(ARCH); return pyobj; }\r\n                                                                                              ^\r\n"
+    ],
+    [
+      1.729065,
+      "... r_core.so"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.006691,
+      "Build r_bin -lr_bin -lr_util -lr_db -lr_io \r\n"
+    ],
+    [
+      0.022504,
+      "valabind-cc python r_bin -NRadare -NSDB --swig -x --vapidir=../vapi ../vapi/r_bin -I/usr/include/libr -lr_bin -lr_util -lr_db -lr_io\r\n"
+    ],
+    [
+      0.129019,
+      "valabind --swig -I /usr/include/libr -x -N SDB -N Radare -x --vapidir ../vapi -o r_bin.i -m r_bin ../vapi/r_bin --swig"
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.003036,
+      "\u001b[34;1mNOTICE\u001b[0m Adding dependency package glib-2.0\r\n\u001b[34;1mNOTICE\u001b[0m Adding dependency package gobject-2.0\r\n\u001b[34;1mNOTICE\u001b[0m Adding dependency package ../vapi/r_bin\r\n\u001b[34;1mNOTICE\u001b[0m Adding dependency package r_util\r\n\u001b[34;1mNOTICE\u001b[0m Adding dependency package r_io\r\n"
+    ],
+    [
+      0.440376,
+      "r_bin.i"
+    ],
+    [
+      0.000009,
+      ":109: Warnin"
+    ],
+    [
+      0.000005,
+      "g"
+    ],
+    [
+      0.000005,
+      " "
+    ],
+    [
+      0.000005,
+      "314"
+    ],
+    [
+      0.000005,
+      ": "
+    ],
+    [
+      0.000005,
+      "'import' is a python keyword, renaming to '_import'"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.943233,
+      "cc1plus: warning: command line option ‘-Wstrict-prototypes’ is valid for C/ObjC but not for C++"
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.632913,
+      "r_bin_wrap.cxx: In function ‘void delete_RListIter(RListIter*)’:\r\nr_bin_wrap.cxx:6061:25: warning: statement has no effect [-Wunused-value]"
+    ],
+    [
+      0.000029,
+      "\r\n   r_list_iter_free(self);\r\n                         ^\r\n"
+    ],
+    [
+      0.394450,
+      "r_bin_wrap.cxx: In function ‘PyObject* Swig_var_OS_get()’:\r\nr_bin_wrap.cxx:15813:92: error: ‘OS’ was not declared in this scope\r\n SWIGINTERN PyObject *Swig_var_OS_get(void) { PyObject *pyobj = 0; pyobj = SWIG_FromCharPtr(OS); return pyobj; }\r\n                                                                                            ^"
+    ],
+    [
+      0.000048,
+      "\r\nr_bin_wrap.cxx: In function ‘PyObject* Swig_var_ARCH_get()’:\r\nr_bin_wrap.cxx:15815:94: error: ‘ARCH’ was not declared in this scope\r\n SWIGINTERN PyObject *Swig_var_ARCH_get(void) { PyObject *pyobj = 0; pyobj = SWIG_FromCharPtr(ARCH); return pyobj; }\r\n                                                                                              ^\r\n"
+    ],
+    [
+      0.688933,
+      "... r_bin.so"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.007014,
+      "Build r_asm -lr_asm -lr_util -lr_parse -lr_db -lr_syscall \r\n"
+    ],
+    [
+      0.021301,
+      "valabind-cc python r_asm -NRadare -NSDB --swig -x --vapidir=../vapi ../vapi/r_asm -I/usr/include/libr -lr_asm -lr_util -lr_parse -lr_db -lr_syscall\r\n"
+    ],
+    [
+      0.128584,
+      "valabind --swig -I /usr/include/libr -x -N SDB -N Radare -x --vapidir ../vapi -o r_asm.i -m r_asm ../vapi/r_asm --swig\r\n"
+    ],
+    [
+      0.001313,
+      "\u001b[34;1mNOTICE\u001b[0m Adding dependency package glib-2.0"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.000037,
+      "\u001b[34;1mNOTICE\u001b[0m Adding dependency package gobject-2.0"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000066,
+      "\u001b[34;1mNOTICE\u001b[0m Adding dependency package ../vapi/r_asm"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000036,
+      "\u001b[34;1mNOTICE\u001b[0m Adding dependency package r_util"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.466751,
+      "r_asm.i"
+    ],
+    [
+      0.000024,
+      ":121: Warning 453: Can't apply (RAsmOp *OUTPUT). No typemaps are defined.\r\n"
+    ],
+    [
+      0.001865,
+      "r_asm.i:126: "
+    ],
+    [
+      0.000011,
+      "Warning 453: Can't apply (RAsmOp *OUTPUT). No typemaps are defined."
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.087812,
+      "cc1plus: warning: command line option ‘-Wstrict-prototypes’ is valid for C/ObjC but not for C++\r\n"
+    ],
+    [
+      0.448709,
+      "r_asm_wrap.cxx: In function ‘void delete_RListIter(RListIter*)’:"
+    ],
+    [
+      0.000036,
+      "\r\nr_asm_wrap.cxx:5072:25: warning: statement has no effect [-Wunused-value]\r\n   r_list_iter_free(self);\r\n                         ^\r\n"
+    ],
+    [
+      0.083596,
+      "r_asm_wrap.cxx: In function ‘PyObject* Swig_var_OS_get()’:\r\n"
+    ],
+    [
+      0.000032,
+      "r_asm_wrap.cxx:7507:92: error: ‘OS’ was not declared in this scope\r\n SWIGINTERN PyObject *Swig_var_OS_get(void) { PyObject *pyobj = 0; pyobj = SWIG_FromCharPtr(OS); return pyobj; }\r\n                                                                                            ^\r\n"
+    ],
+    [
+      0.000142,
+      "r_asm_wrap.cxx: In function ‘PyObject* Swig_var_ARCH_get()’:\r\n"
+    ],
+    [
+      0.000027,
+      "r_asm_wrap.cxx:7509:94: error: ‘ARCH’ was not declared in this scope\r\n SWIGINTERN PyObject *Swig_var_ARCH_get(void) { PyObject *pyobj = 0; pyobj = SWIG_FromCharPtr(ARCH); return pyobj; }\r\n                                                                                              ^\r\n"
+    ],
+    [
+      0.141687,
+      "... r_asm.so"
+    ],
+    [
+      0.000017,
+      "\r\n"
+    ],
+    [
+      0.006298,
+      "cd .. ; make install-python"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.001431,
+      "make[1]: Entering directory '/home/jeff/ctf/tools/radare2/radare2-bindings'"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.095476,
+      "test -f python/_r_core.so\r\n"
+    ],
+    [
+      0.000820,
+      "Makefile:156: recipe for target 'install-python' failed\r\nmake[1]: *** [install-python] Error 1\r\n"
+    ],
+    [
+      0.000013,
+      "make[1]: Leaving directory '/home/jeff/ctf/tools/radare2/radare2-bindings'\r\n"
+    ],
+    [
+      0.000351,
+      "../rules.mk:56: recipe for target 'install' failed"
+    ],
+    [
+      0.000013,
+      "\r\nmake: *** [install] Error 2\r\n"
+    ],
+    [
+      0.001088,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                \r \r"
+    ],
+    [
+      0.000187,
+      "\u001b]2;jeff@minishwoods: ~/ctf/tools/radare2\u0007"
+    ],
+    [
+      0.000073,
+      "\u001b]1;..tools/radare2\u0007"
+    ],
+    [
+      0.030485,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[32mminishwoods\u001b[00m tools/radare2 \u001b[33m‹master*› \u001b[00m\u001b[00m\u001b[1m»\u001b[0m "
+    ],
+    [
+      0.000015,
+      "\u001b[K\u001b[71C\u001b[31m2 ↵\u001b[00m\u001b[74D"
+    ],
+    [
+      0.000042,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.222836,
+      "e"
+    ],
+    [
+      0.200393,
+      "\u0008ex"
+    ],
+    [
+      0.100311,
+      "i"
+    ],
+    [
+      0.244765,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000015,
+      "\r\r\n"
+    ],
+    [
+      0.000447,
+      "\u001b]2;exi\u0007\u001b]1;exi\u0007"
+    ],
+    [
+      0.000697,
+      "zsh: command not found: exi"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000240,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                \r \r"
+    ],
+    [
+      0.000226,
+      "\u001b]2;jeff@minishwoods: ~/ctf/tools/radare2\u0007"
+    ],
+    [
+      0.000007,
+      "\u001b]1;..tools/radare2\u0007"
+    ],
+    [
+      0.032439,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[32mminishwoods\u001b[00m tools/radare2 \u001b[33m‹master*› \u001b[00m\u001b[00m\u001b[1m»\u001b[0m "
+    ],
+    [
+      0.000013,
+      "\u001b[K\u001b[69C\u001b[31m127 ↵\u001b[00m\u001b[74D"
+    ],
+    [
+      0.000024,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.598711,
+      "e"
+    ],
+    [
+      0.184463,
+      "\u0008ex"
+    ],
+    [
+      0.068113,
+      "i"
+    ],
+    [
+      0.108925,
+      "t"
+    ],
+    [
+      0.157751,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000052,
+      "\r\r\n"
+    ],
+    [
+      0.000405,
+      "\u001b]2;exit\u0007"
+    ],
+    [
+      0.000067,
+      "\u001b]1;exit\u0007"
+    ]
+  ]
+}
