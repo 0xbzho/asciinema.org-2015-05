@@ -1,0 +1,70 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 24,
+  "duration": 4.873952,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.085426,
+      "\u001b]0;stud@l4: ~\u0007stud@l4:~$ "
+    ],
+    [
+      2.642526,
+      "l"
+    ],
+    [
+      0.043632,
+      "s"
+    ],
+    [
+      0.123852,
+      "\r\n"
+    ],
+    [
+      0.002587,
+      "\u001b[0m\u001b[01;34mDesktop\u001b[0m  \u001b[01;34mDokumenty\u001b[0m  \u001b[01;34mMuzyka\u001b[0m  \u001b[01;34mnfs\u001b[0m  \u001b[01;34mObrazy\u001b[0m  \u001b[01;34mPobrane\u001b[0m  \u001b[01;34mPubliczny\u001b[0m  \u001b[01;34mSzablony\u001b[0m  \u001b[01;34mWideo\u001b[0m"
+    ],
+    [
+      0.000049,
+      "\r\n"
+    ],
+    [
+      0.000576,
+      "\u001b]0;stud@l4: ~\u0007stud@l4:~$ "
+    ],
+    [
+      1.403249,
+      "e"
+    ],
+    [
+      0.189976,
+      "x"
+    ],
+    [
+      0.064031,
+      "i"
+    ],
+    [
+      0.190701,
+      "t"
+    ],
+    [
+      0.125907,
+      "\r\n"
+    ],
+    [
+      0.000103,
+      "exit"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ]
+  ]
+}
