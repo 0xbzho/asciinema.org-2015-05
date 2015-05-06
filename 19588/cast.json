@@ -1,0 +1,738 @@
+{
+  "version": 1,
+  "width": 108,
+  "height": 30,
+  "duration": 31.260404,
+  "command": "/usr/local/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/usr/local/bin/zsh"
+  },
+  "stdout": [
+    [
+      1.459822,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                           \r \r"
+    ],
+    [
+      0.000283,
+      "\u001b]2;~/Development/sagequeries\u0007"
+    ],
+    [
+      0.000091,
+      "\u001b]1;.../sagequeries\u0007"
+    ],
+    [
+      0.036391,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[36m~/D/sagequeries\u001b[39m \u001b[34mgit\u001b[39m:\u001b[32mdevelop\u001b[39m "
+    ],
+    [
+      0.000010,
+      "\u001b[K"
+    ],
+    [
+      0.000137,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.001636,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[36m~/D/sagequeries\u001b[39m \u001b[34mgit\u001b[39m:\u001b[32mdevelop\u001b[39m \u001b[1m\u001b[31m❯\u001b[33m❯\u001b[32m❯\u001b[39m\u001b[0m \u001b[K"
+    ],
+    [
+      3.980601,
+      "\u001b[4m\u001b[33ms\u001b[24m\u001b[39m"
+    ],
+    [
+      0.038247,
+      "\u0008\u001b[4m\u001b[33ms\u001b[4m\u001b[33mo\u001b[24m\u001b[39m"
+    ],
+    [
+      0.080223,
+      "\u0008\u0008\u001b[24m\u001b[1m\u001b[31ms\u001b[24m\u001b[1m\u001b[31mo\u001b[1m\u001b[31mu\u001b[0m\u001b[39m"
+    ],
+    [
+      0.224929,
+      "\u0008\u001b[1m\u001b[31mu\u001b[1m\u001b[31mr\u001b[0m\u001b[39m"
+    ],
+    [
+      0.168559,
+      "\u0008\u001b[1m\u001b[31mr\u001b[1m\u001b[31mc\u001b[0m\u001b[39m"
+    ],
+    [
+      0.101046,
+      "\u0008\u0008\u0008\u0008\u0008\u001b[0m\u001b[32ms\u001b[0m\u001b[32mo\u001b[0m\u001b[32mu\u001b[0m\u001b[32mr\u001b[0m\u001b[32mc\u001b[32me\u001b[39m"
+    ],
+    [
+      0.092261,
+      " "
+    ],
+    [
+      0.740882,
+      "\u001b[4mv\u001b[24m"
+    ],
+    [
+      0.112160,
+      "\u0008\u001b[4mv\u001b[4me\u001b[24m"
+    ],
+    [
+      0.123670,
+      "\u0008\u001b[4me\u001b[4mn\u001b[24m"
+    ],
+    [
+      0.230121,
+      "\u001b[1m\u001b[31m...\u001b[39m\u001b[0m"
+    ],
+    [
+      0.060348,
+      "\u001b[33m\u001b[39m\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[36m~/D/sagequeries\u001b[39m \u001b[34mgit\u001b[39m:\u001b[32mdevelop\u001b[39m \u001b[1m\u001b[31m❯\u001b[33m❯\u001b[32m❯\u001b[39m\u001b[0m \u001b[32msource\u001b[39m \u001b[4mvenv\u001b[1m\u001b[4m/\u001b[0m\u001b[24m\u001b[K"
+    ],
+    [
+      1.071387,
+      "\u0008\u001b[0m\u001b[4m/\u001b[4mb\u001b[24m"
+    ],
+    [
+      0.211446,
+      "\u0008\u001b[4mb\u001b[4mi\u001b[24m"
+    ],
+    [
+      0.130622,
+      "\u001b[1m\u001b[31m...\u001b[39m\u001b[0m"
+    ],
+    [
+      0.028646,
+      "\u001b[33m\u001b[39m\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[36m~/D/sagequeries\u001b[39m \u001b[34mgit\u001b[39m:\u001b[32mdevelop\u001b[39m \u001b[1m\u001b[31m❯\u001b[33m❯\u001b[32m❯\u001b[39m\u001b[0m \u001b[32msource\u001b[39m \u001b[4mvenv/bin\u001b[1m\u001b[4m/\u001b[0m\u001b[24m\u001b[K"
+    ],
+    [
+      0.777084,
+      "\u0008\u001b[0m\u001b[4m/\u001b[4ma\u001b[24m"
+    ],
+    [
+      0.206689,
+      "\u001b[1m\u001b[31m...\u001b[39m\u001b[0m"
+    ],
+    [
+      0.029632,
+      "\u001b[33m\u001b[39m\u001b[33m\u001b[39m\u001b[33m\u001b[39m\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[36m~/D/sagequeries\u001b[39m \u001b[34mgit\u001b[39m:\u001b[32mdevelop\u001b[39m \u001b[1m\u001b[31m❯\u001b[33m❯\u001b[32m❯\u001b[39m\u001b[0m \u001b[32msource\u001b[39m \u001b[4mvenv/bin/activate\u001b[24m\u001b[K"
+    ],
+    [
+      1.388341,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.002625,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[36m~/D/sagequeries\u001b[39m \u001b[34mgit\u001b[39m:\u001b[32mdevelop\u001b[39m \u001b[1m\u001b[31m❯\u001b[33m❯\u001b[32m❯\u001b[39m\u001b[0m \u001b[32msource\u001b[39m \u001b[4mvenv/bin/activate\u001b[24m\u001b[K"
+    ],
+    [
+      0.000152,
+      "\r\r\n"
+    ],
+    [
+      0.005450,
+      "\u001b]2;source\u0007"
+    ],
+    [
+      0.000081,
+      "\u001b]1;source\u0007"
+    ],
+    [
+      0.001305,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                           \r \r"
+    ],
+    [
+      0.000120,
+      "\u001b]2;~/Development/sagequeries\u0007"
+    ],
+    [
+      0.000104,
+      "\u001b]1;.../sagequeries\u0007"
+    ],
+    [
+      0.047330,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J(venv) \u001b[36m~/D/sagequeries\u001b[39m \u001b[34mgit\u001b[39m:\u001b[32mdevelop\u001b[39m \u001b[1m\u001b[31m❯\u001b[33m❯\u001b[32m❯\u001b[39m\u001b[0m "
+    ],
+    [
+      0.000009,
+      "\u001b[K"
+    ],
+    [
+      0.000095,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.001589,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J(venv) \u001b[36m~/D/sagequeries\u001b[39m \u001b[34mgit\u001b[39m:\u001b[32mdevelop\u001b[39m \u001b[1m\u001b[31m❯\u001b[33m❯\u001b[32m❯\u001b[39m\u001b[0m \u001b[K"
+    ],
+    [
+      3.031157,
+      "\u001b[4m\u001b[33mc\u001b[24m\u001b[39m"
+    ],
+    [
+      0.067902,
+      "\u0008\u001b[24m\u001b[1m\u001b[31mc\u001b[1m\u001b[31ma\u001b[0m\u001b[39m"
+    ],
+    [
+      0.069256,
+      "\u0008\u0008\u001b[0m\u001b[32mc\u001b[0m\u001b[32ma\u001b[32mt\u001b[39m"
+    ],
+    [
+      1.372544,
+      " "
+    ],
+    [
+      1.632159,
+      "\u001b[4mo\u001b[24m"
+    ],
+    [
+      0.291588,
+      "\u0008\u001b[4m\u001b[33mo\u001b[4m\u001b[33mv\u001b[24m\u001b[39m"
+    ],
+    [
+      0.136146,
+      "\u001b[1m\u001b[31m...\u001b[39m\u001b[0m"
+    ],
+    [
+      0.025325,
+      "\u001b[31m\u001b[39m\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J(venv) \u001b[36m~/D/sagequeries\u001b[39m \u001b[34mgit\u001b[39m:\u001b[32mdevelop\u001b[39m \u001b[1m\u001b[31m❯\u001b[33m❯\u001b[32m❯\u001b[39m\u001b[0m \u001b[32mcat\u001b[39m \u001b[4m\u001b[33mov\u001b[24m\u001b[39m\u001b[K"
+    ],
+    [
+      0.000034,
+      "\u001b[31m\u001b[39m\r\r\n"
+    ],
+    [
+      0.000353,
+      "\u001b[J \u001b[31m-- no matches found --\u001b[39m\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\u001b[39m\r\u001b[39C\u001b[32mcat\u001b[39m \u001b[4m\u001b[33mov\u001b[24m\u001b[39m\u001b[K\u001b[0m\u001b[27m\u001b[24m\u001b[39m"
+    ],
+    [
+      0.476137,
+      "\u0008\u0008\u001b[39m\u001b[4mo\u001b[24m\u001b[24m\u001b[39m \u0008"
+    ],
+    [
+      0.116737,
+      "\u001b[1m\u001b[31m...\u001b[39m\u001b[0m"
+    ],
+    [
+      0.011951,
+      "\u001b[33m\u001b[39m\u001b[33m\u001b[39m\u001b[33m\u001b[39m\r\r\r\r\n\u001b[J\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[J(venv) \u001b[36m~/D/sagequeries\u001b[39m \u001b[34mgit\u001b[39m:\u001b[32mdevelop\u001b[39m \u001b[1m\u001b[31m❯\u001b[33m❯\u001b[32m❯\u001b[39m\u001b[0m \u001b[32mcat\u001b[39m \u001b[4moffene_\u001b[24m\u001b[K"
+    ],
+    [
+      1.444615,
+      "\u0008\u001b[4m_\u001b[4mp\u001b[24m"
+    ],
+    [
+      0.073466,
+      "\u001b[1m\u001b[31m...\u001b[39m\u001b[0m"
+    ],
+    [
+      0.011992,
+      "\u001b[33m\u001b[39m\u001b[33m\u001b[39m\u001b[33m\u001b[39m\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J(venv) \u001b[36m~/D/sagequeries\u001b[39m \u001b[34mgit\u001b[39m:\u001b[32mdevelop\u001b[39m \u001b[1m\u001b[31m❯\u001b[33m❯\u001b[32m❯\u001b[39m\u001b[0m \u001b[32mcat\u001b[39m \u001b[4moffene_positionen\u001b[24m\u001b[K"
+    ],
+    [
+      0.794054,
+      "\u0008\u001b[4mn\u001b[4m.\u001b[24m"
+    ],
+    [
+      0.157403,
+      "\u0008\u001b[4m.\u001b[4mp\u001b[24m"
+    ],
+    [
+      0.116452,
+      "\u001b[1m\u001b[31m...\u001b[39m\u001b[0m"
+    ],
+    [
+      0.010417,
+      "\u001b[33m\u001b[39m\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J(venv) \u001b[36m~/D/sagequeries\u001b[39m \u001b[34mgit\u001b[39m:\u001b[32mdevelop\u001b[39m \u001b[1m\u001b[31m❯\u001b[33m❯\u001b[32m❯\u001b[39m\u001b[0m \u001b[32mcat\u001b[39m \u001b[4moffene_positionen.py\u001b[24m\u001b[1m \u001b[0m\u001b[K"
+    ],
+    [
+      0.840096,
+      "\u0008\u001b[0m \u0008"
+    ],
+    [
+      0.000029,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.001985,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J(venv) \u001b[36m~/D/sagequeries\u001b[39m \u001b[34mgit\u001b[39m:\u001b[32mdevelop\u001b[39m \u001b[1m\u001b[31m❯\u001b[33m❯\u001b[32m❯\u001b[39m\u001b[0m \u001b[32mcat\u001b[39m \u001b[4moffene_positionen.py\u001b[24m\u001b[K"
+    ],
+    [
+      0.000071,
+      "\r\r\n"
+    ],
+    [
+      0.000927,
+      "\u001b]2;cat\u0007"
+    ],
+    [
+      0.000068,
+      "\u001b]1;cat\u0007"
+    ],
+    [
+      0.002577,
+      "#!/usr/bin/env python3\r\n# -*- coding: UTF-8 -*-\r\n\"\"\"\r\nCopyright (C) 2009-2015, Markus Hubig \u003cmhubig@imko.de\u003e\r\n\"\"\"\r\n\r\nfrom os import getenv\r\nimport pymssql\r\n\r\nDB_USER = getenv('SAGE_DB_USER', 'sa')\r\nDB_PASW = getenv('SAGE_DB_PASW', '')\r\nDB_HOST = getenv('SAGE_DB_HOST', '192.168.1.30')\r\nDB_NAME = getenv('SAGE_DB_NAME', 'OLIMKOGmbH')\r\n\r\nif __name__ == \"__main__\":\r\n    conn = pymssql.connect(DB_HOST, DB_USER, DB_PASW, 'OLIMKOGmbH')\r\n    cursor = conn.cursor()\r\n    with open('offene_positionen.sql') as query:\r\n        sql = query.read()\r\n        cursor.execute(sql)\r\n\r\n    row = cursor.fetchone()\r\n    while row:\r\n        print(row)\r\n        row = cursor.fetchone()\r\n\r\n    conn.close()\r\n"
+    ],
+    [
+      0.000453,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                           \r \r"
+    ],
+    [
+      0.000288,
+      "\u001b]2;~/Development/sagequeries\u0007"
+    ],
+    [
+      0.000102,
+      "\u001b]1;.../sagequeries\u0007"
+    ],
+    [
+      0.041973,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J(venv) \u001b[36m~/D/sagequeries\u001b[39m \u001b[34mgit\u001b[39m:\u001b[32mdevelop\u001b[39m \u001b[1m\u001b[31m❯\u001b[33m❯\u001b[32m❯\u001b[39m\u001b[0m "
+    ],
+    [
+      0.000012,
+      "\u001b[K"
+    ],
+    [
+      0.000212,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.002351,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J(venv) \u001b[36m~/D/sagequeries\u001b[39m \u001b[34mgit\u001b[39m:\u001b[32mdevelop\u001b[39m \u001b[1m\u001b[31m❯\u001b[33m❯\u001b[32m❯\u001b[39m\u001b[0m \u001b[K"
+    ],
+    [
+      3.121915,
+      "\u001b[32mp\u001b[39m"
+    ],
+    [
+      0.099984,
+      "\u0008\u001b[32mp\u001b[32my\u001b[39m"
+    ],
+    [
+      0.304734,
+      "\u0008\u0008\u001b[1m\u001b[31mp\u001b[1m\u001b[31my\u001b[1m\u001b[31mt\u001b[0m\u001b[39m"
+    ],
+    [
+      0.061436,
+      "\u0008\u001b[1m\u001b[31mt\u001b[1m\u001b[31mh\u001b[0m\u001b[39m"
+    ],
+    [
+      0.094489,
+      "\u0008\u001b[1m\u001b[31mh\u001b[1m\u001b[31mo\u001b[0m\u001b[39m"
+    ],
+    [
+      0.158684,
+      "\u0008\u0008\u0008\u0008\u0008\u001b[0m\u001b[32mp\u001b[0m\u001b[32my\u001b[0m\u001b[32mt\u001b[0m\u001b[32mh\u001b[0m\u001b[32mo\u001b[32mn\u001b[39m"
+    ],
+    [
+      0.056376,
+      " "
+    ],
+    [
+      0.416241,
+      "\u001b[4mo\u001b[24m"
+    ],
+    [
+      0.270373,
+      "\u0008\u001b[4mo\u001b[4mf\u001b[24m"
+    ],
+    [
+      0.112535,
+      "\u0008\u001b[4mf\u001b[4mf\u001b[24m"
+    ],
+    [
+      0.072133,
+      "\u001b[1m\u001b[31m...\u001b[39m\u001b[0m"
+    ],
+    [
+      0.022608,
+      "\u001b[33m\u001b[39m\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J(venv) \u001b[36m~/D/sagequeries\u001b[39m \u001b[34mgit\u001b[39m:\u001b[32mdevelop\u001b[39m \u001b[1m\u001b[31m❯\u001b[33m❯\u001b[32m❯\u001b[39m\u001b[0m \u001b[32mpython\u001b[39m \u001b[4moffene_positionen.py\u001b[24m\u001b[1m \u001b[0m\u001b[K"
+    ],
+    [
+      1.221931,
+      "\u0008\u001b[0m \u0008"
+    ],
+    [
+      0.000011,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.001933,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J(venv) \u001b[36m~/D/sagequeries\u001b[39m \u001b[34mgit\u001b[39m:\u001b[32mdevelop\u001b[39m \u001b[1m\u001b[31m❯\u001b[33m❯\u001b[32m❯\u001b[39m\u001b[0m \u001b[32mpython\u001b[39m \u001b[4moffene_positionen.py\u001b[24m\u001b[K"
+    ],
+    [
+      0.000061,
+      "\r\r\n"
+    ],
+    [
+      0.001597,
+      "\u001b]2;python\u0007"
+    ],
+    [
+      0.000011,
+      "\u001b]1;python\u0007"
+    ],
+    [
+      0.103854,
+      "('100020', 'SM USB converter module USB to RS485 and IMP-Bus', '2010-12', Decimal('1.00'), Decimal('0.00'))\r\n"
+    ],
+    [
+      0.000060,
+      "('300058', 'TRIME-EZ / PICO64 / 160mm spare rod', '2010-12', Decimal('6.00'), Decimal('0.00'))\r\n"
+    ],
+    [
+      0.000073,
+      "('300078', 'TRIME-PICO64 / 160mm', '2010-12', Decimal('2.00'), Decimal('0.00'))\r\n"
+    ],
+    [
+      0.000096,
+      "('300082', 'PICO Datalogger cable 5m with end splices', '2010-12', Decimal('2.00'), Decimal('0.00'))\r\n"
+    ],
+    [
+      0.000074,
+      "('300091', 'C-BOX PICO Voltage-Current transducer', '2010-12', Decimal('2.00'), Decimal('0.00'))\r\n"
+    ],
+    [
+      0.000057,
+      "('302015', 'PICO32+64/P2/TRIME-IT/-ITC 1,0m tube extension', '2010-12', Decimal('2.00'), Decimal('0.00'))\r\n"
+    ],
+    [
+      0.000068,
+      "('302035', 'Preparation set for P2Z, P2G, P2G-MR,-EZ', '2010-12', Decimal('2.00'), Decimal('0.00'))\r\n"
+    ],
+    [
+      0.000044,
+      "('300009', 'TRIME-FM3', '2011-04', Decimal('1.00'), Decimal('0.00'))\r\n"
+    ],
+    [
+      0.000064,
+      "('300078', 'TRIME-PICO64 / 160mm', '2011-04', Decimal('2.00'), Decimal('1.00'))\r\n"
+    ],
+    [
+      0.000066,
+      "('300081', 'PICO BT+TRIME-HD cable 1,5m', '2011-04', Decimal('2.00'), Decimal('1.00'))\r\n"
+    ],
+    [
+      0.000027,
+      "('300107', 'HD2 portable measuring instrument', '2011-04', Decimal('2.00'), Decimal('1.00'))\r\n"
+    ],
+    [
+      0.000041,
+      "('303003', 'T3/44 tube access probe', '2011-04', Decimal('1.00'), Decimal('0.00'))\r\n"
+    ],
+    [
+      0.015249,
+      "('303008', 'TECANAT access tube 1m / ø44mm', '2011-04', Decimal('20.00'), Decimal('0.00'))\r\n"
+    ],
+    [
+      0.000131,
+      "('100020', 'SM USB converter module USB to RS485 and IMP-Bus', '2011-05', Decimal('1.00'), Decimal('0.00'))\r\n('300008', 'TRIME-FM2', '2011-05', Decimal('1.00'), Decimal('0.00'))\r\n('300009', 'TRIME-FM3', '2011-05', Decimal('4.00'), Decimal('0.00'))\r\n('300045', 'TRIME-PICO IPH', '2011-05', Decimal('6.00'), Decimal('0.00'))\r\n('300049', 'TRIME-IT/EZ/IPH analogue cable extension', '2011-05', Decimal('3.00'), Decimal('0.00'))\r\n('300055', 'TRIME-ITC/110mm spare rod', '2011-05', Decimal('20.00'), Decimal('0.00'))\r\n('300077', 'TRIME-PICO32 /110mm', '2011-05', Decimal('8.00'), Decimal('0.00'))\r\n('300078', 'TRIME-PICO64 / 160mm', '2011-05', Decimal('14.00'), Decimal('0.00'))\r\n('300081', 'PICO BT+TRIME-HD cable 1,5m', '2011-05', Decimal('19.00'), Decimal('0.00'))\r\n('300082', 'PICO Datalogger cable 5m with end splices', '2011-05', Decimal('3.00'), Decimal('0.00'))\r\n('300090', 'PICO BT Bluetooth module', '2011-05', Decimal('5.00'), Decimal('0.00'))\r\n('300105', 'Rugged PDA N560e Palm PC', '2011-05', Decimal('5.00'), Decimal"
+    ],
+    [
+      0.000015,
+      "('0.00'))\r\n"
+    ],
+    [
+      0.000105,
+      "('300107', 'HD2 portable measuring instrument', '2011-05', Decimal('16.00'), Decimal('0.00'))\r\n"
+    ],
+    [
+      0.000080,
+      "('302001', 'P2D/50mm', '2011-05', Decimal('1.00'), Decimal('0.00'))\r\n"
+    ],
+    [
+      0.000111,
+      "('302003', 'P2D / 85mm', '2011-05', Decimal('1.00'), Decimal('0.00'))\r\n"
+    ],
+    [
+      0.000088,
+      "('302007', 'P2D/50mm preparation probe', '2011-05', Decimal('1.00'), Decimal('0.00'))\r\n"
+    ],
+    [
+      0.000076,
+      "('302009', 'P2D/85mm preparation probe', '2011-05', Decimal('1.00'), Decimal('0.00'))\r\n"
+    ],
+    [
+      0.000080,
+      "('302019', 'P2/110mm spare rod', '2011-05', Decimal('4.00'), Decimal('0.00'))\r\n"
+    ],
+    [
+      0.000079,
+      "('302023', 'P2 / TRIME-IT / PICO32 preparation probe', '2011-05', Decimal('1.00'), Decimal('0.00'))\r\n"
+    ],
+    [
+      0.000068,
+      "('302046', 'P3 / 160mm', '2011-05', Decimal('5.00'), Decimal('0.00'))\r\n"
+    ],
+    [
+      0.000079,
+      "('302048', 'Preparation set for P3, P3-MR probe', '2011-05', Decimal('3.00'), Decimal('0.00'))\r\n"
+    ],
+    [
+      0.000062,
+      "('303001', 'T3/44 tube probe corpus (TRIME-PICO IPH+TRIME-IPH)', '2011-05', Decimal('3.00'), Decimal('0.00'))\r\n"
+    ],
+    [
+      0.000059,
+      "('303002', 'T3/50 tube probe corpus', '2011-05', Decimal('3.00'), Decimal('0.00'))\r\n"
+    ],
+    [
+      0.000064,
+      "('303003', 'T3/44 tube access probe', '2011-05', Decimal('7.00'), Decimal('0.00'))\r\n"
+    ],
+    [
+      0.000058,
+      "('303004', 'T3C/44 tube access probe', '2011-05', Decimal('1.00'), Decimal('0.00'))\r\n"
+    ],
+    [
+      0.000058,
+      "('303006', 'Spare cable for T3/44/50', '2011-05', Decimal('5.00'), Decimal('0.00'))\r\n"
+    ],
+    [
+      0.000082,
+      "('303007', 'TECANAT access tube 0,6m / ø44mm', '2011-05', Decimal('30.00'), Decimal('0.00'))\r\n"
+    ],
+    [
+      0.000062,
+      "('303008', 'TECANAT access tube 1m / ø44mm', '2011-05', Decimal('60.00'), Decimal('0.00'))\r\n"
+    ],
+    [
+      0.000067,
+      "('303010', 'TECANAT access tube 2m / ø44mm', '2011-05', Decimal('143.00'), Decimal('0.00'))\r\n"
+    ],
+    [
+      0.000062,
+      "('303012', 'TECANAT access tube 3m / ø44mm', '2011-05', Decimal('17.00'), Decimal('0.00'))\r\n"
+    ],
+    [
+      0.000053,
+      "('303021', 'Auger equipment for ø44mm TECANAT tubes', '2011-05', Decimal('5.00'), Decimal('0.00'))\r\n"
+    ],
+    [
+      0.000075,
+      "('303022', 'Soil anchor set for auger equipment', '2011-05', Decimal('3.00'), Decimal('0.00'))\r\n"
+    ],
+    [
+      0.000055,
+      "('303026', 'Inner steel guide 2m', '2011-05', Decimal('2.00'), Decimal('0.00'))\r\n"
+    ],
+    [
+      0.000062,
+      "('303030', 'Steel extension 1m', '2011-05', Decimal('2.00'), Decimal('0.00'))\r\n"
+    ],
+    [
+      0.000069,
+      "('305001', 'TRIME calibration set', '2011-05', Decimal('5.00'), Decimal('0.00'))\r\n"
+    ],
+    [
+      0.000086,
+      "('306006', 'TRIME-GW2 Vers.2 Measurement Transformer', '2011-05', Decimal('16.00'), Decimal('1.00'))\r\n"
+    ],
+    [
+      0.000060,
+      "('306008', 'TRIME-GW3 Vers.2 Measurement Transformer P2 or P3', '2011-05', Decimal('5.00'), Decimal('0.00'))\r\n"
+    ],
+    [
+      0.000055,
+      "('307001', 'GR Probe version P2', '2011-05', Decimal('16.00'), Decimal('1.00'))\r\n"
+    ],
+    [
+      0.000078,
+      "('307010', 'GS1 (aluminium) surface probe Version P3', '2011-05', Decimal('5.00'), Decimal('0.00'))\r\n"
+    ],
+    [
+      0.000059,
+      "('308002', 'Product monitoring switch', '2011-05', Decimal('1.00'), Decimal('1.00'))\r\n"
+    ],
+    [
+      0.000061,
+      "('308016', 'Calibration connector for all cerals', '2011-05', Decimal('7.00'), Decimal('0.00'))\r\n"
+    ],
+    [
+      0.000057,
+      "('308017', 'Calibration connector for rape and other oil seeds', '2011-05', Decimal('7.00'), Decimal('0.00'))\r\n"
+    ],
+    [
+      0.000067,
+      "('308024', 'TRIME-GW Phoenix 12 pin connector', '2011-05', Decimal('1.00'), Decimal('1.00'))\r\n"
+    ],
+    [
+      0.000066,
+      "('308029', 'SONO 4m Sensorcable', '2011-05', Decimal('5.00'), Decimal('0.00'))\r\n"
+    ],
+    [
+      0.000058,
+      "('308031', 'Flange for SONO-VARIO', '2011-05', Decimal('4.00'), Decimal('0.00'))\r\n"
+    ],
+    [
+      0.000099,
+      "('308035', 'Calibration connector for sunflower seed', '2011-05', Decimal('7.00'), Decimal('0.00'))\r\n"
+    ],
+    [
+      0.000055,
+      "('308050', 'SONO-SILO Standard', '2011-05', Decimal('1.00'), Decimal('0.00'))\r\n"
+    ],
+    [
+      0.000057,
+      "('308070', 'SONO-VARIO', '2011-05', Decimal('3.00'), Decimal('0.00'))\r\n"
+    ],
+    [
+      0.000056,
+      "('308075', 'SONO-VARIO HC', '2011-05', Decimal('1.00'), Decimal('0.00'))\r\n"
+    ],
+    [
+      0.000082,
+      "('300009', 'TRIME-FM3', '2011-06', Decimal('3.00'), Decimal('0.00'))\r\n"
+    ],
+    [
+      0.000083,
+      "('300013', 'Carrying case Tectra Eco 1', '2011-06', Decimal('1.00'), Decimal('0.00'))\r\n"
+    ],
+    [
+      0.000058,
+      "('300045', 'TRIME-PICO IPH', '2011-06', Decimal('2.00'), Decimal('0.00'))\r\n"
+    ],
+    [
+      0.000058,
+      "('300058', 'TRIME-EZ / PICO64 / 160mm spare rod', '2011-06', Decimal('6.00'), Decimal('0.00'))\r\n"
+    ],
+    [
+      0.000078,
+      "('300077', 'TRIME-PICO32 /110mm', '2011-06', Decimal('32.00'), Decimal('0.00'))\r\n"
+    ],
+    [
+      0.000070,
+      "('300078', 'TRIME-PICO64 / 160mm', '2011-06', Decimal('22.00'), Decimal('0.00'))\r\n"
+    ],
+    [
+      0.000065,
+      "('300081', 'PICO BT+TRIME-HD cable 1,5m', '2011-06', Decimal('9.00'), Decimal('0.00'))\r\n"
+    ],
+    [
+      0.000081,
+      "('300082', 'PICO Datalogger cable 5m with end splices', '2011-06', Decimal('45.00'), Decimal('0.00'))\r\n"
+    ],
+    [
+      0.000069,
+      "('300090', 'PICO BT Bluetooth module', '2011-06', Decimal('3.00'), Decimal('0.00'))\r\n"
+    ],
+    [
+      0.000063,
+      "('300105', 'Rugged PDA N560e Palm PC', '2011-06', Decimal('3.00'), Decimal('0.00'))\r\n"
+    ],
+    [
+      0.000052,
+      "('300107', 'HD2 portable measuring instrument', '2011-06', Decimal('1.00'), Decimal('0.00'))\r\n"
+    ],
+    [
+      0.000058,
+      "('302015', 'PICO32+64/P2/TRIME-IT/-ITC 1,0m tube extension', '2011-06', Decimal('1.00'), Decimal('0.00'))\r\n"
+    ],
+    [
+      0.000077,
+      "('303000', 'T3C/44 probe corpus', '2011-06', Decimal('1.00'), Decimal('0.00'))\r\n"
+    ],
+    [
+      0.000083,
+      "('303001', 'T3/44 tube probe corpus (TRIME-PICO IPH+TRIME-IPH)', '2011-06', Decimal('1.00'), Decimal('0.00'))\r\n"
+    ],
+    [
+      0.000055,
+      "('303003', 'T3/44 tube access probe', '2011-06', Decimal('3.00'), Decimal('0.00'))\r\n"
+    ],
+    [
+      0.000066,
+      "('303007', 'TECANAT access tube 0,6m / ø44mm', '2011-06', Decimal('1.00'), Decimal('0.00'))\r\n"
+    ],
+    [
+      0.000072,
+      "('303008', 'TECANAT access tube 1m / ø44mm', '2011-06', Decimal('30.00'), Decimal('0.00'))\r\n"
+    ],
+    [
+      0.000064,
+      "('303009', 'TECANAT access tube 1,5m / ø44mm', '2011-06', Decimal('60.00'), Decimal('0.00'))\r\n"
+    ],
+    [
+      0.000084,
+      "('303021', 'Auger equipment for ø44mm TECANAT tubes', '2011-06', Decimal('4.00'), Decimal('0.00'))\r\n"
+    ],
+    [
+      0.000051,
+      "('303022', 'Soil anchor set for auger equipment', '2011-06', Decimal('1.00'), Decimal('0.00'))\r\n"
+    ],
+    [
+      0.000071,
+      "('303028', 'Inner steel guide 3m', '2011-06', Decimal('1.00'), Decimal('0.00'))\r\n"
+    ],
+    [
+      0.000056,
+      "('303030', 'Steel extension 1m', '2011-06', Decimal('2.00'), Decimal('0.00'))\r\n"
+    ],
+    [
+      0.000069,
+      "('306006', 'TRIME-GW2 Vers.2 Measurement Transformer', '2011-06', Decimal('1.00'), Decimal('0.00'))\r\n"
+    ],
+    [
+      0.000061,
+      "('306008', 'TRIME-GW3 Vers.2 Measurement Transformer P2 or P3', '2011-06', Decimal('5.00'), Decimal('0.00'))\r\n"
+    ],
+    [
+      0.000062,
+      "('307001', 'GR Probe version P2', '2011-06', Decimal('1.00'), Decimal('0.00'))\r\n"
+    ],
+    [
+      0.000081,
+      "('307010', 'GS1 (aluminium) surface probe Version P3', '2011-06', Decimal('5.00'), Decimal('0.00'))\r\n"
+    ],
+    [
+      0.000079,
+      "('308002', 'Product monitoring switch', '2011-06', Decimal('1.00'), Decimal('0.00'))\r\n"
+    ],
+    [
+      0.000073,
+      "('308024', 'TRIME-GW Phoenix 12 pin connector', '2011-06', Decimal('1.00'), Decimal('0.00'))\r\n"
+    ],
+    [
+      0.000071,
+      "('308029', 'SONO 4m Sensorcable', '2011-06', Decimal('8.00'), Decimal('0.00'))\r\n"
+    ],
+    [
+      0.000058,
+      "('308031', 'Flange for SONO-VARIO', '2011-06', Decimal('8.00'), Decimal('0.00'))\r\n"
+    ],
+    [
+      0.000060,
+      "('308036', 'Universal bracket with tilt mechanism', '2011-06', Decimal('8.00'), Decimal('0.00'))\r\n"
+    ],
+    [
+      0.000088,
+      "('308070', 'SONO-VARIO', '2011-06', Decimal('4.00'), Decimal('0.00'))\r\n"
+    ],
+    [
+      0.000056,
+      "('308074', 'SONO-VARIO Xtrem', '2011-06', Decimal('4.00'), Decimal('0.00'))\r\n"
+    ],
+    [
+      0.008002,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                           \r \r"
+    ],
+    [
+      0.000342,
+      "\u001b]2;~/Development/sagequeries\u0007"
+    ],
+    [
+      0.000088,
+      "\u001b]1;.../sagequeries\u0007"
+    ],
+    [
+      0.042023,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J(venv) \u001b[36m~/D/sagequeries\u001b[39m \u001b[34mgit\u001b[39m:\u001b[32mdevelop\u001b[39m \u001b[1m\u001b[31m❯\u001b[33m❯\u001b[32m❯\u001b[39m\u001b[0m \u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      0.002167,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J(venv) \u001b[36m~/D/sagequeries\u001b[39m \u001b[34mgit\u001b[39m:\u001b[32mdevelop\u001b[39m \u001b[1m\u001b[31m❯\u001b[33m❯\u001b[32m❯\u001b[39m\u001b[0m \u001b[K"
+    ],
+    [
+      2.940200,
+      "\r\r\n"
+    ]
+  ]
+}
