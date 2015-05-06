@@ -1,0 +1,142 @@
+{
+  "version": 1,
+  "width": 94,
+  "height": 29,
+  "duration": 14.130822,
+  "command": "/usr/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/usr/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.543575,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                             \r \r"
+    ],
+    [
+      0.000047,
+      "\u001b]2;jmelis@rama: ~\u0007"
+    ],
+    [
+      0.000020,
+      "\u001b]1;~\u0007"
+    ],
+    [
+      0.018143,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[Jrama \u001b[01;32m➜ \u001b[01;32m \u001b[36m~ \u001b[01;34m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000015,
+      "\u001b[K"
+    ],
+    [
+      0.000009,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      2.041526,
+      "\r\r\nbck-i-search: _\u001b[K\u001b[A\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.388289,
+      "asciinema \u001b[4mr\u001b[24mec\u001b[1B\u001b[10Dr_\u001b[A\u001b[5C"
+    ],
+    [
+      0.080552,
+      "\u001b[4mr\u001b[4me\u001b[24m\u001b[1B\u001b[8De_\u001b[A\u001b[4C"
+    ],
+    [
+      0.185824,
+      "\u001b[10Donevm reco\u001b[24mv\u001b[24mer 1 --\u001b[4mret\u001b[24mry \u001b[1B\u001b[19Dt_\u001b[A\u001b[11C"
+    ],
+    [
+      0.066111,
+      "\u001b[2C\u001b[4mt\u001b[4mr\u001b[24m\u001b[1B\u001b[16Dr_\u001b[A\u001b[10C"
+    ],
+    [
+      0.630760,
+      "\u001b[24mr\u001b[24me\u001b[24mt\u001b[24mr\u001b[1B\r\u001b[K\u001b[A\u001b[29C\u001b[?1l\u001b\u003e\u001b[1B\r"
+    ],
+    [
+      0.013130,
+      "\u001b]2;onevm recover 1 --retry\u0007"
+    ],
+    [
+      0.000009,
+      "\u001b]1;onevm\u0007"
+    ],
+    [
+      0.535481,
+      "/usr/lib/one/mads/one_tm.rb:19: warning: already initialized constant ONE_LOCATION\r\n/usr/bin/onevm:19: warning: previous definition of ONE_LOCATION was here\r\n/usr/lib/one/mads/one_tm.rb:22: warning: already initialized constant RUBY_LIB_LOCATION\r\n/usr/bin/onevm:22: warning: previous definition of RUBY_LIB_LOCATION was here\r\n/usr/lib/one/mads/one_tm.rb:23: warning: already initialized constant ETC_LOCATION\r\n/usr/bin/onevm:24: warning: previous definition of ETC_LOCATION was here\r\n"
+    ],
+    [
+      0.015113,
+      "TM Debug Interactive Environment.\r\n\r\nAction list:"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.000038,
+      "CLONE shared rama:/var/lib/one//datastores/1/9a969a8b53055aa2aee31cc5227fb0d4 localhost:/var/lib/one//datastores/0/1/disk.0 1 1\r\nCLONE shared rama:x/var/lib/one//datastores/1/9a969a8b53055aa2aee31cc5227fb0d4 localhost:/var/lib/one//datastores/0/1/disk.0 1 1\r\n"
+    ],
+    [
+      0.000028,
+      "\r\n"
+    ],
+    [
+      0.001565,
+      "Current action:\r\n"
+    ],
+    [
+      0.000015,
+      "CLONE shared rama:/var/lib/one//datastores/1/9a969a8b53055aa2aee31cc5227fb0d4 localhost:/var/lib/one//datastores/0/1/disk.0 1 1\r\n\r\n"
+    ],
+    [
+      0.000047,
+      "Choose action:\r\n(s) Skip to next action\r\n(r) Run action\r\n(q) Quit\r\n"
+    ],
+    [
+      0.000026,
+      "\u003e "
+    ],
+    [
+      3.797820,
+      "s"
+    ],
+    [
+      0.257384,
+      "\r\n"
+    ],
+    [
+      0.000200,
+      "Current action:\r\nCLONE shared rama:x/var/lib/one//datastores/1/9a969a8b53055aa2aee31cc5227fb0d4 localhost:/var/lib/one//datastores/0/1/disk.0 1 1\r\n\r\nChoose action:\r\n(s) Skip to next action\r\n(r) Run action\r\n(q) Quit\r\n\u003e "
+    ],
+    [
+      2.698014,
+      "r"
+    ],
+    [
+      0.181875,
+      "\r\n"
+    ],
+    [
+      0.363138,
+      "LOG I  Command execution fail: /var/lib/one/remotes/tm/shared/clone rama:x/var/lib/one//datastores/1/9a969a8b53055aa2aee31cc5227fb0d4 localhost:/var/lib/one//datastores/0/1/disk.0 1 1\r\nLOG I  clone: Cloning /var/lib/one/datastores/1/9a969a8b53055aa2aee31cc5227fb0d4 in localhost:/var/lib/one//datastores/0/1/disk.0\r\nLOG E  clone: Command \"cd /var/lib/one/datastores/0/1; cp /var/lib/one/datastores/1/9a969a8b53055aa2aee31cc5227fb0d4 /var/lib/one/datastores/0/1/disk.0\" failed: cp: cannot stat '/var/lib/one/datastores/1/9a969a8b53055aa2aee31cc5227fb0d4': No such file or directory\r\nLOG E  Error copying rama:x/var/lib/one//datastores/1/9a969a8b53055aa2aee31cc5227fb0d4 to localhost:/var/lib/one//datastores/0/1/disk.0\r\nLOG I  ExitCode: 1\r\n\r\nStopping execution:\r\nError copying rama:x/var/lib/one//datastores/1/9a969a8b53055aa2aee31cc5227fb0d4 to localhost:/var/lib/one//datastores/0/1/disk.0\r\n"
+    ],
+    [
+      0.021634,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                             \r \r\u001b]2;jmelis@rama: ~\u0007\u001b]1;~\u0007"
+    ],
+    [
+      0.018772,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[Jrama \u001b[01;31m➜ \u001b[27m\u001b[01;32m \u001b[36m~ \u001b[01;34m\u001b[01;34m \u001b[00m\u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      1.689302,
+      "\r\r\n"
+    ]
+  ]
+}
