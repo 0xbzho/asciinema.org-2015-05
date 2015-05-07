@@ -1,0 +1,218 @@
+{
+  "version": 1,
+  "width": 83,
+  "height": 29,
+  "duration": 46.035376,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.049219,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                  \r \r"
+    ],
+    [
+      0.000021,
+      "\u001b]2;jmelis@haddock: /var/lib/one/vms/3\u0007"
+    ],
+    [
+      0.000018,
+      "\u001b]1;..lib/one/vms/3\u0007"
+    ],
+    [
+      0.010394,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36m3 \u001b[01;34m\u001b[01;34m \u001b[00m\u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      4.286805,
+      "\r\r\nbck-i-search: _\u001b[K\u001b[A\u001b[9D"
+    ],
+    [
+      0.381098,
+      "asci\u001b[4mi\u001b[24mnema rec\u001b[1B\u0008\u0008\u0008\u0008\u0008i_\u001b[A\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.084500,
+      "\u001b[4mi\u001b[4mn\u001b[24m\u001b[1B\u001b[3Cn_\u001b[A\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.088916,
+      "\u0008\u0008\u0008\u0008onev\u001b[24mm\u001b[24m recover 3 --retry --\u001b[4mint\u001b[24meractive\u001b[1B\u001b[27Dt_\u001b[A\u001b[14C"
+    ],
+    [
+      0.086761,
+      "\u001b[2C\u001b[4mt\u001b[4me\u001b[24m\u001b[1B\u001b[19De_\u001b[A\u001b[13C"
+    ],
+    [
+      0.124734,
+      "\u001b[3C\u001b[4me\u001b[4mr\u001b[24m\u001b[1B\u001b[19Dr_\u001b[A\u001b[12C"
+    ],
+    [
+      1.451535,
+      "\u001b[24mi\u001b[24mn\u001b[24mt\u001b[24me\u001b[24mr\u001b[1B\r\u001b[K\u001b[A\u001b[32C\u001b[?1l\u001b\u003e\u001b[1B\r\u001b]2;onevm recover 3 --retry --interactive\u0007\u001b]1;onevm\u0007"
+    ],
+    [
+      0.236904,
+      "b\r\n"
+    ],
+    [
+      0.002710,
+      "\u001b[32mTM Debug Interactive Environment.\u001b[0m\r\n\r\n\u001b[32mTM Action list:\u001b[0m\r\n(1) CLONE ssh haddock:/var/lib/one//datastores/1/5f87113bc0e00fd129164da5e3eba108 localhost:/var/lib/one//datastores/0/3/disk.0 3 1\r\n(2) CLONE ssh haddock:/var/lib/one//datastores/1/unreadable localhost:/var/lib/one//datastores/0/3/disk.0 3 1\r\n(3) CLONE ssh haddock:/var/lib/one//datastores/1/5f87113bc0e00fd129164da5e3eba108 localhost:/var/lib/one//datastores/0/3/disk.0 3 1\r\n\r\n\u001b[32mCurrent action (1):\u001b[0m\r\nCLONE ssh haddock:/var/lib/one//datastores/1/5f87113bc0e00fd129164da5e3eba108 localhost:/var/lib/one//datastores/0/3/disk.0 3 1\r\n\r\nChoose action:\r\n(r) Run action\r\n(n) Skip to next action\r\n(a) Show all actions\r\n(q) Quit\r\n\u003e "
+    ],
+    [
+      4.451865,
+      "r"
+    ],
+    [
+      0.504658,
+      "\r\n\r\n"
+    ],
+    [
+      0.431429,
+      "SUCCESS. Advancing to next action.\r\n\r\n\u001b[32mCurrent action (2):\u001b[0m\r\nCLONE ssh haddock:/var/lib/one//datastores/1/unreadable localhost:/var/lib/one//datastores/0/3/disk.0 3 1\r\n\r\nChoose action:\r\n(r) Run action\r\n(n) Skip to next action\r\n(a) Show all actions\r\n(q) Quit\r\n\u003e "
+    ],
+    [
+      3.285032,
+      "r"
+    ],
+    [
+      1.001634,
+      "\r\n"
+    ],
+    [
+      0.000142,
+      "\r\n"
+    ],
+    [
+      0.365505,
+      "LOG I  Command execution fail: /var/lib/one/remotes/tm/ssh/clone haddock:/var/lib/one//datastores/1/unreadable localhost:/var/lib/one//datastores/0/3/disk.0 3 1\r\nLOG I  clone: Cloning haddock:/var/lib/one//datastores/1/unreadable in /var/lib/one/datastores/0/3/disk.0\r\nLOG E  clone: Command \"scp -r haddock:/var/lib/one//datastores/1/unreadable localhost:/var/lib/one//datastores/0/3/disk.0\" failed: /var/lib/one//datastores/1/unreadable: No such file or directory\r\nLOG E  Error copying haddock:/var/lib/one//datastores/1/unreadable to localhost:/var/lib/one//datastores/0/3/disk.0\r\nLOG I  ExitCode: 1\r\n\r\n\u001b[31mFAILURE. Repeat command.\u001b[0m\r\n\r\n\u001b[32mCurrent action (2):\u001b[0m\r\nCLONE ssh haddock:/var/lib/one//datastores/1/unreadable localhost:/var/lib/one//datastores/0/3/disk.0 3 1\r\n\r\nChoose action:\r\n(r) Run action\r\n(n) Skip to next action\r\n(a) Show all actions\r\n(q) Quit\r\n\u003e "
+    ],
+    [
+      4.472359,
+      "a"
+    ],
+    [
+      1.299750,
+      "\r\n"
+    ],
+    [
+      0.000101,
+      "\r\n\u001b[32mTM Action list:\u001b[0m\r\n(1) CLONE ssh haddock:/var/lib/one//datastores/1/5f87113bc0e00fd129164da5e3eba108 localhost:/var/lib/one//datastores/0/3/disk.0 3 1\r\n(2) CLONE ssh haddock:/var/lib/one//datastores/1/unreadable localhost:/var/lib/one//datastores/0/3/disk.0 3 1\r\n(3) CLONE ssh haddock:/var/lib/one//datastores/1/5f87113bc0e00fd129164da5e3eba108 localhost:/var/lib/one//datastores/0/3/disk.0 3 1\r\n\r\n\u001b[32mCurrent action (2):\u001b[0m\r\nCLONE ssh haddock:/var/lib/one//datastores/1/unreadable localhost:/var/lib/one//datastores/0/3/disk.0 3 1\r\n\r\nChoose action:\r\n(r) Run action\r\n(n) Skip to next action\r\n(a) Show all actions\r\n(q) Quit\r\n\u003e "
+    ],
+    [
+      1.956165,
+      "r"
+    ],
+    [
+      0.918716,
+      "\r\n"
+    ],
+    [
+      0.000123,
+      "\r\n"
+    ],
+    [
+      0.355712,
+      "LOG I  Command execution fail: /var/lib/one/remotes/tm/ssh/clone haddock:/var/lib/one//datastores/1/unreadable localhost:/var/lib/one//datastores/0/3/disk.0 3 1\r\nLOG I  clone: Cloning haddock:/var/lib/one//datastores/1/unreadable in /var/lib/one/datastores/0/3/disk.0\r\nLOG E  clone: Command \"scp -r haddock:/var/lib/one//datastores/1/unreadable localhost:/var/lib/one//datastores/0/3/disk.0\" failed: /var/lib/one//datastores/1/unreadable: No such file or directory\r\nLOG E  Error copying haddock:/var/lib/one//datastores/1/unreadable to localhost:/var/lib/one//datastores/0/3/disk.0\r\nLOG I  ExitCode: 1\r\n\r\n\u001b[31mFAILURE. Repeat command.\u001b[0m\r\n\r\n\u001b[32mCurrent action (2):\u001b[0m\r\nCLONE ssh haddock:/var/lib/one//datastores/1/unreadable localhost:/var/lib/one//datastores/0/3/disk.0 3 1\r\n\r\nChoose action:\r\n(r) Run action\r\n(n) Skip to next action\r\n(a) Show all actions\r\n(q) Quit\r\n\u003e "
+    ],
+    [
+      7.674655,
+      "^A"
+    ],
+    [
+      0.988650,
+      "\u0008 \u0008\u0008 \u0008"
+    ],
+    [
+      0.529631,
+      "^A"
+    ],
+    [
+      0.524076,
+      "^C"
+    ],
+    [
+      0.006487,
+      "/usr/lib/one/ruby/cli/one_helper/onevm_helper.rb:370:in `gets': Interrupt\r\n\tfrom /usr/lib/one/ruby/cli/one_helper/onevm_helper.rb:370:in `block in recover_retry_interactive'\r\n\tfrom /usr/lib/one/ruby/cli/one_helper/onevm_helper.rb:350:in `each'\r\n\tfrom /usr/lib/one/ruby/cli/one_helper/onevm_helper.rb:350:in `recover_retry_interactive'\r\n\tfrom /usr/bin/onevm:576:in `block (3 levels) in \u003cmain\u003e'\r\n\tfrom /usr/lib/one/ruby/cli/one_helper.rb:509:in `call'\r\n\tfrom /usr/lib/one/ruby/cli/one_helper.rb:509:in `perform_action'\r\n\tfrom /usr/lib/one/ruby/cli/one_helper.rb:523:in `block in perform_actions'\r\n\tfrom /usr/lib/one/ruby/cli/one_helper.rb:522:in `each'\r\n\tfrom /usr/lib/one/ruby/cli/one_helper.rb:522:in `perform_actions'\r\n\tfrom /usr/bin/onevm:573:in `block (2 levels) in \u003cmain\u003e'\r\n\tfrom /usr/lib/one/ruby/cli/command_parser.rb:449:in `call'\r\n\tfrom /usr/lib/one/ruby/cli/command_parser.rb:449:in `run'\r\n\tfrom /usr/lib/one/ruby/cli/command_parser.rb:76:in `initialize'\r\n\tfrom /usr/bin/onevm:33:in `new'\r\n\tfrom /usr/bin/onevm:33:in `\u003cmain\u003e'\r\n"
+    ],
+    [
+      0.001908,
+      "\r\n\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                  \r \r\u001b]2;jmelis@haddock: /var/lib/one/vms/3\u0007\u001b]1;..lib/one/vms/3\u0007"
+    ],
+    [
+      0.004527,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;31m➜ \u001b[27m\u001b[01;32m \u001b[36m3 \u001b[01;34m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000005,
+      "\u001b[K"
+    ],
+    [
+      0.000017,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.141909,
+      "t"
+    ],
+    [
+      0.072511,
+      "\u0008to"
+    ],
+    [
+      0.172689,
+      "u"
+    ],
+    [
+      0.099728,
+      "c"
+    ],
+    [
+      0.519043,
+      "h"
+    ],
+    [
+      0.534106,
+      " "
+    ],
+    [
+      1.084605,
+      "/var/lib/one//datastores/1/unreadable"
+    ],
+    [
+      0.627068,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b]2;touch /var/lib/one//datastores/1/unreadable\u0007\u001b]1;touch\u0007"
+    ],
+    [
+      0.003732,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                  \r \r\u001b]2;jmelis@haddock: /var/lib/one/vms/3\u0007\u001b]1;..lib/one/vms/3\u0007"
+    ],
+    [
+      0.004962,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36m3 \u001b[01;34m\u001b[01;34m \u001b[00m\u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      3.389722,
+      "c"
+    ],
+    [
+      0.537449,
+      "\u0008 \u0008"
+    ],
+    [
+      0.891626,
+      "\""
+    ],
+    [
+      0.457377,
+      "\u0008 \u0008"
+    ],
+    [
+      0.920939,
+      "\r\r\n"
+    ]
+  ]
+}
