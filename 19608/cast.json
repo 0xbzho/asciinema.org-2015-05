@@ -1,0 +1,1470 @@
+{
+  "version": 1,
+  "width": 271,
+  "height": 83,
+  "duration": 72.212172,
+  "command": "/usr/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/usr/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.628923,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                                                                                              \r \r"
+    ],
+    [
+      0.000261,
+      "\u001b]2;vagrant@vagrant-ubuntu-trusty-64: /tmp/gjump\u0007\u001b]1;/tmp/gjump\u0007"
+    ],
+    [
+      0.014123,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[1m\u001b[34m#\u001b[00m \u001b[36mvagrant \u001b[37mat \u001b[32mvagrant-ubuntu-trusty-64 \u001b[37min \u001b[1m\u001b[33m/tmp/gjump\u001b[00m \u001b[37mon\u001b[00m git:\u001b[36mmaster \u001b[31mx\u001b[00m \u001b[37m[0:12:30]\r\n\u001b[1m\u001b[31m$ \u001b[00m"
+    ],
+    [
+      0.000073,
+      "\u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      0.225809,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000158,
+      "\r"
+    ],
+    [
+      0.000071,
+      "\r\n"
+    ],
+    [
+      0.002254,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                                                                                              \r \r"
+    ],
+    [
+      0.001034,
+      "\u001b]2;vagrant@vagrant-ubuntu-trusty-64: /tmp/gjump\u0007"
+    ],
+    [
+      0.000628,
+      "\u001b]1;/tmp/gjump\u0007"
+    ],
+    [
+      0.032436,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[1m\u001b[34m#\u001b[00m \u001b[36mvagrant \u001b[37mat \u001b[32mvagrant-ubuntu-trusty-64 \u001b[37min \u001b[1m\u001b[33m/tmp/gjump\u001b[00m \u001b[37mon\u001b[00m git:\u001b[36mmaster \u001b[31mx\u001b[00m \u001b[37m[0:12:30]\r\n\u001b[1m\u001b[31m$ \u001b[00m\u001b[K"
+    ],
+    [
+      0.000077,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.460176,
+      "g"
+    ],
+    [
+      0.403698,
+      "\u0008gj"
+    ],
+    [
+      0.267679,
+      "u"
+    ],
+    [
+      0.220454,
+      "m"
+    ],
+    [
+      0.089135,
+      "p"
+    ],
+    [
+      1.352029,
+      "\u0008 \u0008"
+    ],
+    [
+      0.501712,
+      "\u0008 \u0008"
+    ],
+    [
+      0.031201,
+      "\u0008 \u0008"
+    ],
+    [
+      0.034087,
+      "\u0008\u0008g \u0008"
+    ],
+    [
+      0.032334,
+      "\u0008 \u0008"
+    ],
+    [
+      5.789708,
+      "c"
+    ],
+    [
+      0.130194,
+      "\u0008cd"
+    ],
+    [
+      0.099152,
+      " "
+    ],
+    [
+      0.213142,
+      "/"
+    ],
+    [
+      0.182322,
+      "e"
+    ],
+    [
+      0.133235,
+      "t"
+    ],
+    [
+      0.198299,
+      "c\u001b[1m/\u001b[0m"
+    ],
+    [
+      0.558087,
+      "\u0008\u001b[0m \u0008\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000916,
+      "\r\r\n"
+    ],
+    [
+      0.002976,
+      "\u001b]2;jump_cd /etc\u0007\u001b]1;cd\u0007"
+    ],
+    [
+      0.019996,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                                                                                              \r \r\u001b]2;vagrant@vagrant-ubuntu-trusty-64: /etc\u0007"
+    ],
+    [
+      0.000240,
+      "\u001b]1;/etc\u0007"
+    ],
+    [
+      0.013720,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[1m\u001b[34m#\u001b[00m \u001b[36mvagrant \u001b[37mat \u001b[32mvagrant-ubuntu-trusty-64 \u001b[37min \u001b[1m\u001b[33m/etc\u001b[00m \u001b[37m[0:12:40]\r\n\u001b[1m\u001b[31m$ \u001b[00m\u001b[K"
+    ],
+    [
+      0.000028,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.444375,
+      "l"
+    ],
+    [
+      0.116793,
+      "\u0008ls"
+    ],
+    [
+      0.105760,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000053,
+      "\r\r\n"
+    ],
+    [
+      0.001884,
+      "\u001b]2;ls --color=tty\u0007\u001b]1;ls\u0007"
+    ],
+    [
+      0.005491,
+      "\u001b[0m\u001b[01;34macpi\u001b[0m               bindresvport.blacklist  \u001b[01;34mcron.monthly\u001b[0m    drirc        gshadow           inputrc          \u001b[01;34mld.so.conf.d\u001b[0m    mailcap.order   nsswitch.conf            \u001b[01;34mpostgresql\u001b[0m         \u001b[01;34mrc3.d\u001b[0m          screenrc   subgid-        \u001b[01;34mupdate-manager\u001b[0m\r\nadduser.conf       blkid.conf              crontab         ec2_version  gshadow-          \u001b[01;34minsserv\u001b[0m          legal           manpath.config  \u001b[01;34mopt\u001b[0m                      \u001b[01;34mpostgresql-common\u001b[0m  \u001b[01;34mrc4.d\u001b[0m          securetty  subuid         \u001b[01;34mupdate-motd.d\u001b[0m\r\n"
+    ],
+    [
+      0.000103,
+      "adjtime            \u001b[01;36mblkid.tab\u001b[0m               \u001b[01;34mcron.weekly\u001b[0m     \u001b[01;34memacs\u001b[0m        gssapi_mech.conf  insserv.conf     libaudit.conf   mime.types      os-release               \u001b[01;34mppp\u001b[0m                \u001b[01;34mrc5.d\u001b[0m          \u001b[01;34msecurity\u001b[0m   subuid-        \u001b[01;34mupdate-notifier\u001b[0m\r\n"
+    ],
+    [
+      0.002754,
+      "\u001b[01;34malternatives\u001b[0m       \u001b[01;34mbyobu\u001b[0m                   crypttab        environment  hdparm.conf       \u001b[01;34minsserv.conf.d\u001b[0m   locale.alias    mke2fs.conf     overlayroot.conf         profile            \u001b[01;34mrc6.d\u001b[0m          \u001b[01;34mselinux\u001b[0m    sudoers        upstart-xsessions\r\n\u001b[01;34mapm\u001b[0m                \u001b[01;34mca-certificates\u001b[0m         \u001b[01;34mdbus-1\u001b[0m          \u001b[01;34mfonts\u001b[0m        host.conf         \u001b[01;34miproute2\u001b[0m         localtime       \u001b[01;34mmodprobe.d\u001b[0m      overlayroot.local.conf   \u001b[01;34mprofile.d\u001b[0m          \u001b[01;32mrc.local\u001b[0m       services   \u001b[01;34msudoers.d\u001b[0m      \u001b[01;34mvim\u001b[0m\r\n\u001b[01;34mapparmor\u001b[0m           ca-certificates.conf    debconf.conf    fstab        hostname          issue            \u001b[01;34mlogcheck\u001b[0m        modules         pam.conf                 protocols          \u001b[01;34mrcS.d\u001b[0m          \u001b[01;34msgml\u001b[0m       sysctl.conf    \u001b[01;34mvmware-tools\u001b[0m\r\n\u001b[01;34mapparmor.d\u001b[0m         \u001b[01;34mcalendar\u001b[0m                debian_version  \u001b[01;34mfstab.d\u001b[0m      hosts             issue.net        login.defs      mtab            \u001b[01;34mpam.d\u001b[0m                    \u001b[01;34mpuppet\u001b[0m             \u001b[01;34mredis\u001b[0m          shadow     \u001b[01;34msysctl.d\u001b[0m       \u001b[01;36mvtrgb\u001b[0m\r\n\u001b[01;34mapport\u001b[0m             \u001b[01;34mchatscripts\u001b[0m             \u001b[01;34mdefault\u001b[0m         fuse.conf    hosts.allow       \u001b[01;34mkbd\u001b[0m              logrotate.conf  \u001b[01;34mmysql\u001b[0m           passwd                   \u001b[01;34mpython\u001b[0m             \u001b[01;34mrequest-key.d\u001b[0m  shadow-    \u001b[01;34msystemd\u001b[0m        \u001b[01;34mw3m\u001b[0m\r\n\u001b[01;34mapt\u001b[0m                \u001b[01;34mchef\u001b[0m                    deluser.conf    gai.conf     hosts.deny        \u001b[01;34mkernel\u001b[0m           \u001b[01;34mlogrotate.d\u001b[0m     nanorc          passwd-                  \u001b[01;34mpython2.7\u001b[0m          \u001b[01;34mresolvconf\u001b[0m     shells     \u001b[01;34mterminfo\u001b[0m       wgetrc\r\nat.deny            \u001b[01;34mcloud\u001b[0m                   \u001b[01;34mdepmod.d\u001b[0m        \u001b[01;32mgjump.sh\u001b[0m     idmapd.conf       kernel-img.conf  lsb-release     netconfig       \u001b[01;34mperl\u001b[0m                     \u001b[01;34mpython3\u001b[0m            \u001b[01;36mresolv.conf\u001b[0m    \u001b[01;34mskel\u001b[0m       timezone       \u001b[01;34mX11\u001b[0m\r\n\u001b[01;34max25\u001b[0m               \u001b[01;34mconsole-setup\u001b[0m           \u001b[01;34mdhcp\u001b[0m            \u001b[01;34mgroff\u001b[0m        inetd.conf        \u001b[01;34mlandscape\u001b[0m        ltrace.conf     \u001b[01;34mnetwork\u001b[0m         \u001b[01;34mpm\u001b[0m                       \u001b[01;34mpython3.4\u001b[0m          \u001b[01;32mrmt\u001b[0m            \u001b[01;34mssh\u001b[0m        ucf.conf       \u001b[01;34mxdg\u001b[0m\r\nbash.bashrc        \u001b[01;34mcron.d\u001b[0m                  \u001b[01;34mdkms\u001b[0m            group        \u001b[01;34minit\u001b[0m              \u001b[01;34mldap\u001b[0m             magic           networks        \u001b[01;34mpolkit-1\u001b[0m                 \u001b[01;34mrc0.d\u001b[0m              rpc            \u001b[01;34mssl\u001b[0m        \u001b[01;34mudev\u001b[0m           \u001b[01;34mxml\u001b[0m\r\nbash_completion    \u001b[01;34mcron.daily\u001b[0m              \u001b[01;34mdocker\u001b[0m          group-       \u001b[01;34minit.d\u001b[0m            ld.so.cache      magic.mime      \u001b[01;34mnewt\u001b[0m            \u001b[01;34mpollinate\u001b[0m                \u001b[01;34mrc1.d\u001b[0m              rsyslog.conf   \u001b[01;34mstunnel\u001b[0m    \u001b[01;34mufw\u001b[0m            \u001b[01;34mzsh\u001b[0m\r\n\u001b[01;34mbash_completion.d\u001b[0m  \u001b[01;34mcron.hourly\u001b[0m             \u001b[01;34mdpkg\u001b[0m            \u001b[01;34mgrub.d\u001b[0m       \u001b[01;34minitramfs-tools\u001b[0m   ld.so.conf       mailcap         \u001b[01;34mnginx\u001b[0m           popularity-contest.conf  \u001b[01;34mrc2.d\u001b[0m              \u001b[01;34mrsyslog.d\u001b[0m      subgid     updatedb.conf  zsh_command_not_found\r\n"
+    ],
+    [
+      0.000048,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                                                                                              \r \r"
+    ],
+    [
+      0.000101,
+      "\u001b]2;vagrant@vagrant-ubuntu-trusty-64: /etc\u0007\u001b]1;/etc\u0007"
+    ],
+    [
+      0.014804,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[1m\u001b[34m#\u001b[00m \u001b[36mvagrant \u001b[37mat \u001b[32mvagrant-ubuntu-trusty-64 \u001b[37min \u001b[1m\u001b[33m/etc\u001b[00m \u001b[37m[0:12:41]\r\n\u001b[1m\u001b[31m$ \u001b[00m\u001b[K"
+    ],
+    [
+      0.000028,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.170521,
+      "c"
+    ],
+    [
+      0.048724,
+      "\u0008cd"
+    ],
+    [
+      0.114678,
+      " "
+    ],
+    [
+      0.233669,
+      "n"
+    ],
+    [
+      0.139747,
+      "g"
+    ],
+    [
+      0.128954,
+      "inx\u001b[1m/\u001b[0m"
+    ],
+    [
+      0.386796,
+      "\u0008\u001b[0m \u0008"
+    ],
+    [
+      0.000383,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000226,
+      "\r"
+    ],
+    [
+      0.000192,
+      "\r\n"
+    ],
+    [
+      0.006865,
+      "\u001b]2;jump_cd nginx\u0007\u001b]1;cd\u0007"
+    ],
+    [
+      0.020162,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                                                                                              \r \r\u001b]2;vagrant@vagrant-ubuntu-trusty-64: /etc/nginx\u0007\u001b]1;/etc/nginx\u0007"
+    ],
+    [
+      0.010016,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[1m\u001b[34m#\u001b[00m \u001b[36mvagrant \u001b[37mat \u001b[32mvagrant-ubuntu-trusty-64 \u001b[37min \u001b[1m\u001b[33m/etc/nginx\u001b[00m \u001b[37m[0:12:42]\r\n\u001b[1m\u001b[31m$ \u001b[00m"
+    ],
+    [
+      0.000030,
+      "\u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      0.171183,
+      "l"
+    ],
+    [
+      0.066908,
+      "\u0008ls"
+    ],
+    [
+      0.115374,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000254,
+      "\r"
+    ],
+    [
+      0.000100,
+      "\r\n"
+    ],
+    [
+      0.002201,
+      "\u001b]2;ls --color=tty\u0007"
+    ],
+    [
+      0.000166,
+      "\u001b]1;ls\u0007"
+    ],
+    [
+      0.008454,
+      "\u001b[0m\u001b[01;34mconf.d\u001b[0m  fastcgi_params  koi-utf  koi-win  mime.types  naxsi_core.rules  naxsi.rules  naxsi-ui.conf.1.4.1  nginx.conf  proxy_params  scgi_params  \u001b[01;34msites-available\u001b[0m  \u001b[01;34msites-enabled\u001b[0m  uwsgi_params  win-utf\r\n"
+    ],
+    [
+      0.000550,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                                                                                              \r \r"
+    ],
+    [
+      0.000425,
+      "\u001b]2;vagrant@vagrant-ubuntu-trusty-64: /etc/nginx\u0007"
+    ],
+    [
+      0.000058,
+      "\u001b]1;/etc/nginx\u0007"
+    ],
+    [
+      0.020304,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[1m\u001b[34m#\u001b[00m \u001b[36mvagrant \u001b[37mat \u001b[32mvagrant-ubuntu-trusty-64 \u001b[37min \u001b[1m\u001b[33m/etc/nginx\u001b[00m \u001b[37m[0:12:43]\r\n\u001b[1m\u001b[31m$ \u001b[00m\u001b[K"
+    ],
+    [
+      0.000110,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.125650,
+      "c"
+    ],
+    [
+      0.092043,
+      "\u0008cd"
+    ],
+    [
+      0.084186,
+      " "
+    ],
+    [
+      0.103382,
+      "."
+    ],
+    [
+      0.186775,
+      "."
+    ],
+    [
+      0.037574,
+      "/"
+    ],
+    [
+      0.359035,
+      "d"
+    ],
+    [
+      0.414242,
+      "hj"
+    ],
+    [
+      0.385360,
+      "\u0008 \u0008"
+    ],
+    [
+      0.379845,
+      "c"
+    ],
+    [
+      0.293642,
+      "p\u001b[1m/\u001b[0m"
+    ],
+    [
+      1.267377,
+      "\u0008\u001b[0m \u0008"
+    ],
+    [
+      0.000120,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.002434,
+      "\r\r\n"
+    ],
+    [
+      0.003414,
+      "\u001b]2;jump_cd ../dhcp\u0007\u001b]1;cd\u0007"
+    ],
+    [
+      0.009850,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                                                                                              \r \r"
+    ],
+    [
+      0.000108,
+      "\u001b]2;vagrant@vagrant-ubuntu-trusty-64: /etc/dhcp\u0007\u001b]1;/etc/dhcp\u0007"
+    ],
+    [
+      0.012652,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[1m\u001b[34m#\u001b[00m \u001b[36mvagrant \u001b[37mat \u001b[32mvagrant-ubuntu-trusty-64 \u001b[37min \u001b[1m\u001b[33m/etc/dhcp\u001b[00m \u001b[37m[0:12:47]\r\n\u001b[1m\u001b[31m$ \u001b[00m\u001b[K"
+    ],
+    [
+      0.000252,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.429272,
+      "c"
+    ],
+    [
+      0.046288,
+      "\u0008cd"
+    ],
+    [
+      0.105736,
+      " "
+    ],
+    [
+      2.141535,
+      "."
+    ],
+    [
+      0.190105,
+      "."
+    ],
+    [
+      0.195548,
+      "/"
+    ],
+    [
+      1.485470,
+      "d"
+    ],
+    [
+      0.318319,
+      "p"
+    ],
+    [
+      0.353699,
+      "k"
+    ],
+    [
+      0.198074,
+      "g\u001b[1m/\u001b[0m"
+    ],
+    [
+      0.439802,
+      "\u0008\u001b[0m \u0008"
+    ],
+    [
+      0.000375,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000102,
+      "\r\r\n"
+    ],
+    [
+      0.004688,
+      "\u001b]2;jump_cd ../dpkg\u0007"
+    ],
+    [
+      0.000083,
+      "\u001b]1;cd\u0007"
+    ],
+    [
+      0.025007,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                                                                                              \r \r\u001b]2;vagrant@vagrant-ubuntu-trusty-64: /etc/dpkg\u0007"
+    ],
+    [
+      0.000808,
+      "\u001b]1;/etc/dpkg\u0007"
+    ],
+    [
+      0.010032,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[1m\u001b[34m#\u001b[00m \u001b[36mvagrant \u001b[37mat \u001b[32mvagrant-ubuntu-trusty-64 \u001b[37min \u001b[1m\u001b[33m/etc/dpkg\u001b[00m \u001b[37m[0:12:53]\r\n\u001b[1m\u001b[31m$ \u001b[00m\u001b[K"
+    ],
+    [
+      0.000245,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.405252,
+      "l"
+    ],
+    [
+      0.105521,
+      "\u0008ls"
+    ],
+    [
+      0.935733,
+      "\u0008\u0008l \u0008"
+    ],
+    [
+      0.190267,
+      "\u0008 \u0008"
+    ],
+    [
+      0.628496,
+      "c"
+    ],
+    [
+      0.047600,
+      "\u0008cd"
+    ],
+    [
+      0.111925,
+      " "
+    ],
+    [
+      0.214831,
+      "/"
+    ],
+    [
+      0.855481,
+      "u"
+    ],
+    [
+      0.270427,
+      "s"
+    ],
+    [
+      0.229897,
+      "r"
+    ],
+    [
+      0.142435,
+      "\u001b[1m/\u001b[0m"
+    ],
+    [
+      0.536845,
+      "\u0008\u001b[0m/l"
+    ],
+    [
+      0.554291,
+      "o"
+    ],
+    [
+      0.295631,
+      "cal\u001b[1m/\u001b[0m"
+    ],
+    [
+      0.698818,
+      "\u0008\u001b[0m \u0008"
+    ],
+    [
+      0.000243,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000166,
+      "\r"
+    ],
+    [
+      0.000092,
+      "\r\n"
+    ],
+    [
+      0.003049,
+      "\u001b]2;jump_cd /usr/local\u0007\u001b]1;cd\u0007"
+    ],
+    [
+      0.015191,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                                                                                              \r \r\u001b]2;vagrant@vagrant-ubuntu-trusty-64: /usr/local\u0007\u001b]1;/usr/local\u0007"
+    ],
+    [
+      0.014469,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[1m\u001b[34m#\u001b[00m \u001b[36mvagrant \u001b[37mat \u001b[32mvagrant-ubuntu-trusty-64 \u001b[37min \u001b[1m\u001b[33m/usr/local\u001b[00m \u001b[37m[0:12:59]\r\n\u001b[1m\u001b[31m$ \u001b[00m\u001b[K"
+    ],
+    [
+      0.000026,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.288182,
+      "l"
+    ],
+    [
+      0.130012,
+      "\u0008ls"
+    ],
+    [
+      0.124589,
+      "\u001b[?1l\u001b\u003e\r\r\n"
+    ],
+    [
+      0.002007,
+      "\u001b]2;ls --color=tty\u0007"
+    ],
+    [
+      0.000026,
+      "\u001b]1;ls\u0007"
+    ],
+    [
+      0.005050,
+      "\u001b[0m\u001b[01;34mbin\u001b[0m  \u001b[01;34metc\u001b[0m  \u001b[01;34mgames\u001b[0m  \u001b[01;34minclude\u001b[0m  \u001b[01;34mlib\u001b[0m  \u001b[01;36mman\u001b[0m  \u001b[01;34mpysqlite2-doc\u001b[0m  \u001b[01;34msbin\u001b[0m  \u001b[01;34mshare\u001b[0m  \u001b[01;34msrc\u001b[0m\r\n\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                                                                                              \r \r"
+    ],
+    [
+      0.000045,
+      "\u001b]2;vagrant@vagrant-ubuntu-trusty-64: /usr/local\u0007"
+    ],
+    [
+      0.000286,
+      "\u001b]1;/usr/local\u0007"
+    ],
+    [
+      0.015957,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J"
+    ],
+    [
+      0.000233,
+      "\r\n"
+    ],
+    [
+      0.000460,
+      "\u001b[1m\u001b[34m#\u001b[00m \u001b[36mvagrant \u001b[37mat \u001b[32mvagrant-ubuntu-trusty-64 \u001b[37min \u001b[1m\u001b[33m/usr/local\u001b[00m \u001b[37m[0:12:59]"
+    ],
+    [
+      0.000127,
+      "\r\n"
+    ],
+    [
+      0.000054,
+      "\u001b[1m\u001b[31m$ \u001b[00m"
+    ],
+    [
+      0.000281,
+      "\u001b[K"
+    ],
+    [
+      0.000271,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.592105,
+      "c"
+    ],
+    [
+      0.090909,
+      "\u0008cd"
+    ],
+    [
+      0.100749,
+      " "
+    ],
+    [
+      0.225173,
+      "g"
+    ],
+    [
+      0.327479,
+      "a"
+    ],
+    [
+      0.307828,
+      "mes\u001b[1m/\u001b[0m"
+    ],
+    [
+      0.390402,
+      "\u0008\u001b[0m \u0008"
+    ],
+    [
+      0.002144,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.001892,
+      "\r"
+    ],
+    [
+      0.000454,
+      "\r\n"
+    ],
+    [
+      0.003402,
+      "\u001b]2;jump_cd games\u0007"
+    ],
+    [
+      0.004243,
+      "\u001b]1;cd\u0007"
+    ],
+    [
+      0.018910,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                                                                                              \r \r"
+    ],
+    [
+      0.000086,
+      "\u001b]2;vagrant@vagrant-ubuntu-trusty-64: /usr/local/games\u0007\u001b]1;..r/local/games\u0007"
+    ],
+    [
+      0.014017,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[1m\u001b[34m#\u001b[00m \u001b[36mvagrant \u001b[37mat \u001b[32mvagrant-ubuntu-trusty-64 \u001b[37min \u001b[1m\u001b[33m/usr/local/games\u001b[00m \u001b[37m[0:13:01]\r\n\u001b[1m\u001b[31m$ \u001b[00m\u001b[K"
+    ],
+    [
+      0.000036,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.199126,
+      "l"
+    ],
+    [
+      0.079246,
+      "\u0008ls"
+    ],
+    [
+      0.180791,
+      "\u001b[?1l\u001b\u003e\r\r\n"
+    ],
+    [
+      0.000955,
+      "\u001b]2;ls --color=tty\u0007"
+    ],
+    [
+      0.000040,
+      "\u001b]1;ls\u0007"
+    ],
+    [
+      0.003928,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                                                                                              \r \r"
+    ],
+    [
+      0.000024,
+      "\u001b]2;vagrant@vagrant-ubuntu-trusty-64: /usr/local/games\u0007\u001b]1;..r/local/games\u0007"
+    ],
+    [
+      0.008944,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[1m\u001b[34m#\u001b[00m \u001b[36mvagrant \u001b[37mat \u001b[32mvagrant-ubuntu-trusty-64 \u001b[37min \u001b[1m\u001b[33m/usr/local/games\u001b[00m \u001b[37m[0:13:02]\r\n\u001b[1m\u001b[31m$ \u001b[00m\u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      0.451181,
+      "j"
+    ],
+    [
+      0.253399,
+      "\u001b[?1l\u001b\u003e\r\r\n"
+    ],
+    [
+      0.001672,
+      "\u001b]2;jump\u0007\u001b]1;j\u0007"
+    ],
+    [
+      0.027778,
+      "     7\t/tmp/gjump\r\n     6\t/etc\r\n     5"
+    ],
+    [
+      0.000571,
+      "\t/etc/nginx\r\n     4\t/etc/dhcp\r\n     3\t/etc/dpkg\r\n     2\t/usr/local\r\n\u001b[41m\u001b[37m     1\t/usr/local/games\u001b[0m\r\n\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                                                                                              \r \r"
+    ],
+    [
+      0.000181,
+      "\u001b]2;vagrant@vagrant-ubuntu-trusty-64: /usr/local/games\u0007"
+    ],
+    [
+      0.000888,
+      "\u001b]1;..r/local/games\u0007"
+    ],
+    [
+      0.008658,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[1m\u001b[34m#\u001b[00m \u001b[36mvagrant \u001b[37mat \u001b[32mvagrant-ubuntu-trusty-64 \u001b[37min \u001b[1m\u001b[33m/usr/local/games\u001b[00m \u001b[37m[0:13:03]\r\n\u001b[1m\u001b[31m$ \u001b[00m\u001b[K"
+    ],
+    [
+      0.000020,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      4.982921,
+      "p"
+    ],
+    [
+      0.175152,
+      "\u0008pr"
+    ],
+    [
+      0.073676,
+      "e"
+    ],
+    [
+      0.436340,
+      "\u0008 \u0008"
+    ],
+    [
+      0.163532,
+      "\u0008\u0008p \u0008"
+    ],
+    [
+      0.150337,
+      "\u0008 \u0008"
+    ],
+    [
+      0.893326,
+      "j"
+    ],
+    [
+      0.107264,
+      "\u0008jp"
+    ],
+    [
+      0.428675,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000130,
+      "\r"
+    ],
+    [
+      0.000088,
+      "\r\n"
+    ],
+    [
+      0.003404,
+      "\u001b]2;jump -\u0007"
+    ],
+    [
+      0.000853,
+      "\u001b]1;jp\u0007"
+    ],
+    [
+      0.043465,
+      "     7\t/tmp/gjump\r\n     6\t"
+    ],
+    [
+      0.001264,
+      "/etc\r\n     5\t/etc/nginx\r\n     4\t/etc/dhcp\r\n     3\t/etc/dpkg\r\n\u001b[41m\u001b[37m     2\t/usr/local\u001b[0m\r\n     1\t/usr/local/games\r\n\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                                                                                              \r \r"
+    ],
+    [
+      0.000114,
+      "\u001b]2;vagrant@vagrant-ubuntu-trusty-64: /usr/local\u0007\u001b]1;/usr/local\u0007"
+    ],
+    [
+      0.008324,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[1m\u001b[34m#\u001b[00m \u001b[36mvagrant \u001b[37mat \u001b[32mvagrant-ubuntu-trusty-64 \u001b[37min \u001b[1m\u001b[33m/usr/local\u001b[00m \u001b[37m[0:13:10]\r\n\u001b[1m\u001b[31m$ \u001b[00m"
+    ],
+    [
+      0.000111,
+      "\u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      0.593190,
+      "j"
+    ],
+    [
+      0.144024,
+      "\u0008jp"
+    ],
+    [
+      0.265237,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000060,
+      "\r\r\n"
+    ],
+    [
+      0.002896,
+      "\u001b]2;jump -\u0007"
+    ],
+    [
+      0.000049,
+      "\u001b]1;jp\u0007"
+    ],
+    [
+      0.045233,
+      "     7\t/tmp/gjump\r\n     6"
+    ],
+    [
+      0.000171,
+      "\t/etc\r\n     5\t/etc/nginx\r\n     4"
+    ],
+    [
+      0.001009,
+      "\t"
+    ],
+    [
+      0.000034,
+      "/etc/dhcp\r\n"
+    ],
+    [
+      0.000095,
+      "\u001b[41m\u001b[37m     3"
+    ],
+    [
+      0.000804,
+      "\t"
+    ],
+    [
+      0.000490,
+      "/etc/dpkg\u001b[0m"
+    ],
+    [
+      0.000046,
+      "\r\n"
+    ],
+    [
+      0.000042,
+      "     2"
+    ],
+    [
+      0.000029,
+      "\t"
+    ],
+    [
+      0.000049,
+      "/usr/local"
+    ],
+    [
+      0.000044,
+      "\r\n"
+    ],
+    [
+      0.000038,
+      "     1"
+    ],
+    [
+      0.000030,
+      "\t"
+    ],
+    [
+      0.000526,
+      "/usr/local/games"
+    ],
+    [
+      0.000491,
+      "\r\n"
+    ],
+    [
+      0.001873,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                                                                                              \r \r\u001b]2;vagrant@vagrant-ubuntu-trusty-64: /etc/dpkg\u0007\u001b]1;/etc/dpkg\u0007"
+    ],
+    [
+      0.008278,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[1m\u001b[34m#\u001b[00m \u001b[36mvagrant \u001b[37mat \u001b[32mvagrant-ubuntu-trusty-64 \u001b[37min \u001b[1m\u001b[33m/etc/dpkg\u001b[00m \u001b[37m[0:13:11]\r\n\u001b[1m\u001b[31m$ \u001b[00m"
+    ],
+    [
+      0.000028,
+      "\u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      0.423759,
+      "j"
+    ],
+    [
+      0.047230,
+      "\u0008jp"
+    ],
+    [
+      0.341517,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b]2;jump -\u0007\u001b]1;jp\u0007"
+    ],
+    [
+      0.043670,
+      "     7\t/tmp/gjump\r\n"
+    ],
+    [
+      0.000144,
+      "     6\t/etc\r\n     5\t"
+    ],
+    [
+      0.001342,
+      "/etc/nginx\r\n\u001b[41m\u001b[37m     4\t/etc/dhcp\u001b[0m\r\n     3\t/etc/dpkg\r\n     2\t/usr/local\r\n     1\t/usr/local/games\r\n"
+    ],
+    [
+      0.000063,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                                                                                              \r \r"
+    ],
+    [
+      0.000196,
+      "\u001b]2;vagrant@vagrant-ubuntu-trusty-64: /etc/dhcp\u0007"
+    ],
+    [
+      0.000599,
+      "\u001b]1;/etc/dhcp\u0007"
+    ],
+    [
+      0.008907,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[1m\u001b[34m#\u001b[00m \u001b[36mvagrant \u001b[37mat \u001b[32mvagrant-ubuntu-trusty-64 \u001b[37min \u001b[1m\u001b[33m/etc/dhcp\u001b[00m \u001b[37m[0:13:12]\r\n"
+    ],
+    [
+      0.000029,
+      "\u001b[1m\u001b[31m$ \u001b[00m\u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      0.346023,
+      "j"
+    ],
+    [
+      0.050358,
+      "\u0008jp"
+    ],
+    [
+      0.355155,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.003204,
+      "\r\r\n\u001b]2;jump -\u0007"
+    ],
+    [
+      0.000178,
+      "\u001b]1;jp\u0007"
+    ],
+    [
+      0.062238,
+      "     7\t/tmp/gjump\r\n     6\t/etc\r\n\u001b[41m\u001b[37m     5\t"
+    ],
+    [
+      0.001288,
+      "/etc/nginx\u001b[0m\r\n     4\t/etc/dhcp\r\n     3\t/etc/dpkg\r\n     2\t/usr/local\r\n     1\t/usr/local/games\r\n\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                                                                                              \r \r"
+    ],
+    [
+      0.000030,
+      "\u001b]2;vagrant@vagrant-ubuntu-trusty-64: /etc/nginx\u0007"
+    ],
+    [
+      0.000067,
+      "\u001b]1;/etc/nginx\u0007"
+    ],
+    [
+      0.009242,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[1m\u001b[34m#\u001b[00m \u001b[36mvagrant \u001b[37mat \u001b[32mvagrant-ubuntu-trusty-64 \u001b[37min \u001b[1m\u001b[33m/etc/nginx\u001b[00m \u001b[37m[0:13:13]\r\n\u001b[1m\u001b[31m$ \u001b[00m"
+    ],
+    [
+      0.000131,
+      "\u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      0.340549,
+      "j"
+    ],
+    [
+      0.021874,
+      "\u0008jp"
+    ],
+    [
+      0.388285,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000089,
+      "\r"
+    ],
+    [
+      0.000038,
+      "\r\n"
+    ],
+    [
+      0.000902,
+      "\u001b]2;jump -\u0007"
+    ],
+    [
+      0.000082,
+      "\u001b]1;jp\u0007"
+    ],
+    [
+      0.034981,
+      "     7\t/tmp/gjump\r\n"
+    ],
+    [
+      0.001383,
+      "\u001b[41m\u001b[37m     6\t/etc\u001b[0m\r\n     5\t/etc/nginx\r\n     4\t/etc/dhcp\r\n     3\t/etc/dpkg\r\n     2\t/usr/local\r\n     1\t/usr/local/games\r\n\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                                                                                              \r \r\u001b]2;vagrant@vagrant-ubuntu-trusty-64: /etc\u0007\u001b]1;/etc\u0007"
+    ],
+    [
+      0.007270,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[1m\u001b[34m#\u001b[00m \u001b[36mvagrant \u001b[37mat \u001b[32mvagrant-ubuntu-trusty-64 \u001b[37min \u001b[1m\u001b[33m/etc\u001b[00m \u001b[37m[0:13:14]\r\n\u001b[1m\u001b[31m$ \u001b[00m\u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      1.388017,
+      "n"
+    ],
+    [
+      0.126347,
+      "\u0008ne"
+    ],
+    [
+      0.271288,
+      "x"
+    ],
+    [
+      0.339717,
+      "t"
+    ],
+    [
+      0.521342,
+      "\u0008 \u0008"
+    ],
+    [
+      0.195485,
+      "\u0008 \u0008"
+    ],
+    [
+      0.139475,
+      "\u0008\u0008n \u0008"
+    ],
+    [
+      0.177092,
+      "\u0008 \u0008"
+    ],
+    [
+      0.878525,
+      "j"
+    ],
+    [
+      0.175265,
+      "\u0008jn"
+    ],
+    [
+      0.233517,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000357,
+      "\r\r\n"
+    ],
+    [
+      0.001707,
+      "\u001b]2;jump +\u0007"
+    ],
+    [
+      0.000030,
+      "\u001b]1;jn\u0007"
+    ],
+    [
+      0.043414,
+      "     7\t/tmp/gjump"
+    ],
+    [
+      0.000046,
+      "\r\n     6"
+    ],
+    [
+      0.001445,
+      "\t/etc\r\n\u001b[41m\u001b[37m     5\t/etc/nginx\u001b[0m\r\n     4\t/etc/dhcp\r\n     3\t/etc/dpkg\r\n     2\t/usr/local\r\n     1\t/usr/local/games\r\n"
+    ],
+    [
+      0.000020,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                                                                                              \r \r\u001b]2;vagrant@vagrant-ubuntu-trusty-64: /etc/nginx\u0007\u001b]1;/etc/nginx\u0007"
+    ],
+    [
+      0.013142,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[1m\u001b[34m#\u001b[00m \u001b[36mvagrant \u001b[37mat \u001b[32mvagrant-ubuntu-trusty-64 \u001b[37min \u001b[1m\u001b[33m/etc/nginx\u001b[00m \u001b[37m[0:13:18]\r\n\u001b[1m\u001b[31m$ \u001b[00m"
+    ],
+    [
+      0.000460,
+      "\u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      0.282272,
+      "j"
+    ],
+    [
+      0.213512,
+      "\u0008jn"
+    ],
+    [
+      0.234044,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000192,
+      "\r"
+    ],
+    [
+      0.000517,
+      "\r\n"
+    ],
+    [
+      0.004240,
+      "\u001b]2;jump +\u0007"
+    ],
+    [
+      0.000086,
+      "\u001b]1;jn\u0007"
+    ],
+    [
+      0.049961,
+      "     7\t/tmp/gjump\r\n"
+    ],
+    [
+      0.000539,
+      "     6\t/etc\r\n     5\t/etc/nginx\r\n\u001b[41m\u001b[37m     4\t/etc/dhcp\u001b[0m\r\n     3\t/etc/dpkg\r\n     2\t/usr/local\r\n     1\t/usr/local/games\r\n\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                                                                                              \r \r"
+    ],
+    [
+      0.000285,
+      "\u001b]2;vagrant@vagrant-ubuntu-trusty-64: /etc/dhcp\u0007"
+    ],
+    [
+      0.000060,
+      "\u001b]1;/etc/dhcp\u0007"
+    ],
+    [
+      0.009292,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[1m\u001b[34m#\u001b[00m \u001b[36mvagrant \u001b[37mat \u001b[32mvagrant-ubuntu-trusty-64 \u001b[37min \u001b[1m\u001b[33m/etc/dhcp\u001b[00m \u001b[37m[0:13:19]\r\n\u001b[1m\u001b[31m$ \u001b[00m"
+    ],
+    [
+      0.000127,
+      "\u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      0.238136,
+      "j"
+    ],
+    [
+      0.211919,
+      "\u0008jn"
+    ],
+    [
+      0.232190,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000048,
+      "\r"
+    ],
+    [
+      0.000021,
+      "\r\n"
+    ],
+    [
+      0.001487,
+      "\u001b]2;jump +\u0007\u001b]1;jn\u0007"
+    ],
+    [
+      0.028640,
+      "     7\t/tmp/gjump\r\n     6"
+    ],
+    [
+      0.000837,
+      "\t/etc\r\n     5\t/etc/nginx\r\n     4\t/etc/dhcp\r\n\u001b[41m\u001b[37m     3\t/etc/dpkg\u001b[0m\r\n     2\t/usr/local\r\n     1\t/usr/local/games\r\n"
+    ],
+    [
+      0.000076,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                                                                                              \r \r\u001b]2;vagrant@vagrant-ubuntu-trusty-64: /etc/dpkg\u0007"
+    ],
+    [
+      0.000984,
+      "\u001b]1;/etc/dpkg\u0007"
+    ],
+    [
+      0.007517,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[1m\u001b[34m#\u001b[00m \u001b[36mvagrant \u001b[37mat \u001b[32mvagrant-ubuntu-trusty-64 \u001b[37min \u001b[1m\u001b[33m/etc/dpkg\u001b[00m \u001b[37m[0:13:20]\r\n"
+    ],
+    [
+      0.000027,
+      "\u001b[1m\u001b[31m$ \u001b[00m\u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      0.211944,
+      "j"
+    ],
+    [
+      0.231883,
+      "\u0008jn"
+    ],
+    [
+      0.274249,
+      "\u001b[?1l\u001b\u003e\r\r\n"
+    ],
+    [
+      0.002653,
+      "\u001b]2;jump +\u0007\u001b]1;jn\u0007"
+    ],
+    [
+      0.044478,
+      "     7\t/tmp/gjump\r\n     6\t"
+    ],
+    [
+      0.000067,
+      "/etc\r\n     5"
+    ],
+    [
+      0.001691,
+      "\t/etc/nginx\r\n     4\t/etc/dhcp\r\n     3\t/etc/dpkg\r\n\u001b[41m\u001b[37m     2\t/usr/local\u001b[0m\r\n     1\t/usr/local/games\r\n"
+    ],
+    [
+      0.000700,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                                                                                              \r \r\u001b]2;vagrant@vagrant-ubuntu-trusty-64: /usr/local\u0007"
+    ],
+    [
+      0.000374,
+      "\u001b]1;/usr/local\u0007"
+    ],
+    [
+      0.010159,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[1m\u001b[34m#\u001b[00m \u001b[36mvagrant \u001b[37mat \u001b[32mvagrant-ubuntu-trusty-64 \u001b[37min \u001b[1m\u001b[33m/usr/local\u001b[00m \u001b[37m[0:13:20]\r\n\u001b[1m\u001b[31m$ \u001b[00m\u001b[K"
+    ],
+    [
+      0.000042,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.199748,
+      "j"
+    ],
+    [
+      0.232826,
+      "\u0008jn"
+    ],
+    [
+      0.351122,
+      "\u001b[?1l\u001b\u003e\r\r\n"
+    ],
+    [
+      0.001144,
+      "\u001b]2;jump +\u0007"
+    ],
+    [
+      0.000039,
+      "\u001b]1;jn\u0007"
+    ],
+    [
+      0.040552,
+      "     7\t/tmp/gjump\r\n     6\t/etc\r\n     5\t/etc/nginx\r\n"
+    ],
+    [
+      0.000336,
+      "     4\t/etc/dhcp\r\n     3\t/etc/dpkg\r\n     2\t/usr/local\r\n\u001b[41m\u001b[37m     1\t/usr/local/games\u001b[0m\r\n\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                                                                                              \r \r"
+    ],
+    [
+      0.000057,
+      "\u001b]2;vagrant@vagrant-ubuntu-trusty-64: /usr/local/games\u0007"
+    ],
+    [
+      0.000653,
+      "\u001b]1;..r/local/games\u0007"
+    ],
+    [
+      0.008270,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[1m\u001b[34m#\u001b[00m \u001b[36mvagrant \u001b[37mat \u001b[32mvagrant-ubuntu-trusty-64 \u001b[37min \u001b[1m\u001b[33m/usr/local/games\u001b[00m \u001b[37m[0:13:21]\r\n\u001b[1m\u001b[31m$ \u001b[00m\u001b[K"
+    ],
+    [
+      0.000777,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.624530,
+      "s"
+    ],
+    [
+      0.230788,
+      "\u0008se"
+    ],
+    [
+      0.558896,
+      "a"
+    ],
+    [
+      0.181157,
+      "r"
+    ],
+    [
+      0.550169,
+      "c"
+    ],
+    [
+      0.166095,
+      "h"
+    ],
+    [
+      0.533632,
+      "\u0008 \u0008"
+    ],
+    [
+      0.493102,
+      "\u0008 \u0008"
+    ],
+    [
+      0.034720,
+      "\u0008 \u0008"
+    ],
+    [
+      0.034609,
+      "\u0008 \u0008"
+    ],
+    [
+      0.031559,
+      "\u0008\u0008s \u0008"
+    ],
+    [
+      0.032784,
+      "\u0008 \u0008"
+    ],
+    [
+      0.537126,
+      "j"
+    ],
+    [
+      0.215795,
+      "\u0008j "
+    ],
+    [
+      0.243986,
+      "n"
+    ],
+    [
+      0.634761,
+      "g"
+    ],
+    [
+      0.825284,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000370,
+      "\r"
+    ],
+    [
+      0.000208,
+      "\r\n"
+    ],
+    [
+      0.002972,
+      "\u001b]2;jump ng\u0007"
+    ],
+    [
+      0.000690,
+      "\u001b]1;j\u0007"
+    ],
+    [
+      0.053906,
+      "     7"
+    ],
+    [
+      0.001808,
+      "\t/tmp/gjump\r\n     6\t/etc\r\n\u001b[41m\u001b[37m     5\t/etc/nginx\u001b[0m\r\n     4\t/etc/dhcp\r\n     3\t/etc/dpkg\r\n     2\t/usr/local\r\n     1\t/usr/local/games\r\n"
+    ],
+    [
+      0.000033,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                                                                                              \r \r"
+    ],
+    [
+      0.000769,
+      "\u001b]2;vagrant@vagrant-ubuntu-trusty-64: /etc/nginx\u0007"
+    ],
+    [
+      0.000280,
+      "\u001b]1;/etc/nginx\u0007"
+    ],
+    [
+      0.008130,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[1m\u001b[34m#\u001b[00m \u001b[36mvagrant \u001b[37mat \u001b[32mvagrant-ubuntu-trusty-64 \u001b[37min \u001b[1m\u001b[33m/etc/nginx\u001b[00m \u001b[37m[0:13:28]\r\n\u001b[1m\u001b[31m$ \u001b[00m"
+    ],
+    [
+      0.000131,
+      "\u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      1.514876,
+      "j"
+    ],
+    [
+      0.376857,
+      "\u0008j "
+    ],
+    [
+      0.380062,
+      "l"
+    ],
+    [
+      0.273077,
+      "o"
+    ],
+    [
+      1.141072,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b]2;jump lo\u0007\u001b]1;j\u0007"
+    ],
+    [
+      0.046387,
+      "     7\t/tmp/gjump\r\n     6\t/etc\r\n"
+    ],
+    [
+      0.000717,
+      "     5\t/etc/nginx\r\n     4\t/etc/dhcp\r\n     3\t/etc/dpkg\r\n\u001b[41m\u001b[37m     2\t/usr/local\u001b[0m\r\n     1\t/usr/local/games\r\n\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                                                                                              \r \r\u001b]2;vagrant@vagrant-ubuntu-trusty-64: /usr/local\u0007\u001b]1;/usr/local\u0007"
+    ],
+    [
+      0.014119,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[1m\u001b[34m#\u001b[00m \u001b[36mvagrant \u001b[37mat \u001b[32mvagrant-ubuntu-trusty-64 \u001b[37min \u001b[1m\u001b[33m/usr/local\u001b[00m \u001b[37m[0:13:32]\r\n\u001b[1m\u001b[31m$ \u001b[00m\u001b[K"
+    ],
+    [
+      0.000030,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      8.969111,
+      "\r\r\n"
+    ]
+  ]
+}
