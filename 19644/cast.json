@@ -1,0 +1,374 @@
+{
+  "version": 1,
+  "width": 120,
+  "height": 40,
+  "duration": 156.778837,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.326090,
+      "\u001b]2;jonchang@localhost:~/recordpeeker\u0007"
+    ],
+    [
+      0.000373,
+      "\u001b[?1034h"
+    ],
+    [
+      0.000008,
+      "\u001b[40m\u001b[37m jonchang@localhost \u001b[44m\u001b[30m\u001b[37m recordpeeker ⎇ master \u001b[42m\u001b[34m\u001b[37m . \u001b[49m\u001b[32m\u001b[39m\r\r\n"
+    ],
+    [
+      0.000012,
+      " $ "
+    ],
+    [
+      1.393365,
+      "r"
+    ],
+    [
+      0.087937,
+      "e"
+    ],
+    [
+      0.152151,
+      "c"
+    ],
+    [
+      0.064013,
+      "o"
+    ],
+    [
+      0.120016,
+      "r"
+    ],
+    [
+      0.071828,
+      "d"
+    ],
+    [
+      0.087952,
+      "p"
+    ],
+    [
+      0.111943,
+      "e"
+    ],
+    [
+      0.167978,
+      "e"
+    ],
+    [
+      0.088165,
+      "k"
+    ],
+    [
+      0.095937,
+      "e"
+    ],
+    [
+      0.063940,
+      "r"
+    ],
+    [
+      0.272041,
+      "\r\n"
+    ],
+    [
+      1.016904,
+      "Configure your phone's proxy to point to this computer, then visit mitm.it\r\non your phone to install the interception certificate.\r\n\r\n"
+    ],
+    [
+      0.000012,
+      "Record Peeker is listening on port 8080, on these addresses:\r\n  * 10.0.0.1\r\n\r\nTry entering the Party screen, or starting a battle.\r\n"
+    ],
+    [
+      2.581952,
+      "Best equipment for FF1:\r\n"
+    ],
+    [
+      0.016571,
+      "stat      n  weapon                  stat      n  armor                 stat      n  accessory\r\n------  ---  ----------------------  ------  ---  --------------------  ------  ---  --------------------\r\natk      51  Killer Bow (V)          atk      13  Crystal Helm (VI)     atk      15  Hyper Wrist (VI)\r\n"
+    ],
+    [
+      0.000020,
+      "atk      45  Falchion (VI)+          atk      12  Genji Helm (V)        atk       8  Hero's Ring (VI)\r\natk      40  Greatsword (VI)++       atk       9  Rune Armlet (VII)+    atk       8  Hero's Ring (VI)\r\natk      38  Bastard Sword (VI)      atk       8  Diamond Bangle (VII)  atk       5  Power Wrist (VII)\r\natk      33  Sonic Knuckles (III)++  atk       6  Giant's Helm (II)+    atk       5  Power Wrist (VII)\r\nmatk     65  Gravity Rod (VI)        matk     12  Rune Armlet (VII)+    matk      8  Earring (VII)\r\nmatk     41  Light Rod (III)         matk     11  Black Cowl (IV)++     matk      8  Earring (VII)\r\nmnd      73  Sage's Staff (IV)+      mnd      11  Black Cowl (IV)++     mnd       0  Earring (VII)\r\nmnd      64  Light Staff (III)       mnd       9  Rune Armlet (VII)+    mnd       0  Talisman (VII)\r\ndef       0  Cat Claws (III)         def     122  Genji Armor (V)       def      12  Protect Ring (VII)\r\ndef       0  Cat Claws (III)         def      99  Genji Helm (V)        def       3  Star Pendant (VII)\r"
+    ],
+    [
+      0.000006,
+      "\r\ndef       0  Handaxe (XII)           def      89  Genji Shield (IV)     def       3  Silver Glasses (VII)\r\ndef       0  Dagger (IX)             def      53  Crystal Helm (VI)     def       0  Earring (VII)\r\ndef       0  Cat Claws (III)         def      51  Mythril Mail (VI)+    def       0  Talisman (VII)\r\n"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000024,
+      "Best equipment for FF2:\r\n"
+    ],
+    [
+      0.014334,
+      "stat      n  weapon              stat      n  armor                 stat      n  accessory\r\n------  ---  ------------------  ------  ---  --------------------  ------  ---  --------------------\r\natk      51  Killer Bow (V)      atk      13  Crystal Helm (VI)     atk      15  Hyper Wrist (VI)\r\natk      49  Mythril Knife (II)  atk      12  Genji Helm (V)        atk       8  Hero's Ring (VI)\r\natk      45  Falchion (VI)+      atk      10  Giant's Helm (II)+    atk       8  Hero's Ring (VI)\r\natk      40  Greatsword (VI)++   atk       9  Rune Armlet (VII)+    atk       5  Power Wrist (VII)\r\natk      38  Bastard Sword (VI)  atk       8  Diamond Bangle (VII)  atk       5  Power Wrist (VII)\r\nmatk     65  Gravity Rod (VI)    matk     12  Rune Armlet (VII)+    matk      8  Earring (VII)\r\nmatk     41  Light Rod (III)     matk     11  Black Cowl (IV)++     matk      8  Earring (VII)\r\nmnd      73  Sage's Staff (IV)+  mnd      11  Black Cowl (IV)++     mnd       0  Earring (VII)\r\nmnd      64  Light Staff (III)   mnd       9"
+    ],
+    [
+      0.000020,
+      "  Rune Armlet (VII)+    mnd       0  Talisman (VII)\r\ndef       0  Cat Claws (III)     def     122  Genji Armor (V)       def      12  Protect Ring (VII)\r\ndef       0  Cat Claws (III)     def      99  Genji Helm (V)        def       3  Star Pendant (VII)\r\ndef       0  Handaxe (XII)       def      89  Genji Shield (IV)     def       3  Silver Glasses (VII)\r\ndef       0  Dagger (IX)         def      53  Crystal Helm (VI)     def       0  Earring (VII)\r\ndef       0  Cat Claws (III)     def      51  Mythril Mail (VI)+    def       0  Talisman (VII)\r\n\r\nBest equipment for FF4:\r\n"
+    ],
+    [
+      0.015196,
+      "stat      n  weapon              stat      n  armor                 stat      n  accessory\r\n------  ---  ------------------  ------  ---  --------------------  ------  ---  --------------------\r\natk      75  Kunai (IV)++        atk      13  Crystal Helm (VI)     atk      15  Hyper Wrist (VI)\r\natk      75  Kunai (IV)++        atk      12  Genji Helm (V)        atk       8  Hero's Ring (VI)\r\natk      75  Kunai (IV)++        atk      10  Mythril Helm (IV)++   atk       8  Hero's Ring (VI)\r\natk      75  Kunai (IV)++        atk      10  Mythril Helm (IV)++   atk       5  Power Wrist (VII)\r\natk      61  Whip (IV)++         atk       9  Rune Armlet (VII)+    atk       5  Power Wrist (VII)\r\nmatk     92  Whip (IV)++         matk     27  Black Cowl (IV)++     matk      8  Earring (VII)\r\nmatk     76  Sage's Staff (IV)+  matk     17  Green Beret (IV)++    matk      8  Earring (VII)\r\nmnd     152  Sage's Staff (IV)+  mnd      27  Black Cowl (IV)++     mnd       0  Earring (VII)\r\nmnd      80  Power Staff (IV)++  mnd      19"
+    ],
+    [
+      0.000019,
+      "  Wizard's Hat (IV)++   mnd       0  Talisman (VII)\r\ndef       0  Cat Claws (III)     def     158  Genji Shield (IV)     def      12  Protect Ring (VII)\r\ndef       0  Cat Claws (III)     def     123  Mythril Armor (IV)++  def       3  Star Pendant (VII)\r\ndef       0  Handaxe (XII)       def     122  Genji Armor (V)       def       3  Silver Glasses (VII)\r\ndef       0  Dagger (IX)         def      99  Genji Helm (V)        def       0  Earring (VII)\r\ndef       0  Cat Claws (III)     def      92  Mythril Helm (IV)++   def       0  Talisman (VII)\r\n\r\nBest equipment for FF5:\r\n"
+    ],
+    [
+      0.013288,
+      "stat      n  weapon              stat      n  armor                 stat      n  accessory\r\n------  ---  ------------------  ------  ---  --------------------  ------  ---  --------------------\r\natk     101  Killer Bow (V)      atk      20  Genji Helm (V)        atk      15  Hyper Wrist (VI)\r\natk      97  Battle Axe (V)++    atk      13  Crystal Helm (VI)     atk       8  Hero's Ring (VI)\r\natk      96  Kazekiri (V)++      atk      10  Bronze Helm (V)++     atk       8  Hero's Ring (VI)\r\natk      78  Broadsword (V)++    atk       9  Rune Armlet (VII)+    atk       5  Power Wrist (VII)\r\natk      48  Silver Harp (V)     atk       9  Thornlet (V)          atk       5  Power Wrist (VII)\r\nmatk     65  Gravity Rod (VI)    matk     19  Twist Headband (V)++  matk      8  Earring (VII)\r\nmatk     41  Light Rod (III)     matk     12  Rune Armlet (VII)+    matk      8  Earring (VII)\r\nmnd      73  Sage's Staff (IV)+  mnd      19  Twist Headband (V)++  mnd       0  Earring (VII)\r\nmnd      64  Light Staff (III)   mnd      11"
+    ],
+    [
+      0.000013,
+      "  Black Cowl (IV)++     mnd       0  Talisman (VII)\r\ndef       0  Cat Claws (III)     def     200  Genji Armor (V)       def      12  Protect Ring (VII)\r\ndef       0  Cat Claws (III)     def     177  Genji Helm (V)        def       3  Star Pendant (VII)\r\ndef       0  Handaxe (XII)       def      89  Genji Shield (IV)     def       3  Silver Glasses (VII)\r\ndef       0  Dagger (IX)         def      74  Bronze Helm (V)++     def       0  Earring (VII)\r\ndef       0  Cat Claws (III)     def      73  Thornlet (V)          def       0  Talisman (VII)\r\n\r\nBest equipment for FF6:\r\n"
+    ],
+    [
+      0.013520,
+      "stat      n  weapon              stat      n  armor                 stat      n  accessory\r\n------  ---  ------------------  ------  ---  --------------------  ------  ---  --------------------\r\natk     115  Greatsword (VI)++   atk      26  Crystal Helm (VI)     atk      23  Hyper Wrist (VI)\r\natk     108  Falchion (VI)+      atk      12  Genji Helm (V)        atk      12  Hero's Ring (VI)\r\natk      87  Bastard Sword (VI)  atk      10  Diamond Helm (VI)     atk      12  Hero's Ring (VI)\r\natk      73  Air Knife (VI)      atk       9  Rune Armlet (VII)+    atk       5  Power Wrist (VII)\r\natk      64  Boomerang (VI)++    atk       8  Diamond Bangle (VII)  atk       5  Power Wrist (VII)\r\nmatk    130  Gravity Rod (VI)    matk     19  Leather Cap (VI)++    matk     11  Hero's Ring (VI)\r\nmatk     52  Mythril Rod (VI)    matk     19  Leather Cap (VI)++    matk     11  Hero's Ring (VI)\r\nmnd      73  Sage's Staff (IV)+  mnd      19  Leather Cap (VI)++    mnd       0  Earring (VII)\r\nmnd      66  Gravity Rod (VI)    mnd  "
+    ],
+    [
+      0.000017,
+      "    19  Leather Cap (VI)++    mnd       0  Talisman (VII)\r\ndef       0  Cat Claws (III)     def     122  Mythril Mail (VI)+    def      12  Protect Ring (VII)\r\ndef       0  Cat Claws (III)     def     122  Genji Armor (V)       def       3  Star Pendant (VII)\r\ndef       0  Handaxe (XII)       def     100  Crystal Helm (VI)     def       3  Silver Glasses (VII)\r\ndef       0  Dagger (IX)         def      99  Genji Helm (V)        def       0  Earring (VII)\r\ndef       0  Cat Claws (III)     def      96  Leather Armor (VI)++  def       0  Talisman (VII)\r\n\r\nBest equipment for FF7:\r\n"
+    ],
+    [
+      0.015287,
+      "stat      n  weapon                 stat      n  armor                 stat      n  accessory\r\n------  ---  ---------------------  ------  ---  --------------------  ------  ---  --------------------\r\natk      69  Leather Glove (VII)++  atk      20  Rune Armlet (VII)+    atk      15  Hyper Wrist (VI)\r\natk      51  Killer Bow (V)         atk      16  Diamond Bangle (VII)  atk       8  Power Wrist (VII)\r\natk      45  Falchion (VI)+         atk      13  Crystal Helm (VI)     atk       8  Power Wrist (VII)\r\natk      40  Greatsword (VI)++      atk      12  Mythril Armlet (VII)  atk       8  Power Wrist (VII)\r\natk      38  Bastard Sword (VI)     atk      12  Genji Helm (V)        atk       8  Power Wrist (VII)\r\nmatk     65  Gravity Rod (VI)       matk     25  Rune Armlet (VII)+    matk     12  Earring (VII)\r\nmatk     41  Light Rod (III)        matk     16  Diamond Bangle (VII)  matk     12  Earring (VII)\r\nmnd      73  Sage's Staff (IV)+     mnd      20  Rune Armlet (VII)+    mnd       0  Earring (VII)\r\nmnd      64 "
+    ],
+    [
+      0.000049,
+      " Light Staff (III)      mnd      16  Diamond Bangle (VII)  mnd       0  Talisman (VII)\r\ndef       0  Cat Claws (III)        def     122  Genji Armor (V)       def      18  Protect Ring (VII)\r\ndef       0  Cat Claws (III)        def      99  Genji Helm (V)        def       5  Star Pendant (VII)\r\ndef       0  Handaxe (XII)          def      89  Genji Shield (IV)     def       5  Silver Glasses (VII)\r\ndef       0  Dagger (IX)            def      84  Protect Vest (VII)++  def       0  Earring (VII)\r\ndef       0  Cat Claws (III)        def      84  Protect Vest (VII)++  def       0  Talisman (VII)\r\n\r\nBest equipment for FF10:\r\n"
+    ],
+    [
+      0.014647,
+      "stat      n  weapon                  stat      n  armor                 stat      n  accessory\r\n------  ---  ----------------------  ------  ---  --------------------  ------  ---  --------------------\r\natk      51  Killer Bow (V)          atk      13  Crystal Helm (VI)     atk      15  Hyper Wrist (VI)\r\natk      45  Falchion (VI)+          atk      12  Genji Helm (V)        atk       8  Hero's Ring (VI)\r\natk      40  Greatsword (VI)++       atk       9  Rune Armlet (VII)+    atk       8  Hero's Ring (VI)\r\natk      38  Bastard Sword (VI)      atk       8  Diamond Bangle (VII)  atk       5  Power Wrist (VII)\r\natk      33  Sonic Knuckles (III)++  atk       6  Giant's Helm (II)+    atk       5  Power Wrist (VII)\r\nmatk     65  Gravity Rod (VI)        matk     12  Rune Armlet (VII)+    matk      8  Earring (VII)\r\nmatk     41  Light Rod (III)         matk     11  Black Cowl (IV)++     matk      8  Earring (VII)\r\nmnd      73  Sage's Staff (IV)+      mnd      11  Black Cowl (IV)++     mnd       0  Earring (VII)\r\nmnd "
+    ],
+    [
+      0.000015,
+      "     64  Light Staff (III)       mnd       9  Rune Armlet (VII)+    mnd       0  Talisman (VII)\r\ndef       0  Cat Claws (III)         def     122  Genji Armor (V)       def      12  Protect Ring (VII)\r\ndef       0  Cat Claws (III)         def      99  Genji Helm (V)        def       3  Star Pendant (VII)\r\ndef       0  Handaxe (XII)           def      89  Genji Shield (IV)     def       3  Silver Glasses (VII)\r\ndef       0  Dagger (IX)             def      53  Crystal Helm (VI)     def       0  Earring (VII)\r\ndef       0  Cat Claws (III)         def      51  Mythril Mail (VI)+    def       0  Talisman (VII)\r\n\r\n"
+    ],
+    [
+      9.333953,
+      "Dungeon List for FF IV (id=104001)\r\n"
+    ],
+    [
+      0.003055,
+      "Name                          ID    Difficulty  Type\r\n------------------------  ------  ------------  ------\r\nMist Cave                 204001             3  NORMAL\r\nUnderground Waterway      204002             4  NORMAL\r\nAntlion's Den             204003             6  NORMAL\r\nMount Hobs                204004             7  NORMAL\r\nFabul Castle              204005             8  NORMAL\r\nBaron Castle              204007            10  NORMAL\r\nLodestone Cavern          204008            23  NORMAL\r\nTower of Zot              204009            24  NORMAL\r\nTower of Zot - Spire      204010            26  NORMAL\r\nDwarven Castle            204011            26  NORMAL\r\nTower of Babil - Depths   204012            25  NORMAL\r\nCave of Eblan             204013            27  NORMAL\r\n"
+    ],
+    [
+      0.000029,
+      "Tower of Babil - Heights  204014            27  NORMAL\r\nThe Feymarch              204015            29  NORMAL\r\nMist Cave                 404001            20  ELITE\r\nUnderground Waterway      404002            23  ELITE\r\nAntlion's Den             404003            28  ELITE\r\nMount Hobs                404004            32  ELITE\r\nFabul Castle              404005            34  ELITE\r\nBaron Castle              404007            41  ELITE\r\nLodestone Cavern          404008            43  ELITE\r\nTower of Zot              404009            45  ELITE\r\nTower of Zot - Spire      404010            48  ELITE\r\nDwarven Castle            404011            50  ELITE\r\nTower of Babil - Depths   404012            50  ELITE\r\nCave of Eblan             404013            53  ELITE\r\nTower of Babil - Heights  404014            55  ELITE\r\n"
+    ],
+    [
+      0.000020,
+      "The Feymarch              404015            58  ELITE\r\n"
+    ],
+    [
+      3.293192,
+      "Entering dungeon Fabul Castle (Normal)\r\n"
+    ],
+    [
+      0.000655,
+      "Name                             Id    Rounds\r\n---------------------------  ------  --------\r\nFabul Castle - 1st Battle    304015         1\r\nFabul Castle - 2nd Battle    304016         1\r\nFabul Castle - 3rd Battle    304017         1\r\nFabul Castle - 4th Battle    304018         1\r\nFabul Castle - 5th Battle    304019         1\r\nFabul Castle - 6th Battle    304020         1\r\n"
+    ],
+    [
+      0.000021,
+      "Fabul Castle - Final Battle  304021         1\r\n"
+    ],
+    [
+      1.965783,
+      "Entering battle #304015\r\n"
+    ],
+    [
+      0.000322,
+      "  rnd  enemy    drop\r\n-----  -------  -------\r\n    1  Captain  nothing\r\n"
+    ],
+    [
+      0.000009,
+      "    1  Captain  nothing\r\n"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      2.496670,
+      "Entering battle #304016\r\n"
+    ],
+    [
+      0.000416,
+      "  rnd  enemy         drop\r\n-----  ------------  -------\r\n    1  \u003cround drop\u003e  potion\r\n    1  Domovoi       nothing\r\n"
+    ],
+    [
+      0.000008,
+      "    1  Sahagin       nothing\r\n\r\n"
+    ],
+    [
+      2.933685,
+      "Entering dungeon Fabul Castle (Normal)\r\n"
+    ],
+    [
+      0.000617,
+      "Name                             Id    Rounds\r\n---------------------------  ------  --------\r\nFabul Castle - 1st Battle    304015         1\r\nFabul Castle - 2nd Battle    304016         1\r\nFabul Castle - 3rd Battle    304017         1\r\nFabul Castle - 4th Battle    304018         1\r\nFabul Castle - 5th Battle    304019         1\r\nFabul Castle - 6th Battle    304020         1\r\nFabul Castle - Final Battle  304021         1\r\n"
+    ],
+    [
+      4.893753,
+      "^C"
+    ],
+    [
+      0.156415,
+      "\u001b]2;jonchang@localhost:~/recordpeeker\u0007"
+    ],
+    [
+      0.000230,
+      "\u001b[40m\u001b[37m jonchang@localhost \u001b[44m\u001b[30m\u001b[37m recordpeeker ⎇ master \u001b[42m\u001b[34m\u001b[37m . \u001b[49m\u001b[32m\u001b[39m\r\r\n"
+    ],
+    [
+      0.000005,
+      " $ "
+    ],
+    [
+      0.640004,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.223753,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.136123,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.135929,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.120067,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.416847,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.034145,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.034280,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.033693,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.034274,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.034399,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.033776,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.000012,
+      "\r\n $ "
+    ],
+    [
+      0.242718,
+      "f"
+    ],
+    [
+      0.144074,
+      "o"
+    ],
+    [
+      0.055784,
+      "r"
+    ],
+    [
+      0.120037,
+      "e"
+    ],
+    [
+      0.111982,
+      "v"
+    ],
+    [
+      0.104214,
+      "e"
+    ],
+    [
+      0.079923,
+      "r"
+    ],
+    [
+      0.167879,
+      "2"
+    ],
+    [
+      0.023930,
+      "4"
+    ],
+    [
+      1.056153,
+      "\r\n"
+    ],
+    [
+      1.028429,
+      "Configure your phone's proxy to point to this computer, then visit mitm.it\r\non your phone to install the interception certificate.\r\n\r\n"
+    ],
+    [
+      0.000010,
+      "Record Peeker is listening on port 8080, on these addresses:\r\n  * 10.0.0.1\r\n\r\nforever24 is looking for '024' (case-sensitive).\r\nWaiting for you to enter the Magitek Facility...\r\n"
+    ],
+    [
+      9.863151,
+      "Opponent is Flan (VI), retrying...\r\n"
+    ],
+    [
+      0.365134,
+      "Opponent is Flan (VI), retrying...\r\n"
+    ],
+    [
+      0.338843,
+      "Found Number 024! Entering the dungeon now...\r\n"
+    ],
+    [
+      7.332731,
+      "^C"
+    ],
+    [
+      0.090728,
+      "\u001b]2;jonchang@localhost:~/recordpeeker\u0007"
+    ],
+    [
+      0.000156,
+      "\u001b[40m\u001b[37m jonchang@localhost \u001b[44m\u001b[30m\u001b[37m recordpeeker ⎇ master \u001b[42m\u001b[34m\u001b[37m . \u001b[49m\u001b[32m\u001b[39m\r\r\n"
+    ],
+    [
+      0.000004,
+      " $ "
+    ],
+    [
+      0.069289,
+      "exit\r\n"
+    ]
+  ]
+}
