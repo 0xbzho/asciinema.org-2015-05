@@ -1,0 +1,2070 @@
+{
+  "version": 1,
+  "width": 95,
+  "height": 29,
+  "duration": 99.869045,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.008776,
+      "\u001b[?1034hbash-3.2$ "
+    ],
+    [
+      1.299193,
+      "\r\u001b[12@(reverse-i-search)`':\u001b[C"
+    ],
+    [
+      0.199921,
+      "\u0008\u0008\u0008g': git config --global user.name \"Ehtesh Choudhury\"\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.064325,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[1@i\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.079912,
+      "\u0008\u0008\u0008\u001b[1@t\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.063785,
+      "\u0008\u0008\u0008\u001b[1@ \u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.136292,
+      "\u0008\u0008\u0008\u001b[1@c\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.050452,
+      "\u0008\u0008\u0008l': git clone https://github.com/hoshikoo/unit-1.git\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.125519,
+      "\u0008\u0008\u0008\u001b[1@o\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.096034,
+      "\u0008\u0008\u0008\u001b[1@n\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.063904,
+      "\u0008\u0008\u0008\u001b[1@e\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.336235,
+      "\r\u001b[21Pbash-3.2$\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.519622,
+      "\r\n"
+    ],
+    [
+      0.008361,
+      "Cloning into 'unit-1'...\r\n"
+    ],
+    [
+      0.341825,
+      "remote: Counting objects: 593, done.\u001b[K\r\n"
+    ],
+    [
+      0.000034,
+      "remote: Compressing objects:  16% (1/6)   \u001b[K\rremote: Compressing objects:  33% (2/6)   \u001b[K\rremote: Compressing objects:  50% (3/6)   \u001b[K\rremote: Compressing objects:  66% (4/6)   \u001b[K\rremote: Compressing objects:  83% (5/6)   \u001b[K\rremote: Compressing objects: 100% (6/6)   \u001b[K\r"
+    ],
+    [
+      0.000064,
+      "remote: Compressing objects: 100% (6/6), done.\u001b[K\r\n"
+    ],
+    [
+      0.009792,
+      "Receiving objects:   0% (1/593)   \r"
+    ],
+    [
+      0.000642,
+      "Receiving objects:   1% (6/593)   \r"
+    ],
+    [
+      0.000565,
+      "Receiving objects:   2% (12/593)   \r"
+    ],
+    [
+      0.000583,
+      "Receiving objects:   3% (18/593)   \r"
+    ],
+    [
+      0.000647,
+      "Receiving objects:   4% (24/593)   \r"
+    ],
+    [
+      0.000471,
+      "Receiving objects:   5% (30/593)   \r"
+    ],
+    [
+      0.000603,
+      "Receiving objects:   6% (36/593)   \r"
+    ],
+    [
+      0.000452,
+      "Receiving objects:   7% (42/593)   \r"
+    ],
+    [
+      0.003466,
+      "Receiving objects:   8% (48/593)   \r"
+    ],
+    [
+      0.000639,
+      "Receiving objects:   9% (54/593)   \r"
+    ],
+    [
+      0.000818,
+      "Receiving objects:  10% (60/593)   \r"
+    ],
+    [
+      0.000718,
+      "Receiving objects:  11% (66/593)   \r"
+    ],
+    [
+      0.000658,
+      "Receiving objects:  12% (72/593)   \r"
+    ],
+    [
+      0.000449,
+      "Receiving objects:  13% (78/593)   \r"
+    ],
+    [
+      0.000458,
+      "Receiving objects:  14% (84/593)   \r"
+    ],
+    [
+      0.000344,
+      "Receiving objects:  15% (89/593)   \r"
+    ],
+    [
+      0.000292,
+      "Receiving objects:  16% (95/593)   \r"
+    ],
+    [
+      0.000386,
+      "Receiving objects:  17% (101/593)   \r"
+    ],
+    [
+      0.000346,
+      "Receiving objects:  18% (107/593)   \r"
+    ],
+    [
+      0.000483,
+      "Receiving objects:  19% (113/593)   \r"
+    ],
+    [
+      0.000379,
+      "Receiving objects:  20% (119/593)   \r"
+    ],
+    [
+      0.000343,
+      "Receiving objects:  21% (125/593)   \r"
+    ],
+    [
+      0.000577,
+      "Receiving objects:  22% (131/593)   \r"
+    ],
+    [
+      0.000534,
+      "Receiving objects:  23% (137/593)   \r"
+    ],
+    [
+      0.012573,
+      "Receiving objects:  24% (143/593)   \r"
+    ],
+    [
+      0.001488,
+      "Receiving objects:  25% (149/593)   \r"
+    ],
+    [
+      0.000716,
+      "Receiving objects:  26% (155/593)   \r"
+    ],
+    [
+      0.000984,
+      "Receiving objects:  27% (161/593)   \r"
+    ],
+    [
+      0.021641,
+      "Receiving objects:  28% (167/593)   \r"
+    ],
+    [
+      0.020543,
+      "Receiving objects:  29% (172/593)   \r"
+    ],
+    [
+      0.020984,
+      "Receiving objects:  30% (178/593)   \r"
+    ],
+    [
+      0.000677,
+      "Receiving objects:  31% (184/593)   \r"
+    ],
+    [
+      0.000724,
+      "Receiving objects:  32% (190/593)   \r"
+    ],
+    [
+      0.000410,
+      "Receiving objects:  33% (196/593)   \r"
+    ],
+    [
+      0.000774,
+      "Receiving objects:  34% (202/593)   \r"
+    ],
+    [
+      0.000409,
+      "Receiving objects:  35% (208/593)   \r"
+    ],
+    [
+      0.000495,
+      "Receiving objects:  36% (214/593)   \r"
+    ],
+    [
+      0.000468,
+      "Receiving objects:  37% (220/593)   \r"
+    ],
+    [
+      0.000211,
+      "Receiving objects:  38% (226/593)   \r"
+    ],
+    [
+      0.000292,
+      "Receiving objects:  39% (232/593)   \r"
+    ],
+    [
+      0.000174,
+      "Receiving objects:  40% (238/593)   \r"
+    ],
+    [
+      0.000125,
+      "Receiving objects:  41% (244/593)   \r"
+    ],
+    [
+      0.000156,
+      "Receiving objects:  42% (250/593)   \r"
+    ],
+    [
+      0.000006,
+      "Receiving objects:  43% (255/593)   \r"
+    ],
+    [
+      0.000025,
+      "Receiving objects:  44% (261/593)   \r"
+    ],
+    [
+      0.000078,
+      "Receiving objects:  45% (267/593)   \r"
+    ],
+    [
+      0.000019,
+      "Receiving objects:  46% (273/593)   \r"
+    ],
+    [
+      0.000888,
+      "Receiving objects:  47% (279/593)   \r"
+    ],
+    [
+      0.000059,
+      "remote: Total 593 (delta 0), reused 0 (delta 0), pack-reused 584\u001b[K\r\n"
+    ],
+    [
+      0.000138,
+      "Receiving objects:  48% (285/593)   \r"
+    ],
+    [
+      0.000267,
+      "Receiving objects:  49% (291/593)   \r"
+    ],
+    [
+      0.000348,
+      "Receiving objects:  50% (297/593)   \r"
+    ],
+    [
+      0.000198,
+      "Receiving objects:  51% (303/593)   \r"
+    ],
+    [
+      0.000295,
+      "Receiving objects:  52% (309/593)   \r"
+    ],
+    [
+      0.000250,
+      "Receiving objects:  53% (315/593)   \r"
+    ],
+    [
+      0.000233,
+      "Receiving objects:  54% (321/593)   \r"
+    ],
+    [
+      0.000225,
+      "Receiving objects:  55% (327/593)   \r"
+    ],
+    [
+      0.000162,
+      "Receiving objects:  56% (333/593)   \r"
+    ],
+    [
+      0.000251,
+      "Receiving objects:  57% (339/593)   \r"
+    ],
+    [
+      0.000206,
+      "Receiving objects:  58% (344/593)   \r"
+    ],
+    [
+      0.000009,
+      "Receiving objects:  59% (350/593)   \r"
+    ],
+    [
+      0.000196,
+      "Receiving objects:  60% (356/593)   \r"
+    ],
+    [
+      0.000202,
+      "Receiving objects:  61% (362/593)   \r"
+    ],
+    [
+      0.000120,
+      "Receiving objects:  62% (368/593)   \r"
+    ],
+    [
+      0.000239,
+      "Receiving objects:  63% (374/593)   \r"
+    ],
+    [
+      0.000199,
+      "Receiving objects:  64% (380/593)   \r"
+    ],
+    [
+      0.000297,
+      "Receiving objects:  65% (386/593)   \r"
+    ],
+    [
+      0.000182,
+      "Receiving objects:  66% (392/593)   \r"
+    ],
+    [
+      0.000124,
+      "Receiving objects:  67% (398/593)   \r"
+    ],
+    [
+      0.000302,
+      "Receiving objects:  68% (404/593)   \r"
+    ],
+    [
+      0.000188,
+      "Receiving objects:  69% (410/593)   \r"
+    ],
+    [
+      0.000273,
+      "Receiving objects:  70% (416/593)   \r"
+    ],
+    [
+      0.000232,
+      "Receiving objects:  71% (422/593)   \r"
+    ],
+    [
+      0.000219,
+      "Receiving objects:  72% (427/593)   \r"
+    ],
+    [
+      0.000159,
+      "Receiving objects:  73% (433/593)   \r"
+    ],
+    [
+      0.000258,
+      "Receiving objects:  74% (439/593)   \r"
+    ],
+    [
+      0.000221,
+      "Receiving objects:  75% (445/593)   \r"
+    ],
+    [
+      0.000178,
+      "Receiving objects:  76% (451/593)   \r"
+    ],
+    [
+      0.000332,
+      "Receiving objects:  77% (457/593)   \r"
+    ],
+    [
+      0.000175,
+      "Receiving objects:  78% (463/593)   \r"
+    ],
+    [
+      0.000161,
+      "Receiving objects:  79% (469/593)   \r"
+    ],
+    [
+      0.000140,
+      "Receiving objects:  80% (475/593)   \r"
+    ],
+    [
+      0.000286,
+      "Receiving objects:  81% (481/593)   \r"
+    ],
+    [
+      0.000243,
+      "Receiving objects:  82% (487/593)   \r"
+    ],
+    [
+      0.000238,
+      "Receiving objects:  83% (493/593)   \r"
+    ],
+    [
+      0.000296,
+      "Receiving objects:  84% (499/593)   \r"
+    ],
+    [
+      0.000381,
+      "Receiving objects:  85% (505/593)   \r"
+    ],
+    [
+      0.000363,
+      "Receiving objects:  86% (510/593)   \r"
+    ],
+    [
+      0.000382,
+      "Receiving objects:  87% (516/593)   \r"
+    ],
+    [
+      0.000551,
+      "Receiving objects:  88% (522/593)   \r"
+    ],
+    [
+      0.000750,
+      "Receiving objects:  89% (528/593)   \r"
+    ],
+    [
+      0.000305,
+      "Receiving objects:  90% (534/593)   \r"
+    ],
+    [
+      0.000395,
+      "Receiving objects:  91% (540/593)   \r"
+    ],
+    [
+      0.000534,
+      "Receiving objects:  92% (546/593)   \r"
+    ],
+    [
+      0.000443,
+      "Receiving objects:  93% (552/593)   \r"
+    ],
+    [
+      0.000422,
+      "Receiving objects:  94% (558/593)   \r"
+    ],
+    [
+      0.000380,
+      "Receiving objects:  95% (564/593)   \r"
+    ],
+    [
+      0.000305,
+      "Receiving objects:  96% (570/593)   \r"
+    ],
+    [
+      0.000307,
+      "Receiving objects:  97% (576/593)   \r"
+    ],
+    [
+      0.000582,
+      "Receiving objects:  98% (582/593)   \r"
+    ],
+    [
+      0.000277,
+      "Receiving objects:  99% (588/593)   \r"
+    ],
+    [
+      0.000345,
+      "Receiving objects: 100% (593/593)   \r"
+    ],
+    [
+      0.000009,
+      "Receiving objects: 100% (593/593), 561.46 KiB | 0 bytes/s, done.\r\n"
+    ],
+    [
+      0.000320,
+      "Resolving deltas:   0% (0/181)   \r"
+    ],
+    [
+      0.002095,
+      "Resolving deltas:   8% (15/181)   \r"
+    ],
+    [
+      0.001800,
+      "Resolving deltas:  20% (37/181)   \r"
+    ],
+    [
+      0.000150,
+      "Resolving deltas:  21% (39/181)   \r"
+    ],
+    [
+      0.000234,
+      "Resolving deltas:  22% (40/181)   \r"
+    ],
+    [
+      0.000783,
+      "Resolving deltas:  27% (50/181)   \r"
+    ],
+    [
+      0.000094,
+      "Resolving deltas:  28% (51/181)   \r"
+    ],
+    [
+      0.000630,
+      "Resolving deltas:  31% (57/181)   \r"
+    ],
+    [
+      0.000294,
+      "Resolving deltas:  32% (59/181)   \r"
+    ],
+    [
+      0.000381,
+      "Resolving deltas:  34% (62/181)   \r"
+    ],
+    [
+      0.000408,
+      "Resolving deltas:  36% (66/181)   \r"
+    ],
+    [
+      0.000232,
+      "Resolving deltas:  37% (67/181)   \r"
+    ],
+    [
+      0.000009,
+      "Resolving deltas:  38% (69/181)   \r"
+    ],
+    [
+      0.000536,
+      "Resolving deltas:  41% (75/181)   \r"
+    ],
+    [
+      0.000284,
+      "Resolving deltas:  43% (78/181)   \r"
+    ],
+    [
+      0.000298,
+      "Resolving deltas:  44% (81/181)   \r"
+    ],
+    [
+      0.000290,
+      "Resolving deltas:  45% (83/181)   \rResolving deltas:  46% (84/181)   \r"
+    ],
+    [
+      0.000617,
+      "Resolving deltas:  49% (90/181)   \r"
+    ],
+    [
+      0.000009,
+      "Resolving deltas:  50% (91/181)   \r"
+    ],
+    [
+      0.000291,
+      "Resolving deltas:  51% (93/181)   \r"
+    ],
+    [
+      0.001719,
+      "Resolving deltas:  64% (117/181)   \r"
+    ],
+    [
+      0.000069,
+      "Resolving deltas:  65% (118/181)   \r"
+    ],
+    [
+      0.000836,
+      "Resolving deltas:  70% (128/181)   \r"
+    ],
+    [
+      0.000311,
+      "Resolving deltas:  72% (131/181)   \r"
+    ],
+    [
+      0.000734,
+      "Resolving deltas:  77% (140/181)   \r"
+    ],
+    [
+      0.001021,
+      "Resolving deltas:  83% (152/181)   \r"
+    ],
+    [
+      0.000126,
+      "Resolving deltas:  84% (153/181)   \r"
+    ],
+    [
+      0.000412,
+      "Resolving deltas:  86% (157/181)   \r"
+    ],
+    [
+      0.000285,
+      "Resolving deltas:  88% (160/181)   \r"
+    ],
+    [
+      0.000294,
+      "Resolving deltas:  90% (163/181)   \r"
+    ],
+    [
+      0.000408,
+      "Resolving deltas:  92% (167/181)   \r"
+    ],
+    [
+      0.000227,
+      "Resolving deltas:  93% (169/181)   \r"
+    ],
+    [
+      0.000201,
+      "Resolving deltas:  94% (171/181)   \r"
+    ],
+    [
+      0.000108,
+      "Resolving deltas:  95% (172/181)   \r"
+    ],
+    [
+      0.000370,
+      "Resolving deltas:  96% (175/181)   \r"
+    ],
+    [
+      0.000009,
+      "Resolving deltas:  97% (176/181)   \r"
+    ],
+    [
+      0.000298,
+      "Resolving deltas:  98% (178/181)   \r"
+    ],
+    [
+      0.000248,
+      "Resolving deltas:  99% (180/181)   \r"
+    ],
+    [
+      0.000092,
+      "Resolving deltas: 100% (181/181)   \r"
+    ],
+    [
+      0.000108,
+      "Resolving deltas: 100% (181/181), done.\r\n"
+    ],
+    [
+      0.006234,
+      "Checking connectivity... "
+    ],
+    [
+      0.004088,
+      "done.\r\n"
+    ],
+    [
+      0.024843,
+      "bash-3.2$ "
+    ],
+    [
+      1.672517,
+      "l"
+    ],
+    [
+      0.063861,
+      "s"
+    ],
+    [
+      0.112016,
+      "\r\n"
+    ],
+    [
+      0.004671,
+      "unit-1\r\n"
+    ],
+    [
+      0.000553,
+      "bash-3.2$ "
+    ],
+    [
+      0.242068,
+      "c"
+    ],
+    [
+      0.088634,
+      "d"
+    ],
+    [
+      0.064086,
+      " "
+    ],
+    [
+      0.071874,
+      "u"
+    ],
+    [
+      0.184133,
+      "n"
+    ],
+    [
+      0.080080,
+      "i"
+    ],
+    [
+      0.144277,
+      "t-1/"
+    ],
+    [
+      0.319756,
+      "\r\n"
+    ],
+    [
+      0.000486,
+      "bash-3.2$ "
+    ],
+    [
+      0.175401,
+      "l"
+    ],
+    [
+      0.128068,
+      "s"
+    ],
+    [
+      0.279988,
+      "\r\n"
+    ],
+    [
+      0.004652,
+      "README.md\texercises\thomework\tlessons\t\tspeakers\r\n"
+    ],
+    [
+      0.000558,
+      "bash-3.2$ "
+    ],
+    [
+      4.872913,
+      "g"
+    ],
+    [
+      0.071924,
+      "i"
+    ],
+    [
+      0.080022,
+      "t"
+    ],
+    [
+      0.079891,
+      " "
+    ],
+    [
+      0.112293,
+      "b"
+    ],
+    [
+      0.176008,
+      "r"
+    ],
+    [
+      0.063811,
+      "a"
+    ],
+    [
+      0.063995,
+      "n"
+    ],
+    [
+      0.136009,
+      "c"
+    ],
+    [
+      0.087975,
+      "h"
+    ],
+    [
+      0.512047,
+      " "
+    ],
+    [
+      0.119847,
+      "-"
+    ],
+    [
+      0.095943,
+      "a"
+    ],
+    [
+      0.152083,
+      "\r\n"
+    ],
+    [
+      0.009683,
+      "* \u001b[32mmaster\u001b[m\r\n  \u001b[31mremotes/origin/HEAD\u001b[m -\u003e origin/master\r\n  \u001b[31mremotes/origin/Unit1_HW_Week0\u001b[m\r\n  \u001b[31mremotes/origin/hoshikoo\u001b[m\r\n  \u001b[31mremotes/origin/master\u001b[m\r\n"
+    ],
+    [
+      0.000511,
+      "bash-3.2$ "
+    ],
+    [
+      1.325979,
+      "\r\u001b[12@(reverse-i-search)`':\u001b[C"
+    ],
+    [
+      0.271973,
+      "\u0008\u0008\u0008g': git branch -a\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.080240,
+      "\u0008\u0008\u0008\u001b[1@i\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.095768,
+      "\u0008\u0008\u0008\u001b[1@t\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.071680,
+      "\u0008\u0008\u0008\u001b[1@ \u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.152159,
+      "\u0008\u0008\u0008c': git clone https://github.com/hoshikoo/unit-1.git\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.112177,
+      "\u0008\u0008\u0008\u001b[7Ph': git checkout -b hoshikoo origin/hoshikoo\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.050612,
+      "\u0008\u0008\u0008\u001b[1@e\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.049955,
+      "\u0008\u0008\u0008\u001b[1@c\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.098559,
+      "\u0008\u0008\u0008\u001b[1@k\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.088979,
+      "\u0008\u0008\u0008\u001b[1@o\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.103592,
+      "\u0008\u0008\u0008\u001b[1@u\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.744274,
+      "\r\u001b[23Pbash-3.2$\u001b[C"
+    ],
+    [
+      0.000095,
+      "\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.655821,
+      "\r\n"
+    ],
+    [
+      0.078767,
+      "Branch hoshikoo set up to track remote branch hoshikoo from origin.\r\n"
+    ],
+    [
+      0.000652,
+      "Switched to a new branch 'hoshikoo'\r\n"
+    ],
+    [
+      0.001200,
+      "bash-3.2$ "
+    ],
+    [
+      1.303538,
+      "git checkout -b hoshikoo origin/hoshikoo"
+    ],
+    [
+      0.296069,
+      "\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[Cbranch -a\u001b[K"
+    ],
+    [
+      0.791336,
+      " "
+    ],
+    [
+      0.200431,
+      "-"
+    ],
+    [
+      0.087850,
+      "v"
+    ],
+    [
+      0.143994,
+      "v"
+    ],
+    [
+      0.159995,
+      "\r\n"
+    ],
+    [
+      0.009671,
+      "* \u001b[32mhoshikoo                     \u001b[m 2beb638 [\u001b[34morigin/hoshikoo\u001b[m] add homework 3\r\n"
+    ],
+    [
+      0.000054,
+      "  master                       \u001b[m a72d853 [\u001b[34morigin/master\u001b[m] Update 4_Anatomy_Manifest.md\r\n"
+    ],
+    [
+      0.000013,
+      "  \u001b[31mremotes/origin/HEAD          \u001b[m -\u003e origin/master\r\n"
+    ],
+    [
+      0.000025,
+      "  \u001b[31mremotes/origin/Unit1_HW_Week0\u001b[m d4eb633 week 0 hw\r\n"
+    ],
+    [
+      0.000087,
+      "  \u001b[31mremotes/origin/hoshikoo      \u001b[m 2beb638 add homework 3\r\n"
+    ],
+    [
+      0.000054,
+      "  \u001b[31mremotes/origin/master        \u001b[m a72d853 Update 4_Anatomy_Manifest.md\r\n"
+    ],
+    [
+      0.000505,
+      "bash-3.2$ "
+    ],
+    [
+      2.965826,
+      "f"
+    ],
+    [
+      0.095755,
+      "i"
+    ],
+    [
+      0.079882,
+      "n"
+    ],
+    [
+      0.047781,
+      "d"
+    ],
+    [
+      0.072452,
+      " "
+    ],
+    [
+      0.079904,
+      "."
+    ],
+    [
+      0.111971,
+      " "
+    ],
+    [
+      0.168142,
+      "-"
+    ],
+    [
+      0.415899,
+      "t"
+    ],
+    [
+      0.151986,
+      "y"
+    ],
+    [
+      0.064095,
+      "p"
+    ],
+    [
+      0.095834,
+      "e"
+    ],
+    [
+      0.088239,
+      " "
+    ],
+    [
+      0.151861,
+      "d"
+    ],
+    [
+      0.183865,
+      " "
+    ],
+    [
+      0.095755,
+      "|"
+    ],
+    [
+      0.112442,
+      " "
+    ],
+    [
+      0.440177,
+      "g"
+    ],
+    [
+      0.151886,
+      "r"
+    ],
+    [
+      0.063999,
+      "e"
+    ],
+    [
+      0.056412,
+      "p"
+    ],
+    [
+      0.050146,
+      " "
+    ],
+    [
+      0.749350,
+      "."
+    ],
+    [
+      0.184192,
+      "i"
+    ],
+    [
+      0.079739,
+      "d"
+    ],
+    [
+      0.119868,
+      "e"
+    ],
+    [
+      0.072224,
+      "a"
+    ],
+    [
+      0.048309,
+      "/"
+    ],
+    [
+      1.351893,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.199792,
+      "\r\n"
+    ],
+    [
+      0.009205,
+      "./exercises/5_OOP-and-Intents/.idea\r\n./exercises/5_OOP-and-Intents/.idea/copyright\r\n./exercises/5_OOP-and-Intents/.idea/scopes\r\n"
+    ],
+    [
+      0.000146,
+      "./exercises/5_OOP-and-Intents/oop/.idea\r\n"
+    ],
+    [
+      0.000009,
+      "./exercises/5_OOP-and-Intents/oop/.idea/copyright\r\n./exercises/5_OOP-and-Intents/oop/.idea/scopes\r\n"
+    ],
+    [
+      0.000024,
+      "./homework/week-0/.idea\r\n./homework/week-0/.idea/copyright\r\n"
+    ],
+    [
+      0.000007,
+      "./homework/week-0/.idea/scopes\r\n"
+    ],
+    [
+      0.000559,
+      "bash-3.2$ "
+    ],
+    [
+      2.230094,
+      "f"
+    ],
+    [
+      0.119841,
+      "i"
+    ],
+    [
+      0.087985,
+      "n"
+    ],
+    [
+      0.047631,
+      "d"
+    ],
+    [
+      0.096447,
+      " "
+    ],
+    [
+      0.095906,
+      "."
+    ],
+    [
+      0.112113,
+      " "
+    ],
+    [
+      1.103985,
+      "-"
+    ],
+    [
+      0.191983,
+      "t"
+    ],
+    [
+      0.128006,
+      "y"
+    ],
+    [
+      0.071603,
+      "p"
+    ],
+    [
+      0.080418,
+      "e"
+    ],
+    [
+      0.087570,
+      " "
+    ],
+    [
+      0.160292,
+      "d"
+    ],
+    [
+      0.111838,
+      " "
+    ],
+    [
+      0.112152,
+      "|"
+    ],
+    [
+      0.087931,
+      " "
+    ],
+    [
+      0.551996,
+      "g"
+    ],
+    [
+      0.160396,
+      "r"
+    ],
+    [
+      0.063730,
+      "e"
+    ],
+    [
+      0.054140,
+      "p"
+    ],
+    [
+      0.065761,
+      " "
+    ],
+    [
+      0.927972,
+      "o"
+    ],
+    [
+      0.080441,
+      "u"
+    ],
+    [
+      0.119519,
+      "t"
+    ],
+    [
+      0.496271,
+      "\r\n"
+    ],
+    [
+      0.008983,
+      "./exercises/5_OOP-and-Intents/MyPhone/app/src/main/res/layout\r\n"
+    ],
+    [
+      0.000016,
+      "./homework/week-0/out\r\n./homework/week-0/out/production\r\n./homework/week-0/out/production/week-0\r\n./homework/week-0/out/production/week-0/nyc\r\n./homework/week-0/out/production/week-0/nyc/c4q\r\n"
+    ],
+    [
+      0.000021,
+      "./homework/week-0/out/production/week-0/nyc/c4q/hoshikoo\r\n"
+    ],
+    [
+      0.000098,
+      "./review/2015-04-29/AndroidSample/app/src/main/res/layout\r\n"
+    ],
+    [
+      0.000523,
+      "bash-3.2$ "
+    ],
+    [
+      5.470996,
+      "g"
+    ],
+    [
+      0.032087,
+      "i"
+    ],
+    [
+      0.096052,
+      "t"
+    ],
+    [
+      0.096156,
+      " "
+    ],
+    [
+      0.207891,
+      "r"
+    ],
+    [
+      0.104006,
+      "m"
+    ],
+    [
+      0.127990,
+      " "
+    ],
+    [
+      0.103967,
+      "-"
+    ],
+    [
+      0.104102,
+      "-"
+    ],
+    [
+      0.095943,
+      "c"
+    ],
+    [
+      0.095888,
+      "a"
+    ],
+    [
+      0.055911,
+      "c"
+    ],
+    [
+      0.096242,
+      "h"
+    ],
+    [
+      0.079956,
+      "e"
+    ],
+    [
+      0.127947,
+      "d"
+    ],
+    [
+      0.080044,
+      " "
+    ],
+    [
+      0.472061,
+      "e"
+    ],
+    [
+      0.191605,
+      "x"
+    ],
+    [
+      0.128276,
+      "e"
+    ],
+    [
+      0.071650,
+      "r"
+    ],
+    [
+      0.152391,
+      "cises/"
+    ],
+    [
+      0.719874,
+      "5"
+    ],
+    [
+      0.312132,
+      "_"
+    ],
+    [
+      0.975989,
+      "O"
+    ],
+    [
+      0.135993,
+      "O"
+    ],
+    [
+      0.232340,
+      "\u0007"
+    ],
+    [
+      0.000019,
+      "P-and-Intents"
+    ],
+    [
+      1.007954,
+      "/"
+    ],
+    [
+      0.759696,
+      "."
+    ],
+    [
+      0.192048,
+      "i"
+    ],
+    [
+      0.087982,
+      "d"
+    ],
+    [
+      0.144058,
+      "e"
+    ],
+    [
+      0.079784,
+      "a"
+    ],
+    [
+      0.160566,
+      "/"
+    ],
+    [
+      1.207298,
+      "\r\n"
+    ],
+    [
+      0.010132,
+      "fatal: not removing 'exercises/5_OOP-and-Intents/.idea/' recursively without -r\r\n"
+    ],
+    [
+      0.000554,
+      "bash-3.2$ "
+    ],
+    [
+      1.981625,
+      "git rm --cached exercises/5_OOP-and-Intents/.idea/"
+    ],
+    [
+      0.168095,
+      "\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.247757,
+      "\u001b[C"
+    ],
+    [
+      0.240109,
+      "\u001b[C"
+    ],
+    [
+      0.500529,
+      "\u001b[C"
+    ],
+    [
+      0.084486,
+      "\u001b[C"
+    ],
+    [
+      0.084124,
+      "\u001b[C"
+    ],
+    [
+      0.084046,
+      "\u001b[C"
+    ],
+    [
+      0.084300,
+      "\u001b[C"
+    ],
+    [
+      0.084429,
+      "\u001b[C"
+    ],
+    [
+      0.084363,
+      "\u001b[C"
+    ],
+    [
+      0.084190,
+      "\u001b[C"
+    ],
+    [
+      0.084502,
+      "\u001b[C"
+    ],
+    [
+      0.084350,
+      "\u001b[C"
+    ],
+    [
+      0.084368,
+      "\u001b[C"
+    ],
+    [
+      0.084397,
+      "\u001b[C"
+    ],
+    [
+      0.235936,
+      "\u001b[C"
+    ],
+    [
+      0.160016,
+      "\u001b[C"
+    ],
+    [
+      0.560158,
+      "-exercises/5_OOP-and-Intents/.idea/\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.079928,
+      "rexercises/5_OOP-and-Intents/.idea/\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.072168,
+      " exercises/5_OOP-and-Intents/.idea/\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.127591,
+      "\r\n"
+    ],
+    [
+      0.009993,
+      "rm 'exercises/5_OOP-and-Intents/.idea/.name'\r\nrm 'exercises/5_OOP-and-Intents/.idea/5_OOP-and-Intents.iml'\r\nrm 'exercises/5_OOP-and-Intents/.idea/compiler.xml'\r\nrm 'exercises/5_OOP-and-Intents/.idea/copyright/profiles_settings.xml'\r\nrm 'exercises/5_OOP-and-Intents/.idea/encodings.xml'\r\nrm 'exercises/5_OOP-and-Intents/.idea/modules.xml'\r\nrm 'exercises/5_OOP-and-Intents/.idea/scopes/scope_settings.xml'\r\nrm 'exercises/5_OOP-and-Intents/.idea/vcs.xml'\r\nrm 'exercises/5_OOP-and-Intents/.idea/workspace.xml'\r\n"
+    ],
+    [
+      0.013684,
+      "bash-3.2$ "
+    ],
+    [
+      1.568453,
+      "git rm --cached -r exercises/5_OOP-and-Intents/.idea/"
+    ],
+    [
+      1.383978,
+      "\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[K"
+    ],
+    [
+      1.735779,
+      "h"
+    ],
+    [
+      0.144132,
+      "o"
+    ],
+    [
+      0.143963,
+      "m"
+    ],
+    [
+      0.087913,
+      "e"
+    ],
+    [
+      0.200109,
+      "work/"
+    ],
+    [
+      0.888050,
+      "w"
+    ],
+    [
+      0.063910,
+      "e"
+    ],
+    [
+      0.127933,
+      "e"
+    ],
+    [
+      0.168545,
+      "\u0007"
+    ],
+    [
+      0.000017,
+      "k-0"
+    ],
+    [
+      0.695672,
+      "/"
+    ],
+    [
+      0.215811,
+      "."
+    ],
+    [
+      0.184024,
+      "i"
+    ],
+    [
+      0.056270,
+      "d"
+    ],
+    [
+      0.127545,
+      "e"
+    ],
+    [
+      0.136463,
+      "a/"
+    ],
+    [
+      0.367463,
+      "\r\n"
+    ],
+    [
+      0.010061,
+      "rm 'homework/week-0/.idea/compiler.xml'\r\nrm 'homework/week-0/.idea/copyright/profiles_settings.xml'\r\nrm 'homework/week-0/.idea/description.html'\r\nrm 'homework/week-0/.idea/encodings.xml'\r\nrm 'homework/week-0/.idea/misc.xml'\r\nrm 'homework/week-0/.idea/modules.xml'\r\nrm 'homework/week-0/.idea/project-template.xml'\r\nrm 'homework/week-0/.idea/scopes/scope_settings.xml'\r\nrm 'homework/week-0/.idea/vcs.xml'\r\nrm 'homework/week-0/.idea/workspace.xml'\r\n"
+    ],
+    [
+      0.001024,
+      "bash-3.2$ "
+    ],
+    [
+      1.197173,
+      "g"
+    ],
+    [
+      0.104317,
+      "i"
+    ],
+    [
+      0.119578,
+      "t"
+    ],
+    [
+      0.127873,
+      " "
+    ],
+    [
+      0.152196,
+      "r"
+    ],
+    [
+      0.111792,
+      "m"
+    ],
+    [
+      0.112110,
+      " "
+    ],
+    [
+      0.568258,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[K"
+    ],
+    [
+      0.159835,
+      "git rm --cached -r homework/week-0/.idea/"
+    ],
+    [
+      0.536139,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[K"
+    ],
+    [
+      2.967894,
+      "h"
+    ],
+    [
+      0.095929,
+      "o"
+    ],
+    [
+      0.104049,
+      "m"
+    ],
+    [
+      0.048557,
+      "e"
+    ],
+    [
+      0.167603,
+      "work/"
+    ],
+    [
+      0.527685,
+      "w"
+    ],
+    [
+      0.072006,
+      "e"
+    ],
+    [
+      0.103864,
+      "e"
+    ],
+    [
+      0.184276,
+      "\u0007"
+    ],
+    [
+      0.000017,
+      "k-0"
+    ],
+    [
+      0.672226,
+      "/"
+    ],
+    [
+      0.327665,
+      "o"
+    ],
+    [
+      0.071970,
+      "u"
+    ],
+    [
+      0.120072,
+      "t/"
+    ],
+    [
+      1.111890,
+      "\r\n"
+    ],
+    [
+      0.010057,
+      "rm 'homework/week-0/out/production/week-0/nyc/c4q/hoshikoo/Animal.class'\r\nrm 'homework/week-0/out/production/week-0/nyc/c4q/hoshikoo/Card.class'\r\nrm 'homework/week-0/out/production/week-0/nyc/c4q/hoshikoo/Domestic.class'\r\nrm 'homework/week-0/out/production/week-0/nyc/c4q/hoshikoo/DomesticCat.class'\r\nrm 'homework/week-0/out/production/week-0/nyc/c4q/hoshikoo/Game.class'\r\nrm 'homework/week-0/out/production/week-0/nyc/c4q/hoshikoo/Main.class'\r\nrm 'homework/week-0/out/production/week-0/nyc/c4q/hoshikoo/PlayingCards.class'\r\n"
+    ],
+    [
+      0.000942,
+      "bash-3.2$ "
+    ],
+    [
+      1.124779,
+      "g"
+    ],
+    [
+      0.080356,
+      "i"
+    ],
+    [
+      0.095902,
+      "t"
+    ],
+    [
+      0.072037,
+      " "
+    ],
+    [
+      0.095933,
+      "s"
+    ],
+    [
+      0.120249,
+      "t"
+    ],
+    [
+      0.103739,
+      "a"
+    ],
+    [
+      0.049523,
+      "t"
+    ],
+    [
+      0.174453,
+      "u"
+    ],
+    [
+      0.079830,
+      "s"
+    ],
+    [
+      0.400243,
+      "\r\n"
+    ],
+    [
+      0.014603,
+      "On branch hoshikoo\r\n"
+    ],
+    [
+      0.000134,
+      "Your branch is up-to-date with 'origin/hoshikoo'.\r\nChanges to be committed:\r\n  (use \"git reset HEAD \u003cfile\u003e...\" to unstage)\r\n\r\n"
+    ],
+    [
+      0.000054,
+      "\t\u001b[32mdeleted:    exercises/5_OOP-and-Intents/.idea/.name\u001b[m\r\n"
+    ],
+    [
+      0.000010,
+      "\t\u001b[32mdeleted:    exercises/5_OOP-and-Intents/.idea/5_OOP-and-Intents.iml\u001b[m\r\n"
+    ],
+    [
+      0.000007,
+      "\t\u001b[32mdeleted:    exercises/5_OOP-and-Intents/.idea/compiler.xml\u001b[m\r\n"
+    ],
+    [
+      0.000026,
+      "\t\u001b[32mdeleted:    exercises/5_OOP-and-Intents/.idea/copyright/profiles_settings.xml\u001b[m\r\n"
+    ],
+    [
+      0.000009,
+      "\t\u001b[32mdeleted:    exercises/5_OOP-and-Intents/.idea/encodings.xml\u001b[m\r\n"
+    ],
+    [
+      0.000008,
+      "\t\u001b[32mdeleted:    exercises/5_OOP-and-Intents/.idea/modules.xml\u001b[m\r\n"
+    ],
+    [
+      0.000026,
+      "\t\u001b[32mdeleted:    exercises/5_OOP-and-Intents/.idea/scopes/scope_settings.xml\u001b[m\r\n"
+    ],
+    [
+      0.000013,
+      "\t\u001b[32mdeleted:    exercises/5_OOP-and-Intents/.idea/vcs.xml\u001b[m\r\n"
+    ],
+    [
+      0.000007,
+      "\t\u001b[32mdeleted:    exercises/5_OOP-and-Intents/.idea/workspace.xml\u001b[m\r\n"
+    ],
+    [
+      0.000008,
+      "\t\u001b[32mdeleted:    homework/week-0/.idea/compiler.xml\u001b[m\r\n"
+    ],
+    [
+      0.000024,
+      "\t\u001b[32mdeleted:    homework/week-0/.idea/copyright/profiles_settings.xml\u001b[m\r\n"
+    ],
+    [
+      0.000008,
+      "\t\u001b[32mdeleted:    homework/week-0/.idea/description.html\u001b[m\r\n"
+    ],
+    [
+      0.000019,
+      "\t\u001b[32mdeleted:    homework/week-0/.idea/encodings.xml\u001b[m\r\n"
+    ],
+    [
+      0.000008,
+      "\t\u001b[32mdeleted:    homework/week-0/.idea/misc.xml\u001b[m\r\n"
+    ],
+    [
+      0.000007,
+      "\t\u001b[32mdeleted:    homework/week-0/.idea/modules.xml\u001b[m\r\n"
+    ],
+    [
+      0.000023,
+      "\t\u001b[32mdeleted:    homework/week-0/.idea/project-template.xml\u001b[m\r\n"
+    ],
+    [
+      0.000008,
+      "\t\u001b[32mdeleted:    homework/week-0/.idea/scopes/scope_settings.xml\u001b[m\r\n"
+    ],
+    [
+      0.000020,
+      "\t\u001b[32mdeleted:    homework/week-0/.idea/vcs.xml\u001b[m\r\n"
+    ],
+    [
+      0.000008,
+      "\t\u001b[32mdeleted:    homework/week-0/.idea/workspace.xml\u001b[m\r\n"
+    ],
+    [
+      0.000023,
+      "\t\u001b[32mdeleted:    homework/week-0/out/production/week-0/nyc/c4q/hoshikoo/Animal.class\u001b[m\r\n"
+    ],
+    [
+      0.000018,
+      "\t\u001b[32mdeleted:    homework/week-0/out/production/week-0/nyc/c4q/hoshikoo/Card.class\u001b[m\r\n\t\u001b[32mdeleted:    homework/week-0/out/production/week-0/nyc/c4q/hoshikoo/Domestic.class\u001b[m\r\n"
+    ],
+    [
+      0.000175,
+      "\t\u001b[32mdeleted:    homework/week-0/out/production/week-0/nyc/c4q/hoshikoo/DomesticCat.class\u001b[m\r\n"
+    ],
+    [
+      0.000018,
+      "\t\u001b[32mdeleted:    homework/week-0/out/production/week-0/nyc/c4q/hoshikoo/Game.class\u001b[m\r\n\t\u001b[32mdeleted:    homework/week-0/out/production/week-0/nyc/c4q/hoshikoo/Main.class\u001b[m\r\n\t\u001b[32mdeleted:    homework/week-0/out/production/week-0/nyc/c4q/hoshikoo/PlayingCards.class\u001b[m\r\n\r\nUntracked files:\r\n  (use \"git add \u003cfile\u003e...\" to include in what will be committed)\r\n\r\n\t\u001b[31mexercises/5_OOP-and-Intents/.idea/\u001b[m\r\n\t\u001b[31mhomework/week-0/.idea/\u001b[m\r\n\t\u001b[31mhomework/week-0/out/\u001b[m\r\n\r\n"
+    ],
+    [
+      0.000589,
+      "bash-3.2$ "
+    ],
+    [
+      2.904290,
+      "\r\u001b[12@(reverse-i-search)`':\u001b[C"
+    ],
+    [
+      0.431826,
+      "\u0008\u0008\u0008g': git status\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.104182,
+      "\u0008\u0008\u0008\u001b[1@i\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.079864,
+      "\u0008\u0008\u0008\u001b[1@t\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.079885,
+      "\u0008\u0008\u0008\u001b[1@ \u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.152169,
+      "\u0008\u0008\u0008c': git checkout -b hoshikoo origin/hoshikoo\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.063951,
+      "\u0008\u0008\u0008o': git config --global user.name \"Ehtesh Choudhury\"\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.136146,
+      "\u0008\u0008\u0008m': git commit -m \"removed .idea/ files and binaries\"\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.152016,
+      "\u0008\u0008\u0008\u001b[1@m\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.368104,
+      "\u0008\u0008\u0008\u001b[1@i\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      3.344076,
+      "\r\u001b[21Pbash-3.2$\u001b[C"
+    ],
+    [
+      0.000077,
+      "\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      1.799451,
+      "\r\n"
+    ],
+    [
+      0.016916,
+      "[hoshikoo 5013410] removed .idea/ files and binaries\r\n"
+    ],
+    [
+      0.001483,
+      " 26 files changed, 1102 deletions(-)\r\n delete mode 100644 exercises/5_OOP-and-Intents/.idea/.name\r\n"
+    ],
+    [
+      0.000019,
+      " delete mode 100644 exercises/5_OOP-and-Intents/.idea/5_OOP-and-Intents.iml\r\n delete mode 100644 exercises/5_OOP-and-Intents/.idea/compiler.xml\r\n delete mode 100644 exercises/5_OOP-and-Intents/.idea/copyright/profiles_settings.xml\r\n delete mode 100644 exercises/5_OOP-and-Intents/.idea/encodings.xml\r\n delete mode 100644 exercises/5_OOP-and-Intents/.idea/modules.xml\r\n delete mode 100644 exercises/5_OOP-and-Intents/.idea/scopes/scope_settings.xml\r\n delete mode 100644 exercises/5_OOP-and-Intents/.idea/vcs.xml\r\n delete mode 100644 exercises/5_OOP-and-Intents/.idea/workspace.xml\r\n"
+    ],
+    [
+      0.000044,
+      " delete mode 100644 homework/week-0/.idea/compiler.xml\r\n delete mode 100644 homework/week-0/.idea/copyright/profiles_settings.xml\r\n delete mode 100644 homework/week-0/.idea/description.html\r\n delete mode 100644 homework/week-0/.idea/encodings.xml\r\n delete mode 100644 homework/week-0/.idea/misc.xml\r\n delete mode 100644 homework/week-0/.idea/modules.xml\r\n delete mode 100644 homework/week-0/.idea/project-template.xml\r\n"
+    ],
+    [
+      0.000016,
+      " delete mode 100644 homework/week-0/.idea/scopes/scope_settings.xml\r\n delete mode 100644 homework/week-0/.idea/vcs.xml\r\n delete mode 100644 homework/week-0/.idea/workspace.xml\r\n delete mode 100644 homework/week-0/out/production/week-0/nyc/c4q/hoshikoo/Animal.class\r\n delete mode 100644 homework/week-0/out/production/week-0/nyc/c4q/hoshikoo/Card.class\r\n delete mode 100644 homework/week-0/out/production/week-0/nyc/c4q/hoshikoo/Domestic.class\r\n delete mode 100644 homework/week-0/out/production/week-0/nyc/c4q/hoshikoo/DomesticCat.class\r\n delete mode 100644 homework/week-0/out/production/week-0/nyc/c4q/hoshikoo/Game.class\r\n"
+    ],
+    [
+      0.000012,
+      " delete mode 100644 homework/week-0/out/production/week-0/nyc/c4q/hoshikoo/Main.class\r\n delete mode 100644 homework/week-0/out/production/week-0/nyc/c4q/hoshikoo/PlayingCards.class\r\n"
+    ],
+    [
+      0.000778,
+      "bash-3.2$ "
+    ],
+    [
+      1.852678,
+      "g"
+    ],
+    [
+      0.104006,
+      "i"
+    ],
+    [
+      0.080363,
+      "t"
+    ],
+    [
+      0.095190,
+      " "
+    ],
+    [
+      0.096498,
+      "s"
+    ],
+    [
+      0.119998,
+      "t"
+    ],
+    [
+      0.103973,
+      "a"
+    ],
+    [
+      0.071927,
+      "t"
+    ],
+    [
+      0.103972,
+      "u"
+    ],
+    [
+      0.064160,
+      "s"
+    ],
+    [
+      0.119927,
+      "\r\n"
+    ],
+    [
+      0.014233,
+      "On branch hoshikoo\r\n"
+    ],
+    [
+      0.000636,
+      "Your branch is ahead of 'origin/hoshikoo' by 1 commit.\r\n  (use \"git push\" to publish your local commits)\r\n"
+    ],
+    [
+      0.000011,
+      "Untracked files:\r\n  (use \"git add \u003cfile\u003e...\" to include in what will be committed)\r\n\r\n"
+    ],
+    [
+      0.000007,
+      "\t\u001b[31mexercises/5_OOP-and-Intents/.idea/\u001b[m\r\n"
+    ],
+    [
+      0.000007,
+      "\t\u001b[31mhomework/week-0/.idea/\u001b[m\r\n"
+    ],
+    [
+      0.000006,
+      "\t\u001b[31mhomework/week-0/out/\u001b[m\r\n"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000021,
+      "nothing added to commit but untracked files present (use \"git add\" to track)\r\n"
+    ],
+    [
+      0.000631,
+      "bash-3.2$ "
+    ],
+    [
+      1.464398,
+      "g"
+    ],
+    [
+      0.088010,
+      "i"
+    ],
+    [
+      0.096060,
+      "t"
+    ],
+    [
+      0.063973,
+      " "
+    ],
+    [
+      0.063866,
+      "l"
+    ],
+    [
+      0.128189,
+      "o"
+    ],
+    [
+      0.071873,
+      "g"
+    ],
+    [
+      0.119957,
+      "\r\n"
+    ],
+    [
+      0.013200,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000382,
+      "\u001b[33mcommit 50134109afe0abb60dff26e1afe0741bcc046d55\u001b[m\u001b[m\r\nAuthor: Ehtesh Choudhury \u003cehtesh.choudhury@gmail.com\u003e\u001b[m\r\nDate:   Thu May 7 16:30:38 2015 -0400\u001b[m\r\n\u001b[m\r\n    removed .idea/ files and binaries\u001b[m\r\n\u001b[m\r\n\u001b[33mcommit 2beb6381529fe4fc45f9d22afe39752de6a7451d\u001b[m\u001b[m\r\nAuthor: hoshikoo \u003choshikooki@gmail.com\u003e\u001b[m\r\nDate:   Sun May 3 11:38:20 2015 -0400\u001b[m\r\n\u001b[m\r\n    add homework 3\u001b[m\r\n\u001b[m\r\n\u001b[33mcommit 27de9c3ff13b3a6103b07afb93a2f077f257a78e\u001b[m\u001b[m\r\nAuthor: hoshikoo \u003choshikooki@gmail.com\u003e\u001b[m\r\nDate:   Fri May 1 20:37:44 2015 -0400\u001b[m\r\n\u001b[m\r\n    add 5_OOP-and-Intents/oop/.idea/workspace.xml to exercises folder\u001b[m\r\n\u001b[m\r\n\u001b[33mcommit 3b79673578d013fe041ab0f6c0f2cd0fd24054ed\u001b[m\u001b[m\r\nAuthor: hoshikoo \u003choshikooki@gmail.com\u003e\u001b[m\r\nDate:   Fri May 1 20:32:45 2015 -0400\u001b[m\r\n\u001b[m\r\n    add homework\u001b[m\r\n\u001b[m\r\n\u001b[33mcommit 625a03df3eb09d7ff871322672f04f983e4709de\u001b[m\u001b[m\r\nAuthor: hoshikoo \u003choshikooki@gmail.com\u003e\u001b[m\r\nDate:   Thu Apr 30 22:20:39 2015 -0400\u001b[m\r\n\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      1.162256,
+      "\r\u001b[K\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.001129,
+      "bash-3.2$ "
+    ],
+    [
+      0.846937,
+      "#"
+    ],
+    [
+      0.256130,
+      "g"
+    ],
+    [
+      0.864259,
+      "i"
+    ],
+    [
+      0.071825,
+      "t"
+    ],
+    [
+      0.071901,
+      " "
+    ],
+    [
+      0.088140,
+      "p"
+    ],
+    [
+      0.063727,
+      "u"
+    ],
+    [
+      0.056176,
+      "s"
+    ],
+    [
+      0.096034,
+      "h"
+    ],
+    [
+      0.063914,
+      " "
+    ],
+    [
+      0.640131,
+      "o"
+    ],
+    [
+      0.103898,
+      "r"
+    ],
+    [
+      0.079569,
+      "i"
+    ],
+    [
+      0.104742,
+      "g"
+    ],
+    [
+      0.031526,
+      "i"
+    ],
+    [
+      0.087991,
+      "n"
+    ],
+    [
+      1.216250,
+      "\r\n"
+    ],
+    [
+      0.000229,
+      "bash-3.2$ "
+    ],
+    [
+      2.711914,
+      "exit\r\n"
+    ]
+  ]
+}
