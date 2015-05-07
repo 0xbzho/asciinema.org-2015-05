@@ -1,0 +1,146 @@
+{
+  "version": 1,
+  "width": 83,
+  "height": 32,
+  "duration": 8.380959,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.026672,
+      "\u001b[?1034h"
+    ],
+    [
+      0.000021,
+      "bash-3.2$ "
+    ],
+    [
+      2.635756,
+      "l"
+    ],
+    [
+      0.039899,
+      "s"
+    ],
+    [
+      0.120053,
+      " "
+    ],
+    [
+      0.119967,
+      "-"
+    ],
+    [
+      0.055973,
+      "l"
+    ],
+    [
+      0.055963,
+      " "
+    ],
+    [
+      0.176408,
+      "\r\n"
+    ],
+    [
+      0.021752,
+      "total 320\r\n"
+    ],
+    [
+      0.000318,
+      "drwx------    5 Suporte  staff    170 20 Mar 13:02 Applications\r\n"
+    ],
+    [
+      0.000193,
+      "drwx------+  25 Suporte  staff    850  7 Mai 16:04 Desktop\r\ndrwx------+  48 Suporte  staff   1632 24 Abr 19:48 Documents\r\n"
+    ],
+    [
+      0.000197,
+      "drwx------+ 114 Suporte  staff   3876  7 Mai 17:35 Downloads\r\ndrwx------@   8 Suporte  staff    272  7 Mai 10:42 Dropbox\r\n-rw-r--r--    1 Suporte  staff  72080 10 Dez 20:07 InvestCharts-IBOV.png\r\n-rw-r--r--    1 Suporte  staff  76503  8 Dez 19:44 InvestCharts-PETR4.png\r\ndrwx------@  58 Suporte  staff   1972 20 Out  2014 Library\r\n"
+    ],
+    [
+      0.000194,
+      "drwx------+   4 Suporte  staff    136 26 Set  2014 Movies\r\ndrwx------+   5 Suporte  staff    170  8 Jan 12:23 Music\r\ndrwx------+  11 Suporte  staff    374  7 Abr 17:02 Pictures\r\n"
+    ],
+    [
+      0.000250,
+      "drwxr-xr-x+   5 Suporte  staff    170 14 Jun  2014 Public\r\ndrwxr-xr-x    3 Suporte  staff    102  3 Dez 19:11 VirtualBox VMs\r\ndrwxr-xr-x    4 Suporte  staff    136 30 Set  2014 advfn\r\n-rw-r--r--    1 Suporte  staff   5815 16 Mar 13:03 drop.html\r\ndrwxr-xr-x    7 Suporte  staff    238 23 Fev 11:34 dumps\r\n-rw-r--r--    1 Suporte  staff    409  2 Out  2014 id_rsa.pub\r\ndrwxr-xr-x    9 Suporte  staff    306 10 Fev 19:43 investcharts\r\n"
+    ],
+    [
+      0.000216,
+      "drwxr-xr-x    8 Suporte  staff    272 23 Out  2014 lp_daybook\r\ndrwxr-xr-x   35 Suporte  staff   1190 24 Out  2014 luciliadiniz-blog\r\ndrwxr-xr-x   11 Suporte  staff    374 30 Set  2014 newsletter\r\ndrwxr-xr-x   12 Suporte  staff    408 26 Set  2014 newsletter_landing\r\ndrwxr-xr-x   38 Suporte  staff   1292 16 Mar 16:32 scripts\r\n"
+    ],
+    [
+      0.000600,
+      "bash-3.2$ "
+    ],
+    [
+      2.254706,
+      "t"
+    ],
+    [
+      0.119703,
+      "o"
+    ],
+    [
+      0.080056,
+      "p"
+    ],
+    [
+      0.224841,
+      "\r\n"
+    ],
+    [
+      0.102508,
+      "\u001b[?1049h\u001b[1;32r\u001b(B\u001b[m\u001b[4l\u001b[?7h\u001b[?1034h\u001b[?1h\u001b="
+    ],
+    [
+      0.281764,
+      "\u001b[H\u001b[2JProcesses: 190 total, 3 running, 3 stuck, 184 sleeping, 1068 threads\u001b[75G19:36:26\r\u001b[2dLoad Avg: 1.23, 1.73, 1.76  CPU usage: 20.0% user, 46.0% sys, 34.0% idle\r\u001b[3dSharedLibs: 792K resident, 0B data, 0B linkedit.\r\u001b[4dMemRegions: 45373 total, 3515M resident, 128M private, 973M shared.\r\u001b[5dPhysMem: 6875M used (1157M wired), 1302M unused.\r\u001b[6dVM: 597G vsize, 1026M framework vsize, 0(0) swapins, 0(0) swapouts.\r\u001b[7dNetworks: packets: 890514/839M in, 532831/71M out.\r\u001b[8dDisks: 90029/4970M read, 230594/4274M written.\r\u001b[10dPID   COMMAND\u001b[20G%CPU TIME     #TH  #WQ  #PORT #MREG MEM    RPRVT  PURG   CMPRS\r\u001b[11d1546  top\u001b[11;20H0.0  00:00.24 1/1  0    18+   32+   1544K+ 1332K+ 0B     0B\r\u001b[12d1544  bash\u001b[12;20H0.0  00:00.01 1    0    19+   28+   616K+  460K+  0B     0B\r\u001b[13d1543  asciinema    0.0  00:00.02 6    0    30+   1131+ 1128K+ 924K+  0B     0B\r\u001b[14d1526  bash\u001b[14;20H0.0  00:00.01 1    0    19+   28+   604K+  460K+  0B     0B\r\u001b[15d1525  login\u001b[15;20H0.0  00:00.10 2    0    30+   42+   836K+  512K+  0B     0B\r"
+    ],
+    [
+      0.000104,
+      "\u001b[16d1518  syncdefaults 0.0  00:00.73 5    1    93+   135+  5864K+ 4660K+ 0B     0B\r\u001b[17d1516  com.apple.sb 0.0  00:00.02 2    0    52+   38+   828K+  468K+  0B     0B\r\u001b[18d1515  cookied\u001b[20G0.0  00:00.02 2    0    48+   43+   940K+  512K+  0B     0B\r\u001b[19d1514  com.apple.iC 0.0  00:00.69 7    2    90+   81+   3560K+ 2408K+ 0B     0B\r\u001b[20d1511  CVMCompiler  0.0  00:00.66 2    1    33+   68+   15M+   15M+   12K+   0B\r\u001b[21d1510  Calendar     0.0  00:01.82 4    1    180+  422+  22M+   18M+   60K+   0B\r\u001b[22d1476  mdworker     0.0  00:01.08 4    0    54+   61+   6248K+ 5500K+ 0B     0B\r\u001b[23d1475  mdworker     0.0  00:01.28 4    0    54+   70+   7924K+ 6788K+ 0B     0B\r\u001b[24d1471  AOSAlertMana 0.0  00:00.23 4    1    130+  93+   4028K+ 2604K+ 16K+   0B\r\u001b[25d1463  PTPCamera    0.0  00:00.37 6    1    138+  88+   3352K+ 2700K+ 0B     0B\r\u001b[26d1449  ocspd\u001b[26;20H0.0  00:00.32 8    3    84+   69+   2656K+ 1908K+ 0B     0B\r\u001b[27d1446  mdworker     0.0  00:04.02 4    0    54+   70+   10M+   9480K+ 0B     0B\r\u001b[28d1441- MySQLW"
+    ],
+    [
+      0.000404,
+      "orkben 0.0  02:14.56 18   1    232+  2425+ 96M+   76M+   20M+   116K+\r\u001b[29d1440  Google Chrom 0.0  00:36.40 12   1    97+   549+  83M+   89M+   8108K+ 48K+\r\u001b[30d1437  mdworker     0.0  00:04.14 4    0    55+   73+   9412K+ 8252K+ 0B     0B\r\u001b[31d1424  Google Chrom 0.0  00:14.91 9    1    85+   512+  92M+   107M+  17M+   168K+\r\u001b[32d1409  ssh\u001b[32;20H0.0  00:00.40 1    0    19+   29+   948K+  612K+  0B     0B"
+    ],
+    [
+      0.998081,
+      "\u001b[32;1H\u001b[?1049l\r\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.001337,
+      "bash-3.2$ "
+    ],
+    [
+      0.430010,
+      "e"
+    ],
+    [
+      0.167987,
+      "x"
+    ],
+    [
+      0.111892,
+      "i"
+    ],
+    [
+      0.192134,
+      "t"
+    ],
+    [
+      0.159857,
+      "\r\n"
+    ],
+    [
+      0.000061,
+      "exit\r\n"
+    ]
+  ]
+}
