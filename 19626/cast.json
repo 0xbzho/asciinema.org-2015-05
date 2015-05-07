@@ -1,0 +1,1118 @@
+{
+  "version": 1,
+  "width": 81,
+  "height": 30,
+  "duration": 69.346666,
+  "command": "/bin/zsh",
+  "title": "Interactive Heap Visualizer",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.118393,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                \r \r"
+    ],
+    [
+      0.000027,
+      "\u001b]2;chief@nightstalker: ~/dev/ihv\u0007"
+    ],
+    [
+      0.000029,
+      "\u001b]1;~/dev/ihv\u0007"
+    ],
+    [
+      0.025758,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J[\u001b[01;33mλ\u001b[00m::\u001b[36mnightstalker\u001b[00m::\u001b[22;33m~/dev/ihv\u001b[00m]# \u001b[K\u001b[39C \u003c\u001b[32mmaster\u001b[33m*\u001b[00m\u001b[00m\u003e \u001b[50D"
+    ],
+    [
+      0.000029,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.227763,
+      "\u001b[1m\u001b[31mv\u001b[0m\u001b[39m"
+    ],
+    [
+      0.082318,
+      "\u0008\u001b[0m\u001b[32mv\u001b[32mi\u001b[39m"
+    ],
+    [
+      0.090744,
+      "\u0008\u0008\u001b[32mv\u001b[32mi\u001b[32mm\u001b[39m"
+    ],
+    [
+      0.111077,
+      " "
+    ],
+    [
+      0.132324,
+      "\u001b[4m/\u001b[24m"
+    ],
+    [
+      0.100817,
+      "\u0008\u001b[4m/\u001b[4mt\u001b[24m"
+    ],
+    [
+      0.119222,
+      "\u0008\u001b[4mt\u001b[4mm\u001b[24m"
+    ],
+    [
+      0.082213,
+      "\u0008\u001b[4mm\u001b[4mp\u001b[1m\u001b[4m/\u001b[0m\u001b[24m"
+    ],
+    [
+      0.168987,
+      "\u0008\u001b[0m\u001b[4m/\u001b[4mt\u001b[24m"
+    ],
+    [
+      0.059664,
+      "\u0008\u001b[4mt\u001b[4me\u001b[24m"
+    ],
+    [
+      0.201771,
+      "\u0008\u001b[4me\u001b[4mst\u001b[24m"
+    ],
+    [
+      0.414382,
+      "\u0008\u001b[4mt\u001b[4m.\u001b[24m"
+    ],
+    [
+      0.215097,
+      "\u0008\u001b[4m.\u001b[4mc\u001b[24m\u001b[1m \u001b[0m"
+    ],
+    [
+      0.381372,
+      "\u0008\u001b[0m \u0008\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000030,
+      "\r\r\n"
+    ],
+    [
+      0.001071,
+      "\u001b]2;vim /tmp/test.c\u0007\u001b]1;vim\u0007"
+    ],
+    [
+      0.056950,
+      "\u001b[?1049h\u001b[?1h\u001b=\u001b[2;1H▽\u001b[6n\u001b[2;1H  \u001b[1;1H"
+    ],
+    [
+      0.000347,
+      "\u001b[1;30r\u001b[?12;25h\u001b[?12l\u001b[?25h\u001b[27m\u001b[m\u001b[H\u001b[2J\u001b[?25l\u001b[29;1H\"/tmp/test.c\""
+    ],
+    [
+      0.000027,
+      " 12L, 297C"
+    ],
+    [
+      0.004677,
+      "\u001b[\u003ec"
+    ],
+    [
+      0.001604,
+      "\u001b[1;1H\u001b[1m /t/test.c \u001b[m\u001b[7m                                                                      \u001b[m\u001b[2;1H\u001b[33m  1 \u001b[m\u001b[35m#include \u001b[m\u001b[33m\u003cstdio.h\u003e\r\n  2 \u001b[m\u001b[35m#include \u001b[m\u001b[33m\u003cstdlib.h\u003e\r\n  3 \u001b[m\u001b[35m#include \u001b[m\u001b[33m\u003cstring.h\u003e\r\n  4 \r\n  5 \u001b[m\u001b[32mint\u001b[m main(){\r\n\u001b[33m  6 \u001b[m    \u001b[32mchar\u001b[m *buffer = (\u001b[32mchar\u001b[m *)malloc(\u001b[33m0x1337\u001b[m);\r\n\u001b[33m  7 \u001b[m    strcpy(buffer, \u001b[33m\"AAAAAAAAAAAAAAAAAaaaaaaaaaaaaai do not think you will     \u001b[9;1H    find me on the heap, ha ha ha ha ha\"\u001b[m);\r\n\u001b[1m\u001b[33m  8 \u001b[m\u001b[4m    printf(\u001b[m\u001b[4m\u001b[33m\"Buffer: \u001b[m\u001b[4m\u001b[35m%s\u001b[m\u001b[4m\u001b[33m\"\u001b[m\u001b[4m, buffer);                                            \u001b[m\u001b[11;1H\u001b[33m  9 \r\n 10 \u001b[m    free(buffer);\r\n\u001b[33m 11 \u001b[m    \u001b[33mreturn\u001b[m \u001b[33m1\u001b[m;\r\n\u001b[33m 12 \u001b[m}\r\n\u001b[34m~                                                                                \u001b[16;1H~                                                                                \u001b[17;1H~                                                                                \u001b[18;1H~                                                                                \u001b[19;1H~                                                                                \u001b[20;1H~                                                                                \u001b[21;1H~                                                                                \u001b[22;1H~                                                                                \u001b[23;1H~                                                                                \u001b[24;1H~                                                                                \u001b[25;1H~                                                                                \u001b[26;1H~                                                                                \u001b[27;1H~                                                                                "
+    ],
+    [
+      0.000014,
+      "\u001b[m\u001b[28;1H\u001b[1m\u001b[7m /tmp/test.c   CWD: /home/chief/dev/ihv   Line: 8                                "
+    ],
+    [
+      0.000290,
+      "\u001b]2;test.c (/tmp) - VIM\u0007"
+    ],
+    [
+      0.000148,
+      "\u001b]1;test.c\u0007"
+    ],
+    [
+      0.000073,
+      "\u001b[10;29H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.004167,
+      "\u001bP+q436f\u001b\\\u001bP+q6b75\u001b\\\u001bP+q6b64\u001b\\\u001bP+q6b72\u001b\\\u001bP+q6b6c\u001b\\\u001bP+q2332\u001b\\\u001bP+q2334\u001b\\\u001bP+q2569\u001b\\\u001bP+q2a37\u001b\\\u001bP+q6b31\u001b\\"
+    ],
+    [
+      2.000000,
+      "\u001b[?25l\u001b[m\u001b[8;1H\u001b[1m\u001b[33m  7 \u001b[m\u001b[4m    strcpy(buffer, \u001b[m\u001b[4m\u001b[33m\"AAAAAAAAAAAAAAAAAaaaaaaaaaaaaai do not think you will \u001b[m\u001b[4m    \u001b[m\u001b[9;1H\u001b[1m\u001b[33m    \u001b[m\u001b[4m\u001b[33mfind me on the heap, ha ha ha ha ha\"\u001b[m\u001b[4m);                                       \u001b[m\u001b[10;1H\u001b[33m  8 \u001b[m    printf(\u001b[33m\"Buffer: \u001b[m\u001b[35m%s\u001b[m\u001b[33m\"\u001b[m, buffer);\u001b[10;38H\u001b[K\u001b[28;49H\u001b[1m\u001b[7m7 \u001b[8;29H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.123494,
+      "\u001b[9;42H"
+    ],
+    [
+      2.000000,
+      "\u001b[?25l\u001b[m\u001b[8;1H\u001b[33m  7 \u001b[m    strcpy(buffer, \u001b[33m\"AAAAAAAAAAAAAAAAAaaaaaaaaaaaaai do not think you will     \u001b[9;1H    find me on the heap, ha ha ha ha ha\"\u001b[m);\u001b[9;43H\u001b[K\u001b[10;1H\u001b[1m\u001b[33m  8 \u001b[m\u001b[4m    printf(\u001b[m\u001b[4m\u001b[33m\"Buffer: \u001b[m\u001b[4m\u001b[35m%s\u001b[m\u001b[4m\u001b[33m\"\u001b[m\u001b[4m, buffer);                                            \u001b[m\u001b[28;49H\u001b[1m\u001b[7m8 \u001b[10;37H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.660061,
+      "\u001b[?25l\u001b[m\r\u001b[33m  8 \u001b[m    printf(\u001b[33m\"Buffer: \u001b[m\u001b[35m%s\u001b[m\u001b[33m\"\u001b[m, buffer);\u001b[10;38H\u001b[K\u001b[11;1H\u001b[1m\u001b[33m  9 \u001b[m\u001b[4m                                                                             \u001b[m\u001b[28;49H\u001b[1m\u001b[7m9 \u001b[11;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.040023,
+      "\u001b[?25l\u001b[m\r\u001b[33m  9 \u001b[m\u001b[11;5H\u001b[K\u001b[12;1H\u001b[1m\u001b[33m 10 \u001b[m\u001b[4m    free(buffer);                                                            \u001b[m\u001b[28;49H\u001b[1m\u001b[7m10\u001b[12;21H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.039808,
+      "\u001b[?25l\u001b[m\r\u001b[33m 10 \u001b[m    free(buffer);\u001b[12;22H\u001b[K\u001b[13;1H\u001b[1m\u001b[33m 11 \u001b[m\u001b[4m    \u001b[m\u001b[4m\u001b[33mreturn\u001b[m\u001b[4m \u001b[m\u001b[4m\u001b[33m1\u001b[m\u001b[4m;                                                                "
+    ],
+    [
+      0.000029,
+      "\u001b[m\u001b[28;50H\u001b[1m\u001b[7m1 "
+    ],
+    [
+      0.000019,
+      "\u001b[13;17H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.040997,
+      "\u001b[?25l\u001b[m\u001b[6;15H\u001b[46m{\u001b[m\u001b[13;1H\u001b[33m 11 \u001b[m    \u001b[33mreturn\u001b[m \u001b[33m1\u001b[m;\u001b[13;18H\u001b[K\u001b[14;1H\u001b[1m\u001b[33m 12 \u001b[m\u001b[46m}\u001b[m\u001b[4m                                                                            "
+    ],
+    [
+      0.000084,
+      "\u001b[m\u001b[28;50H\u001b[1m\u001b[7m2 "
+    ],
+    [
+      0.000006,
+      "\u001b[14;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.037854,
+      "\u0007"
+    ],
+    [
+      0.039816,
+      "\u0007"
+    ],
+    [
+      0.040384,
+      "\u0007"
+    ],
+    [
+      0.039237,
+      "\u0007"
+    ],
+    [
+      0.702850,
+      "\u001b[?25l\u001b[m\u001b[29;1H\u001b[K\u001b[29;1H:\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.301067,
+      "q\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.248373,
+      "\r\u001b[?25l\r\n"
+    ],
+    [
+      0.001738,
+      "\u001b]2;Terminal - vim /tmp/test.c\u0007\u001b]1;Terminal - vim /tmp/test.c\u0007\u001b[29;1H\u001b[K\u001b[30;1H\u001b[?1l\u001b\u003e\u001b[?12l\u001b[?25h\u001b[?1049l"
+    ],
+    [
+      0.000673,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                \r \r\u001b]2;chief@nightstalker: ~/dev/ihv\u0007\u001b]1;~/dev/ihv\u0007"
+    ],
+    [
+      0.014418,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J[\u001b[01;33mλ\u001b[00m::\u001b[36mnightstalker\u001b[00m::\u001b[22;33m~/dev/ihv\u001b[00m]# "
+    ],
+    [
+      0.000011,
+      "\u001b[K\u001b[39C \u003c\u001b[32mmaster\u001b[33m*\u001b[00m\u001b[00m\u003e \u001b[50D"
+    ],
+    [
+      0.000045,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.939883,
+      "\u001b[4m/\u001b[24m"
+    ],
+    [
+      0.085786,
+      "\u0008\u001b[4m/\u001b[4mt\u001b[24m"
+    ],
+    [
+      0.105080,
+      "\u0008\u0008\u001b[4m/\u001b[4mt\u001b[4mm\u001b[24m"
+    ],
+    [
+      0.099492,
+      "\u0008\u001b[4mm\u001b[4mp\u001b[1m\u001b[4m/\u001b[0m\u001b[24m"
+    ],
+    [
+      0.131561,
+      "\u0008\u001b[0m\u001b[4m/\u001b[4mt\u001b[24m"
+    ],
+    [
+      0.054858,
+      "\u0008\u001b[4mt\u001b[4me\u001b[24m"
+    ],
+    [
+      0.187779,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[24m\u001b[32m/\u001b[24m\u001b[32mt\u001b[24m\u001b[32mm\u001b[24m\u001b[32mp\u001b[24m\u001b[32m/\u001b[24m\u001b[32mt\u001b[24m\u001b[32me\u001b[32mst\u001b[39m\u001b[1m \u001b[0m"
+    ],
+    [
+      0.373381,
+      "\u0008\u001b[0m \u0008\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000024,
+      "\r\r\n"
+    ],
+    [
+      0.000897,
+      "\u001b]2;/tmp/test\u0007\u001b]1;/tmp/test\u0007"
+    ],
+    [
+      0.001160,
+      "Buffer: AAAAAAAAAAAAAAAAAaaaaaaaaaaaaai do not think you will find me on the heap, ha ha ha ha ha"
+    ],
+    [
+      0.000133,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                \r \r"
+    ],
+    [
+      0.000124,
+      "\u001b]2;chief@nightstalker: ~/dev/ihv\u0007\u001b]1;~/dev/ihv\u0007"
+    ],
+    [
+      0.014369,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J[\u001b[01;33m\u001b[31mλ\u001b[00m::\u001b[36mnightstalker\u001b[00m::\u001b[22;33m~/dev/ihv\u001b[00m]# "
+    ],
+    [
+      0.000008,
+      "\u001b[K\u001b[36C\u001b[31m1 ↵\u001b[00m \u003c\u001b[32mmaster\u001b[33m*\u001b[00m\u001b[00m\u003e \u001b[50D"
+    ],
+    [
+      0.000091,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.663235,
+      "\u001b[1m\u001b[31mc\u001b[0m\u001b[39m"
+    ],
+    [
+      0.109868,
+      "\u0008\u001b[1m\u001b[31mc\u001b[1m\u001b[31ml\u001b[0m\u001b[39m"
+    ],
+    [
+      0.079806,
+      "\u0008\u0008\u001b[1m\u001b[31mc\u001b[1m\u001b[31ml\u001b[1m\u001b[31me\u001b[0m\u001b[39m"
+    ],
+    [
+      0.110247,
+      "\u0008\u001b[1m\u001b[31me\u001b[1m\u001b[31ma\u001b[0m\u001b[39m"
+    ],
+    [
+      0.104940,
+      "\u0008\u0008\u0008\u0008\u001b[0m\u001b[32mc\u001b[0m\u001b[32ml\u001b[0m\u001b[32me\u001b[0m\u001b[32ma\u001b[32mr\u001b[39m"
+    ],
+    [
+      0.760374,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b]2;clear\u0007\u001b]1;clear\u0007"
+    ],
+    [
+      0.001199,
+      "\u001b[H\u001b[2J"
+    ],
+    [
+      0.000571,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                \r \r\u001b]2;chief@nightstalker: ~/dev/ihv\u0007\u001b]1;~/dev/ihv\u0007"
+    ],
+    [
+      0.014285,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J[\u001b[01;33mλ\u001b[00m::\u001b[36mnightstalker\u001b[00m::\u001b[22;33m~/dev/ihv\u001b[00m]# \u001b[K\u001b[39C \u003c\u001b[32mmaster\u001b[33m*\u001b[00m\u001b[00m\u003e \u001b[50D"
+    ],
+    [
+      0.000046,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.363512,
+      "\r\r\nbck-i-search: _\u001b[K\u001b[A\u001b[15C"
+    ],
+    [
+      0.285989,
+      "/t\u001b[4mm\u001b[24mp/test\u001b[1B\u001b[25Dm_\u001b[A\u001b[16C"
+    ],
+    [
+      0.059910,
+      "\u0008\u0008\u001b[4mm\u001b[4my\u001b[24m\u001b[24msql -u root -p ihv\u001b[1B\u001b[35Dy_\u001b[A\u001b[13C"
+    ],
+    [
+      0.174934,
+      "\u001b[4mm\u001b[4my\u001b[4ms\u001b[24m\u001b[1B\u001b[17Ds_\u001b[A\u001b[12C"
+    ],
+    [
+      0.096051,
+      "\u001b[2C\u001b[4ms\u001b[4mq\u001b[24m\u001b[1B\u001b[17Dq_\u001b[A\u001b[11C"
+    ],
+    [
+      0.340160,
+      "\u001b[20C \u003c db_schema.sql \u001b[37D"
+    ],
+    [
+      0.661361,
+      "\u001b[24m\u001b[32mm\u001b[24m\u001b[32my\u001b[24m\u001b[32ms\u001b[24m\u001b[32mq\u001b[32ml\u001b[39m\u001b[18C\u001b[4md\u001b[4mb\u001b[4m_\u001b[4ms\u001b[4mc\u001b[4mh\u001b[4me\u001b[4mm\u001b[4ma\u001b[4m.\u001b[4ms\u001b[4mq\u001b[4ml\u001b[24m\u001b[1B\r\u001b[K\u001b[A\u001b[30C"
+    ],
+    [
+      0.000012,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000093,
+      "\u001b[1B\r"
+    ],
+    [
+      0.000889,
+      "\u001b]2;mysql -u root -p ihv \u003c db_schema.sql\u0007\u001b]1;mysql\u0007"
+    ],
+    [
+      0.003224,
+      "Enter password: "
+    ],
+    [
+      0.935247,
+      "\r\n"
+    ],
+    [
+      2.000000,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                \r \r\u001b]2;chief@nightstalker: ~/dev/ihv\u0007\u001b]1;~/dev/ihv\u0007"
+    ],
+    [
+      0.014525,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J[\u001b[01;33mλ\u001b[00m::\u001b[36mnightstalker\u001b[00m::\u001b[22;33m~/dev/ihv\u001b[00m]# \u001b[K\u001b[39C \u003c\u001b[32mmaster\u001b[33m*\u001b[00m\u001b[00m\u003e \u001b[50D"
+    ],
+    [
+      0.000039,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.385473,
+      "\u001b[36m#\u001b[39m"
+    ],
+    [
+      0.113592,
+      "\u0008\u001b[36m#\u001b[36m \u001b[39m"
+    ],
+    [
+      0.185026,
+      "\u0008\u0008\u001b[36m#\u001b[36m \u001b[36mI\u001b[39m"
+    ],
+    [
+      0.126257,
+      "\u0008\u001b[36mI\u001b[36mn\u001b[39m"
+    ],
+    [
+      0.100075,
+      "\u0008\u001b[36mn\u001b[36mi\u001b[39m"
+    ],
+    [
+      0.099774,
+      "\u0008\u001b[36mi\u001b[36mt\u001b[39m"
+    ],
+    [
+      0.089962,
+      "\u0008\u001b[36mt\u001b[36m \u001b[39m"
+    ],
+    [
+      0.286353,
+      "\u0008\u001b[36m \u001b[36mD\u001b[39m"
+    ],
+    [
+      0.216031,
+      "\u0008\u001b[36mD\u001b[36mB\u001b[39m"
+    ],
+    [
+      0.224160,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                \r \r\u001b]2;chief@nightstalker: ~/dev/ihv\u0007\u001b]1;~/dev/ihv\u0007"
+    ],
+    [
+      0.014454,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J[\u001b[01;33mλ\u001b[00m::\u001b[36mnightstalker\u001b[00m::\u001b[22;33m~/dev/ihv\u001b[00m]# \u001b[K\u001b[39C \u003c\u001b[32mmaster\u001b[33m*\u001b[00m\u001b[00m\u003e \u001b[50D"
+    ],
+    [
+      0.000056,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.109980,
+      "\u001b[1m\u001b[31mc\u001b[0m\u001b[39m"
+    ],
+    [
+      0.129971,
+      "\u0008\u001b[1m\u001b[31mc\u001b[1m\u001b[31ml\u001b[0m\u001b[39m"
+    ],
+    [
+      0.049756,
+      "\u0008\u0008\u001b[1m\u001b[31mc\u001b[1m\u001b[31ml\u001b[1m\u001b[31me\u001b[0m\u001b[39m"
+    ],
+    [
+      0.145985,
+      "\u0008\u001b[1m\u001b[31me\u001b[1m\u001b[31ma\u001b[0m\u001b[39m"
+    ],
+    [
+      0.123974,
+      "\u0008\u0008\u0008\u0008\u001b[0m\u001b[32mc\u001b[0m\u001b[32ml\u001b[0m\u001b[32me\u001b[0m\u001b[32ma\u001b[32mr\u001b[39m"
+    ],
+    [
+      0.946605,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b]2;clear\u0007\u001b]1;clear\u0007"
+    ],
+    [
+      0.001163,
+      "\u001b[H\u001b[2J"
+    ],
+    [
+      0.000574,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                \r \r\u001b]2;chief@nightstalker: ~/dev/ihv\u0007\u001b]1;~/dev/ihv\u0007"
+    ],
+    [
+      0.014004,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J[\u001b[01;33mλ\u001b[00m::\u001b[36mnightstalker\u001b[00m::\u001b[22;33m~/dev/ihv\u001b[00m]# \u001b[K\u001b[39C \u003c\u001b[32mmaster\u001b[33m*\u001b[00m\u001b[00m\u003e \u001b[50D"
+    ],
+    [
+      0.000049,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.426768,
+      "\r\r\nbck-i-search: _\u001b[K\u001b[A\u001b[15C"
+    ],
+    [
+      1.333103,
+      "mysql -u root -\u001b[4mp\u001b[24m ihv \u003c db_schema.sql \u001b[1B\u001b[53Dp_\u001b[A\u001b[29C"
+    ],
+    [
+      0.204848,
+      "\u001b[15Dsudo ../pintool\u001b[24m/\u001b[4mp\u001b[4mi\u001b[24mn -t obj-intel64/ihv.so -- /tmp/test\u001b[K\r\r\nbck-i-search: pi_\u001b[K\u001b[A\u001b[A\u001b[29C"
+    ],
+    [
+      0.099955,
+      "\u001b[1C\u001b[4mi\u001b[4mn\u001b[24m\u001b[2B\u001b[33Dn_\u001b[A\u001b[A\u001b[28C"
+    ],
+    [
+      0.180960,
+      "\u001b[2C\u001b[4mn\u001b[4m \u001b[24m\u001b[2B\u001b[33D _\u001b[A\u001b[A\u001b[27C"
+    ],
+    [
+      1.624083,
+      "\u001b[16D\u001b[4m\u001b[32ms\u001b[4m\u001b[32mu\u001b[4m\u001b[32md\u001b[4m\u001b[32mo\u001b[24m\u001b[39m \u001b[32m.\u001b[32m.\u001b[32m/\u001b[32mp\u001b[32mi\u001b[32mn\u001b[32mt\u001b[32mo\u001b[32mo\u001b[32ml\u001b[32m/\u001b[24m\u001b[32mp\u001b[24m\u001b[32mi\u001b[24m\u001b[32mn\u001b[39m\u001b[24m \u001b[3C\u001b[4mo\u001b[4mb\u001b[4mj\u001b[4m-\u001b[4mi\u001b[4mn\u001b[4mt\u001b[4me\u001b[4ml\u001b[4m6\u001b[4m4\u001b[4m/\u001b[4mi\u001b[4mh\u001b[4mv\u001b[4m.\u001b[4ms\u001b[4mo\u001b[24m\u001b[4C\u001b[4m/\u001b[4mt\u001b[4mm\u001b[4mp\u001b[4m/\u001b[4mt\u001b[4me\u001b[4ms\u001b[4mt\u001b[24m\u001b[1B\r\u001b[K\u001b[A\u001b[A\u001b[46C"
+    ],
+    [
+      0.000015,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000037,
+      "\u001b[2B\r"
+    ],
+    [
+      0.000849,
+      "\u001b]2;sudo ../pintool/pin -t obj-intel64/ihv.so -- /tmp/test\u0007"
+    ],
+    [
+      0.000006,
+      "\u001b]1;../pintool/pin\u0007"
+    ],
+    [
+      0.008711,
+      "[sudo] Passwort für chief: "
+    ],
+    [
+      2.000000,
+      "\r\n"
+    ],
+    [
+      0.208810,
+      "malloc(0x591) = 0x7f7cd9fc8130\r\n"
+    ],
+    [
+      0.125262,
+      "calloc(0x591, 0x1) = 0x7f7cd9fc8130\r\n"
+    ],
+    [
+      0.150277,
+      "malloc(0x491) = 0x7f7cd9fc86c8\r\n"
+    ],
+    [
+      0.127548,
+      "calloc(0x491, 0x1) = 0x7f7cd9fc86c8\r\n"
+    ],
+    [
+      0.167098,
+      "malloc(0x10) = 0x7f7cd9fc8b60\r\n"
+    ],
+    [
+      0.141894,
+      "malloc(0x4b) = 0x7f7cd9fc8b70\r\n"
+    ],
+    [
+      0.133631,
+      "malloc(0x10) = 0x7f7cd9fc8bc0\r\n"
+    ],
+    [
+      0.125208,
+      "malloc(0x320) = 0x7f7cd9fc8bd0\r\n"
+    ],
+    [
+      0.007777,
+      "writing: 0x600920 \u003c- 0x00\r\nwriting: 0x600921 \u003c- 0x00\r\nwriting: 0x600922 \u003c- 0x00\r\nwriting: 0x600923 \u003c- 0x00\r\nwriting: 0x600924 \u003c- 0x00\r\nwriting: 0x600925 \u003c- 0x00\r\nwriting: 0x600926 \u003c- 0x00\r\n"
+    ],
+    [
+      0.000006,
+      "writing: 0x600927 \u003c- 0x00\r\n"
+    ],
+    [
+      0.912515,
+      "malloc(0x13) = 0x7f7cd9fc8ef0\r\n"
+    ],
+    [
+      0.131255,
+      "malloc(0x49a) = 0x7f7cc51c6000\r\n"
+    ],
+    [
+      0.126905,
+      "calloc(0x49a, 0x1) = 0x7f7cc51c6000\r\n"
+    ],
+    [
+      0.135193,
+      "malloc(0x13) = 0x7f7cc51c64a0\r\n"
+    ],
+    [
+      0.147023,
+      "malloc(0x28) = 0x7f7cc51c64b8\r\n"
+    ],
+    [
+      0.125192,
+      "malloc(0x38) = 0x7f7cc51c64e0\r\n"
+    ],
+    [
+      0.142024,
+      "malloc(0x48) = 0x7f7cc51c6518\r\n"
+    ],
+    [
+      0.138511,
+      "calloc(0x3, 0x18) = 0x7f7cc51c6518\r\n"
+    ],
+    [
+      0.287840,
+      "malloc(0x48) = 0x7f7cc51c6560\r\n"
+    ],
+    [
+      0.265381,
+      "calloc(0x3, 0x18) = 0x7f7cc51c6560\r\n"
+    ],
+    [
+      0.136053,
+      "malloc(0x270) = 0x7f7cc51c65a8\r\n"
+    ],
+    [
+      0.126405,
+      "calloc(0x1a, 0x18) = 0x7f7cc51c65a8\r\n"
+    ],
+    [
+      0.124091,
+      "malloc(0x90) = 0x7f7cc51c6818\r\n"
+    ],
+    [
+      0.127609,
+      "calloc(0x6, 0x18) = 0x7f7cc51c6818\r\n"
+    ],
+    [
+      0.123026,
+      "malloc(0x410) = 0x7f7cc51c68a8\r\n"
+    ],
+    [
+      0.159506,
+      "calloc(0x410, 0x1) = 0x7f7cc51c68a8\r\n"
+    ],
+    [
+      0.149330,
+      "malloc(0x110) = 0x7f7cc4dc8000\r\n"
+    ],
+    [
+      0.161360,
+      "calloc(0x11, 0x10) = 0x7f7cc4dc8000\r\n"
+    ],
+    [
+      0.049575,
+      "writing: 0x600a38 \u003c- 0x00\r\nwriting: 0x600a39 \u003c- 0x00\r\nwriting: 0x600a3a \u003c- 0x00\r\nwriting: 0x600a3b \u003c- 0x00\r\nwriting: 0x600a3c \u003c- 0x00\r\nwriting: 0x600a3d \u003c- 0x00\r\nwriting: 0x600a3e \u003c- 0x00\r\nwriting: 0x600a3f \u003c- 0x00\r\n"
+    ],
+    [
+      0.000709,
+      "writing: 0x600a40 \u003c- 0x00\r\nwriting: 0x600a41 \u003c- 0x00\r\nwriting: 0x600a42 \u003c- 0x00\r\nwriting: 0x600a43 \u003c- 0x00\r\nwriting: 0x600a44 \u003c- 0x00\r\nwriting: 0x600a45 \u003c- 0x00\r\nwriting: 0x600a46 \u003c- 0x00\r\nwriting: 0x600a47 \u003c- 0x00\r\n"
+    ],
+    [
+      0.001475,
+      "writing: 0x600a28 \u003c- 0x00\r\nwriting: 0x600a29 \u003c- 0x00\r\nwriting: 0x600a2a \u003c- 0x00\r\nwriting: 0x600a2b \u003c- 0x00\r\nwriting: 0x600a2c \u003c- 0x00\r\nwriting: 0x600a2d \u003c- 0x00\r\nwriting: 0x600a2e \u003c- 0x00\r\nwriting: 0x600a2f \u003c- 0x00\r\n"
+    ],
+    [
+      0.000630,
+      "writing: 0x600a48 \u003c- 0x56\r\nwriting: 0x600a49 \u003c- 0x04\r\nwriting: 0x600a4a \u003c- 0x40\r\nwriting: 0x600a4b \u003c- 0x00\r\nwriting: 0x600a4c \u003c- 0x00\r\nwriting: 0x600a4d \u003c- 0x00\r\nwriting: 0x600a4e \u003c- 0x00\r\nwriting: 0x600a4f \u003c- 0x00\r\n"
+    ],
+    [
+      0.000103,
+      "writing: 0x600a50 \u003c- 0x66\r\nwriting: 0x600a51 \u003c- 0x04\r\nwriting: 0x600a52 \u003c- 0x40\r\nwriting: 0x600a53 \u003c- 0x00\r\nwriting: 0x600a54 \u003c- 0x00\r\nwriting: 0x600a55 \u003c- 0x00\r\nwriting: 0x600a56 \u003c- 0x00\r\nwriting: 0x600a57 \u003c- 0x00\r\n"
+    ],
+    [
+      0.000006,
+      "writing: 0x600a58 \u003c- 0x76\r\nwriting: 0x600a59 \u003c- 0x04\r\nwriting: 0x600a5a \u003c- 0x40\r\nwriting: 0x600a5b \u003c- 0x00\r\nwriting: 0x600a5c \u003c- 0x00\r\n"
+    ],
+    [
+      0.000003,
+      "writing: 0x600a5d \u003c- 0x00\r\n"
+    ],
+    [
+      0.000003,
+      "writing: 0x600a5e \u003c- 0x00\r\n"
+    ],
+    [
+      0.000002,
+      "writing: 0x600a5f \u003c- 0x00\r\n"
+    ],
+    [
+      0.000020,
+      "writing: 0x600a60 \u003c- 0x86\r\n"
+    ],
+    [
+      0.000006,
+      "writing: 0x600a61 \u003c- 0x04\r\nwriting: 0x600a62 \u003c- 0x40\r\nwriting: 0x600a63 \u003c- 0x00\r\nwriting: 0x600a64 \u003c- 0x00\r\n"
+    ],
+    [
+      0.000003,
+      "writing: 0x600a65 \u003c- 0x00\r\n"
+    ],
+    [
+      0.000002,
+      "writing: 0x600a66 \u003c- 0x00\r\n"
+    ],
+    [
+      0.000009,
+      "writing: 0x600a67 \u003c- 0x00\r\nwriting: 0x600a68 \u003c- 0x96\r\n"
+    ],
+    [
+      0.000003,
+      "writing: 0x600a69 \u003c- 0x04\r\n"
+    ],
+    [
+      0.000002,
+      "writing: 0x600a6a \u003c- 0x40\r\n"
+    ],
+    [
+      0.000012,
+      "writing: 0x600a6b \u003c- 0x00\r\n"
+    ],
+    [
+      0.000004,
+      "writing: 0x600a6c \u003c- 0x00\r\nwriting: 0x600a6d \u003c- 0x00\r\n"
+    ],
+    [
+      0.000002,
+      "writing: 0x600a6e \u003c- 0x00\r\n"
+    ],
+    [
+      0.000002,
+      "writing: 0x600a6f \u003c- 0x00\r\n"
+    ],
+    [
+      2.000000,
+      "writing: 0x600a58 \u003c- 0x76\r\nwriting: 0x600a59 \u003c- 0x04\r\nwriting: 0x600a5a \u003c- 0x40\r\nwriting: 0x600a5b \u003c- 0x00\r\nwriting: 0x600a5c \u003c- 0x00\r\nwriting: 0x600a5d \u003c- 0x00\r\nwriting: 0x600a5e \u003c- 0x00\r\nwriting: 0x600a5f \u003c- 0x00\r\n"
+    ],
+    [
+      0.003232,
+      "writing: 0x600a68 \u003c- 0x96\r\n"
+    ],
+    [
+      0.000007,
+      "writing: 0x600a69 \u003c- 0x04\r\nwriting: 0x600a6a \u003c- 0x40\r\nwriting: 0x600a6b \u003c- 0x00\r\n"
+    ],
+    [
+      0.000003,
+      "writing: 0x600a6c \u003c- 0x00\r\n"
+    ],
+    [
+      0.000013,
+      "writing: 0x600a6d \u003c- 0x00\r\n"
+    ],
+    [
+      0.000003,
+      "writing: 0x600a6e \u003c- 0x00\r\n"
+    ],
+    [
+      0.000003,
+      "writing: 0x600a6f \u003c- 0x00\r\n"
+    ],
+    [
+      1.197722,
+      "writing: 0xcb6008 \u003c- 0x00\r\nwriting: 0xcb6009 \u003c- 0x00\r\nwriting: 0xcb600a \u003c- 0x00\r\nwriting: 0xcb600b \u003c- 0x00\r\nwriting: 0xcb600c \u003c- 0x00\r\nwriting: 0xcb600d \u003c- 0x00\r\nwriting: 0xcb600e \u003c- 0x00\r\n"
+    ],
+    [
+      0.000008,
+      "writing: 0xcb600f \u003c- 0x00\r\n"
+    ],
+    [
+      0.500229,
+      "writing: 0xcb6008 \u003c- 0x01\r\n"
+    ],
+    [
+      0.000009,
+      "writing: 0xcb6009 \u003c- 0x20\r\nwriting: 0xcb600a \u003c- 0x02\r\nwriting: 0xcb600b \u003c- 0x00\r\nwriting: 0xcb600c \u003c- 0x00\r\nwriting: 0xcb600d \u003c- 0x00\r\n"
+    ],
+    [
+      0.000005,
+      "writing: 0xcb600e \u003c- 0x00\r\nwriting: 0xcb600f \u003c- 0x00\r\n"
+    ],
+    [
+      0.000075,
+      "writing: 0xcb7348 \u003c- 0x00\r\nwriting: 0xcb7349 \u003c- 0x00\r\nwriting: 0xcb734a \u003c- 0x00\r\nwriting: 0xcb734b \u003c- 0x00\r\nwriting: 0xcb734c \u003c- 0x00\r\nwriting: 0xcb734d \u003c- 0x00\r\nwriting: 0xcb734e \u003c- 0x00\r\nwriting: 0xcb734f \u003c- 0x00\r\n"
+    ],
+    [
+      0.893737,
+      "malloc(0x1337) = 0xcb6010\r\n"
+    ],
+    [
+      0.138370,
+      "malloc(0x1337) = 0xcb6010\r\nwriting: 0xcb6010 \u003c- 0x00\r\nwriting: 0xcb6011 \u003c- 0x00\r\nwriting: 0xcb6012 \u003c- 0x00\r\nwriting: 0xcb6013 \u003c- 0x00\r\nwriting: 0xcb6014 \u003c- 0x00\r\nwriting: 0xcb6015 \u003c- 0x00\r\nwriting: 0xcb6016 \u003c- 0x00\r\nwriting: 0xcb6017 \u003c- 0x00\r\nwriting: 0xcb6018 \u003c- 0x00\r\nwriting: 0xcb6019 \u003c- 0x00\r\nwriting: 0xcb601a \u003c- 0x00\r\nwriting: 0xcb601b \u003c- 0x00\r\nwriting: 0xcb601c \u003c- 0x00\r\nwriting: 0xcb601d \u003c- 0x00\r\nwriting: 0xcb601e \u003c- 0x00\r\nwriting: 0xcb601f \u003c- 0x00\r\nwriting: 0xcb6020 \u003c- 0x00\r\nwriting: 0xcb6021 \u003c- 0x00\r\nwriting: 0xcb6022 \u003c- 0x00\r\nwriting: 0xcb6023 \u003c- 0x00\r\nwriting: 0xcb6024 \u003c- 0x00\r\nwriting: 0xcb6025 \u003c- 0x00\r\nwriting: 0xcb6026 \u003c- 0x00\r\nwriting: 0xcb6027 \u003c- 0x00\r\nwriting: 0xcb6028 \u003c- 0x00\r\nwriting: 0xcb6029 \u003c- 0x00\r\nwriting: 0xcb602a \u003c- 0x00\r\nwriting: 0xcb602b \u003c- 0x00\r\nwriting: 0xcb602c \u003c- 0x00\r\nwriting: 0xcb602d \u003c- 0x00\r\nwriting: 0xcb602e \u003c- 0x00\r\nwriting: 0xcb602f \u003c- 0x00\r\nwriting: 0xcb6030 \u003c- 0x00\r\nwriting: 0xcb6031 \u003c- 0x00\r\nwriting: 0xcb6032 \u003c- 0x00\r\nwriting: 0xcb6033 \u003c- 0x00\r\nwriting: 0xcb6034 \u003c- 0x00\r\nwriting: 0xcb6035 \u003c- 0x00\r\nwriting: 0xcb6036 \u003c- 0x00\r\nwriting: 0xcb6037 \u003c- 0x00\r\nwriting: 0xcb6038 \u003c- 0x00\r\nwriting: 0xcb6039 \u003c- 0x00\r\nwriting: 0xcb603a \u003c- 0x00\r\nwriting: 0xcb603b \u003c- 0x00\r\nwriting: 0xcb603c \u003c- 0x00\r\nwriting: 0xcb603d \u003c- 0x00\r\nwriting: 0xcb603e \u003c- 0x00\r\nwriting: 0xcb603f \u003c- 0x00\r\nwriting: 0xcb6040 \u003c- 0x00\r\nwriting: 0xcb6041 \u003c- 0x00\r\nwriting: 0xcb6042 \u003c- 0x00\r\nwriting: 0xcb6043 \u003c- 0x00\r\nwriting: 0xcb6044 \u003c- 0x00\r\nwriting: 0xcb6045 \u003c- 0x00\r\nwriting: 0xcb6046 \u003c- 0x00\r\nwriting: 0xcb6047 \u003c- 0x00\r\nwriting: 0xcb6048 \u003c- 0x00\r\nwriting: 0xcb6049 \u003c- 0x00\r\nwriting: 0xcb604a \u003c- 0x00\r\nwriting: 0xcb604b \u003c- 0x00\r\nwriting: 0xcb604c \u003c- 0x00\r\nwriting: 0xcb604d \u003c- 0x00\r\nwriting: 0xcb604e \u003c- 0x00\r\nwriting: 0xcb604f \u003c- 0x00\r\nwriting: 0xcb6050 \u003c- 0x00\r\nwriting: 0xcb6051 \u003c- 0x00\r\nwriting: 0xcb6052 \u003c- 0x00\r\nwriting: 0xcb6053 \u003c- 0x00\r\nwriting: 0xcb6054 \u003c- 0x00\r\nwriting: 0xcb6055 \u003c- 0x00\r\nwriting: 0xcb6056 \u003c- 0x00\r\nwriting: 0xcb6057 \u003c- 0x00\r\nwriting: 0xcb6058 \u003c- 0x00\r\nwriting: 0xcb6059 \u003c- 0x00\r\nwriting: 0xcb605a \u003c- 0x00\r\nwriting: 0xcb605b \u003c- 0x00\r\nwriting: 0xcb605c \u003c- 0x00\r\nwriting: 0xcb605d \u003c- 0x00\r\nwriting: 0xcb605e \u003c- 0x00\r\nwriting: 0xcb605f \u003c- 0x00\r\nwriting: 0xcb6060 \u003c- 0x00\r\nwriting: 0xcb6061 \u003c- 0x00\r\nwriting: 0xcb6062 \u003c- 0x00\r\nwriting: 0xcb6063 \u003c- 0x00\r\nwriting: 0xcb6064 \u003c- 0x00\r\nwriting: 0xcb6065 \u003c- 0x00\r\nwriting: 0xcb6066 \u003c- 0x00\r\nwriting: 0xcb6067 \u003c- 0x00\r\nwriting: 0xcb6068 \u003c- 0x00\r\nwriting: 0xcb6069 \u003c- 0x00\r\nwriting: 0x600a50 \u003c- 0x66\r\nwriting: 0x600a51 \u003c- 0x04\r\nwriting: 0x600a52 \u003c- 0x40\r\nwriting: 0x600a53 \u003c- 0x00\r\nwriting: 0x600a54 \u003c- 0x00\r\nwriting: 0x600a55 \u003c- 0x00\r\nwriting: 0x600a56 \u003c- 0x00\r\nwriting: 0x600a57 \u003c- 0x00\r\n"
+    ],
+    [
+      0.033357,
+      "writing: 0x600a48 \u003c- 0x56\r\nwriting: 0x600a49 \u003c- 0x04\r\nwriting: 0x600a4a \u003c- 0x40\r\nwriting: 0x600a4b \u003c- 0x00\r\nwriting: 0x600a4c \u003c- 0x00\r\nwriting: 0x600a4d \u003c- 0x00\r\nwriting: 0x600a4e \u003c- 0x00\r\n"
+    ],
+    [
+      0.000006,
+      "writing: 0x600a4f \u003c- 0x00\r\n"
+    ],
+    [
+      2.000000,
+      "writing: 0xcb6008 \u003c- 0x41\r\nwriting: 0xcb6009 \u003c- 0x13\r\nwriting: 0xcb600a \u003c- 0x00\r\nwriting: 0xcb600b \u003c- 0x00\r\nwriting: 0xcb600c \u003c- 0x00\r\nwriting: 0xcb600d \u003c- 0x00\r\n"
+    ],
+    [
+      0.000009,
+      "writing: 0xcb600e \u003c- 0x00\r\nwriting: 0xcb600f \u003c- 0x00\r\n"
+    ],
+    [
+      0.470682,
+      "writing: 0xcb6008 \u003c- 0x01\r\nwriting: 0xcb6009 \u003c- 0x20\r\nwriting: 0xcb600a \u003c- 0x02\r\nwriting: 0xcb600b \u003c- 0x00\r\nwriting: 0xcb600c \u003c- 0x00\r\nwriting: 0xcb600d \u003c- 0x00\r\nwriting: 0xcb600e \u003c- 0x00\r\nwriting: 0xcb600f \u003c- 0x00\r\n"
+    ],
+    [
+      0.552267,
+      "free(0xcb6010)\r\n"
+    ],
+    [
+      0.005845,
+      "writing: 0x600a80 \u003c- 0x00\r\n"
+    ],
+    [
+      0.011602,
+      "Buffer: AAAAAAAAAAAAAAAAAaaaaaaaaaaaaai do not think you will find me on the heap, ha ha ha ha ha"
+    ],
+    [
+      0.015260,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                \r \r"
+    ],
+    [
+      0.000087,
+      "\u001b]2;chief@nightstalker: ~/dev/ihv\u0007\u001b]1;~/dev/ihv\u0007"
+    ],
+    [
+      0.013784,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J[\u001b[01;33m\u001b[31mλ\u001b[00m::\u001b[36mnightstalker\u001b[00m::\u001b[22;33m~/dev/ihv\u001b[00m]# \u001b[K\u001b[36C\u001b[31m1 ↵\u001b[00m \u003c\u001b[32mmaster\u001b[33m*\u001b[00m\u001b[00m\u003e \u001b[50D"
+    ],
+    [
+      0.000035,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      2.000000,
+      "\r\r\nbck-i-search: _\u001b[K\u001b[A\u001b[15C"
+    ],
+    [
+      0.300973,
+      "sudo ../pintool/pin -t obj-intel64/ihv.so -- /t\u001b[4mm\u001b[24mp/test\u001b[K\r\r\nbck-i-search: m_\u001b[K\u001b[A\u001b[A\u001b[61C"
+    ],
+    [
+      0.054933,
+      "\u001b[47D\u001b[4mm\u001b[4my\u001b[24msql -u root -p ihv \u003c db_schema.sql\u001b[K\u001b[1B\rbck-i-search: my_\u001b[1B\r\u001b[K\u001b[A\u001b[A\u001b[30C"
+    ],
+    [
+      0.269992,
+      "\u001b[4mm\u001b[4my\u001b[4ms\u001b[24m\u001b[1B\u001b[17Ds_\u001b[A\u001b[12C"
+    ],
+    [
+      0.060974,
+      "\u001b[2C\u001b[4ms\u001b[4mq\u001b[24m\u001b[1B\u001b[17Dq_\u001b[A\u001b[11C"
+    ],
+    [
+      0.164925,
+      "\u001b[3C\u001b[4mq\u001b[4ml\u001b[24m\u001b[1B\u001b[17Dl_\u001b[A\u001b[10C"
+    ],
+    [
+      0.476207,
+      "\u001b[21C\u001b[K\u001b[15C\u001b[31m1 ↵\u001b[00m \u003c\u001b[32mmaster\u001b[33m*\u001b[00m\u001b[00m\u003e \u001b[50D"
+    ],
+    [
+      0.540109,
+      "\u001b[24m\u001b[32mm\u001b[24m\u001b[32my\u001b[24m\u001b[32ms\u001b[24m\u001b[32mq\u001b[24m\u001b[32ml\u001b[39m\u001b[1B\r\u001b[K\u001b[A\u001b[30C"
+    ],
+    [
+      0.000008,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000025,
+      "\u001b[1B\r"
+    ],
+    [
+      0.000872,
+      "\u001b]2;mysql -u root -p ihv\u0007\u001b]1;mysql\u0007"
+    ],
+    [
+      0.003387,
+      "Enter password: "
+    ],
+    [
+      1.562359,
+      "\r\n"
+    ],
+    [
+      0.002578,
+      "\u001b(B\u001b[0;1mWelcome to the MariaDB monitor.  Commands end with ; or \\g.\r\n"
+    ],
+    [
+      0.003489,
+      "\u001b(B\u001b[m\u001b(B\u001b[0;1mYour MariaDB connection id is 22\r\nServer version: 10.0.17-MariaDB-log MariaDB Server\r\n\r\n\u001b(B\u001b[m\u001b(B\u001b[0;1mCopyright (c) 2000, 2015, Oracle, MariaDB Corporation Ab and others.\r\n\r\n\u001b(B\u001b[m\u001b(B\u001b[0;1mType 'help;' or '\\h' for help. Type '\\c' to clear the current input statement.\r\n\r\n\u001b(B\u001b[m\u001b[?1034hMariaDB [ihv]\u003e "
+    ],
+    [
+      2.000000,
+      "S"
+    ],
+    [
+      0.195963,
+      "E"
+    ],
+    [
+      0.125002,
+      "L"
+    ],
+    [
+      0.074993,
+      "E"
+    ],
+    [
+      0.169929,
+      "C"
+    ],
+    [
+      0.215987,
+      "T"
+    ],
+    [
+      0.080196,
+      " "
+    ],
+    [
+      0.185882,
+      "*"
+    ],
+    [
+      0.090012,
+      " "
+    ],
+    [
+      0.069972,
+      "F"
+    ],
+    [
+      0.185134,
+      "R"
+    ],
+    [
+      0.091005,
+      "O"
+    ],
+    [
+      0.169933,
+      "M"
+    ],
+    [
+      0.104877,
+      " "
+    ],
+    [
+      0.171038,
+      "b"
+    ],
+    [
+      0.115053,
+      "l"
+    ],
+    [
+      0.551192,
+      "o"
+    ],
+    [
+      0.135809,
+      "c"
+    ],
+    [
+      0.104948,
+      "k"
+    ],
+    [
+      0.240030,
+      " "
+    ],
+    [
+      0.136017,
+      "W"
+    ],
+    [
+      0.130094,
+      "H"
+    ],
+    [
+      0.099878,
+      "E"
+    ],
+    [
+      0.075111,
+      "R"
+    ],
+    [
+      0.150872,
+      "E"
+    ],
+    [
+      0.119972,
+      " "
+    ],
+    [
+      2.000000,
+      "f"
+    ],
+    [
+      0.190947,
+      "r"
+    ],
+    [
+      0.064938,
+      "e"
+    ],
+    [
+      0.169896,
+      "e"
+    ],
+    [
+      0.166067,
+      "_"
+    ],
+    [
+      0.185103,
+      "s"
+    ],
+    [
+      0.089940,
+      "n"
+    ],
+    [
+      0.105951,
+      "a"
+    ],
+    [
+      0.095178,
+      "p"
+    ],
+    [
+      0.134860,
+      "s"
+    ],
+    [
+      0.110016,
+      "h"
+    ],
+    [
+      0.180910,
+      "o"
+    ],
+    [
+      0.175119,
+      "t"
+    ],
+    [
+      0.196025,
+      "_"
+    ],
+    [
+      0.140009,
+      "i"
+    ],
+    [
+      0.115017,
+      "d"
+    ],
+    [
+      0.105022,
+      ";"
+    ],
+    [
+      0.171052,
+      "\r\n"
+    ],
+    [
+      0.000572,
+      "+----------+-------------------+------------------+----------+------+\r\n| block_id | alloc_snapshot_id | free_snapshot_id | address  | size |\r\n+----------+-------------------+------------------+----------+------+\r\n|       27 |                31 |               36 | 13328400 | 4919 |\r\n|       28 |                33 |               36 | 13328400 | 4919 |\r\n+----------+-------------------+------------------+----------+------+\r\n\u001b(B\u001b[0;1m2 rows in set (0.00 sec)\r\n\u001b(B\u001b[m\u001b(B\u001b[0;1m\r\n\u001b(B\u001b[mMariaDB [ihv]\u003e "
+    ],
+    [
+      2.000000,
+      "\r\u001b[7@(reverse-i-search)`':\u001b[C"
+    ],
+    [
+      2.000000,
+      "\r\u001b[7PMariaDB [ihv]\u003e\u001b[C\u0007"
+    ],
+    [
+      2.000000,
+      "SELECT \r\n    -\u003e \u0007HEX(address),\r\n    -\u003e     GROUP_CONCAT(CONVERT(value USING UTF8) SEPARATOR '') as value\r\n    -\u003e FROM memory_write\r\n    -\u003e WHERE address \u003e= 13328400\r\n    -\u003e AND address \u003c 13328400+ 4919\r\n    -\u003e GROUP BY snapshot_id;"
+    ],
+    [
+      1.220203,
+      "\r\n"
+    ],
+    [
+      0.000716,
+      "+--------------+--------------------------------------------------------------------------------------------+\r\n| HEX(address) | value                                                                                      |\r\n+--------------+--------------------------------------------------------------------------------------------+\r\n| CB6010       | AAAAAAAAAAAAAAAAAaaaaaaaaaaaaai do not think you will find me on the heap, ha ha ha ha ha  |\r\n"
+    ],
+    [
+      0.000013,
+      "+--------------+--------------------------------------------------------------------------------------------+\r\n\u001b(B\u001b[0;1m1 row in set (0.01 sec)\r\n\u001b(B\u001b[m\u001b(B\u001b[0;1m\r\n"
+    ],
+    [
+      0.000094,
+      "\u001b(B\u001b[mMariaDB [ihv]\u003e "
+    ],
+    [
+      2.000000,
+      "\u001b(B\u001b[0;1mBye\r\n\u001b(B\u001b[m\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                \r \r"
+    ],
+    [
+      0.000439,
+      "\u001b]2;chief@nightstalker: ~/dev/ihv\u0007\u001b]1;~/dev/ihv\u0007"
+    ],
+    [
+      0.014418,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J[\u001b[01;33mλ\u001b[00m::\u001b[36mnightstalker\u001b[00m::\u001b[22;33m~/dev/ihv\u001b[00m]# \u001b[K\u001b[39C \u003c\u001b[32mmaster\u001b[33m*\u001b[00m\u001b[00m\u003e \u001b[50D"
+    ],
+    [
+      0.000045,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.917212,
+      "\r\r\n"
+    ]
+  ]
+}
