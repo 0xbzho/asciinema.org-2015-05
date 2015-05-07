@@ -1,0 +1,250 @@
+{
+  "version": 1,
+  "width": 202,
+  "height": 57,
+  "duration": 16.506817,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.036755,
+      "\u001b]0;zgrav@s1: ~\u0007zgrav@s1:~$ "
+    ],
+    [
+      2.363948,
+      "w"
+    ],
+    [
+      0.144525,
+      "h"
+    ],
+    [
+      0.099527,
+      "o"
+    ],
+    [
+      0.105069,
+      "a"
+    ],
+    [
+      0.059494,
+      "m"
+    ],
+    [
+      0.169280,
+      "i"
+    ],
+    [
+      0.099699,
+      "\r\n"
+    ],
+    [
+      0.000924,
+      "zgrav\r\n"
+    ],
+    [
+      0.000177,
+      "\u001b]0;zgrav@s1: ~\u0007zgrav@s1:~$ "
+    ],
+    [
+      2.035556,
+      "u"
+    ],
+    [
+      0.159352,
+      "a"
+    ],
+    [
+      0.059826,
+      "n"
+    ],
+    [
+      0.368753,
+      "m"
+    ],
+    [
+      0.080887,
+      "e"
+    ],
+    [
+      0.078488,
+      " "
+    ],
+    [
+      0.120680,
+      "-"
+    ],
+    [
+      0.108370,
+      "a"
+    ],
+    [
+      0.303913,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.544376,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.033374,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.036305,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.033293,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.034073,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.035633,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.033901,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.035821,
+      "\u0007"
+    ],
+    [
+      0.033942,
+      "\u0007"
+    ],
+    [
+      0.035884,
+      "\u0007"
+    ],
+    [
+      0.033858,
+      "\u0007"
+    ],
+    [
+      0.100747,
+      "u"
+    ],
+    [
+      0.194438,
+      "n"
+    ],
+    [
+      0.120685,
+      "a"
+    ],
+    [
+      0.098573,
+      "m"
+    ],
+    [
+      0.060726,
+      "e"
+    ],
+    [
+      0.078502,
+      " "
+    ],
+    [
+      0.101215,
+      "-"
+    ],
+    [
+      0.078153,
+      "a"
+    ],
+    [
+      0.060035,
+      "\r\n"
+    ],
+    [
+      0.000636,
+      "Linux s1 3.13.0-52-generic #85-Ubuntu SMP Wed Apr 29 16:44:17 UTC 2015 x86_64 x86_64 x86_64 GNU/Linux\r\n"
+    ],
+    [
+      0.000156,
+      "\u001b]0;zgrav@s1: ~\u0007zgrav@s1:~$ "
+    ],
+    [
+      1.184674,
+      "h"
+    ],
+    [
+      0.079599,
+      "t"
+    ],
+    [
+      0.002003,
+      "o"
+    ],
+    [
+      0.162378,
+      "p"
+    ],
+    [
+      0.060066,
+      "\r\n"
+    ],
+    [
+      0.001936,
+      "\u001b[?1049h\u001b[1;57r\u001b(B\u001b[m\u001b[4l\u001b[?7h\u001b[?1h\u001b="
+    ],
+    [
+      0.000004,
+      "\u001b[?25l"
+    ],
+    [
+      0.000176,
+      "\u001b[39;49m\u001b[?1000h"
+    ],
+    [
+      0.104640,
+      "\u001b[39;49m\u001b(B\u001b[m\u001b[H\u001b[2J\u001b[2d  \u001b[36m1  \u001b[39m\u001b(B\u001b[0;1m[\u001b[30m\u001b[37X\u001b[2;44H0.0%\u001b[39m]\u001b(B\u001b[m    \u001b[36m7  \u001b[39m\u001b(B\u001b[0;1m[\u001b[30m\u001b[37X\u001b[2;94H0.0%\u001b[39m]\u001b(B\u001b[m     \u001b[36m13 \u001b[39m\u001b(B\u001b[0;1m[\u001b[30m\u001b[37X\u001b[2;145H0.0%\u001b[39m]\u001b(B\u001b[m    \u001b[36m19 \u001b[39m\u001b(B\u001b[0;1m[\u001b[30m\u001b[37X\u001b[195G0.0%\u001b[39m]\u001b[3;3H\u001b(B\u001b[0m\u001b[36m2  \u001b[39m\u001b(B\u001b[0;1m[\u001b[30m\u001b[37X\u001b[3;44H0.0%\u001b[39m]\u001b(B\u001b[m    \u001b[36m8  \u001b[39m\u001b(B\u001b[0;1m[\u001b[30m\u001b[37X\u001b[3;94H0.0%\u001b[39m]\u001b(B\u001b[m     \u001b[36m14 \u001b[39m\u001b(B\u001b[0;1m[\u001b(B\u001b[0m\u001b[31m||||||||||\u001b(B\u001b[0;1m\u001b[30m\u001b[26X\u001b[3;144H22.2%\u001b[39m]\u001b(B\u001b[m    \u001b[36m20 \u001b[39m\u001b(B\u001b[0;1m[\u001b[30m\u001b[37X\u001b[195G0.0%\u001b[39m]\u001b[4;3H\u001b(B\u001b[0m\u001b[36m3  \u001b[39m\u001b(B\u001b[0;1m[\u001b[30m\u001b[37X\u001b[4;44H0.0%\u001b[39m]\u001b(B\u001b[m    \u001b[36m9  \u001b[39m\u001b(B\u001b[0;1m[\u001b[30m\u001b[37X\u001b[4;94H0.0%\u001b[39m]\u001b(B\u001b[m     \u001b[36m15 \u001b[39m\u001b(B\u001b[0;1m[\u001b[30m\u001b[37X\u001b[4;145H0.0%\u001b[39m]\u001b(B\u001b[m    \u001b[36m21 \u001b[39m\u001b(B\u001b[0;1m[\u001b[30m\u001b[37X\u001b[195G0.0%\u001b[39m]\u001b[5;3H\u001b(B\u001b[0m\u001b[36m4  \u001b[39m\u001b(B\u001b[0;1m[\u001b[30m\u001b[37X\u001b[5;44H0.0%\u001b[39m]\u001b(B\u001b[m    \u001b[36m10 \u001b[39m\u001b(B\u001b[0;1m[\u001b[30m\u001b[37X\u001b[5;94H0.0%\u001b[39m]\u001b(B\u001b[m     \u001b[36m16 \u001b[39m\u001b(B\u001b[0;1m[\u001b[30m\u001b[37X\u001b[5;145H0.0%\u001b[39m]\u001b(B\u001b[m    \u001b[36m22 \u001b[39m\u001b(B\u001b[0;1m[\u001b[30m\u001b[37X\u001b[195G0.0%\u001b[39m]\u001b[6;3H\u001b(B\u001b[0m\u001b[36m5  \u001b[39m\u001b(B\u001b[0;1m[\u001b[30m\u001b[37X\u001b[6;44H0.0%\u001b[39m]\u001b(B\u001b[m    \u001b[36m11 \u001b[39m\u001b(B\u001b[0;1m[\u001b[30m\u001b[37X\u001b[6;94H0.0%\u001b[39m]\u001b(B\u001b[m     \u001b[36m17 \u001b[39m\u001b(B\u001b[0;1m[\u001b[30m\u001b[37X\u001b[6;145H0.0%\u001b[39m]\u001b(B\u001b[m    \u001b[36m23 \u001b[39m\u001b(B\u001b[0;1m[\u001b[30m\u001b[37X\u001b[195G0.0%\u001b[39m]\u001b[7;3H\u001b(B\u001b[0m\u001b[36m6  \u001b[39m\u001b(B\u001b[0;1m[\u001b[30m\u001b[37X\u001b[7;44H0.0%\u001b[39m]\u001b(B\u001b[m    \u001b[36m12 \u001b[39m\u001b(B\u001b[0;1m[\u001b[30m\u001b[37X\u001b[7;94H0.0%\u001b[39m]\u001b(B\u001b[m     \u001b[36m18 \u001b[39m\u001b(B\u001b[0;1m[\u001b[30m\u001b[37X\u001b[7;145H0.0%\u001b[39m]\u001b(B\u001b[m    \u001b[36m24 \u001b[39m\u001b(B\u001b[0;1m[\u001b[30m\u001b[37X\u001b[195G0.0%\u001b[39m]\u001b[8;3H\u001b(B\u001b[0m\u001b[36mMem\u001b[39m\u001b(B\u001b[0;1m[\u001b(B\u001b[0m\u001b[32m||\u001b[34m|\u001b[33m|\u001b(B\u001b[0;1m\u001b[30m\u001b[76X\u001b[8;87H812/64324MB\u001b[39m]\u001b(B\u001b[m     \u001b[36mTasks: \u001b(B\u001b[0;1m\u001b[36m36\u001b(B\u001b[0m\u001b[36m, \u001b(B\u001b[0;1m\u001b[36m43\u001b(B\u001b[0m\u001b[36m thr; \u001b(B\u001b[0;1m\u001b[32m1\u001b(B\u001b[0m\u001b[36m running\u001b[9;3HSwp\u001b[39m\u001b(B\u001b[0;1m[\u001b[30m\u001b[83X\u001b[9;90H0/4881MB\u001b[39m]\u001b(B\u001b[m     \u001b[36mLoad average: \u001b(B\u001b[0;1m\u001b[30m0.01 \u001b[39m\u001b(B\u001b[m0.04 \u001b(B\u001b[0;1m0.05 \u001b[10;104H\u001b(B\u001b[0m\u001b[36mUptime: \u001b(B\u001b[0;1m\u001b[36m14:19:47\r\u001b[12d\u001b(B\u001b[0m\u001b[30m\u001b[42m  PID USER      PRI  NI  VIRT   RES   SHR S CPU% MEM%   TIME+  Command\u001b[K\r\u001b[13d\u001b[30m\u001b[46m    1 root       20   0 33476  2852  1468 S  0.0  0.0  0:05.16 /sbin/init\u001b[K\u001b[14;2H\u001b[39;49m\u001b(B\u001b[m4697 \u001b(B\u001b[0;1m\u001b[30mntp       \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m31\u001b[39m\u001b(B\u001b[m444 \u001b[36m 2\u001b[39m\u001b(B\u001b[m080 \u001b[36m 1\u001b[39m\u001b(B\u001b[m484 S  0.0  0.0  0:01.55 \u001b[36m├─ \u001b[39m\u001b(B\u001b[m/usr/sbin/ntpd -p /var/run/ntpd.pid -g -u 106:112\r\u001b[15d 4535 \u001b(B\u001b[0;1m\u001b[30mroot      \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m12\u001b[39m\u001b(B\u001b[m784   864   720 S  0.0  0.0  0:00.00 \u001b[36m├─ \u001b[39m\u001b(B\u001b[m/sbin/getty -8 38400 tty1\r\u001b[16d 4422 \u001b(B\u001b[0;1m\u001b[30mroot      \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m85\u001b[39m\u001b(B\u001b[m876 \u001b[36m 1\u001b[39m\u001b(B\u001b[m336   224 S  0.0  0.0  0:00.00 \u001b[36m├─ \u001b[39m\u001b(B\u001b[mnginx: master process /usr/sbin/nginx\r\u001b[17d 4426 \u001b(B\u001b[0;1m\u001b[30mwww-data  \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m86\u001b[39m\u001b(B\u001b[m216 \u001b[36m 1\u001b[39m\u001b(B\u001b[m964   552 S  0.0  0.0  0:01.86 \u001b[36m│  ├─ \u001b[39m\u001b(B\u001b[mnginx: worker process\r\u001b[18d 4425 \u001b(B\u001b[0;1m\u001b[30mwww-data  \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m86\u001b[39m\u001b(B\u001b[m216 \u001b[36m 1\u001b[39m\u001b(B\u001b[m984   572 S  0.0  0.0  0:01.89 \u001b[36m│  ├─ \u001b[39m\u001b(B\u001b[mnginx: worker process\r\u001b[19d 4424 \u001b(B\u001b[0;1m\u001b[30mwww-data  \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m86\u001b[39m\u001b(B\u001b[m216 \u001b[36m 1\u001b[39m\u001b(B\u001b[m984   572 S  0.0  0.0  0:01.87 \u001b[36m│  ├─ \u001b[39m\u001b(B\u001b[mnginx: worker process\r\u001b[20d 4423 \u001b(B\u001b[0;1m\u001b[30mwww-data  \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m86\u001b[39m\u001b(B\u001b[m216 \u001b[36m 2\u001b[39m\u001b(B\u001b[m324   908 S  0.0  0.0  0:00.00 \u001b[36m│  └─ \u001b[39m\u001b(B\u001b[mnginx: worker process\r\u001b[21d 4410 \u001b(B\u001b[0;1m\u001b[30mroot      \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m45\u001b[39m\u001b(B\u001b[m984 \u001b[36m 9\u001b[39m\u001b(B\u001b[m200 \u001b[36m 4\u001b[39m\u001b(B\u001b[m080 S  0.0  0.0  0:00.07 \u001b[36m├─ \u001b[39m\u001b(B\u001b[m/opt/lsi/mrmonitor/bin/mrmonitord\r\u001b[22d 4544 \u001b(B\u001b[0;1m\u001b[30mroot      \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m45\u001b[39m\u001b(B\u001b[m984 \u001b[36m 9\u001b[39m\u001b(B\u001b[m200 \u001b[36m 4\u001b[39m\u001b(B\u001b[m080 S  0.0  0.0  0:00.00 \u001b[36m│  ├─ \u001b[39m\u001b(B\u001b[m/opt/lsi/mrmonitor/bin/mrmonitord\r\u001b[23d 4414 \u001b(B\u001b[0;1m\u001b[30mroot      \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m45\u001b[39m\u001b(B\u001b[m984 \u001b[36m 9\u001b[39m\u001b(B\u001b[m200 \u001b[36m 4\u001b[39m\u001b(B\u001b[m080 S  0.0  0.0  0:00.00 \u001b[36m│  ├─ \u001b[39m\u001b(B\u001b[m/opt/lsi/mrmonitor/bin/mrmonitord\r\u001b[24d 4413 \u001b(B\u001b[0;1m\u001b[30mroot      \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m19\u001b[39m\u001b(B\u001b[m172 \u001b[36m 1\u001b[39m\u001b(B\u001b[m140   388 S  0"
+    ],
+    [
+      0.000033,
+      ".0  0.0  0:00.00 \u001b[36m│  ├─ \u001b[39m\u001b(B\u001b[m/opt/lsi/mrmonitor/bin/mrmonitord\r\u001b[25d 4412 \u001b(B\u001b[0;1m\u001b[30mroot      \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m45\u001b[39m\u001b(B\u001b[m984 \u001b[36m 9\u001b[39m\u001b(B\u001b[m200 \u001b[36m 4\u001b[39m\u001b(B\u001b[m080 S  0.0  0.0  0:00.00 \u001b[36m│  └─ \u001b[39m\u001b(B\u001b[m/opt/lsi/mrmonitor/bin/mrmonitord\r\u001b[26d 4368 \u001b(B\u001b[0;1m\u001b[30mbind      \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m1147M 62\u001b[39m\u001b(B\u001b[m648 \u001b[36m 2\u001b[39m\u001b(B\u001b[m100 S  0.0  0.1  0:00.07 \u001b[36m├─ \u001b[39m\u001b(B\u001b[m/usr/sbin/named -u bind\r\u001b[27d 4394 \u001b(B\u001b[0;1m\u001b[30mbind      \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m1147M 62\u001b[39m\u001b(B\u001b[m648 \u001b[36m 2\u001b[39m\u001b(B\u001b[m100 S  0.0  0.1  0:00.00 \u001b[36m│  ├─ \u001b[39m\u001b(B\u001b[m/usr/sbin/named -u bind\r\u001b[28d 4393 \u001b(B\u001b[0;1m\u001b[30mbind      \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m1147M 62\u001b[39m\u001b(B\u001b[m648 \u001b[36m 2\u001b[39m\u001b(B\u001b[m100 S  0.0  0.1  0:00.00 \u001b[36m│  ├─ \u001b[39m\u001b(B\u001b[m/usr/sbin/named -u bind\r\u001b[29d 4392 \u001b(B\u001b[0;1m\u001b[30mbind      \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m1147M 62\u001b[39m\u001b(B\u001b[m648 \u001b[36m 2\u001b[39m\u001b(B\u001b[m100 S  0.0  0.1  0:00.04 \u001b[36m│  ├─ \u001b[39m\u001b(B\u001b[m/usr/sbin/named -u bind\r\u001b[30d 4391 \u001b(B\u001b[0;1m\u001b[30mbind      \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m1147M 62\u001b[39m\u001b(B\u001b[m648 \u001b[36m 2\u001b[39m\u001b(B\u001b[m100 S  0.0  0.1  0:00.00 \u001b[36m│  ├─ \u001b[39m\u001b(B\u001b[m/usr/sbin/named -u bind\r\u001b[31d 4390 \u001b(B\u001b[0;1m\u001b[30mbind      \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m1147M 62\u001b[39m\u001b(B\u001b[m648 \u001b[36m 2\u001b[39m\u001b(B\u001b[m100 S  0.0  0.1  0:00.00 \u001b[36m│  ├─ \u001b[39m\u001b(B\u001b[m/usr/sbin/named -u bind\r\u001b[32d 4389 \u001b(B\u001b[0;1m\u001b[30mbind      \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m1147M 62\u001b[39m\u001b(B\u001b[m648 \u001b[36m 2\u001b[39m\u001b(B\u001b[m100 S  0.0  0.1  0:00.00 \u001b[36m│  ├─ \u001b[39m\u001b(B\u001b[m/usr/sbin/named -u bind\r\u001b[33d 4388 \u001b(B\u001b[0;1m\u001b[30mbind      \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m1147M 62\u001b[39m\u001b(B\u001b[m648 \u001b[36m 2\u001b[39m\u001b(B\u001b[m100 S  0.0  0.1  0:00.00 \u001b[36m│  ├─ \u001b[39m\u001b(B\u001b[m/usr/sbin/named -u bind\r\u001b[34d 4387 \u001b(B\u001b[0;1m\u001b[30mbind      \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m1147M 62\u001b[39m\u001b(B\u001b[m648 \u001b[36m 2\u001b[39m\u001b(B\u001b[m100 S  0.0  0.1  0:00.00 \u001b[36m│  ├─ \u001b[39m\u001b(B\u001b[m/usr/sbin/named -u bind\r\u001b[35d 4386 \u001b(B\u001b[0;1m\u001b[30mbind      \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m1147M 62\u001b[39m\u001b(B\u001b[m648 \u001b[36m 2\u001b[39m\u001b(B\u001b[m100 S  0.0  0.1  0:00.00 \u001b[36m│  ├─ \u001b[39m\u001b(B\u001b[m/usr/sbin/named -u bind\r\u001b[36d 4385 \u001b(B\u001b[0;1m\u001b[30mbind      \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m1147M 62\u001b[39m\u001b(B\u001b[m648 \u001b[36m 2\u001b[39m\u001b(B\u001b[m100 S  0.0  0.1  0:00.00 \u001b[36m│  ├─ \u001b[39m\u001b(B\u001b[m/usr/sbin/named -u bind\r\u001b[37d 4384 \u001b(B\u001b[0;1m\u001b[30mbind      \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m1147M 62\u001b[39m\u001b(B\u001b[m648 \u001b[36m 2\u001b[39m\u001b(B\u001b[m100 S  0.0  0.1  0:00.00 \u001b[36m│  ├─ \u001b[39m\u001b(B\u001b[m/usr/sbin/named -u bind\r\u001b[38d 4383 \u001b(B\u001b[0;1m\u001b[30mbind      \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m1147M 62\u001b[39m\u001b(B\u001b[m648 \u001b[36m 2\u001b[39m\u001b(B\u001b[m100 S  0.0  0.1  0:00.00 \u001b[36m│  ├─ \u001b[39m\u001b(B\u001b[m/usr/sbin/named -u bind\r\u001b[39d 4382 \u001b(B\u001b[0;1m\u001b[30mbind      \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m1147M 62\u001b[39m\u001b(B\u001b[m648 \u001b[36m 2\u001b[39m\u001b(B\u001b[m100 S  0.0  0.1  0:00.00 \u001b[36m│  ├─ \u001b[39m\u001b(B\u001b[m/usr/sbin/named -u bind\r\u001b[40d 4381 \u001b(B\u001b[0;1m\u001b[30mbind      \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m1147M 62\u001b[39m\u001b(B\u001b[m648 \u001b[36m 2\u001b[39m\u001b(B\u001b[m100 S  0.0  0.1  0:00.00 \u001b[36m│  ├─ \u001b[39m\u001b(B\u001b[m/usr/sbin/named -u bind\r\u001b[41d 4380 \u001b(B\u001b[0;1m\u001b[30mbind      \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m1147M 62\u001b[39m\u001b(B\u001b[m648 \u001b[36m 2\u001b[39m\u001b(B\u001b[m100 S  0.0  0.1  0:00.00 \u001b[36m│  ├─ \u001b[39m\u001b(B\u001b[m/usr/sbin/named -u bind\r\u001b[42d 4379 \u001b(B\u001b[0;1m\u001b[30mbind      \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m1147M 62\u001b[39m\u001b(B\u001b[m648 \u001b[36m 2\u001b[39m\u001b(B\u001b[m100 S  0.0  0.1  0:00.00 \u001b[36m│  ├─ \u001b[39m\u001b(B\u001b[m/usr/sbin/named -u bind\r\u001b[43d 4378 \u001b(B\u001b[0;1m\u001b[30mbind      \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m1147M 62\u001b[39m\u001b(B\u001b[m648 \u001b[36m 2\u001b[39m\u001b(B\u001b[m100 S  0.0  0.1  0:00.00 \u001b[36m│  ├─ \u001b[39m\u001b(B\u001b[m/usr/sbin/named -u bind\r\u001b[44d 4377 \u001b(B\u001b[0;1m\u001b[30mbind      \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m1147M 62\u001b[39m\u001b(B\u001b[m648 \u001b[36m 2\u001b[39m\u001b(B\u001b[m100 S  0.0  0.1  0:00.00 \u001b[36m│  ├─ \u001b[39m\u001b(B\u001b[m/usr/sbin/named -u bind\r\u001b[45d 4376 \u001b(B\u001b[0;1m\u001b[30mbind      \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m1147M 62\u001b[39m\u001b(B\u001b[m648 \u001b[36m 2\u001b[39m\u001b(B\u001b[m100 S  0.0  0.1  0:00.00 \u001b[36m│  ├─ \u001b[39m\u001b(B\u001b[m/usr/sbin/named -u bind\r\u001b[46d 4375 \u001b(B\u001b[0;1m\u001b[30mbind      \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m1147M 62\u001b[39m\u001b(B\u001b[m648 \u001b[36m 2\u001b[39m\u001b(B\u001b[m100 S  0.0  0.1  0:00.00 \u001b[36m│  ├─ \u001b[39m\u001b(B\u001b[m/usr/sbin/named -u bind\r\u001b[47d 4374 \u001b(B\u001b[0;1m\u001b[30mbind      \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m1147M 62\u001b[39m\u001b(B\u001b[m648 \u001b[36m 2\u001b[39m\u001b(B\u001b[m1"
+    ],
+    [
+      0.000363,
+      "00 S  0.0  0.1  0:00.00 \u001b[36m│  ├─ \u001b[39m\u001b(B\u001b[m/usr/sbin/named -u bind\r\u001b[48d 4373 \u001b(B\u001b[0;1m\u001b[30mbind      \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m1147M 62\u001b[39m\u001b(B\u001b[m648 \u001b[36m 2\u001b[39m\u001b(B\u001b[m100 S  0.0  0.1  0:00.00 \u001b[36m│  ├─ \u001b[39m\u001b(B\u001b[m/usr/sbin/named -u bind\r\u001b[49d 4372 \u001b(B\u001b[0;1m\u001b[30mbind      \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m1147M 62\u001b[39m\u001b(B\u001b[m648 \u001b[36m 2\u001b[39m\u001b(B\u001b[m100 S  0.0  0.1  0:00.00 \u001b[36m│  ├─ \u001b[39m\u001b(B\u001b[m/usr/sbin/named -u bind\r\u001b[50d 4371 \u001b(B\u001b[0;1m\u001b[30mbind      \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m1147M 62\u001b[39m\u001b(B\u001b[m648 \u001b[36m 2\u001b[39m\u001b(B\u001b[m100 S  0.0  0.1  0:00.00 \u001b[36m│  ├─ \u001b[39m\u001b(B\u001b[m/usr/sbin/named -u bind\r\u001b[51d 4370 \u001b(B\u001b[0;1m\u001b[30mbind      \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m1147M 62\u001b[39m\u001b(B\u001b[m648 \u001b[36m 2\u001b[39m\u001b(B\u001b[m100 S  0.0  0.1  0:00.00 \u001b[36m│  ├─ \u001b[39m\u001b(B\u001b[m/usr/sbin/named -u bind\r\u001b[52d 4369 \u001b(B\u001b[0;1m\u001b[30mbind      \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m1147M 62\u001b[39m\u001b(B\u001b[m648 \u001b[36m 2\u001b[39m\u001b(B\u001b[m100 S  0.0  0.1  0:00.00 \u001b[36m│  └─ \u001b[39m\u001b(B\u001b[m/usr/sbin/named -u bind\r\u001b[53d 4365 \u001b(B\u001b[0;1m\u001b[30mroot      \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m19\u001b[39m\u001b(B\u001b[m364 \u001b[36m 1\u001b[39m\u001b(B\u001b[m032   600 S  0.0  0.0  0:12.76 \u001b[36m├─ \u001b[39m\u001b(B\u001b[m/usr/sbin/irqbalance\r\u001b[54d 4333 \u001b(B\u001b[0;1m\u001b[30mroot      \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m23\u001b[39m\u001b(B\u001b[m652   924   700 S  0.0  0.0  0:00.02 \u001b[36m├─ \u001b[39m\u001b(B\u001b[mcron\r\u001b[55d 4328 \u001b(B\u001b[0;1m\u001b[30mroot      \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m61\u001b[39m\u001b(B\u001b[m364 \u001b[36m 3\u001b[39m\u001b(B\u001b[m072 \u001b[36m 2\u001b[39m\u001b(B\u001b[m388 S  0.0  0.0  0:00.61 \u001b[36m├─ \u001b[39m\u001b(B\u001b[m/usr/sbin/sshd -D\r\u001b[56d 9013 \u001b(B\u001b[0;1m\u001b[30mroot      \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m 101M  4\u001b[39m\u001b(B\u001b[m088 \u001b[36m 3\u001b[39m\u001b(B\u001b[m108 S  0.0  0.0  0:00.01 \u001b[36m│  └─ \u001b[39m\u001b(B\u001b[msshd: zgrav [priv]\r\u001b[57dF1\u001b[30m\u001b[46mHelp  \u001b[39;49m\u001b(B\u001b[mF2\u001b[30m\u001b[46mSetup \u001b[39;49m\u001b(B\u001b[mF3\u001b[30m\u001b[46mSearch\u001b[39;49m\u001b(B\u001b[mF4\u001b[30m\u001b[46mFilter\u001b[39;49m\u001b(B\u001b[mF5\u001b[30m\u001b[46mTree  \u001b[39;49m\u001b(B\u001b[mF6\u001b[30m\u001b[46mSortBy\u001b[39;49m\u001b(B\u001b[mF7\u001b[30m\u001b[46mNice -\u001b[39;49m\u001b(B\u001b[mF8\u001b[30m\u001b[46mNice +\u001b[39;49m\u001b(B\u001b[mF9\u001b[30m\u001b[46mKill  \u001b[39;49m\u001b(B\u001b[mF10\u001b[30m\u001b[46mQuit\u001b[K\u001b[H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      1.508843,
+      "\u001b[3;108H\u001b[32m|\u001b(B\u001b[0;1m\u001b[30m         \u001b[3;144H 0.7\u001b[8;89H3\u001b[10;119H\u001b[36m9\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.725424,
+      "\u001b[13;56r\u001b[13;1H\u001bM\u001b[1;57r\u001b[12;45H\u001b[30m\u001b[46mCPU% \r\u001b[13d 9080 zgrav      20   0 25636  2984  1428 R  0.7  0.0  0:00.03 htop\u001b[K\r\u001b[14d\u001b[39;49m\u001b(B\u001b[m    1 \u001b(B\u001b[0;1m\u001b[30mroot      \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m33\u001b[39m\u001b(B\u001b[m476 \u001b[36m 2\u001b[39m\u001b(B\u001b[m852 \u001b[36m 1\u001b[39m\u001b(B\u001b[m468 S  0.0  0.0  0:05.16 /sbin/init\u001b[K\u001b[15;64H\u001b[3P\u001b[16d\u001b[3P\u001b[17d\u001b[3P\u001b[18d\u001b[6P\u001b[19d\u001b[6P\u001b[20d\u001b[6P\u001b[21d\u001b[6P\u001b[22d\u001b[3P\u001b[23d\u001b[6P\u001b[24d\u001b[6P\u001b[25d\u001b[6P\u001b[26d\u001b[6P\u001b[27d\u001b[3P\u001b[28d\u001b[6P\u001b[29d\u001b[6P\u001b[30d\u001b[6P\u001b[31d\u001b[6P\u001b[32d\u001b[6P\u001b[33d\u001b[6P\u001b[34d\u001b[6P\u001b[35d\u001b[6P\u001b[36d\u001b[6P\u001b[37d\u001b[6P\u001b[38d\u001b[6P\u001b[39d\u001b[6P\u001b[40d\u001b[6P\u001b[41d\u001b[6P\u001b[42d\u001b[6P\u001b[43d\u001b[6P\u001b[44d\u001b[6P\u001b[45d\u001b[6P\u001b[46d\u001b[6P\u001b[47d\u001b[6P\u001b[48d\u001b[6P\u001b[49d\u001b[6P\u001b[50d\u001b[6P\u001b[51d\u001b[6P\u001b[52d\u001b[6P\u001b[53d\u001b[6P\u001b[54d\u001b[3P\u001b[55dcron\u001b[K\u001b[56;64H\u001b[3P\u001b[H"
+    ],
+    [
+      1.073915,
+      "\u001b[13;56r\u001b[56;1H\n\u001b[1;57r\u001b[3;108H\u001b(B\u001b[0;1m\u001b[30m \u001b[3;147H0\u001b[10;118H\u001b[36m51\u001b[12;45H\u001b(B\u001b[0m\u001b[30m\u001b[42mCPU% \r\u001b[13d\u001b[30m\u001b[46m    1 root       20   0 33476  2852  1468 S  0.0  0.0  0:05.16 /sbin/init\u001b[K\u001b[14;64H\u001b[39;49m\u001b[36m├─ \u001b[39m\u001b(B\u001b[m/usr/sbin/ntpd -p /var/run/ntpd.pid -g -u 106:112\u001b[15;64H\u001b[36m├─ \u001b[39m\u001b(B\u001b[m/sbin/getty -8 38400 tty1\u001b[16;64H\u001b[36m├─ \u001b[39m\u001b(B\u001b[mnginx: master process /usr/sbin/nginx\u001b[17;64H\u001b[36m│  ├─ \u001b[39m\u001b(B\u001b[mnginx: worker process\u001b[18;64H\u001b[36m│  ├─ \u001b[39m\u001b(B\u001b[mnginx: worker process\u001b[19;64H\u001b[36m│  ├─ \u001b[39m\u001b(B\u001b[mnginx: worker process\u001b[20;64H\u001b[36m│  └─ \u001b[39m\u001b(B\u001b[mnginx: worker process\u001b[21;64H\u001b[36m├─ \u001b[39m\u001b(B\u001b[m/opt/lsi/mrmonitor/bin/mrmonitord\u001b[22;64H\u001b[36m│  ├─ \u001b[39m\u001b(B\u001b[m/opt/lsi/mrmonitor/bin/mrmonitord\u001b[23;64H\u001b[36m│  ├─ \u001b[39m\u001b(B\u001b[m/opt/lsi/mrmonitor/bin/mrmonitord\u001b[24;64H\u001b[36m│  ├─ \u001b[39m\u001b(B\u001b[m/opt/lsi/mrmonitor/bin/mrmonitord\u001b[25;64H\u001b[36m│  └─ \u001b[39m\u001b(B\u001b[m/opt/lsi/mrmonitor/bin/mrmonitord\u001b[26;64H\u001b[36m├─ \u001b[39m\u001b(B\u001b[m/usr/sbin/named -u bind\u001b[27;64H\u001b[36m│  ├─ \u001b[39m\u001b(B\u001b[m/usr/sbin/named -u bind\u001b[28;64H\u001b[36m│  ├─ \u001b[39m\u001b(B\u001b[m/usr/sbin/named -u bind\u001b[29;64H\u001b[36m│  ├─ \u001b[39m\u001b(B\u001b[m/usr/sbin/named -u bind\u001b[30;64H\u001b[36m│  ├─ \u001b[39m\u001b(B\u001b[m/usr/sbin/named -u bind\u001b[31;64H\u001b[36m│  ├─ \u001b[39m\u001b(B\u001b[m/usr/sbin/named -u bind\u001b[32;64H\u001b[36m│  ├─ \u001b[39m\u001b(B\u001b[m/usr/sbin/named -u bind\u001b[33;64H\u001b[36m│  ├─ \u001b[39m\u001b(B\u001b[m/usr/sbin/named -u bind\u001b[34;64H\u001b[36m│  ├─ \u001b[39m\u001b(B\u001b[m/usr/sbin/named -u bind\u001b[35;64H\u001b[36m│  ├─ \u001b[39m\u001b(B\u001b[m/usr/sbin/named -u bind\u001b[36;64H\u001b[36m│  ├─ \u001b[39m\u001b(B\u001b[m/usr/sbin/named -u bind\u001b[37;64H\u001b[36m│  ├─ \u001b[39m\u001b(B\u001b[m/usr/sbin/named -u bind\u001b[38;64H\u001b[36m│  ├─ \u001b[39m\u001b(B\u001b[m/usr/sbin/named -u bind\u001b[39;64H\u001b[36m│  ├─ \u001b[39m\u001b(B\u001b[m/usr/sbin/named -u bind\u001b[40;64H\u001b[36m│  ├─ \u001b[39m\u001b(B\u001b[m/usr/sbin/named -u bind\u001b[41;64H\u001b[36m│  ├─ \u001b[39m\u001b(B\u001b[m/usr/sbin/named -u bind\u001b[42;64H\u001b[36m│  ├─ \u001b[39m\u001b(B\u001b[m/usr/sbin/named -u bind\u001b[43;64H\u001b[36m│  ├─ \u001b[39m\u001b(B\u001b[m/usr/sbin/named -u bind\u001b[44;64H\u001b[36m│  ├─ \u001b[39m\u001b(B\u001b[m/usr/sbin/named -u bind\u001b[45;64H\u001b[36m│  ├─ \u001b[39m\u001b(B\u001b[m/usr/sbin/named -u bind\u001b[46;64H\u001b[36m│  ├─ \u001b[39m\u001b(B\u001b[m/usr/sbin/named -u bind\u001b[47;64H\u001b[36m│  ├─ \u001b[39m\u001b(B\u001b[m/usr/sbin/named -u bind\u001b[48;64H\u001b[36m│  ├─ \u001b[39m\u001b(B\u001b[m/usr/sbin/named -u bind\u001b[49;64H\u001b[36m│  ├─ \u001b[39m\u001b(B\u001b[m/usr/sbin/named -u bind\u001b[50;64H\u001b[36m│  ├─ \u001b[39m\u001b(B\u001b[m/usr/sbin/named -u bind\u001b[51;64H\u001b[36m│  ├─ \u001b[39m\u001b(B\u001b[m/usr/sbin/named -u bind\u001b[52;64H\u001b[36m│  └─ \u001b[39m\u001b(B\u001b[m/usr/sbin/named -u bind\u001b[53;64H\u001b[36m├─ \u001b[39m\u001b(B\u001b[m/usr/sbin/irqbalance\u001b[54;64H\u001b[36m├─ \u001b[39m\u001b(B\u001b[mcron\u001b[55;64H\u001b[36m├─ \u001b[39m\u001b(B\u001b[m/usr/sbin/sshd -D\r\u001b[56d 9013 \u001b(B\u001b[0;1m\u001b[30mroot      \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m 101M  4\u001b[39m\u001b(B\u001b[m088 \u001b[36m 3\u001b[39m\u001b(B\u001b[m108 S  0.0  0.0  0:00.01 \u001b[36m│  └─ \u001b[39m\u001b(B\u001b[msshd: zgrav [priv]\u001b[H"
+    ],
+    [
+      1.509150,
+      "\u001b[3;108H\u001b[32m|\u001b[31m|\u001b[3;145H\u001b(B\u001b[0;1m\u001b[30m1.3\u001b[8;89H2\u001b[9;121H0\u001b[10;119H\u001b[36m2\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.937340,
+      "\u001b[57d\u001b[J\u001b[?12l\u001b[?25h\u001b[?1000l\u001b[57;1H\u001b[?1049l\r\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000571,
+      "\u001b]0;zgrav@s1: ~\u0007zgrav@s1:~$ "
+    ],
+    [
+      0.975957,
+      "exit\r\n"
+    ]
+  ]
+}
