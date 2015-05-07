@@ -1,0 +1,462 @@
+{
+  "version": 1,
+  "width": 90,
+  "height": 30,
+  "duration": 11.803741,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.144071,
+      "\u001b]0;root@kali: ~\u0007\u001b[01;31mroot@hackerdom\u001b[00m:\u001b[01;34m~\u001b[00m# "
+    ],
+    [
+      5.816366,
+      "l"
+    ],
+    [
+      0.345567,
+      "s"
+    ],
+    [
+      1.247165,
+      " "
+    ],
+    [
+      0.328477,
+      "-"
+    ],
+    [
+      0.286991,
+      "a"
+    ],
+    [
+      0.188985,
+      "l"
+    ],
+    [
+      0.285016,
+      "\r\n"
+    ],
+    [
+      0.003216,
+      "total 248"
+    ],
+    [
+      0.000017,
+      "\r\n"
+    ],
+    [
+      0.000140,
+      "drwxr-xr-x 38 root root  4096 May  7 18:36 \u001b[0m\u001b[01;34m.\u001b[0m\r\n"
+    ],
+    [
+      0.000008,
+      "drwxr-xr-x 21 root root 24576 May  5 07:48 \u001b[01;34m..\u001b[0m\r\n"
+    ],
+    [
+      0.000023,
+      "drwx------  3 root root  4096 Feb 11 00:52 \u001b[01;34m.adobe\u001b[0m"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000030,
+      "drwx------  2 root root  4096 May  7 18:27 \u001b[01;34m.aptitude\u001b[0m\r\n"
+    ],
+    [
+      0.000030,
+      "drwxr-xr-x  2 root root  4096 May  7 18:36 \u001b[01;34m.asciinema\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000039,
+      "-rw-------  1 root root   562 May  7 18:36 .bash_history"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000029,
+      "-rw-r--r--  1 root root  3398 Feb 10 10:21 .bashrc"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000030,
+      "drwx------ 14 root root  4096 May  7 14:53 \u001b[01;34m.cache\u001b[0m"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000021,
+      "drwx------ 17 root root  4096 May  7 08:02 \u001b[01;34m.config\u001b[0m"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.000031,
+      "drwx------  3 root root  4096 Feb 11 13:16 \u001b[01;34m.conky\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000028,
+      "-rw-r--r--  1 root root  2480 Mar  1 23:09 .conkyrc"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.000031,
+      "drwx------  3 root root  4096 Feb 10 03:00 \u001b[01;34m.dbus\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000025,
+      "drwxr-xr-x  2 root root  4096 May  6 16:48 \u001b[01;34mDesktop\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000027,
+      "drwxr-xr-x  2 root root  4096 May  5 11:01 \u001b[01;34mDocuments\u001b[0m"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000032,
+      "drwxr-xr-x  4 root root  4096 May  7 18:23 \u001b[01;34mDownloads\u001b[0m\r\n"
+    ],
+    [
+      0.000020,
+      "drwx------  3 root root  4096 May  7 14:54 \u001b[01;34m.gconf\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000021,
+      "drwx------  6 root root  4096 May  7 08:00 \u001b[01;34m.gnome2\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000023,
+      "drwx------  2 root root  4096 May  7 08:00 \u001b[01;34m.gnome2_private\u001b[0m"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000018,
+      "drwx------  2 root root  4096 Mar 22 10:49 \u001b[01;34m.gnupg\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000021,
+      "drwxr-xr-x  2 root root  4096 Feb 21 10:59 \u001b[01;34m.golismero\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000021,
+      "drwx------  2 root root  4096 May  2 18:24 \u001b[01;34m.gphoto\u001b[0m"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000020,
+      "drwxr-xr-x  2 root root  4096 Apr 18 11:52 \u001b[01;34m.gstreamer-0.10\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000020,
+      "drwx------  2 root root  4096 Feb 10 03:00 \u001b[01;34m.gvfs\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000021,
+      "drwxr-xr-x  2 root root  4096 Mar 21 23:25 \u001b[01;34mHacking\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000024,
+      "-rw-------  1 root root 28520 May  7 14:53 .ICEauthority"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000020,
+      "drwxr-xr-x  4 root root  4096 Feb 23 22:35 \u001b[01;34m.java\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000022,
+      "drwx------  2 root root  4096 Feb 23 14:46 \u001b[01;34m.john\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000021,
+      "drwxr-xr-x  3 root root  4096 Feb 10 03:00 \u001b[01;34m.local\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000020,
+      "drwxr-xr-x  3 root root  4096 Feb 11 13:16 \u001b[01;34m.lua\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000022,
+      "drwx------  3 root root  4096 Feb 11 00:52 \u001b[01;34m.macromedia\u001b[0m"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000017,
+      "drwx------  3 root root  4096 Feb 10 03:00 \u001b[01;34m.mission-control\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000019,
+      "drwx------  4 root root  4096 Apr 11 11:22 \u001b[01;34m.mozilla\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000021,
+      "drwxr-xr-x  8 root root  4096 Feb 23 22:45 \u001b[01;34m.msf4\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000023,
+      "-rw-r--r--  1 root root   140 May 23  2014 .profile"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000020,
+      "drwxr-xr-x  2 root root  4096 May  6 12:21 \u001b[01;34mProgramming\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000021,
+      "drwxr-xr-x  2 root root  4096 May  4 11:26 \u001b[01;34mProject\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000023,
+      "drwx------  2 root root  4096 May  7 14:53 \u001b[01;34m.pulse\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000021,
+      "-rw-------  1 root root   256 Feb 10 03:00 .pulse-cookie"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000022,
+      "-rwxr-xr-x  1 root root   114 Feb  9 07:30 \u001b[01;32m.repair\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000024,
+      "-rw-------  1 root root  1024 May  1 13:34 .rnd"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000021,
+      "lrwxrwxrwx  1 root root     9 Feb 23 22:39 \u001b[01;36m.scapy_history\u001b[0m -\u003e \u001b[40;33;01m/dev/null\u001b[0m"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000020,
+      "drwx------  2 root root  4096 Feb 15 17:48 \u001b[01;34m.ssh\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000021,
+      "drwxr-xr-x  3 root root  4096 Feb 13 12:21 \u001b[01;34m.subversion\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000019,
+      "drwx------  4 root root  4096 Apr 15 13:00 \u001b[01;34m.thumbnails\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000023,
+      "-rwxr-xr-x  1 root root    93 Dec 19 21:37 \u001b[01;32m.update\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000025,
+      "-rw-------  1 root root     0 May  7 14:54 .viminfo"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000023,
+      "-rw-------  1 root root    11 Mar 10 11:43 .vimrc"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000020,
+      "drwxr-xr-x  6 root root  4096 Mar 19 18:16 \u001b[01;34mVMware\u001b[0m"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000021,
+      "drwxr-xr-x  2 root root  4096 Feb 11 13:20 \u001b[01;34m.wireshark\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000020,
+      "drwxr-xr-x  2 root root  4096 Feb 11 01:06 \u001b[01;34m.xdm\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000022,
+      "-rw-r--r--  1 root root  1784 May  6 19:01 .xdmconf"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000023,
+      "-rw-r--r--  1 root root  1351 May  7 18:21 .xdmlist"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000582,
+      "\u001b]0;root@kali: ~\u0007\u001b[01;31mroot@hackerdom\u001b[00m:\u001b[01;34m~\u001b[00m# "
+    ],
+    [
+      3.155308,
+      "exit\r\n"
+    ]
+  ]
+}
