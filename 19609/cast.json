@@ -1,0 +1,254 @@
+{
+  "version": 1,
+  "width": 156,
+  "height": 73,
+  "duration": 14.994657,
+  "command": "/usr/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/usr/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.082575,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                           \r \r"
+    ],
+    [
+      0.027837,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[31mbaykovr\u001b[39m@\u001b[33mnssl-fargo\u001b[39m \u001b[36m~/G/noproto\u001b[39m \u001b[34mgit\u001b[39m:\u001b[32mmaster\u001b[39m "
+    ],
+    [
+      0.000013,
+      "\u001b[K"
+    ],
+    [
+      0.000123,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.001058,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[31mbaykovr\u001b[39m@\u001b[33mnssl-fargo\u001b[39m \u001b[36m~/G/noproto\u001b[39m \u001b[34mgit\u001b[39m:\u001b[32mmaster\u001b[39m \u001b[1m\u001b[31m❯\u001b[33m❯\u001b[32m❯\u001b[39m\u001b[0m "
+    ],
+    [
+      0.000010,
+      "\u001b[K"
+    ],
+    [
+      0.993736,
+      "\u001b[4mv\u001b[24m"
+    ],
+    [
+      0.437399,
+      "\u0008\u001b[4mv\u001b[4ma\u001b[24m"
+    ],
+    [
+      1.087948,
+      "\u0008\u0008\u001b[4mv\u001b[4ma\u001b[4mg\u001b[24m"
+    ],
+    [
+      0.065375,
+      "\u0008\u001b[4mg\u001b[4mr\u001b[24m"
+    ],
+    [
+      0.245095,
+      "\u0008\u001b[4mr\u001b[4ma\u001b[24m"
+    ],
+    [
+      0.129027,
+      "\u0008\u001b[4ma\u001b[4mn\u001b[24m"
+    ],
+    [
+      0.101112,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u001b[24m\u001b[32mv\u001b[24m\u001b[32ma\u001b[24m\u001b[32mg\u001b[24m\u001b[32mr\u001b[24m\u001b[32ma\u001b[24m\u001b[32mn\u001b[32mt\u001b[39m"
+    ],
+    [
+      0.100399,
+      " "
+    ],
+    [
+      0.373743,
+      "\u001b[4m\u001b[33mu\u001b[24m\u001b[39m"
+    ],
+    [
+      0.076442,
+      "\u0008\u001b[4m\u001b[33mu\u001b[4m\u001b[33mp\u001b[24m\u001b[39m"
+    ],
+    [
+      0.491682,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.001961,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[31mbaykovr\u001b[39m@\u001b[33mnssl-fargo\u001b[39m \u001b[36m~/G/noproto\u001b[39m \u001b[34mgit\u001b[39m:\u001b[32mmaster\u001b[39m \u001b[1m\u001b[31m❯\u001b[33m❯\u001b[32m❯\u001b[39m\u001b[0m \u001b[32mvagrant\u001b[39m \u001b[4m\u001b[33mup\u001b[24m\u001b[39m\u001b[K\r\r\n"
+    ],
+    [
+      2.220075,
+      "\u001b[0mBringing machine 'source' up with 'virtualbox' provider...\u001b[0m"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.001297,
+      "\u001b[0mBringing machine 'dut' up with 'virtualbox' provider...\u001b[0m"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.001144,
+      "\u001b[0mBringing machine 'sink' up with 'virtualbox' provider...\u001b[0m"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.342939,
+      "\u001b[1m==\u003e source: Box 'cchojnacki/arch-flogdev' could not be found. Attempting to find and install...\u001b[0m\r\n"
+    ],
+    [
+      0.000161,
+      "\u001b[0m    source: Box Provider: virtualbox\u001b[0m\r\n"
+    ],
+    [
+      0.000153,
+      "\u001b[0m    source: Box Version: \u003e= 0\u001b[0m\r\n"
+    ],
+    [
+      1.580229,
+      "\u001b[1m==\u003e source: Loading metadata for box 'cchojnacki/arch-flogdev'\u001b[0m"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000497,
+      "\u001b[0m    source: URL: https://atlas.hashicorp.com/cchojnacki/arch-flogdev\u001b[0m"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      1.349395,
+      "\u001b[1m==\u003e source: Adding box 'cchojnacki/arch-flogdev' (v0.0.7) for provider: virtualbox\u001b[0m"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.008388,
+      "\u001b[0m    source: Downloading: https://atlas.hashicorp.com/cchojnacki/boxes/arch-flogdev/versions/0.0.7/providers/virtualbox.box\u001b[0m"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000404,
+      "\u001b[1m==\u003e source: Box download is resuming from prior download progress\u001b[0m"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      1.304419,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000360,
+      "\u001b[0m    source: Progress: 0% (Rate: 0/s, Estimated time remaining: --:--:--)\u001b[0m"
+    ],
+    [
+      0.178777,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000473,
+      "\u001b[0m    source: Progress: 0% (Rate: 0/s, Estimated time remaining: --:--:--)\u001b[0m"
+    ],
+    [
+      0.000294,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000052,
+      "\u001b[0m    source: Progress: 100% (Rate: 90/s, Estimated time remaining: --:--:--)\u001b[0m"
+    ],
+    [
+      0.714854,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.012705,
+      "\u001b[0;31mAn error occurred while downloading the remote file. The error\r\nmessage, if any, is reproduced below. Please fix this error and try\r\nagain.\r\n\r\nHTTP server doesn't seem to support byte ranges. Cannot resume.\u001b[0m"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.041514,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                           \r \r"
+    ],
+    [
+      0.027509,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[31mbaykovr\u001b[39m@\u001b[33mnssl-fargo\u001b[39m \u001b[36m~/G/noproto\u001b[39m \u001b[34mgit\u001b[39m:\u001b[32mmaster\u001b[39m \u001b[1m\u001b[31m❯\u001b[33m❯\u001b[32m❯\u001b[39m\u001b[0m "
+    ],
+    [
+      0.000009,
+      "\u001b[K\u001b[107C \u001b[31m⏎\u001b[39m\u001b[109D"
+    ],
+    [
+      0.000093,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.001031,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[31mbaykovr\u001b[39m@\u001b[33mnssl-fargo\u001b[39m \u001b[36m~/G/noproto\u001b[39m \u001b[34mgit\u001b[39m:\u001b[32mmaster\u001b[39m \u001b[1m\u001b[31m❯\u001b[33m❯\u001b[32m❯\u001b[39m\u001b[0m "
+    ],
+    [
+      0.000006,
+      "\u001b[K\u001b[107C \u001b[31m⏎\u001b[39m\u001b[109D"
+    ],
+    [
+      2.356728,
+      "\u001b[32me\u001b[39m"
+    ],
+    [
+      0.208582,
+      "\u0008\u001b[32me\u001b[32mx\u001b[39m"
+    ],
+    [
+      0.115721,
+      "\u0008\u0008\u001b[1m\u001b[31me\u001b[1m\u001b[31mx\u001b[1m\u001b[31mi\u001b[0m\u001b[39m"
+    ],
+    [
+      0.109825,
+      "\u0008\u0008\u0008\u001b[0m\u001b[32me\u001b[0m\u001b[32mx\u001b[0m\u001b[32mi\u001b[32mt\u001b[39m"
+    ],
+    [
+      0.189158,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.001543,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[31mbaykovr\u001b[39m@\u001b[33mnssl-fargo\u001b[39m \u001b[36m~/G/noproto\u001b[39m \u001b[34mgit\u001b[39m:\u001b[32mmaster\u001b[39m \u001b[1m\u001b[31m❯\u001b[33m❯\u001b[32m❯\u001b[39m\u001b[0m "
+    ],
+    [
+      0.000008,
+      "\u001b[32mexit\u001b[39m\u001b[K\u001b[103C \u001b[31m⏎\u001b[39m\u001b[105D"
+    ],
+    [
+      0.000158,
+      "\r\r\n"
+    ]
+  ]
+}
