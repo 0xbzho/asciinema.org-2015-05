@@ -1,0 +1,194 @@
+{
+  "version": 1,
+  "width": 133,
+  "height": 30,
+  "duration": 11.611499,
+  "command": "/opt/boxen/homebrew/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/opt/boxen/homebrew/bin/bash"
+  },
+  "stdout": [
+    [
+      0.293825,
+      "declare -x ASCIINEMA_REC=\"1\"\r\ndeclare -x Apple_PubSub_Socket_Render=\"/private/tmp/com.apple.launchd.KDAJGFEX4p/Render\"\r\ndeclare -x BOXEN_BIN_DIR=\"/opt/boxen/bin\"\r\ndeclare -x BOXEN_CONFIG_DIR=\"/opt/boxen/config\"\r\ndeclare -x BOXEN_DATA_DIR=\"/opt/boxen/data\"\r\ndeclare -x BOXEN_ENV_DIR=\"/opt/boxen/env.d\"\r\ndeclare -x BOXEN_GITHUB_LOGIN=\"zhickman\"\r\n"
+    ],
+    [
+      0.000074,
+      "declare -x BOXEN_HOME=\"/opt/boxen\"\r\ndeclare -x BOXEN_LOG_DIR=\"/opt/boxen/log\"\r\ndeclare -x BOXEN_SETUP_VERSION=\"5406e73\"\r\ndeclare -x BOXEN_SOCKET_DIR=\"/opt/boxen/data/project-sockets\"\r\ndeclare -x BOXEN_SRC_DIR=\"/Users/zhickman/src\"\r\ndeclare -x BUNDLE_JOBS=\"8\"\r\ndeclare -x CFLAGS=\"-I/opt/boxen/homebrew/include\"\r\ndeclare -x COLORFGBG=\"7;0\"\r\ndeclare -x COMMAND_MODE=\"unix2003\"\r\ndeclare -x DISPLAY=\"/private/tmp/com.apple.launchd.ERAIuLfOp0/org.macosforge.xquartz:0\"\r\ndeclare -x HOME=\"/Users/zhickman\"\r\ndeclare -x HOMEBREW_CACHE=\"/opt/boxen/cache/homebrew\"\r\ndeclare -x HOMEBREW_ROOT=\"/opt/boxen/homebrew\"\r\ndeclare -x ITERM_PROFILE=\"Default\"\r\ndeclare -x ITERM_SESSION_ID=\"w0t4p0\"\r\ndeclare -x LANG=\"en_US.UTF-8\"\r\ndeclare -x LDFLAGS=\"-L/opt/boxen/homebrew/lib\"\r\ndeclare -x LOGNAME=\"zhickman\"\r\ndeclare -x MANPATH=\"/opt/boxen/homebrew/share/man:/opt/boxen/homebrew/share/man:\"\r\ndeclare -x NODENV_ROOT=\"/opt/boxen/nodenv\"\r\ndeclare -x NODE_PATH=\"/usr/local/lib/node_modules\"\r\n"
+    ],
+    [
+      0.000218,
+      "declare -x OLDPWD\r\ndeclare -x PATH=\"/Users/zhickman/.local/lib/node_modules/coffee-script/bin:bin:/opt/boxen/rbenv/shims:/opt/boxen/rbenv/bin:/opt/boxen/ruby-build/bin:node_modules/.bin:/opt/boxen/nodenv/shims:/opt/boxen/nodenv/bin:/opt/boxen/bin:/opt/boxen/homebrew/bin:/opt/boxen/homebrew/sbin:bin:/opt/boxen/rbenv/shims:/opt/boxen/rbenv/bin:/opt/boxen/ruby-build/bin:node_modules/.bin:/opt/boxen/nodenv/shims:/opt/boxen/nodenv/bin:/opt/boxen/bin:/opt/boxen/homebrew/bin:/opt/boxen/homebrew/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin\"\r\ndeclare -x PWD=\"/Users/zhickman\"\r\ndeclare -x RBENV_ROOT=\"/opt/boxen/rbenv\"\r\ndeclare -x SECURITYSESSIONID=\"186a5\"\r\ndeclare -x SHELL=\"/opt/boxen/homebrew/bin/bash\"\r\ndeclare -x SHLVL=\"3\"\r\ndeclare -x SSH_AUTH_SOCK=\"/private/tmp/com.apple.launchd.ASP6VSUKFY/Listeners\"\r\ndeclare -x TERM=\"xterm-256color\"\r\ndeclare -x TERM_PROGRAM=\"iTerm.app\"\r\ndeclare -x TMPDIR=\"/var/folders/sz/n4mnl8ln6wd2r56bg0xrkg_d7ymkkp/T/\"\r\ndeclare -x USER=\"zhickman\"\r\ndeclare -x VIRTUALENVWRAPPER_HO"
+    ],
+    [
+      0.000013,
+      "OK_DIR=\"/Users/zhickman/.virtualenvs\"\r\ndeclare -x VIRTUALENVWRAPPER_PROJECT_FILENAME=\".project\"\r\ndeclare -x WORKON_HOME=\"/Users/zhickman/.virtualenvs\"\r\ndeclare -x XPC_FLAGS=\"0x0\"\r\ndeclare -x XPC_SERVICE_NAME=\"0\"\r\ndeclare -x __CF_USER_TEXT_ENCODING=\"0x4FEA4A56:0x0:0x0\"\r\n"
+    ],
+    [
+      0.001275,
+      "\u001b[H\u001b[2J"
+    ],
+    [
+      0.000710,
+      "bash-4.3$ "
+    ],
+    [
+      2.155854,
+      "l"
+    ],
+    [
+      0.157744,
+      "o"
+    ],
+    [
+      0.168641,
+      "l"
+    ],
+    [
+      0.168585,
+      " "
+    ],
+    [
+      0.112361,
+      "w"
+    ],
+    [
+      0.056356,
+      "a"
+    ],
+    [
+      0.135079,
+      "t"
+    ],
+    [
+      0.180020,
+      "\r\n"
+    ],
+    [
+      0.000827,
+      "bash: lol: command not found\r\n"
+    ],
+    [
+      0.000249,
+      "bash-4.3$ "
+    ],
+    [
+      0.403834,
+      "t"
+    ],
+    [
+      0.045238,
+      "r"
+    ],
+    [
+      0.168543,
+      "y"
+    ],
+    [
+      0.270236,
+      "i"
+    ],
+    [
+      0.494756,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.146386,
+      " "
+    ],
+    [
+      0.112513,
+      "s"
+    ],
+    [
+      0.168678,
+      "e"
+    ],
+    [
+      0.145881,
+      "l"
+    ],
+    [
+      0.067811,
+      "e"
+    ],
+    [
+      0.078981,
+      "c"
+    ],
+    [
+      0.236238,
+      "t"
+    ],
+    [
+      0.055901,
+      "i"
+    ],
+    [
+      0.157801,
+      "n"
+    ],
+    [
+      0.067485,
+      "g"
+    ],
+    [
+      0.112338,
+      " "
+    ],
+    [
+      0.157260,
+      "t"
+    ],
+    [
+      0.090376,
+      "h"
+    ],
+    [
+      0.067331,
+      "i"
+    ],
+    [
+      0.146431,
+      "s"
+    ],
+    [
+      0.337455,
+      " "
+    ],
+    [
+      0.236211,
+      "s"
+    ],
+    [
+      0.101198,
+      "h"
+    ],
+    [
+      0.078580,
+      "i"
+    ],
+    [
+      0.112796,
+      "t"
+    ],
+    [
+      0.292240,
+      "\r\n"
+    ],
+    [
+      0.000894,
+      "bash: try: command not found\r\n"
+    ],
+    [
+      0.000276,
+      "bash-4.3$ "
+    ],
+    [
+      3.824492,
+      "exit\r\n"
+    ]
+  ]
+}
