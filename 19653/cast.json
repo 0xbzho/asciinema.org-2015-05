@@ -1,0 +1,690 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 20,
+  "duration": 20.687635,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.095829,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000138,
+      "\u001b]2;kono@retinak: ~/git/ci-service-template\u0007"
+    ],
+    [
+      0.000062,
+      "\u001b]1;...ice-template\u0007"
+    ],
+    [
+      0.051446,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[36m~/g/ci-service-template\u001b[39m \u001b[34mgit\u001b[39m:\u001b[32mdevelop\u001b[39m "
+    ],
+    [
+      0.000018,
+      "\u001b[K\u001b[41C \u001b[1m\u001b[34m✱\u001b[39m\u001b[0m\u001b[43D"
+    ],
+    [
+      0.000094,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.001244,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[36m~/g/ci-service-template\u001b[39m \u001b[34mgit\u001b[39m:\u001b[32mdevelop\u001b[39m \u001b[1m\u001b[31m❯\u001b[33m❯\u001b[32m❯\u001b[39m\u001b[0m \u001b[K\u001b[37C \u001b[1m\u001b[34m✱\u001b[39m\u001b[0m\u001b[39D"
+    ],
+    [
+      2.151646,
+      "l"
+    ],
+    [
+      0.110584,
+      "\u0008ls"
+    ],
+    [
+      0.120170,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.001850,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[36m~/g/ci-service-template\u001b[39m \u001b[34mgit\u001b[39m:\u001b[32mdevelop\u001b[39m \u001b[1m\u001b[31m❯\u001b[33m❯\u001b[32m❯\u001b[39m\u001b[0m ls\u001b[K\u001b[35C \u001b[1m\u001b[34m✱\u001b[39m\u001b[0m\u001b[37D"
+    ],
+    [
+      0.000093,
+      "\r\r\n"
+    ],
+    [
+      0.001385,
+      "\u001b]2;kono@retinak: ls\u0007"
+    ],
+    [
+      0.000077,
+      "\u001b]1;ls\u0007"
+    ],
+    [
+      0.005711,
+      "LICENSE            \u001b[34mci-service\u001b[39;49m\u001b[0m         \u001b[34mdocs\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000009,
+      "README.md          docker-compose.yml \u001b[34msample-notebooks\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000441,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000258,
+      "\u001b]2;kono@retinak: ~/git/ci-service-template\u0007"
+    ],
+    [
+      0.000091,
+      "\u001b]1;...ice-template\u0007"
+    ],
+    [
+      0.045944,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[36m~/g/ci-service-template\u001b[39m \u001b[34mgit\u001b[39m:\u001b[32mdevelop\u001b[39m \u001b[1m\u001b[31m❯\u001b[33m❯\u001b[32m❯\u001b[39m\u001b[0m "
+    ],
+    [
+      0.000007,
+      "\u001b[K\u001b[37C \u001b[1m\u001b[34m✱\u001b[39m\u001b[0m\u001b[39D"
+    ],
+    [
+      0.000085,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.001336,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[36m~/g/ci-service-template\u001b[39m \u001b[34mgit\u001b[39m:\u001b[32mdevelop\u001b[39m \u001b[1m\u001b[31m❯\u001b[33m❯\u001b[32m❯\u001b[39m\u001b[0m "
+    ],
+    [
+      0.000007,
+      "\u001b[K\u001b[37C \u001b[1m\u001b[34m✱\u001b[39m\u001b[0m\u001b[39D"
+    ],
+    [
+      0.446956,
+      "l"
+    ],
+    [
+      0.167669,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.001898,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[36m~/g/ci-service-template\u001b[39m \u001b[34mgit\u001b[39m:\u001b[32mdevelop\u001b[39m \u001b[1m\u001b[31m❯\u001b[33m❯\u001b[32m❯\u001b[39m\u001b[0m "
+    ],
+    [
+      0.000007,
+      "l\u001b[K\u001b[36C \u001b[1m\u001b[34m✱\u001b[39m\u001b[0m\u001b[38D"
+    ],
+    [
+      0.000066,
+      "\r\r\n"
+    ],
+    [
+      0.000642,
+      "\u001b]2;kono@retinak: ls\u0007"
+    ],
+    [
+      0.000049,
+      "\u001b]1;ls\u0007"
+    ],
+    [
+      0.005690,
+      "total 352\r\n"
+    ],
+    [
+      0.000267,
+      "drwxr-xr-x  13 kono  staff   442B May  7 12:57 \u001b[34m.\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000012,
+      "drwxr-xr-x  99 kono  staff   3.3K Apr 29 15:53 \u001b[34m..\u001b[39;49m\u001b[0m\r\n-rw-r--r--@  1 kono  staff   6.0K Apr 23 16:47 .DS_Store\r\n"
+    ],
+    [
+      0.000012,
+      "-rwxr-xr-x   1 kono  staff   150K Apr 23 11:23 \u001b[31m.aws-create.sh.un~\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000005,
+      "drwxr-xr-x  15 kono  staff   510B May  7 13:28 \u001b[34m.git\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000017,
+      "-rw-r--r--   1 kono  staff   730B May  7 11:16 .gitignore\r\n"
+    ],
+    [
+      0.000006,
+      "drwxr-xr-x  10 kono  staff   340B May  5 12:08 \u001b[34m.idea\u001b[39;49m\u001b[0m\r\n-rw-r--r--   1 kono  staff   1.1K Apr 22 20:05 LICENSE\r\n"
+    ],
+    [
+      0.000006,
+      "-rw-r--r--   1 kono  staff   408B May  7 11:16 README.md\r\n"
+    ],
+    [
+      0.000011,
+      "drwxr-xr-x   6 kono  staff   204B May  7 11:16 \u001b[34mci-service\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000004,
+      "-rw-r--r--   1 kono  staff   157B May  5 12:06 docker-compose.yml\r\n"
+    ],
+    [
+      0.000012,
+      "drwxr-xr-x   8 kono  staff   272B May  7 13:05 \u001b[34mdocs\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000022,
+      "drwxr-xr-x   4 kono  staff   136B May  7 11:16 \u001b[34msample-notebooks\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000406,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000215,
+      "\u001b]2;kono@retinak: ~/git/ci-service-template\u0007"
+    ],
+    [
+      0.000058,
+      "\u001b]1;...ice-template\u0007"
+    ],
+    [
+      0.046878,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[36m~/g/ci-service-template\u001b[39m \u001b[34mgit\u001b[39m:\u001b[32mdevelop\u001b[39m \u001b[1m\u001b[31m❯\u001b[33m❯\u001b[32m❯\u001b[39m\u001b[0m "
+    ],
+    [
+      0.000010,
+      "\u001b[K\u001b[37C \u001b[1m\u001b[34m✱\u001b[39m\u001b[0m\u001b[39D"
+    ],
+    [
+      0.000086,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.001650,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[36m~/g/ci-service-template\u001b[39m \u001b[34mgit\u001b[39m:\u001b[32mdevelop\u001b[39m \u001b[1m\u001b[31m❯\u001b[33m❯\u001b[32m❯\u001b[39m\u001b[0m \u001b[K\u001b[37C \u001b[1m\u001b[34m✱\u001b[39m\u001b[0m\u001b[39D"
+    ],
+    [
+      0.686477,
+      "c"
+    ],
+    [
+      0.071453,
+      "\u0008cd"
+    ],
+    [
+      0.088251,
+      " "
+    ],
+    [
+      0.871827,
+      "d"
+    ],
+    [
+      0.120119,
+      "o"
+    ],
+    [
+      0.471807,
+      "c"
+    ],
+    [
+      0.239730,
+      "\u001b[1m\u001b[31m...\u001b[39m\u001b[0m"
+    ],
+    [
+      0.012855,
+      "\u001b[33m\u001b[39m\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[36m~/g/ci-service-template\u001b[39m \u001b[34mgit\u001b[39m:\u001b[32mdevelop\u001b[39m \u001b[1m\u001b[31m❯\u001b[33m❯\u001b[32m❯\u001b[39m\u001b[0m cd docs\u001b[1m/\u001b[0m\u001b[K\u001b[29C \u001b[1m\u001b[34m✱\u001b[39m\u001b[0m\u001b[31D"
+    ],
+    [
+      0.467160,
+      "\u0008\u001b[0m \u0008"
+    ],
+    [
+      0.000017,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.001525,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[36m~/g/ci-service-template\u001b[39m \u001b[34mgit\u001b[39m:\u001b[32mdevelop\u001b[39m \u001b[1m\u001b[31m❯\u001b[33m❯\u001b[32m❯\u001b[39m\u001b[0m "
+    ],
+    [
+      0.000005,
+      "cd docs\u001b[K\u001b[30C \u001b[1m\u001b[34m✱\u001b[39m\u001b[0m\u001b[32D"
+    ],
+    [
+      0.000052,
+      "\r\r\n"
+    ],
+    [
+      0.000533,
+      "\u001b]2;kono@retinak: cd\u0007"
+    ],
+    [
+      0.000046,
+      "\u001b]1;cd\u0007"
+    ],
+    [
+      0.000093,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000138,
+      "\u001b]2;kono@retinak: ~/git/ci-service-template/docs\u0007"
+    ],
+    [
+      0.000005,
+      "\u001b]1;...emplate/docs\u0007"
+    ],
+    [
+      0.043256,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[36m~/g/c/docs\u001b[39m \u001b[34mgit\u001b[39m:\u001b[32mdevelop\u001b[39m \u001b[1m\u001b[31m❯\u001b[33m❯\u001b[32m❯\u001b[39m\u001b[0m "
+    ],
+    [
+      0.000007,
+      "\u001b[K\u001b[50C \u001b[1m\u001b[34m✱\u001b[39m\u001b[0m\u001b[52D"
+    ],
+    [
+      0.000156,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.001172,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[36m~/g/c/docs\u001b[39m \u001b[34mgit\u001b[39m:\u001b[32mdevelop\u001b[39m \u001b[1m\u001b[31m❯\u001b[33m❯\u001b[32m❯\u001b[39m\u001b[0m "
+    ],
+    [
+      0.000007,
+      "\u001b[K\u001b[50C \u001b[1m\u001b[34m✱\u001b[39m\u001b[0m\u001b[52D"
+    ],
+    [
+      0.649579,
+      "m"
+    ],
+    [
+      0.095314,
+      "\u0008ma"
+    ],
+    [
+      0.112433,
+      "k"
+    ],
+    [
+      0.127939,
+      "e"
+    ],
+    [
+      0.088082,
+      " "
+    ],
+    [
+      0.247880,
+      "h"
+    ],
+    [
+      0.168012,
+      "t"
+    ],
+    [
+      0.239814,
+      "m"
+    ],
+    [
+      0.151622,
+      "\u001b[1m\u001b[31m...\u001b[39m\u001b[0m"
+    ],
+    [
+      0.092055,
+      "\u001b[33m\u001b[39m\u001b[33m\u001b[39m\u001b[33m\u001b[39m\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[36m~/g/c/docs\u001b[39m \u001b[34mgit\u001b[39m:\u001b[32mdevelop\u001b[39m \u001b[1m\u001b[31m❯\u001b[33m❯\u001b[32m❯\u001b[39m\u001b[0m "
+    ],
+    [
+      0.000012,
+      "make html\u001b[K\u001b[41C \u001b[1m\u001b[34m✱\u001b[39m\u001b[0m\u001b[43D"
+    ],
+    [
+      0.252765,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.002253,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[36m~/g/c/docs\u001b[39m \u001b[34mgit\u001b[39m:\u001b[32mdevelop\u001b[39m \u001b[1m\u001b[31m❯\u001b[33m❯\u001b[32m❯\u001b[39m\u001b[0m "
+    ],
+    [
+      0.000008,
+      "make html\u001b[K\u001b[41C \u001b[1m\u001b[34m✱\u001b[39m\u001b[0m\u001b[43D"
+    ],
+    [
+      0.000119,
+      "\r\r\n"
+    ],
+    [
+      0.000747,
+      "\u001b]2;kono@retinak: make\u0007"
+    ],
+    [
+      0.000063,
+      "\u001b]1;make\u0007"
+    ],
+    [
+      0.014386,
+      "sphinx-build -b html -d _build/doctrees   . _build/html\r\n"
+    ],
+    [
+      0.437550,
+      "\u001b[01mRunning Sphinx v1.2.3\u001b[39;49;00m\r\n"
+    ],
+    [
+      0.095024,
+      "\u001b[01mloading pickled environment... \u001b[39;49;00m"
+    ],
+    [
+      0.001388,
+      "done\r\n"
+    ],
+    [
+      0.179880,
+      "\u001b[01mbuilding [html]: \u001b[39;49;00mtargets for 0 source files that are out of date\r\n"
+    ],
+    [
+      0.000273,
+      "\u001b[01mupdating environment: \u001b[39;49;00m"
+    ],
+    [
+      0.000985,
+      "0 added, 0 changed, 0 removed\r\n\u001b[01mlooking for now-outdated files... \u001b[39;49;00m"
+    ],
+    [
+      0.000005,
+      "none found\r\n\u001b[01mno targets are out of date.\u001b[39;49;00m\r\n"
+    ],
+    [
+      0.021400,
+      "\r\n"
+    ],
+    [
+      0.002743,
+      "Build finished. The HTML pages are in _build/html.\r\n"
+    ],
+    [
+      0.000542,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000144,
+      "\u001b]2;kono@retinak: ~/git/ci-service-template/docs\u0007"
+    ],
+    [
+      0.000042,
+      "\u001b]1;...emplate/docs\u0007"
+    ],
+    [
+      0.046844,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[36m~/g/c/docs\u001b[39m \u001b[34mgit\u001b[39m:\u001b[32mdevelop\u001b[39m \u001b[1m\u001b[31m❯\u001b[33m❯\u001b[32m❯\u001b[39m\u001b[0m "
+    ],
+    [
+      0.000007,
+      "\u001b[K\u001b[50C \u001b[1m\u001b[34m✱\u001b[39m\u001b[0m\u001b[52D"
+    ],
+    [
+      0.000053,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.001158,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[36m~/g/c/docs\u001b[39m \u001b[34mgit\u001b[39m:\u001b[32mdevelop\u001b[39m \u001b[1m\u001b[31m❯\u001b[33m❯\u001b[32m❯\u001b[39m\u001b[0m \u001b[K\u001b[50C \u001b[1m\u001b[34m✱\u001b[39m\u001b[0m\u001b[52D"
+    ],
+    [
+      1.482805,
+      "o"
+    ],
+    [
+      0.079324,
+      "\u0008op"
+    ],
+    [
+      0.103758,
+      "e"
+    ],
+    [
+      0.159806,
+      "n"
+    ],
+    [
+      0.103895,
+      " "
+    ],
+    [
+      0.784322,
+      "\u0008"
+    ],
+    [
+      0.250905,
+      "\u0008 \u0008"
+    ],
+    [
+      0.034114,
+      "\u0008 \u0008"
+    ],
+    [
+      0.033683,
+      "\u0008\u0008o \u0008"
+    ],
+    [
+      0.034233,
+      "\u0008 \u0008"
+    ],
+    [
+      1.023552,
+      "c"
+    ],
+    [
+      0.063333,
+      "\u0008cd"
+    ],
+    [
+      0.079988,
+      " "
+    ],
+    [
+      0.655877,
+      "_"
+    ],
+    [
+      0.336217,
+      "b"
+    ],
+    [
+      0.048073,
+      "u"
+    ],
+    [
+      0.143934,
+      "\u001b[1m\u001b[31m...\u001b[39m\u001b[0m"
+    ],
+    [
+      0.004948,
+      "\u001b[33m\u001b[39m\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[36m~/g/c/docs\u001b[39m \u001b[34mgit\u001b[39m:\u001b[32mdevelop\u001b[39m \u001b[1m\u001b[31m❯\u001b[33m❯\u001b[32m❯\u001b[39m\u001b[0m cd _build\u001b[1m/\u001b[0m\u001b[K\u001b[40C \u001b[1m\u001b[34m✱\u001b[39m\u001b[0m\u001b[42D"
+    ],
+    [
+      1.667859,
+      "\u0008\u001b[0m/h"
+    ],
+    [
+      0.351325,
+      "t"
+    ],
+    [
+      0.143777,
+      "\u001b[1m\u001b[31m...\u001b[39m\u001b[0m"
+    ],
+    [
+      0.007066,
+      "\u001b[33m\u001b[39m\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[36m~/g/c/docs\u001b[39m \u001b[34mgit\u001b[39m:\u001b[32mdevelop\u001b[39m \u001b[1m\u001b[31m❯\u001b[33m❯\u001b[32m❯\u001b[39m\u001b[0m cd _build/html\u001b[1m/\u001b[0m\u001b[K\u001b[35C \u001b[1m\u001b[34m✱\u001b[39m\u001b[0m\u001b[37D"
+    ],
+    [
+      0.397450,
+      "\u0008\u001b[0m \u0008"
+    ],
+    [
+      0.000030,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.001568,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[36m~/g/c/docs\u001b[39m \u001b[34mgit\u001b[39m:\u001b[32mdevelop\u001b[39m \u001b[1m\u001b[31m❯\u001b[33m❯\u001b[32m❯\u001b[39m\u001b[0m "
+    ],
+    [
+      0.000006,
+      "cd _build/html\u001b[K\u001b[36C \u001b[1m\u001b[34m✱\u001b[39m\u001b[0m\u001b[38D"
+    ],
+    [
+      0.000069,
+      "\r\r\n"
+    ],
+    [
+      0.000546,
+      "\u001b]2;kono@retinak: cd\u0007"
+    ],
+    [
+      0.000040,
+      "\u001b]1;cd\u0007"
+    ],
+    [
+      0.000127,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000114,
+      "\u001b]2;kono@retinak: ~/git/ci-service-template/docs/_build/html\u0007"
+    ],
+    [
+      0.000042,
+      "\u001b]1;.../_build/html\u0007"
+    ],
+    [
+      0.046200,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[36m~/g/c/d/_/html\u001b[39m \u001b[34mgit\u001b[39m:\u001b[32mdevelop\u001b[39m \u001b[1m\u001b[31m❯\u001b[33m❯\u001b[32m❯\u001b[39m\u001b[0m "
+    ],
+    [
+      0.000007,
+      "\u001b[K\u001b[46C \u001b[1m\u001b[34m✱\u001b[39m\u001b[0m\u001b[48D"
+    ],
+    [
+      0.000069,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.001222,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[36m~/g/c/d/_/html\u001b[39m \u001b[34mgit\u001b[39m:\u001b[32mdevelop\u001b[39m \u001b[1m\u001b[31m❯\u001b[33m❯\u001b[32m❯\u001b[39m\u001b[0m \u001b[K\u001b[46C \u001b[1m\u001b[34m✱\u001b[39m\u001b[0m\u001b[48D"
+    ],
+    [
+      0.442157,
+      "l"
+    ],
+    [
+      0.159459,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.001866,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[36m~/g/c/d/_/html\u001b[39m \u001b[34mgit\u001b[39m:\u001b[32mdevelop\u001b[39m \u001b[1m\u001b[31m❯\u001b[33m❯\u001b[32m❯\u001b[39m\u001b[0m "
+    ],
+    [
+      0.000008,
+      "l\u001b[K\u001b[45C \u001b[1m\u001b[34m✱\u001b[39m\u001b[0m\u001b[47D"
+    ],
+    [
+      0.000098,
+      "\r\r\n"
+    ],
+    [
+      0.000621,
+      "\u001b]2;kono@retinak: ls\u0007"
+    ],
+    [
+      0.000056,
+      "\u001b]1;ls\u0007"
+    ],
+    [
+      0.005849,
+      "total 64\r\n"
+    ],
+    [
+      0.000251,
+      "drwxr-xr-x  11 kono  staff   374B May  7 13:05 \u001b[34m.\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000006,
+      "drwxr-xr-x   4 kono  staff   136B May  7 13:05 \u001b[34m..\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000003,
+      "-rw-r--r--   1 kono  staff   230B May  7 13:05 .buildinfo\r\n"
+    ],
+    [
+      0.000014,
+      "drwxr-xr-x   4 kono  staff   136B May  7 13:05 \u001b[34m_sources\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000015,
+      "drwxr-xr-x  23 kono  staff   782B May  7 13:05 \u001b[34m_static\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000006,
+      "-rw-r--r--   1 kono  staff   2.7K May  7 13:05 genindex.html\r\n-rw-r--r--   1 kono  staff   4.3K May  7 13:05 index.html\r\n"
+    ],
+    [
+      0.000003,
+      "-rw-r--r--   1 kono  staff   217B May  7 13:05 objects.inv\r\n"
+    ],
+    [
+      0.000016,
+      "-rw-r--r--   1 kono  staff   3.5K May  7 13:05 quickstart.html\r\n"
+    ],
+    [
+      0.000006,
+      "-rw-r--r--   1 kono  staff   3.1K May  7 13:05 search.html\r\n-rw-r--r--   1 kono  staff   299B May  7 13:05 searchindex.js\r\n"
+    ],
+    [
+      0.000442,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000269,
+      "\u001b]2;kono@retinak: ~/git/ci-service-template/docs/_build/html\u0007"
+    ],
+    [
+      0.000072,
+      "\u001b]1;.../_build/html\u0007"
+    ],
+    [
+      0.045631,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[36m~/g/c/d/_/html\u001b[39m \u001b[34mgit\u001b[39m:\u001b[32mdevelop\u001b[39m \u001b[1m\u001b[31m❯\u001b[33m❯\u001b[32m❯\u001b[39m\u001b[0m "
+    ],
+    [
+      0.000010,
+      "\u001b[K\u001b[46C \u001b[1m\u001b[34m✱\u001b[39m\u001b[0m\u001b[48D"
+    ],
+    [
+      0.000078,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.001274,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[36m~/g/c/d/_/html\u001b[39m \u001b[34mgit\u001b[39m:\u001b[32mdevelop\u001b[39m \u001b[1m\u001b[31m❯\u001b[33m❯\u001b[32m❯\u001b[39m\u001b[0m "
+    ],
+    [
+      0.000010,
+      "\u001b[K\u001b[46C \u001b[1m\u001b[34m✱\u001b[39m\u001b[0m\u001b[48D"
+    ],
+    [
+      2.615869,
+      "\r\r\n"
+    ]
+  ]
+}
