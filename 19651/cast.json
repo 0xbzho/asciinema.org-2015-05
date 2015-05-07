@@ -1,0 +1,234 @@
+{
+  "version": 1,
+  "width": 107,
+  "height": 31,
+  "duration": 12.321464,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.247187,
+      "\u001b[1m\u001b[7m#\u001b[27m\u001b[1m\u001b[0m                                                                                                          \r \r"
+    ],
+    [
+      0.000045,
+      "\u001b]2;root@manushri: ~\u0007"
+    ],
+    [
+      0.000007,
+      "\u001b]1;~\u0007"
+    ],
+    [
+      0.031038,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[32m22:13:57\u001b[00m \u001b[34mroot\u001b[00m@manushri.local\u001b[00m \u001b[34m~\u001b[00m \u001b[K"
+    ],
+    [
+      0.000058,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      3.839992,
+      "l"
+    ],
+    [
+      0.449341,
+      "\u0008ls"
+    ],
+    [
+      2.048249,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000013,
+      "\r\r\n"
+    ],
+    [
+      0.036932,
+      "\u001b]2;ls -G\u0007\u001b]1;ls\u0007"
+    ],
+    [
+      0.007899,
+      "#psql-walk#                            \u001b[1m\u001b[36mPictures\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000017,
+      ".216132819947380.swp                   \u001b[1m\u001b[36mPublic\u001b[39;49m\u001b[0m\r\n.CFUserTextEncoding                    \u001b[1m\u001b[36mSKM-DATA\u001b[39;49m\u001b[0m\r\n.DS_Store                              \u001b[1m\u001b[36mVirtualBox VMs\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[1m\u001b[36m.DbSchema\u001b[39;49m\u001b[0m                              apache.retry\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[1m\u001b[36m.Trash\u001b[39;49m\u001b[0m                                 \u001b[1m\u001b[36mbin\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[1m\u001b[36m.ansible\u001b[39;49m\u001b[0m                               create-user.retry\r\n"
+    ],
+    [
+      0.000005,
+      ".anyconnect                            \u001b[31mcurl\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[1m\u001b[36m.asciinema\u001b[39;49m\u001b[0m                             \u001b[1m\u001b[36mdata\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000004,
+      ".bash_history                          database-setup\r\n"
+    ],
+    [
+      0.000006,
+      ".bash_profile                          database-setup~\r\n"
+    ],
+    [
+      0.000002,
+      "\u001b[1m\u001b[36m.boot2docker\u001b[39;49m\u001b[0m                           diagram-test-db.dbs\r\n"
+    ],
+    [
+      0.000035,
+      "\u001b[1m\u001b[36m.dbvis\u001b[39;49m\u001b[0m                                 ejedomme.csv\r\n\u001b[1m\u001b[36m.dia-etc\u001b[39;49m\u001b[0m                               ejendomme-distance.bak\r\n\u001b[1m\u001b[36m.emacs.d\u001b[39;49m\u001b[0m                               ejendomme-distance.bak.lst\r\n\u001b[1m\u001b[36m.fsav\u001b[39;49m\u001b[0m                                  ejendomme.sql\r\n.gitconfig                             get-intel.retry\r\n\u001b[1m\u001b[36m.lein\u001b[39;49m\u001b[0m                                  initialize-ansible-client-host.retry\r\n"
+    ],
+    [
+      0.000004,
+      ".lein_history                          k\r\n.lesshst                               links-of-doom.doom\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[1m\u001b[36m.m2\u001b[39;49m\u001b[0m                                    links-of-doom.doom~\r\n"
+    ],
+    [
+      0.000002,
+      ".nginx_watch                           list\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[1m\u001b[36m.oh-my-zsh\u001b[39;49m\u001b[0m                             logfile\r\n"
+    ],
+    [
+      0.000005,
+      ".profile                               \u001b[1m\u001b[36mmnt\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000052,
+      ".psql_history                          passwd\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[1m\u001b[36m.ssh\u001b[39;49m\u001b[0m                                   postgres.retry\r\n.test.sql.swp                          \u001b[1m\u001b[36mprojects\u001b[39;49m\u001b[0m\r\n\u001b[1m\u001b[36m.vagrant.d\u001b[39;49m\u001b[0m                             psql-walk\r\n\u001b[1m\u001b[36m.vim\u001b[39;49m\u001b[0m                                   sas\r\n.viminfo                               sas~\r\n.zcompdump-Kevin’s MacBook Pro-5.0.5   server-setup\r\n.zcompdump-manushri-5.0.5              \u001b[1m\u001b[36mservo\u001b[39;49m\u001b[0m\r\n.zsh-update                            site.retry\r\n.zsh_history                           skattebasse2015!\r\n.zshrc                                 test.html\r\n.zshrc-e                               test.retry\r\n\u001b[1m\u001b[36mApplications\u001b[39;49m\u001b[0m                           test.sql\r\n"
+    ],
+    [
+      0.000012,
+      "\u001b[1m\u001b[36mDesktop\u001b[39;49m\u001b[0m                                testdata.html\r\n\u001b[1m\u001b[36mDocuments\u001b[39;49m\u001b[0m                              tomcat.retry\r\n\u001b[1m\u001b[36mDownloads\u001b[39;49m\u001b[0m                              useradd.retry\r\n"
+    ],
+    [
+      0.000092,
+      "\u001b[1m\u001b[36mLibrary\u001b[39;49m\u001b[0m                                wifi.log\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[1m\u001b[36mMovies\u001b[39;49m\u001b[0m                                 \u001b[31mwifi.sh\u001b[39;49m\u001b[0m\r\n\u001b[1m\u001b[36mMusic\u001b[39;49m\u001b[0m                                  wifi2.log\r\n"
+    ],
+    [
+      0.000180,
+      "\u001b[1m\u001b[7m#\u001b[27m\u001b[1m\u001b[0m                                                                                                          \r \r"
+    ],
+    [
+      0.000060,
+      "\u001b]2;root@manushri: ~\u0007"
+    ],
+    [
+      0.000011,
+      "\u001b]1;~\u0007"
+    ],
+    [
+      0.029057,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[32m22:14:03\u001b[00m \u001b[34mroot\u001b[00m@manushri.local\u001b[00m \u001b[34m~\u001b[00m \u001b[K"
+    ],
+    [
+      0.000049,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.421349,
+      "s"
+    ],
+    [
+      0.199941,
+      "\u0008ss"
+    ],
+    [
+      0.135558,
+      "h"
+    ],
+    [
+      0.640158,
+      " "
+    ],
+    [
+      0.176030,
+      "-"
+    ],
+    [
+      0.840195,
+      "\r\r\n"
+    ],
+    [
+      0.000589,
+      "\u001b[1m\u001b[7m#\u001b[27m\u001b[1m\u001b[0m                                                                                                          \r \r"
+    ],
+    [
+      0.000085,
+      "\u001b]2;root@manushri: ~\u0007"
+    ],
+    [
+      0.000006,
+      "\u001b]1;~\u0007"
+    ],
+    [
+      0.031277,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[31m22:14:07\u001b[00m \u001b[34mroot\u001b[00m@manushri.local\u001b[00m \u001b[34m~\u001b[00m "
+    ],
+    [
+      0.000006,
+      "\u001b[K\u001b[72C\u001b[31m1 ↵\u001b[00m\u001b[75D"
+    ],
+    [
+      0.000035,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.399966,
+      "e"
+    ],
+    [
+      0.223532,
+      "\u0008ex"
+    ],
+    [
+      0.088146,
+      "i"
+    ],
+    [
+      0.160033,
+      "t"
+    ],
+    [
+      0.224349,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000008,
+      "\r\r\n"
+    ],
+    [
+      0.026956,
+      "\u001b]2;exit\u0007\u001b]1;exit\u0007"
+    ]
+  ]
+}
