@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "width": 212,
+  "height": 75,
+  "duration": 6.545468,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "screen",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.059459,
+      "stark@Nymeria:~/tools/asciinema/bin$ "
+    ],
+    [
+      0.852800,
+      "l"
+    ],
+    [
+      0.127656,
+      "s"
+    ],
+    [
+      0.064305,
+      "\r\n"
+    ],
+    [
+      0.002407,
+      "\u001b[0m\u001b[01;32masciinema\u001b[0m\r\n"
+    ],
+    [
+      0.000635,
+      "stark@Nymeria:~/tools/asciinema/bin$ "
+    ],
+    [
+      1.020951,
+      "l"
+    ],
+    [
+      0.095860,
+      "s"
+    ],
+    [
+      0.127788,
+      " "
+    ],
+    [
+      1.040325,
+      "."
+    ],
+    [
+      0.143886,
+      "."
+    ],
+    [
+      0.192558,
+      "\r\n"
+    ],
+    [
+      0.001811,
+      "\u001b[0m\u001b[01;34mbin\u001b[0m  \u001b[01;32minstall\u001b[0m\r\n"
+    ],
+    [
+      0.000492,
+      "stark@Nymeria:~/tools/asciinema/bin$ "
+    ],
+    [
+      2.814264,
+      "exit\r\n"
+    ]
+  ]
+}
