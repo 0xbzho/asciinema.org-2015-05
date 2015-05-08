@@ -1,0 +1,1350 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 25,
+  "duration": 37.225329,
+  "command": "zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "zsh"
+  },
+  "stdout": [
+    [
+      1.222494,
+      "\u001b]4;0;rgb:15/15/15\u001b\\\u001b]4;1;rgb:ac/41/42\u001b\\"
+    ],
+    [
+      0.000022,
+      "\u001b]4;2;rgb:90/a9/59\u001b\\\u001b]4;3;rgb:f4/bf/75\u001b\\\u001b]4;4;rgb:6a/9f/b5\u001b\\"
+    ],
+    [
+      0.000014,
+      "\u001b]4;5;rgb:aa/75/9f\u001b\\"
+    ],
+    [
+      0.000011,
+      "\u001b]4;6;rgb:75/b5/aa\u001b\\"
+    ],
+    [
+      0.000027,
+      "\u001b]4;7;rgb:d0/d0/d0\u001b\\"
+    ],
+    [
+      0.000013,
+      "\u001b]4;8;rgb:50/50/50\u001b\\\u001b]4;9;rgb:ac/41/42\u001b\\"
+    ],
+    [
+      0.000017,
+      "\u001b]4;10;rgb:90/a9/59\u001b\\"
+    ],
+    [
+      0.000005,
+      "\u001b]4;11;rgb:f4/bf/75\u001b\\"
+    ],
+    [
+      0.000019,
+      "\u001b]4;12;rgb:6a/9f/b5\u001b\\"
+    ],
+    [
+      0.000011,
+      "\u001b]4;13;rgb:aa/75/9f\u001b\\"
+    ],
+    [
+      0.000010,
+      "\u001b]4;14;rgb:75/b5/aa\u001b\\"
+    ],
+    [
+      0.000012,
+      "\u001b]4;15;rgb:f5/f5/f5\u001b\\"
+    ],
+    [
+      0.000062,
+      "\u001b]4;16;rgb:d2/84/45\u001b\\"
+    ],
+    [
+      0.000004,
+      "\u001b]4;17;rgb:8f/55/36\u001b\\"
+    ],
+    [
+      0.000003,
+      "\u001b]4;18;rgb:20/20/20\u001b\\"
+    ],
+    [
+      0.000013,
+      "\u001b]4;19;rgb:30/30/30\u001b\\"
+    ],
+    [
+      0.000004,
+      "\u001b]4;20;rgb:b0/b0/b0\u001b\\"
+    ],
+    [
+      0.000004,
+      "\u001b]4;21;rgb:e0/e0/e0\u001b\\"
+    ],
+    [
+      0.109969,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000107,
+      "\u001b]2;andy@air2000: ~\u0007"
+    ],
+    [
+      0.000008,
+      "\u001b]1;~\u0007"
+    ],
+    [
+      0.033953,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[38;5;135mandy\u001b[00m at \u001b[38;5;166mair2000\u001b[00m in \u001b[38;5;118m~\u001b[00m \u001b[00m\r\n$ "
+    ],
+    [
+      0.000008,
+      "\u001b[K"
+    ],
+    [
+      0.000149,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      3.734529,
+      "\u001b[4m\u001b[33mc\u001b[24m\u001b[39m"
+    ],
+    [
+      0.001900,
+      "\u0008\u001b[24m\u001b[32mc\u001b[32md\u001b[39m"
+    ],
+    [
+      0.123311,
+      " "
+    ],
+    [
+      1.071232,
+      "\u001b[4m~\u001b[24m"
+    ],
+    [
+      1.617877,
+      "\u0008\u001b[4m\u001b[33m~\u001b[4m\u001b[33m.\u001b[24m\u001b[39m"
+    ],
+    [
+      0.303525,
+      "\u0008\u001b[4m\u001b[33m.\u001b[4m\u001b[33ms\u001b[24m\u001b[39m"
+    ],
+    [
+      0.382821,
+      "\u0008\u0008\u001b[4m\u001b[33m.\u001b[24m\u001b[39m\u001b[24m\u001b[39m \u0008"
+    ],
+    [
+      0.186005,
+      "\u0008\u0008\u001b[39m\u001b[4m~\u001b[24m\u001b[24m\u001b[39m \u0008"
+    ],
+    [
+      0.669646,
+      "\u0008\u001b[4m~\u001b[4m/\u001b[24m"
+    ],
+    [
+      0.455518,
+      "\u0008\u001b[4m/\u001b[4ms\u001b[24m"
+    ],
+    [
+      0.155032,
+      "\u0008\u001b[4ms\u001b[4mr\u001b[24m"
+    ],
+    [
+      0.241777,
+      "\u0008\u001b[4mr\u001b[4mc\u001b[24m"
+    ],
+    [
+      0.486011,
+      "\u0008\u001b[4mc\u001b[4m/\u001b[24m"
+    ],
+    [
+      0.164058,
+      "\u0008\u001b[4m/\u001b[4mg\u001b[24m"
+    ],
+    [
+      0.115044,
+      "\u0008\u001b[4mg\u001b[4mo\u001b[24m"
+    ],
+    [
+      0.290857,
+      "\u0008\u001b[4mo\u001b[4m/\u001b[24m"
+    ],
+    [
+      0.130004,
+      "\u0008\u001b[4m/\u001b[4ms\u001b[24m"
+    ],
+    [
+      0.157721,
+      "\u0008\u001b[4ms\u001b[4mr\u001b[24m"
+    ],
+    [
+      0.166952,
+      "\u001b[11D\u001b[24m~\u001b[24m/\u001b[24ms\u001b[24mr\u001b[24mc\u001b[24m/\u001b[24mg\u001b[24mo\u001b[24m/\u001b[24ms\u001b[24mrc\u001b[1m/\u001b[0m"
+    ],
+    [
+      0.917963,
+      "\u001b[13D\u001b[4m~\u001b[4m/\u001b[4ms\u001b[4mr\u001b[4mc\u001b[4m/\u001b[4mg\u001b[4mo\u001b[4m/\u001b[4ms\u001b[4mr\u001b[4mc\u001b[0m\u001b[4m/\u001b[4mg\u001b[24m"
+    ],
+    [
+      0.094638,
+      "\u0008\u001b[4mg\u001b[4mi\u001b[24m"
+    ],
+    [
+      0.093125,
+      "\u0008\u001b[4mi\u001b[4mt\u001b[24m"
+    ],
+    [
+      0.196005,
+      "\u001b[16D\u001b[24m~\u001b[24m/\u001b[24ms\u001b[24mr\u001b[24mc\u001b[24m/\u001b[24mg\u001b[24mo\u001b[24m/\u001b[24ms\u001b[24mr\u001b[24mc\u001b[24m/\u001b[24mg\u001b[24mi\u001b[24mthub.com\u001b[1m/\u001b[0m"
+    ],
+    [
+      1.653681,
+      "\u001b[24D\u001b[4m~\u001b[4m/\u001b[4ms\u001b[4mr\u001b[4mc\u001b[4m/\u001b[4mg\u001b[4mo\u001b[4m/\u001b[4ms\u001b[4mr\u001b[4mc\u001b[4m/\u001b[4mg\u001b[4mi\u001b[4mt\u001b[4mh\u001b[4mu\u001b[4mb\u001b[4m.\u001b[4mc\u001b[4mo\u001b[4mm\u001b[0m\u001b[4m/\u001b[4mp\u001b[24m"
+    ],
+    [
+      0.056356,
+      "\u0008\u001b[4mp\u001b[4me\u001b[24m"
+    ],
+    [
+      0.174031,
+      "\u0008\u001b[4me\u001b[4mc\u001b[24m"
+    ],
+    [
+      0.092911,
+      "\u0008\u001b[4mc\u001b[4mo\u001b[24m"
+    ],
+    [
+      0.156440,
+      "\u001b[28D\u001b[24m~\u001b[24m/\u001b[24ms\u001b[24mr\u001b[24mc\u001b[24m/\u001b[24mg\u001b[24mo\u001b[24m/\u001b[24ms\u001b[24mr\u001b[24mc\u001b[24m/\u001b[24mg\u001b[24mi\u001b[24mt\u001b[24mh\u001b[24mu\u001b[24mb\u001b[24m.\u001b[24mc\u001b[24mo\u001b[24mm\u001b[24m/\u001b[24mp\u001b[24me\u001b[24mc\u001b[24mo\u001b[1m/\u001b[0m"
+    ],
+    [
+      0.454638,
+      "\u001b[29D\u001b[4m~\u001b[4m/\u001b[4ms\u001b[4mr\u001b[4mc\u001b[4m/\u001b[4mg\u001b[4mo\u001b[4m/\u001b[4ms\u001b[4mr\u001b[4mc\u001b[4m/\u001b[4mg\u001b[4mi\u001b[4mt\u001b[4mh\u001b[4mu\u001b[4mb\u001b[4m.\u001b[4mc\u001b[4mo\u001b[4mm\u001b[4m/\u001b[4mp\u001b[4me\u001b[4mc\u001b[4mo\u001b[0m\u001b[4m/\u001b[4mp\u001b[24m"
+    ],
+    [
+      0.092250,
+      "\u0008\u001b[4mp\u001b[4me\u001b[24m"
+    ],
+    [
+      0.147654,
+      "\u0008\u001b[4me\u001b[4mc\u001b[24m"
+    ],
+    [
+      0.106913,
+      "\u0008\u001b[4mc\u001b[4mo\u001b[24m"
+    ],
+    [
+      0.301776,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000042,
+      "\r\r\n"
+    ],
+    [
+      0.003829,
+      "\u001b]2;cd ~/src/go/src/github.com/peco/peco\u0007\u001b]1;cd\u0007"
+    ],
+    [
+      0.406447,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000141,
+      "\u001b]2;andy@air2000: ~/src/go/src/github.com/peco/peco\u0007"
+    ],
+    [
+      0.000020,
+      "\u001b]1;..com/peco/peco\u0007"
+    ],
+    [
+      0.042318,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[38;5;135mandy\u001b[00m at \u001b[38;5;166mair2000\u001b[00m in \u001b[38;5;118m~/src/go/src/github.com/peco/peco\u001b[00m (\u001b[38;5;81mfuzzy-filter\u001b[38;5;166m●\u001b[00m) \u001b[00m\r\n$ "
+    ],
+    [
+      0.000009,
+      "\u001b[K"
+    ],
+    [
+      0.000066,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.596989,
+      "\u001b[4mv\u001b[24m"
+    ],
+    [
+      0.002099,
+      "\u0008\u001b[24m\u001b[32mv\u001b[32mi\u001b[39m"
+    ],
+    [
+      0.178563,
+      "\u0008\u0008\u001b[32mv\u001b[32mi\u001b[32mm\u001b[39m"
+    ],
+    [
+      0.141031,
+      " "
+    ],
+    [
+      0.381038,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000017,
+      "\r\r\n"
+    ],
+    [
+      0.002665,
+      "\u001b]2;vim\u0007"
+    ],
+    [
+      0.000007,
+      "\u001b]1;vim\u0007"
+    ],
+    [
+      0.551392,
+      "\u001b[?1000h\u001b[?1049h\u001b[?1h\u001b=\u001b[2;1H▽\u001b[6n\u001b[1;1H  \u001b[1;1H"
+    ],
+    [
+      0.030309,
+      "\u001b[1;25r\u001b[?12;25h\u001b[?12l\u001b[?25h\u001b[27m\u001b[m\u001b[97m\u001b[H\u001b[2J\u001b[\u003ec"
+    ],
+    [
+      0.183413,
+      "\u001b[?1000l\u001b[?1002h\u001b[?25l\u001b[1;3H\u001b[93m  1 \u001b[m\u001b[97m\u001b[48;5;238m                                                                          \u001b[m\u001b[97m\u001b[2;3H\u001b[1m\u001b[90m~                                                                             \u001b[3;3H~                                                                             \u001b[4;3H~                                                                             \u001b[5;3H~                                                                             \u001b[6;3H~                                                                             \u001b[7;3H~                                                                             \u001b[8;3H~                                                                             \u001b[9;3H~                                                                             \u001b[10;3H~                                                                             \u001b[11;3H~                                                                             \u001b[12;3H~                           "
+    ],
+    [
+      0.000055,
+      "                                                  \u001b[13;3H~                                                                             \u001b[14;3H~                                                                             \u001b[15;3H~                                                                             \u001b[16;3H~                                                                             \u001b[17;3H~                                                                             \u001b[18;3H~                                                                             \u001b[19;3H~                                                                             \u001b[20;3H~                                                                             \u001b[21;3H~                                                                             \u001b[22;3H~                                                                             "
+    ],
+    [
+      0.158245,
+      "\u001b[?1002l"
+    ],
+    [
+      0.021239,
+      "\u001b[?1002h"
+    ],
+    [
+      0.000555,
+      "\u001b[?1002l"
+    ],
+    [
+      0.011867,
+      "\u001b[?1002h"
+    ],
+    [
+      0.153600,
+      "\u001b[m\u001b[97m\u001b[23;1H\u001b[38;5;17m\u001b[48;5;190m \u001b[m\u001b[97m\u001b[1m\u001b[38;5;17m\u001b[48;5;190mNORMAL\u001b[m\u001b[97m\u001b[38;5;17m\u001b[48;5;190m \u001b[m\u001b[97m\u001b[38;5;190m\u001b[48;5;238m\u001b[m\u001b[97m\u001b[38;5;255m\u001b[48;5;238m +0 ~0 -0  fuzzy-filter \u001b[m\u001b[97m\u001b[38;5;238m\u001b[48;5;234m\u001b[m\u001b[97m\u001b[38;5;85m\u001b[48;5;234m [No Name]               \u001b[m\u001b[97m\u001b[38;5;234m\u001b[48;5;234m\u001b[m\u001b[97m\u001b[38;5;238m\u001b[48;5;234m\u001b[m\u001b[97m\u001b[38;5;190m\u001b[48;5;238m\u001b[m\u001b[97m\u001b[38;5;17m\u001b[48;5;190m 100% \u001b[m\u001b[97m\u001b[1m\u001b[38;5;17m\u001b[48;5;190m   0\u001b[m\u001b[97m\u001b[38;5;17m\u001b[48;5;190m:  1  \u001b[m\u001b[97m\u001b[6;32HVIM - Vi IMproved\u001b[8;35Hversion 7.4\u001b[9;29Hby Bram Moolenaar et al.\u001b[10;19HVim is open source and freely distributable\u001b[12;26HBecome a registered Vim user!\u001b[13;18Htype  :help register\u001b[90m\u003cEnter\u003e\u001b[m\u001b[97m   for information \u001b[15;18Htype  :q\u001b[90m\u003cEnter\u003e\u001b[m\u001b[97m               to exit         \u001b[16;18Htype  :help\u001b[90m\u003cEnter\u003e\u001b[m\u001b[97m  or  \u001b[90m\u003cF1\u003e\u001b[m\u001b[97m  for on-line help\u001b[17;18Htype  :help version7\u001b[90m\u003cEnter\u003e\u001b[m\u001b[97m   for version info\u001b[1;7H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.552962,
+      "\u001b[?25l\u001b[24;1H:call PecoOpen()\r\u001b[?1002l"
+    ],
+    [
+      0.020118,
+      "\u001b[?1049h\u001b[?1h\u001b="
+    ],
+    [
+      0.000019,
+      "\u001b[?25l\u001b[H\u001b[2J"
+    ],
+    [
+      0.001060,
+      "\u001b(B\u001b[m\u001b[1;1HQUERY\u003e\u001b(B\u001b[m\u001b[7m\u001b[1;8H \u001b(B\u001b[m\u001b[1;65HFuzzy\u001b[1;71H[48\u001b[1;75H(1/3)]"
+    ],
+    [
+      0.000733,
+      "\u001b(B\u001b[m\u001b[45m\u001b[4m\u001b[2;1Haction.go                                                                       \u001b(B\u001b[m\u001b[3;1Haction_test.go\u001b[4;1Hbuffer.go\u001b[5;1Hbuffer_test.go\u001b[6;1Hbuild/make.go\u001b[7;1HChanges\u001b[8;1Hcli.go\u001b[9;1Hconfig.go\u001b[10;1Hconfig_darwin.go\u001b[11;1Hconfig_posix.go\u001b[12;1Hconfig_test.go\u001b[13;1Hconfig_windows.go\u001b[14;1Hctx.go\u001b[15;1Hdebug_off.go\u001b[16;1Hdebug_on.go\u001b[17;1Hfilter.go\u001b[18;1Hhub.go\u001b[19;1Hhub_test.go\u001b[20;1Hinput.go\u001b[21;1Hissues_test.go\u001b[22;1Hkeymap.go\u001b[23;1Hkeyseq/ahocorasick.go\u001b[24;1Hkeyseq/ahocorasick_test.go"
+    ],
+    [
+      0.609192,
+      "\u001b[1;8Hf\u001b(B\u001b[m\u001b[7m "
+    ],
+    [
+      0.000520,
+      "\u001b(B\u001b[m\u001b[1m\u001b[7m\u001b[25;80Hf"
+    ],
+    [
+      0.000461,
+      "\u001b[25;65HRunning query..."
+    ],
+    [
+      0.000447,
+      "\u001b(B\u001b[m\u001b[25;65H                "
+    ],
+    [
+      0.000436,
+      "\u001b[1;65H Fu\u001b[1;69Hzy [9\u001b[1;78H1"
+    ],
+    [
+      0.000845,
+      "\u001b(B\u001b[m\u001b[45m\u001b[4m\u001b[2;1Hbuf\u001b(B\u001b[m\u001b[36;45mf\u001b(B\u001b[m\u001b[45m\u001b[4mer\u001b(B\u001b[m\u001b[3;1Hbuf\u001b(B\u001b[m\u001b[36mf\u001b(B\u001b[mer\u001b[4;1Hcon\u001b(B\u001b[m\u001b[36mf\u001b(B\u001b[mig\u001b[5;1Hcon\u001b(B\u001b[m\u001b[36mf\u001b(B\u001b[mig\u001b[5;8Hdarwin.go\u001b[6;1Hcon\u001b(B\u001b[m\u001b[36mf\u001b(B\u001b[mig_posix.go\u001b[7;1Hcon\u001b(B\u001b[m\u001b[36mf\u001b(B\u001b[mig_test.go\u001b[8;2Hon\u001b(B\u001b[m\u001b[36mf\u001b(B\u001b[mig_windows.go\u001b[9;1Hdebug_of\u001b(B\u001b[m\u001b[36mf\u001b(B\u001b[m.go\u001b(B\u001b[m\u001b[36m\u001b[10;1Hf\u001b(B\u001b[milter.go       \u001b[11;1H               \u001b[12;1H              \u001b[13;1H                 \u001b[14;1H      \u001b[15;1H            \u001b[16;1H           \u001b[17;1H         \u001b[18;1H      \u001b[19;1H           \u001b[20;1H        \u001b[21;1H              \u001b[22;1H         \u001b[23;1H                     \u001b[24;1H                          "
+    ],
+    [
+      0.133296,
+      "\u001b(B\u001b[m\u001b[1m\u001b[7m\u001b[25;80Hi"
+    ],
+    [
+      0.000513,
+      "\u001b[25;65HRunning query..."
+    ],
+    [
+      0.000479,
+      "\u001b(B\u001b[m\u001b[1;9Hi\u001b(B\u001b[m\u001b[7m "
+    ],
+    [
+      0.000465,
+      "\u001b(B\u001b[m\u001b[25;65H                "
+    ],
+    [
+      0.000450,
+      "\u001b[1;73H6"
+    ],
+    [
+      0.000817,
+      "\u001b(B\u001b[m\u001b[45m\u001b[4m\u001b[2;1Hcon\u001b(B\u001b[m\u001b[36;45m\u001b[2;5Hi\u001b(B\u001b[m\u001b[45m\u001b[4mg\u001b(B\u001b[m\u001b[3;1Hcon\u001b[3;5Hig\u001b[3;8Hdarw\u001b(B\u001b[m\u001b[36mi\u001b(B\u001b[mn.go\u001b[4;7H_p\u001b[4;10Hs\u001b(B\u001b[m\u001b[36mi\u001b(B\u001b[mx.go\u001b(B\u001b[m\u001b[36m\u001b[5;5Hi\u001b(B\u001b[m\u001b[5;8Htest.go  \u001b[6;8Hw\u001b(B\u001b[m\u001b[36mi\u001b(B\u001b[mndows.go\u001b(B\u001b[m\u001b[36m\u001b[7;1Hfi\u001b(B\u001b[mlter.go     \u001b[8;1H                 \u001b[9;1H            \u001b[10;1H         "
+    ],
+    [
+      0.188198,
+      "\u001b(B\u001b[m\u001b[1m\u001b[7m\u001b[25;80Hl"
+    ],
+    [
+      0.000507,
+      "\u001b[25;65HRunning query..."
+    ],
+    [
+      0.000486,
+      "\u001b(B\u001b[m\u001b[1;10Hl\u001b(B\u001b[m\u001b[7m "
+    ],
+    [
+      0.000476,
+      "\u001b(B\u001b[m\u001b[25;65H                "
+    ],
+    [
+      0.000441,
+      "\u001b[1;73H1"
+    ],
+    [
+      0.000692,
+      "\u001b(B\u001b[m\u001b[36;45m\u001b[2;1Hfil\u001b(B\u001b[m\u001b[45m\u001b[4mter\u001b(B\u001b[m\u001b[3;1H                \u001b[4;1H               \u001b[5;1H              \u001b[6;1H                 \u001b[7;1H         "
+    ],
+    [
+      0.115495,
+      "\u001b(B\u001b[m\u001b[1m\u001b[7m\u001b[25;80Ht"
+    ],
+    [
+      0.000452,
+      "\u001b(B\u001b[m\u001b[1;11Ht\u001b(B\u001b[m\u001b[7m "
+    ],
+    [
+      0.000458,
+      "\u001b(B\u001b[m\u001b[1m\u001b[7m\u001b[25;65HRunning query..."
+    ],
+    [
+      0.000448,
+      "\u001b(B\u001b[m\u001b[25;65H                "
+    ],
+    [
+      0.001199,
+      "\u001b(B\u001b[m\u001b[36;45m\u001b[2;4Ht"
+    ],
+    [
+      0.176304,
+      "\u001b(B\u001b[m\u001b[1m\u001b[7m\u001b[25;80He"
+    ],
+    [
+      0.000794,
+      "\u001b[25;65HRunning query..."
+    ],
+    [
+      0.000482,
+      "\u001b(B\u001b[m\u001b[1;12He\u001b(B\u001b[m\u001b[7m "
+    ],
+    [
+      0.001200,
+      "\u001b(B\u001b[m\u001b[36;45m\u001b[2;5He"
+    ],
+    [
+      0.000443,
+      "\u001b(B\u001b[m\u001b[25;65H                "
+    ],
+    [
+      0.148046,
+      "\u001b(B\u001b[m\u001b[1m\u001b[7m\u001b[25;80Hr"
+    ],
+    [
+      0.000483,
+      "\u001b[25;65HRunning query..."
+    ],
+    [
+      0.000482,
+      "\u001b(B\u001b[m\u001b[1;13Hr\u001b(B\u001b[m\u001b[7m "
+    ],
+    [
+      0.000424,
+      "\u001b(B\u001b[m\u001b[25;65H                "
+    ],
+    [
+      0.001198,
+      "\u001b(B\u001b[m\u001b[36;45m\u001b[2;6Hr"
+    ],
+    [
+      1.582850,
+      "\u001b(B\u001b[m\u001b[1m\u001b[7m\u001b[25;78HC-8"
+    ],
+    [
+      0.000681,
+      "\u001b(B\u001b[m\u001b[7m\u001b[1;13H \u001b(B\u001b[m "
+    ],
+    [
+      0.000768,
+      "\u001b(B\u001b[m\u001b[45m\u001b[4m\u001b[2;6Hr"
+    ],
+    [
+      0.001556,
+      "\u001b(B\u001b[m\u001b[1m\u001b[7m\u001b[25;65HRunning query..."
+    ],
+    [
+      0.000438,
+      "\u001b(B\u001b[m\u001b[25;65H                "
+    ],
+    [
+      0.196834,
+      "\u001b(B\u001b[m\u001b[1m\u001b[7m\u001b[25;78HC-8"
+    ],
+    [
+      0.000467,
+      "\u001b[25;65HRunning query..."
+    ],
+    [
+      0.000445,
+      "\u001b(B\u001b[m\u001b[25;65H                "
+    ],
+    [
+      0.000460,
+      "\u001b(B\u001b[m\u001b[7m\u001b[1;12H \u001b(B\u001b[m "
+    ],
+    [
+      0.000745,
+      "\u001b(B\u001b[m\u001b[45m\u001b[4m\u001b[2;5He"
+    ],
+    [
+      0.018681,
+      "\u001b(B\u001b[m\u001b[1m\u001b[7m\u001b[25;78HC-8"
+    ],
+    [
+      0.000450,
+      "\u001b(B\u001b[m\u001b[7m\u001b[1;11H \u001b(B\u001b[m "
+    ],
+    [
+      0.000747,
+      "\u001b(B\u001b[m\u001b[45m\u001b[4m\u001b[2;4Ht"
+    ],
+    [
+      0.001554,
+      "\u001b(B\u001b[m\u001b[1m\u001b[7m\u001b[25;65HRunning query..."
+    ],
+    [
+      0.000480,
+      "\u001b(B\u001b[m\u001b[25;65H                "
+    ],
+    [
+      0.018338,
+      "\u001b(B\u001b[m\u001b[1m\u001b[7m\u001b[25;78HC-8"
+    ],
+    [
+      0.000498,
+      "\u001b[25;65HRunning query..."
+    ],
+    [
+      0.000477,
+      "\u001b(B\u001b[m\u001b[7m\u001b[1;10H \u001b(B\u001b[m \u001b[1;73H6"
+    ],
+    [
+      0.000855,
+      "\u001b(B\u001b[m\u001b[45m\u001b[4m\u001b[2;1Hcon\u001b(B\u001b[m\u001b[36;45mfi\u001b(B\u001b[m\u001b[45m\u001b[4mg\u001b(B\u001b[m\u001b[3;1Hcon\u001b(B\u001b[m\u001b[36mf\u001b(B\u001b[mig_darw\u001b(B\u001b[m\u001b[36mi\u001b(B\u001b[mn.go\u001b[4;1Hcon\u001b(B\u001b[m\u001b[36mf\u001b(B\u001b[mig_pos\u001b(B\u001b[m\u001b[36mi\u001b(B\u001b[mx.go\u001b[5;1Hcon\u001b(B\u001b[m\u001b[36mfi\u001b(B\u001b[mg_test.go\u001b[6;1Hcon\u001b(B\u001b[m\u001b[36mf\u001b(B\u001b[mig_w\u001b(B\u001b[m\u001b[36mi\u001b(B\u001b[mndows.go\u001b(B\u001b[m\u001b[36m\u001b[7;1Hfi\u001b(B\u001b[mlter.go"
+    ],
+    [
+      0.001500,
+      "\u001b[25;65H                "
+    ],
+    [
+      0.016288,
+      "\u001b(B\u001b[m\u001b[1m\u001b[7m\u001b[25;78HC-8"
+    ],
+    [
+      0.000481,
+      "\u001b(B\u001b[m\u001b[7m\u001b[1;9H \u001b(B\u001b[m \u001b[1;73H9"
+    ],
+    [
+      0.000819,
+      "\u001b(B\u001b[m\u001b[45m\u001b[4m\u001b[2;1Hbuf\u001b[2;5Her\u001b(B\u001b[m\u001b[3;1Hbuf\u001b[3;5Her\u001b[3;8Htest.go  \u001b[4;7H.g\u001b[4;10H      \u001b[5;5Hi\u001b[5;8Hdarwin.go\u001b[6;8Hposix.go  \u001b[7;1Hcon\u001b(B\u001b[m\u001b[36mf\u001b(B\u001b[mig_test.go\u001b[8;1Hcon\u001b(B\u001b[m\u001b[36mf\u001b(B\u001b[mig_windows.go\u001b[9;1Hdebug_of\u001b(B\u001b[m\u001b[36mf\u001b(B\u001b[m.go\u001b(B\u001b[m\u001b[36m\u001b[10;1Hf\u001b(B\u001b[milter.go"
+    ],
+    [
+      0.000497,
+      "\u001b(B\u001b[m\u001b[1m\u001b[7m\u001b[25;65HRunning query..."
+    ],
+    [
+      0.001428,
+      "\u001b(B\u001b[m\u001b[25;65H                "
+    ],
+    [
+      0.026971,
+      "\u001b(B\u001b[m\u001b[1m\u001b[7m\u001b[25;78HC-8"
+    ],
+    [
+      0.000459,
+      "\u001b(B\u001b[m\u001b[7m\u001b[1;8H \u001b(B\u001b[m \u001b[1;65HFuz\u001b[1;69Hy [48\u001b[1;78H3"
+    ],
+    [
+      0.000749,
+      "\u001b(B\u001b[m\u001b[45m\u001b[4m\u001b[2;1Haction\u001b(B\u001b[m\u001b[3;1Haction\u001b[4;1Hbuffer\u001b[5;1Hbuffer\u001b[5;8Htest.go  \u001b[6;1Hbuild/make.go  \u001b[7;1HChanges       \u001b[8;2Hli.go           \u001b[9;1Hconfig.go   \u001b[10;1Hconfig_darwin.go\u001b[11;1Hconfig_posix.go\u001b[12;1Hconfig_test.go\u001b[13;1Hconfig_windows.go\u001b[14;1Hctx.go\u001b[15;1Hdebug_off.go\u001b[16;1Hdebug_on.go\u001b[17;1Hfilter.go\u001b[18;1Hhub.go\u001b[19;1Hhub_test.go\u001b[20;1Hinput.go\u001b[21;1Hissues_test.go\u001b[22;1Hkeymap.go\u001b[23;1Hkeyseq/ahocorasick.go\u001b[24;1Hkeyseq/ahocorasick_test.go"
+    ],
+    [
+      0.717620,
+      "\u001b[25;78H   "
+    ],
+    [
+      0.420567,
+      "\u001b[1;8Ha\u001b(B\u001b[m\u001b[7m "
+    ],
+    [
+      0.000514,
+      "\u001b(B\u001b[m\u001b[1;72H15\u001b[1;78H1"
+    ],
+    [
+      0.000920,
+      "\u001b(B\u001b[m\u001b[36;45m\u001b[2;1Ha\u001b(B\u001b[m\u001b[36m\u001b[3;1Ha\u001b(B\u001b[m\u001b[4;3Hild/m\u001b(B\u001b[m\u001b[36ma\u001b(B\u001b[mke.go\u001b[5;1HCh\u001b(B\u001b[m\u001b[36ma\u001b(B\u001b[mnges       \u001b[6;1Hconfig_d\u001b(B\u001b[m\u001b[36ma\u001b(B\u001b[mrwin.go\u001b[7;1Hkeym\u001b(B\u001b[m\u001b[36ma\u001b(B\u001b[mp.go\u001b[8;1Hkeyseq/ahocor\u001b(B\u001b[m\u001b[36ma\u001b(B\u001b[msick.go\u001b[9;1Hkeyseq/ahocor\u001b(B\u001b[m\u001b[36ma\u001b(B\u001b[msick_test.go\u001b[10;1Hkeyseq/te\u001b[10;11Hn\u001b(B\u001b[m\u001b[36ma\u001b(B\u001b[mry.go\u001b[11;1Hkeyseq/tern\u001b(B\u001b[m\u001b[36ma\u001b(B\u001b[mry_test.go\u001b[12;1Hl\u001b(B\u001b[m\u001b[36ma\u001b(B\u001b[myout.go     \u001b[13;1Hl\u001b(B\u001b[m\u001b[36ma\u001b(B\u001b[myout\u001b[13;8Htest.go   \u001b[14;1Hre\u001b(B\u001b[m\u001b[36ma\u001b(B\u001b[mder.go\u001b[15;1Hr\u001b(B\u001b[m\u001b[36m\u001b[15;3Ha\u001b(B\u001b[mder_test.go\u001b[16;1HRE\u001b(B\u001b[m\u001b[36mA\u001b(B\u001b[mDME.md  \u001b[17;1H         \u001b[18;1H      \u001b[19;1H           \u001b[20;1H        \u001b[21;1H              \u001b[22;1H         \u001b[23;1H                     \u001b[24;1H                          "
+    ],
+    [
+      0.000485,
+      "\u001b(B\u001b[m\u001b[1m\u001b[7m\u001b[25;80Ha"
+    ],
+    [
+      0.000465,
+      "\u001b[25;65HRunning query..."
+    ],
+    [
+      0.000454,
+      "\u001b(B\u001b[m\u001b[25;65H                "
+    ],
+    [
+      0.275081,
+      "\u001b[1;9Hc\u001b(B\u001b[m\u001b[7m "
+    ],
+    [
+      0.000617,
+      "\u001b(B\u001b[m\u001b[1;65H Fu\u001b[1;69Hzy [4"
+    ],
+    [
+      0.001016,
+      "\u001b(B\u001b[m\u001b[36;45m\u001b[2;2Hc\u001b(B\u001b[m\u001b[36m\u001b[3;2Hc\u001b(B\u001b[m\u001b[4;1Hkeyseq/ahocor\u001b(B\u001b[m\u001b[36ma\u001b(B\u001b[msi\u001b(B\u001b[m\u001b[36mc\u001b(B\u001b[mk.go\u001b[5;1Hkeyseq/ahocor\u001b(B\u001b[m\u001b[36ma\u001b(B\u001b[msi\u001b(B\u001b[m\u001b[36mc\u001b(B\u001b[mk_test.go\u001b[6;1H                \u001b[7;1H         \u001b[8;1H                     \u001b[9;1H                          \u001b[10;1H                 \u001b[11;1H                      \u001b[12;1H         \u001b[13;1H              \u001b[14;1H         \u001b[15;1H              \u001b[16;1H         "
+    ],
+    [
+      0.001635,
+      "\u001b(B\u001b[m\u001b[1m\u001b[7m\u001b[25;80Hc"
+    ],
+    [
+      0.000492,
+      "\u001b[25;65HRunning query..."
+    ],
+    [
+      0.000488,
+      "\u001b(B\u001b[m\u001b[25;65H                "
+    ],
+    [
+      0.246503,
+      "\u001b[1;10Ht\u001b(B\u001b[m\u001b[7m "
+    ],
+    [
+      0.000439,
+      "\u001b(B\u001b[m\u001b[1;73H3"
+    ],
+    [
+      0.000862,
+      "\u001b(B\u001b[m\u001b[36;45m\u001b[2;3Ht\u001b(B\u001b[m\u001b[36m\u001b[3;11Ht\u001b(B\u001b[m\u001b[4;19H_tes\u001b(B\u001b[m\u001b[36mt\u001b(B\u001b[m.go\u001b[5;1H                          "
+    ],
+    [
+      0.001512,
+      "\u001b(B\u001b[m\u001b[1m\u001b[7m\u001b[25;80Ht"
+    ],
+    [
+      0.000493,
+      "\u001b[25;65HRunning query..."
+    ],
+    [
+      0.000445,
+      "\u001b(B\u001b[m\u001b[25;65H                "
+    ],
+    [
+      0.175122,
+      "\u001b(B\u001b[m\u001b[1m\u001b[7m\u001b[25;80Hi"
+    ],
+    [
+      0.000457,
+      "\u001b[25;65HRunning query..."
+    ],
+    [
+      0.000458,
+      "\u001b(B\u001b[m\u001b[25;65H                "
+    ],
+    [
+      0.000441,
+      "\u001b[1;11Hi\u001b(B\u001b[m\u001b[7m "
+    ],
+    [
+      0.000444,
+      "\u001b(B\u001b[m\u001b[1;73H2"
+    ],
+    [
+      0.000770,
+      "\u001b(B\u001b[m\u001b[36;45m\u001b[2;4Hi\u001b(B\u001b[m\u001b[36m\u001b[3;3Hti\u001b(B\u001b[m\u001b[3;11Ht\u001b[4;1H                          "
+    ],
+    [
+      0.148237,
+      "\u001b(B\u001b[m\u001b[1m\u001b[7m\u001b[25;80Ho"
+    ],
+    [
+      0.000459,
+      "\u001b(B\u001b[m\u001b[1;12Ho\u001b(B\u001b[m\u001b[7m "
+    ],
+    [
+      0.001217,
+      "\u001b(B\u001b[m\u001b[36;45m\u001b[2;9Ho                                                                       \u001b(B\u001b[m\u001b[36m\u001b[3;14Ho                                                                  "
+    ],
+    [
+      0.001528,
+      "\u001b(B\u001b[m\u001b[1m\u001b[7m\u001b[25;65HRunning query..."
+    ],
+    [
+      0.000417,
+      "\u001b(B\u001b[m\u001b[25;65H                "
+    ],
+    [
+      0.239614,
+      "\u001b(B\u001b[m\u001b[1m\u001b[7m\u001b[25;80Hn"
+    ],
+    [
+      0.000465,
+      "\u001b[25;65HRunning query..."
+    ],
+    [
+      0.000461,
+      "\u001b(B\u001b[m\u001b[25;65H                "
+    ],
+    [
+      0.000471,
+      "\u001b[1;13Hn\u001b(B\u001b[m\u001b[7m "
+    ],
+    [
+      0.001291,
+      "\u001b(B\u001b[m\u001b[36;45m\u001b[2;5Hon\u001b(B\u001b[m\u001b[45m\u001b[4m\u001b[2;9Ho                                                                       \u001b(B\u001b[m\u001b[36m\u001b[3;5Hon\u001b(B\u001b[m\u001b[3;14Ho                                                                  "
+    ],
+    [
+      0.769520,
+      "\u001b(B\u001b[m\u001b[1m\u001b[7m\u001b[25;78HC-8"
+    ],
+    [
+      0.000449,
+      "\u001b(B\u001b[m\u001b[7m\u001b[1;13H \u001b(B\u001b[m "
+    ],
+    [
+      0.000796,
+      "\u001b(B\u001b[m\u001b[45m\u001b[4m\u001b[2;5Hon\u001b(B\u001b[m\u001b[36;45m\u001b[2;9Ho                                                                       \u001b(B\u001b[m\u001b[3;5Hon\u001b(B\u001b[m\u001b[36m\u001b[3;14Ho                                                                  "
+    ],
+    [
+      0.000468,
+      "\u001b(B\u001b[m\u001b[1m\u001b[7m\u001b[25;65HRunning query..."
+    ],
+    [
+      0.000469,
+      "\u001b(B\u001b[m\u001b[25;65H                "
+    ],
+    [
+      0.198748,
+      "\u001b(B\u001b[m\u001b[1m\u001b[7m\u001b[25;78HC-8"
+    ],
+    [
+      0.000496,
+      "\u001b[25;65HRunning query..."
+    ],
+    [
+      0.000492,
+      "\u001b(B\u001b[m\u001b[25;65H                "
+    ],
+    [
+      0.000438,
+      "\u001b(B\u001b[m\u001b[7m\u001b[1;12H \u001b(B\u001b[m "
+    ],
+    [
+      0.000808,
+      "\u001b(B\u001b[m\u001b[45m\u001b[4m\u001b[2;9Ho                                                                       \u001b(B\u001b[m\u001b[3;14Ho                                                                  "
+    ],
+    [
+      0.018275,
+      "\u001b(B\u001b[m\u001b[1m\u001b[7m\u001b[25;78HC-8"
+    ],
+    [
+      0.000523,
+      "\u001b(B\u001b[m\u001b[7m\u001b[1;11H \u001b(B\u001b[m \u001b[1;73H3"
+    ],
+    [
+      0.000811,
+      "\u001b(B\u001b[m\u001b[45m\u001b[4m\u001b[2;4Hi\u001b(B\u001b[m\u001b[3;3Hti\u001b(B\u001b[m\u001b[36m\u001b[3;11Ht\u001b(B\u001b[m\u001b[4;1Hkeyseq/ahocor\u001b(B\u001b[m\u001b[36ma\u001b(B\u001b[msi\u001b(B\u001b[m\u001b[36mc\u001b(B\u001b[mk_tes\u001b(B\u001b[m\u001b[36mt\u001b(B\u001b[m.go"
+    ],
+    [
+      0.001587,
+      "\u001b(B\u001b[m\u001b[1m\u001b[7m\u001b[25;65HRunning query..."
+    ],
+    [
+      0.000443,
+      "\u001b(B\u001b[m\u001b[25;65H                "
+    ],
+    [
+      0.018248,
+      "\u001b(B\u001b[m\u001b[1m\u001b[7m\u001b[25;78HC-8"
+    ],
+    [
+      0.000497,
+      "\u001b[25;65HRunning query..."
+    ],
+    [
+      0.000478,
+      "\u001b(B\u001b[m\u001b[25;65H                "
+    ],
+    [
+      0.000488,
+      "\u001b(B\u001b[m\u001b[7m\u001b[1;10H \u001b(B\u001b[m \u001b[1;73H4"
+    ],
+    [
+      0.000837,
+      "\u001b(B\u001b[m\u001b[45m\u001b[4m\u001b[2;3Ht\u001b(B\u001b[m\u001b[3;11Ht\u001b[4;19H.go     \u001b[5;1Hkeyseq/ahocor\u001b(B\u001b[m\u001b[36ma\u001b(B\u001b[msi\u001b(B\u001b[m\u001b[36mc\u001b(B\u001b[mk_test.go"
+    ],
+    [
+      0.021945,
+      "\u001b(B\u001b[m\u001b[1m\u001b[7m\u001b[25;78HC-8"
+    ],
+    [
+      0.000513,
+      "\u001b[25;65HRunning query..."
+    ],
+    [
+      0.000482,
+      "\u001b(B\u001b[m\u001b[25;65H                "
+    ],
+    [
+      0.000463,
+      "\u001b(B\u001b[m\u001b[7m\u001b[1;9H \u001b(B\u001b[m \u001b[1;65HFuz\u001b[1;69Hy [15"
+    ],
+    [
+      0.000923,
+      "\u001b(B\u001b[m\u001b[45m\u001b[4m\u001b[2;2Hc\u001b(B\u001b[m\u001b[3;2Hc\u001b[4;1Hbuild/m\u001b(B\u001b[m\u001b[36ma\u001b(B\u001b[mke.go        \u001b[5;1HCh\u001b(B\u001b[m\u001b[36ma\u001b(B\u001b[mnges                   \u001b[6;1Hconfig_d\u001b(B\u001b[m\u001b[36ma\u001b(B\u001b[mrwin.go\u001b[7;1Hkeym\u001b(B\u001b[m\u001b[36ma\u001b(B\u001b[mp.go\u001b[8;1Hkeyseq/ahocor\u001b(B\u001b[m\u001b[36ma\u001b(B\u001b[msick.go\u001b[9;1Hkeyseq/ahocor\u001b(B\u001b[m\u001b[36ma\u001b(B\u001b[msick_test.go\u001b[10;1Hkeyseq/tern\u001b(B\u001b[m\u001b[36ma\u001b(B\u001b[mry.go\u001b[11;1Hkeyseq/tern\u001b(B\u001b[m\u001b[36ma\u001b(B\u001b[mry_test.go\u001b[12;1Hl\u001b(B\u001b[m\u001b[36ma\u001b(B\u001b[myout.go\u001b[13;1Hl\u001b(B\u001b[m\u001b[36ma\u001b(B\u001b[myout_test.go\u001b[14;1Hre\u001b(B\u001b[m\u001b[36ma\u001b(B\u001b[mder.go\u001b[15;1Hre\u001b(B\u001b[m\u001b[36ma\u001b(B\u001b[mder_test.go\u001b[16;1HRE\u001b(B\u001b[m\u001b[36mA\u001b(B\u001b[mDME.md"
+    ],
+    [
+      0.034146,
+      "\u001b(B\u001b[m\u001b[1m\u001b[7m\u001b[25;78HC-8"
+    ],
+    [
+      0.000457,
+      "\u001b(B\u001b[m\u001b[7m\u001b[1;8H \u001b(B\u001b[m \u001b[1;72H48\u001b[1;78H3"
+    ],
+    [
+      0.000756,
+      "\u001b(B\u001b[m\u001b[45m\u001b[4m\u001b[2;1Ha\u001b(B\u001b[m\u001b[3;1Ha\u001b[4;3Hffer.go    \u001b[5;1Hbuffer_test.go\u001b[6;1Hbuild/make.go   \u001b[7;1HChanges  \u001b[8;1Hcli.go               \u001b[9;1Hconfig.go                 \u001b[10;1Hconfig_da\u001b[10;11Hwin.go \u001b[11;1Hconfig_posix.go       \u001b[12;1Hconfig_test.go\u001b[13;1Hconfig\u001b[13;8Hwindows.go\u001b[14;1Hctx.go   \u001b[15;1Hd\u001b[15;3Hbug_off.go  \u001b[16;1Hdebug_on.go\u001b[17;1Hfilter.go\u001b[18;1Hhub.go\u001b[19;1Hhub_test.go\u001b[20;1Hinput.go\u001b[21;1Hissues_test.go\u001b[22;1Hkeymap.go\u001b[23;1Hkeyseq/ahocorasick.go\u001b[24;1Hkeyseq/ahocorasick_test.go"
+    ],
+    [
+      0.730314,
+      "\u001b[25;78H   "
+    ],
+    [
+      0.386336,
+      "\u001b(B\u001b[m\u001b[1m\u001b[7m\u001b[25;80Hk"
+    ],
+    [
+      0.000483,
+      "\u001b[25;65HRunning query..."
+    ],
+    [
+      0.000449,
+      "\u001b(B\u001b[m\u001b[25;65H                "
+    ],
+    [
+      0.000434,
+      "\u001b[1;8Hk\u001b(B\u001b[m\u001b[7m "
+    ],
+    [
+      0.000433,
+      "\u001b(B\u001b[m\u001b[1;72H12\u001b[1;78H1"
+    ],
+    [
+      0.000841,
+      "\u001b(B\u001b[m\u001b[45m\u001b[4m\u001b[2;1Hbuild/ma\u001b(B\u001b[m\u001b[36;45mk\u001b(B\u001b[m\u001b[45m\u001b[4me.go\u001b(B\u001b[m\u001b[36m\u001b[3;1Hk\u001b(B\u001b[meymap.go     \u001b[4;1Hkeys\u001b[4;6Hq/ahocorasic\u001b(B\u001b[m\u001b[36mk\u001b(B\u001b[m.go\u001b[5;1Hkeys\u001b[5;6Hq/ahocorasic\u001b(B\u001b[m\u001b[36mk\u001b(B\u001b[m_test.go\u001b[6;1Hkeyseq/\u001b(B\u001b[m\u001b[36mk\u001b(B\u001b[meys.go\u001b[7;1Hkeyseq/\u001b(B\u001b[m\u001b[36mk\u001b(B\u001b[meys_test.go\u001b[8;1Hkeyseq/\u001b(B\u001b[m\u001b[36mk\u001b(B\u001b[meyseq.go\u001b(B\u001b[m\u001b[36m\u001b[9;1Hk\u001b(B\u001b[meyseq/ternary.go\u001b(B\u001b[m\u001b[36m\u001b[10;1Hk\u001b(B\u001b[meyseq/te\u001b[10;11Hnary_test.go\u001b(B\u001b[m\u001b[36m\u001b[11;1Hk\u001b(B\u001b[meyseq/trie.go \u001b(B\u001b[m\u001b[36m\u001b[12;1Hk\u001b(B\u001b[meyseq/\u001b[12;9Hrie_test.go\u001b[13;1Hwerc\u001b(B\u001b[m\u001b[36mk\u001b(B\u001b[mer.yml      \u001b[14;1H      \u001b[15;1H            \u001b[16;1H           \u001b[17;1H         \u001b[18;1H      \u001b[19;1H           \u001b[20;1H        \u001b[21;1H              \u001b[22;1H         \u001b[23;1H                     \u001b[24;1H                          "
+    ],
+    [
+      0.605572,
+      "\u001b(B\u001b[m\u001b[1m\u001b[7m\u001b[25;78HC-8"
+    ],
+    [
+      0.000470,
+      "\u001b(B\u001b[m\u001b[7m\u001b[1;8H \u001b(B\u001b[m \u001b[1;72H48\u001b[1;78H3"
+    ],
+    [
+      0.000804,
+      "\u001b(B\u001b[m\u001b[45m\u001b[4m\u001b[2;1Haction.go    \u001b(B\u001b[m\u001b[3;1Haction_test.go\u001b[4;1Hbuff\u001b[4;6Hr.go            \u001b[5;1Hbuff\u001b[5;6Hr_test.go            \u001b[6;1Hbuild/make.go \u001b[7;1HChanges            \u001b[8;1Hcli.go          \u001b[9;1Hconfig.go        \u001b[10;1Hconfig_da\u001b[10;11Hwin.go      \u001b[11;1Hconfig_posix.go\u001b[12;1Hconfig_\u001b[12;9Hest.go     \u001b[13;1Hconfig_windows.go\u001b[14;1Hctx.go\u001b[15;1Hdebug_off.go\u001b[16;1Hdebug_on.go\u001b[17;1Hfilter.go\u001b[18;1Hhub.go\u001b[19;1Hhub_test.go\u001b[20;1Hinput.go\u001b[21;1Hissues_test.go\u001b[22;1Hkeymap.go\u001b[23;1Hkeyseq/ahocorasick.go\u001b[24;1Hkeyseq/ahocorasick_test.go"
+    ],
+    [
+      0.502092,
+      "\u001b[25;78H   "
+    ],
+    [
+      0.521124,
+      "\u001b[1;8Ha\u001b(B\u001b[m\u001b[7m "
+    ],
+    [
+      0.000603,
+      "\u001b(B\u001b[m\u001b[1m\u001b[7m\u001b[25;80Ha"
+    ],
+    [
+      0.000630,
+      "\u001b[25;65HRunning query..."
+    ],
+    [
+      0.000600,
+      "\u001b(B\u001b[m\u001b[25;65H                "
+    ],
+    [
+      0.000598,
+      "\u001b[1;72H15\u001b[1;78H1"
+    ],
+    [
+      0.001199,
+      "\u001b(B\u001b[m\u001b[36;45m\u001b[2;1Ha\u001b(B\u001b[m\u001b[36m\u001b[3;1Ha\u001b(B\u001b[m\u001b[4;3Hild/m\u001b(B\u001b[m\u001b[36ma\u001b(B\u001b[mke.go\u001b[5;1HCh\u001b(B\u001b[m\u001b[36ma\u001b(B\u001b[mnges       \u001b[6;1Hconfig_d\u001b(B\u001b[m\u001b[36ma\u001b(B\u001b[mrwin.go\u001b[7;1Hkeym\u001b(B\u001b[m\u001b[36ma\u001b(B\u001b[mp.go\u001b[8;1Hkeyseq/ahocor\u001b(B\u001b[m\u001b[36ma\u001b(B\u001b[msick.go\u001b[9;1Hkeyseq/ahocor\u001b(B\u001b[m\u001b[36ma\u001b(B\u001b[msick_test.go\u001b[10;1Hkeyseq/te\u001b[10;11Hn\u001b(B\u001b[m\u001b[36ma\u001b(B\u001b[mry.go\u001b[11;1Hkeyseq/tern\u001b(B\u001b[m\u001b[36ma\u001b(B\u001b[mry_test.go\u001b[12;1Hl\u001b(B\u001b[m\u001b[36ma\u001b(B\u001b[myout.go     \u001b[13;1Hl\u001b(B\u001b[m\u001b[36ma\u001b(B\u001b[myout\u001b[13;8Htest.go   \u001b[14;1Hre\u001b(B\u001b[m\u001b[36ma\u001b(B\u001b[mder.go\u001b[15;1Hr\u001b(B\u001b[m\u001b[36m\u001b[15;3Ha\u001b(B\u001b[mder_test.go\u001b[16;1HRE\u001b(B\u001b[m\u001b[36mA\u001b(B\u001b[mDME.md  \u001b[17;1H         \u001b[18;1H      \u001b[19;1H           \u001b[20;1H        \u001b[21;1H              \u001b[22;1H         \u001b[23;1H                     \u001b[24;1H                          "
+    ],
+    [
+      0.439724,
+      "\u001b(B\u001b[m\u001b[1m\u001b[7m\u001b[25;80Hh"
+    ],
+    [
+      0.000982,
+      "\u001b(B\u001b[m\u001b[1;9Hh\u001b(B\u001b[m\u001b[7m "
+    ],
+    [
+      0.000878,
+      "\u001b(B\u001b[m\u001b[1m\u001b[7m\u001b[25;65HRunning query..."
+    ],
+    [
+      0.000784,
+      "\u001b(B\u001b[m\u001b[1;65H Fu\u001b[1;69Hzy [2"
+    ],
+    [
+      0.001255,
+      "\u001b(B\u001b[m\u001b[45m\u001b[4m\u001b[2;1Hkeyseq/\u001b(B\u001b[m\u001b[36;45mah\u001b(B\u001b[m\u001b[45m\u001b[4mocorasick.go\u001b(B\u001b[m\u001b[3;1Hkeyseq/\u001b(B\u001b[m\u001b[36mah\u001b(B\u001b[mocorasick_test.go\u001b[4;1H             \u001b[5;1H       \u001b[6;1H                \u001b[7;1H         \u001b[8;1H                     \u001b[9;1H                          \u001b[10;1H                 \u001b[11;1H                      \u001b[12;1H         \u001b[13;1H              \u001b[14;1H         \u001b[15;1H              \u001b[16;1H         "
+    ],
+    [
+      0.000725,
+      "\u001b[25;65H                "
+    ],
+    [
+      0.327474,
+      "\u001b[1;10Ho\u001b(B\u001b[m\u001b[7m "
+    ],
+    [
+      0.001253,
+      "\u001b(B\u001b[m\u001b[36;45m\u001b[2;21Ho                                                           \u001b(B\u001b[m\u001b[36m\u001b[3;26Ho                                                      "
+    ],
+    [
+      0.000473,
+      "\u001b(B\u001b[m\u001b[1m\u001b[7m\u001b[25;80Ho"
+    ],
+    [
+      0.001556,
+      "\u001b[25;65HRunning query..."
+    ],
+    [
+      0.000429,
+      "\u001b(B\u001b[m\u001b[25;65H                "
+    ],
+    [
+      0.894435,
+      "\u001b(B\u001b[m\u001b[1m\u001b[7m\u001b[25;80H↓"
+    ],
+    [
+      0.001217,
+      "\u001b(B\u001b[m\u001b[2;1Hkeyseq/\u001b(B\u001b[m\u001b[36mah\u001b(B\u001b[mocorasick.g\u001b(B\u001b[m\u001b[36mo                                                           \u001b(B\u001b[m\u001b[45m\u001b[4m\u001b[3;1Hkeyseq/\u001b(B\u001b[m\u001b[36;45mah\u001b(B\u001b[m\u001b[45m\u001b[4mocorasick_test.g\u001b(B\u001b[m\u001b[36;45mo                                                      "
+    ],
+    [
+      0.242409,
+      "\u001b(B\u001b[m\u001b[1m\u001b[7m\u001b[25;80H↑"
+    ],
+    [
+      0.001216,
+      "\u001b(B\u001b[m\u001b[45m\u001b[4m\u001b[2;1Hkeyseq/\u001b(B\u001b[m\u001b[36;45mah\u001b(B\u001b[m\u001b[45m\u001b[4mocorasick.g\u001b(B\u001b[m\u001b[36;45mo                                                           \u001b(B\u001b[m\u001b[3;1Hkeyseq/\u001b(B\u001b[m\u001b[36mah\u001b(B\u001b[mocorasick_test.g\u001b(B\u001b[m\u001b[36mo                                                      "
+    ],
+    [
+      0.260756,
+      "\u001b(B\u001b[m\u001b[1m\u001b[7m\u001b[25;76HEnter"
+    ],
+    [
+      0.000009,
+      "\u001b[?12l\u001b[?25h\u001b(B\u001b[m\u001b[H\u001b[2J\u001b[?1049l\u001b[?1l\u001b\u003e\u001b[?1000l"
+    ],
+    [
+      0.006987,
+      "\u001b[?1002h"
+    ],
+    [
+      0.006804,
+      "\"keyseq/ahocorasick.go\""
+    ],
+    [
+      0.000307,
+      " 127L, 2349C"
+    ],
+    [
+      0.107642,
+      "\u001b[?1002l"
+    ],
+    [
+      0.033859,
+      "\u001b[?1002h"
+    ],
+    [
+      0.062454,
+      "\u001b[?1002l"
+    ],
+    [
+      0.023122,
+      "\u001b[?1002h"
+    ],
+    [
+      0.059847,
+      "\r\u001b[39;49m\u001b[?1l\u001b\u003e\u001b[?12l\u001b[?25h\u001b[?1049l\u001b[?1002l"
+    ],
+    [
+      0.010538,
+      "033c\r\n"
+    ],
+    [
+      0.002800,
+      "\u001b[?1002h"
+    ],
+    [
+      0.000007,
+      "\u001b[?1049h\u001b[?1h\u001b="
+    ],
+    [
+      0.003457,
+      "\u001b[27m\u001b[m\u001b[97m\u001b[H\u001b[2J\u001b[?25l\u001b[1;3H\u001b[93m  1 \u001b[m\u001b[97m\u001b[92m\u001b[48;5;238mpackage\u001b[m\u001b[97m\u001b[48;5;238m keyseq                                                            \u001b[m\u001b[97m\u001b[2;3H\u001b[90m  2 \u001b[m\u001b[97m\u001b[48;5;238m \u001b[m\u001b[97m\r\n- \u001b[90m  3 \u001b[m\u001b[97m\u001b[92m\u001b[48;5;238mt\u001b[m\u001b[97m\u001b[92mype\u001b[m\u001b[97m Matcher \u001b[92mstruct\u001b[m\u001b[97m {\r\n| \u001b[90m  4 \u001b[m\u001b[97m\u001b[48;5;238m \u001b[m\u001b[97m\u001b[7C*TernaryTrie\r\n| \u001b[90m  5 \u001b[m\u001b[97m\u001b[48;5;238m}\u001b[m\u001b[97m\r\n  \u001b[90m  6 \u001b[m\u001b[97m\u001b[48;5;238m \u001b[m\u001b[97m\r\n- \u001b[90m  7 \u001b[m\u001b[97m\u001b[92m\u001b[48;5;238mt\u001b[m\u001b[97m\u001b[92mype\u001b[m\u001b[97m Match \u001b[92mstruct\u001b[m\u001b[97m {\r\n| \u001b[90m  8 \u001b[m\u001b[97m\u001b[48;5;238m \u001b[m\u001b[97m\u001b[7CIndex   \u001b[94mint\u001b[m\u001b[97m\r\n| \u001b[90m  9 \u001b[m\u001b[97m\u001b[48;5;238m \u001b[m\u001b[97m\u001b[7CPattern KeyList\r\n| \u001b[90m 10 \u001b[m\u001b[97m\u001b[48;5;238m \u001b[m\u001b[97m\u001b[7CValue   \u001b[92minterface\u001b[m\u001b[97m{}\r\n| \u001b[90m 11 \u001b[m\u001b[97m\u001b[48;5;238m}\u001b[m\u001b[97m\r\n  \u001b[90m 12 \u001b[m\u001b[97m\u001b[48;5;238m \u001b[m\u001b[97m\r\n- \u001b[90m 13 \u001b[m\u001b[97m\u001b[92m\u001b[48;5;238mt\u001b[m\u001b[97m\u001b[92mype\u001b[m\u001b[97m nodeData \u001b[92mstruct\u001b[m\u001b[97m {\r\n| \u001b[90m 14 \u001b[m\u001b[97m\u001b[48;5;238m \u001b[m\u001b[97m\u001b[7Cpattern *KeyList\r\n| \u001b[90m 15 \u001b[m\u001b[97m\u001b[48;5;238m \u001b[m\u001b[97m\u001b[7Cvalue  "
+    ],
+    [
+      0.000033,
+      " \u001b[92minterface\u001b[m\u001b[97m{}\r\n| \u001b[90m 16 \u001b[m\u001b[97m\u001b[48;5;238m \u001b[m\u001b[97m\u001b[7Cfailure *TernaryNode\r\n| \u001b[90m 17 \u001b[m\u001b[97m\u001b[48;5;238m}\u001b[m\u001b[97m\r\n  \u001b[90m 18 \u001b[m\u001b[97m\u001b[48;5;238m \u001b[m\u001b[97m\r\n- \u001b[90m 19 \u001b[m\u001b[97m\u001b[92m\u001b[48;5;238mf\u001b[m\u001b[97m\u001b[92munc\u001b[m\u001b[97m (n *nodeData) Value() \u001b[92minterface\u001b[m\u001b[97m{} {\r\n| \u001b[90m 20 \u001b[m\u001b[97m\u001b[48;5;238m \u001b[m\u001b[97m\u001b[7C\u001b[92mreturn\u001b[m\u001b[97m n.value\r\n| \u001b[90m 21 \u001b[m\u001b[97m\u001b[48;5;238m}\u001b[m\u001b[97m\r\n  \u001b[90m 22 \u001b[m\u001b[97m\u001b[48;5;238m \u001b[m\u001b[97m\r\n\u001b[38;5;17m\u001b[48;5;190m \u001b[m\u001b[97m\u001b[1m\u001b[38;5;17m\u001b[48;5;190mNORMAL\u001b[m\u001b[97m\u001b[38;5;17m\u001b[48;5;190m \u001b[m\u001b[97m\u001b[38;5;190m\u001b[48;5;238m\u001b[m\u001b[97m\u001b[38;5;255m\u001b[48;5;238m +0 ~0 -0  fuzzy-filter \u001b[m\u001b[97m\u001b[38;5;238m\u001b[48;5;234m\u001b[m\u001b[97m\u001b[38;5;85m\u001b[48;5;234m \u003casick.go  \u001b[m\u001b[97m\u001b[38;5;234m\u001b[48;5;234m\u001b[m\u001b[97m\u001b[38;5;85m\u001b[48;5;234m keyseq  go \u001b[m\u001b[97m\u001b[38;5;238m\u001b[48;5;234m\u001b[m\u001b[97m\u001b[38;5;190m\u001b[48;5;238m\u001b[m\u001b[97m\u001b[38;5;17m\u001b[48;5;190m   0% \u001b[m\u001b[97m\u001b[1m\u001b[38;5;17m\u001b[48;5;190m   1\u001b[m\u001b[97m\u001b[38;5;17m\u001b[48;5;190m:  1  "
+    ],
+    [
+      0.001645,
+      "\u001b[1;7H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.815128,
+      "\u001b[?25l\u001b[m\u001b[97m\r  \u001b[90m  1 \u001b[m\u001b[97m\u001b[1C\u001b[92mackage\u001b[m\u001b[97m keyseq                                                            \u001b[2;3H\u001b[93m  2 \u001b[m\u001b[97m\u001b[1C\u001b[48;5;238m                                                                         "
+    ],
+    [
+      0.000872,
+      "\u001b[m\u001b[97m\u001b[23;67H\u001b[38;5;17m\u001b[48;5;190m1\u001b[m\u001b[97m\u001b[6C\u001b[1m\u001b[38;5;17m\u001b[48;5;190m2\u001b[m\u001b[97m\u001b[38;5;17m\u001b[48;5;190m:\u001b[2;7H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.201654,
+      "\u001b[?25l\u001b[m\u001b[97m\r  \u001b[90m  2 \u001b[m\u001b[97m\u001b[1C                                                                         \u001b[3;3H\u001b[93m  3 \u001b[m\u001b[97m\u001b[1C\u001b[92m\u001b[48;5;238mype\u001b[m\u001b[97m\u001b[48;5;238m Matcher \u001b[m\u001b[97m\u001b[92m\u001b[48;5;238mstruct\u001b[m\u001b[97m\u001b[48;5;238m {                                                     "
+    ],
+    [
+      0.000724,
+      "\u001b[m\u001b[97m\u001b[23;67H\u001b[38;5;17m\u001b[48;5;190m2\u001b[m\u001b[97m\u001b[6C\u001b[1m\u001b[38;5;17m\u001b[48;5;190m3\u001b[m\u001b[97m\u001b[38;5;17m\u001b[48;5;190m:"
+    ],
+    [
+      0.000007,
+      "\u001b[3;7H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.018393,
+      "\u001b[?25l\u001b[m\u001b[97m\u001b[1;7H\u001b[92mp\u001b[m\u001b[97m\u001b[6C\u001b[48;5;238m \u001b[m\u001b[97m\u001b[2;7H       \u001b[48;5;238m \u001b[m\u001b[97m\r\n- \u001b[90m  3 \u001b[m\u001b[97m\u001b[92mtype\u001b[m\u001b[97m Ma\u001b[1Ccher \u001b[92mstruct\u001b[m\u001b[97m {                                                     \u001b[4;3H\u001b[93m  4 \u001b[m\u001b[97m\u001b[1C\u001b[48;5;238m       *TernaryTrie                                                      \u001b[m\u001b[97m\u001b[5;7H}      \u001b[48;5;238m \u001b[m\u001b[97m\u001b[6;7H       \u001b[48;5;238m \u001b[m\u001b[97m\u001b[7;7H\u001b[92mt\u001b[m\u001b[97m\u001b[6C\u001b[48;5;238mt\u001b[m\u001b[97m\u001b[8;7H       \u001b[48;5;238m \u001b[m\u001b[97m\u001b[9;7H       \u001b[48;5;238m \u001b[m\u001b[97m\u001b[10;7H       \u001b[48;5;238m \u001b[m\u001b[97m\u001b[11;7H}      \u001b[48;5;238m \u001b[m\u001b[97m\u001b[12;7H       \u001b[48;5;238m \u001b[m\u001b[97m\u001b[13;7H\u001b[92mt\u001b[m\u001b[97m\u001b[6C\u001b[48;5;238md\u001b[m\u001b[97m\u001b[14;7H       \u001b[48;5;238m \u001b[m\u001b[97m\u001b[15;7H       \u001b[48;5;238m \u001b[m\u001b[97m\u001b[16;7H       \u001b[48;5;238m \u001b[m\u001b[97m\u001b[17;7H}      \u001b[48;5;238m \u001b[m\u001b[97m\u001b[18;7H       \u001b[48;5;238m \u001b[m\u001b[97m\u001b[19;7H\u001b[92mf\u001b[m\u001b[97m\u001b[6C\u001b[48;5;238m \u001b[m\u001b[97m\u001b[20;7H       \u001b[48;5;238m \u001b[m\u001b[97m\u001b[21;7H}      \u001b[48;5;238m \u001b[m\u001b[97m\u001b[22;7H       \u001b[48;5;238m "
+    ],
+    [
+      0.000717,
+      "\u001b[m\u001b[97m\u001b[23;67H\u001b[38;5;17m\u001b[48;5;190m3\u001b[m\u001b[97m\u001b[6C\u001b[1m\u001b[38;5;17m\u001b[48;5;190m4\u001b[m\u001b[97m\u001b[38;5;17m\u001b[48;5;190m:  8\u001b[4;14H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.049922,
+      "\u001b[?25l\u001b[m\u001b[97m\u001b[1;7H\u001b[92m\u001b[48;5;238mp\u001b[m\u001b[97m\u001b[6C \u001b[2;7H\u001b[48;5;238m \u001b[m\u001b[97m       \u001b[3;7H\u001b[92m\u001b[48;5;238mt\u001b[m\u001b[97m\u001b[6Ct\u001b[12C\u001b[97m\u001b[46m{\u001b[m\u001b[97m\r\n| \u001b[90m  4 \u001b[m\u001b[97m\u001b[1C       *TernaryTrie                                                      \u001b[5;3H\u001b[93m  5 \u001b[m\u001b[97m\u001b[97m\u001b[46m}\u001b[m\u001b[97m\u001b[48;5;238m                                                                         \u001b[6;7H \u001b[m\u001b[97m       \u001b[7;7H\u001b[92m\u001b[48;5;238mt\u001b[m\u001b[97m\u001b[6Ct\u001b[8;7H\u001b[48;5;238m \u001b[m\u001b[97m       \u001b[9;7H\u001b[48;5;238m \u001b[m\u001b[97m       \u001b[10;7H\u001b[48;5;238m \u001b[m\u001b[97m       \u001b[11;7H\u001b[48;5;238m}\u001b[m\u001b[97m       \u001b[12;7H\u001b[48;5;238m \u001b[m\u001b[97m       \u001b[13;7H\u001b[92m\u001b[48;5;238mt\u001b[m\u001b[97m\u001b[6Cd\u001b[14;7H\u001b[48;5;238m \u001b[m\u001b[97m       \u001b[15;7H\u001b[48;5;238m \u001b[m\u001b[97m       \u001b[16;7H\u001b[48;5;238m \u001b[m\u001b[97m       \u001b[17;7H\u001b[48;5;238m}\u001b[m\u001b[97m       \u001b[18;7H\u001b[48;5;238m \u001b[m\u001b[97m       \u001b[19;7H\u001b[92m\u001b[48;5;238mf\u001b[m\u001b[97m\u001b[6C \u001b[20;7H\u001b[48;5;238m \u001b[m\u001b[97m       \u001b[21;7H\u001b[48;5;238m}\u001b[m\u001b[97m       \u001b[22;7H\u001b[48;5;238m \u001b[m\u001b[97m       "
+    ],
+    [
+      0.000719,
+      "\u001b[23;74H\u001b[1m\u001b[38;5;17m\u001b[48;5;190m5\u001b[m\u001b[97m\u001b[38;5;17m\u001b[48;5;190m:  1"
+    ],
+    [
+      0.000005,
+      "\u001b[5;7H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.011115,
+      "\u001b[?25l\u001b[m\u001b[97m\u001b[3;27H{\r\n\r\n| \u001b[90m  5 \u001b[m\u001b[97m\u001b[48;5;238m}\u001b[m\u001b[97m                                                                         \u001b[6;3H\u001b[93m  6 \u001b[m\u001b[97m\u001b[1C\u001b[48;5;238m                                                                         "
+    ],
+    [
+      0.000910,
+      "\u001b[m\u001b[97m\u001b[23;67H\u001b[38;5;17m\u001b[48;5;190m4\u001b[m\u001b[97m\u001b[6C\u001b[1m\u001b[38;5;17m\u001b[48;5;190m6\u001b[m\u001b[97m\u001b[38;5;17m\u001b[48;5;190m:\u001b[6;7H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.019354,
+      "\u001b[?25l\u001b[m\u001b[97m\r  \u001b[90m  6 \u001b[m\u001b[97m\u001b[1C                                                                         \u001b[7;3H\u001b[93m  7 \u001b[m\u001b[97m\u001b[1C\u001b[92m\u001b[48;5;238mype\u001b[m\u001b[97m\u001b[48;5;238m Match \u001b[m\u001b[97m\u001b[92m\u001b[48;5;238mstruct\u001b[m\u001b[97m\u001b[48;5;238m {                                                       "
+    ],
+    [
+      0.000686,
+      "\u001b[m\u001b[97m\u001b[23;67H\u001b[38;5;17m\u001b[48;5;190m5\u001b[m\u001b[97m\u001b[6C\u001b[1m\u001b[38;5;17m\u001b[48;5;190m7\u001b[m\u001b[97m\u001b[38;5;17m\u001b[48;5;190m:\u001b[7;7H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.034084,
+      "\u001b[?25l\u001b[m\u001b[97m\u001b[1;7H\u001b[92mp\u001b[m\u001b[97m\u001b[6C\u001b[48;5;238m \u001b[m\u001b[97m\u001b[2;7H       \u001b[48;5;238m \u001b[m\u001b[97m\u001b[3;7H\u001b[92mt\u001b[m\u001b[97m\u001b[6C\u001b[48;5;238mt\u001b[m\u001b[97m\u001b[4;7H       \u001b[48;5;238m \u001b[m\u001b[97m\u001b[5;7H}      \u001b[48;5;238m \u001b[m\u001b[97m\u001b[6;7H       \u001b[48;5;238m \u001b[m\u001b[97m\r\n- \u001b[90m  7 \u001b[m\u001b[97m\u001b[92mtype\u001b[m\u001b[97m Ma\u001b[1Cch \u001b[92mstruct\u001b[m\u001b[97m {                                                       \u001b[8;3H\u001b[93m  8 \u001b[m\u001b[97m\u001b[1C\u001b[48;5;238m       Index   \u001b[m\u001b[97m\u001b[94m\u001b[48;5;238mint\u001b[m\u001b[97m\u001b[48;5;238m                                                       \u001b[m\u001b[97m\u001b[9;7H       \u001b[48;5;238m \u001b[m\u001b[97m\u001b[10;7H       \u001b[48;5;238m \u001b[m\u001b[97m\u001b[11;7H}      \u001b[48;5;238m \u001b[m\u001b[97m\u001b[12;7H       \u001b[48;5;238m \u001b[m\u001b[97m\u001b[13;7H\u001b[92mt\u001b[m\u001b[97m\u001b[6C\u001b[48;5;238md\u001b[m\u001b[97m\u001b[14;7H       \u001b[48;5;238m \u001b[m\u001b[97m\u001b[15;7H       \u001b[48;5;238m \u001b[m\u001b[97m\u001b[16;7H       \u001b[48;5;238m \u001b[m\u001b[97m\u001b[17;7H}      \u001b[48;5;238m \u001b[m\u001b[97m\u001b[18;7H       \u001b[48;5;238m \u001b[m\u001b[97m\u001b[19;7H\u001b[92mf\u001b[m\u001b[97m\u001b[6C\u001b[48;5;238m \u001b[m\u001b[97m\u001b[20;7H       \u001b[48;5;238m \u001b[m\u001b[97m\u001b[21;7H}      \u001b[48;5;238m \u001b[m\u001b[97m\u001b[22;7H       \u001b[48;5;238m "
+    ],
+    [
+      0.000744,
+      "\u001b[m\u001b[97m\u001b[23;67H\u001b[38;5;17m\u001b[48;5;190m6\u001b[m\u001b[97m\u001b[6C\u001b[1m\u001b[38;5;17m\u001b[48;5;190m8\u001b[m\u001b[97m\u001b[38;5;17m\u001b[48;5;190m:  8"
+    ],
+    [
+      0.000006,
+      "\u001b[8;14H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.007030,
+      "\u001b[?25l\u001b[m\u001b[97m\r| \u001b[90m  8 \u001b[m\u001b[97m       \u001b[1CIndex   \u001b[94mint\u001b[m\u001b[97m                                                       \u001b[9;3H\u001b[93m  9 \u001b[m\u001b[97m\u001b[48;5;238m        Pattern KeyList                                                   "
+    ],
+    [
+      0.000732,
+      "\u001b[m\u001b[97m\u001b[23;67H\u001b[38;5;17m\u001b[48;5;190m7\u001b[m\u001b[97m\u001b[6C\u001b[1m\u001b[38;5;17m\u001b[48;5;190m9\u001b[m\u001b[97m\u001b[38;5;17m\u001b[48;5;190m:\u001b[9;14H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.019789,
+      "\u001b[?25l\u001b[m\u001b[97m\r| \u001b[90m  9 \u001b[m\u001b[97m       \u001b[1CPattern KeyList                                                   \u001b[10;3H\u001b[93m 10 \u001b[m\u001b[97m\u001b[48;5;238m        Value   \u001b[m\u001b[97m\u001b[92m\u001b[48;5;238minterface\u001b[m\u001b[97m\u001b[48;5;238m{}                                               "
+    ],
+    [
+      0.000775,
+      "\u001b[m\u001b[97m\u001b[23;73H\u001b[1m\u001b[38;5;17m\u001b[48;5;190m10\u001b[m\u001b[97m\u001b[38;5;17m\u001b[48;5;190m:\u001b[10;14H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.040942,
+      "\u001b[?25l\u001b[m\u001b[97m\u001b[1;7H\u001b[92m\u001b[48;5;238mp\u001b[m\u001b[97m\u001b[6C \u001b[2;7H\u001b[48;5;238m \u001b[m\u001b[97m       \u001b[3;7H\u001b[92m\u001b[48;5;238mt\u001b[m\u001b[97m\u001b[6Ct\u001b[4;7H\u001b[48;5;238m \u001b[m\u001b[97m       \u001b[5;7H\u001b[48;5;238m}\u001b[m\u001b[97m       \u001b[6;7H\u001b[48;5;238m \u001b[m\u001b[97m       \u001b[7;7H\u001b[92m\u001b[48;5;238mt\u001b[m\u001b[97m\u001b[6Ct\u001b[10C\u001b[97m\u001b[46m{\u001b[m\u001b[97m\u001b[8;7H\u001b[48;5;238m \u001b[m\u001b[97m       \u001b[9;7H\u001b[48;5;238m \u001b[m\u001b[97m       \r\n| \u001b[90m 10 \u001b[m\u001b[97m\u001b[1C       Value   \u001b[92minterface\u001b[m\u001b[97m{}                                               \u001b[11;3H\u001b[93m 11 \u001b[m\u001b[97m\u001b[97m\u001b[46m}\u001b[m\u001b[97m\u001b[48;5;238m                                                                         \u001b[12;7H \u001b[m\u001b[97m       \u001b[13;7H\u001b[92m\u001b[48;5;238mt\u001b[m\u001b[97m\u001b[6Cd\u001b[14;7H\u001b[48;5;238m \u001b[m\u001b[97m       \u001b[15;7H\u001b[48;5;238m \u001b[m\u001b[97m       \u001b[16;7H\u001b[48;5;238m \u001b[m\u001b[97m       \u001b[17;7H\u001b[48;5;238m}\u001b[m\u001b[97m       \u001b[18;7H\u001b[48;5;238m \u001b[m\u001b[97m       \u001b[19;7H\u001b[92m\u001b[48;5;238mf\u001b[m\u001b[97m\u001b[6C \u001b[20;7H\u001b[48;5;238m \u001b[m\u001b[97m       \u001b[21;7H\u001b[48;5;238m}\u001b[m\u001b[97m       \u001b[22;7H\u001b[48;5;238m \u001b[m\u001b[97m       "
+    ],
+    [
+      0.000795,
+      "\u001b[23;67H\u001b[38;5;17m\u001b[48;5;190m8\u001b[m\u001b[97m\u001b[6C\u001b[1m\u001b[38;5;17m\u001b[48;5;190m1\u001b[m\u001b[97m\u001b[38;5;17m\u001b[48;5;190m:  1\u001b[11;7H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.017940,
+      "\u001b[?25l\u001b[m\u001b[97m\u001b[7;25H{\u001b[11;3H\u001b[90m 11 \u001b[m\u001b[97m\u001b[48;5;238m}\u001b[m\u001b[97m                                                                         \u001b[12;3H\u001b[93m 12 \u001b[m\u001b[97m\u001b[1C\u001b[48;5;238m                                                                         "
+    ],
+    [
+      0.000665,
+      "\u001b[m\u001b[97m\u001b[23;67H\u001b[38;5;17m\u001b[48;5;190m9\u001b[m\u001b[97m\u001b[6C\u001b[1m\u001b[38;5;17m\u001b[48;5;190m2\u001b[m\u001b[97m\u001b[38;5;17m\u001b[48;5;190m:"
+    ],
+    [
+      0.000007,
+      "\u001b[12;7H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.044419,
+      "\u001b[?25l\u001b[m\u001b[97m\r  \u001b[90m 12 \u001b[m\u001b[97m\u001b[1C                                                                         \u001b[13;3H\u001b[93m 13 \u001b[m\u001b[97m\u001b[1C\u001b[92m\u001b[48;5;238mype\u001b[m\u001b[97m\u001b[48;5;238m nodeData \u001b[m\u001b[97m\u001b[92m\u001b[48;5;238mstruct\u001b[m\u001b[97m\u001b[48;5;238m {                                                    "
+    ],
+    [
+      0.000687,
+      "\u001b[m\u001b[97m\u001b[23;66H\u001b[38;5;17m\u001b[48;5;190m10\u001b[m\u001b[97m\u001b[6C\u001b[1m\u001b[38;5;17m\u001b[48;5;190m3\u001b[m\u001b[97m\u001b[38;5;17m\u001b[48;5;190m:"
+    ],
+    [
+      0.000004,
+      "\u001b[13;7H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.015534,
+      "\u001b[?25l\u001b[m\u001b[97m\u001b[1;7H\u001b[92mp\u001b[m\u001b[97m\u001b[6C\u001b[48;5;238m \u001b[m\u001b[97m\u001b[2;7H       \u001b[48;5;238m \u001b[m\u001b[97m\u001b[3;7H\u001b[92mt\u001b[m\u001b[97m\u001b[6C\u001b[48;5;238mt\u001b[m\u001b[97m\u001b[4;7H       \u001b[48;5;238m \u001b[m\u001b[97m\u001b[5;7H}      \u001b[48;5;238m \u001b[m\u001b[97m\u001b[6;7H       \u001b[48;5;238m \u001b[m\u001b[97m\u001b[7;7H\u001b[92mt\u001b[m\u001b[97m\u001b[6C\u001b[48;5;238mt\u001b[m\u001b[97m\u001b[8;7H       \u001b[48;5;238m \u001b[m\u001b[97m\u001b[9;7H       \u001b[48;5;238m \u001b[m\u001b[97m\u001b[10;7H       \u001b[48;5;238m \u001b[m\u001b[97m\u001b[11;7H}      \u001b[48;5;238m \u001b[m\u001b[97m\u001b[12;7H       \u001b[48;5;238m \u001b[m\u001b[97m\r\n- \u001b[90m 13 \u001b[m\u001b[97m\u001b[92mtype\u001b[m\u001b[97m no\u001b[1CeData \u001b[92mstruct\u001b[m\u001b[97m {                                                    \u001b[14;3H\u001b[93m 14 \u001b[m\u001b[97m\u001b[1C\u001b[48;5;238m       pattern *KeyList                                                  \u001b[m\u001b[97m\u001b[15;7H       \u001b[48;5;238m \u001b[m\u001b[97m\u001b[16;7H       \u001b[48;5;238m \u001b[m\u001b[97m\u001b[17;7H}      \u001b[48;5;238m \u001b[m\u001b[97m\u001b[18;7H       \u001b[48;5;238m \u001b[m\u001b[97m\u001b[19;7H\u001b[92mf\u001b[m\u001b[97m\u001b[6C\u001b[48;5;238m \u001b[m\u001b[97m\u001b[20;7H       \u001b[48;5;238m \u001b[m\u001b[97m\u001b[21;7H}      \u001b[48;5;238m \u001b[m\u001b[97m\u001b[22;7H       \u001b[48;5;238m "
+    ],
+    [
+      0.000697,
+      "\u001b[m\u001b[97m\u001b[23;67H\u001b[38;5;17m\u001b[48;5;190m1\u001b[m\u001b[97m\u001b[6C\u001b[1m\u001b[38;5;17m\u001b[48;5;190m4\u001b[m\u001b[97m\u001b[38;5;17m\u001b[48;5;190m:  8\u001b[14;14H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.296545,
+      "\u001b[?25l"
+    ],
+    [
+      0.001289,
+      "\u001b[1;22r\u001b[m\u001b[97m\u001b[1;1H\u001b[20M\u001b[1;25r\u001b[1;7H\u001b[48;5;238m}\u001b[m\u001b[97m       \u001b[2;7H\u001b[48;5;238m \u001b[m\u001b[97m       \r\n- \u001b[90m 23 \u001b[m\u001b[97m\u001b[92m\u001b[48;5;238mf\u001b[m\u001b[97m\u001b[92munc\u001b[m\u001b[97m NewMatcher() *Matcher {\r\n- \u001b[90m 24 \u001b[m\u001b[97m\u001b[48;5;238m \u001b[m\u001b[97m\u001b[7C\u001b[92mreturn\u001b[m\u001b[97m \u0026Matcher{\r\n2 \u001b[90m 25 \u001b[m\u001b[97m\u001b[48;5;238m \u001b[m\u001b[97m\u001b[15CNewTernaryTrie(),\r\n2 \u001b[90m 26 \u001b[m\u001b[97m\u001b[48;5;238m \u001b[m\u001b[97m\u001b[7C}\r\n| \u001b[90m 27 \u001b[m\u001b[97m\u001b[48;5;238m}\u001b[m\u001b[97m\r\n  \u001b[93m 28 \u001b[m\u001b[97m\u001b[48;5;238m                                                                          \u001b[m\u001b[97m\u001b[9;1H- \u001b[90m 29 \u001b[m\u001b[97m\u001b[92m\u001b[48;5;238mf\u001b[m\u001b[97m\u001b[92munc\u001b[m\u001b[97m (m *Matcher) Clear() {\r\n| \u001b[90m 30 \u001b[m\u001b[97m\u001b[48;5;238m \u001b[m\u001b[97m\u001b[7Cm.Root().RemoveAll()\r\n| \u001b[90m 31 \u001b[m\u001b[97m\u001b[48;5;238m}\u001b[m\u001b[97m\r\n  \u001b[90m 32 \u001b[m\u001b[97m\u001b[48;5;238m \u001b[m\u001b[97m\r\n- \u001b[90m 33 \u001b[m\u001b[97m\u001b[92m\u001b[48;5;238mf\u001b[m\u001b[97m\u001b[92munc\u001b[m\u001b[97m (m *Matcher) Add(pattern KeyList, v \u001b[92minterface\u001b[m\u001b[97m{}) {\r\n- \u001b[90m 34 \u001b[m\u001b[97m\u001b[48;5;238m \u001b[m\u001b[97m\u001b[7Cm.Put(pattern, \u0026nodeData{\r\n2 \u001b[90m 35 \u001b[m\u001b[97m\u001b[48;5;238m \u001b[m\u001b[97m\u001b[15Cpattern: \u0026pattern,\r\n2 \u001b"
+    ],
+    [
+      0.000023,
+      "[90m 36 \u001b[m\u001b[97m\u001b[48;5;238m \u001b[m\u001b[97m\u001b[15Cvalue:   v,\r\n2 \u001b[90m 37 \u001b[m\u001b[97m\u001b[48;5;238m \u001b[m\u001b[97m\u001b[7C})\r\n| \u001b[90m 38 \u001b[m\u001b[97m\u001b[48;5;238m}\u001b[m\u001b[97m\r\n  \u001b[90m 39 \u001b[m\u001b[97m\u001b[48;5;238m \u001b[m\u001b[97m\r\n- \u001b[90m 40 \u001b[m\u001b[97m\u001b[92m\u001b[48;5;238mf\u001b[m\u001b[97m\u001b[92munc\u001b[m\u001b[97m (m *Matcher) Compile() \u001b[94merror\u001b[m\u001b[97m {\r\n| \u001b[90m 41 \u001b[m\u001b[97m\u001b[48;5;238m \u001b[m\u001b[97m\u001b[7Cm.Balance()\r\n| \u001b[90m 42 \u001b[m\u001b[97m\u001b[48;5;238m \u001b[m\u001b[97m\u001b[7Croot \u001b[92m:=\u001b[m\u001b[97m m.Root().(*TernaryNode)"
+    ],
+    [
+      0.000865,
+      "\u001b[23;66H\u001b[38;5;17m\u001b[48;5;190m22\u001b[m\u001b[97m\u001b[5C\u001b[1m\u001b[38;5;17m\u001b[48;5;190m28\u001b[m\u001b[97m\u001b[38;5;17m\u001b[48;5;190m:  1\u001b[8;7H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.229762,
+      "\u001b[?25l"
+    ],
+    [
+      0.001956,
+      "\u001b[1;22r\u001b[m\u001b[97m\u001b[1;1H\u001b[20M\u001b[1;25r\u001b[1;7H \u001b[23C\u001b[48;5;238m \u001b[m\u001b[97m\u001b[2;7H \u001b[23C\u001b[48;5;238m.\u001b[m\u001b[97m\r\n| \u001b[90m 43 \u001b[m\u001b[97m\u001b[8Croot.SetValue(\u0026n\u001b[48;5;238mo\u001b[m\u001b[97mdeData{failure: root})\r\n| \u001b[90m 44 \u001b[8C// fill data.fai\u001b[m\u001b[97m\u001b[90m\u001b[48;5;238ml\u001b[m\u001b[97m\u001b[90mure of each node.\u001b[m\u001b[97m\r\n- \u001b[90m 45 \u001b[m\u001b[97m\u001b[8CEachWidth(m, \u001b[92mfun\u001b[m\u001b[97m\u001b[92m\u001b[48;5;238mc\u001b[m\u001b[97m(n Node) \u001b[94mbool\u001b[m\u001b[97m {\r\n2 \u001b[90m 46 \u001b[m\u001b[97m\u001b[16Cparent \u001b[92m:\u001b[m\u001b[97m\u001b[92m\u001b[48;5;238m=\u001b[m\u001b[97m n.(*TernaryNode)\r\n- \u001b[90m 47 \u001b[m\u001b[97m\u001b[16Cparent.E\u001b[48;5;238ma\u001b[m\u001b[97mch(\u001b[92mfunc\u001b[m\u001b[97m(m Node) \u001b[94mbool\u001b[m\u001b[97m {\r\n3 \u001b[93m 48 \u001b[m\u001b[97m\u001b[48;5;238m                        fillFailure(m.(*TernaryNode), root, parent)       \u001b[m\u001b[97m\u001b[9;1H3 \u001b[90m 49 \u001b[m\u001b[97m\u001b[24C\u001b[92m\u001b[48;5;238mr\u001b[m\u001b[97m\u001b[92meturn\u001b[m\u001b[97m \u001b[94mtrue\u001b[m\u001b[97m\r\n3 \u001b[90m 50 \u001b[m\u001b[97m\u001b[16C})      \u001b[48;5;238m \u001b[m\u001b[97m\r\n2 \u001b[90m 51 \u001b[m\u001b[97m\u001b[16C\u001b[92mreturn\u001b[m\u001b[97m \u001b[94mt\u001b[m\u001b[97m\u001b[94m\u001b[48;5;238mr\u001b[m\u001b[97m\u001b[94mue\u001b[m\u001b[97m\r\n2 \u001b[90m 52 \u001b[m\u001b[97m\u001b[8C})\u001b[14C\u001b[48;5;238m \u001b[m\u001b[97m\r\n| \u001b[90m 53 \u001b[m\u001b[97m\u001b[8C\u001b[92mreturn\u001b[m"
+    ],
+    [
+      0.000019,
+      "\u001b[97m \u001b[94mnil\u001b[m\u001b[97m      \u001b[48;5;238m \u001b[m\u001b[97m\r\n| \u001b[90m 54 \u001b[m\u001b[97m}\u001b[23C\u001b[48;5;238m \u001b[m\u001b[97m\r\n  \u001b[90m 55 \u001b[m\u001b[97m\u001b[24C\u001b[48;5;238m \u001b[m\u001b[97m\r\n- \u001b[90m 56 \u001b[m\u001b[97m\u001b[92mfunc\u001b[m\u001b[97m fillFailure(curr, r\u001b[48;5;238mo\u001b[m\u001b[97mot, parent *TernaryNode) {\r\n| \u001b[90m 57 \u001b[m\u001b[97m\u001b[8Cdata \u001b[92m:=\u001b[m\u001b[97m getNodeD\u001b[48;5;238ma\u001b[m\u001b[97mta(curr)\r\n- \u001b[90m 58 \u001b[m\u001b[97m\u001b[8C\u001b[92mif\u001b[m\u001b[97m data \u001b[92m==\u001b[m\u001b[97m \u001b[94mnil\u001b[m\u001b[97m {\u001b[48;5;238m \u001b[m\u001b[97m\r\n2 \u001b[90m 59 \u001b[m\u001b[97m\u001b[16Cdata = \u0026\u001b[48;5;238mn\u001b[m\u001b[97modeData{}\r\n2 \u001b[90m 60 \u001b[m\u001b[97m\u001b[16Ccurr.Set\u001b[48;5;238mV\u001b[m\u001b[97malue(data)\r\n2 \u001b[90m 61 \u001b[m\u001b[97m\u001b[8C}\u001b[15C\u001b[48;5;238m \u001b[m\u001b[97m\r\n- \u001b[90m 62 \u001b[m\u001b[97m\u001b[8C\u001b[92mif\u001b[m\u001b[97m parent \u001b[92m==\u001b[m\u001b[97m roo\u001b[48;5;238mt\u001b[m\u001b[97m {"
+    ],
+    [
+      0.000996,
+      "\u001b[23;38H\u001b[38;5;85m\u001b[48;5;234mck.go  \u001b[m\u001b[97m\u001b[38;5;234m\u001b[48;5;234m\u001b[m\u001b[97m\u001b[1C\u001b[38;5;85m\u001b[48;5;234mCompile()\u001b[m\u001b[97m\u001b[10C\u001b[38;5;17m\u001b[48;5;190m37\u001b[m\u001b[97m\u001b[5C\u001b[1m\u001b[38;5;17m\u001b[48;5;190m48\u001b[m\u001b[97m\u001b[2C\u001b[38;5;17m\u001b[48;5;190m25"
+    ],
+    [
+      0.000005,
+      "\u001b[8;31H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.206063,
+      "\u001b[?25l"
+    ],
+    [
+      0.001767,
+      "\u001b[1;22r\u001b[m\u001b[97m\u001b[1;1H\u001b[20M\u001b[1;25r\u001b[1;15H\u001b[48;5;238m}\u001b[m\u001b[97m\u001b[15C \u001b[2;15H\u001b[92m\u001b[48;5;238mi\u001b[m\u001b[97m\u001b[15Ct\r\n2 \u001b[90m 63 \u001b[m\u001b[97m\u001b[8C\u001b[48;5;238m \u001b[m\u001b[97m\u001b[7Cdata.failure = root\r\n2 \u001b[90m 64 \u001b[m\u001b[97m\u001b[8C\u001b[48;5;238m \u001b[m\u001b[97m\u001b[7C\u001b[92mreturn\u001b[m\u001b[97m\r\n2 \u001b[90m 65 \u001b[m\u001b[97m\u001b[8C\u001b[48;5;238m}\u001b[m\u001b[97m\r\n| \u001b[90m 66 \u001b[m\u001b[97m\u001b[8C\u001b[90m\u001b[48;5;238m/\u001b[m\u001b[97m\u001b[90m/ Determine failure node.\u001b[m\u001b[97m\r\n| \u001b[90m 67 \u001b[m\u001b[97m\u001b[8C\u001b[48;5;238mf\u001b[m\u001b[97mnode \u001b[92m:=\u001b[m\u001b[97m getNextNode(getNodeFailure(parent, root), root, curr.     \u001b[8;1H| \u001b[90m    \u001b[m\u001b[97m\u001b[1m\u001b[90m\u003e\u003e\u001b[m\u001b[97mLab\u001b[41me\u001b[m\u001b[97ml())\r\n| \u001b[93m 68 \u001b[m\u001b[97m\u001b[48;5;238m        data.failure = fnode                                              \u001b[m\u001b[97m\u001b[10;1H| \u001b[90m 69 \u001b[m\u001b[97m}\u001b[7C\u001b[48;5;238m \u001b[m\u001b[97m\r\n  \u001b[90m 70 \u001b[m\u001b[97m\u001b[8C\u001b[48;5;238m \u001b[m\u001b[97m\r\n- \u001b[90m 71 \u001b[m\u001b[97m\u001b[92mfunc\u001b[m\u001b[97m (m \u001b[48;5;238m*\u001b[m\u001b[97mMatcher) Match(text KeyList) \u003c-\u001b[94mchan\u001b[m\u001b[97m Match {\r\n| \u001b[90m 72 \u001b[m\u001b[97m\u001b[8C\u001b[48;5;238mc\u001b[m\u001b[97mh \u001b[92m:=\u001b[m\u001b[97m \u001b[92mmake\u001b[m\u001b[97m(\u001b[94mchan\u001b[m\u001b[97m Match, \u001b[33m1\u001b[m\u001b[97m)\r\n| \u001b[90m 73 "
+    ],
+    [
+      0.000022,
+      "\u001b[m\u001b[97m\u001b[8C\u001b[92m\u001b[48;5;238mg\u001b[m\u001b[97m\u001b[92mo\u001b[m\u001b[97m m.startMatch(text, ch)\r\n| \u001b[90m 74 \u001b[m\u001b[97m\u001b[8C\u001b[92m\u001b[48;5;238mr\u001b[m\u001b[97m\u001b[92meturn\u001b[m\u001b[97m ch\r\n| \u001b[90m 75 \u001b[m\u001b[97m}\u001b[7C\u001b[48;5;238m \u001b[m\u001b[97m\r\n  \u001b[90m 76 \u001b[m\u001b[97m\u001b[8C\u001b[48;5;238m \u001b[m\u001b[97m\r\n- \u001b[90m 77 \u001b[m\u001b[97m\u001b[92mfunc\u001b[m\u001b[97m (m \u001b[48;5;238m*\u001b[m\u001b[97mMatcher) startMatch(text KeyList, ch \u001b[94mchan\u001b[m\u001b[97m\u003c- Match) {\r\n| \u001b[90m 78 \u001b[m\u001b[97m\u001b[8C\u001b[92m\u001b[48;5;238md\u001b[m\u001b[97m\u001b[92mefer\u001b[m\u001b[97m \u001b[92mclose\u001b[m\u001b[97m(ch)\r\n| \u001b[90m 79 \u001b[m\u001b[97m\u001b[8C\u001b[48;5;238mr\u001b[m\u001b[97moot \u001b[92m:=\u001b[m\u001b[97m m.Root().(*TernaryNode)\r\n| \u001b[90m 80 \u001b[m\u001b[97m\u001b[8C\u001b[48;5;238mc\u001b[m\u001b[97murr \u001b[92m:=\u001b[m\u001b[97m root\r\n- \u001b[90m 81 \u001b[m\u001b[97m\u001b[8C\u001b[92m\u001b[48;5;238mf\u001b[m\u001b[97m\u001b[92mor\u001b[m\u001b[97m i, r \u001b[92m:=\u001b[m\u001b[97m \u001b[92mrange\u001b[m\u001b[97m text {"
+    ],
+    [
+      0.000805,
+      "\u001b[23;66H\u001b[38;5;17m\u001b[48;5;190m53\u001b[m\u001b[97m\u001b[5C\u001b[1m\u001b[38;5;17m\u001b[48;5;190m68\u001b[m\u001b[97m\u001b[2C\u001b[38;5;17m\u001b[48;5;190m 9"
+    ],
+    [
+      0.000007,
+      "\u001b[9;15H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.405035,
+      "\u001b[?25l\u001b[27m\u001b[m\u001b[97m\u001b[H\u001b[2J\u001b[1;1H| \u001b[90m 41 \u001b[m\u001b[97m\u001b[48;5;238m \u001b[m\u001b[97m\u001b[7Cm.Balance()\r\n| \u001b[90m 42 \u001b[m\u001b[97m\u001b[48;5;238m \u001b[m\u001b[97m\u001b[7Croot \u001b[92m:=\u001b[m\u001b[97m m.Root().(*TernaryNode)\r\n| \u001b[90m 43 \u001b[m\u001b[97m\u001b[48;5;238m \u001b[m\u001b[97m\u001b[7Croot.SetValue(\u0026nodeData{failure: root})\r\n| \u001b[90m 44 \u001b[m\u001b[97m\u001b[48;5;238m \u001b[m\u001b[97m\u001b[7C\u001b[90m// fill data.failure of each node.\u001b[m\u001b[97m\r\n- \u001b[90m 45 \u001b[m\u001b[97m\u001b[48;5;238m \u001b[m\u001b[97m\u001b[7CEachWidth(m, \u001b[92mfunc\u001b[m\u001b[97m(n Node) \u001b[94mbool\u001b[m\u001b[97m {\r\n2 \u001b[90m 46 \u001b[m\u001b[97m\u001b[48;5;238m \u001b[m\u001b[97m\u001b[15Cparent \u001b[92m:=\u001b[m\u001b[97m n.(*TernaryNode)\r\n- \u001b[90m 47 \u001b[m\u001b[97m\u001b[48;5;238m \u001b[m\u001b[97m\u001b[15Cparent.Each(\u001b[92mfunc\u001b[m\u001b[97m(m Node) \u001b[94mbool\u001b[m\u001b[97m {\r\n3 \u001b[90m 48 \u001b[m\u001b[97m\u001b[48;5;238m \u001b[m\u001b[97m\u001b[23CfillFailure(m.(*TernaryNode), root, parent)\r\n3 \u001b[90m 49 \u001b[m\u001b[97m\u001b[48;5;238m \u001b[m\u001b[97m\u001b[23C\u001b[92mreturn\u001b[m\u001b[97m \u001b[94mtrue\u001b[m\u001b[97m\r\n3 \u001b[90m 50 \u001b[m\u001b[97m\u001b[48;5;238m \u001b[m\u001b[97m\u001b[15C})\r\n2 \u001b[90m 51 \u001b[m\u001b[97m\u001b[48;5;238m \u001b[m\u001b[97m\u001b[15C\u001b[92mreturn\u001b[m\u001b[97m \u001b[94mtrue\u001b[m\u001b[97m\r\n2 \u001b[90m 52 \u001b[m\u001b[97m\u001b[48;5;238m \u001b[m\u001b[97m\u001b[7C})\r\n| \u001b[90m 53 \u001b[m\u001b[97m\u001b[48;5;238m"
+    ],
+    [
+      0.000017,
+      " \u001b[m\u001b[97m\u001b[7C\u001b[92mreturn\u001b[m\u001b[97m \u001b[94mnil\u001b[m\u001b[97m\r\n| \u001b[90m 54 \u001b[m\u001b[97m\u001b[48;5;238m}\u001b[m\u001b[97m\r\n  \u001b[93m 55 \u001b[m\u001b[97m\u001b[48;5;238m                                                                          \u001b[m\u001b[97m\u001b[16;1H- \u001b[90m 56 \u001b[m\u001b[97m\u001b[92m\u001b[48;5;238mf\u001b[m\u001b[97m\u001b[92munc\u001b[m\u001b[97m fillFailure(curr, root, parent *TernaryNode) {\r\n| \u001b[90m 57 \u001b[m\u001b[97m\u001b[48;5;238m \u001b[m\u001b[97m\u001b[7Cdata \u001b[92m:=\u001b[m\u001b[97m getNodeData(curr)\r\n- \u001b[90m 58 \u001b[m\u001b[97m\u001b[48;5;238m \u001b[m\u001b[97m\u001b[7C\u001b[92mif\u001b[m\u001b[97m data \u001b[92m==\u001b[m\u001b[97m \u001b[94mnil\u001b[m\u001b[97m {\r\n2 \u001b[90m 59 \u001b[m\u001b[97m\u001b[48;5;238m \u001b[m\u001b[97m\u001b[15Cdata = \u0026nodeData{}\r\n2 \u001b[90m 60 \u001b[m\u001b[97m\u001b[48;5;238m \u001b[m\u001b[97m\u001b[15Ccurr.SetValue(data)\r\n2 \u001b[90m 61 \u001b[m\u001b[97m\u001b[48;5;238m \u001b[m\u001b[97m\u001b[7C}\r\n- \u001b[90m 62 \u001b[m\u001b[97m\u001b[48;5;238m \u001b[m\u001b[97m\u001b[7C\u001b[92mif\u001b[m\u001b[97m parent \u001b[92m==\u001b[m\u001b[97m root {"
+    ],
+    [
+      0.000644,
+      "\r\n\u001b[38;5;17m\u001b[48;5;190m \u001b[m\u001b[97m\u001b[1m\u001b[38;5;17m\u001b[48;5;190mNORMAL\u001b[m\u001b[97m\u001b[38;5;17m\u001b[48;5;190m \u001b[m\u001b[97m\u001b[38;5;190m\u001b[48;5;238m\u001b[m\u001b[97m\u001b[38;5;255m\u001b[48;5;238m +0 ~0 -0  fuzzy-filter \u001b[m\u001b[97m\u001b[38;5;238m\u001b[48;5;234m\u001b[m\u001b[97m\u001b[38;5;85m\u001b[48;5;234m \u003cck.go  \u001b[m\u001b[97m\u001b[38;5;234m\u001b[48;5;234m\u001b[m\u001b[97m\u001b[38;5;85m\u001b[48;5;234m Compile()  go \u001b[m\u001b[97m\u001b[38;5;238m\u001b[48;5;234m\u001b[m\u001b[97m\u001b[38;5;190m\u001b[48;5;238m\u001b[m\u001b[97m\u001b[38;5;17m\u001b[48;5;190m  43% \u001b[m\u001b[97m\u001b[1m\u001b[38;5;17m\u001b[48;5;190m  55\u001b[m\u001b[97m\u001b[38;5;17m\u001b[48;5;190m:  1  "
+    ],
+    [
+      0.000564,
+      "\u001b[15;7H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.200255,
+      "\u001b[?25l\u001b[27m\u001b[m\u001b[97m\u001b[H\u001b[2J\u001b[1;1H| \u001b[90m 21 \u001b[m\u001b[97m}\u001b[15C\u001b[48;5;238m \u001b[m\u001b[97m\r\n  \u001b[90m 22 \u001b[m\u001b[97m\u001b[16C\u001b[48;5;238m \u001b[m\u001b[97m\r\n- \u001b[90m 23 \u001b[m\u001b[97m\u001b[92mfunc\u001b[m\u001b[97m NewMatcher(\u001b[48;5;238m)\u001b[m\u001b[97m *Matcher {\r\n- \u001b[90m 24 \u001b[m\u001b[97m\u001b[8C\u001b[92mreturn\u001b[m\u001b[97m \u0026\u001b[48;5;238mM\u001b[m\u001b[97matcher{\r\n2 \u001b[90m 25 \u001b[m\u001b[97m\u001b[16C\u001b[48;5;238mN\u001b[m\u001b[97mewTernaryTrie(),\r\n2 \u001b[90m 26 \u001b[m\u001b[97m\u001b[8C}\u001b[7C\u001b[48;5;238m \u001b[m\u001b[97m\r\n| \u001b[90m 27 \u001b[m\u001b[97m}\u001b[15C\u001b[48;5;238m \u001b[m\u001b[97m\r\n  \u001b[90m 28 \u001b[m\u001b[97m\u001b[16C\u001b[48;5;238m \u001b[m\u001b[97m\r\n- \u001b[90m 29 \u001b[m\u001b[97m\u001b[92mfunc\u001b[m\u001b[97m (m *Matcher\u001b[48;5;238m)\u001b[m\u001b[97m Clear() {\r\n| \u001b[90m 30 \u001b[m\u001b[97m\u001b[8Cm.Root()\u001b[48;5;238m.\u001b[m\u001b[97mRemoveAll()\r\n| \u001b[90m 31 \u001b[m\u001b[97m}\u001b[15C\u001b[48;5;238m \u001b[m\u001b[97m\r\n  \u001b[90m 32 \u001b[m\u001b[97m\u001b[16C\u001b[48;5;238m \u001b[m\u001b[97m\r\n- \u001b[90m 33 \u001b[m\u001b[97m\u001b[92mfunc\u001b[m\u001b[97m (m *Matcher\u001b[48;5;238m)\u001b[m\u001b[97m Add(pattern KeyList, v \u001b[92minterface\u001b[m\u001b[97m{}) {\r\n- \u001b[90m 34 \u001b[m\u001b[97m\u001b[8Cm.Put(pa\u001b[48;5;238mt\u001b[m\u001b[97mtern, \u0026nodeData{\r\n2 \u001b[93m 35 \u001b[m\u001b[97m\u001b[48;5;238m                pattern: \u0026pattern,                                        \u001b[m\u001b[97m\u001b"
+    ],
+    [
+      0.000038,
+      "[16;1H2 \u001b[90m 36 \u001b[m\u001b[97m\u001b[16C\u001b[48;5;238mv\u001b[m\u001b[97malue:   v,\r\n2 \u001b[90m 37 \u001b[m\u001b[97m\u001b[8C})      \u001b[48;5;238m \u001b[m\u001b[97m\r\n| \u001b[90m 38 \u001b[m\u001b[97m}\u001b[15C\u001b[48;5;238m \u001b[m\u001b[97m\r\n  \u001b[90m 39 \u001b[m\u001b[97m\u001b[16C\u001b[48;5;238m \u001b[m\u001b[97m\r\n- \u001b[90m 40 \u001b[m\u001b[97m\u001b[92mfunc\u001b[m\u001b[97m (m *Matcher\u001b[48;5;238m)\u001b[m\u001b[97m Compile() \u001b[94merror\u001b[m\u001b[97m {\r\n| \u001b[90m 41 \u001b[m\u001b[97m\u001b[8Cm.Balanc\u001b[48;5;238me\u001b[m\u001b[97m()\r\n| \u001b[90m 42 \u001b[m\u001b[97m\u001b[8Croot \u001b[92m:=\u001b[m\u001b[97m \u001b[48;5;238mm\u001b[m\u001b[97m.Root().(*TernaryNode)"
+    ],
+    [
+      0.000812,
+      "\r\n\u001b[38;5;17m\u001b[48;5;190m \u001b[m\u001b[97m\u001b[1m\u001b[38;5;17m\u001b[48;5;190mNORMAL\u001b[m\u001b[97m\u001b[38;5;17m\u001b[48;5;190m \u001b[m\u001b[97m\u001b[38;5;190m\u001b[48;5;238m\u001b[m\u001b[97m\u001b[38;5;255m\u001b[48;5;238m +0 ~0 -0  fuzzy-filter \u001b[m\u001b[97m\u001b[38;5;238m\u001b[48;5;234m\u001b[m\u001b[97m\u001b[38;5;85m\u001b[48;5;234m \u003crasick.go  \u001b[m\u001b[97m\u001b[38;5;234m\u001b[48;5;234m\u001b[m\u001b[97m\u001b[38;5;85m\u001b[48;5;234m Add()  go \u001b[m\u001b[97m\u001b[38;5;238m\u001b[48;5;234m\u001b[m\u001b[97m\u001b[38;5;190m\u001b[48;5;238m\u001b[m\u001b[97m\u001b[38;5;17m\u001b[48;5;190m  27% \u001b[m\u001b[97m\u001b[1m\u001b[38;5;17m\u001b[48;5;190m  35\u001b[m\u001b[97m\u001b[38;5;17m\u001b[48;5;190m: 17  "
+    ],
+    [
+      0.000618,
+      "\u001b[15;23H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.202544,
+      "\u001b[?25l\u001b[27m\u001b[m\u001b[97m\u001b[H\u001b[2J\u001b[1;3H\u001b[90m  1 \u001b[m\u001b[97m\u001b[92mpackage\u001b[m\u001b[97m \u001b[48;5;238mk\u001b[m\u001b[97meyseq\r\n  \u001b[90m  2 \u001b[m\u001b[97m\u001b[8C\u001b[48;5;238m \u001b[m\u001b[97m\r\n- \u001b[90m  3 \u001b[m\u001b[97m\u001b[92mtype\u001b[m\u001b[97m Mat\u001b[48;5;238mc\u001b[m\u001b[97mher \u001b[92mstruct\u001b[m\u001b[97m {\r\n| \u001b[90m  4 \u001b[m\u001b[97m\u001b[8C\u001b[48;5;238m*\u001b[m\u001b[97mTernaryTrie\r\n| \u001b[90m  5 \u001b[m\u001b[97m}\u001b[7C\u001b[48;5;238m \u001b[m\u001b[97m\r\n  \u001b[90m  6 \u001b[m\u001b[97m\u001b[8C\u001b[48;5;238m \u001b[m\u001b[97m\r\n- \u001b[90m  7 \u001b[m\u001b[97m\u001b[92mtype\u001b[m\u001b[97m Mat\u001b[48;5;238mc\u001b[m\u001b[97mh \u001b[92mstruct\u001b[m\u001b[97m {\r\n| \u001b[90m  8 \u001b[m\u001b[97m\u001b[8C\u001b[48;5;238mI\u001b[m\u001b[97mndex   \u001b[94mint\u001b[m\u001b[97m\r\n| \u001b[90m  9 \u001b[m\u001b[97m\u001b[8C\u001b[48;5;238mP\u001b[m\u001b[97mattern KeyList\r\n| \u001b[90m 10 \u001b[m\u001b[97m\u001b[8C\u001b[48;5;238mV\u001b[m\u001b[97malue   \u001b[92minterface\u001b[m\u001b[97m{}\r\n| \u001b[90m 11 \u001b[m\u001b[97m}\u001b[7C\u001b[48;5;238m \u001b[m\u001b[97m\r\n  \u001b[90m 12 \u001b[m\u001b[97m\u001b[8C\u001b[48;5;238m \u001b[m\u001b[97m\r\n- \u001b[90m 13 \u001b[m\u001b[97m\u001b[92mtype\u001b[m\u001b[97m nod\u001b[48;5;238me\u001b[m\u001b[97mData \u001b[92mstruct\u001b[m\u001b[97m {\r\n| \u001b[90m 14 \u001b[m\u001b[97m\u001b[8C\u001b[48;5;238mp\u001b[m\u001b[97mattern *KeyList\r\n| \u001b[93m 15 \u001b[m\u001b[97m\u001b[48;5;238m        value   \u001b[m\u001b[97m\u001b[92m\u001b[48;5;238minterface\u001b[m\u001b[97m\u001b[48;5;238m{}                     "
+    ],
+    [
+      0.000021,
+      "                          \u001b[m\u001b[97m\u001b[16;1H| \u001b[90m 16 \u001b[m\u001b[97m\u001b[8C\u001b[48;5;238mf\u001b[m\u001b[97mailure *TernaryNode\r\n| \u001b[90m 17 \u001b[m\u001b[97m}\u001b[7C\u001b[48;5;238m \u001b[m\u001b[97m\r\n  \u001b[90m 18 \u001b[m\u001b[97m\u001b[8C\u001b[48;5;238m \u001b[m\u001b[97m\r\n- \u001b[90m 19 \u001b[m\u001b[97m\u001b[92mfunc\u001b[m\u001b[97m (n \u001b[48;5;238m*\u001b[m\u001b[97mnodeData) Value() \u001b[92minterface\u001b[m\u001b[97m{} {\r\n| \u001b[90m 20 \u001b[m\u001b[97m\u001b[8C\u001b[92m\u001b[48;5;238mr\u001b[m\u001b[97m\u001b[92meturn\u001b[m\u001b[97m n.value\r\n| \u001b[90m 21 \u001b[m\u001b[97m}\u001b[7C\u001b[48;5;238m \u001b[m\u001b[97m\r\n  \u001b[90m 22 \u001b[m\u001b[97m\u001b[8C\u001b[48;5;238m "
+    ],
+    [
+      0.000634,
+      "\u001b[m\u001b[97m\r\n\u001b[38;5;17m\u001b[48;5;190m \u001b[m\u001b[97m\u001b[1m\u001b[38;5;17m\u001b[48;5;190mNORMAL\u001b[m\u001b[97m\u001b[38;5;17m\u001b[48;5;190m \u001b[m\u001b[97m\u001b[38;5;190m\u001b[48;5;238m\u001b[m\u001b[97m\u001b[38;5;255m\u001b[48;5;238m +0 ~0 -0  fuzzy-filter \u001b[m\u001b[97m\u001b[38;5;238m\u001b[48;5;234m\u001b[m\u001b[97m\u001b[38;5;85m\u001b[48;5;234m \u003crasick.go  \u001b[m\u001b[97m\u001b[38;5;234m\u001b[48;5;234m\u001b[m\u001b[97m\u001b[38;5;85m\u001b[48;5;234m Add()  go \u001b[m\u001b[97m\u001b[38;5;238m\u001b[48;5;234m\u001b[m\u001b[97m\u001b[38;5;190m\u001b[48;5;238m\u001b[m\u001b[97m\u001b[38;5;17m\u001b[48;5;190m  11% \u001b[m\u001b[97m\u001b[1m\u001b[38;5;17m\u001b[48;5;190m  15\u001b[m\u001b[97m\u001b[38;5;17m\u001b[48;5;190m:  9  "
+    ],
+    [
+      0.000626,
+      "\u001b[15;15H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.264887,
+      "\u0007"
+    ],
+    [
+      0.001043,
+      "\u001b[?25l"
+    ],
+    [
+      0.000723,
+      "\u001b[15;15H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.710434,
+      "\u001b[?25l\u001b[24;1H\u001b[m\u001b[97m:"
+    ],
+    [
+      0.000011,
+      "\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.273693,
+      "q"
+    ],
+    [
+      0.000022,
+      "\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.229021,
+      "a"
+    ],
+    [
+      0.000009,
+      "\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.175912,
+      "\r"
+    ],
+    [
+      0.019634,
+      "\u001b[?25l\r\n\u001b[?1002l"
+    ],
+    [
+      0.000011,
+      "\u001b[24;1H\u001b[K\u001b[25;1H\u001b[?1l\u001b\u003e\u001b[?12l\u001b[?25h\u001b[?1049l"
+    ],
+    [
+      0.004246,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000077,
+      "\u001b]2;andy@air2000: ~/src/go/src/github.com/peco/peco\u0007"
+    ],
+    [
+      0.000023,
+      "\u001b]1;..com/peco/peco\u0007"
+    ],
+    [
+      0.041218,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[38;5;135mandy\u001b[00m at \u001b[38;5;166mair2000\u001b[00m in \u001b[38;5;118m~/src/go/src/github.com/peco/peco\u001b[00m (\u001b[38;5;81mfuzzy-filter\u001b[38;5;166m●\u001b[00m) \u001b[00m\r\n$ \u001b[K"
+    ],
+    [
+      0.000090,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.705012,
+      "\r\r\n"
+    ]
+  ]
+}
