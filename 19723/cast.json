@@ -1,0 +1,2278 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 24,
+  "duration": 30.292789,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.026642,
+      "\u001b[01;32mthiagoponte@get10up\u001b[01;34m ~ $\u001b[00m "
+    ],
+    [
+      2.502503,
+      "s"
+    ],
+    [
+      0.145938,
+      "u"
+    ],
+    [
+      0.146146,
+      "d"
+    ],
+    [
+      0.073905,
+      "o"
+    ],
+    [
+      0.322065,
+      " "
+    ],
+    [
+      0.165581,
+      "a"
+    ],
+    [
+      0.084348,
+      "p"
+    ],
+    [
+      0.142095,
+      "t"
+    ],
+    [
+      0.119878,
+      "-"
+    ],
+    [
+      0.161453,
+      "g"
+    ],
+    [
+      0.180645,
+      "e"
+    ],
+    [
+      0.079970,
+      "t"
+    ],
+    [
+      0.163941,
+      " "
+    ],
+    [
+      1.126138,
+      "u"
+    ],
+    [
+      0.197906,
+      "p"
+    ],
+    [
+      0.099966,
+      "d"
+    ],
+    [
+      0.059507,
+      "a"
+    ],
+    [
+      0.184631,
+      "t"
+    ],
+    [
+      0.039678,
+      "e"
+    ],
+    [
+      0.140797,
+      "\r\n"
+    ],
+    [
+      0.022536,
+      "[sudo] password for thiagoponte: "
+    ],
+    [
+      2.696288,
+      "\r\n"
+    ],
+    [
+      0.023710,
+      "\r\r0% [Working]"
+    ],
+    [
+      0.233952,
+      "\r            \rIgn http://dl.google.com stable InRelease\r\n"
+    ],
+    [
+      0.000013,
+      "\r            \r2% [Waiting for headers] [Connecting to ppa.launchpad.net (91.189.95.83)] [Wait"
+    ],
+    [
+      0.035810,
+      "\r                                                                               \rIgn http://security.ubuntu.com trusty-security InRelease\r\n\r5% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting f"
+    ],
+    [
+      0.050114,
+      "\r                                                                               \rIgn http://extra.linuxmint.com rebecca InRelease\r\n\r7% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting f"
+    ],
+    [
+      0.008899,
+      "\r                                                                               \rHit http://downloads.hipchat.com stable InRelease\r\n\r13% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting "
+    ],
+    [
+      0.001375,
+      "\r13% [InRelease gpgv 2.093 B] [Waiting for headers] [Waiting for headers] [Waiti\r                                                                               \rIgn http://packages.linuxmint.com rebecca InRelease\r\n\r17% [InRelease gpgv 2.093 B] [Waiting for headers] [Waiting for headers] [Waiti"
+    ],
+    [
+      0.002292,
+      "\r18% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting "
+    ],
+    [
+      0.041778,
+      "\r                                                                               \rGet:1 http://security.ubuntu.com trusty-security Release.gpg [933 B]\r\n\r98% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting "
+    ],
+    [
+      0.000132,
+      "\r98% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting "
+    ],
+    [
+      0.010620,
+      "\r                                                                               \rIgn http://archive.ubuntu.com trusty InRelease\r\n\r98% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting "
+    ],
+    [
+      0.014936,
+      "\r                                                                               \rIgn http://archive.canonical.com trusty InRelease\r\n\r98% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting "
+    ],
+    [
+      0.009046,
+      "\r                                                                               \rHit http://dl.google.com stable Release.gpg\r\n\r98% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting "
+    ],
+    [
+      0.047247,
+      "\r                                                                               \rHit http://downloads.hipchat.com stable/main amd64 Packages\r\n\r98% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting \r                                                                               \rGet:2 http://extra.linuxmint.com rebecca Release.gpg [198 B]\r\n\r98% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting "
+    ],
+    [
+      0.000912,
+      "\r98% [Packages 853 B] [Waiting for headers] [Waiting for headers] [Waiting for h"
+    ],
+    [
+      0.000436,
+      "\r99% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting "
+    ],
+    [
+      0.007300,
+      "\r                                                                               \rGet:3 http://packages.linuxmint.com rebecca Release.gpg [198 B]\r\n"
+    ],
+    [
+      0.000006,
+      "\r99% [Waiting for headers] [Waiting for headers] [Waiting for headers] [3 Releas"
+    ],
+    [
+      0.000076,
+      "\r99% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting "
+    ],
+    [
+      0.013206,
+      "\r                                                                               \rIgn http://ppa.launchpad.net trusty InRelease\r\n"
+    ],
+    [
+      0.000006,
+      "\r99% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting "
+    ],
+    [
+      0.000116,
+      "\r                                                                               \rGet:4 http://security.ubuntu.com trusty-security Release [63,5 kB]\r\n"
+    ],
+    [
+      0.000005,
+      "\r5% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting f"
+    ],
+    [
+      0.076653,
+      "\r                                                                               \rIgn http://archive.ubuntu.com trusty-updates InRelease\r\n\r25% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting "
+    ],
+    [
+      0.007263,
+      "\r                                                                               \rHit http://archive.canonical.com trusty Release.gpg\r\n\r25% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting "
+    ],
+    [
+      0.003907,
+      "\r                                                                               \rHit http://downloads.hipchat.com stable/main i386 Packages\r\n\r25% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting "
+    ],
+    [
+      0.000487,
+      "\r25% [Packages 851 B] [Waiting for headers] [Waiting for headers] [Waiting for h\r26% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting "
+    ],
+    [
+      0.026135,
+      "\r                                                                               \rHit http://dl.google.com stable Release\r\n\r58% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting "
+    ],
+    [
+      0.000236,
+      "\r58% [Release gpgv 1.347 B] [Waiting for headers] [Waiting for headers] [Waiting"
+    ],
+    [
+      0.000465,
+      "\r                                                                               \rGet:5 http://extra.linuxmint.com rebecca Release [3.212 B]\r\n\r57% [Release gpgv 1.347 B] [Waiting for headers] [Waiting for headers] [Waiting"
+    ],
+    [
+      0.001029,
+      "\r60% [Release gpgv 1.347 B] [Waiting for headers] [Waiting for headers] [Waiting"
+    ],
+    [
+      0.003971,
+      "\r60% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting "
+    ],
+    [
+      0.000155,
+      "\r60% [5 Release gpgv 3.212 B] [Waiting for headers] [Waiting for headers] [Waiti"
+    ],
+    [
+      0.001792,
+      "\r                                                                               \rGet:6 http://packages.linuxmint.com rebecca Release [24,2 kB]\r\n"
+    ],
+    [
+      0.000022,
+      "\r46% [5 Release gpgv 3.212 B] [Waiting for headers] [Waiting for headers] [Waiti"
+    ],
+    [
+      0.003569,
+      "\r52% [Waiting for headers] [Waiting for headers] [Waiting for headers] [6 Releas"
+    ],
+    [
+      0.089596,
+      "\r                                                                               \rIgn http://ppa.launchpad.net trusty InRelease\r\n\r73% [Waiting for headers] [Waiting for headers] [6 Release 14,2 kB/24,2 kB 59%]"
+    ],
+    [
+      0.028307,
+      "\r                                                                               \rHit http://archive.canonical.com trusty Release\r\n\r87% [Waiting for headers] [Waiting for headers] [Waiting for headers] [6 Releas"
+    ],
+    [
+      0.000152,
+      "\r87% [Release gpgv 9.359 B] [Waiting for headers] [Waiting for headers] [Waiting"
+    ],
+    [
+      0.002514,
+      "\r                                                                               \rHit http://archive.ubuntu.com trusty Release.gpg\r\n\r87% [Release gpgv 9.359 B] [Waiting for headers] [Waiting for headers] [Waiting"
+    ],
+    [
+      0.002220,
+      "\r87% [Waiting for headers] [Waiting for headers] [Waiting for headers] [6 Releas"
+    ],
+    [
+      0.005322,
+      "\r89% [Waiting for headers] [Waiting for headers] [Waiting for headers] [6 Releas"
+    ],
+    [
+      0.000145,
+      "\r89% [4 Release gpgv 63,5 kB] [Waiting for headers] [Waiting for headers] [Waiti"
+    ],
+    [
+      0.003397,
+      "\r91% [Waiting for headers] [Waiting for headers] [Waiting for headers] [6 Releas"
+    ],
+    [
+      0.004214,
+      "\r                                                                               \rGet:7 http://extra.linuxmint.com rebecca/main amd64 Packages [7.903 B]\r\n"
+    ],
+    [
+      0.000002,
+      "\r92% [Waiting for headers] [Waiting for headers] [Waiting for headers] [6 Releas"
+    ],
+    [
+      0.005875,
+      "\r100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [6 Relea"
+    ],
+    [
+      0.000016,
+      "\r100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting"
+    ],
+    [
+      0.000071,
+      "\r100% [6 Release gpgv 24,2 kB] [Waiting for headers] [Waiting for headers] [Wait"
+    ],
+    [
+      0.000262,
+      "\r100% [7 Packages gzip 0 B] [6 Release gpgv 24,2 kB] [Waiting for headers] [Wait"
+    ],
+    [
+      0.000661,
+      "\r100% [6 Release gpgv 24,2 kB] [Waiting for headers] [Waiting for headers] [Wait"
+    ],
+    [
+      0.001355,
+      "\r100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting"
+    ],
+    [
+      0.090656,
+      "\r                                                                               \rGet:8 http://security.ubuntu.com trusty-security/main amd64 Packages [267 kB]\r\n\r28% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting "
+    ],
+    [
+      0.040196,
+      "\r                                                                               \rGet:9 http://extra.linuxmint.com rebecca/main i386 Packages [7.890 B]\r\n\r37% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting "
+    ],
+    [
+      0.003441,
+      "\r39% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting "
+    ],
+    [
+      0.000149,
+      "\r39% [9 Packages gzip 0 B] [Waiting for headers] [Waiting for headers] [Waiting "
+    ],
+    [
+      0.000902,
+      "\r                                                                               \rGet:10 http://packages.linuxmint.com rebecca/main amd64 Packages [33,0 kB]\r\n\r36% [9 Packages gzip 0 B] [Waiting for headers] [Waiting for headers] [Waiting "
+    ],
+    [
+      0.000296,
+      "\r36% [Waiting for headers] [Waiting for headers] [Waiting for headers] [10 Packa"
+    ],
+    [
+      0.010618,
+      "\r                                                                               \rHit http://archive.canonical.com trusty/partner amd64 Packages\r\n\r41% [Waiting for headers] [Waiting for headers] [Waiting for headers] [10 Packa"
+    ],
+    [
+      0.000136,
+      "\r41% [Packages 17,2 kB] [Waiting for headers] [Waiting for headers] [Waiting for"
+    ],
+    [
+      0.000667,
+      "\r43% [Waiting for headers] [Waiting for headers] [Waiting for headers] [10 Packa"
+    ],
+    [
+      0.000194,
+      "\r                                                                               \rGet:11 http://archive.ubuntu.com trusty-updates Release.gpg [933 B]\r\n\r43% [Waiting for headers] [Waiting for headers] [Waiting for headers] [10 Packa"
+    ],
+    [
+      0.000168,
+      "\r43% [Waiting for headers] [Waiting for headers] [Waiting for headers] [10 Packa"
+    ],
+    [
+      0.010065,
+      "\r                                                                               \rIgn http://ppa.launchpad.net trusty InRelease\r\n\r43% [Waiting for headers] [Waiting for headers] [10 Packages 20,0 kB/33,0 kB 61"
+    ],
+    [
+      0.071597,
+      "\r                                                                               \rHit http://dl.google.com stable/main amd64 Packages\r\n\r56% [Waiting for headers] [Waiting for headers] [10 Packages 20,0 kB/33,0 kB 61"
+    ],
+    [
+      0.000258,
+      "\r56% [Packages 4.113 B] [Waiting for headers] [Waiting for headers] [10 Packages"
+    ],
+    [
+      0.000265,
+      "\r57% [Waiting for headers] [Waiting for headers] [Waiting for headers] [10 Packa"
+    ],
+    [
+      0.047644,
+      "\r60% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Connecti"
+    ],
+    [
+      0.007663,
+      "\r60% [10 Packages gzip 0 B] [Waiting for headers] [Waiting for headers] [Waiting"
+    ],
+    [
+      0.000413,
+      "\r60% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting "
+    ],
+    [
+      0.023352,
+      "\r                                                                               \rHit http://archive.canonical.com trusty/partner i386 Packages\r\n\r62% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting "
+    ],
+    [
+      0.000155,
+      "\r62% [Packages 19,4 kB] [Waiting for headers] [Waiting for headers] [Waiting for"
+    ],
+    [
+      0.000947,
+      "\r63% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting "
+    ],
+    [
+      0.013277,
+      "\r                                                                               \rHit http://archive.ubuntu.com trusty Release\r\n\r68% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting "
+    ],
+    [
+      0.001065,
+      "\r68% [Release gpgv 58,5 kB] [Waiting for headers] [Waiting for headers] [Waiting"
+    ],
+    [
+      0.005844,
+      "\r70% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting "
+    ],
+    [
+      0.038957,
+      "\r                                                                               \rIgn http://ppa.launchpad.net trusty InRelease\r\n"
+    ],
+    [
+      0.000009,
+      "\r76% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Connecti"
+    ],
+    [
+      0.035398,
+      "\r                                                                               \rHit http://dl.google.com stable/main i386 Packages\r\n\r77% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting "
+    ],
+    [
+      0.000218,
+      "\r77% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting "
+    ],
+    [
+      0.008490,
+      "\r                                                                               \rGet:12 http://packages.linuxmint.com rebecca/upstream amd64 Packages [30,0 kB]\r\n\r74% [Waiting for headers] [Waiting for headers] [Waiting for headers] [12 Packa"
+    ],
+    [
+      0.081836,
+      "\r                                                                               \rGet:13 http://archive.ubuntu.com trusty-updates Release [63,5 kB]\r\n\r82% [Waiting for headers] [Waiting for headers] [Waiting for headers] [12 Packa"
+    ],
+    [
+      0.063574,
+      "\r91% [Waiting for headers] [Waiting for headers] [Waiting for headers] [12 Packa\r91% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting \r91% [12 Packages gzip 0 B] [Waiting for headers] [Waiting for headers] [Waiting\r91% [8 Packages bzip2 0 B] [12 Packages gzip 0 B] [Waiting for headers] [Waitin"
+    ],
+    [
+      0.004237,
+      "\r91% [8 Packages bzip2 0 B] [Waiting for headers] [Waiting for headers] [Waiting"
+    ],
+    [
+      0.015417,
+      "\r                                                                               \rIgn http://ppa.launchpad.net trusty InRelease\r\n\r91% [8 Packages bzip2 0 B] [Waiting for headers] [Waiting for headers] [Waiting"
+    ],
+    [
+      0.048482,
+      "\r91% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting "
+    ],
+    [
+      0.034076,
+      "\r                                                                               \rGet:14 http://security.ubuntu.com trusty-security/restricted amd64 Packages [8.875 B]\r\n\r90% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting "
+    ],
+    [
+      0.003936,
+      "\r91% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting "
+    ],
+    [
+      0.000795,
+      "\r91% [14 Packages bzip2 0 B] [Waiting for headers] [Waiting for headers] [Waitin"
+    ],
+    [
+      0.009217,
+      "\r95% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting "
+    ],
+    [
+      0.009144,
+      "\r                                                                               \rGet:15 http://packages.linuxmint.com rebecca/import amd64 Packages [218 kB]\r\n\r68% [Waiting for headers] [Waiting for headers] [Waiting for headers] [15 Packa"
+    ],
+    [
+      0.083741,
+      "\r                                                                               \rGet:16 http://security.ubuntu.com trusty-security/universe amd64 Packages [101 kB]\r\n\r64% [Waiting for headers] [Waiting for headers] [Waiting for headers] [15 Packa"
+    ],
+    [
+      0.034832,
+      "\r                                                                               \rIgn http://ppa.launchpad.net trusty InRelease\r\n"
+    ],
+    [
+      0.000049,
+      "\r                                                                               \rIgn http://archive.canonical.com trusty/partner Translation-en\r\n"
+    ],
+    [
+      0.000052,
+      "\r71% [Waiting for headers] [Waiting for headers] [15 Packages 32,9 kB/218 kB 15%"
+    ],
+    [
+      0.052661,
+      "\r79% [Waiting for headers] [Waiting for headers] [Waiting for headers] [15 Packa"
+    ],
+    [
+      0.000405,
+      "\r79% [13 Release gpgv 63,5 kB] [Waiting for headers] [Waiting for headers] [Wait"
+    ],
+    [
+      0.009844,
+      "\r79% [Waiting for headers] [Waiting for headers] [Waiting for headers] [15 Packa"
+    ],
+    [
+      0.028712,
+      "\r85% [Waiting for headers] [Waiting for headers] [Waiting for headers] [15 Packa"
+    ],
+    [
+      0.000244,
+      "\r85% [16 Packages bzip2 0 B] [Waiting for headers] [Waiting for headers] [Waitin"
+    ],
+    [
+      0.025692,
+      "\r85% [Waiting for headers] [Waiting for headers] [Waiting for headers] [15 Packa"
+    ],
+    [
+      0.076842,
+      "\r                                                                               \rGet:17 http://security.ubuntu.com trusty-security/multiverse amd64 Packages [3.681 B]\r\n\r89% [Waiting for headers] [Waiting for headers] [Waiting for headers] [15 Packa"
+    ],
+    [
+      0.001219,
+      "\r89% [Waiting for headers] [Waiting for headers] [Waiting for headers] [15 Packa"
+    ],
+    [
+      0.000270,
+      "\r89% [17 Packages bzip2 0 B] [Waiting for headers] [Waiting for headers] [Waitin"
+    ],
+    [
+      0.002823,
+      "\r89% [Waiting for headers] [Waiting for headers] [Waiting for headers] [15 Packa"
+    ],
+    [
+      0.003095,
+      "\r                                                                               \rIgn http://downloads.hipchat.com stable/main Translation-en_US\r\n"
+    ],
+    [
+      0.000016,
+      "\r89% [Waiting for headers] [Waiting for headers] [15 Packages 124 kB/218 kB 57%]"
+    ],
+    [
+      0.015989,
+      "\r                                                                               \rIgn http://ppa.launchpad.net trusty InRelease\r\n\r92% [Waiting for headers] [Waiting for headers] [15 Packages 144 kB/218 kB 66%]"
+    ],
+    [
+      0.006176,
+      "\r                                                                               \rHit http://archive.ubuntu.com trusty/main amd64 Packages\r\n\r92% [Waiting for headers] [Waiting for headers] [Waiting for headers] [15 Packa"
+    ],
+    [
+      0.002984,
+      "\r92% [Packages 8.235 kB] [Waiting for headers] [Waiting for headers] [Waiting fo"
+    ],
+    [
+      0.076152,
+      "\r                                                                               \rGet:18 http://security.ubuntu.com trusty-security/main i386 Packages [256 kB]\r\n\r74% [Packages 8.235 kB] [Waiting for headers] [Waiting for headers] [Waiting fo"
+    ],
+    [
+      0.037710,
+      "\r98% [Waiting for headers] [Waiting for headers] [Waiting for headers] [15 Packa"
+    ],
+    [
+      0.022855,
+      "\r                                                                               \rIgn http://downloads.hipchat.com stable/main Translation-en\r\n\r98% [Waiting for headers] [Waiting for headers] [15 Packages 197 kB/218 kB 90%]"
+    ],
+    [
+      0.029562,
+      "\r                                                                               \rHit http://archive.ubuntu.com trusty/restricted amd64 Packages\r\n\r98% [Waiting for headers] [Waiting for headers] [15 Packages 197 kB/218 kB 90%]"
+    ],
+    [
+      0.000062,
+      "\r98% [Packages 184 kB] [Waiting for headers] [Waiting for headers] [15 Packages "
+    ],
+    [
+      0.002779,
+      "\r98% [Waiting for headers] [Waiting for headers] [15 Packages 197 kB/218 kB 90%]"
+    ],
+    [
+      0.033254,
+      "\r                                                                               \rIgn http://ppa.launchpad.net trusty InRelease\r\n\r98% [Waiting for headers] [15 Packages 197 kB/218 kB 90%] [Connecting to extra."
+    ],
+    [
+      0.136097,
+      "\r                                                                               \rHit http://archive.ubuntu.com trusty/universe amd64 Packages\r\n\r100% [Waiting for headers] [Waiting for headers] [15 Packages 213 kB/218 kB 98%"
+    ],
+    [
+      0.001500,
+      "\r100% [Packages 31,7 MB] [Waiting for headers] [Waiting for headers] [15 Package"
+    ],
+    [
+      0.074323,
+      "\r100% [Packages 31,7 MB] [Waiting for headers] [Waiting for headers] [15 Package"
+    ],
+    [
+      0.000175,
+      "\r                                                                               \rIgn http://ppa.launchpad.net trusty InRelease\r\n\r100% [18 Packages bzip2 0 B] [Packages 31,7 MB] [Waiting for headers] [Waiting "
+    ],
+    [
+      0.062758,
+      "\r100% [Packages 31,7 MB] [Waiting for headers] [Waiting for headers] [15 Package"
+    ],
+    [
+      0.030363,
+      "\r                                                                               \rHit http://archive.ubuntu.com trusty/multiverse amd64 Packages\r\n\r100% [Packages 31,7 MB] [Waiting for headers] [Waiting for headers] [15 Package"
+    ],
+    [
+      0.010326,
+      "\r                                                                               \rGet:19 http://security.ubuntu.com trusty-security/restricted i386 Packages [8.846 B]\r\n\r100% [Packages 31,7 MB] [Waiting for headers] [Waiting for headers] [15 Package"
+    ],
+    [
+      0.003900,
+      "\r100% [Packages 31,7 MB] [Waiting for headers] [Waiting for headers] [15 Package"
+    ],
+    [
+      0.000065,
+      "\r100% [19 Packages bzip2 0 B] [Packages 31,7 MB] [Waiting for headers] [Waiting "
+    ],
+    [
+      0.008336,
+      "\r100% [Packages 31,7 MB] [Waiting for headers] [Waiting for headers] [15 Package"
+    ],
+    [
+      0.042240,
+      "\r                                                                               \rIgn http://extra.linuxmint.com rebecca/main Translation-en_US\r\n\r100% [Packages 31,7 MB] [Waiting for headers] [Waiting for headers] [15 Package"
+    ],
+    [
+      0.051908,
+      "\r                                                                               \rGet:20 http://security.ubuntu.com trusty-security/universe i386 Packages [101 kB]\r\n"
+    ],
+    [
+      0.000006,
+      "\r99% [Packages 31,7 MB] [Waiting for headers] [Waiting for headers] [15 Packages"
+    ],
+    [
+      0.034024,
+      "\r                                                                               \rIgn http://ppa.launchpad.net trusty InRelease\r\n"
+    ],
+    [
+      0.000006,
+      "\r100% [Packages 31,7 MB] [Waiting for headers] [15 Packages 213 kB/218 kB 98%] ["
+    ],
+    [
+      0.020011,
+      "\r                                                                               \rHit http://archive.ubuntu.com trusty/main i386 Packages\r\n\r100% [Packages 31,7 MB] [Waiting for headers] [Waiting for headers] [15 Package"
+    ],
+    [
+      0.028024,
+      "\r                                                                               \rIgn http://extra.linuxmint.com rebecca/main Translation-en\r\n\r100% [Packages 31,7 MB] [Waiting for headers] [Waiting for headers] [15 Package"
+    ],
+    [
+      0.039672,
+      "\r100% [Packages 31,7 MB] [Waiting for headers] [Waiting for headers] [15 Package"
+    ],
+    [
+      0.000105,
+      "\r100% [20 Packages bzip2 0 B] [Packages 31,7 MB] [Waiting for headers] [Waiting "
+    ],
+    [
+      0.006139,
+      "\r100% [20 Packages bzip2 0 B] [Waiting for headers] [Waiting for headers] [15 Pa"
+    ],
+    [
+      0.000049,
+      "\r100% [20 Packages bzip2 0 B] [Packages 664 kB] [Waiting for headers] [Waiting f"
+    ],
+    [
+      0.011413,
+      "\r100% [20 Packages bzip2 0 B] [Waiting for headers] [Waiting for headers] [15 Pa\r100% [20 Packages bzip2 0 B] [Packages 8.205 kB] [Waiting for headers] [Waiting"
+    ],
+    [
+      0.005140,
+      "\r100% [Packages 8.205 kB] [Waiting for headers] [Waiting for headers] [15 Packag"
+    ],
+    [
+      0.078768,
+      "\r                                                                               \rHit http://archive.ubuntu.com trusty/restricted i386 Packages\r\n"
+    ],
+    [
+      0.000004,
+      "\r100% [Packages 8.205 kB] [Waiting for headers] [Waiting for headers] [15 Packag"
+    ],
+    [
+      0.001755,
+      "\r                                                                               \rGet:21 http://security.ubuntu.com trusty-security/multiverse i386 Packages [3.846 B]\r\n"
+    ],
+    [
+      0.000002,
+      "\r100% [Packages 8.205 kB] [Waiting for headers] [Waiting for headers] [15 Packag"
+    ],
+    [
+      0.001666,
+      "\r100% [Packages 8.205 kB] [Waiting for headers] [Waiting for headers] [15 Packag"
+    ],
+    [
+      0.000091,
+      "\r100% [21 Packages bzip2 0 B] [Packages 8.205 kB] [Waiting for headers] [Waiting"
+    ],
+    [
+      0.000772,
+      "\r100% [Packages 8.205 kB] [Waiting for headers] [Waiting for headers] [15 Packag"
+    ],
+    [
+      0.014226,
+      "\r100% [Waiting for headers] [Waiting for headers] [15 Packages 214 kB/218 kB 98%"
+    ],
+    [
+      0.000094,
+      "\r100% [Packages 185 kB] [Waiting for headers] [Waiting for headers] [15 Packages"
+    ],
+    [
+      0.002489,
+      "\r100% [Waiting for headers] [Waiting for headers] [15 Packages 214 kB/218 kB 98%"
+    ],
+    [
+      0.001360,
+      "\r                                                                               \rIgn http://ppa.launchpad.net trusty InRelease"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000018,
+      "\r100% [Waiting for headers] [15 Packages 214 kB/218 kB 98%] [Waiting for headers"
+    ],
+    [
+      0.084491,
+      "\r                                                                               \rHit http://security.ubuntu.com trusty-security/main Translation-en\r\n"
+    ],
+    [
+      0.000013,
+      "\r100% [Waiting for headers] [Waiting for headers] [15 Packages 217 kB/218 kB 100"
+    ],
+    [
+      0.000934,
+      "\r100% [Translation-en 1.506 kB] [Waiting for headers] [Waiting for headers] [15 "
+    ],
+    [
+      0.023934,
+      "\r100% [Waiting for headers] [Waiting for headers] [15 Packages 217 kB/218 kB 100"
+    ],
+    [
+      0.038064,
+      "\r                                                                               \rIgn http://dl.google.com stable/main Translation-en_US\r\n"
+    ],
+    [
+      0.000074,
+      "\r                                                                               \rHit http://archive.ubuntu.com trusty/universe i386 Packages\r\n"
+    ],
+    [
+      0.000017,
+      "\r100% [Waiting for headers] [15 Packages 217 kB/218 kB 100%] [Waiting for header"
+    ],
+    [
+      0.000073,
+      "\r100% [Packages 31,7 MB] [Waiting for headers] [15 Packages 217 kB/218 kB 100%] "
+    ],
+    [
+      0.033629,
+      "\r100% [Packages 31,7 MB] [Waiting for headers] [Waiting for headers] [Waiting fo"
+    ],
+    [
+      0.000106,
+      "\r100% [15 Packages gzip 0 B] [Packages 31,7 MB] [Waiting for headers] [Waiting f"
+    ],
+    [
+      0.003832,
+      "\r                                                                               \rHit http://security.ubuntu.com trusty-security/multiverse Translation-en\r\n"
+    ],
+    [
+      0.000003,
+      "\r100% [15 Packages gzip 0 B] [Packages 31,7 MB] [Waiting for headers] [Waiting f"
+    ],
+    [
+      0.013993,
+      "\r100% [Packages 31,7 MB] [Waiting for headers] [Waiting for headers] [Connecting"
+    ],
+    [
+      0.009974,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty Release.gpg\r\n"
+    ],
+    [
+      0.000004,
+      "\r100% [Packages 31,7 MB] [Waiting for headers] [Connecting to packages.linuxmint"
+    ],
+    [
+      0.077408,
+      "\r                                                                               \rHit http://security.ubuntu.com trusty-security/restricted Translation-en\r\n\r100% [Packages 31,7 MB] [Waiting for headers] [Waiting for headers] [Connecting"
+    ],
+    [
+      0.031321,
+      "\r                                                                               \rHit http://archive.ubuntu.com trusty/multiverse i386 Packages\r\n\r100% [Packages 31,7 MB] [Waiting for headers] [Waiting for headers] [Waiting fo"
+    ],
+    [
+      0.011312,
+      "\r                                                                               \rIgn http://dl.google.com stable/main Translation-en\r\n\r100% [Packages 31,7 MB] [Waiting for headers] [Waiting for headers] [Waiting fo"
+    ],
+    [
+      0.057152,
+      "\r                                                                               \rHit http://security.ubuntu.com trusty-security/universe Translation-en\r\n\r100% [Packages 31,7 MB] [Waiting for headers] [Waiting for headers] [Waiting fo"
+    ],
+    [
+      0.033526,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty Release.gpg\r\n\r                                                                               \r100% [Packages 31,7 MB] [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.023873,
+      "\r                                                                   \rGet:22 http://packages.linuxmint.com rebecca/main i386 Packages [32,4 kB]\r\n\r                                                                   \r100% [Packages 31,7 MB] [Waiting for headers] [22 Packages 1.274 B/32,4 kB 4%] "
+    ],
+    [
+      0.108300,
+      "\r100% [Waiting for headers] [22 Packages 14,2 kB/32,4 kB 44%] [Waiting for heade"
+    ],
+    [
+      0.000059,
+      "\r100% [Translation-en 5.770 B] [Waiting for headers] [22 Packages 14,2 kB/32,4 k"
+    ],
+    [
+      0.000192,
+      "\r100% [Waiting for headers] [22 Packages 14,2 kB/32,4 kB 44%] [Waiting for heade"
+    ],
+    [
+      0.000130,
+      "\r100% [Translation-en 15,4 kB] [Waiting for headers] [22 Packages 14,2 kB/32,4 k"
+    ],
+    [
+      0.000341,
+      "\r100% [Waiting for headers] [22 Packages 14,2 kB/32,4 kB 44%] [Waiting for heade"
+    ],
+    [
+      0.000056,
+      "\r100% [Packages 674 kB] [Waiting for headers] [22 Packages 14,2 kB/32,4 kB 44%] "
+    ],
+    [
+      0.008566,
+      "\r100% [Waiting for headers] [22 Packages 14,2 kB/32,4 kB 44%] [Waiting for heade"
+    ],
+    [
+      0.000056,
+      "\r100% [Translation-en 295 kB] [Waiting for headers] [22 Packages 14,2 kB/32,4 kB"
+    ],
+    [
+      0.004047,
+      "\r100% [Waiting for headers] [22 Packages 14,2 kB/32,4 kB 44%] [Waiting for heade"
+    ],
+    [
+      0.020289,
+      "\r                                                                               \r100% [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.000186,
+      "\r                                                \r100% [22 Packages gzip 0 B] [Waiting for headers] [Waiting for headers] [Waitin"
+    ],
+    [
+      0.005890,
+      "\r                                                                               \r100% [Waiting for headers] [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.038968,
+      "\r                                                                      \rHit http://ppa.launchpad.net trusty Release.gpg\r\n\r                                                                      \r100% [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.027751,
+      "\r                                                \rHit http://archive.ubuntu.com trusty/main Translation-en\r\n\r100% [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.000077,
+      "\r                                                \r100% [Translation-en 4.149 kB] [Waiting for headers] [Waiting for headers] [Wai"
+    ],
+    [
+      0.056019,
+      "\r                                                                               \r100% [Waiting for headers] [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.007512,
+      "\r                                                                      \rGet:23 http://packages.linuxmint.com rebecca/upstream i386 Packages [30,0 kB]\r\n\r                                                                      \r100% [Waiting for headers] [23 Packages 1.274 B/30,0 kB 4%] [Waiting for header"
+    ],
+    [
+      0.118326,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty Release.gpg\r\n\r                                                                               \r100% [23 Packages 28,6 kB/30,0 kB 96%] [Waiting for headers]"
+    ],
+    [
+      0.011415,
+      "\r                                                            \r100% [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.000250,
+      "\r                                                \r100% [23 Packages gzip 0 B] [Waiting for headers] [Waiting for headers] [Waitin"
+    ],
+    [
+      0.009494,
+      "\r                                                                               \r100% [Waiting for headers] [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.121259,
+      "\r                                                                      \rGet:24 http://packages.linuxmint.com rebecca/import i386 Packages [219 kB]\r\n\r                                                                      \r100% [Waiting for headers] [24 Packages 1.273 B/219 kB 1%] [Waiting for headers"
+    ],
+    [
+      0.017029,
+      "\r                                                                               \rHit http://archive.ubuntu.com trusty/multiverse Translation-en\r\n\r                                                                               \r100% [Waiting for headers] [24 Packages 33,0 kB/219 kB 15%]"
+    ],
+    [
+      0.001795,
+      "\r                                                           \r100% [Translation-en 409 kB] [Waiting for headers] [24 Packages 33,0 kB/219 kB "
+    ],
+    [
+      0.010072,
+      "\r100% [Waiting for headers] [24 Packages 33,0 kB/219 kB 15%] [Waiting for header"
+    ],
+    [
+      0.038029,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty Release.gpg\r\n\r                                                                               \r100% [24 Packages 33,0 kB/219 kB 15%] [Waiting for headers]"
+    ],
+    [
+      0.218612,
+      "\r                                                           \rHit http://ppa.launchpad.net trusty Release.gpg\r\n"
+    ],
+    [
+      0.000015,
+      "\r                                                           \r100% [Waiting for headers] [24 Packages 112 kB/219 kB 51%] [Waiting for headers"
+    ],
+    [
+      0.175914,
+      "\r                                                                               \r100% [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.000304,
+      "\r                                                \r100% [24 Packages gzip 0 B] [Waiting for headers] [Waiting for headers] [Waitin"
+    ],
+    [
+      0.028350,
+      "\r                                                                               \r100% [Waiting for headers] [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.007932,
+      "\r                                                                      \rHit http://ppa.launchpad.net trusty Release.gpg\r\n\r                                                                      \r100% [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.066016,
+      "\r                                                \rHit http://archive.ubuntu.com trusty/restricted Translation-en\r\n\r100% [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.000121,
+      "\r                                                \r100% [Translation-en 21,2 kB] [Waiting for headers] [Waiting for headers] [Wait"
+    ],
+    [
+      0.000738,
+      "\r                                                                               \r100% [Waiting for headers] [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.142421,
+      "\r                                                                      \rHit http://ppa.launchpad.net trusty Release.gpg\r\n\r                                                                      \r100% [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.193278,
+      "\r                                                \rHit http://archive.ubuntu.com trusty/universe Translation-en\r\n\r                                                \r100% [Waiting for headers] [Connecting to packages.linuxmint.com (204.45.82.194"
+    ],
+    [
+      0.002261,
+      "\r100% [Translation-en 18,6 MB] [Waiting for headers] [Connecting to packages.lin"
+    ],
+    [
+      0.014227,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty Release.gpg\r\n\r100% [Translation-en 18,6 MB] [Connecting to packages.linuxmint.com (204.45.82."
+    ],
+    [
+      0.150854,
+      "\r                                                                               \rGet:25 http://archive.ubuntu.com trusty-updates/main amd64 Packages [514 kB]\r\n\r99% [Translation-en 18,6 MB] [Waiting for headers] [Waiting for headers] [25 Pa"
+    ],
+    [
+      0.077016,
+      "\r100% [Waiting for headers] [Waiting for headers] [25 Packages 37,1 kB/514 kB 7%"
+    ],
+    [
+      0.228255,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty Release.gpg\r\n\r                                                                               \r100% [Waiting for headers] [25 Packages 91,8 kB/514 kB 18%]"
+    ],
+    [
+      0.215846,
+      "\r                                                           \rHit http://ppa.launchpad.net trusty Release.gpg\r\n\r                                                           \r100% [Waiting for headers] [25 Packages 193 kB/514 kB 37%]"
+    ],
+    [
+      0.212266,
+      "\r                                                          \rHit http://ppa.launchpad.net trusty Release\r\n"
+    ],
+    [
+      0.000013,
+      "\r                                                          \r100% [Connecting to packages.linuxmint.com (204.45.82.194)] [25 Packages 337 kB"
+    ],
+    [
+      0.000248,
+      "\r100% [Release gpgv 15,1 kB] [Waiting for headers] [Connecting to packages.linux"
+    ],
+    [
+      0.007583,
+      "\r100% [Waiting for headers] [Connecting to packages.linuxmint.com (204.45.82.194"
+    ],
+    [
+      0.203367,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty Release\r\n\r                                                                               \r100% [Waiting for headers] [25 Packages 432 kB/514 kB 84%]"
+    ],
+    [
+      0.000157,
+      "\r                                                          \r100% [Release gpgv 14,5 kB] [Waiting for headers] [Waiting for headers] [25 Pac"
+    ],
+    [
+      0.003696,
+      "\r100% [Waiting for headers] [Waiting for headers] [25 Packages 432 kB/514 kB 84%"
+    ],
+    [
+      0.115784,
+      "\r                                                                               \r100% [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.002624,
+      "\r                                                \r100% [25 Packages bzip2 0 B] [Waiting for headers] [Waiting for headers] [Waiti"
+    ],
+    [
+      0.087605,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty Release\r\n\r                                                                               \r100% [25 Packages bzip2 0 B] [Waiting for headers] [Waiting for headers]\r                                                                        \r100% [25 Packages bzip2 0 B] [Release gpgv 15,1 kB] [Waiting for headers] [Wait"
+    ],
+    [
+      0.001614,
+      "\r100% [25 Packages bzip2 0 B] [Waiting for headers] [Waiting for headers] [Waiti"
+    ],
+    [
+      0.043242,
+      "\r                                                                               \r100% [Waiting for headers] [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.035595,
+      "\r                                                                      \rGet:26 http://archive.ubuntu.com trusty-updates/restricted amd64 Packages [9.238 B]\r\n"
+    ],
+    [
+      0.000013,
+      "\r                                                                      \r100% [Waiting for headers] [Waiting for headers] [26 Packages 1.112 B/9.238 B 1"
+    ],
+    [
+      0.004231,
+      "\r                                                                               \r100% [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.000068,
+      "\r                                                \r100% [26 Packages bzip2 0 B] [Waiting for headers] [Waiting for headers] [Waiti"
+    ],
+    [
+      0.010929,
+      "\r                                                                               \r100% [Waiting for headers] [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.114429,
+      "\r                                                                      \rHit http://ppa.launchpad.net trusty Release\r\n\r                                                                      \r100% [Waiting for headers] [Waiting for headers]                   17,9 MB/s 0s"
+    ],
+    [
+      0.000164,
+      "\r100% [Release gpgv 15,1 kB] [Waiting for headers] [Waiting for headers] [Waitin"
+    ],
+    [
+      0.001565,
+      "\r                                                                               \r100% [Waiting for headers] [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.043506,
+      "\r                                                                      \rGet:27 http://archive.ubuntu.com trusty-updates/universe amd64 Packages [276 kB]\r\n\r                                                                      \r100% [Waiting for headers] [Waiting for headers] [27 Packages 1.109 B/276 kB 0%"
+    ],
+    [
+      0.164832,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty Release\r\n\r100% [Waiting for headers] [27 Packages 97,6 kB/276 kB 35%]        17,9 MB/s 0s"
+    ],
+    [
+      0.000460,
+      "\r100% [Release gpgv 15,1 kB] [Waiting for headers] [Waiting for headers] [27 Pac"
+    ],
+    [
+      0.005350,
+      "\r100% [Waiting for headers] [Waiting for headers] [27 Packages 100 kB/276 kB 36%"
+    ],
+    [
+      0.209531,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty Release\r\n\r100% [Connecting to packages.linuxmint.com (204.45.82.194)] [27 Packages 273 kB"
+    ],
+    [
+      0.000396,
+      "\r100% [Release gpgv 15,1 kB] [Waiting for headers] [Connecting to packages.linux"
+    ],
+    [
+      0.001001,
+      "\r100% [Release gpgv 15,1 kB] [Waiting for headers] [Waiting for headers] [Waitin"
+    ],
+    [
+      0.000300,
+      "\r100% [27 Packages bzip2 0 B] [Release gpgv 15,1 kB] [Waiting for headers] [Wait"
+    ],
+    [
+      0.002805,
+      "\r100% [27 Packages bzip2 0 B] [Waiting for headers] [Waiting for headers] [Waiti"
+    ],
+    [
+      0.067639,
+      "\r                                                                               \r100% [Waiting for headers] [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.102969,
+      "\r                                                                      \rGet:28 http://archive.ubuntu.com trusty-updates/multiverse amd64 Packages [12,0 kB]\r\n"
+    ],
+    [
+      0.000013,
+      "\r                                                                      \r100% [Waiting for headers] [Waiting for headers] [28 Packages 1.111 B/12,0 kB 9"
+    ],
+    [
+      0.005535,
+      "\r100% [Waiting for headers] [Waiting for headers]                   17,9 MB/s 0s"
+    ],
+    [
+      0.000254,
+      "\r100% [28 Packages bzip2 0 B] [Waiting for headers] [Waiting for headers] [Waiti"
+    ],
+    [
+      0.008562,
+      "\r                                                                               \r100% [Waiting for headers] [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.021930,
+      "\r                                                                      \rHit http://ppa.launchpad.net trusty Release\r\n\r                                                                      \r100% [Waiting for headers] [Waiting for headers]                   17,9 MB/s 0s"
+    ],
+    [
+      0.000102,
+      "\r100% [Release gpgv 15,1 kB] [Waiting for headers] [Waiting for headers] [Waitin"
+    ],
+    [
+      0.003773,
+      "\r                                                                               \r100% [Waiting for headers] [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.136398,
+      "\r                                                                      \rGet:29 http://archive.ubuntu.com trusty-updates/main i386 Packages [503 kB]\r\n\r                                                                      \r100% [Waiting for headers] [Waiting for headers] [29 Packages 1.109 B/503 kB 0%"
+    ],
+    [
+      0.068495,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty Release\r\n\r100% [Waiting for headers] [29 Packages 105 kB/503 kB 21%]         17,9 MB/s 0s"
+    ],
+    [
+      0.000080,
+      "\r100% [Release gpgv 15,1 kB] [Waiting for headers] [Waiting for headers] [29 Pac"
+    ],
+    [
+      0.003293,
+      "\r100% [Waiting for headers] [Waiting for headers] [29 Packages 105 kB/503 kB 21%"
+    ],
+    [
+      0.206340,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty Release\r\n\r100% [Waiting for headers] [29 Packages 105 kB/503 kB 21%]         17,9 MB/s 0s"
+    ],
+    [
+      0.000209,
+      "\r100% [Release gpgv 15,1 kB] [Waiting for headers] [Waiting for headers] [29 Pac"
+    ],
+    [
+      0.002362,
+      "\r100% [Waiting for headers] [Waiting for headers] [29 Packages 105 kB/503 kB 21%"
+    ],
+    [
+      0.208832,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty Release\r\n\r100% [Connecting to packages.linuxmint.com (204.45.82.194)] [29 Packages 292 kB"
+    ],
+    [
+      0.000243,
+      "\r100% [Release gpgv 15,1 kB] [Waiting for headers] [Connecting to packages.linux"
+    ],
+    [
+      0.005507,
+      "\r100% [Waiting for headers] [Connecting to packages.linuxmint.com (204.45.82.194"
+    ],
+    [
+      0.204147,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty Release\r\n\r100% [Waiting for headers] [29 Packages 404 kB/503 kB 80%]         17,9 MB/s 0s"
+    ],
+    [
+      0.001222,
+      "\r100% [Release gpgv 15,1 kB] [Waiting for headers] [Waiting for headers] [29 Pac"
+    ],
+    [
+      0.003816,
+      "\r100% [Waiting for headers] [Waiting for headers] [29 Packages 410 kB/503 kB 82%"
+    ],
+    [
+      0.173049,
+      "\r100% [Waiting for headers] [Waiting for headers]                   17,9 MB/s 0s"
+    ],
+    [
+      0.000112,
+      "\r100% [29 Packages bzip2 0 B] [Waiting for headers] [Waiting for headers] [Waiti"
+    ],
+    [
+      0.034571,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty/main Sources\r\n\r                                                                               \r100% [29 Packages bzip2 0 B] [Waiting for headers] [Waiting for headers]\r                                                                        \r100% [29 Packages bzip2 0 B] [Sources 7.940 B] [Waiting for headers] [Waiting f"
+    ],
+    [
+      0.000101,
+      "\r100% [29 Packages bzip2 0 B] [Waiting for headers] [Waiting for headers] [Waiti"
+    ],
+    [
+      0.085599,
+      "\r                                                                               \r100% [Waiting for headers] [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.051192,
+      "\r                                                                      \rGet:30 http://archive.ubuntu.com trusty-updates/restricted i386 Packages [9.256 B]\r\n\r                                                                      \r100% [Waiting for headers] [Waiting for headers] [30 Packages 1.112 B/9.256 B 1"
+    ],
+    [
+      0.004016,
+      "\r100% [Waiting for headers] [Waiting for headers]                   17,9 MB/s 0s"
+    ],
+    [
+      0.003648,
+      "\r100% [30 Packages bzip2 0 B] [Waiting for headers] [Waiting for headers] [Waiti"
+    ],
+    [
+      0.000210,
+      "\r                                                                               \r100% [Waiting for headers] [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.066973,
+      "\r                                                                      \rHit http://ppa.launchpad.net trusty/main amd64 Packages\r\n\r                                                                      \r100% [Waiting for headers] [Waiting for headers]                   17,9 MB/s 0s"
+    ],
+    [
+      0.000696,
+      "\r                                                                               \r100% [Waiting for headers] [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.026725,
+      "\r                                                                      \rIgn http://packages.linuxmint.com rebecca/import Translation-en_US\r\n\r                                                                      \r100% [Waiting for headers] [Waiting for headers]                   17,9 MB/s 0s"
+    ],
+    [
+      0.072738,
+      "\r                                                                               \rGet:31 http://archive.ubuntu.com trusty-updates/universe i386 Packages [277 kB]\r\n\r100% [Waiting for headers] [Waiting for headers] [31 Packages 1.109 B/277 kB 0%"
+    ],
+    [
+      0.064554,
+      "\r                                                                               \rIgn http://packages.linuxmint.com rebecca/import Translation-en\r\n\r100% [Waiting for headers] [31 Packages 90,4 kB/277 kB 33%]        17,9 MB/s 0s"
+    ],
+    [
+      0.045158,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty/main i386 Packages\r\n\r100% [Waiting for headers] [31 Packages 90,4 kB/277 kB 33%]        17,9 MB/s 0s"
+    ],
+    [
+      0.000212,
+      "\r100% [Packages 6.282 B] [Waiting for headers] [Waiting for headers] [31 Package"
+    ],
+    [
+      0.000676,
+      "\r100% [Waiting for headers] [Waiting for headers] [31 Packages 90,4 kB/277 kB 33"
+    ],
+    [
+      0.088372,
+      "\r                                                                               \rIgn http://packages.linuxmint.com rebecca/main Translation-en_US\r\n"
+    ],
+    [
+      0.000009,
+      "\r100% [Waiting for headers] [31 Packages 148 kB/277 kB 53%]         17,9 MB/s 0s"
+    ],
+    [
+      0.121193,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty/main Translation-en\r\n\r100% [Connecting to packages.linuxmint.com (204.45.82.194)] [31 Packages 185 kB"
+    ],
+    [
+      0.000096,
+      "\r100% [Translation-en 2.602 B] [Waiting for headers] [Connecting to packages.lin"
+    ],
+    [
+      0.000555,
+      "\r100% [Waiting for headers] [Connecting to packages.linuxmint.com (204.45.82.194"
+    ],
+    [
+      0.069112,
+      "\r100% [Waiting for headers] [Waiting for headers]                   17,9 MB/s 0s\r100% [31 Packages bzip2 0 B] [Waiting for headers] [Waiting for headers] [Waiti"
+    ],
+    [
+      0.066227,
+      "\r                                                                               \r100% [Waiting for headers] [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.007326,
+      "\r                                                                      \rIgn http://packages.linuxmint.com rebecca/main Translation-en\r\n\r                                                                      \r100% [Waiting for headers] [Waiting for headers]                   17,9 MB/s 0s"
+    ],
+    [
+      0.065948,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty/main Sources\r\n\r100% [Waiting for headers] [Waiting for headers]                   17,9 MB/s 0s"
+    ],
+    [
+      0.000060,
+      "\r100% [Sources 5.291 B] [Waiting for headers] [Waiting for headers] [Waiting for"
+    ],
+    [
+      0.000543,
+      "\r                                                                               \r100% [Waiting for headers] [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.027991,
+      "\r                                                                      \rGet:32 http://archive.ubuntu.com trusty-updates/multiverse i386 Packages [12,1 kB]\r\n\r                                                                      \r100% [Waiting for headers] [Waiting for headers] [32 Packages 1.111 B/12,1 kB 9"
+    ],
+    [
+      0.005812,
+      "\r100% [Waiting for headers] [Waiting for headers]                   17,9 MB/s 0s"
+    ],
+    [
+      0.000266,
+      "\r100% [32 Packages bzip2 0 B] [Waiting for headers] [Waiting for headers] [Waiti"
+    ],
+    [
+      0.006923,
+      "\r                                                                               \r100% [Waiting for headers] [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.026462,
+      "\r                                                                      \rIgn http://packages.linuxmint.com rebecca/upstream Translation-en_US\r\n"
+    ],
+    [
+      0.000013,
+      "\r                                                                      \r100% [Waiting for headers] [Waiting for headers]                   17,9 MB/s 0s"
+    ],
+    [
+      0.129217,
+      "\r                                                                               \rIgn http://packages.linuxmint.com rebecca/upstream Translation-en\r\n\r100% [Waiting for headers] [Waiting for headers]                   17,9 MB/s 0s"
+    ],
+    [
+      0.006821,
+      "\r                                                                               \rHit http://archive.ubuntu.com trusty-updates/main Translation-en\r\n\r100% [Waiting for headers]                                         17,9 MB/s 0s"
+    ],
+    [
+      0.000093,
+      "\r                                                                               \r100% [Translation-en 2.195 kB] [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.039095,
+      "\r                                                                          \r100% [Waiting for headers] [Waiting for headers]                   17,9 MB/s 0s"
+    ],
+    [
+      0.131498,
+      "\r                                                                               \rHit http://archive.ubuntu.com trusty-updates/multiverse Translation-en\r\n\r100% [Waiting for headers]                                         17,9 MB/s 0s"
+    ],
+    [
+      0.000183,
+      "\r                                                                               \r100% [Translation-en 21,7 kB] [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.001515,
+      "\r                                                                         \r100% [Waiting for headers] [Waiting for headers]                   17,9 MB/s 0s"
+    ],
+    [
+      0.098220,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty/main amd64 Packages\r\n\r100% [Waiting for headers]                                         17,9 MB/s 0s"
+    ],
+    [
+      0.001036,
+      "\r                                                                               \r100% [Packages 18,4 kB] [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.000551,
+      "\r                                                                   \r100% [Waiting for headers] [Waiting for headers]                   17,9 MB/s 0s"
+    ],
+    [
+      0.068150,
+      "\r                                                                               \rHit http://archive.ubuntu.com trusty-updates/restricted Translation-en\r\n\r100% [Waiting for headers]                                         17,9 MB/s 0s"
+    ],
+    [
+      0.001332,
+      "\r100% [Waiting for headers] [Waiting for headers]                   17,9 MB/s 0s"
+    ],
+    [
+      0.140685,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty/main i386 Packages\r\n\r100% [Waiting for headers]                                         17,9 MB/s 0s"
+    ],
+    [
+      0.000170,
+      "\r                                                                               \r100% [Packages 18,4 kB] [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.001401,
+      "\r                                                                   \r100% [Waiting for headers] [Waiting for headers]                   17,9 MB/s 0s"
+    ],
+    [
+      0.027088,
+      "\r                                                                               \rHit http://archive.ubuntu.com trusty-updates/universe Translation-en\r\n\r100% [Waiting for headers]                                         17,9 MB/s 0s"
+    ],
+    [
+      0.000200,
+      "\r                                                                               \r100% [Translation-en 736 kB] [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.017070,
+      "\r                                                                        \r100% [Waiting for headers] [Waiting for headers]                   17,9 MB/s 0s"
+    ],
+    [
+      0.165554,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty/main Translation-en\r\n\r100% [Waiting for headers]                                         17,9 MB/s 0s"
+    ],
+    [
+      0.001018,
+      "\r100% [Waiting for headers] [Waiting for headers]                   17,9 MB/s 0s"
+    ],
+    [
+      0.207006,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty/main Sources\r\n\r100% [Waiting for headers]                                         17,9 MB/s 0s"
+    ],
+    [
+      0.000279,
+      "\r                                                                               \r100% [Sources 1.423 B] [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.000321,
+      "\r                                                                  \r100% [Waiting for headers] [Waiting for headers]                   17,9 MB/s 0s"
+    ],
+    [
+      0.209226,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty/main amd64 Packages\r\n\r100% [Waiting for headers]                                         17,9 MB/s 0s"
+    ],
+    [
+      0.000213,
+      "\r                                                                               \r100% [Packages 1.301 B] [Waiting for headers] [Waiting for headers]\r                                                                   \r100% [Waiting for headers] [Waiting for headers]                   17,9 MB/s 0s"
+    ],
+    [
+      0.210086,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty/main i386 Packages\r\n\r100% [Waiting for headers]                                         17,9 MB/s 0s"
+    ],
+    [
+      0.000615,
+      "\r100% [Waiting for headers] [Waiting for headers]                   17,9 MB/s 0s"
+    ],
+    [
+      0.209463,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty/main Translation-en\r\n\r100% [Waiting for headers]                                         17,9 MB/s 0s"
+    ],
+    [
+      0.000508,
+      "\r100% [Waiting for headers] [Waiting for headers]                   17,9 MB/s 0s"
+    ],
+    [
+      0.208791,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty/main Sources\r\n\r100% [Waiting for headers]                                         17,9 MB/s 0s"
+    ],
+    [
+      0.000082,
+      "\r                                                                               \r100% [Sources 2.270 B] [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.000168,
+      "\r                                                                  \r100% [Waiting for headers] [Waiting for headers]                   17,9 MB/s 0s"
+    ],
+    [
+      0.210698,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty/main amd64 Packages\r\n\r100% [Waiting for headers]                                         17,9 MB/s 0s"
+    ],
+    [
+      0.000071,
+      "\r                                                                               \r100% [Packages 11,7 kB] [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.000350,
+      "\r                                                                   \r100% [Waiting for headers] [Waiting for headers]                   17,9 MB/s 0s"
+    ],
+    [
+      0.209100,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty/main i386 Packages\r\n\r100% [Waiting for headers]                                         17,9 MB/s 0s"
+    ],
+    [
+      0.000164,
+      "\r                                                                               \r100% [Packages 11,7 kB] [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.000838,
+      "\r                                                                   \r100% [Waiting for headers] [Waiting for headers]                   17,9 MB/s 0s"
+    ],
+    [
+      0.208650,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty/main Translation-en\r\n\r100% [Waiting for headers]                                         17,9 MB/s 0s"
+    ],
+    [
+      0.000119,
+      "\r                                                                               \r100% [Translation-en 13,0 kB] [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.000477,
+      "\r                                                                         \r100% [Waiting for headers] [Waiting for headers]                   17,9 MB/s 0s"
+    ],
+    [
+      0.210077,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty/main Sources\r\n\r100% [Waiting for headers]                                         17,9 MB/s 0s"
+    ],
+    [
+      0.001370,
+      "\r                                                                               \r100% [Sources 43,8 kB] [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.001594,
+      "\r                                                                  \r100% [Waiting for headers] [Waiting for headers]                   17,9 MB/s 0s"
+    ],
+    [
+      0.207417,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty/main amd64 Packages\r\n\r100% [Waiting for headers]                                         17,9 MB/s 0s"
+    ],
+    [
+      0.000260,
+      "\r                                                                               \r100% [Packages 51,2 kB] [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.003157,
+      "\r                                                                   \r100% [Waiting for headers] [Waiting for headers]                   17,9 MB/s 0s"
+    ],
+    [
+      0.129061,
+      "\r                                                                               \rIgn http://archive.ubuntu.com trusty/main Translation-en_US\r\n\r100% [Waiting for headers]                                         17,9 MB/s 0s"
+    ],
+    [
+      0.076992,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty/main i386 Packages\r\n\r100% [Waiting for headers]                                         17,9 MB/s 0s"
+    ],
+    [
+      0.001658,
+      "\r                                                                               \r100% [Packages 51,1 kB] [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.001676,
+      "\r                                                                   \r100% [Waiting for headers] [Waiting for headers]                   17,9 MB/s 0s"
+    ],
+    [
+      0.090240,
+      "\r                                                                               \rIgn http://archive.ubuntu.com trusty/multiverse Translation-en_US\r\n\r100% [Waiting for headers]                                         17,9 MB/s 0s"
+    ],
+    [
+      0.116032,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty/main Translation-en\r\n\r100% [Waiting for headers]                                         17,9 MB/s 0s"
+    ],
+    [
+      0.000458,
+      "\r                                                                               \r100% [Translation-en 36,5 kB] [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.002189,
+      "\r                                                                         \r100% [Waiting for headers] [Waiting for headers]                   17,9 MB/s 0s"
+    ],
+    [
+      0.055373,
+      "\r                                                                               \rIgn http://archive.ubuntu.com trusty/restricted Translation-en_US\r\n\r100% [Waiting for headers]                                          726 kB/s 0s"
+    ],
+    [
+      0.152429,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty/main Sources\r\n\r100% [Waiting for headers]                                          726 kB/s 0s"
+    ],
+    [
+      0.000340,
+      "\r100% [Sources 31,3 kB] [Waiting for headers] [Waiting for headers]  726 kB/s 0s"
+    ],
+    [
+      0.001983,
+      "\r100% [Waiting for headers] [Waiting for headers]                    726 kB/s 0s"
+    ],
+    [
+      0.015452,
+      "\r                                                                               \rIgn http://archive.ubuntu.com trusty/universe Translation-en_US\r\n\r100% [Waiting for headers]                                          726 kB/s 0s"
+    ],
+    [
+      0.192087,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty/main amd64 Packages\r\n\r100% [Working]                                                      726 kB/s 0s"
+    ],
+    [
+      0.000203,
+      "\r100% [Packages 190 kB] [Waiting for headers]                        726 kB/s 0s"
+    ],
+    [
+      0.012252,
+      "\r100% [Waiting for headers]                                          726 kB/s 0s"
+    ],
+    [
+      0.197222,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty/main i386 Packages\r\n\r100% [Working]                                                      726 kB/s 0s"
+    ],
+    [
+      0.002034,
+      "\r100% [Packages 190 kB] [Waiting for headers]                        726 kB/s 0s"
+    ],
+    [
+      0.008479,
+      "\r100% [Waiting for headers]                                          726 kB/s 0s"
+    ],
+    [
+      0.449150,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty/main Translation-en\r\n\r100% [Working]                                                      726 kB/s 0s"
+    ],
+    [
+      0.002521,
+      "\r100% [Translation-en 125 kB] [Waiting for headers]                  726 kB/s 0s"
+    ],
+    [
+      0.004809,
+      "\r100% [Waiting for headers]                                          726 kB/s 0s"
+    ],
+    [
+      0.203469,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty/main Sources\r\n\r100% [Working]                                                      726 kB/s 0s"
+    ],
+    [
+      0.000478,
+      "\r100% [Waiting for headers]                                          726 kB/s 0s"
+    ],
+    [
+      0.209377,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty/main amd64 Packages\r\n\r100% [Working]                                                      726 kB/s 0s"
+    ],
+    [
+      0.000539,
+      "\r100% [Waiting for headers]                                          726 kB/s 0s"
+    ],
+    [
+      0.208739,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty/main i386 Packages\r\n\r100% [Working]                                                      726 kB/s 0s"
+    ],
+    [
+      0.000247,
+      "\r100% [Waiting for headers]                                          726 kB/s 0s"
+    ],
+    [
+      0.210115,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty/main Translation-en\r\n\r100% [Working]                                                      726 kB/s 0s"
+    ],
+    [
+      0.000176,
+      "\r100% [Waiting for headers]                                          726 kB/s 0s"
+    ],
+    [
+      0.209918,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty/main Sources\r\n\r100% [Working]                                                      726 kB/s 0s"
+    ],
+    [
+      0.000543,
+      "\r100% [Waiting for headers]                                          726 kB/s 0s"
+    ],
+    [
+      0.209886,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty/main amd64 Packages\r\n\r100% [Working]                                                      726 kB/s 0s"
+    ],
+    [
+      0.000808,
+      "\r100% [Packages 1.020 B] [Waiting for headers]                       726 kB/s 0s\r100% [Waiting for headers]                                          726 kB/s 0s"
+    ],
+    [
+      0.209573,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty/main i386 Packages\r\n\r100% [Working]                                                      726 kB/s 0s"
+    ],
+    [
+      0.000563,
+      "\r100% [Waiting for headers]                                          726 kB/s 0s"
+    ],
+    [
+      0.208870,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty/main Translation-en\r\n\r100% [Working]                                                      726 kB/s 0s"
+    ],
+    [
+      0.000425,
+      "\r100% [Waiting for headers]                                          726 kB/s 0s"
+    ],
+    [
+      0.208860,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty/main Sources\r\n\r100% [Working]                                                      726 kB/s 0s"
+    ],
+    [
+      0.000600,
+      "\r100% [Waiting for headers]                                          726 kB/s 0s"
+    ],
+    [
+      0.210043,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty/main amd64 Packages\r\n\r100% [Working]                                                      726 kB/s 0s"
+    ],
+    [
+      0.001190,
+      "\r100% [Waiting for headers]                                          726 kB/s 0s"
+    ],
+    [
+      0.208574,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty/main i386 Packages\r\n\r100% [Working]                                                      726 kB/s 0s"
+    ],
+    [
+      0.000225,
+      "\r100% [Packages 11,8 kB] [Waiting for headers]                       726 kB/s 0s"
+    ],
+    [
+      0.001034,
+      "\r100% [Waiting for headers]                                          726 kB/s 0s"
+    ],
+    [
+      0.208832,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty/main Translation-en\r\n\r100% [Working]                                                      726 kB/s 0s"
+    ],
+    [
+      0.000921,
+      "\r100% [Translation-en 9.130 B] [Waiting for headers]                 726 kB/s 0s"
+    ],
+    [
+      0.000218,
+      "\r100% [Waiting for headers]                                          726 kB/s 0s"
+    ],
+    [
+      0.209322,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty/main Sources\r\n\r100% [Working]                                                      726 kB/s 0s"
+    ],
+    [
+      0.000209,
+      "\r100% [Sources 5.078 B] [Waiting for headers]                        726 kB/s 0s"
+    ],
+    [
+      0.000617,
+      "\r100% [Waiting for headers]                                          726 kB/s 0s"
+    ],
+    [
+      0.208667,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty/main amd64 Packages\r\n\r100% [Working]                                                      726 kB/s 0s"
+    ],
+    [
+      0.000146,
+      "\r100% [Packages 19,5 kB] [Waiting for headers]                       726 kB/s 0s"
+    ],
+    [
+      0.000989,
+      "\r100% [Waiting for headers]                                          726 kB/s 0s"
+    ],
+    [
+      0.208393,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty/main i386 Packages\r\n\r100% [Working]                                                      726 kB/s 0s"
+    ],
+    [
+      0.000064,
+      "\r100% [Packages 19,5 kB] [Waiting for headers]                       726 kB/s 0s"
+    ],
+    [
+      0.000732,
+      "\r100% [Waiting for headers]                                          726 kB/s 0s"
+    ],
+    [
+      0.209374,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty/main Translation-en\r\n\r100% [Working]                                                      726 kB/s 0s"
+    ],
+    [
+      0.000199,
+      "\r100% [Translation-en 6.192 B] [Waiting for headers]                 726 kB/s 0s"
+    ],
+    [
+      0.000589,
+      "\r100% [Waiting for headers]                                          726 kB/s 0s"
+    ],
+    [
+      0.457865,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty/main Sources\r\n\r100% [Working]                                                      726 kB/s 0s"
+    ],
+    [
+      0.000181,
+      "\r100% [Sources 938 B] [Waiting for headers]                          726 kB/s 0s\r100% [Waiting for headers]                                          726 kB/s 0s"
+    ],
+    [
+      0.211629,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty/main amd64 Packages\r\n\r100% [Working]                                                      726 kB/s 0s"
+    ],
+    [
+      0.000505,
+      "\r100% [Packages 577 B] [Waiting for headers]                         726 kB/s 0s\r100% [Waiting for headers]                                          726 kB/s 0s"
+    ],
+    [
+      0.208726,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty/main i386 Packages\r\n\r100% [Working]                                                      726 kB/s 0s"
+    ],
+    [
+      0.000170,
+      "\r100% [Waiting for headers]                                          726 kB/s 0s"
+    ],
+    [
+      0.210313,
+      "\r                                                                               \rHit http://ppa.launchpad.net trusty/main Translation-en\r\n\r100% [Working]                                                      726 kB/s 0s"
+    ],
+    [
+      0.000213,
+      "\r100% [Translation-en 300 B]                                         726 kB/s 0s"
+    ],
+    [
+      0.001337,
+      "\r100% [Working]                                                      726 kB/s 0s\r                                                                               \rFetched 3.098 kB in 17s (176 kB/s)\r\n"
+    ],
+    [
+      0.024701,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.049617,
+      "\rReading package lists... 0%\r\rReading package lists... 0%\r\rReading package lists... 0%\r\rReading package lists... 0%\r\rReading package lists... 0%\r\rReading package lists... 0%\r\rReading package lists... 0%\r\rReading package lists... 0%\r\rReading package lists... 0%\r\rReading package lists... 0%\r\rReading package lists... 0%\r\rReading package lists... 0%\r\rReading package lists... 0%\r\rReading package lists... 0%\r\rReading package lists... 0%\r\rReading package lists... 0%\r\rReading package lists... 0%\r\rReading package lists... 0%\r\rReading package lists... 0%\r\rReading package lists... 0%\r\rReading package lists... 0%\r\rReading package lists... 0%\r\rReading package lists... 0%\r\rReading package lists... 0%\r\rReading package lists... 0%\r\rReading package lists... 0%\r\rReading package lists... 0%\r\rReading package lists... 0%\r\rReading package lists... 0%\r\rReading package lists... 0%\r\rReading package lists... 0%\r\rReading package lists... 0%\r\rReading package lists... 0%\r\rReading package lists... 0%\r\rReading package lists... 0%\r\rReading package lists... 0%\r\rReading package lists... 0%\r\rReading package lists... 0%\r\rReading package lists... 0%\r\rReading package lists... 0%\r\rReading package lists... 0%\r\rReading package lists... 0%\r\rReading package lists... 0%\r\rReading package lists... 0%\r\rReading package lists... 0%\r\rReading package lists... 0%\r\rReading package lists... 0%\r\rReading package lists... 0%\r\rReading package lists... 0%\r\rReading package lists... 0%\r\rReading package lists... 0%\r"
+    ],
+    [
+      0.002860,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.000052,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.004822,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.000048,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.004035,
+      "\rReading package lists... 1%\r"
+    ],
+    [
+      0.008664,
+      "\rReading package lists... 1%\r"
+    ],
+    [
+      0.000003,
+      "\rReading package lists... 1%\r"
+    ],
+    [
+      0.001059,
+      "\rReading package lists... 1%\r"
+    ],
+    [
+      0.000012,
+      "\rReading package lists... 1%\r"
+    ],
+    [
+      0.001493,
+      "\rReading package lists... 1%\r"
+    ],
+    [
+      0.000002,
+      "\rReading package lists... 1%\r"
+    ],
+    [
+      0.011055,
+      "\rReading package lists... 2%\r"
+    ],
+    [
+      0.000003,
+      "\rReading package lists... 2%\r"
+    ],
+    [
+      0.000333,
+      "\rReading package lists... 2%\r"
+    ],
+    [
+      0.000002,
+      "\rReading package lists... 2%\r"
+    ],
+    [
+      0.000342,
+      "\rReading package lists... 2%\r"
+    ],
+    [
+      0.000019,
+      "\rReading package lists... 2%\r"
+    ],
+    [
+      0.108297,
+      "\rReading package lists... 8%\r"
+    ],
+    [
+      0.000006,
+      "\rReading package lists... 8%\r"
+    ],
+    [
+      0.000914,
+      "\rReading package lists... 9%\r"
+    ],
+    [
+      0.000041,
+      "\rReading package lists... 9%\r"
+    ],
+    [
+      0.498668,
+      "\rReading package lists... 33%\r"
+    ],
+    [
+      0.000004,
+      "\rReading package lists... 33%\r"
+    ],
+    [
+      0.013198,
+      "\rReading package lists... 33%\r"
+    ],
+    [
+      0.000004,
+      "\rReading package lists... 33%\r"
+    ],
+    [
+      0.066775,
+      "\rReading package lists... 39%\r"
+    ],
+    [
+      0.014273,
+      "\rReading package lists... 40%\r"
+    ],
+    [
+      0.000004,
+      "\rReading package lists... 40%\r"
+    ],
+    [
+      0.000985,
+      "\rReading package lists... 40%\r"
+    ],
+    [
+      0.000012,
+      "\rReading package lists... 40%\r"
+    ],
+    [
+      0.301441,
+      "\rReading package lists... 64%\r"
+    ],
+    [
+      0.000006,
+      "\rReading package lists... 64%\r"
+    ],
+    [
+      0.007466,
+      "\rReading package lists... 65%\r"
+    ],
+    [
+      0.000004,
+      "\rReading package lists... 65%\r"
+    ],
+    [
+      0.046454,
+      "\rReading package lists... 68%\r"
+    ],
+    [
+      0.000004,
+      "\rReading package lists... 68%\r"
+    ],
+    [
+      0.004105,
+      "\rReading package lists... 68%\r"
+    ],
+    [
+      0.000005,
+      "\rReading package lists... 68%\r"
+    ],
+    [
+      0.000390,
+      "\rReading package lists... 68%\r"
+    ],
+    [
+      0.000042,
+      "\rReading package lists... 68%\r"
+    ],
+    [
+      0.183814,
+      "\rReading package lists... 82%\r"
+    ],
+    [
+      0.000004,
+      "\rReading package lists... 82%\r"
+    ],
+    [
+      0.055704,
+      "\rReading package lists... 85%\r"
+    ],
+    [
+      0.000006,
+      "\rReading package lists... 85%\r"
+    ],
+    [
+      0.000916,
+      "\rReading package lists... 85%\r"
+    ],
+    [
+      0.000004,
+      "\rReading package lists... 85%\r"
+    ],
+    [
+      0.030787,
+      "\rReading package lists... 86%\r"
+    ],
+    [
+      0.000005,
+      "\rReading package lists... 86%\r"
+    ],
+    [
+      0.001597,
+      "\rReading package lists... 86%\r"
+    ],
+    [
+      0.000003,
+      "\rReading package lists... 86%\r"
+    ],
+    [
+      0.037552,
+      "\rReading package lists... 89%\r"
+    ],
+    [
+      0.000004,
+      "\rReading package lists... 89%\r"
+    ],
+    [
+      0.000877,
+      "\rReading package lists... 89%\r"
+    ],
+    [
+      0.000003,
+      "\rReading package lists... 89%\r"
+    ],
+    [
+      0.023817,
+      "\rReading package lists... 90%\r"
+    ],
+    [
+      0.000004,
+      "\rReading package lists... 90%\r"
+    ],
+    [
+      0.001270,
+      "\rReading package lists... 90%\r"
+    ],
+    [
+      0.000003,
+      "\rReading package lists... 90%\r"
+    ],
+    [
+      0.006313,
+      "\rReading package lists... 91%\r"
+    ],
+    [
+      0.018243,
+      "\rReading package lists... 92%\r"
+    ],
+    [
+      0.000003,
+      "\rReading package lists... 92%\r"
+    ],
+    [
+      0.000408,
+      "\rReading package lists... 92%\r"
+    ],
+    [
+      0.000002,
+      "\rReading package lists... 92%\r"
+    ],
+    [
+      0.000335,
+      "\rReading package lists... 92%\r"
+    ],
+    [
+      0.000002,
+      "\rReading package lists... 92%\r"
+    ],
+    [
+      0.010290,
+      "\rReading package lists... 92%\r"
+    ],
+    [
+      0.000003,
+      "\rReading package lists... 92%\r"
+    ],
+    [
+      0.010880,
+      "\rReading package lists... 94%\r"
+    ],
+    [
+      0.000003,
+      "\rReading package lists... 94%\r"
+    ],
+    [
+      0.000399,
+      "\rReading package lists... 94%\r"
+    ],
+    [
+      0.000019,
+      "\rReading package lists... 94%\r"
+    ],
+    [
+      0.003653,
+      "\rReading package lists... 94%\r"
+    ],
+    [
+      0.000002,
+      "\rReading package lists... 94%\r"
+    ],
+    [
+      0.000449,
+      "\rReading package lists... 94%\r"
+    ],
+    [
+      0.000018,
+      "\rReading package lists... 94%\r"
+    ],
+    [
+      0.006576,
+      "\rReading package lists... 96%\r"
+    ],
+    [
+      0.000014,
+      "\rReading package lists... 96%\r"
+    ],
+    [
+      0.000437,
+      "\rReading package lists... 96%\r"
+    ],
+    [
+      0.000018,
+      "\rReading package lists... 96%\r"
+    ],
+    [
+      0.002871,
+      "\rReading package lists... 96%\r"
+    ],
+    [
+      0.000008,
+      "\rReading package lists... 96%\r"
+    ],
+    [
+      0.000511,
+      "\rReading package lists... 96%\r"
+    ],
+    [
+      0.000007,
+      "\rReading package lists... 96%\r"
+    ],
+    [
+      0.014826,
+      "\rReading package lists... 97%\r"
+    ],
+    [
+      0.000002,
+      "\rReading package lists... 97%\r"
+    ],
+    [
+      0.000180,
+      "\rReading package lists... 97%\r"
+    ],
+    [
+      0.000014,
+      "\rReading package lists... 97%\r"
+    ],
+    [
+      0.000324,
+      "\rReading package lists... 97%\r"
+    ],
+    [
+      0.000017,
+      "\rReading package lists... 97%\r"
+    ],
+    [
+      0.003822,
+      "\rReading package lists... 98%\r"
+    ],
+    [
+      0.000023,
+      "\rReading package lists... 98%\r"
+    ],
+    [
+      0.000679,
+      "\rReading package lists... 98%\r"
+    ],
+    [
+      0.000002,
+      "\rReading package lists... 98%\r"
+    ],
+    [
+      0.000524,
+      "\rReading package lists... 98%\r"
+    ],
+    [
+      0.000002,
+      "\rReading package lists... 98%\r"
+    ],
+    [
+      0.000264,
+      "\rReading package lists... 98%\r"
+    ],
+    [
+      0.000002,
+      "\rReading package lists... 98%\r"
+    ],
+    [
+      0.000220,
+      "\rReading package lists... 98%\r"
+    ],
+    [
+      0.000002,
+      "\rReading package lists... 98%\r"
+    ],
+    [
+      0.000170,
+      "\rReading package lists... 98%\r"
+    ],
+    [
+      0.000002,
+      "\rReading package lists... 98%\r"
+    ],
+    [
+      0.000082,
+      "\rReading package lists... 98%\r"
+    ],
+    [
+      0.000015,
+      "\rReading package lists... 98%\r"
+    ],
+    [
+      0.000629,
+      "\rReading package lists... 98%\r"
+    ],
+    [
+      0.000014,
+      "\rReading package lists... 98%\r"
+    ],
+    [
+      0.000575,
+      "\rReading package lists... 98%\r"
+    ],
+    [
+      0.000024,
+      "\rReading package lists... 98%\r"
+    ],
+    [
+      0.000178,
+      "\rReading package lists... 98%\r"
+    ],
+    [
+      0.000023,
+      "\rReading package lists... 98%\r"
+    ],
+    [
+      0.000804,
+      "\rReading package lists... 98%\r"
+    ],
+    [
+      0.000017,
+      "\rReading package lists... 98%\r"
+    ],
+    [
+      0.000154,
+      "\rReading package lists... 98%\r"
+    ],
+    [
+      0.000023,
+      "\rReading package lists... 98%\r"
+    ],
+    [
+      0.000101,
+      "\rReading package lists... 98%\r"
+    ],
+    [
+      0.000058,
+      "\rReading package lists... 98%\r"
+    ],
+    [
+      0.000140,
+      "\rReading package lists... 98%\r"
+    ],
+    [
+      0.000022,
+      "\rReading package lists... 98%\r"
+    ],
+    [
+      0.000104,
+      "\rReading package lists... 98%\r"
+    ],
+    [
+      0.000023,
+      "\rReading package lists... 98%\r"
+    ],
+    [
+      0.532190,
+      "\rReading package lists... 98%\r\rReading package lists... 98%\r"
+    ],
+    [
+      0.511345,
+      "\rReading package lists... Done\r\r\n"
+    ],
+    [
+      0.002209,
+      "\u001b[01;32mthiagoponte@get10up\u001b[01;34m ~ $\u001b[00m "
+    ],
+    [
+      1.195323,
+      "exit\r\n"
+    ]
+  ]
+}
