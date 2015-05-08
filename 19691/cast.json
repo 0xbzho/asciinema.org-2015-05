@@ -1,0 +1,166 @@
+{
+  "version": 1,
+  "width": 91,
+  "height": 27,
+  "duration": 17.655060,
+  "command": "/bin/sh",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/sh"
+  },
+  "stdout": [
+    [
+      0.008470,
+      "\u001b[?1034hsh-3.2$ "
+    ],
+    [
+      6.199610,
+      "t"
+    ],
+    [
+      0.127924,
+      "e"
+    ],
+    [
+      0.080108,
+      "s"
+    ],
+    [
+      0.087957,
+      "t"
+    ],
+    [
+      0.007864,
+      "i"
+    ],
+    [
+      0.136219,
+      "n"
+    ],
+    [
+      0.175609,
+      "g"
+    ],
+    [
+      0.296106,
+      "\r\n"
+    ],
+    [
+      0.011436,
+      "sh: testing: command not found\r\n"
+    ],
+    [
+      0.000395,
+      "sh-3.2$ "
+    ],
+    [
+      2.188438,
+      "m"
+    ],
+    [
+      0.135843,
+      "a"
+    ],
+    [
+      0.135943,
+      "n"
+    ],
+    [
+      0.207796,
+      " "
+    ],
+    [
+      0.224124,
+      "g"
+    ],
+    [
+      0.215697,
+      "r"
+    ],
+    [
+      0.320364,
+      "e"
+    ],
+    [
+      0.120095,
+      "p"
+    ],
+    [
+      0.351902,
+      "\r\n"
+    ],
+    [
+      0.072169,
+      "\u001b[?1049h\u001b[?1h\u001b="
+    ],
+    [
+      0.081838,
+      "\r\nGREP(1)                   BSD General Commands Manual                  GREP(1)\r\n\r\n\u001b[1mNAME\u001b[0m\r\n     \u001b[1mgrep\u001b[0m, \u001b[1megrep\u001b[0m, \u001b[1mfgrep\u001b[0m, \u001b[1mzgrep\u001b[0m, \u001b[1mzegrep\u001b[0m, \u001b[1mzfgrep\u001b[0m -- file pattern searcher\r\n\r\n\u001b[1mSYNOPSIS\u001b[0m\r\n     \u001b[1mgrep\u001b[0m [\u001b[1m-abcdDEFGHhIiJLlmnOopqRSsUVvwxZ\u001b[0m] [\u001b[1m-A\u001b[0m \u001b[4mnum\u001b[24m] [\u001b[1m-B\u001b[0m \u001b[4mnum\u001b[24m] [\u001b[1m-C\u001b[0m[\u001b[4mnum\u001b[24m]]\r\n          [\u001b[1m-e\u001b[0m \u001b[4mpattern\u001b[24m] [\u001b[1m-f\u001b[0m \u001b[4mfile\u001b[24m] [\u001b[1m--binary-files\u001b[0m=\u001b[4mvalue\u001b[24m] [\u001b[1m--color\u001b[0m[=\u001b[4mwhen\u001b[24m]]\r\n          [\u001b[1m--colour\u001b[0m[=\u001b[4mwhen\u001b[24m]] [\u001b[1m--context\u001b[0m[=\u001b[4mnum\u001b[24m]] [\u001b[1m--label\u001b[0m] [\u001b[1m--line-buffered\u001b[0m]\r\n          [\u001b[1m--null\u001b[0m] [\u001b[4mpattern\u001b[24m] [\u001b[4mfile\u001b[24m \u001b[4m...\u001b[24m]\r\n\r\n\u001b[1mDESCRIPTION\u001b[0m\r\n     The \u001b[1mgrep\u001b[0m utility searches any given input files, selecting lines that match\r\n     one or more patterns.  By default, a pattern matches an input line if the\r\n     regular expression (RE) in the pattern matches the input line without its\r\n     trailing newline.  An em"
+    ],
+    [
+      0.000009,
+      "pty expression "
+    ],
+    [
+      0.000054,
+      "matches every line.  Each input line\r\n     that matches at least one of the patterns is written to the standard output.\r\n\r\n     \u001b[1mgrep\u001b[0m is used for simple patterns and basic regular expressions (BREs); \u001b[1megrep\u001b[0m\r\n     can handle extended regular expressions (EREs).  See re_format(7) for more\r\n     information on regular expressions.  \u001b[1mfgrep\u001b[0m is quicker than both \u001b[1mgrep\u001b[0m and\r\n     \u001b[1megrep\u001b[0m, but can only handle fixed patterns (i.e. it does not interpret regu-\r\n     lar expressions).  Patterns may consist of one or more lines, allowing any\r\n     of the pattern lines to match a portion of the input.\r\n\r\n:\u001b[K"
+    ],
+    [
+      1.861385,
+      "\u0007\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.456910,
+      "\r\u001b[K"
+    ],
+    [
+      0.000077,
+      "     \u001b[1mzgrep\u001b[0m, \u001b[1mzegrep\u001b[0m, and \u001b[1mzfgrep\u001b[0m act like \u001b[1mgrep\u001b[0m, \u001b[1megrep\u001b[0m, and \u001b[1mfgrep\u001b[0m, respectively, but\r\n:\u001b[K"
+    ],
+    [
+      1.199618,
+      "\u0007\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.128206,
+      "\r\u001b[K\u001b[?1l\u001b\u003e\u001b[?1049l"
+    ],
+    [
+      0.001740,
+      "sh-3.2$ "
+    ],
+    [
+      0.214047,
+      "\r\n"
+    ],
+    [
+      0.000088,
+      "sh-3.2$ "
+    ],
+    [
+      1.831786,
+      "e"
+    ],
+    [
+      0.239950,
+      "x"
+    ],
+    [
+      0.119729,
+      "i"
+    ],
+    [
+      0.224350,
+      "t"
+    ],
+    [
+      0.183839,
+      "\r\n"
+    ],
+    [
+      0.000103,
+      "exit\r\n"
+    ]
+  ]
+}
