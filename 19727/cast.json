@@ -1,0 +1,226 @@
+{
+  "version": 1,
+  "width": 89,
+  "height": 56,
+  "duration": 8.343883,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.493923,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                        \r \r"
+    ],
+    [
+      0.000240,
+      "\u001b]2;piperchester@amphorous: ~\u0007"
+    ],
+    [
+      0.000072,
+      "\u001b]1;~\u0007"
+    ],
+    [
+      0.019957,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[34mpiperchester\u001b[00m on \u001b[31mamphorous.student.rit.edu\u001b[00m in \u001b[34m~\u001b[0m\u001b[00m\r\n$ "
+    ],
+    [
+      0.000013,
+      "\u001b[K"
+    ],
+    [
+      0.000299,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.905534,
+      "l"
+    ],
+    [
+      0.132931,
+      "\u0008ls"
+    ],
+    [
+      0.191278,
+      "\u001b[?1l\u001b\u003e\r\r\n"
+    ],
+    [
+      0.003245,
+      "\u001b]2;ls -G\u0007\u001b]1;ls\u0007"
+    ],
+    [
+      0.009541,
+      "\u001b[1m\u001b[36mApplications\u001b[39;49m\u001b[0m     \u001b[1m\u001b[36mDownloads\u001b[39;49m\u001b[0m        \u001b[1m\u001b[36mLibrary\u001b[39;49m\u001b[0m          \u001b[1m\u001b[36mPictures\u001b[39;49m\u001b[0m         \u001b[1m\u001b[36mWebstormProjects\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000033,
+      "\u001b[1m\u001b[36mClionProjects\u001b[39;49m\u001b[0m    \u001b[1m\u001b[36mENV\u001b[39;49m\u001b[0m              \u001b[1m\u001b[36mMovies\u001b[39;49m\u001b[0m           \u001b[1m\u001b[36mProjects\u001b[39;49m\u001b[0m         \u001b[1m\u001b[36mgo\u001b[39;49m\u001b[0m\r\n\u001b[1m\u001b[36mDesktop\u001b[39;49m\u001b[0m          \u001b[1m\u001b[36mGoogle Drive\u001b[39;49m\u001b[0m     \u001b[1m\u001b[36mMusic\u001b[39;49m\u001b[0m            \u001b[1m\u001b[36mPublic\u001b[39;49m\u001b[0m           \u001b[35mvim\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000419,
+      "\u001b[1m\u001b[36mDocuments\u001b[39;49m\u001b[0m        \u001b[1m\u001b[36mKitematic\u001b[39;49m\u001b[0m        \u001b[1m\u001b[36mPhpstormProjects\u001b[39;49m\u001b[0m \u001b[1m\u001b[36mVirtualBox VMs\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000221,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                        \r \r"
+    ],
+    [
+      0.000120,
+      "\u001b]2;piperchester@amphorous: ~\u0007"
+    ],
+    [
+      0.000060,
+      "\u001b]1;~\u0007"
+    ],
+    [
+      0.013346,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[34mpiperchester\u001b[00m on \u001b[31mamphorous.student.rit.edu\u001b[00m in \u001b[34m~\u001b[0m\u001b[00m\r\n$ \u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      1.180913,
+      "t"
+    ],
+    [
+      0.072757,
+      "\u0008th"
+    ],
+    [
+      0.055575,
+      "i"
+    ],
+    [
+      0.071077,
+      "s"
+    ],
+    [
+      0.113053,
+      " "
+    ],
+    [
+      0.192184,
+      "i"
+    ],
+    [
+      0.075016,
+      "s"
+    ],
+    [
+      0.099761,
+      " "
+    ],
+    [
+      0.331264,
+      "a"
+    ],
+    [
+      0.092987,
+      "m"
+    ],
+    [
+      0.087701,
+      "a"
+    ],
+    [
+      0.232136,
+      "z"
+    ],
+    [
+      0.144812,
+      "i"
+    ],
+    [
+      0.055542,
+      "n"
+    ],
+    [
+      0.073811,
+      "g"
+    ],
+    [
+      0.183317,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000366,
+      "\r\r\n"
+    ],
+    [
+      0.001796,
+      "\u001b]2;this is amazing\u0007"
+    ],
+    [
+      0.000012,
+      "\u001b]1;this\u0007"
+    ],
+    [
+      0.006541,
+      "zsh: command not found: this\r\n"
+    ],
+    [
+      0.000369,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                        \r \r"
+    ],
+    [
+      0.000154,
+      "\u001b]2;piperchester@amphorous: ~\u0007"
+    ],
+    [
+      0.000356,
+      "\u001b]1;~\u0007"
+    ],
+    [
+      0.017475,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[34mpiperchester\u001b[00m on \u001b[31mamphorous.student.rit.edu\u001b[00m in \u001b[34m~\u001b[0m\u001b[00m\r\n$ \u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      0.565372,
+      "e"
+    ],
+    [
+      0.230186,
+      "\u0008ez"
+    ],
+    [
+      0.080249,
+      "i"
+    ],
+    [
+      0.221204,
+      "t"
+    ],
+    [
+      0.225972,
+      "\u0008 \u0008"
+    ],
+    [
+      0.160088,
+      "\u0008 \u0008"
+    ],
+    [
+      0.136148,
+      "\u0008\u0008e \u0008"
+    ],
+    [
+      0.080090,
+      "\u0008ex"
+    ],
+    [
+      0.184027,
+      "i"
+    ],
+    [
+      0.103805,
+      "t"
+    ],
+    [
+      0.264162,
+      "\u001b[?1l\u001b\u003e\r\r\n"
+    ],
+    [
+      0.002914,
+      "\u001b]2;exit\u0007\u001b]1;exit\u0007"
+    ]
+  ]
+}
