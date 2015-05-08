@@ -1,0 +1,170 @@
+{
+  "version": 1,
+  "width": 108,
+  "height": 37,
+  "duration": 26.086443,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.313752,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                           \r \r"
+    ],
+    [
+      0.000062,
+      "\u001b]2;webber@Webbburg-Headquaters: ~/training/source/introduction_to_testing\u0007"
+    ],
+    [
+      0.000011,
+      "\u001b]1;..on_to_testing\u0007"
+    ],
+    [
+      0.055266,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[44m\u001b[30m ~/training/source/introduction_to_testing \u001b[43m\u001b[34m\u001b[30m  master ● \u001b[49m\u001b[33m\u001b[39m "
+    ],
+    [
+      0.000007,
+      "\u001b[K"
+    ],
+    [
+      0.000076,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      21.886546,
+      "t"
+    ],
+    [
+      0.174988,
+      "\u0008tr"
+    ],
+    [
+      0.056020,
+      "e"
+    ],
+    [
+      0.191746,
+      "e"
+    ],
+    [
+      0.104226,
+      " "
+    ],
+    [
+      0.175863,
+      "."
+    ],
+    [
+      0.144141,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000047,
+      "\r\r\n"
+    ],
+    [
+      0.000605,
+      "\u001b]2;tree .\u0007"
+    ],
+    [
+      0.000004,
+      "\u001b]1;tree\u0007"
+    ],
+    [
+      0.006668,
+      ".\r\n"
+    ],
+    [
+      0.000020,
+      "├── README.md\r\n├── Rakefile\r\n├── presentation.pdf\r\n├── scene_01.md\r\n├── scene_01.pptx\r\n├── scene_02.md\r\n├── scene_02.pptx\r\n├── scene_03.md\r\n├── scene_03.pptx\r\n├── scene_04.key\r\n├── scene_04.md\r\n├── scene_05.key\r\n├── scene_05.md\r\n├── scene_06.md\r\n"
+    ],
+    [
+      0.000011,
+      "├── scene_06.pptx\r\n├── scene_07.md\r\n├── scene_07.pptx\r\n├── scene_08.key\r\n├── scene_08.md\r\n├── scene_09.key\r\n├── scene_09.md\r\n"
+    ],
+    [
+      0.000007,
+      "├── scene_10.md\r\n├── scene_10.pptx\r\n├── scene_11.md\r\n├── scene_12.md\r\n"
+    ],
+    [
+      0.000003,
+      "├── scene_12.pptx\r\n├── scene_13.md\r\n"
+    ],
+    [
+      0.000003,
+      "├── scene_14.key\r\n├── scene_14.md\r\n"
+    ],
+    [
+      0.000002,
+      "├── scene_15.key\r\n"
+    ],
+    [
+      0.000002,
+      "├── scene_15.md\r\n"
+    ],
+    [
+      0.000002,
+      "├── scene_16.md\r\n"
+    ],
+    [
+      0.000002,
+      "├── scene_17.md\r\n"
+    ],
+    [
+      0.000002,
+      "├── scene_18.md\r\n"
+    ],
+    [
+      0.000003,
+      "├── scene_19.key\r\n"
+    ],
+    [
+      0.000002,
+      "├── scene_19.md\r\n├── scene_20.key\r\n"
+    ],
+    [
+      0.000002,
+      "├── scene_20.md\r\n"
+    ],
+    [
+      0.000002,
+      "└── scene_21.md\r\n"
+    ],
+    [
+      0.000011,
+      "\r\n0 directories, 39 files\r\n"
+    ],
+    [
+      0.000311,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                           \r \r"
+    ],
+    [
+      0.000073,
+      "\u001b]2;webber@Webbburg-Headquaters: ~/training/source/introduction_to_testing\u0007"
+    ],
+    [
+      0.000013,
+      "\u001b]1;..on_to_testing\u0007"
+    ],
+    [
+      0.060145,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[44m\u001b[30m ~/training/source/introduction_to_testing \u001b[43m\u001b[34m\u001b[30m  master ● \u001b[49m\u001b[33m\u001b[39m "
+    ],
+    [
+      0.000008,
+      "\u001b[K"
+    ],
+    [
+      0.000029,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      2.908042,
+      "\r\r\n"
+    ]
+  ]
+}
