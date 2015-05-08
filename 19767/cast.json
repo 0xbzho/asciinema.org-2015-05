@@ -1,0 +1,1378 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 24,
+  "duration": 11.562737,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.100205,
+      "\u001b]0;hf@hf-ep: ~/dev/prjs/nanook/target\u0007hf@hf-ep:~/dev/prjs/nanook/target$ "
+    ],
+    [
+      1.389450,
+      "j"
+    ],
+    [
+      0.088021,
+      "a"
+    ],
+    [
+      0.112113,
+      "v"
+    ],
+    [
+      0.127839,
+      "a"
+    ],
+    [
+      0.096206,
+      " "
+    ],
+    [
+      0.111765,
+      "-"
+    ],
+    [
+      0.200049,
+      "j"
+    ],
+    [
+      0.095785,
+      "a"
+    ],
+    [
+      0.080150,
+      "r"
+    ],
+    [
+      0.119891,
+      " "
+    ],
+    [
+      0.208219,
+      "n"
+    ],
+    [
+      0.127800,
+      "a"
+    ],
+    [
+      0.072127,
+      "n"
+    ],
+    [
+      0.232090,
+      "o"
+    ],
+    [
+      0.143956,
+      "o"
+    ],
+    [
+      0.128569,
+      "\u0007"
+    ],
+    [
+      0.000024,
+      "k-0.60"
+    ],
+    [
+      0.999494,
+      "-"
+    ],
+    [
+      0.086457,
+      "swarm.jar "
+    ],
+    [
+      0.897746,
+      "\r\n"
+    ],
+    [
+      0.006695,
+      "Picked up JAVA_TOOL_OPTIONS: -javaagent:/usr/share/java/jayatanaag.jar "
+    ],
+    [
+      0.000021,
+      "\r\n"
+    ],
+    [
+      0.914151,
+      "\u001b[0m18:46:28,699 INFO  [org.jboss.msc] (main) JBoss MSC version 1.2.4.Final"
+    ],
+    [
+      0.000020,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.146712,
+      "\u001b[0m18:46:28,855 INFO  [org.jboss.as] (MSC service thread 1-3) WFLYSRV0049: WildFly Core 1.0.0.CR1 \"Kenny\" starting"
+    ],
+    [
+      0.000022,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.050329,
+      "\u001b[31m18:46:28,904 ERROR [org.jboss.msc.service.fail] (MSC service thread 1-3) MSC000001: Failed to start service jboss.as: org.j"
+    ],
+    [
+      0.000021,
+      "boss.msc.service.StartException in service jboss.as: Failed to start service\r\n"
+    ],
+    [
+      0.000035,
+      "\tat org.jboss.msc.service.ServiceControllerImpl$StartTask.run(ServiceControllerImpl.java:1904)"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000114,
+      "\tat java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000078,
+      "\t"
+    ],
+    [
+      0.000010,
+      "at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)\r\n"
+    ],
+    [
+      0.000037,
+      "\t"
+    ],
+    [
+      0.000015,
+      "at java.lang.Thread.run(Thread.java:745)\r\n"
+    ],
+    [
+      0.000133,
+      "Caused by: org.jboss.modules.ModuleLoadError: Error loading module from modules/system/layers/base/org/picketbox/main/module.xml"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.000041,
+      "\t"
+    ],
+    [
+      0.000010,
+      "at org.jboss.modules.ModuleLoadException.toError(ModuleLoadException.java:74)\r\n"
+    ],
+    [
+      0.000055,
+      "\t"
+    ],
+    [
+      0.000010,
+      "at org.jboss.modules.Module.getPathsUnchecked(Module.java:1384)\r\n"
+    ],
+    [
+      0.000058,
+      "\t"
+    ],
+    [
+      0.000010,
+      "at org.jboss.modules.Module.loadModuleClass(Module.java:555)\r\n"
+    ],
+    [
+      0.000066,
+      "\t"
+    ],
+    [
+      0.000010,
+      "at org.jboss.modules.ModuleClassLoader.findClass(ModuleClassLoader.java:197)\r\n"
+    ],
+    [
+      0.000088,
+      "\t"
+    ],
+    [
+      0.000011,
+      "at org.jboss.modules.ConcurrentClassLoader.performLoadClassUnchecked(ConcurrentClassLoader.java:455)\r\n"
+    ],
+    [
+      0.000085,
+      "\t"
+    ],
+    [
+      0.000010,
+      "at org.jboss.modules.ConcurrentClassLoader.performLoadClassChecked(ConcurrentClassLoader.java:404)\r\n"
+    ],
+    [
+      0.000080,
+      "\t"
+    ],
+    [
+      0.000010,
+      "at org.jboss.modules.ConcurrentClassLoader.performLoadClass(ConcurrentClassLoader.java:385)\r\n"
+    ],
+    [
+      0.000071,
+      "\t"
+    ],
+    [
+      0.000010,
+      "at org.jboss.modules.ConcurrentClassLoader.loadClass(ConcurrentClassLoader.java:130)\r\n"
+    ],
+    [
+      0.000049,
+      "\t"
+    ],
+    [
+      0.000010,
+      "at java.lang.ClassLoader.defineClass1(Native Method)\r\n"
+    ],
+    [
+      0.000056,
+      "\tat java.lang.ClassLoader.defineClass(ClassLoader.java:760)"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000071,
+      "\t"
+    ],
+    [
+      0.000010,
+      "at org.jboss.modules.ModuleClassLoader.doDefineOrLoadClass(ModuleClassLoader.java:353)\r\n"
+    ],
+    [
+      0.000068,
+      "\t"
+    ],
+    [
+      0.000010,
+      "at org.jboss.modules.ModuleClassLoader.defineClass(ModuleClassLoader.java:432)\r\n"
+    ],
+    [
+      0.000072,
+      "\t"
+    ],
+    [
+      0.000010,
+      "at org.jboss.modules.ModuleClassLoader.loadClassLocal(ModuleClassLoader.java:269)\r\n"
+    ],
+    [
+      0.000072,
+      "\t"
+    ],
+    [
+      0.000010,
+      "at org.jboss.modules.ModuleClassLoader$1.loadClassLocal(ModuleClassLoader.java:77)\r\n"
+    ],
+    [
+      0.000053,
+      "\t"
+    ],
+    [
+      0.000010,
+      "at org.jboss.modules.Module.loadModuleClass(Module.java:560)\r\n"
+    ],
+    [
+      0.000132,
+      "\tat org.jboss.modules.ModuleClassLoader.findClass(ModuleClassLoader.java:197)\r\n"
+    ],
+    [
+      0.000033,
+      "\t"
+    ],
+    [
+      0.000010,
+      "at org.jboss.modules.ConcurrentClassLoader.performLoadClassUnchecked(ConcurrentClassLoader.java:455)\r\n"
+    ],
+    [
+      0.000085,
+      "\t"
+    ],
+    [
+      0.000010,
+      "at org.jboss.modules.ConcurrentClassLoader.performLoadClassChecked(ConcurrentClassLoader.java:404)\r\n"
+    ],
+    [
+      0.000083,
+      "\t"
+    ],
+    [
+      0.000011,
+      "at org.jboss.modules.ConcurrentClassLoader.performLoadClass(ConcurrentClassLoader.java:385)\r\n"
+    ],
+    [
+      0.000075,
+      "\tat org.jboss.modules.ConcurrentClassLoader.loadClass(ConcurrentClassLoader.java:130)"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000031,
+      "\t"
+    ],
+    [
+      0.000010,
+      "at java.lang.Class.forName0(Native Method)\r\n"
+    ],
+    [
+      0.000040,
+      "\t"
+    ],
+    [
+      0.000010,
+      "at java.lang.Class.forName(Class.java:348)\r\n"
+    ],
+    [
+      0.000065,
+      "\t"
+    ],
+    [
+      0.000010,
+      "at java.util.ServiceLoader$LazyIterator.nextService(ServiceLoader.java:370)\r\n"
+    ],
+    [
+      0.000061,
+      "\t"
+    ],
+    [
+      0.000010,
+      "at java.util.ServiceLoader$LazyIterator.next(ServiceLoader.java:404)\r\n"
+    ],
+    [
+      0.000052,
+      "\t"
+    ],
+    [
+      0.000013,
+      "at java.util.ServiceLoader$1.next(ServiceLoader.java:480)\r\n"
+    ],
+    [
+      0.000082,
+      "\tat org.jboss.as.server.ApplicationServerService.service(ApplicationServerService.java:224)"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000069,
+      "\t"
+    ],
+    [
+      0.000010,
+      "at org.jboss.as.server.ApplicationServerService.start(ApplicationServerService.java:153)\r\n"
+    ],
+    [
+      0.000087,
+      "\t"
+    ],
+    [
+      0.000010,
+      "at org.jboss.msc.service.ServiceControllerImpl$StartTask.startService(ServiceControllerImpl.java:1948)\r\n"
+    ],
+    [
+      0.000083,
+      "\t"
+    ],
+    [
+      0.000011,
+      "at org.jboss.msc.service.ServiceControllerImpl$StartTask.run(ServiceControllerImpl.java:1881)\r\n"
+    ],
+    [
+      0.000007,
+      "\t"
+    ],
+    [
+      0.000015,
+      "... 3 more\r\n"
+    ],
+    [
+      0.000108,
+      "Caused by: org.jboss.modules.xml.XmlPullParserException: Failed to resolve artifact '${org.picketbox:picketbox}' (position: END_"
+    ],
+    [
+      0.000080,
+      "TAG seen ...\u003cresources\u003e\\n        \u003cartifact name=\"${org.picketbox:picketbox}\"/\u003e... @32:54) "
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000065,
+      "\t"
+    ],
+    [
+      0.000011,
+      "at org.jboss.modules.ModuleXmlParser.parseArtifact(ModuleXmlParser.java:890)\r\n"
+    ],
+    [
+      0.000087,
+      "\t"
+    ],
+    [
+      0.000015,
+      "at org.jboss.modules.ModuleXmlParser.parseResources(ModuleXmlParser.java:729)\r\n"
+    ],
+    [
+      0.000071,
+      "\t"
+    ],
+    [
+      0.000014,
+      "at org.jboss.modules.ModuleXmlParser.parseModuleContents(ModuleXmlParser.java:494)\r\n"
+    ],
+    [
+      0.000059,
+      "\t"
+    ],
+    [
+      0.000015,
+      "at org.jboss.modules.ModuleXmlParser.parseDocument(ModuleXmlParser.java:287)\r\n"
+    ],
+    [
+      0.000063,
+      "\t"
+    ],
+    [
+      0.000015,
+      "at org.jboss.modules.ModuleXmlParser.parseModuleXml(ModuleXmlParser.java:150)\r\n"
+    ],
+    [
+      0.000061,
+      "\t"
+    ],
+    [
+      0.000016,
+      "at org.jboss.modules.BootModuleFinder.findModule(BootModuleFinder.java:48)\r\n"
+    ],
+    [
+      0.000053,
+      "\t"
+    ],
+    [
+      0.000010,
+      "at org.jboss.modules.ModuleLoader.findModule(ModuleLoader.java:452)\r\n"
+    ],
+    [
+      0.000065,
+      "\t"
+    ],
+    [
+      0.000010,
+      "at org.jboss.modules.ModuleLoader.loadModuleLocal(ModuleLoader.java:355)\r\n"
+    ],
+    [
+      0.000060,
+      "\t"
+    ],
+    [
+      0.000010,
+      "at org.jboss.modules.ModuleLoader.preloadModule(ModuleLoader.java:302)\r\n"
+    ],
+    [
+      0.000052,
+      "\t"
+    ],
+    [
+      0.000010,
+      "at org.jboss.modules.Module.addPaths(Module.java:1028)\r\n"
+    ],
+    [
+      0.000049,
+      "\t"
+    ],
+    [
+      0.000010,
+      "at org.jboss.modules.Module.link(Module.java:1398)\r\n"
+    ],
+    [
+      0.000045,
+      "\t"
+    ],
+    [
+      0.000010,
+      "at org.jboss.modules.Module.getPaths(Module.java:1359)\r\n"
+    ],
+    [
+      0.000055,
+      "\t"
+    ],
+    [
+      0.000010,
+      "at org.jboss.modules.Module.getPathsUnchecked(Module.java:1382)\r\n"
+    ],
+    [
+      0.000007,
+      "\t"
+    ],
+    [
+      0.000009,
+      "... 30 more\r\n"
+    ],
+    [
+      0.000380,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.004235,
+      "\u001b[31m18:46:28,912 ERROR [stderr] (main) Exception in thread \"main\" java.lang.reflect.InvocationTargetException\r\n\u001b[0m\u001b[31m18:46:28,912 ERROR [stderr] (main) \tat sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\r\n\u001b[0m\u001b[31m18:46:28,912 ERROR [stderr] (main) \tat sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)\r\n\u001b[0m\u001b[31m18:46:28,913 ERROR [stderr] (main) \tat sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\r\n\u001b[0m\u001b[31m18:46:28,913 ERROR [stderr] (main) \tat java.lang.reflect.Method.invoke(Method.java:497)\r\n\u001b[0m\u001b[31m18:46:28,913 ERROR [stderr] (main) \tat org.wildfly.swarm.bootstrap.Main.main(Main.java:37)\r\n\u001b[0m\u001b[31m18:46:28,913 ERROR [stderr] (main) Caused by: java.lang.reflect.InvocationTargetException\r\n\u001b[0m\u001b[31m18:46:28,914 ERROR [stderr] (main) \tat sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\r\n\u001b[0m\u001b[31m18:46:28,914 ERROR [stderr] (main) \tat sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)\r\n\u001b[0m"
+    ],
+    [
+      0.001811,
+      "\u001b[31m18:46:28,914 ERROR [stderr] (main) \tat sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\r\n\u001b[0m\u001b[31m18:46:28,915 ERROR [stderr] (main) \tat java.lang.reflect.Method.invoke(Method.java:497)\r\n\u001b[0m\u001b[31m18:46:28,915 ERROR [stderr] (main) \tat org.wildfly.swarm.container.Main.main(Main.java:44)\r\n\u001b[0m\u001b[31m18:46:28,916 ERROR [stderr] (main) \t... 5 more\r\n\u001b[0m"
+    ],
+    [
+      0.000318,
+      "\u001b[31m18:46:28,916 ERROR [stderr] (main) Caused by: java.lang.IllegalStateException: WFLYSRV0141: Cannot start server\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[0m"
+    ],
+    [
+      0.000235,
+      "\u001b[31m18:46:28,916 ERROR [stderr] (main) "
+    ],
+    [
+      0.000017,
+      "\tat org.jboss.as.server.BootstrapImpl.startup(BootstrapImpl.java:156)\r\n\u001b[0m"
+    ],
+    [
+      0.000748,
+      "\u001b[31m18:46:28,917 ERROR [stderr] (main) \tat org.jboss.as.server.SelfContainedContainer.start(SelfContainedContainer.java:102)\r\n\u001b[0m\u001b[31m18:46:28,917 ERROR [stderr] (main) \tat org.wildfly.swarm.container.Container.start(Container.java:79)\r\n\u001b[0m"
+    ],
+    [
+      0.000552,
+      "\u001b[31m18:46:28,917 ERROR [stderr] (main) \tat org.wildfly.swarm.container.DefaultMain.main(DefaultMain.java:9)\r\n\u001b[0m\u001b[31m18:46:28,918 ERROR [stderr] (main) \t... 10 more\r\n\u001b[0m"
+    ],
+    [
+      0.000182,
+      "\u001b[31m18:46:28,918 ERROR [stderr] (main) Caused by: java.util.concurrent.ExecutionException: Operation failed\r\n\u001b[0m"
+    ],
+    [
+      0.000224,
+      "\u001b[31m18:46:28,918 ERROR [stderr] (main) \t"
+    ],
+    [
+      0.000013,
+      "at org.jboss.threads.AsyncFutureTask.operationFailed(AsyncFutureTask.java:74)\r\n\u001b[0m"
+    ],
+    [
+      0.000250,
+      "\u001b[31m18:46:28,918 ERROR [stderr] (main) "
+    ],
+    [
+      0.000015,
+      "\tat org.jboss.threads.AsyncFutureTask.get(AsyncFutureTask.java:268)\r\n\u001b[0m"
+    ],
+    [
+      0.000255,
+      "\u001b[31m18:46:28,919 ERROR [stderr] (main) "
+    ],
+    [
+      0.000016,
+      "\tat org.jboss.as.server.BootstrapImpl.startup(BootstrapImpl.java:152)\r\n\u001b[0m"
+    ],
+    [
+      0.000180,
+      "\u001b[31m18:46:28,919 ERROR [stderr] (main) \t"
+    ],
+    [
+      0.000055,
+      "... 13 more\r\n\u001b[0m"
+    ],
+    [
+      0.000272,
+      "\u001b[31m18:46:28,919 ERROR [stderr] (main) Caused by: org.jboss.msc.service.StartException in service jboss.as: Failed to start ser"
+    ],
+    [
+      0.000012,
+      "vice\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[0m"
+    ],
+    [
+      0.000256,
+      "\u001b[31m18:46:28,919 ERROR [stderr] (main) "
+    ],
+    [
+      0.000014,
+      "\tat org.jboss.msc.service.ServiceControllerImpl$StartTask.run(ServiceControllerImpl.java:1904)\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[0m"
+    ],
+    [
+      0.000272,
+      "\u001b[31m18:46:28,920 ERROR [stderr] (main) "
+    ],
+    [
+      0.000016,
+      "\tat java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)\r\n\u001b[0m"
+    ],
+    [
+      0.000244,
+      "\u001b[31m18:46:28,920 ERROR [stderr] (main) "
+    ],
+    [
+      0.000015,
+      "\tat java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)\r\n\u001b[0m"
+    ],
+    [
+      0.000647,
+      "\u001b[31m18:46:28,920 ERROR [stderr] (main) "
+    ],
+    [
+      0.000015,
+      "\tat java.lang.Thread.run(Thread.java:745)\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[0m"
+    ],
+    [
+      0.000392,
+      "\u001b[31m18:46:28,921 ERROR [stderr] (main) Caused by: org.jboss.modules.ModuleLoadError: Error loading module from modules/system/l"
+    ],
+    [
+      0.000043,
+      "ayers/base/org/picketbox/main/module.xml\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[0m"
+    ],
+    [
+      0.000315,
+      "\u001b[31m18:46:28,921 ERROR [stderr] (main) "
+    ],
+    [
+      0.000014,
+      "\tat org.jboss.modules.ModuleLoadException.toError(ModuleLoadException.java:74)\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[0m"
+    ],
+    [
+      0.000291,
+      "\u001b[31m18:46:28,922 ERROR [stderr] (main) "
+    ],
+    [
+      0.000014,
+      "\tat org.jboss.modules.Module.getPathsUnchecked(Module.java:1384)\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[0m"
+    ],
+    [
+      0.000286,
+      "\u001b[31m18:46:28,922 ERROR [stderr] (main) "
+    ],
+    [
+      0.000039,
+      "\tat org.jboss.modules.Module.loadModuleClass(Module.java:555)\r\n\u001b[0m"
+    ],
+    [
+      0.000219,
+      "\u001b[31m18:46:28,922 ERROR [stderr] (main) "
+    ],
+    [
+      0.000017,
+      "\tat org.jboss.modules.ModuleClassLoader.findClass(ModuleClassLoader.java:197)\r\n\u001b[0m"
+    ],
+    [
+      0.000295,
+      "\u001b[31m18:46:28,923 ERROR [stderr] (main) "
+    ],
+    [
+      0.000038,
+      "\tat org.jboss.modules.ConcurrentClassLoader.performLoadClassUnchecked(ConcurrentClassLoader.java:455)\r\n\u001b[0m"
+    ],
+    [
+      0.000226,
+      "\u001b[31m18:46:28,923 ERROR [stderr] (main) "
+    ],
+    [
+      0.000037,
+      "\tat org.jboss.modules.ConcurrentClassLoader.performLoadClassChecked(ConcurrentClassLoader.java:404)\r\n\u001b[0m"
+    ],
+    [
+      0.000244,
+      "\u001b[31m18:46:28,923 ERROR [stderr] (main) "
+    ],
+    [
+      0.000039,
+      "\tat org.jboss.modules.ConcurrentClassLoader.performLoadClass(ConcurrentClassLoader.java:385)\r\n\u001b[0m"
+    ],
+    [
+      0.000175,
+      "\u001b[31m18:46:28,923 ERROR [stderr] (main) "
+    ],
+    [
+      0.000018,
+      "\tat org.jboss.modules.ConcurrentClassLoader.loadClass(ConcurrentClassLoader.java:130)\r\n\u001b[0m"
+    ],
+    [
+      0.000187,
+      "\u001b[31m18:46:28,924 ERROR [stderr] (main) "
+    ],
+    [
+      0.000017,
+      "\tat java.lang.ClassLoader.defineClass1(Native Method)\r\n\u001b[0m"
+    ],
+    [
+      0.000210,
+      "\u001b[31m18:46:28,924 ERROR [stderr] (main) "
+    ],
+    [
+      0.000017,
+      "\tat java.lang.ClassLoader.defineClass(ClassLoader.java:760)\r\n\u001b[0m"
+    ],
+    [
+      0.000184,
+      "\u001b[31m18:46:28,924 ERROR [stderr] (main) "
+    ],
+    [
+      0.000017,
+      "\tat org.jboss.modules.ModuleClassLoader.doDefineOrLoadClass(ModuleClassLoader.java:353)\r\n\u001b[0m"
+    ],
+    [
+      0.000185,
+      "\u001b[31m18:46:28,924 ERROR [stderr] (main) "
+    ],
+    [
+      0.000017,
+      "\tat org.jboss.modules.ModuleClassLoader.defineClass(ModuleClassLoader.java:432)\r\n\u001b[0m"
+    ],
+    [
+      0.000206,
+      "\u001b[31m18:46:28,925 ERROR [stderr] (main) "
+    ],
+    [
+      0.000017,
+      "\tat org.jboss.modules.ModuleClassLoader.loadClassLocal(ModuleClassLoader.java:269)\r\n\u001b[0m"
+    ],
+    [
+      0.001197,
+      "\u001b[31m18:46:28,925 ERROR [stderr] (main) "
+    ],
+    [
+      0.002975,
+      "\t"
+    ],
+    [
+      0.000018,
+      "at org.jboss.modules.ModuleClassLoader$1.loadClassLocal(ModuleClassLoader.java:77)\r\n\u001b[0m"
+    ],
+    [
+      0.000308,
+      "\u001b[31m18:46:28,929 ERROR [stderr] (main) "
+    ],
+    [
+      0.000024,
+      "\t"
+    ],
+    [
+      0.000034,
+      "at org.jboss.modules.Module.loadModuleClass(Module.java:560)"
+    ],
+    [
+      0.000041,
+      "\r\n"
+    ],
+    [
+      0.000039,
+      "\u001b[0m"
+    ],
+    [
+      0.000252,
+      "\u001b[31m18:46:28,929 ERROR [stderr] (main) "
+    ],
+    [
+      0.000015,
+      "\t"
+    ],
+    [
+      0.000037,
+      "at org.jboss.modules.ModuleClassLoader.findClass(ModuleClassLoader.java:197)"
+    ],
+    [
+      0.000034,
+      "\r\n"
+    ],
+    [
+      0.000042,
+      "\u001b[0m"
+    ],
+    [
+      0.000832,
+      "\u001b[31m18:46:28,930 ERROR [stderr] (main) "
+    ],
+    [
+      0.000017,
+      "\t"
+    ],
+    [
+      0.000041,
+      "at org.jboss.modules.ConcurrentClassLoader.performLoadClassUnchecked(ConcurrentClassLoa"
+    ],
+    [
+      0.000065,
+      "der.java:455)"
+    ],
+    [
+      0.000040,
+      "\r\n"
+    ],
+    [
+      0.000045,
+      "\u001b[0m"
+    ],
+    [
+      0.000499,
+      "\u001b[31m18:46:28,931 ERROR [stderr] (main) "
+    ],
+    [
+      0.000895,
+      "\t"
+    ],
+    [
+      0.000018,
+      "at org.jboss.modules.ConcurrentClassLoader.performLoadClassChecked(ConcurrentClassLoade"
+    ],
+    [
+      0.000050,
+      "r.java:404)"
+    ],
+    [
+      0.000035,
+      "\r\n"
+    ],
+    [
+      0.000047,
+      "\u001b[0m"
+    ],
+    [
+      0.000363,
+      "\u001b[31m18:46:28,932 ERROR [stderr] (main) "
+    ],
+    [
+      0.000163,
+      "\t"
+    ],
+    [
+      0.000016,
+      "at org.jboss.modules.ConcurrentClassLoader.performLoadClass(ConcurrentClassLoader.java:"
+    ],
+    [
+      0.000044,
+      "385)"
+    ],
+    [
+      0.000036,
+      "\r\n"
+    ],
+    [
+      0.000047,
+      "\u001b[0m"
+    ],
+    [
+      0.000459,
+      "\u001b[31m18:46:28,933 ERROR [stderr] (main) "
+    ],
+    [
+      0.000234,
+      "\t"
+    ],
+    [
+      0.000016,
+      "at org.jboss.modules.ConcurrentClassLoader.loadClass(ConcurrentClassLoader.java:130)"
+    ],
+    [
+      0.000036,
+      "\r\n"
+    ],
+    [
+      0.000132,
+      "\u001b[0m"
+    ],
+    [
+      0.000421,
+      "\u001b[31m18:46:28,934 ERROR [stderr] (main) "
+    ],
+    [
+      0.000236,
+      "\t"
+    ],
+    [
+      0.000015,
+      "at java.lang.Class.forName0(Native Method)"
+    ],
+    [
+      0.000035,
+      "\r\n"
+    ],
+    [
+      0.000045,
+      "\u001b[0m"
+    ],
+    [
+      0.003349,
+      "\u001b[31m18:46:28,935 ERROR [stderr] (main) "
+    ],
+    [
+      0.000025,
+      "\t"
+    ],
+    [
+      0.000033,
+      "at java.lang.Class.forName(Class.java:348)"
+    ],
+    [
+      0.000040,
+      "\r\n"
+    ],
+    [
+      0.000042,
+      "\u001b[0m"
+    ],
+    [
+      0.000371,
+      "\u001b[31m18:46:28,938 ERROR [stderr] (main) "
+    ],
+    [
+      0.000015,
+      "\t"
+    ],
+    [
+      0.000037,
+      "at java.util.ServiceLoader$LazyIterator.nextService(ServiceLoader.java:370)"
+    ],
+    [
+      0.000035,
+      "\r\n"
+    ],
+    [
+      0.000043,
+      "\u001b[0m"
+    ],
+    [
+      0.000275,
+      "\u001b[31m18:46:28,939 ERROR [stderr] (main) "
+    ],
+    [
+      0.000014,
+      "\t"
+    ],
+    [
+      0.000037,
+      "at java.util.ServiceLoader$LazyIterator.next(ServiceLoader.java:404)"
+    ],
+    [
+      0.000034,
+      "\r\n"
+    ],
+    [
+      0.000042,
+      "\u001b[0m"
+    ],
+    [
+      0.000205,
+      "\u001b[31m18:46:28,939 ERROR [stderr] (main) "
+    ],
+    [
+      0.000014,
+      "\t"
+    ],
+    [
+      0.000037,
+      "at java.util.ServiceLoader$1.next(ServiceLoader.java:480)"
+    ],
+    [
+      0.000034,
+      "\r\n"
+    ],
+    [
+      0.000043,
+      "\u001b[0m"
+    ],
+    [
+      0.000242,
+      "\u001b[31m18:46:28,939 ERROR [stderr] (main) "
+    ],
+    [
+      0.000014,
+      "\t"
+    ],
+    [
+      0.000038,
+      "at org.jboss.as.server.ApplicationServerService.service(ApplicationServerService.java:2"
+    ],
+    [
+      0.000036,
+      "24)"
+    ],
+    [
+      0.000039,
+      "\r\n"
+    ],
+    [
+      0.000061,
+      "\u001b[0m"
+    ],
+    [
+      0.000265,
+      "\u001b[31m18:46:28,940 ERROR [stderr] (main) "
+    ],
+    [
+      0.000015,
+      "\t"
+    ],
+    [
+      0.000038,
+      "at org.jboss.as.server.ApplicationServerService.start(ApplicationServerService.java:153"
+    ],
+    [
+      0.000036,
+      ")"
+    ],
+    [
+      0.000039,
+      "\r\n"
+    ],
+    [
+      0.000039,
+      "\u001b[0m"
+    ],
+    [
+      0.000296,
+      "\u001b[31m18:46:28,940 ERROR [stderr] (main) "
+    ],
+    [
+      0.000015,
+      "\t"
+    ],
+    [
+      0.000039,
+      "at org.jboss.msc.service.ServiceControllerImpl$StartTask.startService(ServiceController"
+    ],
+    [
+      0.000038,
+      "Impl.java:1948)"
+    ],
+    [
+      0.000040,
+      "\r\n"
+    ],
+    [
+      0.000039,
+      "\u001b[0m"
+    ],
+    [
+      0.000279,
+      "\u001b[31m18:46:28,941 ERROR [stderr] (main) "
+    ],
+    [
+      0.000015,
+      "\t"
+    ],
+    [
+      0.000037,
+      "at org.jboss.msc.service.ServiceControllerImpl$StartTask.run(ServiceControllerImpl.java"
+    ],
+    [
+      0.000038,
+      ":1881)"
+    ],
+    [
+      0.000043,
+      "\r\n"
+    ],
+    [
+      0.000038,
+      "\u001b[0m"
+    ],
+    [
+      0.000221,
+      "\u001b[31m18:46:28,941 ERROR [stderr] (main) "
+    ],
+    [
+      0.000014,
+      "\t"
+    ],
+    [
+      0.000032,
+      "... 3 more"
+    ],
+    [
+      0.000039,
+      "\r\n"
+    ],
+    [
+      0.000038,
+      "\u001b[0m"
+    ],
+    [
+      0.000292,
+      "\u001b[31m18:46:28,942 ERROR [stderr] (main) Caused by: org.jboss.modules.xml.XmlPullParserException: Failed to resolve artifact '${o"
+    ],
+    [
+      0.000060,
+      "rg.picketbox:picketbox}' (position: END_TAG seen ...\u003cresources\u003e\\n        \u003cartifact name=\"${org.picketbox:picketbox}\"/\u003e... @32:54"
+    ],
+    [
+      0.000017,
+      ") "
+    ],
+    [
+      0.000035,
+      "\r\n"
+    ],
+    [
+      0.000044,
+      "\u001b[0m"
+    ],
+    [
+      0.000230,
+      "\u001b[31m18:46:28,942 ERROR [stderr] (main) "
+    ],
+    [
+      0.000015,
+      "\t"
+    ],
+    [
+      0.000033,
+      "at org.jboss.modules.ModuleXmlParser.parseArtifact(ModuleXmlParser.java:890)"
+    ],
+    [
+      0.000039,
+      "\r\n"
+    ],
+    [
+      0.000038,
+      "\u001b[0m"
+    ],
+    [
+      0.000218,
+      "\u001b[31m18:46:28,942 ERROR [stderr] (main) "
+    ],
+    [
+      0.000032,
+      "\t"
+    ],
+    [
+      0.000033,
+      "at org.jboss.modules.ModuleXmlParser.parseResources(ModuleXmlParser.java:729)"
+    ],
+    [
+      0.000039,
+      "\r\n"
+    ],
+    [
+      0.000040,
+      "\u001b[0m"
+    ],
+    [
+      0.000256,
+      "\u001b[31m18:46:28,943 ERROR [stderr] (main) "
+    ],
+    [
+      0.000014,
+      "\t"
+    ],
+    [
+      0.000034,
+      "at org.jboss.modules.ModuleXmlParser.parseModuleContents(ModuleXmlParser.java:494)"
+    ],
+    [
+      0.000037,
+      "\r\n"
+    ],
+    [
+      0.000039,
+      "\u001b[0m"
+    ],
+    [
+      0.000212,
+      "\u001b[31m18:46:28,943 ERROR [stderr] (main) "
+    ],
+    [
+      0.000014,
+      "\t"
+    ],
+    [
+      0.000034,
+      "at org.jboss.modules.ModuleXmlParser.parseDocument(ModuleXmlParser.java:287)"
+    ],
+    [
+      0.000037,
+      "\r\n"
+    ],
+    [
+      0.000039,
+      "\u001b[0m"
+    ],
+    [
+      0.001683,
+      "\u001b[31m18:46:28,943 ERROR [stderr] (main) "
+    ],
+    [
+      0.000018,
+      "\t"
+    ],
+    [
+      0.000039,
+      "at org.jboss.modules.ModuleXmlParser.parseModuleXml(ModuleXmlParser.java:150)"
+    ],
+    [
+      0.000036,
+      "\r\n"
+    ],
+    [
+      0.000046,
+      "\u001b[0m"
+    ],
+    [
+      0.000299,
+      "\u001b[31m18:46:28,945 ERROR [stderr] (main) "
+    ],
+    [
+      0.000015,
+      "\t"
+    ],
+    [
+      0.000039,
+      "at org.jboss.modules.BootModuleFinder.findModule(BootModuleFinder.java:48)"
+    ],
+    [
+      0.000035,
+      "\r\n"
+    ],
+    [
+      0.000050,
+      "\u001b[0m"
+    ],
+    [
+      0.000191,
+      "\u001b[31m18:46:28,946 ERROR [stderr] (main) "
+    ],
+    [
+      0.000013,
+      "\tat org.jboss.modules.ModuleLoader.findModule(ModuleLoader.java:452)\r\n"
+    ],
+    [
+      0.000032,
+      "\u001b[0m"
+    ],
+    [
+      0.000163,
+      "\u001b[31m18:46:28,946 ERROR [stderr] (main) "
+    ],
+    [
+      0.000012,
+      "\tat org.jboss.modules.ModuleLoader.loadModuleLocal(ModuleLoader.java:355)\r\n"
+    ],
+    [
+      0.000059,
+      "\u001b[0m"
+    ],
+    [
+      0.001554,
+      "\u001b[31m18:46:28,946 ERROR [stderr] (main) "
+    ],
+    [
+      0.000057,
+      "\tat org.jboss.modules.ModuleLoader.preloadModule(ModuleLoader.java:302)\r\n\u001b[0m\u001b[31m18:46:28,946 ERROR [stderr] (main) \tat org.jboss.modules.Module.addPaths(Module.java:1028)\r\n\u001b[0m\u001b[31m18:46:28,946 ERROR [stderr] (main) \tat org.jboss.modules.Module.link(Module.java:1398)\r\n\u001b[0m\u001b[31m18:46:28,946 ERROR [stderr] (main) \tat org.jboss.modules.Module.getPaths(Module.java:1359)\r\n\u001b[0m\u001b[31m18:46:28,947 ERROR [stderr] (main) "
+    ],
+    [
+      0.002085,
+      "\tat org.jboss.modules.Module.getPathsUnchecked(Module.java:1382)"
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.000078,
+      "\u001b[0m"
+    ],
+    [
+      0.000447,
+      "\u001b[31m18:46:28,950 ERROR [stderr] (main) "
+    ],
+    [
+      0.000013,
+      "\t... 30 more\r\n"
+    ],
+    [
+      0.000029,
+      "\u001b[0m"
+    ],
+    [
+      3.221095,
+      "^C"
+    ],
+    [
+      0.001701,
+      "\u001b[0m18:46:32,173 INFO  [org.jboss.as.server] (Thread-2) WFLYSRV0220: Server shutdown has been requested."
+    ],
+    [
+      0.000021,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.024350,
+      "\u001b]0;hf@hf-ep: ~/dev/prjs/nanook/target\u0007hf@hf-ep:~/dev/prjs/nanook/target$ "
+    ],
+    [
+      1.110025,
+      "e"
+    ],
+    [
+      0.223909,
+      "x"
+    ],
+    [
+      0.112065,
+      "i"
+    ],
+    [
+      0.111923,
+      "t"
+    ],
+    [
+      0.175696,
+      "\r\n"
+    ],
+    [
+      0.000103,
+      "exit"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ]
+  ]
+}
