@@ -1,0 +1,3798 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 25,
+  "duration": 180.770574,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.123664,
+      "\u001b[?1034h\u001b[00;32mvojtechvitek\u001b[00m@MacBook-Pro\u001b[01;32m:\u001b[00;34m~/go/src/github.com/pressly/stackup/example\u001b[01;32m^master\u001b[00m\r\r\n"
+    ],
+    [
+      0.000011,
+      "$ "
+    ],
+    [
+      1.281792,
+      "#"
+    ],
+    [
+      0.149911,
+      " "
+    ],
+    [
+      0.150079,
+      "S"
+    ],
+    [
+      0.199868,
+      "t"
+    ],
+    [
+      0.100072,
+      "a"
+    ],
+    [
+      0.099988,
+      "c"
+    ],
+    [
+      0.113027,
+      "k"
+    ],
+    [
+      0.224528,
+      " "
+    ],
+    [
+      0.199976,
+      "U"
+    ],
+    [
+      0.137755,
+      "p"
+    ],
+    [
+      0.237565,
+      ","
+    ],
+    [
+      0.074560,
+      " "
+    ],
+    [
+      0.687967,
+      "a"
+    ],
+    [
+      0.112158,
+      " "
+    ],
+    [
+      0.250281,
+      "s"
+    ],
+    [
+      0.099787,
+      "i"
+    ],
+    [
+      0.199939,
+      "m"
+    ],
+    [
+      0.062784,
+      "p"
+    ],
+    [
+      0.187167,
+      "l"
+    ],
+    [
+      0.062802,
+      "e"
+    ],
+    [
+      0.112338,
+      " "
+    ],
+    [
+      0.224972,
+      "d"
+    ],
+    [
+      0.150043,
+      "e"
+    ],
+    [
+      0.050036,
+      "p"
+    ],
+    [
+      0.149911,
+      "l"
+    ],
+    [
+      0.150002,
+      "o"
+    ],
+    [
+      0.075157,
+      "y"
+    ],
+    [
+      0.212496,
+      "m"
+    ],
+    [
+      0.050093,
+      "e"
+    ],
+    [
+      0.112367,
+      "n"
+    ],
+    [
+      0.075052,
+      "t"
+    ],
+    [
+      0.112519,
+      " "
+    ],
+    [
+      0.162205,
+      "t"
+    ],
+    [
+      0.062785,
+      "o"
+    ],
+    [
+      0.137240,
+      "o"
+    ],
+    [
+      0.162433,
+      "l"
+    ],
+    [
+      0.075426,
+      " "
+    ],
+    [
+      0.137467,
+      "t"
+    ],
+    [
+      0.099947,
+      "h"
+    ],
+    [
+      0.062143,
+      "a"
+    ],
+    [
+      0.087578,
+      "t"
+    ],
+    [
+      0.087504,
+      " "
+    ],
+    [
+      0.175299,
+      "p"
+    ],
+    [
+      0.124728,
+      "e"
+    ],
+    [
+      0.075228,
+      "r"
+    ],
+    [
+      0.237519,
+      "f"
+    ],
+    [
+      0.162765,
+      "o"
+    ],
+    [
+      0.137167,
+      "r"
+    ],
+    [
+      0.100031,
+      "m"
+    ],
+    [
+      0.149737,
+      "s"
+    ],
+    [
+      0.150327,
+      " "
+    ],
+    [
+      0.337523,
+      "g"
+    ],
+    [
+      0.024972,
+      "i"
+    ],
+    [
+      0.187480,
+      "v"
+    ],
+    [
+      0.100194,
+      "e"
+    ],
+    [
+      0.137016,
+      "n"
+    ],
+    [
+      0.087631,
+      "s"
+    ],
+    [
+      0.387866,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.074804,
+      " "
+    ],
+    [
+      0.074601,
+      "s"
+    ],
+    [
+      0.150426,
+      "e"
+    ],
+    [
+      0.137440,
+      "t"
+    ],
+    [
+      0.124897,
+      " "
+    ],
+    [
+      0.062406,
+      "o"
+    ],
+    [
+      0.112756,
+      "f"
+    ],
+    [
+      0.112646,
+      " "
+    ],
+    [
+      0.112261,
+      "s"
+    ],
+    [
+      0.300210,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.050683,
+      "c"
+    ],
+    [
+      0.111758,
+      "o"
+    ],
+    [
+      0.025078,
+      "m"
+    ],
+    [
+      0.187601,
+      "m"
+    ],
+    [
+      0.124848,
+      "a"
+    ],
+    [
+      0.124829,
+      "n"
+    ],
+    [
+      0.062977,
+      "d"
+    ],
+    [
+      0.111910,
+      "s"
+    ],
+    [
+      0.125187,
+      " "
+    ],
+    [
+      0.487204,
+      "o"
+    ],
+    [
+      0.062768,
+      "n"
+    ],
+    [
+      1.012168,
+      " "
+    ],
+    [
+      0.112550,
+      "m"
+    ],
+    [
+      0.162488,
+      "u \r"
+    ],
+    [
+      0.075591,
+      "l"
+    ],
+    [
+      0.074424,
+      "t"
+    ],
+    [
+      0.099936,
+      "i"
+    ],
+    [
+      0.087784,
+      "p"
+    ],
+    [
+      0.162256,
+      "l"
+    ],
+    [
+      0.075290,
+      "e"
+    ],
+    [
+      0.112322,
+      " "
+    ],
+    [
+      0.299923,
+      "h"
+    ],
+    [
+      0.050412,
+      "o"
+    ],
+    [
+      0.041546,
+      "s"
+    ],
+    [
+      0.096023,
+      "t"
+    ],
+    [
+      0.112047,
+      "s"
+    ],
+    [
+      0.100276,
+      "."
+    ],
+    [
+      0.137532,
+      "."
+    ],
+    [
+      1.012459,
+      "\r\n"
+    ],
+    [
+      0.012239,
+      "\u001b[00;32mvojtechvitek\u001b[00m@MacBook-Pro\u001b[01;32m:\u001b[00;34m~/go/src/github.com/pressly/stackup/example\u001b[01;32m^master\u001b[00m\r\r\n$ "
+    ],
+    [
+      1.024820,
+      "\r\n"
+    ],
+    [
+      0.011719,
+      "\u001b[00;32mvojtechvitek\u001b[00m@MacBook-Pro\u001b[01;32m:\u001b[00;34m~/go/src/github.com/pressly/stackup/example\u001b[01;32m^master\u001b[00m\r\r\n$ "
+    ],
+    [
+      0.101436,
+      "s"
+    ],
+    [
+      0.074628,
+      "u"
+    ],
+    [
+      0.046608,
+      "p"
+    ],
+    [
+      0.266329,
+      "\r\n"
+    ],
+    [
+      0.007904,
+      "2015/05/08 15:14:10 Usage: sup \u003cnetwork\u003e \u003ctarget/command\u003e\r\n\r\n"
+    ],
+    [
+      0.000009,
+      "2015/05/08 15:14:10 Available networks (from ./Supfile):\r\n2015/05/08 15:14:10 - local\r\n2015/05/08 15:14:10    - localhost\r\n"
+    ],
+    [
+      0.000003,
+      "2015/05/08 15:14:10 - dev\r\n"
+    ],
+    [
+      0.000003,
+      "2015/05/08 15:14:10    - docker@192.168.59.103\r\n"
+    ],
+    [
+      0.000003,
+      "2015/05/08 15:14:10 - stg\r\n"
+    ],
+    [
+      0.000003,
+      "2015/05/08 15:14:10    - ubuntu@stg.example.com\r\n"
+    ],
+    [
+      0.000010,
+      "2015/05/08 15:14:10 - prod\r\n2015/05/08 15:14:10    - ubuntu@prod1.example.com\r\n"
+    ],
+    [
+      0.000006,
+      "2015/05/08 15:14:10    - ubuntu@prod2.example.com\r\n2015/05/08 15:14:10    - ubuntu@prod3.example.com\r\n"
+    ],
+    [
+      0.000776,
+      "\u001b[00;31mERROR 1\r\n"
+    ],
+    [
+      0.011595,
+      "\u001b[00;32mvojtechvitek\u001b[00m@MacBook-Pro\u001b[01;32m:\u001b[00;34m~/go/src/github.com/pressly/stackup/example\u001b[01;32m^master\u001b[00m\r\r\n$ "
+    ],
+    [
+      2.016975,
+      "\r\n"
+    ],
+    [
+      0.000270,
+      "\u001b[00;31mERROR 1\r\n"
+    ],
+    [
+      0.013048,
+      "\u001b[00;32mvojtechvitek\u001b[00m@MacBook-Pro\u001b[01;32m:\u001b[00;34m~/go/src/github.com/pressly/stackup/example\u001b[01;32m^master\u001b[00m\r\r\n$ "
+    ],
+    [
+      0.323711,
+      "s"
+    ],
+    [
+      0.125463,
+      "u"
+    ],
+    [
+      0.042137,
+      "p"
+    ],
+    [
+      0.157468,
+      " "
+    ],
+    [
+      0.125037,
+      "l"
+    ],
+    [
+      0.162996,
+      "o"
+    ],
+    [
+      0.062049,
+      "c"
+    ],
+    [
+      0.075276,
+      "a"
+    ],
+    [
+      0.049648,
+      "l"
+    ],
+    [
+      0.375412,
+      "\r\n"
+    ],
+    [
+      0.007392,
+      "2015/05/08 15:14:13 Usage: sup \u003cnetwork\u003e \u003ctarget/command\u003e\r\n\r\n"
+    ],
+    [
+      0.000011,
+      "2015/05/08 15:14:13 Available targets (from Supfile):\r\n2015/05/08 15:14:13 - deploy\r\n2015/05/08 15:14:13 \tupload\r\n2015/05/08 15:14:13 \tbuild\r\n2015/05/08 15:14:13 \timage\r\n2015/05/08 15:14:13 \tconfig\r\n2015/05/08 15:14:13 \tstop\r\n2015/05/08 15:14:13 \trm\r\n2015/05/08 15:14:13 \trun\r\n2015/05/08 15:14:13 \tps\r\n"
+    ],
+    [
+      0.000008,
+      "2015/05/08 15:14:13 \tlogs\r\n2015/05/08 15:14:13 \thealth\r\n2015/05/08 15:14:13 \r\n2015/05/08 15:14:13 Available commands (from Supfile):\r\n"
+    ],
+    [
+      0.000004,
+      "2015/05/08 15:14:13 - start\tStart a stopped Docker container\r\n2015/05/08 15:14:13 - health\tApplication health check\r\n"
+    ],
+    [
+      0.000003,
+      "2015/05/08 15:14:13 - image\tList Docker image\r\n"
+    ],
+    [
+      0.000003,
+      "2015/05/08 15:14:13 - config\tUpload/test config file.\r\n"
+    ],
+    [
+      0.000003,
+      "2015/05/08 15:14:13 - stop\tStop Docker container\r\n"
+    ],
+    [
+      0.000003,
+      "2015/05/08 15:14:13 - restart\tRestart Docker container\r\n"
+    ],
+    [
+      0.000003,
+      "2015/05/08 15:14:13 - tail-logs\tTail Docker logs\r\n"
+    ],
+    [
+      0.000003,
+      "2015/05/08 15:14:13 - shell\tInteractive shell on all hosts\r\n2015/05/08 15:14:13 - logs\tDocker logs\r\n"
+    ],
+    [
+      0.000003,
+      "2015/05/08 15:14:13 - exec\tInteractive docker exec on all hosts\r\n"
+    ],
+    [
+      0.000003,
+      "2015/05/08 15:14:13 - ping\tPrint uname and current date/time.\r\n"
+    ],
+    [
+      0.000003,
+      "2015/05/08 15:14:13 - rm\tRemove Docker container\r\n"
+    ],
+    [
+      0.000003,
+      "2015/05/08 15:14:13 - ps\tList running Docker containers\r\n"
+    ],
+    [
+      0.000004,
+      "2015/05/08 15:14:13 - upload\tUpload this repository\r\n"
+    ],
+    [
+      0.000003,
+      "2015/05/08 15:14:13 - build\tBuild Docker image\r\n"
+    ],
+    [
+      0.000003,
+      "2015/05/08 15:14:13 - run\tRun Docker container\r\n"
+    ],
+    [
+      0.000860,
+      "\u001b[00;31mERROR 1\r\n"
+    ],
+    [
+      0.011060,
+      "\u001b[00;32mvojtechvitek\u001b[00m@MacBook-Pro\u001b[01;32m:\u001b[00;34m~/go/src/github.com/pressly/stackup/example\u001b[01;32m^master\u001b[00m\r\r\n$ "
+    ],
+    [
+      1.730728,
+      "\r\n"
+    ],
+    [
+      0.000225,
+      "\u001b[00;31mERROR 1\r\n"
+    ],
+    [
+      0.012121,
+      "\u001b[00;32mvojtechvitek\u001b[00m@MacBook-Pro\u001b[01;32m:\u001b[00;34m~/go/src/github.com/pressly/stackup/example\u001b[01;32m^master\u001b[00m\r\r\n$ "
+    ],
+    [
+      0.599980,
+      "s"
+    ],
+    [
+      0.099684,
+      "u"
+    ],
+    [
+      0.041101,
+      "p"
+    ],
+    [
+      0.146585,
+      " "
+    ],
+    [
+      0.174939,
+      "s"
+    ],
+    [
+      0.125089,
+      "t"
+    ],
+    [
+      0.187615,
+      "g"
+    ],
+    [
+      0.124760,
+      " "
+    ],
+    [
+      0.162423,
+      "p"
+    ],
+    [
+      0.049877,
+      "i"
+    ],
+    [
+      0.062614,
+      "n"
+    ],
+    [
+      0.100323,
+      "g"
+    ],
+    [
+      0.225273,
+      "\r\n"
+    ],
+    [
+      0.883983,
+      "\u001b[32mubuntu@stg.example.com:22 | + uname -a\r\n\u001b[32mubuntu@stg.example.com:22 | + date\r\n\u001b[32mubuntu@stg.example.com:22 | Linux ip-172-30-0-111 3.16.0-34-generic #47-Ubuntu SMP Fri Apr 10 18:02:58 UTC 2015 x86_64 x86_64 x86_64 GNU/Linux\r\n"
+    ],
+    [
+      0.000018,
+      "\u001b[32mubuntu@stg.example.com:22 | Fri May  8 15:14:30 UTC 2015\r\n"
+    ],
+    [
+      1.017129,
+      "\u001b[00;32mvojtechvitek\u001b[00m@MacBook-Pro\u001b[01;32m:\u001b[00;34m~/go/src/github.com/pressly/stackup/example\u001b[01;32m^master\u001b[00m\r\r\n$ "
+    ],
+    [
+      0.698509,
+      "\r\n"
+    ],
+    [
+      0.011496,
+      "\u001b[00;32mvojtechvitek\u001b[00m@MacBook-Pro\u001b[01;32m:\u001b[00;34m~/go/src/github.com/pressly/stackup/example\u001b[01;32m^master\u001b[00m\r\r\n$ "
+    ],
+    [
+      0.313588,
+      "s"
+    ],
+    [
+      0.112554,
+      "u"
+    ],
+    [
+      0.012116,
+      "p"
+    ],
+    [
+      0.150309,
+      " "
+    ],
+    [
+      0.137658,
+      "s"
+    ],
+    [
+      0.149713,
+      "t"
+    ],
+    [
+      0.200233,
+      "g"
+    ],
+    [
+      0.137107,
+      " "
+    ],
+    [
+      0.500227,
+      "h"
+    ],
+    [
+      0.062163,
+      "e"
+    ],
+    [
+      0.087808,
+      "a"
+    ],
+    [
+      0.087260,
+      "l"
+    ],
+    [
+      0.112517,
+      "t"
+    ],
+    [
+      0.075249,
+      "h"
+    ],
+    [
+      0.862220,
+      "\r\n"
+    ],
+    [
+      0.833815,
+      "\u001b[32mubuntu@stg.example.com:22 | + curl localhost:8000\r\n"
+    ],
+    [
+      0.032448,
+      "\u001b[32mubuntu@stg.example.com:22 |   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\r\n"
+    ],
+    [
+      0.000013,
+      "\u001b[32mubuntu@stg.example.com:22 |                                  Dload  Upload   Total   Spent    Left  Speed\r\n"
+    ],
+    [
+      0.000100,
+      "\u001b[32mubuntu@stg.example.com:22 | \r  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\r100    14  100    14    0     0  15801      0 --:--:-- --:--:-- --:--:-- 14000\r\n\u001b[32mubuntu@stg.example.com:22 | Hello staging\r\n"
+    ],
+    [
+      1.016037,
+      "\u001b[00;32mvojtechvitek\u001b[00m@MacBook-Pro\u001b[01;32m:\u001b[00;34m~/go/src/github.com/pressly/stackup/example\u001b[01;32m^master\u001b[00m\r\r\n$ "
+    ],
+    [
+      0.455170,
+      "\r\n"
+    ],
+    [
+      0.011880,
+      "\u001b[00;32mvojtechvitek\u001b[00m@MacBook-Pro\u001b[01;32m:\u001b[00;34m~/go/src/github.com/pressly/stackup/example\u001b[01;32m^master\u001b[00m\r\r\n$ "
+    ],
+    [
+      0.575853,
+      "e"
+    ],
+    [
+      0.450125,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.249916,
+      "#"
+    ],
+    [
+      0.187426,
+      " "
+    ],
+    [
+      0.150080,
+      "\u0026"
+    ],
+    [
+      0.525133,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.187527,
+      "^"
+    ],
+    [
+      0.150020,
+      " "
+    ],
+    [
+      0.449823,
+      "S"
+    ],
+    [
+      0.212233,
+      "t"
+    ],
+    [
+      0.062384,
+      "a"
+    ],
+    [
+      0.125367,
+      "g"
+    ],
+    [
+      0.087144,
+      "i"
+    ],
+    [
+      0.075034,
+      "n"
+    ],
+    [
+      0.287869,
+      "g"
+    ],
+    [
+      0.099967,
+      " "
+    ],
+    [
+      0.187585,
+      "i"
+    ],
+    [
+      0.099913,
+      "s"
+    ],
+    [
+      0.112494,
+      " "
+    ],
+    [
+      0.237264,
+      "g"
+    ],
+    [
+      0.062940,
+      "o"
+    ],
+    [
+      0.112201,
+      "o"
+    ],
+    [
+      0.074687,
+      "d"
+    ],
+    [
+      0.425415,
+      "."
+    ],
+    [
+      0.224668,
+      "\r\n"
+    ],
+    [
+      0.012061,
+      "\u001b[00;32mvojtechvitek\u001b[00m@MacBook-Pro\u001b[01;32m:\u001b[00;34m~/go/src/github.com/pressly/stackup/example\u001b[01;32m^master\u001b[00m\r\r\n$ "
+    ],
+    [
+      1.025461,
+      "\r\n"
+    ],
+    [
+      0.011827,
+      "\u001b[00;32mvojtechvitek\u001b[00m@MacBook-Pro\u001b[01;32m:\u001b[00;34m~/go/src/github.com/pressly/stackup/example\u001b[01;32m^master\u001b[00m\r\r\n$ "
+    ],
+    [
+      0.963528,
+      "#"
+    ],
+    [
+      0.212436,
+      " "
+    ],
+    [
+      0.212237,
+      "L"
+    ],
+    [
+      0.337713,
+      "e"
+    ],
+    [
+      0.112467,
+      "t"
+    ],
+    [
+      0.087529,
+      "'"
+    ],
+    [
+      0.100196,
+      "s"
+    ],
+    [
+      0.099476,
+      " "
+    ],
+    [
+      0.162552,
+      "c"
+    ],
+    [
+      0.062753,
+      "h"
+    ],
+    [
+      0.100022,
+      "e"
+    ],
+    [
+      0.039418,
+      "c"
+    ],
+    [
+      0.097820,
+      "k"
+    ],
+    [
+      0.075382,
+      " "
+    ],
+    [
+      0.262167,
+      "p"
+    ],
+    [
+      0.088018,
+      "r"
+    ],
+    [
+      0.074427,
+      "o"
+    ],
+    [
+      0.087931,
+      "d"
+    ],
+    [
+      0.099843,
+      "u"
+    ],
+    [
+      0.112244,
+      "c"
+    ],
+    [
+      0.162517,
+      "t"
+    ],
+    [
+      0.041102,
+      "i"
+    ],
+    [
+      0.059217,
+      "o"
+    ],
+    [
+      0.040614,
+      "n"
+    ],
+    [
+      0.221837,
+      "."
+    ],
+    [
+      0.124674,
+      "."
+    ],
+    [
+      0.350181,
+      "\r\n"
+    ],
+    [
+      0.011663,
+      "\u001b[00;32mvojtechvitek\u001b[00m@MacBook-Pro\u001b[01;32m:\u001b[00;34m~/go/src/github.com/pressly/stackup/example\u001b[01;32m^master\u001b[00m\r\r\n$ "
+    ],
+    [
+      0.788337,
+      "\r\n"
+    ],
+    [
+      0.011745,
+      "\u001b[00;32mvojtechvitek\u001b[00m@MacBook-Pro\u001b[01;32m:\u001b[00;34m~/go/src/github.com/pressly/stackup/example\u001b[01;32m^master\u001b[00m\r\r\n$ "
+    ],
+    [
+      0.388134,
+      "s"
+    ],
+    [
+      0.099948,
+      "u"
+    ],
+    [
+      0.050317,
+      "p"
+    ],
+    [
+      0.112493,
+      " "
+    ],
+    [
+      0.112565,
+      "p"
+    ],
+    [
+      0.074590,
+      "r"
+    ],
+    [
+      0.125511,
+      "o"
+    ],
+    [
+      0.074603,
+      "d"
+    ],
+    [
+      0.112782,
+      " "
+    ],
+    [
+      0.587222,
+      "p"
+    ],
+    [
+      0.075264,
+      "i"
+    ],
+    [
+      0.062653,
+      "n"
+    ],
+    [
+      0.074607,
+      "g"
+    ],
+    [
+      0.075265,
+      "\r\n"
+    ],
+    [
+      1.301036,
+      "\u001b[32mubuntu@prod1.example.com:22 | + uname -a\r\n"
+    ],
+    [
+      0.000022,
+      "\u001b[32mubuntu@prod1.example.com:22 | Linux ip-10-171-100-2 3.16.0-34-generic #47-Ubuntu SMP Fri Apr 10 18:02:58 UTC 2015 x86_64 x86_64 x86_64 GNU/Linux\r\n"
+    ],
+    [
+      0.001366,
+      "\u001b[32mubuntu@prod1.example.com:22 | + date\r\n"
+    ],
+    [
+      0.000040,
+      "\u001b[32mubuntu@prod1.example.com:22 | Fri May  8 15:14:40 UTC 2015\r\n"
+    ],
+    [
+      0.058694,
+      "\u001b[33mubuntu@prod2.example.com:22 | + uname -a\r\n"
+    ],
+    [
+      0.000069,
+      "\u001b[33mubuntu@prod2.example.com:22 | Linux ip-10-166-129-150 3.16.0-34-generic #47-Ubuntu SMP Fri Apr 10 18:02:58 UTC 2015 x86_64 x86_64 x86_64 GNU/Linux\r\n\u001b[33mubuntu@prod2.example.com:22 | Fri May  8 15:14:40 UTC 2015\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[33mubuntu@prod2.example.com:22 | + date\r\n"
+    ],
+    [
+      0.744881,
+      "\u001b[36mubuntu@prod3.example.com:22 | + uname -a\r\n"
+    ],
+    [
+      0.001121,
+      "\u001b[36mubuntu@prod3.example.com:22 | Linux ip-10-153-148-87 3.16.0-34-generic #47-Ubuntu SMP Fri Apr 10 18:02:58 UTC 2015 x86_64 x86_64 x86_64 GNU/Linux\r\n"
+    ],
+    [
+      0.000099,
+      "\u001b[36mubuntu@prod3.example.com:22 | + date\r\n"
+    ],
+    [
+      0.003787,
+      "\u001b[36mubuntu@prod3.example.com:22 | Fri May  8 15:14:41 UTC 2015\r\n"
+    ],
+    [
+      1.018941,
+      "\u001b[00;32mvojtechvitek\u001b[00m@MacBook-Pro\u001b[01;32m:\u001b[00;34m~/go/src/github.com/pressly/stackup/example\u001b[01;32m^master\u001b[00m\r\r\n$ "
+    ],
+    [
+      0.610170,
+      "\r\n"
+    ],
+    [
+      0.012603,
+      "\u001b[00;32mvojtechvitek\u001b[00m@MacBook-Pro\u001b[01;32m:\u001b[00;34m~/go/src/github.com/pressly/stackup/example\u001b[01;32m^master\u001b[00m\r\r\n$ "
+    ],
+    [
+      0.359430,
+      "s"
+    ],
+    [
+      0.087696,
+      "u"
+    ],
+    [
+      0.024669,
+      "p"
+    ],
+    [
+      0.162543,
+      " "
+    ],
+    [
+      0.112787,
+      "p"
+    ],
+    [
+      0.087038,
+      "r"
+    ],
+    [
+      0.075288,
+      "o"
+    ],
+    [
+      0.112490,
+      "d"
+    ],
+    [
+      0.075220,
+      " "
+    ],
+    [
+      0.349636,
+      "h"
+    ],
+    [
+      0.075281,
+      "e"
+    ],
+    [
+      0.149828,
+      "a"
+    ],
+    [
+      0.087393,
+      "l"
+    ],
+    [
+      0.125339,
+      "t"
+    ],
+    [
+      0.062608,
+      "h"
+    ],
+    [
+      0.149897,
+      "\r\n"
+    ],
+    [
+      1.403776,
+      "\u001b[32mubuntu@prod1.example.com:22 | + curl localhost:8000\r\n"
+    ],
+    [
+      0.056950,
+      "\u001b[32mubuntu@prod1.example.com:22 |   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\r\n\u001b[32mubuntu@prod1.example.com:22 |                                  Dload  Upload   Total   Spent    Left  Speed\r\n"
+    ],
+    [
+      0.000048,
+      "\u001b[32mubuntu@prod1.example.com:22 | \r  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0curl: (7) Failed to connect to localhost port 8000: Connection refused\r\n"
+    ],
+    [
+      0.007150,
+      "\u001b[33mubuntu@prod2.example.com:22 | + curl localhost:8000\r\n"
+    ],
+    [
+      0.046264,
+      "\u001b[33mubuntu@prod2.example.com:22 |   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\r\n\u001b[33mubuntu@prod2.example.com:22 |                                  Dload  Upload   Total   Spent    Left  Speed\r\n"
+    ],
+    [
+      0.000013,
+      "\u001b[33mubuntu@prod2.example.com:22 | \r  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0curl: (7) Failed to connect to localhost port 8000: Connection refused\r\n"
+    ],
+    [
+      0.863540,
+      "ubuntu@prod1.example.com:22 | exit 7\r\n"
+    ],
+    [
+      0.001133,
+      "\u001b[00;31mERROR 7\r\n"
+    ],
+    [
+      0.013160,
+      "\u001b[00;32mvojtechvitek\u001b[00m@MacBook-Pro\u001b[01;32m:\u001b[00;34m~/go/src/github.com/pressly/stackup/example\u001b[01;32m^master\u001b[00m\r\r\n"
+    ],
+    [
+      0.000006,
+      "$ "
+    ],
+    [
+      0.895638,
+      "\r\n"
+    ],
+    [
+      0.000192,
+      "\u001b[00;31mERROR 7\r\n"
+    ],
+    [
+      0.012423,
+      "\u001b[00;32mvojtechvitek\u001b[00m@MacBook-Pro\u001b[01;32m:\u001b[00;34m~/go/src/github.com/pressly/stackup/example\u001b[01;32m^master\u001b[00m\r\r\n$ "
+    ],
+    [
+      0.424659,
+      "#"
+    ],
+    [
+      0.337462,
+      " "
+    ],
+    [
+      0.099876,
+      "^"
+    ],
+    [
+      0.325321,
+      " "
+    ],
+    [
+      0.162373,
+      "N"
+    ],
+    [
+      0.224922,
+      "o"
+    ],
+    [
+      0.075251,
+      "t"
+    ],
+    [
+      0.274755,
+      " "
+    ],
+    [
+      0.112534,
+      "g"
+    ],
+    [
+      0.100501,
+      "o"
+    ],
+    [
+      0.136759,
+      "o"
+    ],
+    [
+      0.075315,
+      "d"
+    ],
+    [
+      0.124950,
+      ","
+    ],
+    [
+      0.099975,
+      " "
+    ],
+    [
+      0.100067,
+      "l"
+    ],
+    [
+      0.099656,
+      "e"
+    ],
+    [
+      0.112819,
+      "t"
+    ],
+    [
+      0.099899,
+      "'"
+    ],
+    [
+      0.100281,
+      "s"
+    ],
+    [
+      0.137021,
+      " "
+    ],
+    [
+      0.262830,
+      "r"
+    ],
+    [
+      0.062338,
+      "e"
+    ],
+    [
+      0.187666,
+      "d"
+    ],
+    [
+      0.150112,
+      "e"
+    ],
+    [
+      0.099844,
+      "p"
+    ],
+    [
+      0.137250,
+      "l"
+    ],
+    [
+      0.125324,
+      "o"
+    ],
+    [
+      0.074677,
+      "y"
+    ],
+    [
+      0.263029,
+      "."
+    ],
+    [
+      0.111944,
+      "."
+    ],
+    [
+      0.137877,
+      "."
+    ],
+    [
+      0.137398,
+      "\r\n"
+    ],
+    [
+      0.000400,
+      "\u001b[00;31mERROR 7\r\n"
+    ],
+    [
+      0.012543,
+      "\u001b[00;32mvojtechvitek\u001b[00m@MacBook-Pro\u001b[01;32m:\u001b[00;34m~/go/src/github.com/pressly/stackup/example\u001b[01;32m^master\u001b[00m\r\r\n$ "
+    ],
+    [
+      1.274336,
+      "\r\n"
+    ],
+    [
+      0.000373,
+      "\u001b[00;31mERROR 7\r\n"
+    ],
+    [
+      0.011410,
+      "\u001b[00;32mvojtechvitek\u001b[00m@MacBook-Pro\u001b[01;32m:\u001b[00;34m~/go/src/github.com/pressly/stackup/example\u001b[01;32m^master\u001b[00m\r\r\n$ "
+    ],
+    [
+      0.338225,
+      "s"
+    ],
+    [
+      0.125177,
+      "u"
+    ],
+    [
+      0.012474,
+      "p"
+    ],
+    [
+      0.137584,
+      " "
+    ],
+    [
+      0.124685,
+      "p"
+    ],
+    [
+      0.075419,
+      "r"
+    ],
+    [
+      0.099519,
+      "o"
+    ],
+    [
+      0.087862,
+      "d"
+    ],
+    [
+      0.150036,
+      " "
+    ],
+    [
+      0.249960,
+      "r"
+    ],
+    [
+      0.042199,
+      "e"
+    ],
+    [
+      0.270455,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.387115,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.087452,
+      "d"
+    ],
+    [
+      0.162483,
+      "e"
+    ],
+    [
+      0.100305,
+      "p"
+    ],
+    [
+      0.124716,
+      "l"
+    ],
+    [
+      0.137702,
+      "o"
+    ],
+    [
+      0.087244,
+      "y"
+    ],
+    [
+      0.175318,
+      "\r\n"
+    ],
+    [
+      1.418986,
+      "\u001b[32mubuntu@prod1.example.com:22 | + tar -C /tmp/pressly/example --checkpoint=100 --totals -xzf -\r\n"
+    ],
+    [
+      0.070663,
+      "\u001b[33mubuntu@prod2.example.com:22 | + tar -C /tmp/pressly/example --checkpoint=100 --totals -xzf -\r\n"
+    ],
+    [
+      0.922451,
+      "\u001b[36mubuntu@prod3.example.com:22 | + tar -C /tmp/pressly/example --checkpoint=100 --totals -xzf -\r\n"
+    ],
+    [
+      0.328343,
+      "\u001b[32mubuntu@prod1.example.com:22 | tar: Read checkpoint 100\r\n"
+    ],
+    [
+      0.032030,
+      "\u001b[36mubuntu@prod3.example.com:22 | tar: Read checkpoint 100\r\n"
+    ],
+    [
+      0.477335,
+      "\u001b[33mubuntu@prod2.example.com:22 | tar: Read checkpoint 100\r\n"
+    ],
+    [
+      0.039666,
+      "\u001b[32mubuntu@prod1.example.com:22 | tar: Read checkpoint 200\r\n"
+    ],
+    [
+      0.032347,
+      "\u001b[36mubuntu@prod3.example.com:22 | tar: Read checkpoint 200\r\n"
+    ],
+    [
+      0.036832,
+      "\u001b[32mubuntu@prod1.example.com:22 | tar: Read checkpoint 300\r\n"
+    ],
+    [
+      0.033958,
+      "\u001b[33mubuntu@prod2.example.com:22 | tar: Read checkpoint 200\r\n\u001b[33mubuntu@prod2.example.com:22 | tar: Read checkpoint 300\r\n"
+    ],
+    [
+      0.161572,
+      "\u001b[36mubuntu@prod3.example.com:22 | tar: Read checkpoint 300\r\n"
+    ],
+    [
+      0.083365,
+      "\u001b[32mubuntu@prod1.example.com:22 | tar: Read checkpoint 400\r\n"
+    ],
+    [
+      0.001592,
+      "\u001b[33mubuntu@prod2.example.com:22 | tar: Read checkpoint 400\r\n"
+    ],
+    [
+      0.066292,
+      "\u001b[36mubuntu@prod3.example.com:22 | tar: Read checkpoint 400\r\n"
+    ],
+    [
+      0.011447,
+      "\u001b[32mubuntu@prod1.example.com:22 | tar: Read checkpoint 500\r\n"
+    ],
+    [
+      0.001612,
+      "\u001b[33mubuntu@prod2.example.com:22 | tar: Read checkpoint 500\r\n"
+    ],
+    [
+      0.046659,
+      "\u001b[33mubuntu@prod2.example.com:22 | Total bytes read: 5836800 (5.6MiB, 4.7MiB/s)\r\n"
+    ],
+    [
+      0.001063,
+      "\u001b[32mubuntu@prod1.example.com:22 | Total bytes read: 5836800 (5.6MiB, 4.6MiB/s)\r\n"
+    ],
+    [
+      0.008639,
+      "\u001b[36mubuntu@prod3.example.com:22 | tar: Read checkpoint 500\r\n"
+    ],
+    [
+      0.031397,
+      "\u001b[36mubuntu@prod3.example.com:22 | Total bytes read: 5836800 (5.6MiB, 4.5MiB/s)\r\n"
+    ],
+    [
+      0.064839,
+      "\u001b[32mubuntu@prod1.example.com:22 | + set -e\r\n\u001b[32mubuntu@prod1.example.com:22 | + cd /tmp/pressly/example\r\n"
+    ],
+    [
+      0.000029,
+      "\u001b[32mubuntu@prod1.example.com:22 | + sudo rm -rf bin\r\n"
+    ],
+    [
+      0.007069,
+      "\u001b[32mubuntu@prod1.example.com:22 | ++ pwd\r\n"
+    ],
+    [
+      0.001448,
+      "\u001b[32mubuntu@prod1.example.com:22 | + sudo docker run --rm -v /tmp/pressly/example:/go/src/github.com/pressly/stackup/example -w /go/src/github.com/pressly/stackup/example golang:1.4 go build\r\n"
+    ],
+    [
+      0.055915,
+      "\u001b[33mubuntu@prod2.example.com:22 | + set -e\r\n\u001b[33mubuntu@prod2.example.com:22 | + cd /tmp/pressly/example\r\n\u001b[33mubuntu@prod2.example.com:22 | + sudo rm -rf bin\r\n"
+    ],
+    [
+      0.007628,
+      "\u001b[33mubuntu@prod2.example.com:22 | ++ pwd\r\n\u001b[33mubuntu@prod2.example.com:22 | + sudo docker run --rm -v /tmp/pressly/example:/go/src/github.com/pressly/stackup/example -w /go/src/github.com/pressly/stackup/example golang:1.4 go build\r\n"
+    ],
+    [
+      0.058848,
+      "\u001b[36mubuntu@prod3.example.com:22 | + set -e\r\n\u001b[36mubuntu@prod3.example.com:22 | + cd /tmp/pressly/example\r\n"
+    ],
+    [
+      0.000037,
+      "\u001b[36mubuntu@prod3.example.com:22 | + sudo rm -rf bin\r\n"
+    ],
+    [
+      0.012167,
+      "\u001b[36mubuntu@prod3.example.com:22 | ++ pwd\r\n"
+    ],
+    [
+      0.001355,
+      "\u001b[36mubuntu@prod3.example.com:22 | + sudo docker run --rm -v /tmp/pressly/example:/go/src/github.com/pressly/stackup/example -w /go/src/github.com/pressly/stackup/example golang:1.4 go build\r\n"
+    ],
+    [
+      0.631582,
+      "\u001b[32mubuntu@prod1.example.com:22 | + sudo docker build --no-cache -t pressly/example .\r\n"
+    ],
+    [
+      0.143081,
+      "\u001b[33mubuntu@prod2.example.com:22 | + sudo docker build --no-cache -t pressly/example .\r\n"
+    ],
+    [
+      0.029370,
+      "\u001b[32mubuntu@prod1.example.com:22 | Sending build context to Docker daemon 557.1 kB\rSending build context to Docker daemon 1.114 MB\rSending build context to Docker daemon 1.671 MB\rSending build context to Docker daemon 2.228 MB\rSending build context to Docker daemon 2.785 MB\rSending build context to Docker daemon 3.342 MB\rSending build context to Docker daemon 3.899 MB\rSending build context to Docker daemon 4.456 MB\rSending build context to Docker daemon 5.014 MB\rSending build context to Docker daemon 5.571 MB\rSending build context to Docker daemon 6.128 MB\rSending build context to Docker daemon 6.685 MB\rSending build context to Docker daemon 7.242 MB\rSending build context to Docker daemon 7.799 MB\rSending build context to Docker daemon 8.356 MB\rSending build context to Docker daemon 8.572 MB\r\r\r\n"
+    ],
+    [
+      0.000051,
+      "\u001b[32mubuntu@prod1.example.com:22 | Sending build context to Docker daemon \r\r\n\u001b[32mubuntu@prod1.example.com:22 | Step 0 : FROM ubuntu:14.04\r\n\u001b[32mubuntu@prod1.example.com:22 |  ---\u003e 07f8e8c5e660\r\n\u001b[32mubuntu@prod1.example.com:22 | Step 1 : COPY ./example /usr/bin/\r\n"
+    ],
+    [
+      0.112715,
+      "\u001b[32mubuntu@prod1.example.com:22 |  ---\u003e 4775a2bb6062\r\n"
+    ],
+    [
+      0.008892,
+      "\u001b[32mubuntu@prod1.example.com:22 | Removing intermediate container 02d5d6077f4c\r\n\u001b[32mubuntu@prod1.example.com:22 | Step 2 : EXPOSE 8000\r\n"
+    ],
+    [
+      0.048895,
+      "\u001b[32mubuntu@prod1.example.com:22 |  ---\u003e Running in 162b3c9c3c97\r\n"
+    ],
+    [
+      0.029073,
+      "\u001b[33mubuntu@prod2.example.com:22 | Sending build context to Docker daemon 557.1 kB\rSending build context to Docker daemon 1.114 MB\rSending build context to Docker daemon 1.671 MB\rSending build context to Docker daemon 2.228 MB\rSending build context to Docker daemon 2.785 MB\rSending build context to Docker daemon 3.342 MB\rSending build context to Docker daemon 3.899 MB\rSending build context to Docker daemon 4.456 MB\rSending build context to Docker daemon 5.014 MB\rSending build context to Docker daemon 5.571 MB\rSending build context to Docker daemon 6.128 MB\rSending build context to Docker daemon 6.685 MB\rSending build context to Docker daemon 7.242 MB\rSending build context to Docker daemon 7.799 MB\rSending build context to Docker daemon 8.356 MB\rSending build context to Docker daemon 8.572 MB\r\r\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[33mubuntu@prod2.example.com:22 | Sending build context to Docker daemon \r\r\n"
+    ],
+    [
+      0.002447,
+      "\u001b[33mubuntu@prod2.example.com:22 | Step 0 : FROM ubuntu:14.04\r\n"
+    ],
+    [
+      0.003863,
+      "\u001b[33mubuntu@prod2.example.com:22 |  ---\u003e 07f8e8c5e660\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[33mubuntu@prod2.example.com:22 | Step 1 : COPY ./example /usr/bin/\r\n"
+    ],
+    [
+      0.009182,
+      "\u001b[32mubuntu@prod1.example.com:22 |  ---\u003e d83640752544\r\n"
+    ],
+    [
+      0.009607,
+      "\u001b[32mubuntu@prod1.example.com:22 | Removing intermediate container 162b3c9c3c97\r\n\u001b[32mubuntu@prod1.example.com:22 | Step 3 : CMD /usr/bin/example\r\n"
+    ],
+    [
+      0.032413,
+      "\u001b[36mubuntu@prod3.example.com:22 | + sudo docker build --no-cache -t pressly/example .\r\n"
+    ],
+    [
+      0.067186,
+      "\u001b[32mubuntu@prod1.example.com:22 |  ---\u003e Running in 7713334ea7ca\r\n\u001b[32mubuntu@prod1.example.com:22 |  ---\u003e ef7dc61d0b8c\r\n"
+    ],
+    [
+      0.008630,
+      "\u001b[32mubuntu@prod1.example.com:22 | Removing intermediate container 7713334ea7ca\r\n\u001b[32mubuntu@prod1.example.com:22 | Successfully built ef7dc61d0b8c\r\n"
+    ],
+    [
+      0.029039,
+      "\u001b[33mubuntu@prod2.example.com:22 |  ---\u003e 77f5ca27ee6a\r\n"
+    ],
+    [
+      0.009383,
+      "\u001b[33mubuntu@prod2.example.com:22 | Removing intermediate container 36fadb33e451\r\n"
+    ],
+    [
+      0.001590,
+      "\u001b[33mubuntu@prod2.example.com:22 | Step 2 : EXPOSE 8000\r\n"
+    ],
+    [
+      0.052478,
+      "\u001b[33mubuntu@prod2.example.com:22 |  ---\u003e Running in 70c26ea038be\r\n"
+    ],
+    [
+      0.042569,
+      "\u001b[33mubuntu@prod2.example.com:22 |  ---\u003e 663489a75178\r\n"
+    ],
+    [
+      0.008835,
+      "\u001b[33mubuntu@prod2.example.com:22 | Removing intermediate container 70c26ea038be\r\n\u001b[33mubuntu@prod2.example.com:22 | Step 3 : CMD /usr/bin/example\r\n"
+    ],
+    [
+      0.099907,
+      "\u001b[36mubuntu@prod3.example.com:22 | Sending build context to Docker daemon 557.1 kB\rSending build context to Docker daemon 1.114 MB\rSending build context to Docker daemon 1.671 MB\rSending build context to Docker daemon 2.228 MB\rSending build context to Docker daemon 2.785 MB\rSending build context to Docker daemon 3.342 MB\rSending build context to Docker daemon 3.899 MB\rSending build context to Docker daemon 4.456 MB\rSending build context to Docker daemon 5.014 MB\rSending build context to Docker daemon 5.571 MB\rSending build context to Docker daemon 6.128 MB\rSending build context to Docker daemon 6.685 MB\rSending build context to Docker daemon 7.242 MB\rSending build context to Docker daemon 7.799 MB\rSending build context to Docker daemon 8.356 MB\rSending build context to Docker daemon 8.572 MB\r\r\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[36mubuntu@prod3.example.com:22 | Sending build context to Docker daemon \r\r\n"
+    ],
+    [
+      0.008202,
+      "\u001b[36mubuntu@prod3.example.com:22 | Step 0 : FROM ubuntu:14.04\r\n\u001b[36mubuntu@prod3.example.com:22 |  ---\u003e 07f8e8c5e660\r\n\u001b[36mubuntu@prod3.example.com:22 | Step 1 : COPY ./example /usr/bin/\r\n"
+    ],
+    [
+      0.040965,
+      "\u001b[33mubuntu@prod2.example.com:22 |  ---\u003e Running in 0c764382cde6\r\n"
+    ],
+    [
+      0.124722,
+      "\u001b[33mubuntu@prod2.example.com:22 |  ---\u003e fe8d5346f62f\r\n"
+    ],
+    [
+      0.007699,
+      "\u001b[33mubuntu@prod2.example.com:22 | Removing intermediate container 0c764382cde6\r\n\u001b[33mubuntu@prod2.example.com:22 | Successfully built fe8d5346f62f\r\n"
+    ],
+    [
+      0.521298,
+      "\u001b[36mubuntu@prod3.example.com:22 |  ---\u003e 00e35ce70509\r\n\u001b[36mubuntu@prod3.example.com:22 | Removing intermediate container 0d0e683d31a6\r\n"
+    ],
+    [
+      0.001451,
+      "\u001b[36mubuntu@prod3.example.com:22 | Step 2 : EXPOSE 8000\r\n"
+    ],
+    [
+      0.120325,
+      "\u001b[36mubuntu@prod3.example.com:22 |  ---\u003e Running in d7762d46d195\r\n"
+    ],
+    [
+      0.195288,
+      "\u001b[36mubuntu@prod3.example.com:22 |  ---\u003e 7047f85c9fd8\r\n"
+    ],
+    [
+      0.013719,
+      "\u001b[36mubuntu@prod3.example.com:22 | Removing intermediate container d7762d46d195\r\n\u001b[36mubuntu@prod3.example.com:22 | Step 3 : CMD /usr/bin/example\r\n"
+    ],
+    [
+      0.144817,
+      "\u001b[36mubuntu@prod3.example.com:22 |  ---\u003e Running in 9e6c12571920\r\n"
+    ],
+    [
+      0.136393,
+      "\u001b[36mubuntu@prod3.example.com:22 |  ---\u003e 7343f663d12e\r\n"
+    ],
+    [
+      0.007721,
+      "\u001b[36mubuntu@prod3.example.com:22 | Removing intermediate container 9e6c12571920\r\n\u001b[36mubuntu@prod3.example.com:22 | Successfully built 7343f663d12e\r\n"
+    ],
+    [
+      0.108935,
+      "\u001b[32mubuntu@prod1.example.com:22 | + sudo docker images\r\n\u001b[32mubuntu@prod1.example.com:22 | + grep pressly/example\r\n"
+    ],
+    [
+      0.071284,
+      "\u001b[33mubuntu@prod2.example.com:22 | + sudo docker images\r\n\u001b[33mubuntu@prod2.example.com:22 | + grep pressly/example\r\n"
+    ],
+    [
+      0.128383,
+      "\u001b[36mubuntu@prod3.example.com:22 | + sudo docker images\r\n\u001b[36mubuntu@prod3.example.com:22 | + grep pressly/example\r\n"
+    ],
+    [
+      0.000145,
+      "\u001b[33mubuntu@prod2.example.com:22 | pressly/example     latest              fe8d5346f62f        1 seconds ago       194.2 MB\r\n"
+    ],
+    [
+      0.123693,
+      "\u001b[32mubuntu@prod1.example.com:22 | pressly/example     latest              ef7dc61d0b8c        2 seconds ago       194.2 MB\r\n"
+    ],
+    [
+      0.008501,
+      "\u001b[36mubuntu@prod3.example.com:22 | pressly/example     latest              7343f663d12e        Less than a second ago   194.2 MB\r\n"
+    ],
+    [
+      0.078444,
+      "\u001b[32mubuntu@prod1.example.com:22 | + tar -C /tmp/ --checkpoint=100 --totals -xzf -\r\n"
+    ],
+    [
+      0.064362,
+      "\u001b[33mubuntu@prod2.example.com:22 | + tar -C /tmp/ --checkpoint=100 --totals -xzf -\r\n"
+    ],
+    [
+      0.066539,
+      "\u001b[36mubuntu@prod3.example.com:22 | + tar -C /tmp/ --checkpoint=100 --totals -xzf -\r\n"
+    ],
+    [
+      0.066620,
+      "\u001b[32mubuntu@prod1.example.com:22 | Total bytes read: 10240 (10KiB, 23MiB/s)\r\n"
+    ],
+    [
+      0.001266,
+      "\u001b[33mubuntu@prod2.example.com:22 | Total bytes read: 10240 (10KiB, 20MiB/s)\r\n"
+    ],
+    [
+      0.000034,
+      "\u001b[36mubuntu@prod3.example.com:22 | Total bytes read: 10240 (10KiB, 9.5MiB/s)\r\n"
+    ],
+    [
+      0.068641,
+      "\u001b[32mubuntu@prod1.example.com:22 | + test -f /tmp/example.prod.cfg\r\n"
+    ],
+    [
+      0.071869,
+      "\u001b[33mubuntu@prod2.example.com:22 | + test -f /tmp/example.prod.cfg\r\n"
+    ],
+    [
+      0.066723,
+      "\u001b[36mubuntu@prod3.example.com:22 | + test -f /tmp/example.prod.cfg\r\n"
+    ],
+    [
+      0.067738,
+      "\u001b[32mubuntu@prod1.example.com:22 | + sudo docker stop example\r\n"
+    ],
+    [
+      0.022224,
+      "\u001b[32mubuntu@prod1.example.com:22 | Error response from daemon: no such id: example\r\n\u001b[32mubuntu@prod1.example.com:22 | time=\"2015-05-08T15:15:05Z\" level=fatal msg=\"Error: failed to stop one or more containers\" \r\n"
+    ],
+    [
+      0.004149,
+      "\u001b[32mubuntu@prod1.example.com:22 | + exit 0\r\n"
+    ],
+    [
+      0.036564,
+      "\u001b[33mubuntu@prod2.example.com:22 | + sudo docker stop example\r\n"
+    ],
+    [
+      0.024461,
+      "\u001b[33mubuntu@prod2.example.com:22 | Error response from daemon: no such id: example\r\n\u001b[33mubuntu@prod2.example.com:22 | time=\"2015-05-08T15:15:05Z\" level=fatal msg=\"Error: failed to stop one or more containers\" \r\n\u001b[33mubuntu@prod2.example.com:22 | + exit 0\r\n"
+    ],
+    [
+      0.042866,
+      "\u001b[36mubuntu@prod3.example.com:22 | + sudo docker stop example\r\n"
+    ],
+    [
+      0.029624,
+      "\u001b[36mubuntu@prod3.example.com:22 | Error response from daemon: no such id: example\r\n\u001b[36mubuntu@prod3.example.com:22 | time=\"2015-05-08T15:15:05Z\" level=fatal msg=\"Error: failed to stop one or more containers\" \r\n"
+    ],
+    [
+      0.002792,
+      "\u001b[36mubuntu@prod3.example.com:22 | + exit 0\r\n"
+    ],
+    [
+      0.086222,
+      "\u001b[32mubuntu@prod1.example.com:22 | + sudo docker rm example\r\n"
+    ],
+    [
+      0.022459,
+      "\u001b[32mubuntu@prod1.example.com:22 | Error response from daemon: no such id: example\r\n\u001b[32mubuntu@prod1.example.com:22 | time=\"2015-05-08T15:15:05Z\" level=fatal msg=\"Error: failed to remove one or more containers\" \r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[32mubuntu@prod1.example.com:22 | + exit 0\r\n"
+    ],
+    [
+      0.049001,
+      "\u001b[33mubuntu@prod2.example.com:22 | + sudo docker rm example\r\n"
+    ],
+    [
+      0.017303,
+      "\u001b[33mubuntu@prod2.example.com:22 | Error response from daemon: no such id: example\r\n\u001b[33mubuntu@prod2.example.com:22 | time=\"2015-05-08T15:15:05Z\" level=fatal msg=\"Error: failed to remove one or more containers\" \r\n"
+    ],
+    [
+      0.001317,
+      "\u001b[33mubuntu@prod2.example.com:22 | + exit 0\r\n"
+    ],
+    [
+      0.051601,
+      "\u001b[36mubuntu@prod3.example.com:22 | + sudo docker rm example\r\n"
+    ],
+    [
+      0.028974,
+      "\u001b[36mubuntu@prod3.example.com:22 | Error response from daemon: no such id: example\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[36mubuntu@prod3.example.com:22 | time=\"2015-05-08T15:15:05Z\" level=fatal msg=\"Error: failed to remove one or more containers\" \r\n"
+    ],
+    [
+      0.000909,
+      "\u001b[36mubuntu@prod3.example.com:22 | + exit 0\r\n"
+    ],
+    [
+      0.065585,
+      "\u001b[32mubuntu@prod1.example.com:22 | + set -e\r\n\u001b[32mubuntu@prod1.example.com:22 | + sudo docker run -d -p 8000:8000 -v /tmp/example.prod.cfg:/etc/example.cfg --restart=always --name example pressly/example\r\n"
+    ],
+    [
+      0.073617,
+      "\u001b[33mubuntu@prod2.example.com:22 | + set -e\r\n\u001b[33mubuntu@prod2.example.com:22 | + sudo docker run -d -p 8000:8000 -v /tmp/example.prod.cfg:/etc/example.cfg --restart=always --name example pressly/example\r\n"
+    ],
+    [
+      0.011374,
+      "\u001b[32mubuntu@prod1.example.com:22 | 9a1fe2ede9dafcc4afd5e23a6791f5a0d50d39d041bbbb5b71b9e4415d05a24b\r\n"
+    ],
+    [
+      0.052798,
+      "\u001b[36mubuntu@prod3.example.com:22 | + set -e\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[36mubuntu@prod3.example.com:22 | + sudo docker run -d -p 8000:8000 -v /tmp/example.prod.cfg:/etc/example.cfg --restart=always --name example pressly/example\r\n"
+    ],
+    [
+      0.023864,
+      "\u001b[33mubuntu@prod2.example.com:22 | 2070ae240b0b065b139784ffdc4f7177a8088aecb61b8cd0ba635f1467fcee4e\r\n"
+    ],
+    [
+      0.155951,
+      "\u001b[36mubuntu@prod3.example.com:22 | a396185d64aaabd08def6e6ab55dc69df006dd1c9cc380fd4489791a557d47f7\r\n"
+    ],
+    [
+      0.537100,
+      "\u001b[32mubuntu@prod1.example.com:22 | + sudo docker ps\r\n\u001b[32mubuntu@prod1.example.com:22 | + grep example\r\n"
+    ],
+    [
+      0.021692,
+      "\u001b[32mubuntu@prod1.example.com:22 | 9a1fe2ede9da        pressly/example:latest   \"/usr/bin/example\"     1 seconds ago       Up Less than a second   0.0.0.0:8000-\u003e8000/tcp   example             \r\n"
+    ],
+    [
+      0.044587,
+      "\u001b[33mubuntu@prod2.example.com:22 | + sudo docker ps\r\n\u001b[33mubuntu@prod2.example.com:22 | + grep example\r\n"
+    ],
+    [
+      0.021352,
+      "\u001b[33mubuntu@prod2.example.com:22 | 2070ae240b0b        pressly/example:latest   \"/usr/bin/example\"     Less than a second ago   Up Less than a second   0.0.0.0:8000-\u003e8000/tcp   example             \r\n"
+    ],
+    [
+      0.062252,
+      "\u001b[36mubuntu@prod3.example.com:22 | + grep example\r\n"
+    ],
+    [
+      0.001399,
+      "\u001b[36mubuntu@prod3.example.com:22 | + sudo docker ps\r\n"
+    ],
+    [
+      0.029146,
+      "\u001b[36mubuntu@prod3.example.com:22 | a396185d64aa        pressly/example:latest   \"/usr/bin/example\"     Less than a second ago   Up Less than a second   0.0.0.0:8000-\u003e8000/tcp   example             \r\n"
+    ],
+    [
+      0.066810,
+      "\u001b[32mubuntu@prod1.example.com:22 | + sudo docker logs example\r\n"
+    ],
+    [
+      0.068819,
+      "\u001b[33mubuntu@prod2.example.com:22 | + sudo docker logs example\r\n"
+    ],
+    [
+      0.071729,
+      "\u001b[36mubuntu@prod3.example.com:22 | + sudo docker logs example\r\n"
+    ],
+    [
+      0.115142,
+      "\u001b[32mubuntu@prod1.example.com:22 | + curl localhost:8000\r\n"
+    ],
+    [
+      0.042553,
+      "\u001b[32mubuntu@prod1.example.com:22 |   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\r\n"
+    ],
+    [
+      0.000067,
+      "\u001b[32mubuntu@prod1.example.com:22 |                                  Dload  Upload   Total   Spent    Left  Speed\r\n"
+    ],
+    [
+      0.000017,
+      "\u001b[32mubuntu@prod1.example.com:22 | \r  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\r100    17  100    17    0     0   7261      0 --:--:-- --:--:-- --:--:--  8500\r\n"
+    ],
+    [
+      0.002336,
+      "\u001b[32mubuntu@prod1.example.com:22 | Hello production\r\n"
+    ],
+    [
+      0.020736,
+      "\u001b[33mubuntu@prod2.example.com:22 | + curl localhost:8000\r\n"
+    ],
+    [
+      0.033929,
+      "\u001b[33mubuntu@prod2.example.com:22 |   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\r\n"
+    ],
+    [
+      0.000047,
+      "\u001b[33mubuntu@prod2.example.com:22 |                                  Dload  Upload   Total   Spent    Left  Speed\r\n\u001b[33mubuntu@prod2.example.com:22 | \r  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\r100    17  100    17    0     0  13676      0 --:--:-- --:--:-- --:--:-- 17000\r\n"
+    ],
+    [
+      0.000136,
+      "\u001b[33mubuntu@prod2.example.com:22 | Hello production\r\n"
+    ],
+    [
+      0.031783,
+      "\u001b[36mubuntu@prod3.example.com:22 | + curl localhost:8000\r\n"
+    ],
+    [
+      0.033987,
+      "\u001b[36mubuntu@prod3.example.com:22 |   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\r\n"
+    ],
+    [
+      0.000059,
+      "\u001b[36mubuntu@prod3.example.com:22 |                                  Dload  Upload   Total   Spent    Left  Speed\r\n"
+    ],
+    [
+      0.000126,
+      "\u001b[36mubuntu@prod3.example.com:22 | \r  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\r100    17  100    17    0     0   3155      0 --:--:-- --:--:-- --:--:--  3400\r\n"
+    ],
+    [
+      0.000016,
+      "\u001b[36mubuntu@prod3.example.com:22 | Hello production\r\n"
+    ],
+    [
+      1.023520,
+      "\u001b[00;32mvojtechvitek\u001b[00m@MacBook-Pro\u001b[01;32m:\u001b[00;34m~/go/src/github.com/pressly/stackup/example\u001b[01;32m^master\u001b[00m\r\r\n$ "
+    ],
+    [
+      0.204853,
+      "\r\n"
+    ],
+    [
+      0.012436,
+      "\u001b[00;32mvojtechvitek\u001b[00m@MacBook-Pro\u001b[01;32m:\u001b[00;34m~/go/src/github.com/pressly/stackup/example\u001b[01;32m^master\u001b[00m\r\r\n"
+    ],
+    [
+      0.000005,
+      "$ "
+    ],
+    [
+      0.712216,
+      "s"
+    ],
+    [
+      0.150126,
+      "u"
+    ],
+    [
+      0.012630,
+      "p"
+    ],
+    [
+      1.087515,
+      " "
+    ],
+    [
+      0.225046,
+      "p"
+    ],
+    [
+      0.074715,
+      "r"
+    ],
+    [
+      0.099912,
+      "o"
+    ],
+    [
+      0.100023,
+      "d"
+    ],
+    [
+      0.537480,
+      " "
+    ],
+    [
+      0.187849,
+      "h"
+    ],
+    [
+      0.074705,
+      "e"
+    ],
+    [
+      0.149991,
+      "l"
+    ],
+    [
+      0.100014,
+      "a"
+    ],
+    [
+      0.375320,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.100134,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.048488,
+      "a"
+    ],
+    [
+      0.113621,
+      "l"
+    ],
+    [
+      0.075188,
+      "t"
+    ],
+    [
+      0.112711,
+      "h"
+    ],
+    [
+      0.112063,
+      "\r\n"
+    ],
+    [
+      1.398249,
+      "\u001b[32mubuntu@prod1.example.com:22 | + curl localhost:8000\r\n"
+    ],
+    [
+      0.004032,
+      "\u001b[32mubuntu@prod1.example.com:22 |   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\r\n\u001b[32mubuntu@prod1.example.com:22 |                                  Dload  Upload   Total   Spent    Left  Speed\r\n"
+    ],
+    [
+      0.008188,
+      "\u001b[32mubuntu@prod1.example.com:22 | \r  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\r100    17  100    17    0     0   3452      0 --:--:-- --:--:-- --:--:--  4250\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[32mubuntu@prod1.example.com:22 | Hello production\r\n"
+    ],
+    [
+      0.060329,
+      "\u001b[33mubuntu@prod2.example.com:22 | + curl localhost:8000\r\n\u001b[33mubuntu@prod2.example.com:22 |   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\r\n\u001b[33mubuntu@prod2.example.com:22 |                                  Dload  Upload   Total   Spent    Left  Speed\r\n"
+    ],
+    [
+      0.002692,
+      "\u001b[33mubuntu@prod2.example.com:22 | \r  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\r100    17  100    17    0     0   3466      0 --:--:-- --:--:-- --:--:--  4250\r\n"
+    ],
+    [
+      0.002836,
+      "\u001b[33mubuntu@prod2.example.com:22 | Hello production\r\n"
+    ],
+    [
+      0.671079,
+      "\u001b[36mubuntu@prod3.example.com:22 | + curl localhost:8000\r\n"
+    ],
+    [
+      0.031129,
+      "\u001b[36mubuntu@prod3.example.com:22 |   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\r\n"
+    ],
+    [
+      0.000115,
+      "\u001b[36mubuntu@prod3.example.com:22 |                                  Dload  Upload   Total   Spent    Left  Speed\r\n"
+    ],
+    [
+      0.000292,
+      "\u001b[36mubuntu@prod3.example.com:22 | \r  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\r100    17  100    17    0     0   9174      0 --:--:-- --:--:-- --:--:-- 17000\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[36mubuntu@prod3.example.com:22 | Hello production\r\n"
+    ],
+    [
+      1.016421,
+      "\u001b[00;32mvojtechvitek\u001b[00m@MacBook-Pro\u001b[01;32m:\u001b[00;34m~/go/src/github.com/pressly/stackup/example\u001b[01;32m^master\u001b[00m\r\r\n$ "
+    ],
+    [
+      0.592352,
+      "\r\n"
+    ],
+    [
+      0.012265,
+      "\u001b[00;32mvojtechvitek\u001b[00m@MacBook-Pro\u001b[01;32m:\u001b[00;34m~/go/src/github.com/pressly/stackup/example\u001b[01;32m^master\u001b[00m\r\r\n$ "
+    ],
+    [
+      0.487685,
+      "#"
+    ],
+    [
+      0.237405,
+      " "
+    ],
+    [
+      0.175054,
+      "^"
+    ],
+    [
+      0.250054,
+      " "
+    ],
+    [
+      0.199885,
+      "W"
+    ],
+    [
+      0.200164,
+      "e"
+    ],
+    [
+      0.412184,
+      "'"
+    ],
+    [
+      0.100082,
+      "r"
+    ],
+    [
+      0.075204,
+      "e"
+    ],
+    [
+      0.100224,
+      " "
+    ],
+    [
+      0.162280,
+      "g"
+    ],
+    [
+      0.074816,
+      "o"
+    ],
+    [
+      0.124992,
+      "o"
+    ],
+    [
+      0.075230,
+      "d"
+    ],
+    [
+      0.287166,
+      "!"
+    ],
+    [
+      0.250078,
+      "\r\n"
+    ],
+    [
+      0.011937,
+      "\u001b[00;32mvojtechvitek\u001b[00m@MacBook-Pro\u001b[01;32m:\u001b[00;34m~/go/src/github.com/pressly/stackup/example\u001b[01;32m^master\u001b[00m\r\r\n$ "
+    ],
+    [
+      0.976077,
+      "\r\n"
+    ],
+    [
+      0.012262,
+      "\u001b[00;32mvojtechvitek\u001b[00m@MacBook-Pro\u001b[01;32m:\u001b[00;34m~/go/src/github.com/pressly/stackup/example\u001b[01;32m^master\u001b[00m\r\r\n$ "
+    ],
+    [
+      0.237610,
+      "s"
+    ],
+    [
+      0.124965,
+      "u"
+    ],
+    [
+      0.024963,
+      "p"
+    ],
+    [
+      0.149656,
+      " "
+    ],
+    [
+      0.112512,
+      "p"
+    ],
+    [
+      0.075318,
+      "r"
+    ],
+    [
+      0.112552,
+      "o"
+    ],
+    [
+      0.074677,
+      "d"
+    ],
+    [
+      0.100258,
+      " "
+    ],
+    [
+      0.174686,
+      "t"
+    ],
+    [
+      0.075330,
+      "a"
+    ],
+    [
+      0.112504,
+      "i"
+    ],
+    [
+      0.062229,
+      "l"
+    ],
+    [
+      0.262510,
+      "-"
+    ],
+    [
+      0.174990,
+      "l"
+    ],
+    [
+      0.137461,
+      "o"
+    ],
+    [
+      0.062803,
+      "g"
+    ],
+    [
+      0.074708,
+      "s"
+    ],
+    [
+      0.175368,
+      "\r\n"
+    ],
+    [
+      1.319240,
+      "\u001b[32mubuntu@prod1.example.com:22 | + sudo docker logs --tail=20 -f example\r\n"
+    ],
+    [
+      0.035153,
+      "\u001b[32mubuntu@prod1.example.com:22 | 2015/05/08 15:15:07 Request from \"curl/7.37...\" (localhost:8000)\r\n\u001b[32mubuntu@prod1.example.com:22 | 2015/05/08 15:15:07 Response 200 OK\r\n"
+    ],
+    [
+      0.000092,
+      "\u001b[32mubuntu@prod1.example.com:22 | 2015/05/08 15:15:08 Request from \"curl/7.37...\" (localhost:8000)\r\n\u001b[32mubuntu@prod1.example.com:22 | 2015/05/08 15:15:08 Response 200 OK\r\n\u001b[32mubuntu@prod1.example.com:22 | 2015/05/08 15:15:12 Request from \"curl/7.37...\" (localhost:8000)\r\n"
+    ],
+    [
+      0.000035,
+      "\u001b[32mubuntu@prod1.example.com:22 | 2015/05/08 15:15:12 Response 200 OK\r\n\u001b[32mubuntu@prod1.example.com:22 | 2015/05/08 15:15:14 Request from \"curl/7.37...\" (localhost:8000)\r\n"
+    ],
+    [
+      0.000016,
+      "\u001b[32mubuntu@prod1.example.com:22 | 2015/05/08 15:15:14 Response 200 OK\r\n\u001b[32mubuntu@prod1.example.com:22 | 2015/05/08 15:15:15 Request from \"curl/7.37...\" (localhost:8000)\r\n\u001b[32mubuntu@prod1.example.com:22 | 2015/05/08 15:15:15 Response 200 OK\r\n"
+    ],
+    [
+      0.031656,
+      "\u001b[32mubuntu@prod1.example.com:22 | 2015/05/08 15:15:18 Request from \"curl/7.37...\" (localhost:8000)\r\n"
+    ],
+    [
+      0.000015,
+      "\u001b[32mubuntu@prod1.example.com:22 | 2015/05/08 15:15:18 Response 200 OK\r\n\u001b[32mubuntu@prod1.example.com:22 | 2015/05/08 15:15:22 Request from \"curl/7.37...\" (localhost:8000)\r\n\u001b[32mubuntu@prod1.example.com:22 | 2015/05/08 15:15:22 Response 200 OK\r\n"
+    ],
+    [
+      0.047931,
+      "\u001b[33mubuntu@prod2.example.com:22 | + sudo docker logs --tail=20 -f example\r\n"
+    ],
+    [
+      0.045373,
+      "\u001b[33mubuntu@prod2.example.com:22 | 2015/05/08 15:15:07 Request from \"curl/7.37...\" (localhost:8000)\r\n\u001b[33mubuntu@prod2.example.com:22 | 2015/05/08 15:15:07 Response 200 OK\r\n"
+    ],
+    [
+      0.002327,
+      "\u001b[33mubuntu@prod2.example.com:22 | 2015/05/08 15:15:09 Request from \"curl/7.37...\" (localhost:8000)\r\n\u001b[33mubuntu@prod2.example.com:22 | 2015/05/08 15:15:09 Response 200 OK\r\n\u001b[33mubuntu@prod2.example.com:22 | 2015/05/08 15:15:13 Request from \"curl/7.37...\" (localhost:8000)\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[33mubuntu@prod2.example.com:22 | 2015/05/08 15:15:13 Response 200 OK\r\n\u001b[33mubuntu@prod2.example.com:22 | 2015/05/08 15:15:14 Request from \"curl/7.37...\" (localhost:8000)\r\n\u001b[33mubuntu@prod2.example.com:22 | 2015/05/08 15:15:14 Response 200 OK\r\n\u001b[33mubuntu@prod2.example.com:22 | 2015/05/08 15:15:16 Request from \"curl/7.37...\" (localhost:8000)\r\n\u001b[33mubuntu@prod2.example.com:22 | 2015/05/08 15:15:16 Response 200 OK\r\n\u001b[33mubuntu@prod2.example.com:22 | 2015/05/08 15:15:19 Request from \"curl/7.37...\" (localhost:8000)\r\n\u001b[33mubuntu@prod2.example.com:22 | 2015/05/08 15:15:19 Response 200 OK\r\n\u001b[33mubuntu@prod2.example.com:22 | 2015/05/08 15:15:23 Request from \"curl/7.37...\" (localhost:8000)\r\n"
+    ],
+    [
+      0.000856,
+      "\u001b[33mubuntu@prod2.example.com:22 | 2015/05/08 15:15:23 Response 200 OK\r\n"
+    ],
+    [
+      0.644344,
+      "\u001b[36mubuntu@prod3.example.com:22 | + sudo docker logs --tail=20 -f example\r\n"
+    ],
+    [
+      0.031813,
+      "\u001b[36mubuntu@prod3.example.com:22 | 2015/05/08 15:15:07 Request from \"curl/7.37...\" (localhost:8000)\r\n\u001b[36mubuntu@prod3.example.com:22 | 2015/05/08 15:15:07 Response 200 OK\r\n"
+    ],
+    [
+      0.000166,
+      "\u001b[36mubuntu@prod3.example.com:22 | 2015/05/08 15:15:07 Request from \"curl/7.37...\" (localhost:8000)\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[36mubuntu@prod3.example.com:22 | 2015/05/08 15:15:07 Response 200 OK\r\n"
+    ],
+    [
+      0.001392,
+      "\u001b[36mubuntu@prod3.example.com:22 | 2015/05/08 15:15:10 Request from \"curl/7.37...\" (localhost:8000)\r\n\u001b[36mubuntu@prod3.example.com:22 | 2015/05/08 15:15:10 Response 200 OK\r\n\u001b[36mubuntu@prod3.example.com:22 | 2015/05/08 15:15:14 Request from \"curl/7.37...\" (localhost:8000)\r\n"
+    ],
+    [
+      0.000015,
+      "\u001b[36mubuntu@prod3.example.com:22 | 2015/05/08 15:15:14 Response 200 OK\r\n\u001b[36mubuntu@prod3.example.com:22 | 2015/05/08 15:15:15 Request from \"curl/7.37...\" (localhost:8000)\r\n\u001b[36mubuntu@prod3.example.com:22 | 2015/05/08 15:15:15 Response 200 OK\r\n\u001b[36mubuntu@prod3.example.com:22 | 2015/05/08 15:15:17 Request from \"curl/7.37...\" (localhost:8000)\r\n\u001b[36mubuntu@prod3.example.com:22 | 2015/05/08 15:15:17 Response 200 OK\r\n\u001b[36mubuntu@prod3.example.com:22 | 2015/05/08 15:15:21 Request from \"curl/7.37...\" (localhost:8000)\r\n\u001b[36mubuntu@prod3.example.com:22 | 2015/05/08 15:15:21 Response 200 OK\r\n\u001b[36mubuntu@prod3.example.com:22 | 2015/05/08 15:15:24 Request from \"curl/7.37...\" (localhost:8000)\r\n"
+    ],
+    [
+      0.039328,
+      "\u001b[36mubuntu@prod3.example.com:22 | 2015/05/08 15:15:24 Response 200 OK\r\n"
+    ],
+    [
+      0.075741,
+      "\u001b[32mubuntu@prod1.example.com:22 | 2015/05/08 15:15:25 Request from \"curl/7.37...\" (localhost:8000)\r\n\u001b[32mubuntu@prod1.example.com:22 | 2015/05/08 15:15:25 Response 200 OK\r\n"
+    ],
+    [
+      0.865331,
+      "\u001b[33mubuntu@prod2.example.com:22 | 2015/05/08 15:15:26 Request from \"curl/7.37...\" (localhost:8000)\r\n"
+    ],
+    [
+      0.000184,
+      "\u001b[33mubuntu@prod2.example.com:22 | 2015/05/08 15:15:26 Response 200 OK\r\n"
+    ],
+    [
+      1.535483,
+      "\u001b[36mubuntu@prod3.example.com:22 | 2015/05/08 15:15:28 Request from \"curl/7.37...\" (localhost:8000)\r\n\u001b[36mubuntu@prod3.example.com:22 | 2015/05/08 15:15:28 Response 200 OK\r\n"
+    ],
+    [
+      1.216559,
+      "\u001b[32mubuntu@prod1.example.com:22 | 2015/05/08 15:15:29 Request from \"curl/7.37...\" (localhost:8000)\r\n\u001b[32mubuntu@prod1.example.com:22 | 2015/05/08 15:15:29 Response 200 OK\r\n"
+    ],
+    [
+      0.962632,
+      "\u001b[33mubuntu@prod2.example.com:22 | 2015/05/08 15:15:30 Request from \"curl/7.37...\" (localhost:8000)\r\n\u001b[33mubuntu@prod2.example.com:22 | 2015/05/08 15:15:30 Response 200 OK\r\n"
+    ],
+    [
+      0.394429,
+      "^C"
+    ],
+    [
+      0.001520,
+      "\u001b[00;31mERROR 2\r\n"
+    ],
+    [
+      0.011737,
+      "\u001b[00;32mvojtechvitek\u001b[00m@MacBook-Pro\u001b[01;32m:\u001b[00;34m~/go/src/github.com/pressly/stackup/example\u001b[01;32m^master\u001b[00m\r\r\n$ "
+    ],
+    [
+      0.611180,
+      " "
+    ],
+    [
+      0.137796,
+      "#"
+    ],
+    [
+      0.200072,
+      " "
+    ],
+    [
+      0.187636,
+      "^"
+    ],
+    [
+      0.124596,
+      " "
+    ],
+    [
+      0.337786,
+      "T"
+    ],
+    [
+      0.174905,
+      "a"
+    ],
+    [
+      0.075031,
+      "i"
+    ],
+    [
+      0.074996,
+      "l"
+    ],
+    [
+      0.137244,
+      " "
+    ],
+    [
+      0.225266,
+      "l"
+    ],
+    [
+      0.149659,
+      "o"
+    ],
+    [
+      0.062605,
+      "g"
+    ],
+    [
+      0.162444,
+      "s"
+    ],
+    [
+      0.112838,
+      " "
+    ],
+    [
+      0.174903,
+      "o"
+    ],
+    [
+      0.162293,
+      "n"
+    ],
+    [
+      0.075316,
+      " "
+    ],
+    [
+      0.149678,
+      "a"
+    ],
+    [
+      0.087521,
+      "l"
+    ],
+    [
+      0.125193,
+      "l"
+    ],
+    [
+      0.075041,
+      " "
+    ],
+    [
+      0.675202,
+      "r"
+    ],
+    [
+      0.051829,
+      "u"
+    ],
+    [
+      0.160307,
+      "n"
+    ],
+    [
+      0.138041,
+      "n"
+    ],
+    [
+      0.074623,
+      "i"
+    ],
+    [
+      0.124808,
+      "n"
+    ],
+    [
+      0.062520,
+      "g"
+    ],
+    [
+      0.149977,
+      " "
+    ],
+    [
+      0.462444,
+      "p"
+    ],
+    [
+      0.062710,
+      "r"
+    ],
+    [
+      0.100214,
+      "o"
+    ],
+    [
+      0.062266,
+      "d"
+    ],
+    [
+      0.150218,
+      "u"
+    ],
+    [
+      0.112012,
+      "c"
+    ],
+    [
+      0.175299,
+      "t"
+    ],
+    [
+      0.087492,
+      "i"
+    ],
+    [
+      0.045558,
+      "o"
+    ],
+    [
+      0.049255,
+      "n"
+    ],
+    [
+      0.054985,
+      " "
+    ],
+    [
+      0.187536,
+      "h"
+    ],
+    [
+      0.049940,
+      "o"
+    ],
+    [
+      0.087763,
+      "s"
+    ],
+    [
+      0.100040,
+      "t"
+    ],
+    [
+      0.099971,
+      "s"
+    ],
+    [
+      0.337139,
+      "!"
+    ],
+    [
+      0.375086,
+      "\r\n"
+    ],
+    [
+      0.000326,
+      "\u001b[00;31mERROR 2\r\n"
+    ],
+    [
+      0.011779,
+      "\u001b[00;32mvojtechvitek\u001b[00m@MacBook-Pro\u001b[01;32m:\u001b[00;34m~/go/src/github.com/pressly/stackup/example\u001b[01;32m^master\u001b[00m\r\r\n$ "
+    ],
+    [
+      1.113209,
+      "\r\n"
+    ],
+    [
+      0.000193,
+      "\u001b[00;31mERROR 2\r\n"
+    ],
+    [
+      0.012705,
+      "\u001b[00;32mvojtechvitek\u001b[00m@MacBook-Pro\u001b[01;32m:\u001b[00;34m~/go/src/github.com/pressly/stackup/example\u001b[01;32m^master\u001b[00m\r\r\n$ "
+    ],
+    [
+      1.149643,
+      "s"
+    ],
+    [
+      0.112162,
+      "u"
+    ],
+    [
+      0.043342,
+      "p"
+    ],
+    [
+      0.132323,
+      " "
+    ],
+    [
+      0.299596,
+      "p"
+    ],
+    [
+      0.074969,
+      "r"
+    ],
+    [
+      0.124969,
+      "o"
+    ],
+    [
+      0.074971,
+      "d"
+    ],
+    [
+      0.087668,
+      " "
+    ],
+    [
+      0.174630,
+      "s"
+    ],
+    [
+      0.087478,
+      "h"
+    ],
+    [
+      0.087754,
+      "e"
+    ],
+    [
+      0.112234,
+      "l"
+    ],
+    [
+      0.137848,
+      "l"
+    ],
+    [
+      0.199921,
+      "\r\n"
+    ],
+    [
+      1.390664,
+      "\u001b[32mubuntu@prod1.example.com:22 | + /bin/sh\r\n"
+    ],
+    [
+      0.063962,
+      "\u001b[33mubuntu@prod2.example.com:22 | + /bin/sh\r\n"
+    ],
+    [
+      0.858831,
+      "\u001b[36mubuntu@prod3.example.com:22 | + /bin/sh\r\n"
+    ],
+    [
+      1.448820,
+      "\r\n"
+    ],
+    [
+      0.362721,
+      "e"
+    ],
+    [
+      0.075020,
+      "c"
+    ],
+    [
+      0.099987,
+      "h"
+    ],
+    [
+      0.049978,
+      "o"
+    ],
+    [
+      0.100206,
+      " "
+    ],
+    [
+      0.199830,
+      "\""
+    ],
+    [
+      0.224736,
+      "R"
+    ],
+    [
+      0.200222,
+      "u"
+    ],
+    [
+      0.150012,
+      "n"
+    ],
+    [
+      0.099771,
+      " "
+    ],
+    [
+      0.112841,
+      "t"
+    ],
+    [
+      0.112463,
+      "h"
+    ],
+    [
+      0.074730,
+      "i"
+    ],
+    [
+      0.062499,
+      "s"
+    ],
+    [
+      0.099962,
+      " "
+    ],
+    [
+      0.174906,
+      "c"
+    ],
+    [
+      0.075348,
+      "o"
+    ],
+    [
+      0.087507,
+      "m"
+    ],
+    [
+      0.100007,
+      "m"
+    ],
+    [
+      0.099993,
+      "a"
+    ],
+    [
+      0.099785,
+      "n"
+    ],
+    [
+      0.075249,
+      "d"
+    ],
+    [
+      0.100203,
+      " "
+    ],
+    [
+      0.837276,
+      "a"
+    ],
+    [
+      0.250038,
+      "\u0008 \u0008"
+    ],
+    [
+      0.137413,
+      "o"
+    ],
+    [
+      0.043742,
+      "n"
+    ],
+    [
+      0.043595,
+      " "
+    ],
+    [
+      0.137764,
+      "a"
+    ],
+    [
+      0.274691,
+      "\u0008 \u0008"
+    ],
+    [
+      0.387349,
+      "a"
+    ],
+    [
+      0.087816,
+      "l"
+    ],
+    [
+      0.125162,
+      "l"
+    ],
+    [
+      0.074792,
+      " "
+    ],
+    [
+      0.312363,
+      "p"
+    ],
+    [
+      0.087771,
+      "r"
+    ],
+    [
+      0.100021,
+      "o"
+    ],
+    [
+      0.075242,
+      "d"
+    ],
+    [
+      0.124810,
+      "u"
+    ],
+    [
+      0.062283,
+      "c"
+    ],
+    [
+      0.149846,
+      "t"
+    ],
+    [
+      0.062485,
+      "i"
+    ],
+    [
+      0.050089,
+      "o"
+    ],
+    [
+      0.044546,
+      "n"
+    ],
+    [
+      0.055373,
+      " "
+    ],
+    [
+      0.137530,
+      "h"
+    ],
+    [
+      0.062524,
+      "o"
+    ],
+    [
+      0.075206,
+      "s"
+    ],
+    [
+      0.074993,
+      "t"
+    ],
+    [
+      0.112350,
+      "s"
+    ],
+    [
+      0.500226,
+      "."
+    ],
+    [
+      0.137170,
+      "."
+    ],
+    [
+      0.125323,
+      "."
+    ],
+    [
+      0.174976,
+      "\""
+    ],
+    [
+      0.300078,
+      "\r\n"
+    ],
+    [
+      0.030465,
+      "\u001b[32mubuntu@prod1.example.com:22 | Run this command on all production hosts...\r\n"
+    ],
+    [
+      0.008253,
+      "\u001b[33mubuntu@prod2.example.com:22 | Run this command on all production hosts...\r\n"
+    ],
+    [
+      0.019397,
+      "\u001b[36mubuntu@prod3.example.com:22 | Run this command on all production hosts...\r\n"
+    ],
+    [
+      0.904424,
+      "\r\n"
+    ],
+    [
+      1.249862,
+      "e"
+    ],
+    [
+      0.087190,
+      "c"
+    ],
+    [
+      0.075492,
+      "h"
+    ],
+    [
+      0.039358,
+      "o"
+    ],
+    [
+      0.085258,
+      " "
+    ],
+    [
+      0.112526,
+      "\""
+    ],
+    [
+      0.287774,
+      "a"
+    ],
+    [
+      0.349975,
+      "\u0008 \u0008"
+    ],
+    [
+      0.049691,
+      "A"
+    ],
+    [
+      0.337527,
+      "w"
+    ],
+    [
+      0.087709,
+      "e"
+    ],
+    [
+      0.225039,
+      "s"
+    ],
+    [
+      0.075163,
+      "o"
+    ],
+    [
+      0.087428,
+      "m"
+    ],
+    [
+      0.087371,
+      "e"
+    ],
+    [
+      0.662533,
+      "!"
+    ],
+    [
+      0.262485,
+      "\""
+    ],
+    [
+      0.287477,
+      "\r\n"
+    ],
+    [
+      0.050355,
+      "\u001b[36mubuntu@prod3.example.com:22 | Awesome!\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[32mubuntu@prod1.example.com:22 | Awesome!\r\n"
+    ],
+    [
+      0.002250,
+      "\u001b[33mubuntu@prod2.example.com:22 | Awesome!\r\n"
+    ],
+    [
+      0.997121,
+      "\r\n"
+    ],
+    [
+      0.950560,
+      "D"
+    ],
+    [
+      0.099663,
+      "A"
+    ],
+    [
+      0.100220,
+      "T"
+    ],
+    [
+      0.050305,
+      "E"
+    ],
+    [
+      0.136820,
+      "\r\n"
+    ],
+    [
+      0.030693,
+      "\u001b[32mubuntu@prod1.example.com:22 | /bin/sh: 6: DATE: not found\r\n"
+    ],
+    [
+      0.001349,
+      "\u001b[36mubuntu@prod3.example.com:22 | /bin/sh: 6: DATE: not found\r\n"
+    ],
+    [
+      0.001366,
+      "\u001b[33mubuntu@prod2.example.com:22 | /bin/sh: 6: DATE: not found\r\n"
+    ],
+    [
+      1.329398,
+      "\r\n"
+    ],
+    [
+      0.350011,
+      "d"
+    ],
+    [
+      0.074732,
+      "a"
+    ],
+    [
+      0.087686,
+      "t"
+    ],
+    [
+      0.062326,
+      "e"
+    ],
+    [
+      0.275353,
+      "\r\n"
+    ],
+    [
+      0.035002,
+      "\u001b[33mubuntu@prod2.example.com:22 | Fri May  8 15:16:04 UTC 2015\r\n"
+    ],
+    [
+      0.000063,
+      "\u001b[32mubuntu@prod1.example.com:22 | Fri May  8 15:16:04 UTC 2015\r\n"
+    ],
+    [
+      0.001049,
+      "\u001b[36mubuntu@prod3.example.com:22 | Fri May  8 15:16:04 UTC 2015\r\n"
+    ],
+    [
+      1.313740,
+      "\r\n"
+    ],
+    [
+      0.262179,
+      "u"
+    ],
+    [
+      0.175000,
+      "n"
+    ],
+    [
+      0.087521,
+      "a"
+    ],
+    [
+      0.125264,
+      "m"
+    ],
+    [
+      0.062473,
+      "e"
+    ],
+    [
+      0.099911,
+      " "
+    ],
+    [
+      0.112388,
+      "-"
+    ],
+    [
+      0.087723,
+      "a"
+    ],
+    [
+      0.137527,
+      "\r\n"
+    ],
+    [
+      0.044853,
+      "\u001b[32mubuntu@prod1.example.com:22 | Linux ip-10-171-100-2 3.16.0-34-generic #47-Ubuntu SMP Fri Apr 10 18:02:58 UTC 2015 x86_64 x86_64 x86_64 GNU/Linux\r\n\u001b[33mubuntu@prod2.example.com:22 | Linux ip-10-166-129-150 3.16.0-34-generic #47-Ubuntu SMP Fri Apr 10 18:02:58 UTC 2015 x86_64 x86_64 x86_64 GNU/Linux\r\n\u001b[36mubuntu@prod3.example.com:22 | Linux ip-10-153-148-87 3.16.0-34-generic #47-Ubuntu SMP Fri Apr 10 18:02:58 UTC 2015 x86_64 x86_64 x86_64 GNU/Linux\r\n"
+    ],
+    [
+      1.479872,
+      "\r\n"
+    ],
+    [
+      1.350088,
+      "^C"
+    ],
+    [
+      0.001261,
+      "\u001b[00;31mERROR 2\r\n"
+    ],
+    [
+      0.011571,
+      "\u001b[00;32mvojtechvitek\u001b[00m@MacBook-Pro\u001b[01;32m:\u001b[00;34m~/go/src/github.com/pressly/stackup/example\u001b[01;32m^master\u001b[00m\r\r\n$ "
+    ],
+    [
+      1.574824,
+      "s"
+    ],
+    [
+      0.112582,
+      "u"
+    ],
+    [
+      0.039678,
+      "p"
+    ],
+    [
+      0.110023,
+      " "
+    ],
+    [
+      1.999958,
+      "s"
+    ],
+    [
+      0.349946,
+      "t"
+    ],
+    [
+      0.200111,
+      "g"
+    ],
+    [
+      0.100119,
+      " "
+    ],
+    [
+      0.275357,
+      "e"
+    ],
+    [
+      0.187043,
+      "x"
+    ],
+    [
+      0.187673,
+      "e"
+    ],
+    [
+      0.075048,
+      "c"
+    ],
+    [
+      0.524812,
+      "\r\n"
+    ],
+    [
+      0.880455,
+      "\u001b[32mubuntu@stg.example.com:22 | + docker exec -i example bash\r\n"
+    ],
+    [
+      2.357319,
+      "\r\n"
+    ],
+    [
+      0.137387,
+      "e"
+    ],
+    [
+      0.087112,
+      "c"
+    ],
+    [
+      0.087609,
+      "h"
+    ],
+    [
+      0.050065,
+      "o"
+    ],
+    [
+      0.112673,
+      " "
+    ],
+    [
+      0.112408,
+      "\""
+    ],
+    [
+      0.474940,
+      "I"
+    ],
+    [
+      0.150013,
+      "'"
+    ],
+    [
+      0.087725,
+      "m"
+    ],
+    [
+      0.062424,
+      " "
+    ],
+    [
+      0.162228,
+      "n"
+    ],
+    [
+      0.062787,
+      "o"
+    ],
+    [
+      0.149760,
+      "w"
+    ],
+    [
+      0.212777,
+      " "
+    ],
+    [
+      0.162242,
+      "i"
+    ],
+    [
+      0.062485,
+      "n"
+    ],
+    [
+      0.087378,
+      " "
+    ],
+    [
+      0.075441,
+      "t"
+    ],
+    [
+      0.099606,
+      "h"
+    ],
+    [
+      0.087490,
+      "e"
+    ],
+    [
+      0.075226,
+      " "
+    ],
+    [
+      0.137291,
+      "s"
+    ],
+    [
+      0.175135,
+      "t"
+    ],
+    [
+      0.062437,
+      "a"
+    ],
+    [
+      0.137546,
+      "g"
+    ],
+    [
+      0.099977,
+      "i"
+    ],
+    [
+      0.049989,
+      "n"
+    ],
+    [
+      0.262467,
+      "g"
+    ],
+    [
+      0.125413,
+      " "
+    ],
+    [
+      1.599851,
+      "D"
+    ],
+    [
+      0.162255,
+      "o"
+    ],
+    [
+      0.075305,
+      "c"
+    ],
+    [
+      0.112387,
+      "k"
+    ],
+    [
+      0.074751,
+      "e"
+    ],
+    [
+      0.175207,
+      " "
+    ],
+    [
+      0.337594,
+      "\u0008 \u0008"
+    ],
+    [
+      0.024738,
+      "r"
+    ],
+    [
+      0.099995,
+      " "
+    ],
+    [
+      0.212510,
+      "c"
+    ],
+    [
+      0.099995,
+      "o"
+    ],
+    [
+      0.050085,
+      "n"
+    ],
+    [
+      0.174908,
+      "t"
+    ],
+    [
+      0.062496,
+      "a"
+    ],
+    [
+      0.137764,
+      "i"
+    ],
+    [
+      0.062407,
+      "n"
+    ],
+    [
+      0.112323,
+      "e"
+    ],
+    [
+      0.075240,
+      "r"
+    ],
+    [
+      0.600043,
+      " "
+    ],
+    [
+      0.045585,
+      "."
+    ],
+    [
+      0.117017,
+      "."
+    ],
+    [
+      0.112230,
+      "."
+    ],
+    [
+      0.099966,
+      " "
+    ],
+    [
+      0.075213,
+      "r"
+    ],
+    [
+      0.062282,
+      "u"
+    ],
+    [
+      0.174842,
+      "n"
+    ],
+    [
+      0.162544,
+      "n"
+    ],
+    [
+      0.112566,
+      "i"
+    ],
+    [
+      0.087421,
+      "n"
+    ],
+    [
+      0.075306,
+      "g"
+    ],
+    [
+      0.137265,
+      " "
+    ],
+    [
+      0.337751,
+      "c"
+    ],
+    [
+      0.074706,
+      "o"
+    ],
+    [
+      0.050077,
+      "n"
+    ],
+    [
+      0.162855,
+      "t"
+    ],
+    [
+      0.074606,
+      "a"
+    ],
+    [
+      0.175319,
+      "i"
+    ],
+    [
+      0.074638,
+      "n"
+    ],
+    [
+      0.200095,
+      "e"
+    ],
+    [
+      0.075260,
+      "r"
+    ],
+    [
+      0.437174,
+      "."
+    ],
+    [
+      0.125780,
+      "."
+    ],
+    [
+      0.124284,
+      " "
+    ],
+    [
+      0.125180,
+      "u"
+    ],
+    [
+      0.074764,
+      "s"
+    ],
+    [
+      0.125239,
+      "i"
+    ],
+    [
+      0.062295,
+      "n"
+    ],
+    [
+      0.050217,
+      "g"
+    ],
+    [
+      0.124943,
+      " "
+    ],
+    [
+      0.287352,
+      "D"
+    ],
+    [
+      0.175323,
+      "o"
+    ],
+    [
+      0.075118,
+      "c"
+    ],
+    [
+      0.112298,
+      "k"
+    ],
+    [
+      0.099639,
+      "e"
+    ],
+    [
+      0.025380,
+      "r"
+    ],
+    [
+      0.337431,
+      " "
+    ],
+    [
+      0.762505,
+      "E"
+    ],
+    [
+      0.462263,
+      "X"
+    ],
+    [
+      0.187514,
+      "E"
+    ],
+    [
+      0.137380,
+      "C"
+    ],
+    [
+      0.487643,
+      "\""
+    ],
+    [
+      0.475324,
+      "\r\n"
+    ],
+    [
+      0.031178,
+      "\u001b[32mubuntu@stg.example.com:22 | I'm now in the staging Docker container ... running container.. using Docker EXEC\r\n"
+    ],
+    [
+      2.068646,
+      "\r\n"
+    ],
+    [
+      1.337651,
+      "e"
+    ],
+    [
+      0.099955,
+      "c"
+    ],
+    [
+      0.074727,
+      "h"
+    ],
+    [
+      0.042305,
+      "o"
+    ],
+    [
+      0.082587,
+      " "
+    ],
+    [
+      0.100079,
+      "\""
+    ],
+    [
+      0.150389,
+      "C"
+    ],
+    [
+      0.200022,
+      "O"
+    ],
+    [
+      0.137598,
+      "o"
+    ],
+    [
+      0.262017,
+      "l"
+    ],
+    [
+      0.262765,
+      "\u0008 \u0008"
+    ],
+    [
+      0.112193,
+      "\u0008 \u0008"
+    ],
+    [
+      0.125324,
+      "\u0008 \u0008"
+    ],
+    [
+      0.149924,
+      "o"
+    ],
+    [
+      0.124726,
+      "o"
+    ],
+    [
+      0.137569,
+      "l"
+    ],
+    [
+      0.212561,
+      "!"
+    ],
+    [
+      0.299929,
+      "\""
+    ],
+    [
+      0.262586,
+      "\r\n"
+    ],
+    [
+      0.029785,
+      "\u001b[32mubuntu@stg.example.com:22 | Cool!\r\n"
+    ],
+    [
+      0.845478,
+      "\r\n"
+    ],
+    [
+      0.174944,
+      "d"
+    ],
+    [
+      0.112548,
+      "a"
+    ],
+    [
+      0.062423,
+      "t"
+    ],
+    [
+      0.075131,
+      "e"
+    ],
+    [
+      0.399630,
+      "\r\n"
+    ],
+    [
+      0.035576,
+      "\u001b[32mubuntu@stg.example.com:22 | Fri May  8 15:16:53 UTC 2015\r\n"
+    ],
+    [
+      0.914659,
+      "\r\n"
+    ],
+    [
+      0.375180,
+      "p"
+    ],
+    [
+      0.049791,
+      "s"
+    ],
+    [
+      0.112346,
+      " "
+    ],
+    [
+      0.112793,
+      "a"
+    ],
+    [
+      0.149881,
+      "u"
+    ],
+    [
+      0.049723,
+      "x"
+    ],
+    [
+      0.137567,
+      " "
+    ],
+    [
+      0.475221,
+      "\r\n"
+    ],
+    [
+      0.053703,
+      "\u001b[32mubuntu@stg.example.com:22 | USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND\r\n\u001b[32mubuntu@stg.example.com:22 | root         1  0.0  0.1  95364  5136 ?        Ssl  14:45   0:00 /usr/bin/example\r\n"
+    ],
+    [
+      0.000011,
+      "\u001b[32mubuntu@stg.example.com:22 | root        14  0.0  0.0  17964  2784 ?        Ss   15:16   0:00 bash\r\n\u001b[32mubuntu@stg.example.com:22 | root        22  0.0  0.0  15576  2148 ?        R    15:16   0:00 ps aux\r\n"
+    ],
+    [
+      1.358730,
+      "\r\n"
+    ],
+    [
+      1.525050,
+      "#"
+    ],
+    [
+      0.162603,
+      " "
+    ],
+    [
+      0.237256,
+      "^"
+    ],
+    [
+      0.287336,
+      " "
+    ],
+    [
+      0.225280,
+      "P"
+    ],
+    [
+      0.087317,
+      "I"
+    ],
+    [
+      0.012875,
+      "D"
+    ],
+    [
+      0.262399,
+      " "
+    ],
+    [
+      0.374703,
+      "1"
+    ],
+    [
+      0.700235,
+      "\r\n"
+    ],
+    [
+      1.312528,
+      "\r\n"
+    ],
+    [
+      1.274754,
+      "^C"
+    ],
+    [
+      0.001307,
+      "\u001b[00;31mERROR 2\r\n"
+    ],
+    [
+      0.011583,
+      "\u001b[00;32mvojtechvitek\u001b[00m@MacBook-Pro\u001b[01;32m:\u001b[00;34m~/go/src/github.com/pressly/stackup/example\u001b[01;32m^master\u001b[00m\r\r\n$ "
+    ],
+    [
+      0.874947,
+      "exit\r\n"
+    ]
+  ]
+}
