@@ -1,0 +1,258 @@
+{
+  "version": 1,
+  "width": 170,
+  "height": 48,
+  "duration": 16.329358,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.010168,
+      "\u001b[?1034h"
+    ],
+    [
+      0.000007,
+      "bash-3.2$ "
+    ],
+    [
+      0.709633,
+      "l"
+    ],
+    [
+      0.104164,
+      "s"
+    ],
+    [
+      0.431965,
+      "\r\n"
+    ],
+    [
+      0.003461,
+      "\u001b[34mPPUtils\u001b[39;49m\u001b[0m       \u001b[34mPScripts\u001b[39;49m\u001b[0m      \u001b[34mPUtils\u001b[39;49m\u001b[0m        \u001b[34mPathPicker\u001b[39;49m\u001b[0m    \u001b[34mdemo\u001b[39;49m\u001b[0m          \u001b[34mgit-prompt\u001b[39;49m\u001b[0m    \u001b[34miterm2-zmodem\u001b[39;49m\u001b[0m \u001b[34mthefuck\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000282,
+      "bash-3.2$ "
+    ],
+    [
+      1.492109,
+      "c"
+    ],
+    [
+      0.191929,
+      "d"
+    ],
+    [
+      0.120261,
+      " "
+    ],
+    [
+      1.063927,
+      "g"
+    ],
+    [
+      0.127942,
+      "i"
+    ],
+    [
+      0.128043,
+      "t"
+    ],
+    [
+      0.240203,
+      "-prompt/"
+    ],
+    [
+      0.559522,
+      "\r\n"
+    ],
+    [
+      0.000256,
+      "bash-3.2$ "
+    ],
+    [
+      1.975872,
+      "l"
+    ],
+    [
+      0.592067,
+      "s"
+    ],
+    [
+      0.216001,
+      "\r\n"
+    ],
+    [
+      0.003524,
+      "Makefile                    \u001b[31mdemo-script\u001b[39;49m\u001b[0m                 \u001b[31mgit-prompt.sh\u001b[39;49m\u001b[0m               screenshot-labels.png       screenshot-prompt-basic.png screenshot-svn.png\r\nREADME                      git-prompt.conf             index.txt                   screenshot-labels.xcf       screenshot-prompt-git.png\r\n"
+    ],
+    [
+      0.000277,
+      "bash-3.2$ "
+    ],
+    [
+      0.740144,
+      "v"
+    ],
+    [
+      0.088094,
+      "i"
+    ],
+    [
+      0.087958,
+      "m"
+    ],
+    [
+      0.135848,
+      " "
+    ],
+    [
+      0.304069,
+      "g"
+    ],
+    [
+      0.159900,
+      "i"
+    ],
+    [
+      0.104113,
+      "\u0007t-prompt."
+    ],
+    [
+      1.152269,
+      "c"
+    ],
+    [
+      0.343716,
+      "o"
+    ],
+    [
+      0.152184,
+      "nf "
+    ],
+    [
+      0.311917,
+      "\r\n"
+    ],
+    [
+      0.021396,
+      "\u001b[?1049h\u001b[?1h\u001b="
+    ],
+    [
+      0.002100,
+      "\u001b[1;48r\u001b[?12;25h\u001b[?12l\u001b[?25h\u001b[27m\u001b[m\u001b[H\u001b[2J\u001b[?25l\u001b[48;1H\"git-prompt.conf\""
+    ],
+    [
+      0.000781,
+      " 96L, 3474C"
+    ],
+    [
+      0.001668,
+      "\u001b[\u003ec"
+    ],
+    [
+      0.000694,
+      "\u001b[2;1H\u001b[38;5;248m###  GIT-PROMPT.SH CONFIG\r\n###\r\n###    lines commented-out with single '#' are default values\r\n###    lines commented-out with double '##' are examples\r\n###\r\n###    NOTE: this is bash syntax - no spaces around \"=\"\r\n\r\n###########################################################\r\n\r\n# error_bell=off                # sound terminal bell when command return code is not zero. (use setterm to set pitch and duration)\r\n# max_file_list_length=100      # in characters\r\n# count_only=off                # off - display file list; on - display file count\r\n# rawhex_len=5                  # length of git rawhex revision id display (use 0 to hide it)\r\n\r\n############################################################   MODULES\r\n\r\n# git_module=on\r\n# svn_module=off\r\n# hg_module=on\r\n# vim_module=on\r\n# virtualenv_module=on\r\n\r\n\r\n###########################################################   DEFAULT OBJECTS\r\n###  Default objects are not displayed.  Example:\r\n\r\n## default_user=lvv             \r\n## default_host=\"ahp\"       "
+    ],
+    [
+      0.000271,
+      "            # remote host is always shown\r\n## default_domain=\"lvvnet\"      \r\n\r\n###########################################################   Current Working Dir display\r\n#  cwd_cmd='\\w'                 # display full path\r\n## cwd_cmd='\\W'                 # display only last dir of path\r\n## cwd_cmd='cwd_truncate 40'    # display only last N chars of path\r\n\r\n###########################################################   ETC\r\n\r\n#  Some don't like hostname in uppercase\r\n#  upcase_hostname=on # =off\r\n#  Some don't like long hostname\r\n#  short_hostname=off # =on\r\n\r\n#  Do not do VCS parsing for listed directories\r\n#  useful for directories for which it is difficult to maintain .gitignore so\r\n#  they are always dirty  (ex: home, /etc) or directory with huge repo (ex: linux src)\u001b[m\r\n\u001b[1m\u001b[7m[~/Projects/git/git-prompt/git-prompt.conf][conf]                                                                                                 [Line:1/96,Column:0][1%]\u001b[1;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.325145,
+      "\u001b[47;153H2/\u001b[10C1][2%\u001b[2;1H"
+    ],
+    [
+      0.175863,
+      "\u001b[47;153H3/\u001b[13C3%\u001b[3;1H"
+    ],
+    [
+      0.252788,
+      "\u001b[47;153H4/\u001b[13C4%\u001b[4;1H"
+    ],
+    [
+      0.033342,
+      "\u001b[47;153H5/\u001b[13C5%\u001b[5;1H"
+    ],
+    [
+      0.034454,
+      "\u001b[47;153H6/\u001b[13C6%\u001b[6;1H"
+    ],
+    [
+      0.034661,
+      "\u001b[47;153H7/\u001b[13C7%\u001b[7;1H"
+    ],
+    [
+      0.034359,
+      "\u001b[47;153H8/\u001b[10C0][8%\u001b[8;1H"
+    ],
+    [
+      0.035846,
+      "\u001b[47;153H9/\u001b[10C1][9%\u001b[9;1H"
+    ],
+    [
+      0.032745,
+      "\u001b[47;145H[Line:10/96,Column:0][10%\u001b[10;1H"
+    ],
+    [
+      0.034542,
+      "\u001b[47;152H1/\u001b[10C1][11%\u001b[11;1H"
+    ],
+    [
+      0.033840,
+      "\u001b[47;152H2/\u001b[14C2%\u001b[12;1H"
+    ],
+    [
+      0.034917,
+      "\u001b[47;152H3/\u001b[14C3%\u001b[13;1H"
+    ],
+    [
+      0.182465,
+      "\u001b[?25l\u001b[m\u001b[48;1H\u001b[K\u001b[48;1H:"
+    ],
+    [
+      0.000027,
+      "\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.351738,
+      "w"
+    ],
+    [
+      0.136213,
+      "q"
+    ],
+    [
+      0.272037,
+      "\r"
+    ],
+    [
+      0.000076,
+      "\u001b[?25l"
+    ],
+    [
+      0.000065,
+      "\"git-prompt.conf\""
+    ],
+    [
+      0.001436,
+      " 96L, 3474C written"
+    ],
+    [
+      0.001972,
+      "\r\r\r\n\u001b[?1l\u001b\u003e\u001b[?12l\u001b[?25h\u001b[?1049l"
+    ],
+    [
+      0.000826,
+      "bash-3.2$ "
+    ],
+    [
+      1.739634,
+      "exit\r\n"
+    ]
+  ]
+}
