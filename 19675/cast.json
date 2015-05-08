@@ -1,0 +1,118 @@
+{
+  "version": 1,
+  "width": 140,
+  "height": 20,
+  "duration": 16.579340,
+  "command": "/bin/sh",
+  "title": "",
+  "env": {
+    "TERM": "cygwin",
+    "SHELL": "/bin/sh"
+  },
+  "stdout": [
+    [
+      0.027737,
+      "docker@boot2docker:~$ "
+    ],
+    [
+      0.795498,
+      "\rdocker@boot2docker:~$ docker run -p 80:80 nginx\u001b[J"
+    ],
+    [
+      2.652753,
+      " "
+    ],
+    [
+      0.409812,
+      "\u0026"
+    ],
+    [
+      1.176720,
+      "\r\n"
+    ],
+    [
+      0.000688,
+      "docker@boot2docker:~$ "
+    ],
+    [
+      0.884598,
+      "\u001b[H\rdocker@boot2docker:~$ \u001b[J"
+    ],
+    [
+      0.316876,
+      "d"
+    ],
+    [
+      0.085122,
+      "o"
+    ],
+    [
+      0.105608,
+      "c"
+    ],
+    [
+      0.060350,
+      "k"
+    ],
+    [
+      0.075219,
+      "e"
+    ],
+    [
+      0.060762,
+      "r"
+    ],
+    [
+      0.071186,
+      " "
+    ],
+    [
+      0.165672,
+      "p"
+    ],
+    [
+      0.084877,
+      "s"
+    ],
+    [
+      0.086037,
+      "\r\n"
+    ],
+    [
+      0.140030,
+      "CONTAINER ID        IMAGE"
+    ],
+    [
+      0.000043,
+      "               COMMAND                CREATED"
+    ],
+    [
+      0.000030,
+      "        "
+    ],
+    [
+      0.000028,
+      "     "
+    ],
+    [
+      0.000126,
+      "STATUS"
+    ],
+    [
+      0.000138,
+      "        "
+    ],
+    [
+      0.000253,
+      "      PORTS"
+    ],
+    [
+      0.000914,
+      "                         NAMES\r\n7f8053a066d7        nginx:latest        \"nginx -g 'daemon of   2 seconds ago       Up 1 seconds        0.0.0.0:80-\u003e80/tcp, 443/tcp   trusting_einstein   \r\n"
+    ],
+    [
+      0.002272,
+      "docker@boot2docker:~$ "
+    ]
+  ]
+}
