@@ -1,0 +1,78 @@
+{
+  "version": 1,
+  "width": 150,
+  "height": 28,
+  "duration": 11.286725,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.946025,
+      "\u001b]0;lelouch@hp: ~\u0007lelouch@hp:~$ "
+    ],
+    [
+      4.876796,
+      "\u001b[H\u001b[2J\u001b]0;lelouch@hp: ~\u0007lelouch@hp:~$ "
+    ],
+    [
+      1.452324,
+      "p"
+    ],
+    [
+      0.055701,
+      "s"
+    ],
+    [
+      0.174035,
+      " "
+    ],
+    [
+      0.961880,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.124863,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.139690,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.134415,
+      "\u0007"
+    ],
+    [
+      0.310093,
+      "l"
+    ],
+    [
+      0.068073,
+      "s"
+    ],
+    [
+      0.141927,
+      "\r\n"
+    ],
+    [
+      0.001949,
+      "\u001b[0m\u001b[00;36m005.mp3\u001b[0m                                                         \u001b[01;31mlinux-headers-3.14.3-031403-generic_3.14.3-031403.201405061153_amd64.deb\u001b[0m\r\n\u001b[00;36m018.mp3\u001b[0m                                                         \u001b[01;31mlinux-image-3.14.3-031403-generic_3.14.3-031403.201405061153_amd64.deb\u001b[0m\r\nalive_hosts.txt                                                 \u001b[01;34mmean\u001b[0m\r\n\u001b[01;32malsa-info.sh\u001b[0m                                                    missfont.log\r\n\u001b[01;34manass\u001b[0m                                                           \u001b[01;31mmongodb-linux-x86_64-2.6.3.tgz\u001b[0m\r\n\u001b[01;34mAndroid\u001b[0m                                                         \u001b[01;34mmongoQueries\u001b[0m\r\n\u001b[01;34mandroid-studio\u001b[0m                                                  mongorc.js\r\n\u001b[01;31mandroid-studio-ide-135.1740770-linux.zip\u001b[0m                        multisided_plateform.pdf\r\n\u001b[01;34mangular\u001b[0m                                                         multisided-plateform.pdf\r\n\u001b[01;34mangular-seed\u001b[0m                                                    \u001b[01;34mMusic\u001b[0m\r\n\u001b[01;34mAnypointStudio\u001b[0m                                                  \u001b[01;34mmyapp\u001b[0m\r\n\u001b[01;34mapps\u001b[0m                                                            \u001b[01;34mmysql-connector-java-5.1.29\u001b[0m\r\n\u001b[01;31matom-amd64.deb\u001b[0m                                                  \u001b[01;34mneoxia\u001b[0m\r\n\u001b[01;35mbackblue.gif\u001b[0m                                                    \u001b[01;34mnetbeans-7.4\u001b[0m\r\n\u001b[01;34mbin\u001b[0m                                                             \u001b[01;34mNetBeansProjects\u001b[0m\r\nbuildingastartupstackwithangularjs-131007134816-phpapp01.pdf    \u001b[01;34mngbp\u001b[0m\r\n\u001b[01;34mCalibre Library\u001b[0m                                                 \u001b[01;34mnneo4j-community-2.1.6\u001b[0m\r\n\u001b[01;34mcayley_0.4.0_linux_amd64\u001b[0m                                        \u001b[01;34mnode-js-getting-started\u001b[0m\r\n\u001b[01;34mcmake-3.1.2-Linux-x86_64\u001b[0m                                        omar.pdf\r\ncmake-3.1.2-Linux-x86_64.sh                                     \u001b[01;34mOpenCV\u001b[0m\r\n\u001b[01;34mDesktop\u001b[0m                                                         \u001b[01;34mopt\u001b[0m\r\n\u001b[01;35mdev.jpg\u001b[0m                                                         \u001b[01;34mPacketTracer5\u001b[0m\r\ndht.dat                                                         \u001b[01;34mphpMyAdmin-4.2.5-english\u001b[0m\r\ndht.dat.old                                                     \u001b[01;34mPictures\u001b[0m\r\nDiagram1.dia.autosave                                           presentatio microsoft.pptx\r\n\u001b[01;34mdist\u001b[0m                                                            \u001b[01;34mPublic\u001b[0m\r\n\u001b[01;34mDocuments\u001b[0m                                                       \u001b[01;34mqproject\u001b[0m\r\n\u001b[01;34mDownloads\u001b[0m                                                       resume.dat\r\n\u001b[01;34mDropbox\u001b[0m                                                         resume.dat.old\r\n\u001b[01;34meclipse\u001b[0m                                                         rss.dat\r\n\u001b[01;31meclipse-standard-luna-R-linux-gtk-x86_64.tar.gz\u001b[0m                 rss.dat.old\r\n\u001b[01;31menergreen-noobslab-wlan-u.zip\u001b[0m                                   \u001b[01;34mseamonkey\u001b[0m\r\nexamples.desktop                                                settings.dat\r\n\u001b[01;35mfade.gif\u001b[0m                                                        settings.dat.old\r\nfile                                                            \u001b[01;32msetup.sh\u001b[0m\r\n\u001b[01;35mFirefox_wallpaper.png\u001b[0m                                           slirp\r\n\u001b[01;34mflash\u001b[0m                                                           \u001b[01;34msrc\u001b[0m\r\n\u001b[01;31mgitlab-ce_7.10.0~omnibus.2-1_amd64.deb\u001b[0m                          \u001b[01;34mTemplates\u001b[0m\r\n\u001b[01;35m[HorribleSubs]_Parasyte_-_the_maxim_-_22_[480p].mkv\u001b[0m             test\r\n\u001b[01;35m[HorribleSubs]_Parasyte_-_the_maxim_-_23_[480p].mkv\u001b[0m             \u001b[01;34mtests\u001b[0m\r\n\u001b[01;34mhts-cache\u001b[0m                                                       texput.log\r\nhts-in_progress.lock                                            \u001b[01;34mtm"
+    ],
+    [
+      0.000018,
+      "p\u001b[0m\r\nhts-log.txt                                                     \u001b[01;34mtor\u001b[0m\r\nindex.html                                                      \u001b[01;34mtuto_part1\u001b[0m\r\n\u001b[01;34minod\u001b[0m                                                            ubuntu-14.04.2-desktop-amd64.iso\r\n\u001b[01;34mionic\u001b[0m                                                           \u001b[01;34mUbuntu One\u001b[0m\r\n\u001b[01;34mjapan\u001b[0m                                                           \u001b[01;34mUntitled Folder\u001b[0m\r\n\u001b[01;32mjasperreports-server-cp-5.6.0-linux-x64-installer.run\u001b[0m           \u001b[01;31mutorrent-server-3.0-25053.tar.gz\u001b[0m\r\n\u001b[01;32mjavafx\u001b[0m                                                          \u001b[01;34mVideos\u001b[0m\r\n\u001b[01;31mjavafx_scenebuilder-1_1-linux-x64.deb\u001b[0m                           \u001b[01;34mVirtualBox VMs\u001b[0m\r\n\u001b[01;34mjdk1.7.0_51\u001b[0m                                                     \u001b[01;34mwebsites\u001b[0m\r\n\u001b[01;34mlabC\u001b[0m                                                            \u001b[01;34mworkspace\u001b[0m\r\n\u001b[01;34mlampp\u001b[0m                                                           \u001b[01;34mwww.delaat.net\u001b[0m\r\n\u001b[01;36mLink to workspace\u001b[0m                                               \u001b[01;31mxampp-linux-1.8.1.tar.gz\u001b[0m\r\n\u001b[01;31mlinux-headers-3.14.3-031403_3.14.3-031403.201405061153_all.deb\u001b[0m\r\n"
+    ],
+    [
+      0.000116,
+      "\u001b]0;lelouch@hp: ~\u0007lelouch@hp:~$ "
+    ],
+    [
+      1.898630,
+      "exit\r\n"
+    ]
+  ]
+}
