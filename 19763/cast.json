@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "width": 119,
+  "height": 36,
+  "duration": 1.979945,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "rxvt-256color",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.031618,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                      \r \r"
+    ],
+    [
+      0.000300,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J \u001b[33m\u001b[1m\u003e\u003e\u001b[0m\u001b[38;5;157mkim\u001b[30m\u001b[1m@\u001b[0m\u001b[38;5;118mberg \u001b[34m\u001b[1m~\r\n \u001b[30m%\u001b[39m\u001b[0m "
+    ],
+    [
+      0.000006,
+      "\u001b[K"
+    ],
+    [
+      1.947937,
+      "\r\r\n"
+    ]
+  ]
+}
