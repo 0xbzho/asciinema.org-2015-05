@@ -1,0 +1,438 @@
+{
+  "version": 1,
+  "width": 97,
+  "height": 30,
+  "duration": 21.811452,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.489427,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                \r \r"
+    ],
+    [
+      0.000035,
+      "\u001b]2;dustin@conjurmac: ~\u0007"
+    ],
+    [
+      0.000004,
+      "\u001b]1;~\u0007"
+    ],
+    [
+      0.011448,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36m~ \u001b[01;34m\u001b[01;34m \u001b[00m\u001b[K"
+    ],
+    [
+      0.000103,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.520891,
+      "c"
+    ],
+    [
+      0.054766,
+      "\u0008co"
+    ],
+    [
+      0.215770,
+      "n"
+    ],
+    [
+      0.167798,
+      "j"
+    ],
+    [
+      0.168358,
+      "u"
+    ],
+    [
+      0.080050,
+      "r"
+    ],
+    [
+      0.088170,
+      " "
+    ],
+    [
+      0.127775,
+      "p"
+    ],
+    [
+      0.207543,
+      "l"
+    ],
+    [
+      0.256419,
+      "u"
+    ],
+    [
+      0.303567,
+      "g"
+    ],
+    [
+      0.072318,
+      "i"
+    ],
+    [
+      0.072315,
+      "n"
+    ],
+    [
+      0.103379,
+      " "
+    ],
+    [
+      0.144429,
+      "i"
+    ],
+    [
+      0.087800,
+      "n"
+    ],
+    [
+      0.096377,
+      "s"
+    ],
+    [
+      0.063534,
+      "t"
+    ],
+    [
+      0.071975,
+      "a"
+    ],
+    [
+      0.048005,
+      "l"
+    ],
+    [
+      0.136394,
+      "l"
+    ],
+    [
+      0.103609,
+      " "
+    ],
+    [
+      0.128048,
+      "p"
+    ],
+    [
+      0.088347,
+      "r"
+    ],
+    [
+      0.071608,
+      "o"
+    ],
+    [
+      0.223824,
+      "x"
+    ],
+    [
+      0.079871,
+      "y"
+    ],
+    [
+      0.424506,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000053,
+      "\r\r\n"
+    ],
+    [
+      0.001111,
+      "\u001b]2;conjur plugin install proxy\u0007\u001b]1;conjur\u0007"
+    ],
+    [
+      3.851382,
+      "Fetching: conjur-asset-proxy-0.5.2.gem"
+    ],
+    [
+      0.000043,
+      "\rFetching: conjur-asset-proxy-0.5.2.gem (100%)"
+    ],
+    [
+      0.000005,
+      "\rFetching: conjur-asset-proxy-0.5.2.gem (100%)\r\n"
+    ],
+    [
+      0.012754,
+      "Successfully installed conjur-asset-proxy-0.5.2\r\n"
+    ],
+    [
+      0.000101,
+      "1 gem installed\r\n"
+    ],
+    [
+      0.028173,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                \r \r"
+    ],
+    [
+      0.000053,
+      "\u001b]2;dustin@conjurmac: ~\u0007"
+    ],
+    [
+      0.000023,
+      "\u001b]1;~\u0007"
+    ],
+    [
+      0.010881,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36m~ \u001b[01;34m\u001b[01;34m \u001b[00m\u001b[K"
+    ],
+    [
+      0.000047,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.847335,
+      "c"
+    ],
+    [
+      0.040709,
+      "\u0008co"
+    ],
+    [
+      0.183339,
+      "n"
+    ],
+    [
+      0.167506,
+      "j"
+    ],
+    [
+      0.200010,
+      "u"
+    ],
+    [
+      0.176326,
+      "r"
+    ],
+    [
+      0.063547,
+      " "
+    ],
+    [
+      0.224566,
+      "p"
+    ],
+    [
+      0.423583,
+      "l"
+    ],
+    [
+      0.216214,
+      "u"
+    ],
+    [
+      0.135692,
+      "g"
+    ],
+    [
+      0.080369,
+      "i"
+    ],
+    [
+      0.072005,
+      "n"
+    ],
+    [
+      0.128005,
+      " "
+    ],
+    [
+      0.567719,
+      "s"
+    ],
+    [
+      0.079955,
+      "h"
+    ],
+    [
+      0.168424,
+      "o"
+    ],
+    [
+      0.071590,
+      "w"
+    ],
+    [
+      0.088205,
+      " "
+    ],
+    [
+      0.183918,
+      "p"
+    ],
+    [
+      0.136242,
+      "r"
+    ],
+    [
+      0.055915,
+      "o"
+    ],
+    [
+      0.255658,
+      "x"
+    ],
+    [
+      0.104265,
+      "y"
+    ],
+    [
+      0.471416,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000080,
+      "\r\r\n"
+    ],
+    [
+      0.000718,
+      "\u001b]2;conjur plugin show proxy\u0007\u001b]1;conjur\u0007"
+    ],
+    [
+      0.400509,
+      "Name: proxy\r\nDescription: Simple HTTP proxy which adds Conjur authentication headers\r\n"
+    ],
+    [
+      0.000006,
+      "Gem: conjur-asset-proxy\r\nVersion: 0.5.2\r\n"
+    ],
+    [
+      0.018343,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                \r \r"
+    ],
+    [
+      0.000105,
+      "\u001b]2;dustin@conjurmac: ~\u0007"
+    ],
+    [
+      0.000007,
+      "\u001b]1;~\u0007"
+    ],
+    [
+      0.009973,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36m~ \u001b[01;34m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000005,
+      "\u001b[K"
+    ],
+    [
+      0.000062,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.586780,
+      "c"
+    ],
+    [
+      0.071925,
+      "\u0008co"
+    ],
+    [
+      0.184201,
+      "n"
+    ],
+    [
+      0.183780,
+      "j"
+    ],
+    [
+      0.152035,
+      "u"
+    ],
+    [
+      0.056130,
+      "r"
+    ],
+    [
+      0.111536,
+      " "
+    ],
+    [
+      0.400440,
+      "p"
+    ],
+    [
+      0.104008,
+      "r"
+    ],
+    [
+      0.095809,
+      "o"
+    ],
+    [
+      0.312088,
+      "x"
+    ],
+    [
+      0.095690,
+      "y"
+    ],
+    [
+      0.087974,
+      " "
+    ],
+    [
+      0.248222,
+      "-"
+    ],
+    [
+      0.303770,
+      "h"
+    ],
+    [
+      0.488350,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000052,
+      "\r\r\n"
+    ],
+    [
+      0.000777,
+      "\u001b]2;conjur proxy -h\u0007\u001b]1;conjur\u0007"
+    ],
+    [
+      0.289273,
+      "NAME\r\n    proxy - Proxy to a protected HTTP service\r\n\r\nSYNOPSIS\r\n    conjur [global options] proxy [command options] url\r\n\r\nDESCRIPTION\r\n    Launch an HTTP proxy to a Conjur-protected service. The proxy adds a Conjur authorization\r\n    header to every request. This allows eg. using browser to access a UI of a Conjur-protected\r\n    web application. The proxy will keep running until terminated. \r\n\r\nCOMMAND OPTIONS\r\n    -a, --address=arg - address to bind to (default: 127.0.0.1)\r\n    --cacert=arg      - Verify SSL using the provided cert file (default: none)\r\n    -k                - Don't verificate HTTPS certificate\r\n    -p, --port=arg    - port to bind to (default: 8080)\r\n"
+    ],
+    [
+      0.021632,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                \r \r"
+    ],
+    [
+      0.000039,
+      "\u001b]2;dustin@conjurmac: ~\u0007"
+    ],
+    [
+      0.000012,
+      "\u001b]1;~\u0007"
+    ],
+    [
+      0.010124,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36m~ \u001b[01;34m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000005,
+      "\u001b[K"
+    ],
+    [
+      0.000123,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      3.789653,
+      "\r\r\n"
+    ]
+  ]
+}
