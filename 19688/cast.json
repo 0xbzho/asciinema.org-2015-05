@@ -1,0 +1,102 @@
+{
+  "version": 1,
+  "width": 168,
+  "height": 40,
+  "duration": 10.344273,
+  "command": "/usr/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/usr/bin/zsh"
+  },
+  "stdout": [
+    [
+      1.518077,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                       \r \r"
+    ],
+    [
+      0.000080,
+      "\u001b]2;lzx@lzx-Inspiron-5525: /tmp\u0007"
+    ],
+    [
+      0.000025,
+      "\u001b]1;/tmp\u0007"
+    ],
+    [
+      0.026869,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[33m/tmp\u001b[01;34m\u001b[00m "
+    ],
+    [
+      0.000010,
+      "\u001b[K"
+    ],
+    [
+      4.155896,
+      "?"
+    ],
+    [
+      0.143946,
+      "\u0008??"
+    ],
+    [
+      0.238964,
+      "?"
+    ],
+    [
+      0.900123,
+      "\u0008 \u0008"
+    ],
+    [
+      0.167499,
+      "\u0008\u0008? \u0008"
+    ],
+    [
+      0.149044,
+      "\u0008 \u0008"
+    ],
+    [
+      0.515670,
+      "ls\u0008"
+    ],
+    [
+      0.086061,
+      "\u001b[1C"
+    ],
+    [
+      0.174367,
+      "\u001b[?1l\u001b\u003e\r\r\n"
+    ],
+    [
+      0.003736,
+      "\u001b]2;ls --color=tty\u0007"
+    ],
+    [
+      0.000011,
+      "\u001b]1;ls\u0007"
+    ],
+    [
+      0.311588,
+      "asciicast-864230958  \u001b[0m\u001b[01;34mgpg-LOwylS\u001b[0m      \u001b[01;35mlzx.socket\u001b[0m          \u001b[01;34mscala-devellzx\u001b[0m               \u001b[01;34mvim-syntastic-3769-Z8tDTj9e\u001b[0m"
+    ],
+    [
+      0.000426,
+      "\r\nconfig-err-QB8xFv    \u001b[01;34mhsperfdata_lzx\u001b[0m  \u001b[01;35mmongodb-27017.sock\u001b[0m  unity_support_test.0         \u001b[34;42mycm_temp\u001b[0m\r\n\u001b[01;35mfcitx-socket-:0\u001b[0m      ibus.log        \u001b[01;34morbit-lzx\u001b[0m           \u001b[01;34mvim-syntastic-3769-MPgeX8jK\u001b[0m  \u001b[01;35mzeal_process_running\u001b[0m\r\n\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                       \r \r"
+    ],
+    [
+      0.000124,
+      "\u001b]2;lzx@lzx-Inspiron-5525: /tmp\u0007\u001b]1;/tmp\u0007"
+    ],
+    [
+      0.012909,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[33m/tmp\u001b[01;34m\u001b[00m "
+    ],
+    [
+      0.000011,
+      "\u001b[K"
+    ],
+    [
+      1.844896,
+      "\r\r\n"
+    ]
+  ]
+}
