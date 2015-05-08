@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "width": 83,
+  "height": 32,
+  "duration": 3.533088,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.160396,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                  \r \r"
+    ],
+    [
+      0.000036,
+      "\u001b]2;hartmamt@Matthews-MacBook-Pro: ~/Downloads\u0007"
+    ],
+    [
+      0.000005,
+      "\u001b]1;~/Downloads\u0007"
+    ],
+    [
+      0.010376,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36mDownloads \u001b[01;34m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000010,
+      "\u001b[K"
+    ],
+    [
+      0.000094,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      3.329578,
+      "\r\r\n"
+    ]
+  ]
+}
