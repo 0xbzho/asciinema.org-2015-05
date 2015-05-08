@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "width": 110,
+  "height": 30,
+  "duration": 6.942834,
+  "command": "/usr/local/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/usr/local/bin/bash"
+  },
+  "stdout": [
+    [
+      0.017785,
+      "bash: _direnv_hook: command not found\r\n"
+    ],
+    [
+      0.000507,
+      "bash-4.3$ "
+    ],
+    [
+      6.923851,
+      "exit\r\n"
+    ]
+  ]
+}
