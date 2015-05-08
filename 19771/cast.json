@@ -1,0 +1,5382 @@
+{
+  "version": 1,
+  "width": 128,
+  "height": 36,
+  "duration": 270.822900,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.154870,
+      "\u001b[1m\u001b[32m________________________________________________________________________________________________________________________________\u001b(B\u001b[m\r\r\n\u001b[35msanta\u001b(B\u001b[m@\u001b[35mgeeker-1\u001b(B\u001b[m in \u001b[34m~\u001b(B\u001b[m\r\r\n"
+    ],
+    [
+      0.000022,
+      "$ "
+    ],
+    [
+      0.771889,
+      "g"
+    ],
+    [
+      0.065477,
+      "i"
+    ],
+    [
+      0.062702,
+      "t"
+    ],
+    [
+      0.070430,
+      " "
+    ],
+    [
+      0.458296,
+      "c"
+    ],
+    [
+      0.112196,
+      "l"
+    ],
+    [
+      0.136080,
+      "o"
+    ],
+    [
+      0.059805,
+      "n"
+    ],
+    [
+      0.083708,
+      "e"
+    ],
+    [
+      0.121556,
+      " "
+    ],
+    [
+      0.150691,
+      "g"
+    ],
+    [
+      0.064179,
+      "i"
+    ],
+    [
+      0.047834,
+      "t"
+    ],
+    [
+      0.280072,
+      "@"
+    ],
+    [
+      0.455678,
+      "g"
+    ],
+    [
+      0.384045,
+      "i"
+    ],
+    [
+      0.112117,
+      "t"
+    ],
+    [
+      0.200012,
+      "h"
+    ],
+    [
+      0.054720,
+      "u"
+    ],
+    [
+      0.089407,
+      "b"
+    ],
+    [
+      0.199851,
+      "."
+    ],
+    [
+      0.159975,
+      "c"
+    ],
+    [
+      0.088177,
+      "o"
+    ],
+    [
+      0.071832,
+      "m"
+    ],
+    [
+      1.056166,
+      ":"
+    ],
+    [
+      0.159996,
+      "s"
+    ],
+    [
+      0.071821,
+      "a"
+    ],
+    [
+      0.057585,
+      "n"
+    ],
+    [
+      0.102457,
+      "t"
+    ],
+    [
+      0.047435,
+      "a"
+    ],
+    [
+      0.200672,
+      "z"
+    ],
+    [
+      0.096089,
+      "h"
+    ],
+    [
+      0.071508,
+      "a"
+    ],
+    [
+      0.071900,
+      "n"
+    ],
+    [
+      0.080329,
+      "g"
+    ],
+    [
+      0.176083,
+      "/"
+    ],
+    [
+      0.192290,
+      "d"
+    ],
+    [
+      0.103801,
+      "n"
+    ],
+    [
+      0.119788,
+      "2"
+    ],
+    [
+      0.328250,
+      "."
+    ],
+    [
+      0.120062,
+      "g"
+    ],
+    [
+      0.079885,
+      "i"
+    ],
+    [
+      0.056084,
+      "t"
+    ],
+    [
+      0.094939,
+      "\r\n"
+    ],
+    [
+      0.003528,
+      "Cloning into 'dn2'...\r\n"
+    ],
+    [
+      0.240627,
+      "remote: Counting objects: 5481, done.\u001b[K\r\nremote: Compressing objects:   0% (1/197)   \u001b[K\r"
+    ],
+    [
+      0.000016,
+      "remote: Compressing objects:   1% (2/197)   \u001b[K\rremote: Compressing objects:   2% (4/197)   \u001b[K\rremote: Compressing objects:   3% (6/197)   \u001b[K\rremote: Compressing objects:   4% (8/197)   \u001b[K\rremote: Compressing objects:   5% (10/197)   \u001b[K\r"
+    ],
+    [
+      0.000008,
+      "remote: Compressing objects:   6% (12/197)   \u001b[K\r"
+    ],
+    [
+      0.000088,
+      "remote: Compressing objects:   7% (14/197)   \u001b[K\rremote: Compressing objects:   8% (16/197)   \u001b[K\rremote: Compressing objects:   9% (18/197)   \u001b[K\rremote: Compressing objects:  10% (20/197)   \u001b[K\rremote: Compressing objects:  11% (22/197)   \u001b[K\r"
+    ],
+    [
+      0.000007,
+      "remote: Compressing objects:  12% (24/197)   \u001b[K\rremote: Compressing objects:  13% (26/197)   \u001b[K\rremote: Compressing objects:  14% (28/197)   \u001b[K\r"
+    ],
+    [
+      0.000077,
+      "remote: Compressing objects:  15% (30/197)   \u001b[K\rremote: Compressing objects:  16% (32/197)   \u001b[K\rremote: Compressing objects:  17% (34/197)   \u001b[K\rremote: Compressing objects:  18% (36/197)   \u001b[K\rremote: Compressing objects:  19% (38/197)   \u001b[K\rremote: Compressing objects:  20% (40/197)   \u001b[K\rremote: Compressing objects:  21% (42/197)   \u001b[K\r"
+    ],
+    [
+      0.000028,
+      "remote: Compressing objects:  22% (44/197)   \u001b[K\rremote: Compressing objects:  23% (46/197)   \u001b[K\rremote: Compressing objects:  24% (48/197)   \u001b[K\rremote: Compressing objects:  25% (50/197)   \u001b[K\rremote: Compressing objects:  26% (52/197)   \u001b[K\r"
+    ],
+    [
+      0.000018,
+      "remote: Compressing objects:  27% (54/197)   \u001b[K\r"
+    ],
+    [
+      0.000004,
+      "remote: Compressing objects:  28% (56/197)   \u001b[K\r"
+    ],
+    [
+      0.000140,
+      "remote: Compressing objects:  29% (58/197)   \u001b[K\rremote: Compressing objects:  30% (60/197)   \u001b[K\rremote: Compressing objects:  31% (62/197)   \u001b[K\rremote: Compressing objects:  32% (64/197)   \u001b[K\rremote: Compressing objects:  33% (66/197)   \u001b[K\rremote: Compressing objects:  34% (67/197)   \u001b[K\rremote: Compressing objects:  35% (69/197)   \u001b[K\rremote: Compressing objects:  36% (71/197)   \u001b[K\rremote: Compressing objects:  37% (73/197)   \u001b[K\rremote: Compressing objects:  38% (75/197)   \u001b[K\rremote: Compressing objects:  39% (77/197)   \u001b[K\rremote: Compressing objects:  40% (79/197)   \u001b[K\rremote: Compressing objects:  41% (81/197)   \u001b[K\rremote: Compressing objects:  42% (83/197)   \u001b[K\r"
+    ],
+    [
+      0.000010,
+      "remote: Compressing objects:  43% (85/197)   \u001b[K\rremote: Compressing objects:  44% (87/197)   \u001b[K\rremote: Compressing objects:  45% (89/197)   \u001b[K\rremote: Compressing objects:  46% (91/197)   \u001b[K\r"
+    ],
+    [
+      0.000005,
+      "remote: Compressing objects:  47% (93/197)   \u001b[K\r"
+    ],
+    [
+      0.000004,
+      "remote: Compressing objects:  48% (95/197)   \u001b[K\r"
+    ],
+    [
+      0.000046,
+      "remote: Compressing objects:  49% (97/197)   \u001b[K\r"
+    ],
+    [
+      0.000037,
+      "remote: Compressing objects:  50% (99/197)   \u001b[K\rremote: Compressing objects:  51% (101/197)   \u001b[K\rremote: Compressing objects:  52% (103/197)   \u001b[K\rremote: Compressing objects:  53% (105/197)   \u001b[K\r"
+    ],
+    [
+      0.000005,
+      "remote: Compressing objects:  54% (107/197)   \u001b[K\r"
+    ],
+    [
+      0.000004,
+      "remote: Compressing objects:  55% (109/197)   \u001b[K\r"
+    ],
+    [
+      0.000016,
+      "remote: Compressing objects:  56% (111/197)   \u001b[K\r"
+    ],
+    [
+      0.000010,
+      "remote: Compressing objects:  57% (113/197)   \u001b[K\rremote: Compressing objects:  58% (115/197)   \u001b[K\rremote: Compressing objects:  59% (117/197)   \u001b[K\r"
+    ],
+    [
+      0.003187,
+      "remote: Compressing objects:  60% (119/197)   \u001b[K\r"
+    ],
+    [
+      0.000006,
+      "remote: Compressing objects:  61% (121/197)   \u001b[K\rremote: Compressing objects:  62% (123/197)   \u001b[K\rremote: Compressing objects:  63% (125/197)   \u001b[K\r"
+    ],
+    [
+      0.000004,
+      "remote: Compressing objects:  64% (127/197)   \u001b[K\r"
+    ],
+    [
+      0.000051,
+      "remote: Compressing objects:  65% (129/197)   \u001b[K\rremote: Compressing objects:  66% (131/197)   \u001b[K\rremote: Compressing objects:  67% (132/197)   \u001b[K\rremote: Compressing objects:  68% (134/197)   \u001b[K\rremote: Compressing objects:  69% (136/197)   \u001b[K\rremote: Compressing objects:  70% (138/197)   \u001b[K\r"
+    ],
+    [
+      0.000009,
+      "remote: Compressing objects:  71% (140/197)   \u001b[K\rremote: Compressing objects:  72% (142/197)   \u001b[K\rremote: Compressing objects:  73% (144/197)   \u001b[K\rremote: Compressing objects:  74% (146/197)   \u001b[K\r"
+    ],
+    [
+      0.000004,
+      "remote: Compressing objects:  75% (148/197)   \u001b[K\r"
+    ],
+    [
+      0.000004,
+      "remote: Compressing objects:  76% (150/197)   \u001b[K\r"
+    ],
+    [
+      0.000029,
+      "remote: Compressing objects:  77% (152/197)   \u001b[K\rremote: Compressing objects:  78% (154/197)   \u001b[K\rremote: Compressing objects:  79% (156/197)   \u001b[K\r"
+    ],
+    [
+      0.000006,
+      "remote: Compressing objects:  80% (158/197)   \u001b[K\rremote: Compressing objects:  81% (160/197)   \u001b[K\rremote: Compressing objects:  82% (162/197)   \u001b[K\r"
+    ],
+    [
+      0.000065,
+      "remote: Compressing objects:  83% (164/197)   \u001b[K\rremote: Compressing objects:  84% (166/197)   \u001b[K\rremote: Compressing objects:  85% (168/197)   \u001b[K\rremote: Compressing objects:  86% (170/197)   \u001b[K\rremote: Compressing objects:  87% (172/197)   \u001b[K\rremote: Compressing objects:  88% (174/197)   \u001b[K\r"
+    ],
+    [
+      0.000093,
+      "remote: Compressing objects:  89% (176/197)   \u001b[K\rremote: Compressing objects:  90% (178/197)   \u001b[K\rremote: Compressing objects:  91% (180/197)   \u001b[K\rremote: Compressing objects:  92% (182/197)   \u001b[K\rremote: Compressing objects:  93% (184/197)   \u001b[K\rremote: Compressing objects:  94% (186/197)   \u001b[K\r"
+    ],
+    [
+      0.002123,
+      "remote: Compressing objects:  95% (188/197)   \u001b[K\rremote: Compressing objects:  96% (190/197)   \u001b[K\rremote: Compressing objects:  97% (192/197)   \u001b[K\rremote: Compressing objects:  98% (194/197)   \u001b[K\rremote: Compressing objects:  99% (196/197)   \u001b[K\r"
+    ],
+    [
+      0.000006,
+      "remote: Compressing objects: 100% (197/197)   \u001b[K\rremote: Compressing objects: 100% (197/197), done.\u001b[K\r\n"
+    ],
+    [
+      0.001788,
+      "Receiving objects:   0% (1/5481)   \r"
+    ],
+    [
+      0.024458,
+      "Receiving objects:   1% (55/5481)   \r"
+    ],
+    [
+      0.022037,
+      "Receiving objects:   2% (110/5481)   \r"
+    ],
+    [
+      0.020342,
+      "Receiving objects:   3% (165/5481)   \r"
+    ],
+    [
+      0.020304,
+      "Receiving objects:   4% (220/5481)   \r"
+    ],
+    [
+      0.018284,
+      "Receiving objects:   5% (275/5481)   \r"
+    ],
+    [
+      0.016494,
+      "Receiving objects:   6% (329/5481)   \r"
+    ],
+    [
+      0.016511,
+      "Receiving objects:   7% (384/5481)   \r"
+    ],
+    [
+      0.016015,
+      "Receiving objects:   8% (439/5481)   \r"
+    ],
+    [
+      0.014493,
+      "Receiving objects:   9% (494/5481)   \r"
+    ],
+    [
+      0.015183,
+      "Receiving objects:  10% (549/5481)   \r"
+    ],
+    [
+      0.014215,
+      "Receiving objects:  11% (603/5481)   \r"
+    ],
+    [
+      0.013912,
+      "Receiving objects:  12% (658/5481)   \r"
+    ],
+    [
+      0.013856,
+      "Receiving objects:  13% (713/5481)   \r"
+    ],
+    [
+      0.013598,
+      "Receiving objects:  14% (768/5481)   \r"
+    ],
+    [
+      0.008152,
+      "Receiving objects:  15% (823/5481)   \r"
+    ],
+    [
+      0.008336,
+      "Receiving objects:  16% (877/5481)   \r"
+    ],
+    [
+      0.008778,
+      "Receiving objects:  17% (932/5481)   \r"
+    ],
+    [
+      0.008696,
+      "Receiving objects:  18% (987/5481)   \r"
+    ],
+    [
+      0.008452,
+      "Receiving objects:  19% (1042/5481)   \r"
+    ],
+    [
+      0.008655,
+      "Receiving objects:  20% (1097/5481)   \r"
+    ],
+    [
+      0.007983,
+      "Receiving objects:  21% (1152/5481)   \r"
+    ],
+    [
+      0.009288,
+      "Receiving objects:  22% (1206/5481)   \r"
+    ],
+    [
+      0.007840,
+      "Receiving objects:  23% (1261/5481)   \r"
+    ],
+    [
+      0.013375,
+      "Receiving objects:  24% (1316/5481)   \r"
+    ],
+    [
+      0.014790,
+      "Receiving objects:  25% (1371/5481)   \r"
+    ],
+    [
+      0.013343,
+      "Receiving objects:  26% (1426/5481)   \r"
+    ],
+    [
+      0.013057,
+      "Receiving objects:  27% (1480/5481)   \r"
+    ],
+    [
+      0.015125,
+      "Receiving objects:  28% (1535/5481)   \r"
+    ],
+    [
+      0.001424,
+      "Receiving objects:  29% (1590/5481)   \r"
+    ],
+    [
+      0.002686,
+      "Receiving objects:  30% (1645/5481)   \r"
+    ],
+    [
+      0.001374,
+      "Receiving objects:  31% (1700/5481)   \r"
+    ],
+    [
+      0.001442,
+      "Receiving objects:  32% (1754/5481)   \r"
+    ],
+    [
+      0.001010,
+      "Receiving objects:  33% (1809/5481)   \r"
+    ],
+    [
+      0.001297,
+      "Receiving objects:  34% (1864/5481)   \r"
+    ],
+    [
+      0.002389,
+      "Receiving objects:  35% (1919/5481)   \r"
+    ],
+    [
+      0.002451,
+      "Receiving objects:  36% (1974/5481)   \r"
+    ],
+    [
+      0.000909,
+      "Receiving objects:  37% (2028/5481)   \r"
+    ],
+    [
+      0.000417,
+      "Receiving objects:  38% (2083/5481)   \r"
+    ],
+    [
+      0.001145,
+      "Receiving objects:  39% (2138/5481)   \r"
+    ],
+    [
+      0.003723,
+      "Receiving objects:  40% (2193/5481)   \r"
+    ],
+    [
+      0.002862,
+      "Receiving objects:  41% (2248/5481)   \r"
+    ],
+    [
+      0.002438,
+      "Receiving objects:  42% (2303/5481)   \r"
+    ],
+    [
+      0.000790,
+      "Receiving objects:  43% (2357/5481)   \r"
+    ],
+    [
+      0.001469,
+      "Receiving objects:  44% (2412/5481)   \r"
+    ],
+    [
+      0.000783,
+      "Receiving objects:  45% (2467/5481)   \r"
+    ],
+    [
+      0.001598,
+      "Receiving objects:  46% (2522/5481)   \r"
+    ],
+    [
+      0.002567,
+      "Receiving objects:  47% (2577/5481)   \r"
+    ],
+    [
+      0.001601,
+      "Receiving objects:  48% (2631/5481)   \r"
+    ],
+    [
+      0.001960,
+      "Receiving objects:  49% (2686/5481)   \r"
+    ],
+    [
+      0.001645,
+      "Receiving objects:  50% (2741/5481)   \r"
+    ],
+    [
+      0.002759,
+      "Receiving objects:  51% (2796/5481)   \r"
+    ],
+    [
+      0.003112,
+      "Receiving objects:  52% (2851/5481)   \r"
+    ],
+    [
+      0.001231,
+      "Receiving objects:  53% (2905/5481)   \r"
+    ],
+    [
+      0.004242,
+      "Receiving objects:  54% (2960/5481)   \r"
+    ],
+    [
+      0.003887,
+      "Receiving objects:  55% (3015/5481)   \r"
+    ],
+    [
+      0.002796,
+      "Receiving objects:  56% (3070/5481)   \r"
+    ],
+    [
+      0.003100,
+      "Receiving objects:  57% (3125/5481)   \r"
+    ],
+    [
+      0.005527,
+      "Receiving objects:  58% (3179/5481)   \r"
+    ],
+    [
+      0.003383,
+      "Receiving objects:  59% (3234/5481)   \r"
+    ],
+    [
+      0.005393,
+      "Receiving objects:  60% (3289/5481)   \r"
+    ],
+    [
+      0.002024,
+      "Receiving objects:  61% (3344/5481)   \r"
+    ],
+    [
+      0.003804,
+      "Receiving objects:  62% (3399/5481)   \r"
+    ],
+    [
+      0.005119,
+      "Receiving objects:  63% (3454/5481)   \r"
+    ],
+    [
+      0.000949,
+      "Receiving objects:  64% (3508/5481)   \r"
+    ],
+    [
+      0.001539,
+      "Receiving objects:  65% (3563/5481)   \r"
+    ],
+    [
+      0.001048,
+      "Receiving objects:  66% (3618/5481)   \r"
+    ],
+    [
+      0.003813,
+      "Receiving objects:  67% (3673/5481)   \r"
+    ],
+    [
+      0.001530,
+      "Receiving objects:  68% (3728/5481)   \r"
+    ],
+    [
+      0.001313,
+      "Receiving objects:  69% (3782/5481)   \r"
+    ],
+    [
+      0.001234,
+      "Receiving objects:  70% (3837/5481)   \r"
+    ],
+    [
+      0.000219,
+      "Receiving objects:  71% (3892/5481)   \r"
+    ],
+    [
+      0.000424,
+      "Receiving objects:  72% (3947/5481)   \r"
+    ],
+    [
+      0.003880,
+      "Receiving objects:  73% (4002/5481)   \r"
+    ],
+    [
+      0.001501,
+      "Receiving objects:  74% (4056/5481)   \r"
+    ],
+    [
+      0.001336,
+      "Receiving objects:  75% (4111/5481)   \r"
+    ],
+    [
+      0.000610,
+      "Receiving objects:  76% (4166/5481)   \r"
+    ],
+    [
+      0.001160,
+      "Receiving objects:  77% (4221/5481)   \r"
+    ],
+    [
+      0.002287,
+      "Receiving objects:  78% (4276/5481)   \r"
+    ],
+    [
+      0.001107,
+      "Receiving objects:  79% (4330/5481)   \r"
+    ],
+    [
+      0.001215,
+      "Receiving objects:  80% (4385/5481)   \r"
+    ],
+    [
+      0.002678,
+      "Receiving objects:  81% (4440/5481)   \r"
+    ],
+    [
+      0.003839,
+      "Receiving objects:  82% (4495/5481)   \r"
+    ],
+    [
+      0.002444,
+      "Receiving objects:  83% (4550/5481)   \r"
+    ],
+    [
+      0.002215,
+      "Receiving objects:  84% (4605/5481)   \r"
+    ],
+    [
+      0.001038,
+      "Receiving objects:  85% (4659/5481)   \r"
+    ],
+    [
+      0.002087,
+      "Receiving objects:  86% (4714/5481)   \r"
+    ],
+    [
+      0.001531,
+      "Receiving objects:  87% (4769/5481)   \r"
+    ],
+    [
+      0.003129,
+      "Receiving objects:  88% (4824/5481), 1.46 MiB | 2.89 MiB/s   \r"
+    ],
+    [
+      0.002157,
+      "Receiving objects:  89% (4879/5481), 1.46 MiB | 2.89 MiB/s   \r"
+    ],
+    [
+      0.001719,
+      "Receiving objects:  90% (4933/5481), 1.46 MiB | 2.89 MiB/s   \r"
+    ],
+    [
+      0.001305,
+      "Receiving objects:  91% (4988/5481), 1.46 MiB | 2.89 MiB/s   \r"
+    ],
+    [
+      0.002773,
+      "Receiving objects:  92% (5043/5481), 1.46 MiB | 2.89 MiB/s   \r"
+    ],
+    [
+      0.002487,
+      "Receiving objects:  93% (5098/5481), 1.46 MiB | 2.89 MiB/s   \r"
+    ],
+    [
+      0.008072,
+      "Receiving objects:  94% (5153/5481), 1.46 MiB | 2.89 MiB/s   \r"
+    ],
+    [
+      0.008849,
+      "Receiving objects:  95% (5207/5481), 1.46 MiB | 2.89 MiB/s   \r"
+    ],
+    [
+      0.002015,
+      "Receiving objects:  96% (5262/5481), 1.46 MiB | 2.89 MiB/s   \r"
+    ],
+    [
+      0.009119,
+      "Receiving objects:  97% (5317/5481), 1.46 MiB | 2.89 MiB/s   \r"
+    ],
+    [
+      0.015370,
+      "Receiving objects:  98% (5372/5481), 1.46 MiB | 2.89 MiB/s   \r"
+    ],
+    [
+      0.008529,
+      "remote: Total 5481 (delta 74), reused 0 (delta 0), pack-reused 5281\u001b[K\r\n"
+    ],
+    [
+      0.007415,
+      "Receiving objects:  99% (5427/5481), 1.46 MiB | 2.89 MiB/s   \r"
+    ],
+    [
+      0.000142,
+      "Receiving objects: 100% (5481/5481), 1.46 MiB | 2.89 MiB/s   \rReceiving objects: 100% (5481/5481), 1.75 MiB | 2.89 MiB/s, done.\r\n"
+    ],
+    [
+      0.001295,
+      "Resolving deltas:   0% (0/3570)   \r"
+    ],
+    [
+      0.013679,
+      "Resolving deltas:   1% (53/3570)   \r"
+    ],
+    [
+      0.005020,
+      "Resolving deltas:   2% (74/3570)   \r"
+    ],
+    [
+      0.008357,
+      "Resolving deltas:   3% (110/3570)   \r"
+    ],
+    [
+      0.007881,
+      "Resolving deltas:   4% (143/3570)   \r"
+    ],
+    [
+      0.008960,
+      "Resolving deltas:   5% (180/3570)   \r"
+    ],
+    [
+      0.008839,
+      "Resolving deltas:   6% (215/3570)   \r"
+    ],
+    [
+      0.008007,
+      "Resolving deltas:   7% (250/3570)   \r"
+    ],
+    [
+      0.010714,
+      "Resolving deltas:   8% (296/3570)   \r"
+    ],
+    [
+      0.005921,
+      "Resolving deltas:   9% (322/3570)   \r"
+    ],
+    [
+      0.011769,
+      "Resolving deltas:  10% (373/3570)   \r"
+    ],
+    [
+      0.011119,
+      "Resolving deltas:  11% (420/3570)   \r"
+    ],
+    [
+      0.002981,
+      "Resolving deltas:  12% (433/3570)   \r"
+    ],
+    [
+      0.009220,
+      "Resolving deltas:  13% (472/3570)   \r"
+    ],
+    [
+      0.007573,
+      "Resolving deltas:  14% (505/3570)   \r"
+    ],
+    [
+      0.018241,
+      "Resolving deltas:  16% (583/3570)   \r"
+    ],
+    [
+      0.005862,
+      "Resolving deltas:  17% (608/3570)   \r"
+    ],
+    [
+      0.010879,
+      "Resolving deltas:  18% (655/3570)   \r"
+    ],
+    [
+      0.006276,
+      "Resolving deltas:  19% (682/3570)   \r"
+    ],
+    [
+      0.007421,
+      "Resolving deltas:  20% (714/3570)   \r"
+    ],
+    [
+      0.011545,
+      "Resolving deltas:  21% (764/3570)   \r"
+    ],
+    [
+      0.005213,
+      "Resolving deltas:  22% (787/3570)   \r"
+    ],
+    [
+      0.008692,
+      "Resolving deltas:  23% (825/3570)   \r"
+    ],
+    [
+      0.008358,
+      "Resolving deltas:  24% (861/3570)   \r"
+    ],
+    [
+      0.007953,
+      "Resolving deltas:  25% (895/3570)   \r"
+    ],
+    [
+      0.007989,
+      "Resolving deltas:  26% (930/3570)   \r"
+    ],
+    [
+      0.009154,
+      "Resolving deltas:  27% (967/3570)   \r"
+    ],
+    [
+      0.008604,
+      "Resolving deltas:  28% (1003/3570)   \r"
+    ],
+    [
+      0.007533,
+      "Resolving deltas:  29% (1036/3570)   \r"
+    ],
+    [
+      0.009997,
+      "Resolving deltas:  30% (1079/3570)   \r"
+    ],
+    [
+      0.013627,
+      "Resolving deltas:  31% (1137/3570)   \r"
+    ],
+    [
+      0.002081,
+      "Resolving deltas:  32% (1146/3570)   \r"
+    ],
+    [
+      0.010464,
+      "Resolving deltas:  33% (1191/3570)   \r"
+    ],
+    [
+      0.010248,
+      "Resolving deltas:  34% (1235/3570)   \r"
+    ],
+    [
+      0.005279,
+      "Resolving deltas:  35% (1258/3570)   \r"
+    ],
+    [
+      0.009229,
+      "Resolving deltas:  36% (1297/3570)   \r"
+    ],
+    [
+      0.005758,
+      "Resolving deltas:  37% (1322/3570)   \r"
+    ],
+    [
+      0.007950,
+      "Resolving deltas:  38% (1357/3570)   \r"
+    ],
+    [
+      0.009834,
+      "Resolving deltas:  39% (1400/3570)   \r"
+    ],
+    [
+      0.006819,
+      "Resolving deltas:  40% (1430/3570)   \r"
+    ],
+    [
+      0.007867,
+      "Resolving deltas:  41% (1464/3570)   \r"
+    ],
+    [
+      0.008443,
+      "Resolving deltas:  42% (1500/3570)   \r"
+    ],
+    [
+      0.008623,
+      "Resolving deltas:  43% (1536/3570)   \r"
+    ],
+    [
+      0.008252,
+      "Resolving deltas:  44% (1571/3570)   \r"
+    ],
+    [
+      0.008524,
+      "Resolving deltas:  45% (1607/3570)   \r"
+    ],
+    [
+      0.008817,
+      "Resolving deltas:  46% (1644/3570)   \r"
+    ],
+    [
+      0.008241,
+      "Resolving deltas:  47% (1680/3570)   \r"
+    ],
+    [
+      0.021181,
+      "Resolving deltas:  49% (1770/3570)   \r"
+    ],
+    [
+      0.016501,
+      "Resolving deltas:  51% (1840/3570)   \r"
+    ],
+    [
+      0.007981,
+      "Resolving deltas:  52% (1874/3570)   \r"
+    ],
+    [
+      0.009324,
+      "Resolving deltas:  53% (1913/3570)   \r"
+    ],
+    [
+      0.008158,
+      "Resolving deltas:  54% (1948/3570)   \r"
+    ],
+    [
+      0.007838,
+      "Resolving deltas:  55% (1981/3570)   \r"
+    ],
+    [
+      0.004448,
+      "Resolving deltas:  56% (2000/3570)   \r"
+    ],
+    [
+      0.009911,
+      "Resolving deltas:  57% (2043/3570)   \r"
+    ],
+    [
+      0.008963,
+      "Resolving deltas:  58% (2081/3570)   \r"
+    ],
+    [
+      0.006038,
+      "Resolving deltas:  59% (2107/3570)   \r"
+    ],
+    [
+      0.016481,
+      "Resolving deltas:  61% (2178/3570)   \r"
+    ],
+    [
+      0.009062,
+      "Resolving deltas:  62% (2217/3570)   \r"
+    ],
+    [
+      0.011910,
+      "Resolving deltas:  63% (2268/3570)   \r"
+    ],
+    [
+      0.006205,
+      "Resolving deltas:  64% (2294/3570)   \r"
+    ],
+    [
+      0.009944,
+      "Resolving deltas:  65% (2336/3570)   \r"
+    ],
+    [
+      0.017028,
+      "Resolving deltas:  67% (2407/3570)   \r"
+    ],
+    [
+      0.007116,
+      "Resolving deltas:  68% (2438/3570)   \r"
+    ],
+    [
+      0.007384,
+      "Resolving deltas:  69% (2470/3570)   \r"
+    ],
+    [
+      0.014205,
+      "Resolving deltas:  70% (2530/3570)   \r"
+    ],
+    [
+      0.003659,
+      "Resolving deltas:  71% (2546/3570)   \r"
+    ],
+    [
+      0.008256,
+      "Resolving deltas:  72% (2581/3570)   \r"
+    ],
+    [
+      0.006307,
+      "Resolving deltas:  73% (2607/3570)   \r"
+    ],
+    [
+      0.011799,
+      "Resolving deltas:  74% (2657/3570)   \r"
+    ],
+    [
+      0.008219,
+      "Resolving deltas:  75% (2692/3570)   \r"
+    ],
+    [
+      0.008749,
+      "Resolving deltas:  76% (2728/3570)   \r"
+    ],
+    [
+      0.004924,
+      "Resolving deltas:  77% (2749/3570)   \r"
+    ],
+    [
+      0.008209,
+      "Resolving deltas:  78% (2785/3570)   \r"
+    ],
+    [
+      0.008923,
+      "Resolving deltas:  79% (2823/3570)   \r"
+    ],
+    [
+      0.007806,
+      "Resolving deltas:  80% (2856/3570)   \r"
+    ],
+    [
+      0.008781,
+      "Resolving deltas:  81% (2893/3570)   \r"
+    ],
+    [
+      0.009229,
+      "Resolving deltas:  82% (2932/3570)   \r"
+    ],
+    [
+      0.009095,
+      "Resolving deltas:  83% (2971/3570)   \r"
+    ],
+    [
+      0.006439,
+      "Resolving deltas:  84% (2999/3570)   \r"
+    ],
+    [
+      0.009398,
+      "Resolving deltas:  85% (3040/3570)   \r"
+    ],
+    [
+      0.007223,
+      "Resolving deltas:  86% (3071/3570)   \r"
+    ],
+    [
+      0.009443,
+      "Resolving deltas:  87% (3111/3570)   \r"
+    ],
+    [
+      0.020565,
+      "Resolving deltas:  89% (3200/3570)   \r"
+    ],
+    [
+      0.006672,
+      "Resolving deltas:  90% (3229/3570)   \r"
+    ],
+    [
+      0.004511,
+      "Resolving deltas:  91% (3249/3570)   \r"
+    ],
+    [
+      0.008560,
+      "Resolving deltas:  92% (3285/3570)   \r"
+    ],
+    [
+      0.013943,
+      "Resolving deltas:  93% (3344/3570)   \r"
+    ],
+    [
+      0.003222,
+      "Resolving deltas:  94% (3358/3570)   \r"
+    ],
+    [
+      0.008709,
+      "Resolving deltas:  95% (3394/3570)   \r"
+    ],
+    [
+      0.010945,
+      "Resolving deltas:  96% (3440/3570)   \r"
+    ],
+    [
+      0.008523,
+      "Resolving deltas:  97% (3476/3570)   \r"
+    ],
+    [
+      0.006036,
+      "Resolving deltas:  98% (3502/3570)   \r"
+    ],
+    [
+      0.007729,
+      "Resolving deltas:  99% (3535/3570)   \r"
+    ],
+    [
+      0.008325,
+      "Resolving deltas: 100% (3570/3570)   \r"
+    ],
+    [
+      0.000021,
+      "Resolving deltas: 100% (3570/3570), done.\r\n"
+    ],
+    [
+      0.081583,
+      "Checking connectivity... "
+    ],
+    [
+      0.005234,
+      "done.\r\n"
+    ],
+    [
+      0.584061,
+      "\u001b[1m\u001b[32m________________________________________________________________________________________________________________________________\u001b(B\u001b[m\r\r\n\u001b[35msanta\u001b(B\u001b[m@\u001b[35mgeeker-1\u001b(B\u001b[m in \u001b[34m~\u001b(B\u001b[m\r\r\n$ "
+    ],
+    [
+      0.774792,
+      "c"
+    ],
+    [
+      0.072167,
+      "d"
+    ],
+    [
+      0.063580,
+      " "
+    ],
+    [
+      0.118972,
+      "d"
+    ],
+    [
+      0.073896,
+      "n"
+    ],
+    [
+      0.110858,
+      "2/"
+    ],
+    [
+      0.400853,
+      "\r\n"
+    ],
+    [
+      0.137341,
+      "\u001b[1m\u001b[32m________________________________________________________________________________________________________________________________\u001b(B\u001b[m\r\r\n\u001b[35msanta\u001b(B\u001b[m@\u001b[35mgeeker-1\u001b(B\u001b[m in \u001b[34m~/dn2\u001b[31m on branch master\u001b(B\u001b[m\r\r\n$ "
+    ],
+    [
+      0.398056,
+      "l"
+    ],
+    [
+      0.047488,
+      "s"
+    ],
+    [
+      0.113171,
+      "\r\n"
+    ],
+    [
+      0.004254,
+      "activate.sh  \u001b[0m\u001b[01;34mbin\u001b[0m       \u001b[01;34mdn2\u001b[0m  \u001b[01;34mds_utils\u001b[0m  Makefile  \u001b[01;34mmsg_utils\u001b[0m  README.md  \u001b[01;34mtest\u001b[0m         TODO     \u001b[01;32mwaf\u001b[0m      wscript.ini.example\r\n\u001b[01;34mbase\u001b[0m         \u001b[01;34mdataflow\u001b[0m  \u001b[01;34mdoc\u001b[0m  LICENSE   \u001b[01;34mmsg\u001b[0m       \u001b[01;34mndarray\u001b[0m    \u001b[01;34mscripts\u001b[0m    \u001b[01;34mthird_party\u001b[0m  VERSION  wscript\r\n"
+    ],
+    [
+      0.131734,
+      "\u001b[1m\u001b[32m________________________________________________________________________________________________________________________________\u001b(B\u001b[m\r\r\n\u001b[35msanta\u001b(B\u001b[m@\u001b[35mgeeker-1\u001b(B\u001b[m in \u001b[34m~/dn2\u001b[31m on branch master\u001b(B\u001b[m\r\r\n$ "
+    ],
+    [
+      2.623684,
+      "l"
+    ],
+    [
+      0.048929,
+      "s"
+    ],
+    [
+      0.135037,
+      " "
+    ],
+    [
+      0.444037,
+      "/ho"
+    ],
+    [
+      0.000064,
+      "me/san"
+    ],
+    [
+      0.000009,
+      "t"
+    ],
+    [
+      0.000082,
+      "a/"
+    ],
+    [
+      0.000005,
+      "lo"
+    ],
+    [
+      0.000063,
+      "cal"
+    ],
+    [
+      0.000009,
+      "/"
+    ],
+    [
+      0.000089,
+      "pa"
+    ],
+    [
+      0.000005,
+      "c"
+    ],
+    [
+      0.000011,
+      "k"
+    ],
+    [
+      0.000039,
+      "a"
+    ],
+    [
+      0.000014,
+      "g"
+    ],
+    [
+      0.000112,
+      "es/"
+    ],
+    [
+      0.000010,
+      "c"
+    ],
+    [
+      0.000049,
+      "u"
+    ],
+    [
+      0.000028,
+      "d"
+    ],
+    [
+      0.000004,
+      "n"
+    ],
+    [
+      0.000049,
+      "n"
+    ],
+    [
+      0.000007,
+      "-"
+    ],
+    [
+      0.000053,
+      "6"
+    ],
+    [
+      0.000064,
+      ".5"
+    ],
+    [
+      0.000009,
+      "-"
+    ],
+    [
+      0.000028,
+      "l"
+    ],
+    [
+      0.000051,
+      "i"
+    ],
+    [
+      0.000015,
+      "n"
+    ],
+    [
+      0.000038,
+      "u"
+    ],
+    [
+      0.000041,
+      "x"
+    ],
+    [
+      0.000059,
+      "-x"
+    ],
+    [
+      0.000019,
+      "6"
+    ],
+    [
+      0.000014,
+      "4"
+    ],
+    [
+      0.000047,
+      "-"
+    ],
+    [
+      0.000055,
+      "v"
+    ],
+    [
+      0.000027,
+      "2"
+    ],
+    [
+      0.000012,
+      "/"
+    ],
+    [
+      0.434747,
+      "\r\n"
+    ],
+    [
+      0.005309,
+      "cudnn.h  CUDNN_License.pdf  INSTALL.txt  \u001b[0m\u001b[01;36mlibcudnn.so\u001b[0m  \u001b[01;36mlibcudnn.so.6.5\u001b[0m  \u001b[01;32mlibcudnn.so.6.5.48\u001b[0m  libcudnn_static.a\r\n"
+    ],
+    [
+      0.186612,
+      "\u001b[1m\u001b[32m________________________________________________________________________________________________________________________________\u001b(B\u001b[m\r\r\n\u001b[35msanta\u001b(B\u001b[m@\u001b[35mgeeker-1\u001b(B\u001b[m in \u001b[34m~/dn2\u001b[31m on branch master\u001b(B\u001b[m\r\r\n$ "
+    ],
+    [
+      1.416001,
+      "c"
+    ],
+    [
+      0.128203,
+      "p"
+    ],
+    [
+      0.111771,
+      " "
+    ],
+    [
+      0.111929,
+      "w"
+    ],
+    [
+      0.151667,
+      "s"
+    ],
+    [
+      0.151311,
+      "cript"
+    ],
+    [
+      0.289293,
+      "."
+    ],
+    [
+      0.215855,
+      "i"
+    ],
+    [
+      0.079130,
+      "ni.example "
+    ],
+    [
+      0.457001,
+      "w"
+    ],
+    [
+      0.160062,
+      "s"
+    ],
+    [
+      0.159137,
+      "cript"
+    ],
+    [
+      0.552651,
+      "."
+    ],
+    [
+      0.375987,
+      "i"
+    ],
+    [
+      0.120109,
+      "n"
+    ],
+    [
+      0.111969,
+      "i"
+    ],
+    [
+      0.351932,
+      "\r\n"
+    ],
+    [
+      0.139338,
+      "\u001b[1m\u001b[32m________________________________________________________________________________________________________________________________\u001b(B\u001b[m\r\r\n\u001b[35msanta\u001b(B\u001b[m@\u001b[35mgeeker-1\u001b(B\u001b[m in \u001b[34m~/dn2\u001b[31m on branch master\u001b(B\u001b[m\r\r\n$ "
+    ],
+    [
+      0.500536,
+      "v"
+    ],
+    [
+      0.072212,
+      "i"
+    ],
+    [
+      0.052752,
+      "m"
+    ],
+    [
+      0.066825,
+      " "
+    ],
+    [
+      0.049856,
+      "w"
+    ],
+    [
+      0.158457,
+      "s"
+    ],
+    [
+      0.149750,
+      "cript"
+    ],
+    [
+      0.194242,
+      "."
+    ],
+    [
+      0.184196,
+      "i"
+    ],
+    [
+      0.092860,
+      "ni"
+    ],
+    [
+      0.427074,
+      "\r\n"
+    ],
+    [
+      0.175183,
+      "\u001b[?1000h\u001b[?1049h\u001b[?1h\u001b="
+    ],
+    [
+      0.000020,
+      "\u001b[2;1H?\u001b[6n\u001b[1;1H  \u001b[1;1H"
+    ],
+    [
+      0.001455,
+      "\u001b[1;36r\u001b[?12;25h\u001b[?12l\u001b[?25h\u001b[27m\u001b[m\u001b[38;5;188m\u001b[48;5;233m\u001b[?25l\u001b[36;1H\"wscript.ini\"                                                                                                                  "
+    ],
+    [
+      0.000039,
+      "\u001b[36;15H4L, 51C"
+    ],
+    [
+      0.102884,
+      "\u001b[\u003ec"
+    ],
+    [
+      0.008011,
+      "\u001b[?12l\u001b[?25h\u001b[?1000l\u001b[?1002h\u001b[?25l\u001b[1;1H\u001b[38;5;241m\u001b[48;5;238m  1 \u001b[m\u001b[38;5;188m\u001b[48;5;233m\u001b[38;5;182m[LIBRARIES]\u001b[m\u001b[38;5;188m\u001b[48;5;233m                                                                                                                 \u001b[2;1H\u001b[38;5;241m\u001b[48;5;238m  2 \u001b[m\u001b[38;5;188m\u001b[48;5;233m                                                                                                                            \u001b[3;1H\u001b[38;5;241m\u001b[48;5;238m  3 \u001b[m\u001b[38;5;188m\u001b[48;5;233m\u001b[38;5;244m# Root path to find cudnn\u001b[m\u001b[38;5;188m\u001b[48;5;233m                                                                                                   \u001b[4;1H\u001b[38;5;241m\u001b[48;5;238m  4 \u001b[m\u001b[38;5;188m\u001b[48;5;233m\u001b[38;5;116mCUDNN_ROOT=\u001b[m\u001b[38;5;188m\u001b[48;5;233m                                                                                                                 \u001b[5;1H\u001b[38;5;65m~                                                                                                                               \u001b[6;1H~                                                                                                                               \u001b[7;1H~                                                                                                                               \u001b[8;1H~                                                                                                                               \u001b[9;1H~                                                                                                                               \u001b[10;1H~                                                                                                                               \u001b[11;1H~                                                                                                                               \u001b[12;1H~                                                                                                                               \u001b[13;1H~                                                                                        "
+    ],
+    [
+      0.000133,
+      "                                       \u001b[14;1H~                                                                                                                               \u001b[15;1H~                                                                                                                               \u001b[16;1H~                                                                                                                               \u001b[17;1H~                                                                                                                               \u001b[18;1H~                                                                                                                               \u001b[19;1H~                                                                                                                               \u001b[20;1H~                                                                                                                               \u001b[21;1H~                                                                                                                               \u001b[22;1H~                                                                                                                               \u001b[23;1H~                                                                                                                               \u001b[24;1H~                                                                                                                               \u001b[25;1H~                                                                                                                               \u001b[26;1H~                                                                                                                               \u001b[27;1H~                                                                                                                               \u001b[28;1H~                                                                                                              "
+    ],
+    [
+      0.001910,
+      "                 \u001b[29;1H~                                                                                                                               \u001b[30;1H~                                                                                                                               \u001b[31;1H~                                                                                                                               \u001b[32;1H~                                                                                                                               \u001b[33;1H~                                                                                                                               \u001b[34;1H~                                                                                                                               \u001b[m\u001b[38;5;188m\u001b[48;5;233m\u001b[35;1H\u001b[38;5;233m\u001b[48;5;249m \u001b[m\u001b[38;5;188m\u001b[48;5;233m\u001b[1m\u001b[38;5;233m\u001b[48;5;249mNORMAL\u001b[m\u001b[38;5;188m\u001b[48;5;233m\u001b[38;5;233m\u001b[48;5;249m \u001b[m\u001b[38;5;188m\u001b[48;5;233m\u001b[38;5;249m\u001b[48;5;239m\u003e\u001b[m\u001b[38;5;188m\u001b[48;5;233m\u001b[38;5;250m\u001b[48;5;239m master \u001b[m\u001b[38;5;188m\u001b[48;5;233m\u001b[38;5;239m\u001b[48;5;238m\u003e\u001b[m\u001b[38;5;188m\u001b[48;5;233m\u001b[38;5;188m\u001b[48;5;238m wscript.ini                                                         \u001b[m\u001b[38;5;188m\u001b[48;5;233m\u001b[38;5;238m\u001b[48;5;238m\u003c\u001b[m\u001b[38;5;188m\u001b[48;5;233m\u001b[38;5;188m\u001b[48;5;238m dosini \u001b[m\u001b[38;5;188m\u001b[48;5;233m\u001b[38;5;239m\u001b[48;5;238m\u003c\u001b[m\u001b[38;5;188m\u001b[48;5;233m\u001b[38;5;250m\u001b[48;5;239m utf-8[unix] \u001b[m\u001b[38;5;188m\u001b[48;5;233m\u001b[38;5;249m\u001b[48;5;239m\u003c\u001b[m\u001b[38;5;188m\u001b[48;5;233m\u001b[38;5;233m\u001b[48;5;249m 100% :\u001b[m\u001b[38;5;188m\u001b[48;5;233m\u001b[1m\u001b[38;5;233m\u001b[48;5;249m   4\u001b[m\u001b[38;5;188m\u001b[48;5;233m\u001b[38;5;233m\u001b[48;5;249m:  1  \u001b[4;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.782142,
+      "\u001b[?25l\u001b[m\u001b[38;5;188m\u001b[48;5;233m\u001b[36;118Hi\u001b[4;5H"
+    ],
+    [
+      0.000006,
+      "\u001b[36;118H \u001b[4;5H"
+    ],
+    [
+      0.000078,
+      "\u001b[36;1H\u001b[38;5;188m-- INSERT --\u001b[m\u001b[38;5;188m\u001b[48;5;233m         "
+    ],
+    [
+      0.003981,
+      "\u001b[35;1H\u001b[38;5;188m\u001b[48;5;65m \u001b[m\u001b[38;5;188m\u001b[48;5;233m\u001b[1m\u001b[38;5;188m\u001b[48;5;65mINSERT\u001b[m\u001b[38;5;188m\u001b[48;5;233m\u001b[38;5;233m\u001b[48;5;249m \u001b[m\u001b[38;5;188m\u001b[48;5;233m\u0008\u001b[38;5;188m\u001b[48;5;65m \u001b[m\u001b[38;5;188m\u001b[48;5;233m\u001b[38;5;65m\u001b[48;5;239m\u003e\u001b[101C\u003c\u001b[m\u001b[38;5;188m\u001b[48;5;233m\u001b[38;5;188m\u001b[48;5;65m 100% :\u001b[m\u001b[38;5;188m\u001b[48;5;233m\u001b[1m\u001b[38;5;188m\u001b[48;5;65m   4\u001b[m\u001b[38;5;188m\u001b[48;5;233m\u001b[38;5;233m\u001b[48;5;249m:\u001b[m\u001b[38;5;188m\u001b[48;5;233m\u0008\u001b[38;5;188m\u001b[48;5;65m:  1  \u001b]2;wscript.ini (~/dn2) - VIM\u0007"
+    ],
+    [
+      0.000643,
+      "\u001b[4;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.779973,
+      "\u001b[35;125H12\u001b[4;16H"
+    ],
+    [
+      0.347695,
+      "\u001b[?25l\u001b[m\u001b[38;5;188m\u001b[48;5;233m/home/santa/local/packages/cudnn-\u001b[38;5;187m6.5\u001b[m\u001b[38;5;188m\u001b[48;5;233m-linux-x64-v2/"
+    ],
+    [
+      0.007495,
+      "\u001b[35;19H\u001b[38;5;117m\u001b[48;5;238m wscript.ini[+]                                                      \u001b[m\u001b[38;5;188m\u001b[48;5;233m\u001b[37C\u001b[38;5;188m\u001b[48;5;65m6"
+    ],
+    [
+      0.001307,
+      "\u001b]2;wscript.ini + (~/dn2) - VIM\u0007\u001b[4;66H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.539865,
+      "\u001b[m\u001b[38;5;188m\u001b[48;5;233m\u001b[36;1H             \u001b[4;65H\u001b[?25l\u001b[36;118H^[\u001b[4;65H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.327172,
+      "\u001b[?25l\u001b[36;118H  \u001b[4;66H"
+    ],
+    [
+      0.000260,
+      "\u001b[?12l\u001b[?25h\u001b[?25l\u001b[36;118H:\u001b[4;65H"
+    ],
+    [
+      0.000074,
+      "\u001b[36;118H \r:\u001b[?1002l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.111548,
+      "w\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.063978,
+      "q\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.111949,
+      "a\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.535997,
+      "\r"
+    ],
+    [
+      0.000351,
+      "\u001b[?1002h\u001b[?25l\u001b[?1002l"
+    ],
+    [
+      0.000056,
+      "\"wscript.ini\""
+    ],
+    [
+      0.003472,
+      " 4L, 101C written"
+    ],
+    [
+      0.031769,
+      "\r\u001b]2;Thanks for flying Vim\u0007\r\r\n\u001b[39;49m\u001b[?1l\u001b\u003e\u001b[?12l\u001b[?25h\u001b[?1049l"
+    ],
+    [
+      0.185692,
+      "\u001b[1m\u001b[32m________________________________________________________________________________________________________________________________\u001b(B\u001b[m\r\r\n\u001b[35msanta\u001b(B\u001b[m@\u001b[35mgeeker-1\u001b(B\u001b[m in \u001b[34m~/dn2\u001b[31m on branch master\u001b(B\u001b[m\r\r\n$ "
+    ],
+    [
+      1.210878,
+      "."
+    ],
+    [
+      0.079582,
+      " "
+    ],
+    [
+      0.071990,
+      "a"
+    ],
+    [
+      0.144210,
+      "ctivate.sh "
+    ],
+    [
+      0.391507,
+      "\r\n"
+    ],
+    [
+      0.111102,
+      "\u001b[1m\u001b[32m________________________________________________________________________________________________________________________________\u001b(B\u001b[m\r\r\n\u001b[35msanta\u001b(B\u001b[m@\u001b[35mgeeker-1\u001b(B\u001b[m in \u001b[34m~/dn2\u001b[31m on branch master\u001b(B\u001b[m\r\r\n"
+    ],
+    [
+      0.000021,
+      "$ "
+    ],
+    [
+      1.297234,
+      "m"
+    ],
+    [
+      0.063932,
+      "a"
+    ],
+    [
+      0.159428,
+      "k"
+    ],
+    [
+      0.064445,
+      "e"
+    ],
+    [
+      0.575846,
+      "\r\n"
+    ],
+    [
+      2.400370,
+      "make[1]: Entering directory `/home/santa/dn2'\r\n"
+    ],
+    [
+      0.172606,
+      "\u001b[32m\u001b[0mSetting top to                           :\u001b[0m \u001b[0m"
+    ],
+    [
+      0.000206,
+      "\u001b[32m\u001b[32m/home/santa/dn2\u001b[0m \u001b[0m\r\n"
+    ],
+    [
+      0.000211,
+      "\u001b[32m\u001b[0mSetting out to                           :\u001b[0m \u001b[0m"
+    ],
+    [
+      0.000157,
+      "\u001b[32m\u001b[32m/home/santa/dn2/build\u001b[0m \u001b[0m\r\n"
+    ],
+    [
+      0.000667,
+      "\u001b[32m\u001b[0mChecking for 'gcc' (C compiler)          :\u001b[0m \u001b[0m"
+    ],
+    [
+      0.051388,
+      "\u001b[32m\u001b[32m/usr/bin/gcc\u001b[0m \u001b[0m\r\n"
+    ],
+    [
+      0.000485,
+      "\u001b[32m\u001b[0mChecking for 'g++' (C++ compiler)        :\u001b[0m \u001b[0m"
+    ],
+    [
+      0.043313,
+      "\u001b[32m\u001b[32m/usr/bin/g++\u001b[0m \u001b[0m\r\n"
+    ],
+    [
+      0.000300,
+      "\u001b[32m\u001b[0mChecking for program 'python'            :\u001b[0m \u001b[0m"
+    ],
+    [
+      0.000156,
+      "\u001b[32m\u001b[32m/usr/bin/python\u001b[0m \u001b[0m\r\n"
+    ],
+    [
+      0.111178,
+      "\u001b[32m\u001b[0mChecking for python version              :\u001b[0m \u001b[0m"
+    ],
+    [
+      0.000362,
+      "\u001b[32m\u001b[32m(2, 7, 6, 'final', 0)\u001b[0m \u001b[0m\r\n"
+    ],
+    [
+      0.029569,
+      "\u001b[32m\u001b[0mpython-config                            :\u001b[0m \u001b[0m"
+    ],
+    [
+      0.000364,
+      "\u001b[32m\u001b[32m/usr/bin/python-config\u001b[0m \u001b[0m\r\n"
+    ],
+    [
+      0.001420,
+      "\u001b[32m\u001b[0mAsking python-config for pyembed '--cflags --libs --ldflags' flags :\u001b[0m \u001b[0m"
+    ],
+    [
+      0.026562,
+      "\u001b[32m\u001b[32myes\u001b[0m \u001b[0m\r\n"
+    ],
+    [
+      0.000587,
+      "\u001b[32m\u001b[0mGetting pyembed flags from python-config                           :\u001b[0m \u001b[0m"
+    ],
+    [
+      0.196563,
+      "\u001b[32m\u001b[32myes\u001b[0m \u001b[0m\r\n"
+    ],
+    [
+      0.000306,
+      "\u001b[32m\u001b[0mAsking python-config for pyext '--cflags --libs --ldflags' flags   :\u001b[0m \u001b[0m"
+    ],
+    [
+      0.027436,
+      "\u001b[32m\u001b[32myes\u001b[0m \u001b[0m\r\n"
+    ],
+    [
+      0.000571,
+      "\u001b[32m\u001b[0mGetting pyext flags from python-config                             :\u001b[0m \u001b[0m"
+    ],
+    [
+      0.185327,
+      "\u001b[32m\u001b[32myes\u001b[0m \u001b[0m\r\n"
+    ],
+    [
+      0.001380,
+      "\u001b[32m\u001b[0mChecking for program 'mpicc'                                       :\u001b[0m \u001b[0m"
+    ],
+    [
+      0.000172,
+      "\u001b[32m\u001b[32m/home/santa/local/packages/mvapich2-2.1rc2/bin/mpicc\u001b[0m \u001b[0m\r\n"
+    ],
+    [
+      0.000444,
+      "\u001b[32m\u001b[0mChecking for program 'mpic++'                                      :\u001b[0m \u001b[0m"
+    ],
+    [
+      0.000179,
+      "\u001b[32m\u001b[32m/home/santa/local/packages/mvapich2-2.1rc2/bin/mpic++\u001b[0m \u001b[0m\r\n"
+    ],
+    [
+      0.000274,
+      "\u001b[32m\u001b[32mMPI found, using mpicc and mpic++ as compiler\u001b[0m \u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.002063,
+      "\u001b[32m\u001b[0mChecking for program 'nvcc'                                        :\u001b[0m \u001b[0m"
+    ],
+    [
+      0.000166,
+      "\u001b[32m\u001b[32m/home/santa/local/packages/cuda-6.5/bin/nvcc\u001b[0m \u001b[0m\r\n"
+    ],
+    [
+      0.000430,
+      "\u001b[32m\u001b[0mChecking for library cuda                                          :\u001b[0m \u001b[0m"
+    ],
+    [
+      0.175582,
+      "\u001b[32m\u001b[32myes\u001b[0m \u001b[0m\r\n"
+    ],
+    [
+      0.000286,
+      "\u001b[32m\u001b[0mChecking for library cudart                                        :\u001b[0m \u001b[0m"
+    ],
+    [
+      0.179866,
+      "\u001b[32m\u001b[32myes\u001b[0m \u001b[0m\r\n"
+    ],
+    [
+      0.000288,
+      "\u001b[32m\u001b[0mChecking for library cublas                                        :\u001b[0m \u001b[0m"
+    ],
+    [
+      0.176846,
+      "\u001b[32m\u001b[32myes\u001b[0m \u001b[0m\r\n"
+    ],
+    [
+      0.000287,
+      "\u001b[32m\u001b[0mChecking for library curand                                        :\u001b[0m \u001b[0m"
+    ],
+    [
+      0.177310,
+      "\u001b[32m\u001b[32myes\u001b[0m \u001b[0m\r\n"
+    ],
+    [
+      0.003126,
+      "\u001b[32m\u001b[0mChecking for library cudnn                                         :\u001b[0m \u001b[0m"
+    ],
+    [
+      0.177040,
+      "\u001b[32m\u001b[32myes\u001b[0m \u001b[0m\r\n"
+    ],
+    [
+      0.000138,
+      "\u001b[32m\u001b[32mnvcc and CUDNN found, CUDA support enabled\u001b[0m \u001b[0m\r\n"
+    ],
+    [
+      0.000696,
+      "\u001b[32m\u001b[0mChecking for program 'protoc'                                      :\u001b[0m \u001b[0m"
+    ],
+    [
+      0.000208,
+      "\u001b[32m\u001b[32m/usr/bin/protoc\u001b[0m \u001b[0m\r\n"
+    ],
+    [
+      0.018699,
+      "\u001b[32m'configure' finished successfully (1.595s)\u001b[0m\r\n"
+    ],
+    [
+      0.091667,
+      "\u001b[32m'mkgen' finished successfully (0.091s)\u001b[0m\r\n"
+    ],
+    [
+      0.020233,
+      "make[1]: Leaving directory `/home/santa/dn2'\r\n"
+    ],
+    [
+      0.168284,
+      "\u001b[32mWaf: Entering directory `/home/santa/dn2/build'\u001b[0m\r\n"
+    ],
+    [
+      0.004305,
+      "\u001b[32mWaf: Entering directory `/home/santa/dn2/build/deps'\u001b[0m\r\n"
+    ],
+    [
+      0.004271,
+      "[1/1] Building \u001b[35mtorch\u001b[0m"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      17.722478,
+      "\u001b[32mWaf: Leaving directory `/home/santa/dn2/build/deps'\u001b[0m\r\n"
+    ],
+    [
+      0.157851,
+      "\u001b[32mWaf: Entering directory `/home/santa/dn2'\u001b[0m\r\n"
+    ],
+    [
+      0.104262,
+      "[ 1/18] Compiling \u001b[01;34mmsg_utils/msg_parser.g\u001b[0m\r\n"
+    ],
+    [
+      0.170494,
+      "[ 2/18] Processing \u001b[01;34mdn2/dn2-config.msg\u001b[0m\r\n"
+    ],
+    [
+      0.002253,
+      "[ 3/18] Processing \u001b[01;34mdn2/dn2-net.msg\u001b[0m\r\n"
+    ],
+    [
+      0.001621,
+      "[ 4/18] Processing \u001b[01;34mdn2/dn2-sched.msg\u001b[0m\r\n"
+    ],
+    [
+      0.002715,
+      "[ 5/18] Processing \u001b[01;34mdn2/dn2-service.msg\u001b[0m"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.001193,
+      "[ 6/18] Processing \u001b[01;34mds_utils/ds_types.msg\u001b[0m\r\n"
+    ],
+    [
+      0.000480,
+      "[ 7/18] Processing \u001b[01;34mds_utils/lock_service/ds_locking.msg\u001b[0m"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.069835,
+      "[ 8/18] Processing \u001b[01;34mds_utils/mpi/mpi_xfer_control.msg\u001b[0m\r\n"
+    ],
+    [
+      0.026835,
+      "[ 9/18] Processing \u001b[01;34mds_utils/rpc_xfer/bulk_xfer-service.msg\u001b[0m\r\n"
+    ],
+    [
+      0.001887,
+      "[10/18] Processing \u001b[01;34mmsg/internal/meta_service.msg\u001b[0m"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.012483,
+      "[11/18] Processing \u001b[01;34mmsg/message-special.msg\u001b[0m\r\n"
+    ],
+    [
+      0.021456,
+      "[12/18] Processing \u001b[01;34mtest/mpi_xfer_test/mpi_xfer_test_service.msg\u001b[0m\r\n"
+    ],
+    [
+      0.011820,
+      "[13/18] Compiling \u001b[01;34mtest/dataflow/fixture-dataflow-data-network.json\u001b[0m\r\n"
+    ],
+    [
+      0.008200,
+      "[14/18] Compiling \u001b[01;34mtest/dn2/fixture-dn2-config.json\u001b[0m\r\n"
+    ],
+    [
+      0.000197,
+      "[15/18] Compiling \u001b[01;34mtest/dn2/fixture-dn2-sched-bad.json\u001b[0m"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.004110,
+      "[16/18] Compiling \u001b[01;34mtest/dn2/fixture-dn2-sched.json\u001b[0m\r\n"
+    ],
+    [
+      0.000148,
+      "[17/18] Processing \u001b[01;34mthird_party/caffe.proto\u001b[0m\r\n"
+    ],
+    [
+      0.000357,
+      "[18/18] Processing \u001b[01;34mthird_party/caffe.proto\u001b[0m\r\n"
+    ],
+    [
+      0.076297,
+      "\u001b[32mWaf: Leaving directory `/home/santa/dn2'\u001b[0m\r\n"
+    ],
+    [
+      0.150252,
+      "[  1/125] Compiling \u001b[32mthird_party/torch/nn/nn.c\u001b[0m"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.047925,
+      "[  2/125] Compiling \u001b[01;34mthird_party/torch/THC/THC.cu\u001b[0m\r\n"
+    ],
+    [
+      0.002240,
+      "[  3/125] Compiling \u001b[01;34mthird_party/torch/THC/THCBlas.cu\u001b[0m\r\n"
+    ],
+    [
+      0.021405,
+      "[  4/125] Compiling \u001b[32mthird_party/torch/THC/THCGeneral.c\u001b[0m\r\n"
+    ],
+    [
+      0.005249,
+      "[  5/125] Compiling \u001b[32mthird_party/torch/THC/THCStorage.c\u001b[0m\r\n"
+    ],
+    [
+      0.004017,
+      "[  6/125] Compiling \u001b[01;34mthird_party/torch/THC/THCStorage.cu\u001b[0m"
+    ],
+    [
+      0.000025,
+      "\r\n"
+    ],
+    [
+      0.256083,
+      "[  7/125] Compiling \u001b[32mthird_party/torch/THC/THCStorageCopy.c\u001b[0m\r\n"
+    ],
+    [
+      0.146486,
+      "[  8/125] Compiling \u001b[01;34mthird_party/torch/THC/THCStorageCopy.cu\u001b[0m\r\n"
+    ],
+    [
+      0.106900,
+      "[  9/125] Compiling \u001b[32mthird_party/torch/THC/THCTensor.c\u001b[0m\r\n"
+    ],
+    [
+      0.940825,
+      "[ 10/125] Compiling \u001b[01;34mthird_party/torch/THC/THCTensor.cu\u001b[0m"
+    ],
+    [
+      0.000030,
+      "\r\n"
+    ],
+    [
+      1.996986,
+      "[ 11/125] Compiling \u001b[01;34mthird_party/torch/THC/THCTensorConv.cu\u001b[0m"
+    ],
+    [
+      0.000169,
+      "\r\n"
+    ],
+    [
+      0.317036,
+      "[ 12/125] Compiling \u001b[32mthird_party/torch/THC/THCTensorCopy.c\u001b[0m\r\n"
+    ],
+    [
+      0.431214,
+      "[ 13/125] Compiling \u001b[01;34mthird_party/torch/THC/THCTensorCopy.cu\u001b[0m"
+    ],
+    [
+      0.000229,
+      "\r\n"
+    ],
+    [
+      0.002032,
+      "[ 14/125] Compiling \u001b[01;34mthird_party/torch/THC/THCTensorMath.cu\u001b[0m\r\n"
+    ],
+    [
+      0.872328,
+      "[ 15/125] Compiling \u001b[01;34mthird_party/torch/THC/THCTensorRandom.cu\u001b[0m"
+    ],
+    [
+      0.000119,
+      "\r\n"
+    ],
+    [
+      2.321601,
+      "[ 16/125] Compiling \u001b[01;34mthird_party/torch/cunn/cunn.cu\u001b[0m"
+    ],
+    [
+      0.000086,
+      "\r\n"
+    ],
+    [
+      3.557939,
+      "[ 17/125] Compiling \u001b[01;34mthird_party/minerva/cuda/cuda_perform.cu\u001b[0m\r\n"
+    ],
+    [
+      0.511371,
+      "[ 18/125] Compiling \u001b[32mthird_party/cppformat/format.cc\u001b[0m\r\n"
+    ],
+    [
+      6.118172,
+      "[ 19/125] Compiling \u001b[32mthird_party/cppformat/posix.cc\u001b[0m\r\n"
+    ],
+    [
+      0.165567,
+      "[ 20/125] Compiling \u001b[32mthird_party/hashing/crc64.c\u001b[0m\r\n"
+    ],
+    [
+      0.157037,
+      "[ 21/125] Compiling \u001b[32mthird_party/hashing/xxhash.c\u001b[0m\r\n"
+    ],
+    [
+      0.381071,
+      "[ 22/125] Compiling \u001b[32mthird_party/http-parser/http_parser.c\u001b[0m"
+    ],
+    [
+      0.000161,
+      "\r\n"
+    ],
+    [
+      0.441259,
+      "[ 23/125] Compiling \u001b[32mthird_party/stringencoders/modp_burl.c\u001b[0m\r\n"
+    ],
+    [
+      0.314182,
+      "[ 24/125] Compiling \u001b[32mbase/at_exit.cc\u001b[0m\r\n"
+    ],
+    [
+      0.038027,
+      "[ 25/125] Compiling \u001b[32mbase/basic_types.cc\u001b[0m\r\n"
+    ],
+    [
+      0.071637,
+      "[ 26/125] Compiling \u001b[32mbase/child_task_waiter.cc\u001b[0m"
+    ],
+    [
+      0.000029,
+      "\r\n"
+    ],
+    [
+      0.640420,
+      "[ 27/125] Compiling \u001b[32mbase/cmdline_flags.cc\u001b[0m\r\n"
+    ],
+    [
+      1.053280,
+      "[ 28/125] Compiling \u001b[32mbase/date_time.cc\u001b[0m\r\n"
+    ],
+    [
+      1.331380,
+      "[ 29/125] Compiling \u001b[32mbase/debugging.cc\u001b[0m\r\n"
+    ],
+    [
+      0.294318,
+      "[ 30/125] Compiling \u001b[32mbase/float_utils.cc\u001b[0m\r\n"
+    ],
+    [
+      0.048242,
+      "[ 31/125] Compiling \u001b[32mbase/hashing.cc\u001b[0m\r\n"
+    ],
+    [
+      0.160742,
+      "[ 32/125] Compiling \u001b[32mbase/hostlist.cc\u001b[0m\r\n"
+    ],
+    [
+      0.046005,
+      "[ 33/125] Compiling \u001b[32mbase/init_world.cc\u001b[0m\r\n"
+    ],
+    [
+      0.262931,
+      "[ 34/125] Compiling \u001b[32mbase/lazy_instance.cc\u001b[0m"
+    ],
+    [
+      0.000030,
+      "\r\n"
+    ],
+    [
+      0.431417,
+      "[ 35/125] Compiling \u001b[32mbase/logging.cc\u001b[0m\r\n"
+    ],
+    [
+      0.966909,
+      "[ 36/125] Compiling \u001b[32mbase/path_utils.cc\u001b[0m\r\n"
+    ],
+    [
+      0.024795,
+      "[ 37/125] Compiling \u001b[32mbase/status.cc\u001b[0m\r\n"
+    ],
+    [
+      0.066770,
+      "[ 38/125] Compiling \u001b[32mbase/string_slice.cc\u001b[0m\r\n"
+    ],
+    [
+      1.060247,
+      "[ 39/125] Compiling \u001b[32mbase/string_utils.cc\u001b[0m\r\n"
+    ],
+    [
+      0.388706,
+      "[ 40/125] Compiling \u001b[32mbase/test.cc\u001b[0m\r\n"
+    ],
+    [
+      0.104055,
+      "[ 41/125] Compiling \u001b[32mbase/threading.cc\u001b[0m\r\n"
+    ],
+    [
+      1.213572,
+      "[ 42/125] Compiling \u001b[32mmsg/binary_value.cc\u001b[0m\r\n"
+    ],
+    [
+      0.112960,
+      "[ 43/125] Compiling \u001b[32mmsg/client.cc\u001b[0m"
+    ],
+    [
+      0.000117,
+      "\r\n"
+    ],
+    [
+      1.219364,
+      "[ 44/125] Compiling \u001b[32mmsg/evented_io.cc\u001b[0m\r\n"
+    ],
+    [
+      0.514432,
+      "[ 45/125] Compiling \u001b[32mmsg/http/http_middleware.cc\u001b[0m\r\n"
+    ],
+    [
+      0.059881,
+      "[ 46/125] Compiling \u001b[32mmsg/http/http_protocol.cc\u001b[0m\r\n"
+    ],
+    [
+      1.405144,
+      "[ 47/125] Compiling \u001b[32mmsg/http/http_response.cc\u001b[0m\r\n"
+    ],
+    [
+      0.098405,
+      "[ 48/125] Compiling \u001b[32mmsg/internal/binary_protocol.cc\u001b[0m\r\n"
+    ],
+    [
+      1.622419,
+      "[ 49/125] Compiling \u001b[32mmsg/internal/check_field_empty.cc\u001b[0m"
+    ],
+    [
+      0.000213,
+      "\r\n"
+    ],
+    [
+      1.372525,
+      "[ 50/125] Compiling \u001b[32mmsg/internal/client_connection.cc\u001b[0m\r\n"
+    ],
+    [
+      0.417659,
+      "[ 51/125] Compiling \u001b[32mmsg/internal/meta_service_impl.cc\u001b[0m\r\n"
+    ],
+    [
+      0.088617,
+      "[ 52/125] Compiling \u001b[32mmsg/internal/meta_service_msg.cc\u001b[0m"
+    ],
+    [
+      0.000090,
+      "\r\n"
+    ],
+    [
+      0.086831,
+      "[ 53/125] Compiling \u001b[32mmsg/internal/protocol_multiplexing.cc\u001b[0m"
+    ],
+    [
+      0.000114,
+      "\r\n"
+    ],
+    [
+      0.192585,
+      "[ 54/125] Compiling \u001b[32mmsg/internal/rpc-helper.cc\u001b[0m"
+    ],
+    [
+      0.000109,
+      "\r\n"
+    ],
+    [
+      1.325601,
+      "[ 55/125] Compiling \u001b[32mmsg/iobuffer.cc\u001b[0m"
+    ],
+    [
+      0.000162,
+      "\r\n"
+    ],
+    [
+      0.408759,
+      "[ 56/125] Compiling \u001b[32mmsg/message-any.cc\u001b[0m\r\n"
+    ],
+    [
+      0.502098,
+      "[ 57/125] Compiling \u001b[32mmsg/message-codec.cc\u001b[0m\r\n"
+    ],
+    [
+      0.513261,
+      "[ 58/125] Compiling \u001b[32mmsg/message-json.cc\u001b[0m\r\n"
+    ],
+    [
+      0.535307,
+      "[ 59/125] Compiling \u001b[32mmsg/message-schema.cc\u001b[0m\r\n"
+    ],
+    [
+      1.635765,
+      "[ 60/125] Compiling \u001b[32mmsg/message-special_msg.cc\u001b[0m\r\n"
+    ],
+    [
+      0.139076,
+      "[ 61/125] Compiling \u001b[32mmsg/message.cc\u001b[0m"
+    ],
+    [
+      0.000030,
+      "\r\n"
+    ],
+    [
+      1.345857,
+      "[ 62/125] Compiling \u001b[32mmsg/server.cc\u001b[0m\r\n"
+    ],
+    [
+      0.222441,
+      "[ 63/125] Compiling \u001b[32mmsg/socket_utils.cc\u001b[0m"
+    ],
+    [
+      0.000029,
+      "\r\n"
+    ],
+    [
+      0.045735,
+      "[ 64/125] Compiling \u001b[32mmsg/varint.cc\u001b[0m"
+    ],
+    [
+      0.000029,
+      "\r\n"
+    ],
+    [
+      0.418354,
+      "[ 65/125] Compiling \u001b[32mds_utils/bulk_xfer.cc\u001b[0m\r\n"
+    ],
+    [
+      0.119047,
+      "[ 66/125] Compiling \u001b[32mds_utils/data_pool.cc\u001b[0m"
+    ],
+    [
+      0.000029,
+      "\r\n"
+    ],
+    [
+      0.856663,
+      "[ 67/125] Compiling \u001b[32mds_utils/ds_types_msg.cc\u001b[0m"
+    ],
+    [
+      0.000031,
+      "\r\n"
+    ],
+    [
+      0.053475,
+      "[ 68/125] Compiling \u001b[32mds_utils/ds_utils.cc\u001b[0m\r\n"
+    ],
+    [
+      0.965285,
+      "[ 69/125] Compiling \u001b[32mds_utils/lock_service/ds_locking-simple.cc\u001b[0m"
+    ],
+    [
+      0.000031,
+      "\r\n"
+    ],
+    [
+      0.025758,
+      "[ 70/125] Compiling \u001b[32mds_utils/lock_service/ds_locking_msg.cc\u001b[0m"
+    ],
+    [
+      0.000220,
+      "\r\n"
+    ],
+    [
+      1.154340,
+      "[ 71/125] Compiling \u001b[32mds_utils/mpi/mpi_xfer.cc\u001b[0m"
+    ],
+    [
+      0.000138,
+      "\r\n"
+    ],
+    [
+      0.830533,
+      "[ 72/125] Compiling \u001b[32mds_utils/mpi/mpi_xfer_control_impl.cc\u001b[0m"
+    ],
+    [
+      0.000031,
+      "\r\n"
+    ],
+    [
+      1.258609,
+      "[ 73/125] Compiling \u001b[32mds_utils/mpi/mpi_xfer_control_msg.cc\u001b[0m"
+    ],
+    [
+      0.000038,
+      "\r\n"
+    ],
+    [
+      0.782976,
+      "[ 74/125] Compiling \u001b[32mds_utils/rpc_xfer/bulk_xfer-rpc.cc\u001b[0m\r\n"
+    ],
+    [
+      0.405397,
+      "[ 75/125] Compiling \u001b[32mds_utils/rpc_xfer/bulk_xfer-service_msg.cc\u001b[0m"
+    ],
+    [
+      0.000031,
+      "\r\n"
+    ],
+    [
+      0.380051,
+      "[ 76/125] Compiling \u001b[32mndarray/array.cc\u001b[0m"
+    ],
+    [
+      0.000030,
+      "\r\n"
+    ],
+    [
+      0.672172,
+      "[ 77/125] Compiling \u001b[32mndarray/array_init.cc\u001b[0m\r\n"
+    ],
+    [
+      0.000809,
+      "[ 78/125] Compiling \u001b[32mdataflow/data_transformer.cc\u001b[0m\r\n"
+    ],
+    [
+      0.211306,
+      "[ 79/125] Compiling \u001b[32mdataflow/db.cc\u001b[0m"
+    ],
+    [
+      0.000201,
+      "\r\n"
+    ],
+    [
+      0.868223,
+      "[ 80/125] Compiling \u001b[32mdataflow/handler_impl.cc\u001b[0m\r\n"
+    ],
+    [
+      0.289085,
+      "[ 81/125] Compiling \u001b[32mdataflow/state.cc\u001b[0m\r\n"
+    ],
+    [
+      0.307147,
+      "[ 82/125] Compiling \u001b[32mdataflow/state_builder.cc\u001b[0m"
+    ],
+    [
+      0.000144,
+      "\r\n"
+    ],
+    [
+      1.294063,
+      "[ 83/125] Compiling \u001b[32mdn2/dn2-config_msg.cc\u001b[0m\r\n"
+    ],
+    [
+      0.158874,
+      "[ 84/125] Compiling \u001b[32mdn2/dn2-init_finalize.cc\u001b[0m\r\n"
+    ],
+    [
+      0.635816,
+      "[ 85/125] Compiling \u001b[32mdn2/dn2-jobs.cc\u001b[0m\r\n"
+    ],
+    [
+      0.654980,
+      "[ 86/125] Compiling \u001b[32mdn2/dn2-ndarray_ctx.cc\u001b[0m\r\n"
+    ],
+    [
+      0.625705,
+      "[ 87/125] Compiling \u001b[32mdn2/dn2-net_msg.cc\u001b[0m\r\n"
+    ],
+    [
+      0.267860,
+      "[ 88/125] Compiling \u001b[32mdn2/dn2-profiling.cc\u001b[0m"
+    ],
+    [
+      0.000142,
+      "\r\n"
+    ],
+    [
+      0.381271,
+      "[ 89/125] Compiling \u001b[32mdn2/dn2-resources.cc\u001b[0m"
+    ],
+    [
+      0.000108,
+      "\r\n"
+    ],
+    [
+      0.445891,
+      "../dataflow/handler_impl.cc:78:6: warning: unused parameter ‘space’ [-Wunused-parameter]\r\n"
+    ],
+    [
+      0.000012,
+      " void NopModule::nop(ScratchSpace\u0026 space, HandlerContext\u0026 ctx) {\r\n      ^\r\n\u001b[0m\r\n"
+    ],
+    [
+      0.000676,
+      "[ 90/125] Compiling \u001b[32mdn2/dn2-sched-round_robin.cc\u001b[0m\r\n"
+    ],
+    [
+      0.845799,
+      "[ 91/125] Compiling \u001b[32mdn2/dn2-sched_msg.cc\u001b[0m\r\n"
+    ],
+    [
+      0.491332,
+      "[ 92/125] Compiling \u001b[32mdn2/dn2-scheduler_impl.cc\u001b[0m"
+    ],
+    [
+      0.000108,
+      "\r\n"
+    ],
+    [
+      0.500242,
+      "[ 93/125] Compiling \u001b[32mdn2/dn2-service_msg.cc\u001b[0m"
+    ],
+    [
+      0.000135,
+      "\r\n"
+    ],
+    [
+      0.934109,
+      "[ 94/125] Compiling \u001b[32mdn2/dn2-state_xfer.cc\u001b[0m\r\n"
+    ],
+    [
+      0.234975,
+      "[ 95/125] Compiling \u001b[32mdn2/dn2-validate.cc\u001b[0m\r\n"
+    ],
+    [
+      0.508476,
+      "[ 96/125] Compiling \u001b[32mdn2/dn2-worker_impl.cc\u001b[0m\r\n"
+    ],
+    [
+      3.712007,
+      "[ 97/125] Compiling \u001b[32mdn2/dn2-xfer_optimization.cc\u001b[0m"
+    ],
+    [
+      0.000118,
+      "\r\n"
+    ],
+    [
+      0.267214,
+      "[ 98/125] Compiling \u001b[32mdn2/landscape_info.cc\u001b[0m\r\n"
+    ],
+    [
+      0.653035,
+      "[ 99/125] Compiling \u001b[32mdn2/dn2-main.cc\u001b[0m\r\n"
+    ],
+    [
+      0.797461,
+      "[100/125] Compiling \u001b[32mtest/mpi_xfer_test/mpi_xfer_test.cc\u001b[0m"
+    ],
+    [
+      0.000123,
+      "\r\n"
+    ],
+    [
+      0.547029,
+      "[101/125] Compiling \u001b[32mtest/mpi_xfer_test/mpi_xfer_test_service_msg.cc\u001b[0m"
+    ],
+    [
+      0.000140,
+      "\r\n"
+    ],
+    [
+      0.283324,
+      "[102/125] Compiling \u001b[32mtest/mpi_xfer_test/node0_test.cc\u001b[0m"
+    ],
+    [
+      0.000112,
+      "\r\n"
+    ],
+    [
+      2.334070,
+      "[103/125] Compiling \u001b[32mtest/mpi_xfer_test/peer_to_peer_test.cc\u001b[0m\r\n"
+    ],
+    [
+      0.028242,
+      "[104/125] Compiling \u001b[32mtest/dataflow/test-dataflow-data.cc\u001b[0m\r\n"
+    ],
+    [
+      1.214864,
+      "[105/125] Compiling \u001b[32mtest/dn2/test-array4.cc\u001b[0m\r\n"
+    ],
+    [
+      0.540753,
+      "[106/125] Compiling \u001b[32mtest/dn2/test-dn2-sched.cc\u001b[0m"
+    ],
+    [
+      0.000115,
+      "\r\n"
+    ],
+    [
+      0.260108,
+      "[107/125] Compiling \u001b[32mtest/dn2/test-validate.cc\u001b[0m"
+    ],
+    [
+      0.000138,
+      "\r\n"
+    ],
+    [
+      0.793118,
+      "[108/125] Compiling \u001b[32mtest/misc/test-misc.cc\u001b[0m"
+    ],
+    [
+      0.000116,
+      "\r\n"
+    ],
+    [
+      0.086742,
+      "[109/125] Compiling \u001b[32mtest/ndarray/test-TH-wrapping.cc\u001b[0m\r\n"
+    ],
+    [
+      0.601798,
+      "[110/125] Compiling \u001b[32mtest/ndarray/test-cuda-multithread.cc\u001b[0m"
+    ],
+    [
+      0.000140,
+      "\r\n"
+    ],
+    [
+      0.314128,
+      "[111/125] Compiling \u001b[32mtest/ndarray/test-ndarray-basic.cc\u001b[0m\r\n"
+    ],
+    [
+      0.098614,
+      "[112/125] Compiling \u001b[32mtest/ndarray/test-ndarray-conv.cc\u001b[0m\r\n"
+    ],
+    [
+      0.884486,
+      "[113/125] Compiling \u001b[32mtest/ndarray/test-ndarray-math.cc\u001b[0m"
+    ],
+    [
+      0.000030,
+      "\r\n"
+    ],
+    [
+      0.452576,
+      "[114/125] Compiling \u001b[32mtest/t.cc\u001b[0m"
+    ],
+    [
+      0.000031,
+      "\r\n"
+    ],
+    [
+      0.217895,
+      "[115/125] Compiling \u001b[32mtest/third_party/test-TH-tensor.cc\u001b[0m\r\n"
+    ],
+    [
+      0.175237,
+      "[116/125] Linking \u001b[33mbuild/libtorch.a\u001b[0m"
+    ],
+    [
+      0.000030,
+      "\r\n"
+    ],
+    [
+      0.131273,
+      "[117/125] Linking \u001b[33mbuild/libthird_party.a\u001b[0m"
+    ],
+    [
+      0.000030,
+      "\r\n"
+    ],
+    [
+      0.052453,
+      "[118/125] Linking \u001b[33mbuild/libndarray.a\u001b[0m\r\n"
+    ],
+    [
+      0.054791,
+      "[119/125] Linking \u001b[33mbuild/libbase.a\u001b[0m\r\n"
+    ],
+    [
+      0.249450,
+      "[120/125] Linking \u001b[33mbuild/libmsg.a\u001b[0m\r\n"
+    ],
+    [
+      0.475857,
+      "[121/125] Linking \u001b[33mbuild/libds_utils.a\u001b[0m\r\n"
+    ],
+    [
+      0.187920,
+      "[122/125] Linking \u001b[33mbuild/libdn2.a\u001b[0m\r\n"
+    ],
+    [
+      0.500158,
+      "[123/125] Linking \u001b[33mbuild/dntool\u001b[0m\r\n"
+    ],
+    [
+      0.001549,
+      "[124/125] Linking \u001b[33mbuild/mpi_xfer_test\u001b[0m\r\n"
+    ],
+    [
+      2.257030,
+      "[125/125] Linking \u001b[33mbuild/t\u001b[0m\r\n"
+    ],
+    [
+      3.808910,
+      "\u001b[32mWaf: Leaving directory `/home/santa/dn2/build'\u001b[0m\r\n"
+    ],
+    [
+      0.000160,
+      "\u001b[32m'build' finished successfully (1m39.319s)\u001b[0m\r\n"
+    ],
+    [
+      0.270745,
+      "\u001b[31m\u003e\u003e\u003e elapsed time 104s\r\n\u001b[1m\u001b[32m________________________________________________________________________________________________________________________________\u001b(B\u001b[m\r\r\n\u001b[35msanta\u001b(B\u001b[m@\u001b[35mgeeker-1\u001b(B\u001b[m in \u001b[34m~/dn2\u001b[31m on branch master\u001b(B\u001b[m\r\r\n"
+    ],
+    [
+      0.000014,
+      "$ "
+    ],
+    [
+      3.449815,
+      "l"
+    ],
+    [
+      0.047536,
+      "s"
+    ],
+    [
+      0.064281,
+      " "
+    ],
+    [
+      0.239688,
+      "b"
+    ],
+    [
+      0.055992,
+      "u"
+    ],
+    [
+      0.064908,
+      "ild/"
+    ],
+    [
+      0.447134,
+      "\r\n"
+    ],
+    [
+      0.003896,
+      "\u001b[0m\u001b[01;34mbase\u001b[0m        \u001b[01;34mdataflow\u001b[0m  \u001b[01;32mdntool\u001b[0m      libbase.a      libmsg.a          libtorch.a     \u001b[01;34mndarray\u001b[0m     \u001b[01;34mtest\u001b[0m\r\n\u001b[01;34mc4che\u001b[0m       \u001b[01;34mdeps\u001b[0m      \u001b[01;34mds_utils\u001b[0m    libdn2.a       libndarray.a      \u001b[01;32mmpi_xfer_test\u001b[0m  \u001b[01;32mt\u001b[0m           \u001b[01;34mthird_party\u001b[0m\r\n"
+    ],
+    [
+      0.000009,
+      "config.log  \u001b[01;34mdn2\u001b[0m       last_build  libds_utils.a  libthird_party.a  \u001b[01;34mmsg\u001b[0m            targets.mk\r\n"
+    ],
+    [
+      0.054741,
+      "\u001b[1m\u001b[32m________________________________________________________________________________________________________________________________\u001b(B\u001b[m\r\r\n\u001b[35msanta\u001b(B\u001b[m@\u001b[35mgeeker-1\u001b(B\u001b[m in \u001b[34m~/dn2\u001b[31m on branch master\u001b(B\u001b[m\r\r\n$ "
+    ],
+    [
+      0.861337,
+      "."
+    ],
+    [
+      0.056723,
+      "/"
+    ],
+    [
+      0.247216,
+      "b"
+    ],
+    [
+      0.059692,
+      "u"
+    ],
+    [
+      0.048062,
+      "ild/"
+    ],
+    [
+      0.628142,
+      "t"
+    ],
+    [
+      0.746093,
+      "\r\n"
+    ],
+    [
+      0.521418,
+      "  **************************************\r\n"
+    ],
+    [
+      0.000008,
+      "  *** Greetings from embedded Python ***\r\n  **************************************\r\n"
+    ],
+    [
+      0.000130,
+      "I 2015-05-08 22:24:30.513335 dn2-init_finalize.cc:115 15120 | dn2 system initialized\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[0m"
+    ],
+    [
+      0.000097,
+      "I 2015-05-08 22:24:30.513472 test.cc:318 15120 | The following 40 test cases will be checked:\r\n\u001b[0mI 2015-05-08 22:24:30.513496 test.cc:321 15120 |     TH/tensor_basic_usage\r\n\u001b[0m"
+    ],
+    [
+      0.000030,
+      "I 2015-05-08 22:24:30.513528 test.cc:321 15120 |     array4/access (benchmark)\r\n\u001b[0mI 2015-05-08 22:24:30.513545 test.cc:321 15120 |     array4/basic_usage\r\n\u001b[0m"
+    ],
+    [
+      0.000057,
+      "I 2015-05-08 22:24:30.513560 test.cc:321 15120 |     array4/eltwise_copy_vs_memcpy (benchmark)\r\n\u001b[0mI 2015-05-08 22:24:30.513579 test.cc:321 15120 |     array4/view_access (benchmark)\r\n\u001b[0mI 2015-05-08 22:24:30.513593 test.cc:321 15120 |     dataflow_data/data\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[0mI 2015-05-08 22:24:30.513608 test.cc:321 15120 |     dn2_sched/algorithm\r\n\u001b[0m"
+    ],
+    [
+      0.000022,
+      "I 2015-05-08 22:24:30.513622 test.cc:321 15120 |     dn2_sched/bad_data\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[0mI 2015-05-08 22:24:30.513642 test.cc:321 15120 |     misc/std_string_substr\r\n\u001b[0m"
+    ],
+    [
+      0.000054,
+      "I 2015-05-08 22:24:30.513656 test.cc:321 15120 |     ndarray/TH_wrap\r\n\u001b[0mI 2015-05-08 22:24:30.513678 test.cc:321 15120 |     ndarray/basic_ops\r\n\u001b[0m"
+    ],
+    [
+      0.000009,
+      "I 2015-05-08 22:24:30.513692 test.cc:321 15120 |     ndarray/basic_ops_bm (benchmark)\r\n\u001b[0mI 2015-05-08 22:24:30.513708 test.cc:321 15120 |     ndarray/copying\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[0m"
+    ],
+    [
+      0.000052,
+      "I 2015-05-08 22:24:30.513722 test.cc:321 15120 |     ndarray/cuda_mt\r\n\u001b[0mI 2015-05-08 22:24:30.513743 test.cc:321 15120 |     ndarray/math_ops\r\n\u001b[0m"
+    ],
+    [
+      0.000008,
+      "I 2015-05-08 22:24:30.513757 test.cc:321 15120 |     ndarray/slice\r\n\u001b[0mI 2015-05-08 22:24:30.513772 test.cc:321 15120 |     ndarray_conv/backward_data\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[0m"
+    ],
+    [
+      0.000018,
+      "I 2015-05-08 22:24:30.513786 test.cc:321 15120 |     ndarray_conv/conv_bm_big_batch (benchmark)\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[0m"
+    ],
+    [
+      0.000051,
+      "I 2015-05-08 22:24:30.513806 test.cc:321 15120 |     ndarray_conv/conv_bm_big_channel (benchmark)\r\n\u001b[0mI 2015-05-08 22:24:30.513824 test.cc:321 15120 |     ndarray_conv/conv_bm_big_feature_map (benchmark)\r\n\u001b[0mI 2015-05-08 22:24:30.513841 test.cc:321 15120 |     ndarray_conv/conv_bm_normal (benchmark)"
+    ],
+    [
+      0.000009,
+      "\r\n\u001b[0mI 2015-05-08 22:24:30.513856 test.cc:321 15120 |     ndarray_conv/conv_bm_tiny (benchmark)\r\n\u001b[0m"
+    ],
+    [
+      0.000015,
+      "I 2015-05-08 22:24:30.513870 test.cc:321 15120 |     ndarray_conv/forward\r\n\u001b[0m"
+    ],
+    [
+      0.000051,
+      "I 2015-05-08 22:24:30.513885 test.cc:321 15120 |     ndarray_conv/grad_bias\r\n"
+    ],
+    [
+      0.000015,
+      "\u001b[0mI 2015-05-08 22:24:30.513933 test.cc:321 15120 |     ndarray_conv/grad_filter\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[0m"
+    ],
+    [
+      0.000047,
+      "I 2015-05-08 22:24:30.513954 test.cc:321 15120 |     ndarray_math/argmax\r\n\u001b[0mI 2015-05-08 22:24:30.513971 test.cc:321 15120 |     ndarray_math/basics\r\n\u001b[0m"
+    ],
+    [
+      0.000056,
+      "I 2015-05-08 22:24:30.513990 test.cc:321 15120 |     ndarray_math/broadcast\r\n\u001b[0mI 2015-05-08 22:24:30.514005 test.cc:321 15120 |     ndarray_math/matrix\r\n\u001b[0mI 2015-05-08 22:24:30.514021 test.cc:321 15120 |     ndarray_math/matrix_bm (benchmark)\r\n\u001b[0m"
+    ],
+    [
+      0.000022,
+      "I 2015-05-08 22:24:30.514040 test.cc:321 15120 |     ndarray_math/reduce\r\n\u001b[0mI 2015-05-08 22:24:30.514055 test.cc:321 15120 |     ndarray_math/reduce_bm (benchmark)\r\n\u001b[0m"
+    ],
+    [
+      0.000023,
+      "I 2015-05-08 22:24:30.514071 test.cc:321 15120 |     ndarray_math/relu\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[0m"
+    ],
+    [
+      0.000016,
+      "I 2015-05-08 22:24:30.514107 test.cc:321 15120 |     ndarray_math/shape\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[0m"
+    ],
+    [
+      0.000017,
+      "I 2015-05-08 22:24:30.514125 test.cc:321 15120 |     ndarray_math/softmax\r\n"
+    ],
+    [
+      0.000052,
+      "\u001b[0mI 2015-05-08 22:24:30.514143 test.cc:321 15120 |     ndarray_pool/backward_no_padding\r\n\u001b[0mI 2015-05-08 22:24:30.514176 test.cc:321 15120 |     ndarray_pool/backward_padding"
+    ],
+    [
+      0.000008,
+      "\r\n\u001b[0mI 2015-05-08 22:24:30.514192 test.cc:321 15120 |     ndarray_pool/forward_no_padding\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[0m"
+    ],
+    [
+      0.000047,
+      "I 2015-05-08 22:24:30.514207 test.cc:321 15120 |     ndarray_pool/forward_padding\r\n\u001b[0mI 2015-05-08 22:24:30.514224 test.cc:321 15120 |     validate/is_valid_job_port_name\r\n\u001b[0m"
+    ],
+    [
+      0.000007,
+      "I 2015-05-08 22:24:30.514243 test.cc:324 15120 | ---\r\n\u001b[0m"
+    ],
+    [
+      0.000014,
+      "I 2015-05-08 22:24:30.514256 test.cc:327 15120 | --\u003e Start test: TH/tensor_basic_usage\r\n\u001b[0m"
+    ],
+    [
+      0.000088,
+      "I 2015-05-08 22:24:30.514314 test.cc:331 15120 | \u003c-- Passed test: TH/tensor_basic_usage\r\n\u001b[0m"
+    ],
+    [
+      0.000006,
+      "I 2015-05-08 22:24:30.514353 test.cc:327 15120 | --\u003e Start test: array4/access\r\n\u001b[0m"
+    ],
+    [
+      0.027741,
+      "\r\n"
+    ],
+    [
+      0.998791,
+      "Benchmark array4/access (get)\r\n"
+    ],
+    [
+      0.000041,
+      "Run (1/3): 254176759 iterations (2291638724 cycles) in 998.78ms\r\n"
+    ],
+    [
+      0.998715,
+      "Run (2/3): 254176759 iterations (2291324432 cycles) in 998.65ms\r\n"
+    ],
+    [
+      0.998844,
+      "Run (3/3): 254176759 iterations (2291672376 cycles) in 998.80ms\r\nPer iteration (fastest): 3.93ns (9 cycles) 254.52Mop/s\r\nPer iteration (median ): 3.93ns (9 cycles) 254.49Mop/s"
+    ],
+    [
+      0.000008,
+      "\r\nPer iteration (slowest): 3.93ns (9 cycles) 254.48Mop/s\r\n\r\n"
+    ],
+    [
+      1.000620,
+      "Benchmark array4/access (set)\r\nRun (1/3): 1127764432 iterations (2295753936 cycles) in 1.00s\r\n"
+    ],
+    [
+      1.001438,
+      "Run (2/3): 1127764432 iterations (2297646852 cycles) in 1.00s\r\n"
+    ],
+    [
+      0.999269,
+      "Run (3/3): 1127764432 iterations (2292697004 cycles) in 999.24ms\r\nPer iteration (fastest): 0.89ns (2 cycles) 1.13Gop/s\r\nPer iteration (median ): 0.89ns (2 cycles) 1.13Gop/s\r\n"
+    ],
+    [
+      0.000007,
+      "Per iteration (slowest): 0.89ns (2 cycles) 1.13Gop/s\r\n\r\n"
+    ],
+    [
+      0.983886,
+      "Benchmark array4/access (get all elements 128x3x224x224)\r\n"
+    ],
+    [
+      0.000008,
+      "Run (1/3): 36 iterations (2257300424 cycles) in 983.81ms\r\n"
+    ],
+    [
+      0.984444,
+      "Run (2/3): 36 iterations (2258556292 cycles) in 984.36ms\r\n"
+    ],
+    [
+      0.983986,
+      "Run (3/3): 36 iterations (2257546872 cycles) in 983.92ms\r\nPer iteration (fastest): 27.33ms (62702789 cycles) 36.59op/s\r\nPer iteration (median ): 27.33ms (62709635 cycles) 36.59op/s\r\n"
+    ],
+    [
+      0.000009,
+      "Per iteration (slowest): 27.34ms (62737674 cycles) 36.57op/s\r\n\r\n"
+    ],
+    [
+      0.992253,
+      "Benchmark array4/access (set all elements 128x3x224x224)\r\n"
+    ],
+    [
+      0.000008,
+      "Run (1/3): 48 iterations (2276504656 cycles) in 992.18ms\r\n"
+    ],
+    [
+      0.991540,
+      "Run (2/3): 48 iterations (2274829428 cycles) in 991.45ms\r\n"
+    ],
+    [
+      0.991544,
+      "Run (3/3): 48 iterations (2274896884 cycles) in 991.48ms\r\nPer iteration (fastest): 20.66ms (47392279 cycles) 48.41op/s\r\nPer iteration (median ): 20.66ms (47393685 cycles) 48.41op/s"
+    ],
+    [
+      0.000057,
+      "\r\nPer iteration (slowest): 20.67ms (47427180 cycles) 48.38op/s\r\n\r\n\u001b[0m"
+    ],
+    [
+      0.004460,
+      "I 2015-05-08 22:24:42.471977 test.cc:331 15120 | \u003c-- Passed test: array4/access\r\n\u001b[0mI 2015-05-08 22:24:42.472005 test.cc:327 15120 | --\u003e Start test: array4/basic_usage\r\n\u001b[0m"
+    ],
+    [
+      0.031595,
+      "I 2015-05-08 22:24:42.503536 test.cc:331 15120 | \u003c-- Passed test: array4/basic_usage\r\n\u001b[0mI 2015-05-08 22:24:42.503583 test.cc:327 15120 | --\u003e Start test: array4/eltwise_copy_vs_memcpy\r\n\u001b[0m"
+    ],
+    [
+      0.054665,
+      "\r\n"
+    ],
+    [
+      0.981483,
+      "Benchmark array4/eltwise_copy_vs_memcpy (eltwise_copy)\r\nRun (1/3): 44 iterations (2251788012 cycles) in 981.41ms\r\n"
+    ],
+    [
+      0.981957,
+      "Run (2/3): 44 iterations (2252852968 cycles) in 981.88ms\r\n"
+    ],
+    [
+      0.981557,
+      "Run (3/3): 44 iterations (2251954136 cycles) in 981.49ms\r\nPer iteration (fastest): 22.30ms (51177000 cycles) 44.83op/s\r\nPer iteration (median ): 22.31ms (51180775 cycles) 44.83op/s\r\n"
+    ],
+    [
+      0.000009,
+      "Per iteration (slowest): 22.32ms (51201203 cycles) 44.81op/s\r\n\r\n"
+    ],
+    [
+      1.000360,
+      "Benchmark array4/eltwise_copy_vs_memcpy (eltwise_copy via identity op)\r\nRun (1/3): 67 iterations (2295020864 cycles) in 1.00s\r\n"
+    ],
+    [
+      0.999826,
+      "Run (2/3): 67 iterations (2293816552 cycles) in 999.73ms\r\n"
+    ],
+    [
+      1.000335,
+      "Run (3/3): 67 iterations (2295065160 cycles) in 1.00s\r\nPer iteration (fastest): 14.92ms (34236067 cycles) 67.02op/s\r\nPer iteration (median ): 14.93ms (34254042 cycles) 66.98op/s\r\n"
+    ],
+    [
+      0.000009,
+      "Per iteration (slowest): 14.93ms (34254703 cycles) 66.98op/s\r\n\r\n"
+    ],
+    [
+      0.989410,
+      "Benchmark array4/eltwise_copy_vs_memcpy (eltwise_copy via axpb)\r\nRun (1/3): 66 iterations (2269924612 cycles) in 989.32ms"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.989476,
+      "Run (2/3): 66 iterations (2270095884 cycles) in 989.39ms\r\n"
+    ],
+    [
+      0.989169,
+      "Run (3/3): 66 iterations (2269437984 cycles) in 989.11ms\r\nPer iteration (fastest): 14.99ms (34385424 cycles) 66.73op/s\r\nPer iteration (median ): 14.99ms (34392797 cycles) 66.71op/s\r\n"
+    ],
+    [
+      0.000009,
+      "Per iteration (slowest): 14.99ms (34395392 cycles) 66.71op/s\r\n\r\n"
+    ],
+    [
+      0.981087,
+      "Benchmark array4/eltwise_copy_vs_memcpy (eltwise_copy via view)\r\n"
+    ],
+    [
+      0.000009,
+      "Run (1/3): 44 iterations (2250898460 cycles) in 981.02ms\r\n"
+    ],
+    [
+      0.981278,
+      "Run (2/3): 44 iterations (2251277212 cycles) in 981.19ms\r\n"
+    ],
+    [
+      0.980849,
+      "Run (3/3): 44 iterations (2250350036 cycles) in 980.79ms\r\nPer iteration (fastest): 22.29ms (51144319 cycles) 44.86op/s\r\nPer iteration (median ): 22.30ms (51156783 cycles) 44.85op/s\r\n"
+    ],
+    [
+      0.000009,
+      "Per iteration (slowest): 22.30ms (51165391 cycles) 44.84op/s\r\n\r\n"
+    ],
+    [
+      0.999543,
+      "Benchmark array4/eltwise_copy_vs_memcpy (eltwise_copy via view over identity op)\r\nRun (1/3): 1144269498 iterations (2293308532 cycles) in 999.51ms\r\n"
+    ],
+    [
+      0.999448,
+      "Run (2/3): 1144269498 iterations (2293084948 cycles) in 999.41ms\r\n"
+    ],
+    [
+      0.999402,
+      "Run (3/3): 1144269498 iterations (2293002736 cycles) in 999.38ms\r\nPer iteration (fastest): 0.87ns (2 cycles) 1.14Gop/s\r\nPer iteration (median ): 0.87ns (2 cycles) 1.14Gop/s\r\n"
+    ],
+    [
+      0.000007,
+      "Per iteration (slowest): 0.87ns (2 cycles) 1.14Gop/s\r\n\r\n"
+    ],
+    [
+      0.996087,
+      "Benchmark array4/eltwise_copy_vs_memcpy (eltwise_copy via view over axpb)\r\n"
+    ],
+    [
+      0.000008,
+      "Run (1/3): 36 iterations (2285277960 cycles) in 996.01ms\r\n"
+    ],
+    [
+      0.995837,
+      "Run (2/3): 36 iterations (2284708708 cycles) in 995.76ms\r\n"
+    ],
+    [
+      0.996231,
+      "Run (3/3): 36 iterations (2285634460 cycles) in 996.16ms\r\nPer iteration (fastest): 27.66ms (63464130 cycles) 36.15op/s\r\nPer iteration (median ): 27.67ms (63479943 cycles) 36.14op/s"
+    ],
+    [
+      0.000010,
+      "\r\nPer iteration (slowest): 27.67ms (63489846 cycles) 36.14op/s\r\n\r\n"
+    ],
+    [
+      0.997547,
+      "Benchmark array4/eltwise_copy_vs_memcpy (memcpy)\r\nRun (1/3): 68 iterations (2288559564 cycles) in 997.44ms\r\n"
+    ],
+    [
+      0.999298,
+      "Run (2/3): 68 iterations (2292611696 cycles) in 999.21ms\r\n"
+    ],
+    [
+      0.997357,
+      "Run (3/3): 68 iterations (2288231828 cycles) in 997.30ms\r\nPer iteration (fastest): 14.67ms (33650468 cycles) 68.18op/s\r\nPer iteration (median ): 14.67ms (33655287 cycles) 68.17op/s\r\n"
+    ],
+    [
+      0.000008,
+      "Per iteration (slowest): 14.69ms (33714877 cycles) 68.05op/s\r\n\r\n"
+    ],
+    [
+      0.008518,
+      "I 2015-05-08 22:25:03.404368 test.cc:331 15120 | \u003c-- Passed test: array4/eltwise_copy_vs_memcpy\r\n\u001b[0mI 2015-05-08 22:25:03.404404 test.cc:327 15120 | --\u003e Start test: array4/view_access\r\n\u001b[0m"
+    ],
+    [
+      0.027560,
+      "\r\n"
+    ],
+    [
+      0.999259,
+      "Benchmark array4/view_access (get)\r\nRun (1/3): 253956644 iterations (2292683548 cycles) in 999.24ms\r\n"
+    ],
+    [
+      0.999858,
+      "Run (2/3): 253956644 iterations (2294007392 cycles) in 999.81ms\r\n"
+    ],
+    [
+      0.998517,
+      "Run (3/3): 253956644 iterations (2290962284 cycles) in 998.49ms\r\nPer iteration (fastest): 3.93ns (9 cycles) 254.34Mop/s\r\nPer iteration (median ): 3.93ns (9 cycles) 254.15Mop/s\r\n"
+    ],
+    [
+      0.000007,
+      "Per iteration (slowest): 3.94ns (9 cycles) 254.00Mop/s\r\n\r\n"
+    ],
+    [
+      0.998646,
+      "Benchmark array4/view_access (set)\r\nRun (1/3): 1123330450 iterations (2291233216 cycles) in 998.60ms\r\n"
+    ],
+    [
+      0.996388,
+      "Run (2/3): 1123330450 iterations (2286059392 cycles) in 996.35ms\r\n"
+    ],
+    [
+      0.996983,
+      "Run (3/3): 1123330450 iterations (2287445432 cycles) in 996.95ms\r\nPer iteration (fastest): 0.89ns (2 cycles) 1.13Gop/s\r\nPer iteration (median ): 0.89ns (2 cycles) 1.13Gop/s\r\n"
+    ],
+    [
+      0.000007,
+      "Per iteration (slowest): 0.89ns (2 cycles) 1.12Gop/s\r\n\r\n"
+    ],
+    [
+      0.985118,
+      "Benchmark array4/view_access (get all elements 128x3x224x224)\r\n"
+    ],
+    [
+      0.000008,
+      "Run (1/3): 36 iterations (2260123676 cycles) in 985.04ms\r\n"
+    ],
+    [
+      0.984973,
+      "Run (2/3): 36 iterations (2259779040 cycles) in 984.89ms\r\n"
+    ],
+    [
+      0.984634,
+      "Run (3/3): 36 iterations (2259027084 cycles) in 984.57ms\r\nPer iteration (fastest): 27.35ms (62750752 cycles) 36.56op/s\r\nPer iteration (median ): 27.36ms (62771640 cycles) 36.55op/s\r\n"
+    ],
+    [
+      0.000009,
+      "Per iteration (slowest): 27.36ms (62781213 cycles) 36.55op/s\r\n\r\n"
+    ],
+    [
+      0.994330,
+      "Benchmark array4/view_access (set all elements 128x3x224x224)\r\n"
+    ],
+    [
+      0.000009,
+      "Run (1/3): 48 iterations (2281276444 cycles) in 994.26ms\r\n"
+    ],
+    [
+      0.994551,
+      "Run (2/3): 48 iterations (2281751208 cycles) in 994.47ms\r\n"
+    ],
+    [
+      0.994312,
+      "Run (3/3): 48 iterations (2281232372 cycles) in 994.25ms\r\nPer iteration (fastest): 20.71ms (47525674 cycles) 48.28op/s\r\nPer iteration (median ): 20.71ms (47526592 cycles) 48.28op/s\r\n"
+    ],
+    [
+      0.000009,
+      "Per iteration (slowest): 20.72ms (47536483 cycles) 48.27op/s\r\n\r\n\u001b[0m"
+    ],
+    [
+      0.004485,
+      "I 2015-05-08 22:25:15.364041 test.cc:331 15120 | \u003c-- Passed test: array4/view_access\r\n\u001b[0mI 2015-05-08 22:25:15.364068 test.cc:327 15120 | --\u003e Start test: dataflow_data/data\r\n\u001b[0m"
+    ],
+    [
+      0.000170,
+      "I 2015-05-08 22:25:15.364212 test.cc:331 15120 | \u003c-- Passed test: dataflow_data/data\r\n\u001b[0mI 2015-05-08 22:25:15.364240 test.cc:327 15120 | --\u003e Start test: dn2_sched/algorithm\r\n\u001b[0m"
+    ],
+    [
+      0.000099,
+      "\u001b[0;35mI 2015-05-08 22:25:15.364300 test-dn2-sched.cc:70 15120 | 1 sched test cases\r\n\u001b[0m\u001b[0;36mI 2015-05-08 22:25:15.364337 test-dn2-sched.cc:72 15120 | test case: simple\r\n\u001b[0m"
+    ],
+    [
+      0.000006,
+      "\u001b[0;34mI 2015-05-08 22:25:15.364364 test-dn2-sched.cc:74 15120 | before:\r\n\u001b[0m"
+    ],
+    [
+      0.000162,
+      "I 2015-05-08 22:25:15.364441 test-dn2-sched.cc:75 15120 | { /* dn2.sched.Landscape */\r\nI 2015-05-08 22:25:15.364441 test-dn2-sched.cc:75 15120 |   dynamic_sched: false,\r\nI 2015-05-08 22:25:15.364441 test-dn2-sched.cc:75 15120 |   edges: [\r\nI 2015-05-08 22:25:15.364441 test-dn2-sched.cc:75 15120 |     { /* dn2.sched.Edge */\r\nI 2015-05-08 22:25:15.364441 test-dn2-sched.cc:75 15120 |       data_size: 20000000,"
+    ],
+    [
+      0.000070,
+      "\r\nI 2015-05-08 22:25:15.364441 test-dn2-sched.cc:75 15120 |       from_job_port: \"j1.o1\",\r\nI 2015-05-08 22:25:15.364441 test-dn2-sched.cc:75 15120 |       to_job_port: \"__sink.__sync\",\r\nI 2015-05-08 22:25:15.364441 test-dn2-sched.cc:75 15120 |       type: \"\"\r\nI 2015-05-08 22:25:15.364441 test-dn2-sched.cc:75 15120 |     },\r\nI 2015-05-08 22:25:15.364441 test-dn2-sched.cc:75 15120 |     { /* dn2.sched.Edge */\r\nI 2015-05-08 22:25:15.364441 test-dn2-sched.cc:75 15120 |       data_size: 20000000,\r\nI 2015-05-08 22:25:15.364441 test-dn2-sched.cc:75 15120 |       from_job_port: \"__source.__sync\",\r\nI 2015-05-08 22:25:15.364441 test-dn2-sched.cc:75 15120 |       to_job_port: \"j1.i1\",\r\nI 2015-05-08 22:25:15.364441 test-dn2-sched.cc:75 15120 |       type: \"\"\r\nI 2015-05-08 22:25:15.364441 test-dn2-sched.cc:75 15120 |     },\r\nI 2015-05-08 22:25:15.364441 test-dn2-sched.cc:75 15120 |     { /* dn2.sched.Edge */\r\n"
+    ],
+    [
+      0.000032,
+      "I 2015-05-08 22:25:15.364441 test-dn2-sched.cc:75 15120 |       data_size: 20000000,\r\nI 2015-05-08 22:25:15.364441 test-dn2-sched.cc:75 15120 |       from_job_port: \"j2.o1\",\r\nI 2015-05-08 22:25:15.364441 test-dn2-sched.cc:75 15120 |       to_job_port: \"__sink.__sync\",\r\nI 2015-05-08 22:25:15.364441 test-dn2-sched.cc:75 15120 |       type: \"\"\r\nI 2015-05-08 22:25:15.364441 test-dn2-sched.cc:75 15120 |     },\r\nI 2015-05-08 22:25:15.364441 test-dn2-sched.cc:75 15120 |     { /* dn2.sched.Edge */\r\n"
+    ],
+    [
+      0.000009,
+      "I 2015-05-08 22:25:15.364441 test-dn2-sched.cc:75 15120 |       data_size: 20000000,\r\nI 2015-05-08 22:25:15.364441 test-dn2-sched.cc:75 15120 |       from_job_port: \"j1.o1\",\r\n"
+    ],
+    [
+      0.000076,
+      "I 2015-05-08 22:25:15.364441 test-dn2-sched.cc:75 15120 |       to_job_port: \"j2.i1\",\r\nI 2015-05-08 22:25:15.364441 test-dn2-sched.cc:75 15120 |       type: \"\"\r\nI 2015-05-08 22:25:15.364441 test-dn2-sched.cc:75 15120 |     }\r\nI 2015-05-08 22:25:15.364441 test-dn2-sched.cc:75 15120 |   ],\r\nI 2015-05-08 22:25:15.364441 test-dn2-sched.cc:75 15120 |   iteration: 0,\r\nI 2015-05-08 22:25:15.364441 test-dn2-sched.cc:75 15120 |   jobs: [\r\nI 2015-05-08 22:25:15.364441 test-dn2-sched.cc:75 15120 |     { /* dn2.sched.Job */"
+    ],
+    [
+      0.000012,
+      "\r\nI 2015-05-08 22:25:15.364441 test-dn2-sched.cc:75 15120 |       device_id: 0,\r\nI 2015-05-08 22:25:15.364441 test-dn2-sched.cc:75 15120 |       func: \"\",\r\nI 2015-05-08 22:25:15.364441 test-dn2-sched.cc:75 15120 |       input_ports: [],\r\nI 2015-05-08 22:25:15.364441 test-dn2-sched.cc:75 15120 |       locality_group: \"\","
+    ],
+    [
+      0.000051,
+      "\r\nI 2015-05-08 22:25:15.364441 test-dn2-sched.cc:75 15120 |       memory_usage: 0,\r\nI 2015-05-08 22:25:15.364441 test-dn2-sched.cc:75 15120 |       name: \"__source\",\r\nI 2015-05-08 22:25:15.364441 test-dn2-sched.cc:75 15120 |       output_ports: [\"__sync\"],\r\nI 2015-05-08 22:25:15.364441 test-dn2-sched.cc:75 15120 |       place_id: 0,\r\nI 2015-05-08 22:25:15.364441 test-dn2-sched.cc:75 15120 |       running_time: 0,"
+    ],
+    [
+      0.000010,
+      "\r\nI 2015-05-08 22:25:15.364441 test-dn2-sched.cc:75 15120 |       state_name: \"\",\r\nI 2015-05-08 22:25:15.364441 test-dn2-sched.cc:75 15120 |       worker_name: \"\"\r\nI 2015-05-08 22:25:15.364441 test-dn2-sched.cc:75 15120 |     },\r\n"
+    ],
+    [
+      0.000053,
+      "I 2015-05-08 22:25:15.364441 test-dn2-sched.cc:75 15120 |     { /* dn2.sched.Job */\r\nI 2015-05-08 22:25:15.364441 test-dn2-sched.cc:75 15120 |       device_id: 0,\r\nI 2015-05-08 22:25:15.364441 test-dn2-sched.cc:75 15120 |       func: \"\",\r\nI 2015-05-08 22:25:15.364441 test-dn2-sched.cc:75 15120 |       input_ports: [\"__sync\"],\r\n"
+    ],
+    [
+      0.000008,
+      "I 2015-05-08 22:25:15.364441 test-dn2-sched.cc:75 15120 |       locality_group: \"\",\r\nI 2015-05-08 22:25:15.364441 test-dn2-sched.cc:75 15120 |       memory_usage: 0,\r\n"
+    ],
+    [
+      0.000004,
+      "I 2015-05-08 22:25:15.364441 test-dn2-sched.cc:75 15120 |       name: \"__sink\",\r\n"
+    ],
+    [
+      0.000019,
+      "I 2015-05-08 22:25:15.364441 test-dn2-sched.cc:75 15120 |       output_ports: [],\r\n"
+    ],
+    [
+      0.000017,
+      "I 2015-05-08 22:25:15.364441 test-dn2-sched.cc:75 15120 |       place_id: 0,\r\nI 2015-05-08 22:25:15.364441 test-dn2-sched.cc:75 15120 |       running_time: 0,\r\nI 2015-05-08 22:25:15.364441 test-dn2-sched.cc:75 15120 |       state_name: \"\",\r\n"
+    ],
+    [
+      0.000005,
+      "I 2015-05-08 22:25:15.364441 test-dn2-sched.cc:75 15120 |       worker_name: \"\"\r\n"
+    ],
+    [
+      0.000004,
+      "I 2015-05-08 22:25:15.364441 test-dn2-sched.cc:75 15120 |     },"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000023,
+      "I 2015-05-08 22:25:15.364441 test-dn2-sched.cc:75 15120 |     { /* dn2.sched.Job */\r\n"
+    ],
+    [
+      0.000008,
+      "I 2015-05-08 22:25:15.364441 test-dn2-sched.cc:75 15120 |       device_id: 0,\r\nI 2015-05-08 22:25:15.364441 test-dn2-sched.cc:75 15120 |       func: \"\",\r\nI 2015-05-08 22:25:15.364441 test-dn2-sched.cc:75 15120 |       input_ports: [\"i1\"],\r\n"
+    ],
+    [
+      0.000006,
+      "I 2015-05-08 22:25:15.364441 test-dn2-sched.cc:75 15120 |       locality_group: \"\",\r\n"
+    ],
+    [
+      0.000015,
+      "I 2015-05-08 22:25:15.364441 test-dn2-sched.cc:75 15120 |       memory_usage: 0,\r\nI 2015-05-08 22:25:15.364441 test-dn2-sched.cc:75 15120 |       name: \"j1\",\r\n"
+    ],
+    [
+      0.000005,
+      "I 2015-05-08 22:25:15.364441 test-dn2-sched.cc:75 15120 |       output_ports: [\"o1\"],\r\n"
+    ],
+    [
+      0.000004,
+      "I 2015-05-08 22:25:15.364441 test-dn2-sched.cc:75 15120 |       place_id: 0,"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000021,
+      "I 2015-05-08 22:25:15.364441 test-dn2-sched.cc:75 15120 |       running_time: 0,\r\n"
+    ],
+    [
+      0.000019,
+      "I 2015-05-08 22:25:15.364441 test-dn2-sched.cc:75 15120 |       state_name: \"\",\r\nI 2015-05-08 22:25:15.364441 test-dn2-sched.cc:75 15120 |       worker_name: \"\"\r\nI 2015-05-08 22:25:15.364441 test-dn2-sched.cc:75 15120 |     },\r\nI 2015-05-08 22:25:15.364441 test-dn2-sched.cc:75 15120 |     { /* dn2.sched.Job */"
+    ],
+    [
+      0.000051,
+      "\r\nI 2015-05-08 22:25:15.364441 test-dn2-sched.cc:75 15120 |       device_id: 0,\r\nI 2015-05-08 22:25:15.364441 test-dn2-sched.cc:75 15120 |       func: \"\",\r\nI 2015-05-08 22:25:15.364441 test-dn2-sched.cc:75 15120 |       input_ports: [\"i1\"],\r\nI 2015-05-08 22:25:15.364441 test-dn2-sched.cc:75 15120 |       locality_group: \"\",\r\nI 2015-05-08 22:25:15.364441 test-dn2-sched.cc:75 15120 |       memory_usage: 0,"
+    ],
+    [
+      0.000010,
+      "\r\nI 2015-05-08 22:25:15.364441 test-dn2-sched.cc:75 15120 |       name: \"j2\",\r\nI 2015-05-08 22:25:15.364441 test-dn2-sched.cc:75 15120 |       output_ports: [\"o1\"],\r\nI 2015-05-08 22:25:15.364441 test-dn2-sched.cc:75 15120 |       place_id: 0,\r\n"
+    ],
+    [
+      0.000056,
+      "I 2015-05-08 22:25:15.364441 test-dn2-sched.cc:75 15120 |       running_time: 0,\r\nI 2015-05-08 22:25:15.364441 test-dn2-sched.cc:75 15120 |       state_name: \"\",\r\nI 2015-05-08 22:25:15.364441 test-dn2-sched.cc:75 15120 |       worker_name: \"\"\r\nI 2015-05-08 22:25:15.364441 test-dn2-sched.cc:75 15120 |     }\r\nI 2015-05-08 22:25:15.364441 test-dn2-sched.cc:75 15120 |   ],"
+    ],
+    [
+      0.000010,
+      "\r\nI 2015-05-08 22:25:15.364441 test-dn2-sched.cc:75 15120 |   machines: [{ /* dn2.sched.Machine */\r\nI 2015-05-08 22:25:15.364441 test-dn2-sched.cc:75 15120 |     available_memory: 3000000000,\r\nI 2015-05-08 22:25:15.364441 test-dn2-sched.cc:75 15120 |     name: \"m1\"\r\n"
+    ],
+    [
+      0.000005,
+      "I 2015-05-08 22:25:15.364441 test-dn2-sched.cc:75 15120 |   }],\r\n"
+    ],
+    [
+      0.000055,
+      "I 2015-05-08 22:25:15.364441 test-dn2-sched.cc:75 15120 |   scheduling_algorithm: \"\",\r\nI 2015-05-08 22:25:15.364441 test-dn2-sched.cc:75 15120 |   states: [],\r\nI 2015-05-08 22:25:15.364441 test-dn2-sched.cc:75 15120 |   workers: []\r\nI 2015-05-08 22:25:15.364441 test-dn2-sched.cc:75 15120 | }\r\n\u001b[0m"
+    ],
+    [
+      0.000230,
+      "\u001b[0;32mI 2015-05-08 22:25:15.365377 test-dn2-sched.cc:84 15120 | after:\r\n\u001b[0m"
+    ],
+    [
+      0.000096,
+      "I 2015-05-08 22:25:15.365469 test-dn2-sched.cc:85 15120 | { /* dn2.sched.Landscape */\r\nI 2015-05-08 22:25:15.365469 test-dn2-sched.cc:85 15120 |   dynamic_sched: false,\r\nI 2015-05-08 22:25:15.365469 test-dn2-sched.cc:85 15120 |   edges: [\r\nI 2015-05-08 22:25:15.365469 test-dn2-sched.cc:85 15120 |     { /* dn2.sched.Edge */\r\n"
+    ],
+    [
+      0.000008,
+      "I 2015-05-08 22:25:15.365469 test-dn2-sched.cc:85 15120 |       data_size: 20000000,\r\nI 2015-05-08 22:25:15.365469 test-dn2-sched.cc:85 15120 |       from_job_port: \"j1.o1\",\r\nI 2015-05-08 22:25:15.365469 test-dn2-sched.cc:85 15120 |       to_job_port: \"__sink.__sync\",\r\n"
+    ],
+    [
+      0.000005,
+      "I 2015-05-08 22:25:15.365469 test-dn2-sched.cc:85 15120 |       type: \"\"\r\n"
+    ],
+    [
+      0.000084,
+      "I 2015-05-08 22:25:15.365469 test-dn2-sched.cc:85 15120 |     },\r\nI 2015-05-08 22:25:15.365469 test-dn2-sched.cc:85 15120 |     { /* dn2.sched.Edge */\r\nI 2015-05-08 22:25:15.365469 test-dn2-sched.cc:85 15120 |       data_size: 20000000,\r\nI 2015-05-08 22:25:15.365469 test-dn2-sched.cc:85 15120 |       from_job_port: \"__source.__sync\",\r\nI 2015-05-08 22:25:15.365469 test-dn2-sched.cc:85 15120 |       to_job_port: \"j1.i1\",\r\n"
+    ],
+    [
+      0.000024,
+      "I 2015-05-08 22:25:15.365469 test-dn2-sched.cc:85 15120 |       type: \"\"\r\nI 2015-05-08 22:25:15.365469 test-dn2-sched.cc:85 15120 |     },\r\nI 2015-05-08 22:25:15.365469 test-dn2-sched.cc:85 15120 |     { /* dn2.sched.Edge */\r\nI 2015-05-08 22:25:15.365469 test-dn2-sched.cc:85 15120 |       data_size: 20000000,\r\nI 2015-05-08 22:25:15.365469 test-dn2-sched.cc:85 15120 |       from_job_port: \"j2.o1\","
+    ],
+    [
+      0.000005,
+      "\r\nI 2015-05-08 22:25:15.365469 test-dn2-sched.cc:85 15120 |       to_job_port: \"__sink.__sync\",\r\n"
+    ],
+    [
+      0.000048,
+      "I 2015-05-08 22:25:15.365469 test-dn2-sched.cc:85 15120 |       type: \"\"\r\nI 2015-05-08 22:25:15.365469 test-dn2-sched.cc:85 15120 |     },\r\nI 2015-05-08 22:25:15.365469 test-dn2-sched.cc:85 15120 |     { /* dn2.sched.Edge */\r\nI 2015-05-08 22:25:15.365469 test-dn2-sched.cc:85 15120 |       data_size: 20000000,\r\n"
+    ],
+    [
+      0.000006,
+      "I 2015-05-08 22:25:15.365469 test-dn2-sched.cc:85 15120 |       from_job_port: \"j1.o1\",\r\nI 2015-05-08 22:25:15.365469 test-dn2-sched.cc:85 15120 |       to_job_port: \"j2.i1\",\r\n"
+    ],
+    [
+      0.000020,
+      "I 2015-05-08 22:25:15.365469 test-dn2-sched.cc:85 15120 |       type: \"\"\r\n"
+    ],
+    [
+      0.000025,
+      "I 2015-05-08 22:25:15.365469 test-dn2-sched.cc:85 15120 |     }\r\nI 2015-05-08 22:25:15.365469 test-dn2-sched.cc:85 15120 |   ],\r\nI 2015-05-08 22:25:15.365469 test-dn2-sched.cc:85 15120 |   iteration: 0,\r\n"
+    ],
+    [
+      0.000018,
+      "I 2015-05-08 22:25:15.365469 test-dn2-sched.cc:85 15120 |   jobs: [\r\nI 2015-05-08 22:25:15.365469 test-dn2-sched.cc:85 15120 |     { /* dn2.sched.Job */\r\nI 2015-05-08 22:25:15.365469 test-dn2-sched.cc:85 15120 |       device_id: 0,\r\n"
+    ],
+    [
+      0.000046,
+      "I 2015-05-08 22:25:15.365469 test-dn2-sched.cc:85 15120 |       func: \"\",\r\nI 2015-05-08 22:25:15.365469 test-dn2-sched.cc:85 15120 |       input_ports: [],\r\nI 2015-05-08 22:25:15.365469 test-dn2-sched.cc:85 15120 |       locality_group: \"\",\r\nI 2015-05-08 22:25:15.365469 test-dn2-sched.cc:85 15120 |       memory_usage: 0,\r\nI 2015-05-08 22:25:15.365469 test-dn2-sched.cc:85 15120 |       name: \"__source\",\r\n"
+    ],
+    [
+      0.000022,
+      "I 2015-05-08 22:25:15.365469 test-dn2-sched.cc:85 15120 |       output_ports: [\"__sync\"],\r\nI 2015-05-08 22:25:15.365469 test-dn2-sched.cc:85 15120 |       place_id: 0,"
+    ],
+    [
+      0.000048,
+      "\r\nI 2015-05-08 22:25:15.365469 test-dn2-sched.cc:85 15120 |       running_time: 0,\r\nI 2015-05-08 22:25:15.365469 test-dn2-sched.cc:85 15120 |       state_name: \"\",\r\nI 2015-05-08 22:25:15.365469 test-dn2-sched.cc:85 15120 |       worker_name: \"127.0.0.1:1987\"\r\nI 2015-05-08 22:25:15.365469 test-dn2-sched.cc:85 15120 |     },\r\n"
+    ],
+    [
+      0.000048,
+      "I 2015-05-08 22:25:15.365469 test-dn2-sched.cc:85 15120 |     { /* dn2.sched.Job */\r\nI 2015-05-08 22:25:15.365469 test-dn2-sched.cc:85 15120 |       device_id: 0,\r\nI 2015-05-08 22:25:15.365469 test-dn2-sched.cc:85 15120 |       func: \"\",\r\nI 2015-05-08 22:25:15.365469 test-dn2-sched.cc:85 15120 |       input_ports: [\"__sync\"],\r\nI 2015-05-08 22:25:15.365469 test-dn2-sched.cc:85 15120 |       locality_group: \"\",\r\nI 2015-05-08 22:25:15.365469 test-dn2-sched.cc:85 15120 |       memory_usage: 0,\r\n"
+    ],
+    [
+      0.000009,
+      "I 2015-05-08 22:25:15.365469 test-dn2-sched.cc:85 15120 |       name: \"__sink\",\r\nI 2015-05-08 22:25:15.365469 test-dn2-sched.cc:85 15120 |       output_ports: [],\r\nI 2015-05-08 22:25:15.365469 test-dn2-sched.cc:85 15120 |       place_id: 0,\r\n"
+    ],
+    [
+      0.000017,
+      "I 2015-05-08 22:25:15.365469 test-dn2-sched.cc:85 15120 |       running_time: 0,\r\nI 2015-05-08 22:25:15.365469 test-dn2-sched.cc:85 15120 |       state_name: \"\",\r\n"
+    ],
+    [
+      0.000009,
+      "I 2015-05-08 22:25:15.365469 test-dn2-sched.cc:85 15120 |       worker_name: \"127.0.0.1:1987\"\r\nI 2015-05-08 22:25:15.365469 test-dn2-sched.cc:85 15120 |     },"
+    ],
+    [
+      0.000011,
+      "\r\nI 2015-05-08 22:25:15.365469 test-dn2-sched.cc:85 15120 |     { /* dn2.sched.Job */\r\n"
+    ],
+    [
+      0.000012,
+      "I 2015-05-08 22:25:15.365469 test-dn2-sched.cc:85 15120 |       device_id: 0,\r\n"
+    ],
+    [
+      0.000004,
+      "I 2015-05-08 22:25:15.365469 test-dn2-sched.cc:85 15120 |       func: \"\",\r\n"
+    ],
+    [
+      0.000011,
+      "I 2015-05-08 22:25:15.365469 test-dn2-sched.cc:85 15120 |       input_ports: [\"i1\"],\r\n"
+    ],
+    [
+      0.000004,
+      "I 2015-05-08 22:25:15.365469 test-dn2-sched.cc:85 15120 |       locality_group: \"\",\r\n"
+    ],
+    [
+      0.000004,
+      "I 2015-05-08 22:25:15.365469 test-dn2-sched.cc:85 15120 |       memory_usage: 0,"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "I 2015-05-08 22:25:15.365469 test-dn2-sched.cc:85 15120 |       name: \"j1\","
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "I 2015-05-08 22:25:15.365469 test-dn2-sched.cc:85 15120 |       output_ports: [\"o1\"],"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000048,
+      "I 2015-05-08 22:25:15.365469 test-dn2-sched.cc:85 15120 |       place_id: 0,\r\nI 2015-05-08 22:25:15.365469 test-dn2-sched.cc:85 15120 |       running_time: 0,\r\nI 2015-05-08 22:25:15.365469 test-dn2-sched.cc:85 15120 |       state_name: \"\",\r\nI 2015-05-08 22:25:15.365469 test-dn2-sched.cc:85 15120 |       worker_name: \"127.0.0.1:1987\""
+    ],
+    [
+      0.000009,
+      "\r\nI 2015-05-08 22:25:15.365469 test-dn2-sched.cc:85 15120 |     },\r\nI 2015-05-08 22:25:15.365469 test-dn2-sched.cc:85 15120 |     { /* dn2.sched.Job */\r\nI 2015-05-08 22:25:15.365469 test-dn2-sched.cc:85 15120 |       device_id: 0,"
+    ],
+    [
+      0.000028,
+      "\r\nI 2015-05-08 22:25:15.365469 test-dn2-sched.cc:85 15120 |       func: \"\",\r\nI 2015-05-08 22:25:15.365469 test-dn2-sched.cc:85 15120 |       input_ports: [\"i1\"],\r\n"
+    ],
+    [
+      0.000007,
+      "I 2015-05-08 22:25:15.365469 test-dn2-sched.cc:85 15120 |       locality_group: \"\",\r\nI 2015-05-08 22:25:15.365469 test-dn2-sched.cc:85 15120 |       memory_usage: 0,\r\n"
+    ],
+    [
+      0.000004,
+      "I 2015-05-08 22:25:15.365469 test-dn2-sched.cc:85 15120 |       name: \"j2\","
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000018,
+      "I 2015-05-08 22:25:15.365469 test-dn2-sched.cc:85 15120 |       output_ports: [\"o1\"],\r\n"
+    ],
+    [
+      0.000037,
+      "I 2015-05-08 22:25:15.365469 test-dn2-sched.cc:85 15120 |       place_id: 0,\r\nI 2015-05-08 22:25:15.365469 test-dn2-sched.cc:85 15120 |       running_time: 0,\r\nI 2015-05-08 22:25:15.365469 test-dn2-sched.cc:85 15120 |       state_name: \"\",\r\nI 2015-05-08 22:25:15.365469 test-dn2-sched.cc:85 15120 |       worker_name: \"127.0.0.1:1988\"\r\n"
+    ],
+    [
+      0.000006,
+      "I 2015-05-08 22:25:15.365469 test-dn2-sched.cc:85 15120 |     }\r\nI 2015-05-08 22:25:15.365469 test-dn2-sched.cc:85 15120 |   ],\r\n"
+    ],
+    [
+      0.000015,
+      "I 2015-05-08 22:25:15.365469 test-dn2-sched.cc:85 15120 |   machines: [{ /* dn2.sched.Machine */\r\n"
+    ],
+    [
+      0.000016,
+      "I 2015-05-08 22:25:15.365469 test-dn2-sched.cc:85 15120 |     available_memory: 3000000000,\r\nI 2015-05-08 22:25:15.365469 test-dn2-sched.cc:85 15120 |     name: \"m1\""
+    ],
+    [
+      0.000016,
+      "\r\nI 2015-05-08 22:25:15.365469 test-dn2-sched.cc:85 15120 |   }],\r\nI 2015-05-08 22:25:15.365469 test-dn2-sched.cc:85 15120 |   scheduling_algorithm: \"ROUND-ROBIN\","
+    ],
+    [
+      0.000005,
+      "\r\nI 2015-05-08 22:25:15.365469 test-dn2-sched.cc:85 15120 |   states: [],\r\n"
+    ],
+    [
+      0.000013,
+      "I 2015-05-08 22:25:15.365469 test-dn2-sched.cc:85 15120 |   workers: [\r\n"
+    ],
+    [
+      0.000044,
+      "I 2015-05-08 22:25:15.365469 test-dn2-sched.cc:85 15120 |     { /* dn2.sched.Worker */\r\nI 2015-05-08 22:25:15.365469 test-dn2-sched.cc:85 15120 |       jobs: [\r\nI 2015-05-08 22:25:15.365469 test-dn2-sched.cc:85 15120 |         \"__source\",\r\nI 2015-05-08 22:25:15.365469 test-dn2-sched.cc:85 15120 |         \"__sink\",\r\nI 2015-05-08 22:25:15.365469 test-dn2-sched.cc:85 15120 |         \"j1\"\r\n"
+    ],
+    [
+      0.000033,
+      "I 2015-05-08 22:25:15.365469 test-dn2-sched.cc:85 15120 |       ],\r\nI 2015-05-08 22:25:15.365469 test-dn2-sched.cc:85 15120 |       name: \"127.0.0.1:1987\"\r\nI 2015-05-08 22:25:15.365469 test-dn2-sched.cc:85 15120 |     },"
+    ],
+    [
+      0.000049,
+      "\r\nI 2015-05-08 22:25:15.365469 test-dn2-sched.cc:85 15120 |     { /* dn2.sched.Worker */\r\nI 2015-05-08 22:25:15.365469 test-dn2-sched.cc:85 15120 |       jobs: [\"j2\"],\r\nI 2015-05-08 22:25:15.365469 test-dn2-sched.cc:85 15120 |       name: \"127.0.0.1:1988\"\r\n"
+    ],
+    [
+      0.000024,
+      "I 2015-05-08 22:25:15.365469 test-dn2-sched.cc:85 15120 |     }\r\nI 2015-05-08 22:25:15.365469 test-dn2-sched.cc:85 15120 |   ]\r\nI 2015-05-08 22:25:15.365469 test-dn2-sched.cc:85 15120 | }\r\n\u001b[0m"
+    ],
+    [
+      0.000033,
+      "I 2015-05-08 22:25:15.366403 test.cc:331 15120 | \u003c-- Passed test: dn2_sched/algorithm\r\n\u001b[0mI 2015-05-08 22:25:15.366423 test.cc:327 15120 | --\u003e Start test: dn2_sched/bad_data"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[0m"
+    ],
+    [
+      0.000099,
+      "\u001b[0;36mI 2015-05-08 22:25:15.366520 test-dn2-sched.cc:39 15120 | test case: bad_machine_memory_1\r\n\u001b[0m"
+    ],
+    [
+      0.000012,
+      "I 2015-05-08 22:25:15.366550 test-dn2-sched.cc:41 15120 | { /* dn2.sched.Landscape */\r\nI 2015-05-08 22:25:15.366550 test-dn2-sched.cc:41 15120 |   dynamic_sched: false,"
+    ],
+    [
+      0.000024,
+      "\r\nI 2015-05-08 22:25:15.366550 test-dn2-sched.cc:41 15120 |   edges: [],\r\nI 2015-05-08 22:25:15.366550 test-dn2-sched.cc:41 15120 |   iteration: 0,"
+    ],
+    [
+      0.000036,
+      "\r\nI 2015-05-08 22:25:15.366550 test-dn2-sched.cc:41 15120 |   jobs: [],\r\nI 2015-05-08 22:25:15.366550 test-dn2-sched.cc:41 15120 |   machines: [{ /* dn2.sched.Machine */\r\nI 2015-05-08 22:25:15.366550 test-dn2-sched.cc:41 15120 |     available_memory: 0,\r\n"
+    ],
+    [
+      0.000027,
+      "I 2015-05-08 22:25:15.366550 test-dn2-sched.cc:41 15120 |     name: \"m1\"\r\nI 2015-05-08 22:25:15.366550 test-dn2-sched.cc:41 15120 |   }],\r\nI 2015-05-08 22:25:15.366550 test-dn2-sched.cc:41 15120 |   scheduling_algorithm: \"\",\r\nI 2015-05-08 22:25:15.366550 test-dn2-sched.cc:41 15120 |   states: [],\r\n"
+    ],
+    [
+      0.000019,
+      "I 2015-05-08 22:25:15.366550 test-dn2-sched.cc:41 15120 |   workers: []\r\nI 2015-05-08 22:25:15.366550 test-dn2-sched.cc:41 15120 | }\r\n\u001b[0m"
+    ],
+    [
+      0.000015,
+      "\u001b[0;31mE 2015-05-08 22:25:15.366668 test-dn2-sched.cc:45 15120 | INVALID_ARGUMENT(Empty jobs list! @ dn2-validate.cc:202)\r\n\u001b[0m"
+    ],
+    [
+      0.000039,
+      "\u001b[0;36mI 2015-05-08 22:25:15.366688 test-dn2-sched.cc:39 15120 | test case: bad_machine_memory_2"
+    ],
+    [
+      0.000013,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.000031,
+      "I 2015-05-08 22:25:15.366746 test-dn2-sched.cc:41 15120 | { /* dn2.sched.Landscape */\r\n"
+    ],
+    [
+      0.000015,
+      "I 2015-05-08 22:25:15.366746 test-dn2-sched.cc:41 15120 |   dynamic_sched: false,\r\nI 2015-05-08 22:25:15.366746 test-dn2-sched.cc:41 15120 |   edges: [],\r\n"
+    ],
+    [
+      0.000025,
+      "I 2015-05-08 22:25:15.366746 test-dn2-sched.cc:41 15120 |   iteration: 0,\r\nI 2015-05-08 22:25:15.366746 test-dn2-sched.cc:41 15120 |   jobs: [],\r\nI 2015-05-08 22:25:15.366746 test-dn2-sched.cc:41 15120 |   machines: [{ /* dn2.sched.Machine */"
+    ],
+    [
+      0.000015,
+      "\r\nI 2015-05-08 22:25:15.366746 test-dn2-sched.cc:41 15120 |     available_memory: -1,\r\n"
+    ],
+    [
+      0.000027,
+      "I 2015-05-08 22:25:15.366746 test-dn2-sched.cc:41 15120 |     name: \"m1\"\r\n"
+    ],
+    [
+      0.000024,
+      "I 2015-05-08 22:25:15.366746 test-dn2-sched.cc:41 15120 |   }],\r\nI 2015-05-08 22:25:15.366746 test-dn2-sched.cc:41 15120 |   scheduling_algorithm: \"\",\r\n"
+    ],
+    [
+      0.000026,
+      "I 2015-05-08 22:25:15.366746 test-dn2-sched.cc:41 15120 |   states: [],\r\nI 2015-05-08 22:25:15.366746 test-dn2-sched.cc:41 15120 |   workers: []\r\nI 2015-05-08 22:25:15.366746 test-dn2-sched.cc:41 15120 | }"
+    ],
+    [
+      0.000014,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.000013,
+      "\u001b[0;31mE 2015-05-08 22:25:15.366909 test-dn2-sched.cc:45 15120 | INVALID_ARGUMENT(Machine 'm1' has invalid memory: -1 @ dn2-validate.cc:172)\r\n\u001b[0m"
+    ],
+    [
+      0.000011,
+      "\u001b[0;36mI 2015-05-08 22:25:15.366929 test-dn2-sched.cc:39 15120 | test case: duplicated_machin_names\r\n"
+    ],
+    [
+      0.000054,
+      "\u001b[0m"
+    ],
+    [
+      0.000038,
+      "I 2015-05-08 22:25:15.367012 test-dn2-sched.cc:41 15120 | { /* dn2.sched.Landscape */\r\n"
+    ],
+    [
+      0.000016,
+      "I 2015-05-08 22:25:15.367012 test-dn2-sched.cc:41 15120 |   dynamic_sched: false,\r\nI 2015-05-08 22:25:15.367012 test-dn2-sched.cc:41 15120 |   edges: [],\r\n"
+    ],
+    [
+      0.000015,
+      "I 2015-05-08 22:25:15.367012 test-dn2-sched.cc:41 15120 |   iteration: 0,\r\nI 2015-05-08 22:25:15.367012 test-dn2-sched.cc:41 15120 |   jobs: [],\r\n"
+    ],
+    [
+      0.000024,
+      "I 2015-05-08 22:25:15.367012 test-dn2-sched.cc:41 15120 |   machines: ["
+    ],
+    [
+      0.000020,
+      "\r\nI 2015-05-08 22:25:15.367012 test-dn2-sched.cc:41 15120 |     { /* dn2.sched.Machine */\r\n"
+    ],
+    [
+      0.000023,
+      "I 2015-05-08 22:25:15.367012 test-dn2-sched.cc:41 15120 |       available_memory: 3000000000,\r\nI 2015-05-08 22:25:15.367012 test-dn2-sched.cc:41 15120 |       name: \"m1\"\r\n"
+    ],
+    [
+      0.000028,
+      "I 2015-05-08 22:25:15.367012 test-dn2-sched.cc:41 15120 |     },\r\nI 2015-05-08 22:25:15.367012 test-dn2-sched.cc:41 15120 |     { /* dn2.sched.Machine */\r\nI 2015-05-08 22:25:15.367012 test-dn2-sched.cc:41 15120 |       available_memory: 3000000000,\r\n"
+    ],
+    [
+      0.000033,
+      "I 2015-05-08 22:25:15.367012 test-dn2-sched.cc:41 15120 |       name: \"m1\"\r\nI 2015-05-08 22:25:15.367012 test-dn2-sched.cc:41 15120 |     }\r\nI 2015-05-08 22:25:15.367012 test-dn2-sched.cc:41 15120 |   ],\r\n"
+    ],
+    [
+      0.000023,
+      "I 2015-05-08 22:25:15.367012 test-dn2-sched.cc:41 15120 |   scheduling_algorithm: \"\",\r\nI 2015-05-08 22:25:15.367012 test-dn2-sched.cc:41 15120 |   states: [],\r\nI 2015-05-08 22:25:15.367012 test-dn2-sched.cc:41 15120 |   workers: []\r\n"
+    ],
+    [
+      0.000013,
+      "I 2015-05-08 22:25:15.367012 test-dn2-sched.cc:41 15120 | }\r\n\u001b[0m"
+    ],
+    [
+      0.000019,
+      "\u001b[0;31mE 2015-05-08 22:25:15.367228 test-dn2-sched.cc:45 15120 | INVALID_ARGUMENT(Duplicate machine name: 'm1' @ dn2-validate.cc:164)\r\n"
+    ],
+    [
+      0.000014,
+      "\u001b[0m\u001b[0;36mI 2015-05-08 22:25:15.367251 test-dn2-sched.cc:39 15120 | test case: empty"
+    ],
+    [
+      0.000012,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.000017,
+      "I 2015-05-08 22:25:15.367274 test-dn2-sched.cc:41 15120 | { /* dn2.sched.Landscape */\r\n"
+    ],
+    [
+      0.000019,
+      "I 2015-05-08 22:25:15.367274 test-dn2-sched.cc:41 15120 |   dynamic_sched: false,\r\nI 2015-05-08 22:25:15.367274 test-dn2-sched.cc:41 15120 |   edges: [],\r\n"
+    ],
+    [
+      0.000024,
+      "I 2015-05-08 22:25:15.367274 test-dn2-sched.cc:41 15120 |   iteration: 0,\r\nI 2015-05-08 22:25:15.367274 test-dn2-sched.cc:41 15120 |   jobs: [],\r\nI 2015-05-08 22:25:15.367274 test-dn2-sched.cc:41 15120 |   machines: [],\r\n"
+    ],
+    [
+      0.000064,
+      "I 2015-05-08 22:25:15.367274 test-dn2-sched.cc:41 15120 |   scheduling_algorithm: \"\",\r\n"
+    ],
+    [
+      0.000020,
+      "I 2015-05-08 22:25:15.367274 test-dn2-sched.cc:41 15120 |   states: [],\r\nI 2015-05-08 22:25:15.367274 test-dn2-sched.cc:41 15120 |   workers: []\r\n"
+    ],
+    [
+      0.000016,
+      "I 2015-05-08 22:25:15.367274 test-dn2-sched.cc:41 15120 | }\r\n\u001b[0m"
+    ],
+    [
+      0.000009,
+      "\u001b[0;31mE 2015-05-08 22:25:15.367430 test-dn2-sched.cc:45 15120 | INVALID_ARGUMENT(Empty machines list! @ dn2-validate.cc:153)\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[0m"
+    ],
+    [
+      0.000022,
+      "\u001b[0;36mI 2015-05-08 22:25:15.367451 test-dn2-sched.cc:39 15120 | test case: empty_input_ports\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[0m"
+    ],
+    [
+      0.000027,
+      "I 2015-05-08 22:25:15.367486 test-dn2-sched.cc:41 15120 | { /* dn2.sched.Landscape */\r\n"
+    ],
+    [
+      0.000011,
+      "I 2015-05-08 22:25:15.367486 test-dn2-sched.cc:41 15120 |   dynamic_sched: false,\r\n"
+    ],
+    [
+      0.000022,
+      "I 2015-05-08 22:25:15.367486 test-dn2-sched.cc:41 15120 |   edges: [],\r\nI 2015-05-08 22:25:15.367486 test-dn2-sched.cc:41 15120 |   iteration: 0,\r\n"
+    ],
+    [
+      0.000028,
+      "I 2015-05-08 22:25:15.367486 test-dn2-sched.cc:41 15120 |   jobs: [{ /* dn2.sched.Job */\r\nI 2015-05-08 22:25:15.367486 test-dn2-sched.cc:41 15120 |     device_id: 0,\r\nI 2015-05-08 22:25:15.367486 test-dn2-sched.cc:41 15120 |     func: \"\",\r\n"
+    ],
+    [
+      0.000036,
+      "I 2015-05-08 22:25:15.367486 test-dn2-sched.cc:41 15120 |     input_ports: [],\r\nI 2015-05-08 22:25:15.367486 test-dn2-sched.cc:41 15120 |     locality_group: \"\",\r\nI 2015-05-08 22:25:15.367486 test-dn2-sched.cc:41 15120 |     memory_usage: 0,\r\nI 2015-05-08 22:25:15.367486 test-dn2-sched.cc:41 15120 |     name: \"j1\",\r\n"
+    ],
+    [
+      0.000008,
+      "I 2015-05-08 22:25:15.367486 test-dn2-sched.cc:41 15120 |     output_ports: [\"o1\"],\r\n"
+    ],
+    [
+      0.000021,
+      "I 2015-05-08 22:25:15.367486 test-dn2-sched.cc:41 15120 |     place_id: 0,\r\n"
+    ],
+    [
+      0.000041,
+      "I 2015-05-08 22:25:15.367486 test-dn2-sched.cc:41 15120 |     running_time: 0,\r\nI 2015-05-08 22:25:15.367486 test-dn2-sched.cc:41 15120 |     state_name: \"\","
+    ],
+    [
+      0.000028,
+      "\r\nI 2015-05-08 22:25:15.367486 test-dn2-sched.cc:41 15120 |     worker_name: \"\"\r\nI 2015-05-08 22:25:15.367486 test-dn2-sched.cc:41 15120 |   }],\r\n"
+    ],
+    [
+      0.000019,
+      "I 2015-05-08 22:25:15.367486 test-dn2-sched.cc:41 15120 |   machines: [{ /* dn2.sched.Machine */\r\n"
+    ],
+    [
+      0.000014,
+      "I 2015-05-08 22:25:15.367486 test-dn2-sched.cc:41 15120 |     available_memory: 3000000000,\r\nI 2015-05-08 22:25:15.367486 test-dn2-sched.cc:41 15120 |     name: \"m1\""
+    ],
+    [
+      0.000028,
+      "\r\nI 2015-05-08 22:25:15.367486 test-dn2-sched.cc:41 15120 |   }],\r\nI 2015-05-08 22:25:15.367486 test-dn2-sched.cc:41 15120 |   scheduling_algorithm: \"\","
+    ],
+    [
+      0.000031,
+      "\r\nI 2015-05-08 22:25:15.367486 test-dn2-sched.cc:41 15120 |   states: [],\r\nI 2015-05-08 22:25:15.367486 test-dn2-sched.cc:41 15120 |   workers: []\r\nI 2015-05-08 22:25:15.367486 test-dn2-sched.cc:41 15120 | }\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[0m"
+    ],
+    [
+      0.000015,
+      "\u001b[0;31mE 2015-05-08 22:25:15.367799 test-dn2-sched.cc:45 15120 | INVALID_ARGUMENT(Job 'j1' has invalid input ports: [] @ dn2-validate.cc:243)\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[0m"
+    ],
+    [
+      0.000012,
+      "\u001b[0;36mI 2015-05-08 22:25:15.367823 test-dn2-sched.cc:39 15120 | test case: empty_jobs\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[0m"
+    ],
+    [
+      0.000029,
+      "I 2015-05-08 22:25:15.367851 test-dn2-sched.cc:41 15120 | { /* dn2.sched.Landscape */\r\n"
+    ],
+    [
+      0.000016,
+      "I 2015-05-08 22:25:15.367851 test-dn2-sched.cc:41 15120 |   dynamic_sched: false,\r\nI 2015-05-08 22:25:15.367851 test-dn2-sched.cc:41 15120 |   edges: [],\r\n"
+    ],
+    [
+      0.000025,
+      "I 2015-05-08 22:25:15.367851 test-dn2-sched.cc:41 15120 |   iteration: 0,\r\nI 2015-05-08 22:25:15.367851 test-dn2-sched.cc:41 15120 |   jobs: [],\r\nI 2015-05-08 22:25:15.367851 test-dn2-sched.cc:41 15120 |   machines: [{ /* dn2.sched.Machine */"
+    ],
+    [
+      0.000027,
+      "\r\nI 2015-05-08 22:25:15.367851 test-dn2-sched.cc:41 15120 |     available_memory: 3000000000,\r\nI 2015-05-08 22:25:15.367851 test-dn2-sched.cc:41 15120 |     name: \"m1\"\r\nI 2015-05-08 22:25:15.367851 test-dn2-sched.cc:41 15120 |   }],\r\n"
+    ],
+    [
+      0.000035,
+      "I 2015-05-08 22:25:15.367851 test-dn2-sched.cc:41 15120 |   scheduling_algorithm: \"\",\r\nI 2015-05-08 22:25:15.367851 test-dn2-sched.cc:41 15120 |   states: [],\r\nI 2015-05-08 22:25:15.367851 test-dn2-sched.cc:41 15120 |   workers: []\r\nI 2015-05-08 22:25:15.367851 test-dn2-sched.cc:41 15120 | }\r\n\u001b[0m"
+    ],
+    [
+      0.000032,
+      "\u001b[0;31mE 2015-05-08 22:25:15.367987 test-dn2-sched.cc:45 15120 | INVALID_ARGUMENT(Empty jobs list! @ dn2-validate.cc:202)\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[0m"
+    ],
+    [
+      0.000012,
+      "\u001b[0;36mI 2015-05-08 22:25:15.368011 test-dn2-sched.cc:39 15120 | test case: empty_machines\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[0m"
+    ],
+    [
+      0.000026,
+      "I 2015-05-08 22:25:15.368040 test-dn2-sched.cc:41 15120 | { /* dn2.sched.Landscape */\r\n"
+    ],
+    [
+      0.000007,
+      "I 2015-05-08 22:25:15.368040 test-dn2-sched.cc:41 15120 |   dynamic_sched: false,"
+    ],
+    [
+      0.000038,
+      "\r\n"
+    ],
+    [
+      0.000016,
+      "I 2015-05-08 22:25:15.368040 test-dn2-sched.cc:41 15120 |   edges: [],\r\nI 2015-05-08 22:25:15.368040 test-dn2-sched.cc:41 15120 |   iteration: 0,"
+    ],
+    [
+      0.000024,
+      "\r\nI 2015-05-08 22:25:15.368040 test-dn2-sched.cc:41 15120 |   jobs: [{ /* dn2.sched.Job */\r\nI 2015-05-08 22:25:15.368040 test-dn2-sched.cc:41 15120 |     device_id: 0,\r\n"
+    ],
+    [
+      0.000010,
+      "I 2015-05-08 22:25:15.368040 test-dn2-sched.cc:41 15120 |     func: \"\",\r\n"
+    ],
+    [
+      0.000010,
+      "I 2015-05-08 22:25:15.368040 test-dn2-sched.cc:41 15120 |     input_ports: [\r\n"
+    ],
+    [
+      0.000016,
+      "I 2015-05-08 22:25:15.368040 test-dn2-sched.cc:41 15120 |       \"i1\",\r\nI 2015-05-08 22:25:15.368040 test-dn2-sched.cc:41 15120 |       \"i2\""
+    ],
+    [
+      0.000024,
+      "\r\nI 2015-05-08 22:25:15.368040 test-dn2-sched.cc:41 15120 |     ],\r\n"
+    ],
+    [
+      0.000020,
+      "I 2015-05-08 22:25:15.368040 test-dn2-sched.cc:41 15120 |     locality_group: \"\",\r\nI 2015-05-08 22:25:15.368040 test-dn2-sched.cc:41 15120 |     memory_usage: 0,\r\n"
+    ],
+    [
+      0.000020,
+      "I 2015-05-08 22:25:15.368040 test-dn2-sched.cc:41 15120 |     name: \"j1\",\r\nI 2015-05-08 22:25:15.368040 test-dn2-sched.cc:41 15120 |     output_ports: [\"o1\"],\r\nI 2015-05-08 22:25:15.368040 test-dn2-sched.cc:41 15120 |     place_id: 0,"
+    ],
+    [
+      0.000029,
+      "\r\nI 2015-05-08 22:25:15.368040 test-dn2-sched.cc:41 15120 |     running_time: 0,\r\nI 2015-05-08 22:25:15.368040 test-dn2-sched.cc:41 15120 |     state_name: \"\",\r\n"
+    ],
+    [
+      0.000044,
+      "I 2015-05-08 22:25:15.368040 test-dn2-sched.cc:41 15120 |     worker_name: \"\"\r\nI 2015-05-08 22:25:15.368040 test-dn2-sched.cc:41 15120 |   }],\r\nI 2015-05-08 22:25:15.368040 test-dn2-sched.cc:41 15120 |   machines: [],\r\nI 2015-05-08 22:25:15.368040 test-dn2-sched.cc:41 15120 |   scheduling_algorithm: \"\",\r\n"
+    ],
+    [
+      0.000030,
+      "I 2015-05-08 22:25:15.368040 test-dn2-sched.cc:41 15120 |   states: [],\r\nI 2015-05-08 22:25:15.368040 test-dn2-sched.cc:41 15120 |   workers: []\r\nI 2015-05-08 22:25:15.368040 test-dn2-sched.cc:41 15120 | }\r\n\u001b[0m"
+    ],
+    [
+      0.000033,
+      "\u001b[0;31mE 2015-05-08 22:25:15.368326 test-dn2-sched.cc:45 15120 | INVALID_ARGUMENT(Empty machines list! @ dn2-validate.cc:153)"
+    ],
+    [
+      0.000014,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.000035,
+      "\u001b[0;36mI 2015-05-08 22:25:15.368407 test-dn2-sched.cc:39 15120 | test case: empty_output_ports\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[0m"
+    ],
+    [
+      0.000058,
+      "I 2015-05-08 22:25:15.368442 test-dn2-sched.cc:41 15120 | { /* dn2.sched.Landscape */\r\n"
+    ],
+    [
+      0.000017,
+      "I 2015-05-08 22:25:15.368442 test-dn2-sched.cc:41 15120 |   dynamic_sched: false,\r\nI 2015-05-08 22:25:15.368442 test-dn2-sched.cc:41 15120 |   edges: [],"
+    ],
+    [
+      0.000019,
+      "\r\nI 2015-05-08 22:25:15.368442 test-dn2-sched.cc:41 15120 |   iteration: 0,\r\nI 2015-05-08 22:25:15.368442 test-dn2-sched.cc:41 15120 |   jobs: [{ /* dn2.sched.Job */"
+    ],
+    [
+      0.000021,
+      "\r\nI 2015-05-08 22:25:15.368442 test-dn2-sched.cc:41 15120 |     device_id: 0,\r\nI 2015-05-08 22:25:15.368442 test-dn2-sched.cc:41 15120 |     func: \"\",\r\n"
+    ],
+    [
+      0.000019,
+      "I 2015-05-08 22:25:15.368442 test-dn2-sched.cc:41 15120 |     input_ports: [\r\nI 2015-05-08 22:25:15.368442 test-dn2-sched.cc:41 15120 |       \"i1\",\r\nI 2015-05-08 22:25:15.368442 test-dn2-sched.cc:41 15120 |       \"i2\"\r\n"
+    ],
+    [
+      0.000018,
+      "I 2015-05-08 22:25:15.368442 test-dn2-sched.cc:41 15120 |     ],\r\nI 2015-05-08 22:25:15.368442 test-dn2-sched.cc:41 15120 |     locality_group: \"\",\r\nI 2015-05-08 22:25:15.368442 test-dn2-sched.cc:41 15120 |     memory_usage: 0,"
+    ],
+    [
+      0.000033,
+      "\r\nI 2015-05-08 22:25:15.368442 test-dn2-sched.cc:41 15120 |     name: \"j1\",\r\nI 2015-05-08 22:25:15.368442 test-dn2-sched.cc:41 15120 |     output_ports: [],\r\nI 2015-05-08 22:25:15.368442 test-dn2-sched.cc:41 15120 |     place_id: 0,"
+    ],
+    [
+      0.000039,
+      "\r\nI 2015-05-08 22:25:15.368442 test-dn2-sched.cc:41 15120 |     running_time: 0,\r\nI 2015-05-08 22:25:15.368442 test-dn2-sched.cc:41 15120 |     state_name: \"\",\r\nI 2015-05-08 22:25:15.368442 test-dn2-sched.cc:41 15120 |     worker_name: \"\"\r\nI 2015-05-08 22:25:15.368442 test-dn2-sched.cc:41 15120 |   }],"
+    ],
+    [
+      0.000040,
+      "\r\nI 2015-05-08 22:25:15.368442 test-dn2-sched.cc:41 15120 |   machines: [{ /* dn2.sched.Machine */\r\nI 2015-05-08 22:25:15.368442 test-dn2-sched.cc:41 15120 |     available_memory: 3000000000,\r\nI 2015-05-08 22:25:15.368442 test-dn2-sched.cc:41 15120 |     name: \"m1\"\r\nI 2015-05-08 22:25:15.368442 test-dn2-sched.cc:41 15120 |   }],\r\nI 2015-05-08 22:25:15.368442 test-dn2-sched.cc:41 15120 |   scheduling_algorithm: \"\",\r\n"
+    ],
+    [
+      0.000026,
+      "I 2015-05-08 22:25:15.368442 test-dn2-sched.cc:41 15120 |   states: [],\r\nI 2015-05-08 22:25:15.368442 test-dn2-sched.cc:41 15120 |   workers: []\r\nI 2015-05-08 22:25:15.368442 test-dn2-sched.cc:41 15120 | }\r\n\u001b[0m"
+    ],
+    [
+      0.000023,
+      "\u001b[0;31mE 2015-05-08 22:25:15.368706 test-dn2-sched.cc:45 15120 | INVALID_ARGUMENT(Job 'j1' has invalid output ports: [] @ dn2-validate.cc:250)\r\n\u001b[0m\u001b[0;36mI 2015-05-08 22:25:15.368726 test-dn2-sched.cc:39 15120 | test case: no_sink_job\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[0m"
+    ],
+    [
+      0.000031,
+      "I 2015-05-08 22:25:15.368764 test-dn2-sched.cc:41 15120 | { /* dn2.sched.Landscape */\r\n"
+    ],
+    [
+      0.000017,
+      "I 2015-05-08 22:25:15.368764 test-dn2-sched.cc:41 15120 |   dynamic_sched: false,\r\nI 2015-05-08 22:25:15.368764 test-dn2-sched.cc:41 15120 |   edges: [],\r\n"
+    ],
+    [
+      0.000026,
+      "I 2015-05-08 22:25:15.368764 test-dn2-sched.cc:41 15120 |   iteration: 0,\r\nI 2015-05-08 22:25:15.368764 test-dn2-sched.cc:41 15120 |   jobs: [\r\nI 2015-05-08 22:25:15.368764 test-dn2-sched.cc:41 15120 |     { /* dn2.sched.Job */"
+    ],
+    [
+      0.000028,
+      "\r\nI 2015-05-08 22:25:15.368764 test-dn2-sched.cc:41 15120 |       device_id: 0,\r\nI 2015-05-08 22:25:15.368764 test-dn2-sched.cc:41 15120 |       func: \"\",\r\nI 2015-05-08 22:25:15.368764 test-dn2-sched.cc:41 15120 |       input_ports: [\r\n"
+    ],
+    [
+      0.000070,
+      "I 2015-05-08 22:25:15.368764 test-dn2-sched.cc:41 15120 |         \"i1\",\r\nI 2015-05-08 22:25:15.368764 test-dn2-sched.cc:41 15120 |         \"i2\"\r\nI 2015-05-08 22:25:15.368764 test-dn2-sched.cc:41 15120 |       ],"
+    ],
+    [
+      0.000023,
+      "\r\nI 2015-05-08 22:25:15.368764 test-dn2-sched.cc:41 15120 |       locality_group: \"\",\r\nI 2015-05-08 22:25:15.368764 test-dn2-sched.cc:41 15120 |       memory_usage: 0,\r\nI 2015-05-08 22:25:15.368764 test-dn2-sched.cc:41 15120 |       name: \"j1\","
+    ],
+    [
+      0.000013,
+      "\r\nI 2015-05-08 22:25:15.368764 test-dn2-sched.cc:41 15120 |       output_ports: [\"o1\"],\r\n"
+    ],
+    [
+      0.000011,
+      "I 2015-05-08 22:25:15.368764 test-dn2-sched.cc:41 15120 |       place_id: 0,\r\nI 2015-05-08 22:25:15.368764 test-dn2-sched.cc:41 15120 |       running_time: 0,"
+    ],
+    [
+      0.000015,
+      "\r\nI 2015-05-08 22:25:15.368764 test-dn2-sched.cc:41 15120 |       state_name: \"\",\r\n"
+    ],
+    [
+      0.000011,
+      "I 2015-05-08 22:25:15.368764 test-dn2-sched.cc:41 15120 |       worker_name: \"\""
+    ],
+    [
+      0.000012,
+      "\r\nI 2015-05-08 22:25:15.368764 test-dn2-sched.cc:41 15120 |     },"
+    ],
+    [
+      0.000015,
+      "\r\nI 2015-05-08 22:25:15.368764 test-dn2-sched.cc:41 15120 |     { /* dn2.sched.Job */\r\n"
+    ],
+    [
+      0.000027,
+      "I 2015-05-08 22:25:15.368764 test-dn2-sched.cc:41 15120 |       device_id: 0,\r\nI 2015-05-08 22:25:15.368764 test-dn2-sched.cc:41 15120 |       func: \"\",\r\nI 2015-05-08 22:25:15.368764 test-dn2-sched.cc:41 15120 |       input_ports: [],"
+    ],
+    [
+      0.000024,
+      "\r\nI 2015-05-08 22:25:15.368764 test-dn2-sched.cc:41 15120 |       locality_group: \"\",\r\nI 2015-05-08 22:25:15.368764 test-dn2-sched.cc:41 15120 |       memory_usage: 0,\r\nI 2015-05-08 22:25:15.368764 test-dn2-sched.cc:41 15120 |       name: \"__source\","
+    ],
+    [
+      0.000076,
+      "\r\nI 2015-05-08 22:25:15.368764 test-dn2-sched.cc:41 15120 |       output_ports: [\"__sync\"],\r\nI 2015-05-08 22:25:15.368764 test-dn2-sched.cc:41 15120 |       place_id: 0,\r\nI 2015-05-08 22:25:15.368764 test-dn2-sched.cc:41 15120 |       running_time: 0,\r\n"
+    ],
+    [
+      0.000030,
+      "I 2015-05-08 22:25:15.368764 test-dn2-sched.cc:41 15120 |       state_name: \"\",\r\nI 2015-05-08 22:25:15.368764 test-dn2-sched.cc:41 15120 |       worker_name: \"\"\r\nI 2015-05-08 22:25:15.368764 test-dn2-sched.cc:41 15120 |     }\r\nI 2015-05-08 22:25:15.368764 test-dn2-sched.cc:41 15120 |   ],\r\n"
+    ],
+    [
+      0.000028,
+      "I 2015-05-08 22:25:15.368764 test-dn2-sched.cc:41 15120 |   machines: [{ /* dn2.sched.Machine */\r\nI 2015-05-08 22:25:15.368764 test-dn2-sched.cc:41 15120 |     available_memory: 3000000000,\r\nI 2015-05-08 22:25:15.368764 test-dn2-sched.cc:41 15120 |     name: \"m1\"\r\nI 2015-05-08 22:25:15.368764 test-dn2-sched.cc:41 15120 |   }],\r\n"
+    ],
+    [
+      0.000013,
+      "I 2015-05-08 22:25:15.368764 test-dn2-sched.cc:41 15120 |   scheduling_algorithm: \"\",\r\nI 2015-05-08 22:25:15.368764 test-dn2-sched.cc:41 15120 |   states: [],\r\n"
+    ],
+    [
+      0.000016,
+      "I 2015-05-08 22:25:15.368764 test-dn2-sched.cc:41 15120 |   workers: []\r\n"
+    ],
+    [
+      0.000011,
+      "I 2015-05-08 22:25:15.368764 test-dn2-sched.cc:41 15120 | }\r\n\u001b[0m"
+    ],
+    [
+      0.000056,
+      "\u001b[0;31mE 2015-05-08 22:25:15.369285 test-dn2-sched.cc:45 15120 | INVALID_ARGUMENT(__sink job not found @ dn2-validate.cc:272)\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[0m"
+    ],
+    [
+      0.000012,
+      "\u001b[0;36mI 2015-05-08 22:25:15.369317 test-dn2-sched.cc:39 15120 | test case: no_source_job"
+    ],
+    [
+      0.000010,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.000040,
+      "I 2015-05-08 22:25:15.369353 test-dn2-sched.cc:41 15120 | { /* dn2.sched.Landscape */\r\n"
+    ],
+    [
+      0.000010,
+      "I 2015-05-08 22:25:15.369353 test-dn2-sched.cc:41 15120 |   dynamic_sched: false,\r\n"
+    ],
+    [
+      0.000025,
+      "I 2015-05-08 22:25:15.369353 test-dn2-sched.cc:41 15120 |   edges: [],\r\nI 2015-05-08 22:25:15.369353 test-dn2-sched.cc:41 15120 |   iteration: 0,\r\n"
+    ],
+    [
+      0.000034,
+      "I 2015-05-08 22:25:15.369353 test-dn2-sched.cc:41 15120 |   jobs: [\r\nI 2015-05-08 22:25:15.369353 test-dn2-sched.cc:41 15120 |     { /* dn2.sched.Job */\r\nI 2015-05-08 22:25:15.369353 test-dn2-sched.cc:41 15120 |       device_id: 0,\r\nI 2015-05-08 22:25:15.369353 test-dn2-sched.cc:41 15120 |       func: \"\","
+    ],
+    [
+      0.000045,
+      "\r\nI 2015-05-08 22:25:15.369353 test-dn2-sched.cc:41 15120 |       input_ports: [\r\nI 2015-05-08 22:25:15.369353 test-dn2-sched.cc:41 15120 |         \"i1\",\r\nI 2015-05-08 22:25:15.369353 test-dn2-sched.cc:41 15120 |         \"i2\"\r\nI 2015-05-08 22:25:15.369353 test-dn2-sched.cc:41 15120 |       ],\r\nI 2015-05-08 22:25:15.369353 test-dn2-sched.cc:41 15120 |       locality_group: \"\","
+    ],
+    [
+      0.000046,
+      "\r\nI 2015-05-08 22:25:15.369353 test-dn2-sched.cc:41 15120 |       memory_usage: 0,\r\nI 2015-05-08 22:25:15.369353 test-dn2-sched.cc:41 15120 |       name: \"j1\",\r\nI 2015-05-08 22:25:15.369353 test-dn2-sched.cc:41 15120 |       output_ports: [\"o1\"],\r\nI 2015-05-08 22:25:15.369353 test-dn2-sched.cc:41 15120 |       place_id: 0,\r\nI 2015-05-08 22:25:15.369353 test-dn2-sched.cc:41 15120 |       running_time: 0,\r\nI 2015-05-08 22:25:15.369353 test-dn2-sched.cc:41 15120 |       state_name: \"\",\r\n"
+    ],
+    [
+      0.000047,
+      "I 2015-05-08 22:25:15.369353 test-dn2-sched.cc:41 15120 |       worker_name: \"\"\r\nI 2015-05-08 22:25:15.369353 test-dn2-sched.cc:41 15120 |     },\r\nI 2015-05-08 22:25:15.369353 test-dn2-sched.cc:41 15120 |     { /* dn2.sched.Job */\r\nI 2015-05-08 22:25:15.369353 test-dn2-sched.cc:41 15120 |       device_id: 0,\r\nI 2015-05-08 22:25:15.369353 test-dn2-sched.cc:41 15120 |       func: \"\",\r\nI 2015-05-08 22:25:15.369353 test-dn2-sched.cc:41 15120 |       input_ports: [\"__sync\"],\r\nI 2015-05-08 22:25:15.369353 test-dn2-sched.cc:41 15120 |       locality_group: \"\",\r\n"
+    ],
+    [
+      0.000047,
+      "I 2015-05-08 22:25:15.369353 test-dn2-sched.cc:41 15120 |       memory_usage: 0,\r\nI 2015-05-08 22:25:15.369353 test-dn2-sched.cc:41 15120 |       name: \"__sink\",\r\nI 2015-05-08 22:25:15.369353 test-dn2-sched.cc:41 15120 |       output_ports: [],\r\nI 2015-05-08 22:25:15.369353 test-dn2-sched.cc:41 15120 |       place_id: 0,\r\nI 2015-05-08 22:25:15.369353 test-dn2-sched.cc:41 15120 |       running_time: 0,\r\nI 2015-05-08 22:25:15.369353 test-dn2-sched.cc:41 15120 |       state_name: \"\",\r\nI 2015-05-08 22:25:15.369353 test-dn2-sched.cc:41 15120 |       worker_name: \"\"\r\n"
+    ],
+    [
+      0.000059,
+      "I 2015-05-08 22:25:15.369353 test-dn2-sched.cc:41 15120 |     }\r\nI 2015-05-08 22:25:15.369353 test-dn2-sched.cc:41 15120 |   ],\r\nI 2015-05-08 22:25:15.369353 test-dn2-sched.cc:41 15120 |   machines: [{ /* dn2.sched.Machine */\r\nI 2015-05-08 22:25:15.369353 test-dn2-sched.cc:41 15120 |     available_memory: 3000000000,\r\nI 2015-05-08 22:25:15.369353 test-dn2-sched.cc:41 15120 |     name: \"m1\"\r\nI 2015-05-08 22:25:15.369353 test-dn2-sched.cc:41 15120 |   }],\r\nI 2015-05-08 22:25:15.369353 test-dn2-sched.cc:41 15120 |   scheduling_algorithm: \"\",\r\nI 2015-05-08 22:25:15.369353 test-dn2-sched.cc:41 15120 |   states: [],\r\n"
+    ],
+    [
+      0.000028,
+      "I 2015-05-08 22:25:15.369353 test-dn2-sched.cc:41 15120 |   workers: []\r\nI 2015-05-08 22:25:15.369353 test-dn2-sched.cc:41 15120 | }\r\n\u001b[0m\u001b[0;31mE 2015-05-08 22:25:15.369676 test-dn2-sched.cc:45 15120 | INVALID_ARGUMENT(__source job not found @ dn2-validate.cc:270)\r\n\u001b[0m"
+    ],
+    [
+      0.000036,
+      "I 2015-05-08 22:25:15.369732 test.cc:331 15120 | \u003c-- Passed test: dn2_sched/bad_data\r\n"
+    ],
+    [
+      0.000017,
+      "\u001b[0mI 2015-05-08 22:25:15.369755 test.cc:327 15120 | --\u003e Start test: misc/std_string_substr\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[0m"
+    ],
+    [
+      0.000012,
+      "I 2015-05-08 22:25:15.369781 test-misc.cc:16 15120 | aloha"
+    ],
+    [
+      0.000013,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.000019,
+      "I 2015-05-08 22:25:15.369799 test.cc:331 15120 | \u003c-- Passed test: misc/std_string_substr\r\n\u001b[0m"
+    ],
+    [
+      0.000063,
+      "I 2015-05-08 22:25:15.369816 test.cc:327 15120 | --\u003e Start test: ndarray/TH_wrap\r\n"
+    ],
+    [
+      0.000013,
+      "\u001b[0m"
+    ],
+    [
+      0.000026,
+      "I 2015-05-08 22:25:15.369902 test-TH-wrapping.cc:15 15120 | TH func: 1 + 2 = 3\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[0m"
+    ],
+    [
+      0.000026,
+      "\u001b[0;34mI 2015-05-08 22:25:15.369928 test-TH-wrapping.cc:70 15120 | 3"
+    ],
+    [
+      0.000013,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.000008,
+      "I 2015-05-08 22:25:15.369966 test-TH-wrapping.cc:20 15120 | THC func: 1 + 2 = 3 (state: DUMMY)\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[0m"
+    ],
+    [
+      0.000016,
+      "\u001b[0;34mI 2015-05-08 22:25:15.369985 test-TH-wrapping.cc:71 15120 | 3\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[0m"
+    ],
+    [
+      0.000010,
+      "I 2015-05-08 22:25:15.370003 test-TH-wrapping.cc:25 15120 | TH func2: 1 + 2 + 0.500000 = 3.500000\r\n"
+    ],
+    [
+      0.000046,
+      "\u001b[0m\u001b[0;34mI 2015-05-08 22:25:15.370041 test-TH-wrapping.cc:73 15120 | 3.5\r\n\u001b[0m"
+    ],
+    [
+      0.000019,
+      "I 2015-05-08 22:25:15.370058 test-TH-wrapping.cc:30 15120 | THC func2: 1 + 2 + 0.500000 = 3.500000 (state: DUMMY)\r\n\u001b[0m"
+    ],
+    [
+      0.000010,
+      "\u001b[0;34mI 2015-05-08 22:25:15.370081 test-TH-wrapping.cc:74 15120 | 3.5\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[0m"
+    ],
+    [
+      0.000010,
+      "I 2015-05-08 22:25:15.370097 test-TH-wrapping.cc:15 15120 | TH func: 1 + 2 = 3\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[0m"
+    ],
+    [
+      0.000010,
+      "\u001b[0;32mI 2015-05-08 22:25:15.370115 test-TH-wrapping.cc:76 15120 | 3\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[0m"
+    ],
+    [
+      0.000010,
+      "I 2015-05-08 22:25:15.370131 test-TH-wrapping.cc:20 15120 | THC func: 1 + 2 = 3 (state: DUMMY)\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[0m"
+    ],
+    [
+      0.000011,
+      "\u001b[0;32mI 2015-05-08 22:25:15.370148 test-TH-wrapping.cc:77 15120 | 3\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[0m"
+    ],
+    [
+      0.000012,
+      "I 2015-05-08 22:25:15.370163 test-TH-wrapping.cc:25 15120 | TH func2: 1 + 2 + 0.500000 = 3.500000\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[0m"
+    ],
+    [
+      0.000076,
+      "\u001b[0;32mI 2015-05-08 22:25:15.370184 test-TH-wrapping.cc:79 15120 | 3.5\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[0m"
+    ],
+    [
+      0.000017,
+      "I 2015-05-08 22:25:15.370264 test-TH-wrapping.cc:30 15120 | THC func2: 1 + 2 + 0.500000 = 3.500000 (state: DUMMY)\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[0m"
+    ],
+    [
+      0.000017,
+      "\u001b[0;32mI 2015-05-08 22:25:15.370291 test-TH-wrapping.cc:80 15120 | 3.5\r\n"
+    ],
+    [
+      0.000020,
+      "\u001b[0mI 2015-05-08 22:25:15.370309 test.cc:331 15120 | \u003c-- Passed test: ndarray/TH_wrap\r\n\u001b[0m"
+    ],
+    [
+      0.000016,
+      "I 2015-05-08 22:25:15.370323 test.cc:327 15120 | --\u003e Start test: ndarray/basic_ops\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[0m"
+    ],
+    [
+      0.000578,
+      "I 2015-05-08 22:25:15.370891 test-ndarray-basic.cc:41 15120 | 19267584 elements"
+    ],
+    [
+      0.000013,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.000353,
+      "I 2015-05-08 22:25:15.371259 test.cc:331 15120 | \u003c-- Passed test: ndarray/basic_ops"
+    ],
+    [
+      0.000013,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.000009,
+      "I 2015-05-08 22:25:15.371305 test.cc:327 15120 | --\u003e Start test: ndarray/basic_ops_bm\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[0m"
+    ],
+    [
+      0.000322,
+      "\r\n"
+    ],
+    [
+      4.204385,
+      "Benchmark ndarray/basic_ops_bm (fill data)\r\nRun (1/3): 10000 iterations (9646543556 cycles) in 4.20s\r\n"
+    ],
+    [
+      4.683374,
+      "Run (2/3): 10000 iterations (10745626252 cycles) in 4.68s\r\n"
+    ],
+    [
+      4.683008,
+      "Run (3/3): 10000 iterations (10744759796 cycles) in 4.68s\r\nPer iteration (fastest): 420.43us (964654 cycles) 2.38Kop/s\r\nPer iteration (median ): 468.30us (1074475 cycles) 2.14Kop/s"
+    ],
+    [
+      0.000039,
+      "\r\nPer iteration (slowest): 468.33us (1074562 cycles) 2.14Kop/s\r\n\r\n"
+    ],
+    [
+      0.479209,
+      "I 2015-05-08 22:25:29.421583 test.cc:331 15120 | \u003c-- Passed test: ndarray/basic_ops_bm\r\n\u001b[0mI 2015-05-08 22:25:29.421617 test.cc:327 15120 | --\u003e Start test: ndarray/copying\r\n\u001b[0m"
+    ],
+    [
+      0.000077,
+      "I 2015-05-08 22:25:29.421680 test-ndarray-basic.cc:59 15120 | array init:\r\n\u001b[0m"
+    ],
+    [
+      0.000122,
+      "\t0.00429038\t-0.00101984\t-0.000563934\t0.0010224\r\n"
+    ],
+    [
+      0.000088,
+      "\t-0.0104367\t0.00302462\t0.000355907\t-0.000479229\r\n"
+    ],
+    [
+      0.000101,
+      "\t0.00274817\t0.000222501\t-0.000896402\t0.00168986\r\n"
+    ],
+    [
+      0.000105,
+      "\t0.00478632\t0.00397144\t0.00163024\t-0.00328526\r\n"
+    ],
+    [
+      0.000006,
+      "I 2015-05-08 22:25:29.422142 test-ndarray-basic.cc:61 15120 | set zero:\r\n\u001b[0m"
+    ],
+    [
+      0.000289,
+      "\t0\t0\t0\t0\r\n"
+    ],
+    [
+      0.000096,
+      "\t0\t0\t0\t0\r\n"
+    ],
+    [
+      0.000105,
+      "\t0\t0\t0\t0\r\n"
+    ],
+    [
+      0.000152,
+      "\t0\t0\t0\t0\r\n"
+    ],
+    [
+      0.000016,
+      "I 2015-05-08 22:25:29.422758 test-ndarray-basic.cc:65 15120 | shallow copied array:\r\n\u001b[0m"
+    ],
+    [
+      0.000103,
+      "\t0\t0\t0\t0\r\n"
+    ],
+    [
+      0.000121,
+      "\t0\t0\t0\t0\r\n"
+    ],
+    [
+      0.000116,
+      "\t0\t0\t0\t0\r\n"
+    ],
+    [
+      0.000118,
+      "\t0\t0\t0\t0\r\n"
+    ],
+    [
+      0.000016,
+      "I 2015-05-08 22:25:29.423239 test-ndarray-basic.cc:68 15120 | another shallow copy:\r\n\u001b[0m"
+    ],
+    [
+      0.000141,
+      "\t0\t0\t0\t0\r\n"
+    ],
+    [
+      0.000072,
+      "\t0\t0\t0\t0\r\n"
+    ],
+    [
+      0.000101,
+      "\t0\t0\t0\t0"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000129,
+      "\t0\t0\t0\t0\r\n"
+    ],
+    [
+      0.000050,
+      "I 2015-05-08 22:25:29.423771 test.cc:331 15120 | \u003c-- Passed test: ndarray/copying\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[0m"
+    ],
+    [
+      0.000050,
+      "I 2015-05-08 22:25:29.423797 test.cc:327 15120 | --\u003e Start test: ndarray/cuda_mt\r\n\u001b[0m"
+    ],
+    [
+      0.000015,
+      "\u001b[0;34mI 2015-05-08 22:25:29.423827 test-cuda-multithread.cc:34 15120 | RUNNING ON CUDA!\r\n\u001b[0m"
+    ],
+    [
+      0.000518,
+      "I 2015-05-08 22:25:29.423923 test-cuda-multithread.cc:41 15120/15417 | ALOHA from thread 0\r\n\u001b[0mI 2015-05-08 22:25:29.423992 test-cuda-multithread.cc:41 15120/15418 | ALOHA from thread 1\r\n\u001b[0mI 2015-05-08 22:25:29.423998 test-cuda-multithread.cc:41 15120/15419 | ALOHA from thread 2\r\n\u001b[0mI 2015-05-08 22:25:29.424037 test-cuda-multithread.cc:41 15120/15420 | ALOHA from thread 3\r\n\u001b[0m"
+    ],
+    [
+      0.000217,
+      "I 2015-05-08 22:25:29.424073 test-cuda-multithread.cc:41 15120/15422 | ALOHA from thread 5"
+    ],
+    [
+      0.000033,
+      "\r\n\u001b[0mI 2015-05-08 22:25:29.424081 test-cuda-multithread.cc:41 15120/15421 | ALOHA from thread 4"
+    ],
+    [
+      0.000031,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.000063,
+      "I 2015-05-08 22:25:29.424097 test-cuda-multithread.cc:41 15120/15423 | ALOHA from thread 6\r\n\u001b[0mI 2015-05-08 22:25:29.424683 test-cuda-multithread.cc:41 15120/15427 | ALOHA from thread 10\r\n\u001b[0m"
+    ],
+    [
+      0.000029,
+      "I 2015-05-08 22:25:29.424718 test-cuda-multithread.cc:41 15120/15429 | ALOHA from thread 12\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[0m"
+    ],
+    [
+      0.000046,
+      "I 2015-05-08 22:25:29.424758 test-cuda-multithread.cc:41 15120/15431 | ALOHA from thread 14\r\n\u001b[0mI 2015-05-08 22:25:29.424775 test-cuda-multithread.cc:41 15120/15432 | ALOHA from thread 15\r\n\u001b[0m"
+    ],
+    [
+      0.000022,
+      "I 2015-05-08 22:25:29.424760 test-cuda-multithread.cc:41 15120/15425 | ALOHA from thread 8\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[0m"
+    ],
+    [
+      0.000031,
+      "I 2015-05-08 22:25:29.424385 test-cuda-multithread.cc:41 15120/15424 | ALOHA from thread 7\r\n\u001b[0m"
+    ],
+    [
+      0.000040,
+      "I 2015-05-08 22:25:29.424771 test-cuda-multithread.cc:41 15120/15430 | ALOHA from thread 13\r\n\u001b[0m"
+    ],
+    [
+      0.000212,
+      "I 2015-05-08 22:25:29.424779 test-cuda-multithread.cc:41 15120/15426 | ALOHA from thread 9\r\n\u001b[0mI 2015-05-08 22:25:29.424552 test-cuda-multithread.cc:21 15120/15417 | round 0 from thread 0\r\n\u001b[0mI 2015-05-08 22:25:29.424947 test-cuda-multithread.cc:41 15120/15428 | ALOHA from thread 11\r\n\u001b[0m"
+    ],
+    [
+      0.242109,
+      "I 2015-05-08 22:25:29.667140 test.cc:331 15120 | \u003c-- Passed test: ndarray/cuda_mt\r\n"
+    ],
+    [
+      0.000028,
+      "\u001b[0mI 2015-05-08 22:25:29.667207 test.cc:327 15120 | --\u003e Start test: ndarray/math_ops\r\n\u001b[0m"
+    ],
+    [
+      0.000092,
+      "I 2015-05-08 22:25:29.667305 test-ndarray-basic.cc:47 15120 | array init:\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[0m"
+    ],
+    [
+      0.000142,
+      "\t"
+    ],
+    [
+      0.000017,
+      "0\t0"
+    ],
+    [
+      0.000006,
+      "\t0\t0\r\n"
+    ],
+    [
+      0.000132,
+      "\t0"
+    ],
+    [
+      0.000064,
+      "\t0\t0\t0\r\n"
+    ],
+    [
+      0.000064,
+      "\t0\t0"
+    ],
+    [
+      0.000036,
+      "\t0\t0"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000130,
+      "\t0"
+    ],
+    [
+      0.000019,
+      "\t0\t0\t0\r\n"
+    ],
+    [
+      0.000018,
+      "I 2015-05-08 22:25:29.667961 test-ndarray-basic.cc:49 15120 | set zero:\r\n"
+    ],
+    [
+      0.000017,
+      "\u001b[0m"
+    ],
+    [
+      0.000191,
+      "\t"
+    ],
+    [
+      0.000014,
+      "0\t0\t0"
+    ],
+    [
+      0.000005,
+      "\t0\r\n"
+    ],
+    [
+      0.000156,
+      "\t0"
+    ],
+    [
+      0.000005,
+      "\t0\t0"
+    ],
+    [
+      0.000004,
+      "\t0"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000131,
+      "\t0"
+    ],
+    [
+      0.000036,
+      "\t0\t0\t"
+    ],
+    [
+      0.000004,
+      "0\r\n"
+    ],
+    [
+      0.000125,
+      "\t0"
+    ],
+    [
+      0.000016,
+      "\t0\t0\t"
+    ],
+    [
+      0.000005,
+      "0\r\n"
+    ],
+    [
+      0.000019,
+      "I 2015-05-08 22:25:29.668694 test-ndarray-basic.cc:52 15120 | fill 1:\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[0m"
+    ],
+    [
+      0.000216,
+      "\t1"
+    ],
+    [
+      0.000021,
+      "\t1\t1"
+    ],
+    [
+      0.000004,
+      "\t1"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000121,
+      "\t1"
+    ],
+    [
+      0.000034,
+      "\t1\t1"
+    ],
+    [
+      0.000005,
+      "\t1\r\n"
+    ],
+    [
+      0.000115,
+      "\t1"
+    ],
+    [
+      0.000010,
+      "\t1\t1"
+    ],
+    [
+      0.000007,
+      "\t1"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000127,
+      "\t1"
+    ],
+    [
+      0.000008,
+      "\t1\t"
+    ],
+    [
+      0.000007,
+      "1\t"
+    ],
+    [
+      0.000063,
+      "1\r\n"
+    ],
+    [
+      0.000009,
+      "I 2015-05-08 22:25:29.669449 test.cc:331 15120 | \u003c-- Passed test: ndarray/math_ops"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[0m"
+    ],
+    [
+      0.000045,
+      "I 2015-05-08 22:25:29.669489 test.cc:327 15120 | --\u003e Start test: ndarray/slice\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[0m"
+    ],
+    [
+      0.001030,
+      "I 2015-05-08 22:25:29.670517 test-ndarray-basic.cc:79 15120 | original array:\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[0m"
+    ],
+    [
+      0.000157,
+      "\t0"
+    ],
+    [
+      0.000064,
+      "\t1\t2\t3\r\n"
+    ],
+    [
+      0.000087,
+      "\t4"
+    ],
+    [
+      0.000032,
+      "\t5\t6\t7\r\n"
+    ],
+    [
+      0.000127,
+      "\t8"
+    ],
+    [
+      0.000008,
+      "\t9\t"
+    ],
+    [
+      0.000079,
+      "10\t11\r\n"
+    ],
+    [
+      0.000074,
+      "\t12"
+    ],
+    [
+      0.000023,
+      "\t13\t14\t"
+    ],
+    [
+      0.000030,
+      "15\r\n"
+    ],
+    [
+      0.000004,
+      "I 2015-05-08 22:25:29.671248 test-ndarray-basic.cc:81 15120 | slice [2:4, 1:3]\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[0m"
+    ],
+    [
+      0.000102,
+      "\t9"
+    ],
+    [
+      0.000031,
+      "\t10\r\n"
+    ],
+    [
+      0.000055,
+      "\t13"
+    ],
+    [
+      0.000026,
+      "\t14\r\n"
+    ],
+    [
+      0.000041,
+      "I 2015-05-08 22:25:29.671474 test-ndarray-basic.cc:85 15120 | slice [1:]\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[0m"
+    ],
+    [
+      0.000138,
+      "\t4"
+    ],
+    [
+      0.000004,
+      "\t5\t"
+    ],
+    [
+      0.000010,
+      "6\t7"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000124,
+      "\t8"
+    ],
+    [
+      0.000004,
+      "\t9\t"
+    ],
+    [
+      0.000010,
+      "10\t11"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000123,
+      "\t12"
+    ],
+    [
+      0.000004,
+      "\t13\t"
+    ],
+    [
+      0.000022,
+      "14\t15"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000053,
+      "I 2015-05-08 22:25:29.671991 test-ndarray-basic.cc:91 15120 | slice [2:4, 1:3] using vector index\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[0m"
+    ],
+    [
+      0.000086,
+      "\t9"
+    ],
+    [
+      0.000019,
+      "\t10\r\n"
+    ],
+    [
+      0.000057,
+      "\t13"
+    ],
+    [
+      0.000009,
+      "\t14\r\n"
+    ],
+    [
+      0.000074,
+      "I 2015-05-08 22:25:29.672242 test.cc:331 15120 | \u003c-- Passed test: ndarray/slice\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[0m"
+    ],
+    [
+      0.000020,
+      "I 2015-05-08 22:25:29.672284 test.cc:327 15120 | --\u003e Start test: ndarray_conv/backward_data"
+    ],
+    [
+      0.000038,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.000542,
+      "I 2015-05-08 22:25:29.672832 test.cc:331 15120 | \u003c-- Passed test: ndarray_conv/backward_data"
+    ],
+    [
+      0.000008,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.000030,
+      "I 2015-05-08 22:25:29.672891 test.cc:327 15120 | --\u003e Start test: ndarray_conv/conv_bm_big_batch"
+    ],
+    [
+      0.000009,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.002779,
+      "\r\n"
+    ],
+    [
+      1.212916,
+      "Benchmark ndarray_conv/conv_bm_big_batch (conv_forward on {input: 2048x384x13x13, weight: 384x384x3x3, pad=1x1, stride=1x1})\r\nRun (1/3): 2 iterations (2782680468 cycles) in 1.21s\r\n"
+    ],
+    [
+      0.612404,
+      "Run (2/3): 1 iterations (1404949793 cycles) in 612.33ms\r\n"
+    ],
+    [
+      0.601542,
+      "Run (3/3): 1 iterations (1380079642 cycles) in 601.49ms\r\nPer iteration (fastest): 601.49ms (1380079642 cycles) 1.66op/s\r\n"
+    ],
+    [
+      0.000016,
+      "Per iteration (median ): 606.40ms (1391340234 cycles) 1.65op/s\r\nPer iteration (slowest): 612.33ms (1404949793 cycles) 1.63op/s\r\n\r\n"
+    ],
+    [
+      0.928862,
+      "Benchmark ndarray_conv/conv_bm_big_batch (conv_backward on {input: 2048x384x13x13, weight: 384x384x3x3, pad=1x1, stride=1x1})\r\nRun (1/3): 1 iterations (2131005223 cycles) in 928.77ms\r\n"
+    ],
+    [
+      0.928904,
+      "Run (2/3): 1 iterations (2131150392 cycles) in 928.83ms\r\n"
+    ],
+    [
+      0.926665,
+      "Run (3/3): 1 iterations (2126072866 cycles) in 926.62ms\r\nPer iteration (fastest): 926.62ms (2126072866 cycles) 1.08op/s\r\n"
+    ],
+    [
+      0.000014,
+      "Per iteration (median ): 928.77ms (2131005223 cycles) 1.08op/s\r\nPer iteration (slowest): 928.83ms (2131150392 cycles) 1.08op/s\r\n\r\n"
+    ],
+    [
+      0.930748,
+      "Benchmark ndarray_conv/conv_bm_big_batch (conv_grad_filter on {input: 2048x384x13x13, weight: 384x384x3x3, pad=1x1, stride=1x1})\r\nRun (1/3): 1 iterations (2135334658 cycles) in 930.66ms\r\n"
+    ],
+    [
+      0.933626,
+      "Run (2/3): 1 iterations (2141978132 cycles) in 933.55ms\r\n"
+    ],
+    [
+      0.933325,
+      "Run (3/3): 1 iterations (2141354869 cycles) in 933.28ms\r\nPer iteration (fastest): 930.66ms (2135334658 cycles) 1.07op/s\r\n"
+    ],
+    [
+      0.000014,
+      "Per iteration (median ): 933.28ms (2141354869 cycles) 1.07op/s\r\nPer iteration (slowest): 933.55ms (2141978132 cycles) 1.07op/s\r\n\r\n"
+    ],
+    [
+      1.003674,
+      "Benchmark ndarray_conv/conv_bm_big_batch (conv_grad_bias on {input: 2048x384x13x13, weight: 384x384x3x3, pad=1x1, stride=1x1})\r\nRun (1/3): 152 iterations (2302694802 cycles) in 1.00s\r\n"
+    ],
+    [
+      1.000969,
+      "Run (2/3): 152 iterations (2296463500 cycles) in 1.00s\r\n"
+    ],
+    [
+      1.004837,
+      "Run (3/3): 152 iterations (2305436533 cycles) in 1.00s\r\nPer iteration (fastest): 6.58ms (15108312 cycles) 151.87op/s\r\n"
+    ],
+    [
+      0.000014,
+      "Per iteration (median ): 6.60ms (15149307 cycles) 151.45op/s\r\nPer iteration (slowest): 6.61ms (15167345 cycles) 151.27op/s\r\n\r\n"
+    ],
+    [
+      0.002126,
+      "I 2015-05-08 22:25:40.696256 test.cc:331 15120 | \u003c-- Passed test: ndarray_conv/conv_bm_big_batch\r\n\u001b[0m"
+    ],
+    [
+      0.000012,
+      "I 2015-05-08 22:25:40.696325 test.cc:327 15120 | --\u003e Start test: ndarray_conv/conv_bm_big_channel\r\n\u001b[0m"
+    ],
+    [
+      0.001787,
+      "\r\n"
+    ],
+    [
+      1.314176,
+      "Benchmark ndarray_conv/conv_bm_big_channel (conv_forward on {input: 256x1024x13x13, weight: 1024x1024x3x3, pad=1x1, stride=1x1})\r\nRun (1/3): 3 iterations (3015201974 cycles) in 1.31s\r\n"
+    ],
+    [
+      0.872064,
+      "Run (2/3): 2 iterations (2000731813 cycles) in 871.99ms\r\n"
+    ],
+    [
+      0.878095,
+      "Run (3/3): 2 iterations (2014619689 cycles) in 878.04ms\r\nPer iteration (fastest): 436.00ms (1000365906 cycles) 2.29op/s\r\n"
+    ],
+    [
+      0.000014,
+      "Per iteration (median ): 438.05ms (1005067324 cycles) 2.28op/s\r\nPer iteration (slowest): 439.02ms (1007309844 cycles) 2.28op/s\r\n\r\n"
+    ],
+    [
+      1.370176,
+      "Benchmark ndarray_conv/conv_bm_big_channel (conv_backward on {input: 256x1024x13x13, weight: 1024x1024x3x3, pad=1x1, stride=1x1})\r\nRun (1/3): 2 iterations (3143562575 cycles) in 1.37s\r\n"
+    ],
+    [
+      0.681405,
+      "Run (2/3): 1 iterations (1563286894 cycles) in 681.34ms\r\n"
+    ],
+    [
+      0.687176,
+      "Run (3/3): 1 iterations (1576576184 cycles) in 687.13ms\r\nPer iteration (fastest): 681.34ms (1563286894 cycles) 1.47op/s\r\n"
+    ],
+    [
+      0.000014,
+      "Per iteration (median ): 685.04ms (1571781287 cycles) 1.46op/s\r\nPer iteration (slowest): 687.13ms (1576576184 cycles) 1.46op/s\r\n\r\n"
+    ],
+    [
+      1.764420,
+      "Benchmark ndarray_conv/conv_bm_big_channel (conv_grad_filter on {input: 256x1024x13x13, weight: 1024x1024x3x3, pad=1x1, stride=1x1})\r\nRun (1/3): 2 iterations (4048142462 cycles) in 1.76s\r\n"
+    ],
+    [
+      0.884950,
+      "Run (2/3): 1 iterations (2030302453 cycles) in 884.88ms\r\n"
+    ],
+    [
+      0.884798,
+      "Run (3/3): 1 iterations (2029923174 cycles) in 884.72ms\r\nPer iteration (fastest): 882.16ms (2024071231 cycles) 1.13op/s\r\nPer iteration (median ): 884.72ms (2029923174 cycles) 1.13op/s"
+    ],
+    [
+      0.000014,
+      "\r\nPer iteration (slowest): 884.88ms (2030302453 cycles) 1.13op/s\r\n\r\n"
+    ],
+    [
+      1.001732,
+      "Benchmark ndarray_conv/conv_bm_big_channel (conv_grad_bias on {input: 256x1024x13x13, weight: 1024x1024x3x3, pad=1x1, stride=1x1})\r\nRun (1/3): 447 iterations (2298218618 cycles) in 1.00s\r\n"
+    ],
+    [
+      1.004579,
+      "Run (2/3): 447 iterations (2304798697 cycles) in 1.00s\r\n"
+    ],
+    [
+      1.001919,
+      "Run (3/3): 447 iterations (2298724059 cycles) in 1.00s\r\nPer iteration (fastest): 2.24ms (5141428 cycles) 446.26op/s\r\n"
+    ],
+    [
+      0.000014,
+      "Per iteration (median ): 2.24ms (5142559 cycles) 446.17op/s\r\nPer iteration (slowest): 2.25ms (5156149 cycles) 444.99op/s\r\n\r\n"
+    ],
+    [
+      0.001420,
+      "I 2015-05-08 22:25:53.044987 test.cc:331 15120 | \u003c-- Passed test: ndarray_conv/conv_bm_big_channel\r\n\u001b[0mI 2015-05-08 22:25:53.045045 test.cc:327 15120 | --\u003e Start test: ndarray_conv/conv_bm_big_feature_map\r\n"
+    ],
+    [
+      0.000016,
+      "\u001b[0m"
+    ],
+    [
+      0.002582,
+      "\r\n"
+    ],
+    [
+      1.202898,
+      "Benchmark ndarray_conv/conv_bm_big_feature_map (conv_forward on {input: 256x384x39x39, weight: 384x384x3x3, pad=1x1, stride=1x1})\r\nRun (1/3): 2 iterations (2759896930 cycles) in 1.20s\r\n"
+    ],
+    [
+      0.605515,
+      "Run (2/3): 1 iterations (1389150366 cycles) in 605.44ms\r\n"
+    ],
+    [
+      0.603588,
+      "Run (3/3): 1 iterations (1384779968 cycles) in 603.54ms\r\nPer iteration (fastest): 601.43ms (1379948465 cycles) 1.66op/s\r\n"
+    ],
+    [
+      0.000014,
+      "Per iteration (median ): 603.54ms (1384779968 cycles) 1.66op/s\r\nPer iteration (slowest): 605.44ms (1389150366 cycles) 1.65op/s\r\n\r\n"
+    ],
+    [
+      1.395689,
+      "Benchmark ndarray_conv/conv_bm_big_feature_map (conv_backward on {input: 256x384x39x39, weight: 384x384x3x3, pad=1x1, stride=1x1})\r\nRun (1/3): 2 iterations (3202053422 cycles) in 1.40s\r\n"
+    ],
+    [
+      0.698429,
+      "Run (2/3): 1 iterations (1602366017 cycles) in 698.37ms\r\n"
+    ],
+    [
+      0.695057,
+      "Run (3/3): 1 iterations (1594645966 cycles) in 695.01ms\r\nPer iteration (fastest): 695.01ms (1594645966 cycles) 1.44op/s\r\n"
+    ],
+    [
+      0.000073,
+      "Per iteration (median ): 697.79ms (1601026711 cycles) 1.43op/s\r\nPer iteration (slowest): 698.37ms (1602366017 cycles) 1.43op/s\r\n\r\n"
+    ],
+    [
+      0.921308,
+      "Benchmark ndarray_conv/conv_bm_big_feature_map (conv_grad_filter on {input: 256x384x39x39, weight: 384x384x3x3, pad=1x1, stride=1x1})\r\nRun (1/3): 1 iterations (2113808452 cycles) in 921.27ms\r\n"
+    ],
+    [
+      0.916432,
+      "Run (2/3): 1 iterations (2102556592 cycles) in 916.37ms\r\n"
+    ],
+    [
+      0.923266,
+      "Run (3/3): 1 iterations (2118159716 cycles) in 923.17ms\r\nPer iteration (fastest): 916.37ms (2102556592 cycles) 1.09op/s\r\nPer iteration (median ): 921.27ms (2113808452 cycles) 1.09op/s"
+    ],
+    [
+      0.000072,
+      "\r\nPer iteration (slowest): 923.17ms (2118159716 cycles) 1.08op/s\r\n\r\n"
+    ],
+    [
+      1.001759,
+      "Benchmark ndarray_conv/conv_bm_big_feature_map (conv_grad_bias on {input: 256x384x39x39, weight: 384x384x3x3, pad=1x1, stride=1x1})\r\nRun (1/3): 196 iterations (2298359364 cycles) in 1.00s\r\n"
+    ],
+    [
+      1.008254,
+      "Run (2/3): 196 iterations (2313249357 cycles) in 1.01s\r\n"
+    ],
+    [
+      1.006887,
+      "Run (3/3): 196 iterations (2310149854 cycles) in 1.01s\r\nPer iteration (fastest): 5.11ms (11726323 cycles) 195.67op/s\r\n"
+    ],
+    [
+      0.000014,
+      "Per iteration (median ): 5.14ms (11786478 cycles) 194.67op/s\r\nPer iteration (slowest): 5.14ms (11802292 cycles) 194.41op/s\r\n\r\n"
+    ],
+    [
+      0.002258,
+      "I 2015-05-08 22:26:04.029127 test.cc:331 15120 | \u003c-- Passed test: ndarray_conv/conv_bm_big_feature_map\r\n\u001b[0mI 2015-05-08 22:26:04.029187 test.cc:327 15120 | --\u003e Start test: ndarray_conv/conv_bm_normal\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[0m"
+    ],
+    [
+      0.001527,
+      "\r\n"
+    ],
+    [
+      0.987591,
+      "Benchmark ndarray_conv/conv_bm_normal (conv_forward on {input: 256x384x13x13, weight: 384x384x3x3, pad=1x1, stride=1x1})\r\nRun (1/3): 13 iterations (2265884737 cycles) in 987.55ms\r\n"
+    ],
+    [
+      0.985889,
+      "Run (2/3): 13 iterations (2261886447 cycles) in 985.81ms\r\n"
+    ],
+    [
+      0.987997,
+      "Run (3/3): 13 iterations (2266683626 cycles) in 987.91ms\r\nPer iteration (fastest): 75.83ms (173991265 cycles) 13.19op/s\r\nPer iteration (median ): 75.97ms (174298825 cycles) 13.16op/s"
+    ],
+    [
+      0.000016,
+      "\r\nPer iteration (slowest): 75.99ms (174360278 cycles) 13.16op/s\r\n\r\n"
+    ],
+    [
+      0.933911,
+      "Benchmark ndarray_conv/conv_bm_normal (conv_backward on {input: 256x384x13x13, weight: 384x384x3x3, pad=1x1, stride=1x1})\r\nRun (1/3): 8 iterations (2142613806 cycles) in 933.83ms\r\n"
+    ],
+    [
+      0.932486,
+      "Run (2/3): 8 iterations (2139364396 cycles) in 932.41ms\r\n"
+    ],
+    [
+      0.936955,
+      "Run (3/3): 8 iterations (2149674415 cycles) in 936.91ms\r\nPer iteration (fastest): 116.55ms (267420549 cycles) 8.58op/s\r\n"
+    ],
+    [
+      0.000014,
+      "Per iteration (median ): 116.73ms (267826725 cycles) 8.57op/s\r\nPer iteration (slowest): 117.11ms (268709301 cycles) 8.54op/s\r\n\r\n"
+    ],
+    [
+      0.939205,
+      "Benchmark ndarray_conv/conv_bm_normal (conv_grad_filter on {input: 256x384x13x13, weight: 384x384x3x3, pad=1x1, stride=1x1})\r\nRun (1/3): 8 iterations (2154736041 cycles) in 939.11ms\r\n"
+    ],
+    [
+      0.938361,
+      "Run (2/3): 8 iterations (2152854977 cycles) in 938.29ms\r\n"
+    ],
+    [
+      0.934965,
+      "Run (3/3): 8 iterations (2145101118 cycles) in 934.91ms\r\nPer iteration (fastest): 116.86ms (268137639 cycles) 8.56op/s\r\n"
+    ],
+    [
+      0.000014,
+      "Per iteration (median ): 117.29ms (269106872 cycles) 8.53op/s\r\nPer iteration (slowest): 117.39ms (269342005 cycles) 8.52op/s\r\n\r\n"
+    ],
+    [
+      0.990578,
+      "Benchmark ndarray_conv/conv_bm_normal (conv_grad_bias on {input: 256x384x13x13, weight: 384x384x3x3, pad=1x1, stride=1x1})\r\nRun (1/3): 1086 iterations (2272580780 cycles) in 990.47ms\r\n"
+    ],
+    [
+      0.991148,
+      "Run (2/3): 1086 iterations (2273971928 cycles) in 991.08ms\r\n"
+    ],
+    [
+      0.990733,
+      "Run (3/3): 1086 iterations (2273066839 cycles) in 990.69ms\r\nPer iteration (fastest): 912.04us (2092615 cycles) 1.10Kop/s\r\n"
+    ],
+    [
+      0.000014,
+      "Per iteration (median ): 912.23us (2093063 cycles) 1.10Kop/s\r\nPer iteration (slowest): 912.60us (2093896 cycles) 1.10Kop/s\r\n\r\n"
+    ],
+    [
+      0.001108,
+      "I 2015-05-08 22:26:15.581654 test.cc:331 15120 | \u003c-- Passed test: ndarray_conv/conv_bm_normal\r\n\u001b[0mI 2015-05-08 22:26:15.581710 test.cc:327 15120 | --\u003e Start test: ndarray_conv/conv_bm_tiny\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[0m"
+    ],
+    [
+      0.000189,
+      "\r\n"
+    ],
+    [
+      1.001063,
+      "Benchmark ndarray_conv/conv_bm_tiny (conv_forward on {input: 2x3x6x7, weight: 5x3x3x5, pad=3x2, stride=3x2})\r\nRun (1/3): 5335 iterations (2296851178 cycles) in 1.00s\r\n"
+    ],
+    [
+      1.003329,
+      "Run (2/3): 5335 iterations (2301910525 cycles) in 1.00s\r\n"
+    ],
+    [
+      1.004136,
+      "Run (3/3): 5335 iterations (2303796794 cycles) in 1.00s\r\nPer iteration (fastest): 187.64us (430525 cycles) 5.33Kop/s\r\nPer iteration (median ): 188.05us (431473 cycles) 5.32Kop/s"
+    ],
+    [
+      0.000007,
+      "\r\nPer iteration (slowest): 188.21us (431826 cycles) 5.31Kop/s\r\n\r\n"
+    ],
+    [
+      1.004193,
+      "Benchmark ndarray_conv/conv_bm_tiny (conv_backward on {input: 2x3x6x7, weight: 5x3x3x5, pad=3x2, stride=3x2})\r\nRun (1/3): 5808 iterations (2303838121 cycles) in 1.00s\r\n"
+    ],
+    [
+      1.006395,
+      "Run (2/3): 5808 iterations (2308944523 cycles) in 1.01s\r\n"
+    ],
+    [
+      1.005050,
+      "Run (3/3): 5808 iterations (2305923475 cycles) in 1.01s\r\nPer iteration (fastest): 172.88us (396666 cycles) 5.78Kop/s\r\n"
+    ],
+    [
+      0.000008,
+      "Per iteration (median ): 173.04us (397025 cycles) 5.78Kop/s\r\nPer iteration (slowest): 173.26us (397545 cycles) 5.77Kop/s\r\n\r\n"
+    ],
+    [
+      1.002906,
+      "Benchmark ndarray_conv/conv_bm_tiny (conv_grad_filter on {input: 2x3x6x7, weight: 5x3x3x5, pad=3x2, stride=3x2})\r\nRun (1/3): 6420 iterations (2300873088 cycles) in 1.00s\r\n"
+    ],
+    [
+      1.004312,
+      "Run (2/3): 6420 iterations (2304175972 cycles) in 1.00s\r\n"
+    ],
+    [
+      1.004577,
+      "Run (3/3): 6420 iterations (2304816752 cycles) in 1.00s\r\nPer iteration (fastest): 156.20us (358391 cycles) 6.40Kop/s\r\nPer iteration (median ): 156.42us (358905 cycles) 6.39Kop/s"
+    ],
+    [
+      0.000011,
+      "\r\nPer iteration (slowest): 156.47us (359005 cycles) 6.39Kop/s\r\n\r\n"
+    ],
+    [
+      0.997585,
+      "Benchmark ndarray_conv/conv_bm_tiny (conv_grad_bias on {input: 2x3x6x7, weight: 5x3x3x5, pad=3x2, stride=3x2})\r\nRun (1/3): 8105 iterations (2288687752 cycles) in 997.49ms\r\n"
+    ],
+    [
+      0.997222,
+      "Run (2/3): 8105 iterations (2287895169 cycles) in 997.15ms\r\n"
+    ],
+    [
+      0.998631,
+      "Run (3/3): 8105 iterations (2291199503 cycles) in 998.59ms\r\nPer iteration (fastest): 123.03us (282281 cycles) 8.13Kop/s\r\n"
+    ],
+    [
+      0.000008,
+      "Per iteration (median ): 123.07us (282379 cycles) 8.13Kop/s\r\nPer iteration (slowest): 123.21us (282689 cycles) 8.12Kop/s\r\n\r\n"
+    ],
+    [
+      0.000180,
+      "I 2015-05-08 22:26:27.611437 test.cc:331 15120 | \u003c-- Passed test: ndarray_conv/conv_bm_tiny\r\n\u001b[0mI 2015-05-08 22:26:27.611498 test.cc:327 15120 | --\u003e Start test: ndarray_conv/forward"
+    ],
+    [
+      0.000007,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.000380,
+      "I 2015-05-08 22:26:27.611862 test.cc:331 15120 | \u003c-- Passed test: ndarray_conv/forward\r\n\u001b[0mI 2015-05-08 22:26:27.611910 test.cc:327 15120 | --\u003e Start test: ndarray_conv/grad_bias\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[0m"
+    ],
+    [
+      0.000243,
+      "I 2015-05-08 22:26:27.612145 test.cc:331 15120 | \u003c-- Passed test: ndarray_conv/grad_bias\r\n\u001b[0mI 2015-05-08 22:26:27.612168 test.cc:327 15120 | --\u003e Start test: ndarray_conv/grad_filter\r\n\u001b[0m"
+    ],
+    [
+      0.000443,
+      "I 2015-05-08 22:26:27.612549 test.cc:331 15120 | \u003c-- Passed test: ndarray_conv/grad_filter\r\n\u001b[0mI 2015-05-08 22:26:27.612597 test.cc:327 15120 | --\u003e Start test: ndarray_math/argmax\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[0m"
+    ],
+    [
+      0.000420,
+      "I 2015-05-08 22:26:27.612948 test.cc:331 15120 | \u003c-- Passed test: ndarray_math/argmax\r\n\u001b[0mI 2015-05-08 22:26:27.612995 test.cc:327 15120 | --\u003e Start test: ndarray_math/basics\r\n\u001b[0m"
+    ],
+    [
+      0.017083,
+      "I 2015-05-08 22:26:27.630026 test.cc:331 15120 | \u003c-- Passed test: ndarray_math/basics\r\n\u001b[0mI 2015-05-08 22:26:27.630085 test.cc:327 15120 | --\u003e Start test: ndarray_math/broadcast\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[0m"
+    ],
+    [
+      0.005270,
+      "I 2015-05-08 22:26:27.635335 test.cc:331 15120 | \u003c-- Passed test: ndarray_math/broadcast\r\n\u001b[0mI 2015-05-08 22:26:27.635392 test.cc:327 15120 | --\u003e Start test: ndarray_math/matrix\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[0m"
+    ],
+    [
+      0.001680,
+      "I 2015-05-08 22:26:27.636995 test.cc:331 15120 | \u003c-- Passed test: ndarray_math/matrix\r\n\u001b[0mI 2015-05-08 22:26:27.637048 test.cc:327 15120 | --\u003e Start test: ndarray_math/matrix_bm\r\n\u001b[0m"
+    ],
+    [
+      0.000828,
+      "\r\n"
+    ],
+    [
+      1.024658,
+      "Benchmark ndarray_math/matrix_bm (matmult 4096x4096x256)\r\nRun (1/3): 190 iterations (2350993873 cycles) in 1.02s\r\n"
+    ],
+    [
+      1.026384,
+      "Run (2/3): 190 iterations (2354797608 cycles) in 1.03s\r\n"
+    ],
+    [
+      1.025259,
+      "Run (3/3): 190 iterations (2352264257 cycles) in 1.03s\r\nPer iteration (fastest): 5.39ms (12373651 cycles) 185.43op/s\r\n"
+    ],
+    [
+      0.000015,
+      "Per iteration (median ): 5.40ms (12380338 cycles) 185.33op/s\r\nPer iteration (slowest): 5.40ms (12393671 cycles) 185.13op/s\r\n\r\n"
+    ],
+    [
+      0.000615,
+      "I 2015-05-08 22:26:30.714787 test.cc:331 15120 | \u003c-- Passed test: ndarray_math/matrix_bm\r\n\u001b[0mI 2015-05-08 22:26:30.714841 test.cc:327 15120 | --\u003e Start test: ndarray_math/reduce\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[0m"
+    ],
+    [
+      0.007003,
+      "I 2015-05-08 22:26:30.721797 test.cc:331 15120 | \u003c-- Passed test: ndarray_math/reduce\r\n\u001b[0mI 2015-05-08 22:26:30.721855 test.cc:327 15120 | --\u003e Start test: ndarray_math/reduce_bm\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[0m"
+    ],
+    [
+      0.000585,
+      "\r\n"
+    ],
+    [
+      0.996956,
+      "Benchmark ndarray_math/reduce_bm (reduce 128x384x256x256 to 1x384x1x1)\r\nRun (1/3): 412 iterations (2287373062 cycles) in 996.92ms\r\n"
+    ],
+    [
+      0.994680,
+      "Run (2/3): 412 iterations (2282044162 cycles) in 994.60ms\r\n"
+    ],
+    [
+      0.997389,
+      "Run (3/3): 412 iterations (2288324227 cycles) in 997.34ms\r\nPer iteration (fastest): 2.41ms (5538942 cycles) 414.24op/s\r\n"
+    ],
+    [
+      0.000015,
+      "Per iteration (median ): 2.42ms (5551876 cycles) 413.27op/s\r\nPer iteration (slowest): 2.42ms (5554185 cycles) 413.10op/s\r\n\r\n"
+    ],
+    [
+      0.000464,
+      "I 2015-05-08 22:26:33.711900 test.cc:331 15120 | \u003c-- Passed test: ndarray_math/reduce_bm\r\n\u001b[0mI 2015-05-08 22:26:33.711954 test.cc:327 15120 | --\u003e Start test: ndarray_math/relu\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[0m"
+    ],
+    [
+      0.009395,
+      "I 2015-05-08 22:26:33.721303 test.cc:331 15120 | \u003c-- Passed test: ndarray_math/relu\r\n\u001b[0mI 2015-05-08 22:26:33.721360 test.cc:327 15120 | --\u003e Start test: ndarray_math/shape\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[0m"
+    ],
+    [
+      0.000890,
+      "I 2015-05-08 22:26:33.722206 test.cc:331 15120 | \u003c-- Passed test: ndarray_math/shape\r\n\u001b[0mI 2015-05-08 22:26:33.722258 test.cc:327 15120 | --\u003e Start test: ndarray_math/softmax\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[0m"
+    ],
+    [
+      0.000613,
+      "I 2015-05-08 22:26:33.722829 test.cc:331 15120 | \u003c-- Passed test: ndarray_math/softmax\r\n\u001b[0mI 2015-05-08 22:26:33.722880 test.cc:327 15120 | --\u003e Start test: ndarray_pool/backward_no_padding\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[0m"
+    ],
+    [
+      0.000625,
+      "I 2015-05-08 22:26:33.723465 test.cc:331 15120 | \u003c-- Passed test: ndarray_pool/backward_no_padding\r\n\u001b[0mI 2015-05-08 22:26:33.723515 test.cc:327 15120 | --\u003e Start test: ndarray_pool/backward_padding\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[0m"
+    ],
+    [
+      0.000541,
+      "I 2015-05-08 22:26:33.724019 test.cc:331 15120 | \u003c-- Passed test: ndarray_pool/backward_padding\r\n\u001b[0mI 2015-05-08 22:26:33.724067 test.cc:327 15120 | --\u003e Start test: ndarray_pool/forward_no_padding\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[0m"
+    ],
+    [
+      0.000395,
+      "I 2015-05-08 22:26:33.724421 test.cc:331 15120 | \u003c-- Passed test: ndarray_pool/forward_no_padding\r\n\u001b[0mI 2015-05-08 22:26:33.724446 test.cc:327 15120 | --\u003e Start test: ndarray_pool/forward_padding\r\n\u001b[0m"
+    ],
+    [
+      0.000364,
+      "I 2015-05-08 22:26:33.724746 test.cc:331 15120 | \u003c-- Passed test: ndarray_pool/forward_padding\r\n\u001b[0mI 2015-05-08 22:26:33.724797 test.cc:327 15120 | --\u003e Start test: validate/is_valid_job_port_name\r\n\u001b[0m"
+    ],
+    [
+      0.000013,
+      "I 2015-05-08 22:26:33.724867 test.cc:331 15120 | \u003c-- Passed test: validate/is_valid_job_port_name\r\n\u001b[0m"
+    ],
+    [
+      0.000008,
+      "I 2015-05-08 22:26:33.724896 test.cc:347 15120 | ---"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[0m"
+    ],
+    [
+      0.000102,
+      "I 2015-05-08 22:26:33.724926 test.cc:348 15120 | 40/40 passed, 0 failures\r\n\u001b[0m"
+    ],
+    [
+      0.000006,
+      "I 2015-05-08 22:26:33.724984 dn2-init_finalize.cc:122 15120 | shutting down ndarray support\r\n\u001b[0m"
+    ],
+    [
+      0.003565,
+      "I 2015-05-08 22:26:33.728487 dn2-init_finalize.cc:127 15120 | dn2 system finalized\r\n\u001b[0m"
+    ],
+    [
+      0.252482,
+      "\u001b[31m\u003e\u003e\u003e elapsed time 124s\r\n\u001b[1m\u001b[32m________________________________________________________________________________________________________________________________\u001b(B\u001b[m\r\r\n\u001b[35msanta\u001b(B\u001b[m@\u001b[35mgeeker-1\u001b(B\u001b[m in \u001b[34m~/dn2\u001b[31m on branch master\u001b(B\u001b[m\r\r\n$ "
+    ],
+    [
+      3.204737,
+      "e"
+    ],
+    [
+      0.175851,
+      "x"
+    ],
+    [
+      0.167517,
+      "i"
+    ],
+    [
+      0.168413,
+      "t"
+    ],
+    [
+      0.264013,
+      "\r\n"
+    ],
+    [
+      0.000165,
+      "exit\r\n"
+    ]
+  ]
+}
