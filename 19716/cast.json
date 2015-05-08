@@ -1,0 +1,142 @@
+{
+  "version": 1,
+  "width": 83,
+  "height": 32,
+  "duration": 9.250452,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.181411,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                  \r \r"
+    ],
+    [
+      0.000035,
+      "\u001b]2;hartmamt@Matthews-MacBook-Pro: ~/Downloads\u0007"
+    ],
+    [
+      0.000006,
+      "\u001b]1;~/Downloads\u0007"
+    ],
+    [
+      0.009639,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36mDownloads \u001b[01;34m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000007,
+      "\u001b[K"
+    ],
+    [
+      0.000095,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.562320,
+      "l"
+    ],
+    [
+      0.078494,
+      "\u0008ls"
+    ],
+    [
+      0.095825,
+      " "
+    ],
+    [
+      0.283194,
+      "|"
+    ],
+    [
+      0.124874,
+      " "
+    ],
+    [
+      0.117201,
+      "f"
+    ],
+    [
+      0.177378,
+      "p"
+    ],
+    [
+      0.165479,
+      "p"
+    ],
+    [
+      0.398787,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000061,
+      "\r\r\n"
+    ],
+    [
+      0.001721,
+      "\u001b]2;ls -G | fpp\u0007\u001b]1;ls\u0007"
+    ],
+    [
+      0.202086,
+      "\u001b[?1049h\u001b[1;32r\u001b(B\u001b[m\u001b[4l\u001b[?7h\u001b[?1h\u001b="
+    ],
+    [
+      0.054817,
+      "\u001b[39;49m\u001b[?25l"
+    ],
+    [
+      0.000325,
+      "\u001b[39;49m\u001b(B\u001b[m\u001b[H\u001b[2J===  \u001b[37m\u001b[41m--2.js\r\n\u001b[39;49m\u001b(B\u001b[m/-\\  \u001b(B\u001b[0;4m-.js\r\n\u001b(B\u001b[m\\-/  01-Intro.mp3\r\n .   02-PHIL 499.mp3\r\n .   03-Sabbatical.mp3\r\n .   04-untitled.mp3\r\n .   05-Glass Eye.mp3\r\n .   06-An (In)Finitie Study Of What Ifs.mp3\r\n .   07-Loss Of Life Foundation.mp3\r\n .   08-Adieu.mp3\r\n .   09-This Mornings Contemplations.mp3\r\n .   \u001b(B\u001b[0;4m0f6ea9bb-9561-463b-8e4f-261897e0daa5.WAV\r\n\u001b[C\u001b(B\u001b[m.   10 Year Anniversary.m4v\r\n .   \u001b(B\u001b[0;4m100000013-2.ics\r\n\u001b[C\u001b(B\u001b[m.   \u001b(B\u001b[0;4m100000013.ics\r\n\u001b[C\u001b(B\u001b[m.   \u001b(B\u001b[0;4m11039478_10153133203010070_1738893955_n.jpg\r\n\u001b[C\u001b(B\u001b[m.   \u001b(B\u001b[0;4m11051643_10153147512170070_1795073581_n.jpg\r\n\u001b[C\u001b(B\u001b[m.   \u001b(B\u001b[0;4m11156219_10153271229680070_1526801566399496984_n.jpg\r\n\u001b[C\u001b(B\u001b[m.   \u001b(B\u001b[0;4m1116300-eqLNKVOyEfK1E.PDF\r\n\u001b[C\u001b(B\u001b[m.   140828-u-cin-consulting-sow (1).pdf\r\n .   140828-u-cin-consulting-sow (2).pdf\r\n .   140828-u-cin-consulting-sow (3).pdf\r\n .   \u001b(B\u001b[0;4m140828-u-cin-consulting-sow.pdf\r\n\u001b[C\u001b(B\u001b[m.   \u001b(B\u001b[0;4m14May_standard_Endurance.jpg\r\n\u001b[C\u001b(B\u001b[m.   \u001b(B\u001b[0;4m14May_stan"
+    ],
+    [
+      0.000009,
+      "dard_VerseNIrV.jpg\r\n\u001b[C\u001b(B\u001b[m.   \u001b(B\u001b[0;4m14May_standard_bottomline2.jpg\r\n\u001b[C\u001b(B\u001b[m.   18-Mar-2015_074055.\u001b(B\u001b[0;4mtar.gz\r\n\u001b[C\u001b(B\u001b[m.   \u001b(B\u001b[0;4m18508704UpdatesIncluded.xls\r\n\u001b[C\u001b(B\u001b[m.   \u001b(B\u001b[0;4m1f0ae7e0-ef17-4449-8f1c-56657e059b2b.WAV\r\n\u001b[C\u001b(B\u001b[m.\n\u0008.   ______________________________________________________________________________\u001b[32;1H===  [f|A] selection, [down|j|up|k|space|b] navigation, [enter] open, [c] command \u001b[?7lm\u001b[?7h\u001b[1;6H"
+    ],
+    [
+      0.941545,
+      "\u001b(B\u001b[0;4m--2.js\n\u001b[6G\u001b(B\u001b[0m\u001b[37m\u001b[41m-.js\u0008\u0008\u0008\u0008\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.340414,
+      "\u001b(B\u001b[0;4m-.js\u001b[12;6H\u001b(B\u001b[0m\u001b[37m\u001b[41m0f6ea9bb-9561-463b-8e4f-261897e0daa5.WAV\u001b[6G\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      1.351917,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000017,
+      "\u001b[32;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000004,
+      "\u001b[?1049l\r\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.006846,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                  \r \r"
+    ],
+    [
+      0.000084,
+      "\u001b]2;hartmamt@Matthews-MacBook-Pro: ~/Downloads\u0007"
+    ],
+    [
+      0.000017,
+      "\u001b]1;~/Downloads\u0007"
+    ],
+    [
+      0.008500,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36mDownloads \u001b[01;34m\u001b[01;34m \u001b[00m\u001b[K"
+    ],
+    [
+      0.000058,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      3.120746,
+      "\r\r\n"
+    ]
+  ]
+}
