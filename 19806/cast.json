@@ -1,0 +1,134 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 24,
+  "duration": 10.596722,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.124041,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.009358,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[33m20:05\u001b(B\u001b[m | \u001b[36m/Users/saller\u001b(B\u001b[m \r\n\u001b[K"
+    ],
+    [
+      0.000009,
+      "\u001b[K"
+    ],
+    [
+      6.429015,
+      "\u001b[4m\u001b[33ml\u001b[24m\u001b[39m"
+    ],
+    [
+      0.087122,
+      "\r\u001b[24m\u001b[32ml\u001b[32ms\u001b[39m"
+    ],
+    [
+      0.060029,
+      " "
+    ],
+    [
+      0.167820,
+      "-"
+    ],
+    [
+      0.048072,
+      "l"
+    ],
+    [
+      0.538690,
+      "\r\r\n"
+    ],
+    [
+      0.009637,
+      "total 14672\r\n"
+    ],
+    [
+      0.000175,
+      "drwx------   5 saller  staff      170 May  7 09:11 \u001b[33mApplications\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000014,
+      "drwx------+  8 saller  staff      272 May  9 20:02 \u001b[33mDesktop\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000016,
+      "drwx------+  3 saller  staff      102 May  5 13:35 \u001b[33mDocuments\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000021,
+      "drwx------+  7 saller  staff      238 May  6 16:52 \u001b[33mDownloads\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000007,
+      "drwx------@ 48 saller  staff     1632 May  8 11:39 \u001b[33mLibrary\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000037,
+      "drwx------+  3 saller  staff      102 May  5 13:35 \u001b[33mMovies\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000021,
+      "drwx------+  3 saller  staff      102 May  5 13:35 \u001b[33mMusic\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000014,
+      "drwx------+  6 saller  staff      204 May  5 13:54 \u001b[33mPictures\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000005,
+      "drwxr-xr-x   2 saller  staff       68 May  5 16:04 \u001b[33mProjects\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000016,
+      "drwxr-xr-x+  5 saller  staff      170 May  5 13:35 \u001b[33mPublic\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000006,
+      "drwxr-xr-x  23 saller  staff      782 May  8 20:49 \u001b[33mServer\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000025,
+      "drwx------   3 saller  staff      102 May  5 15:39 \u001b[33mVirtualBox VMs\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000007,
+      "drwxr-xr-x   3 saller  staff      102 May  8 17:25 \u001b[33mdump\u001b[39;49m\u001b[0m\r\n-rw-r--r--   1 saller  staff  7509447 May  8 17:18 mongodump.tar\r\n"
+    ],
+    [
+      0.000506,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.007679,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[33m20:05\u001b(B\u001b[m | \u001b[36m/Users/saller\u001b(B\u001b[m \r\n\u001b[K\u001b[K"
+    ],
+    [
+      2.074729,
+      "\u001b[4m\u001b[33me\u001b[24m\u001b[39m"
+    ],
+    [
+      0.624565,
+      "\r\u001b[24m\u001b[32me\u001b[32mx\u001b[39m"
+    ],
+    [
+      0.177313,
+      "\r\u001b[1m\u001b[31me\u001b[1m\u001b[31mx\u001b[1m\u001b[31mi\u001b[0m\u001b[39m"
+    ],
+    [
+      0.087151,
+      "\r\u001b[0m\u001b[32me\u001b[0m\u001b[32mx\u001b[0m\u001b[32mi\u001b[32mt\u001b[39m"
+    ],
+    [
+      0.146725,
+      "\r\r\n"
+    ]
+  ]
+}
