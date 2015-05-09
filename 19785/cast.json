@@ -1,0 +1,182 @@
+{
+  "version": 1,
+  "width": 94,
+  "height": 27,
+  "duration": 11.885449,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.193262,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                             \r \r"
+    ],
+    [
+      0.000204,
+      "\u001b]2;thortroll@archtroll: ~\u0007\u001b]1;~\u0007"
+    ],
+    [
+      0.004337,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[0;34m\u001b[1m┌─[\u001b[0m\u001b[0m\u001b[1;32mthortroll\u001b[1;30m@\u001b[0m\u001b[0;36marchtroll\u001b[0;34m\u001b[1m]\u001b[0m\u001b[0m - \u001b[0m\u001b[0;34m\u001b[1m[\u001b[0m\u001b[1;37m~\u001b[0;34m\u001b[1m]\u001b[0m\u001b[0m - \u001b[0;34m\u001b[1m[\u001b[0m\u001b[0;33m2015-05-09 10:02:28\u001b[0m\u001b[0;34m\u001b[1m]\u001b[0m\u001b[0m\r\n\u001b[0;34m\u001b[1m└─\u001b[1m[\u001b[1;35m0\u001b[0;34m\u001b[1m] \u003c\u003e\u001b[0m\u001b[0m \u001b[K"
+    ],
+    [
+      0.000020,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      3.666463,
+      "\u001b[32ml\u001b[39m"
+    ],
+    [
+      0.105588,
+      "\u0008\u001b[32ml\u001b[32ms\u001b[39m"
+    ],
+    [
+      0.522665,
+      "\u001b[?1l\u001b\u003e\r\r\n"
+    ],
+    [
+      0.023311,
+      "\u001b]2;ls --color=tty\u0007\u001b]1;ls\u0007"
+    ],
+    [
+      0.000722,
+      "2015-05-09.vortrag-SIT.tpp  \u001b[0m\u001b[01;34mdownloads\u001b[0m  irN          \u001b[01;34mtpp-1.3.1\u001b[0m       \u001b[01;34mworkspaces\u001b[0m\r\ncalcurse.txt                \u001b[01;34mDownloads\u001b[0m  moo.textmov  \u001b[01;34mvideos\u001b[0m          zim.mp4\r\n\u001b[01;34mDesktop\u001b[0m                     \u001b[01;34mgit\u001b[0m        \u001b[01;34mpictures\u001b[0m     \u001b[01;34mVirtualBox VMs\u001b[0m\r\n"
+    ],
+    [
+      0.000066,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                             \r \r"
+    ],
+    [
+      0.000050,
+      "\u001b]2;thortroll@archtroll: ~\u0007"
+    ],
+    [
+      0.000016,
+      "\u001b]1;~\u0007"
+    ],
+    [
+      0.004716,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[0;34m\u001b[1m┌─[\u001b[0m\u001b[0m\u001b[1;32mthortroll\u001b[1;30m@\u001b[0m\u001b[0;36marchtroll\u001b[0;34m\u001b[1m]\u001b[0m\u001b[0m - \u001b[0m\u001b[0;34m\u001b[1m[\u001b[0m\u001b[1;37m~\u001b[0;34m\u001b[1m]\u001b[0m\u001b[0m - \u001b[0;34m\u001b[1m[\u001b[0m\u001b[0;33m2015-05-09 10:02:32\u001b[0m\u001b[0;34m\u001b[1m]\u001b[0m\u001b[0m\r\n\u001b[0;34m\u001b[1m└─\u001b[1m[\u001b[1;35m0\u001b[0;34m\u001b[1m] \u003c\u003e\u001b[0m\u001b[0m "
+    ],
+    [
+      0.000005,
+      "\u001b[K"
+    ],
+    [
+      0.000014,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      2.353815,
+      "\u001b[32ml\u001b[39m"
+    ],
+    [
+      0.054809,
+      "\u0008\u001b[32ml\u001b[32ms\u001b[39m"
+    ],
+    [
+      0.186257,
+      " "
+    ],
+    [
+      0.364539,
+      "-"
+    ],
+    [
+      0.390640,
+      "l"
+    ],
+    [
+      0.247600,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b]2;ls --color=tty -l\u0007\u001b]1;ls\u0007"
+    ],
+    [
+      0.002128,
+      "total 8752\r\n"
+    ],
+    [
+      0.000029,
+      "-rw-r--r-- 1 thortroll users    2800 May  9 09:13 2015-05-09.vortrag-SIT.tpp\r\n"
+    ],
+    [
+      0.000011,
+      "-rw-r--r-- 1 thortroll users    1204 May  9 03:02 calcurse.txt\r\n"
+    ],
+    [
+      0.000010,
+      "drwxr-xr-x 1 thortroll users       0 Apr 24 15:22 \u001b[0m\u001b[01;34mDesktop\u001b[0m\r\n"
+    ],
+    [
+      0.000011,
+      "drwxr-xr-x 1 thortroll users      60 May  8 22:15 \u001b[01;34mdownloads\u001b[0m\r\n"
+    ],
+    [
+      0.000008,
+      "drwx------ 1 thortroll users     228 May  9 01:35 \u001b[01;34mDownloads\u001b[0m\r\n"
+    ],
+    [
+      0.000008,
+      "drwxr-xr-x 1 thortroll users      80 Apr 27 12:55 \u001b[01;34mgit\u001b[0m\r\n"
+    ],
+    [
+      0.000009,
+      "-rw-r--r-- 1 thortroll users     166 May  9 09:49 irN\r\n"
+    ],
+    [
+      0.000007,
+      "-rw-r--r-- 1 thortroll users   12324 May  9 08:58 moo.textmov\r\n"
+    ],
+    [
+      0.000009,
+      "drwxr-xr-x 1 thortroll users      18 Apr 24 15:32 \u001b[01;34mpictures\u001b[0m\r\n"
+    ],
+    [
+      0.000008,
+      "drwxr-xr-x 1 thortroll users     146 Apr 23  2007 \u001b[01;34mtpp-1.3.1\u001b[0m\r\n"
+    ],
+    [
+      0.000008,
+      "drwxr-xr-x 1 thortroll users       0 Apr 24 15:26 \u001b[01;34mvideos\u001b[0m\r\n"
+    ],
+    [
+      0.000008,
+      "drwxr-xr-x 1 thortroll users      24 May  9 02:38 \u001b[01;34mVirtualBox VMs\u001b[0m\r\n"
+    ],
+    [
+      0.000006,
+      "drwxr-xr-x 1 thortroll users       0 Apr 24 15:26 \u001b[01;34mworkspaces\u001b[0m\r\n"
+    ],
+    [
+      0.000008,
+      "-rw-r--r-- 1 thortroll users 8930618 May  5 21:00 zim.mp4\r\n"
+    ],
+    [
+      0.000122,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                             \r \r"
+    ],
+    [
+      0.000056,
+      "\u001b]2;thortroll@archtroll: ~\u0007"
+    ],
+    [
+      0.000014,
+      "\u001b]1;~\u0007"
+    ],
+    [
+      0.005304,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[0;34m\u001b[1m┌─[\u001b[0m\u001b[0m\u001b[1;32mthortroll\u001b[1;30m@\u001b[0m\u001b[0;36marchtroll\u001b[0;34m\u001b[1m]\u001b[0m\u001b[0m - \u001b[0m\u001b[0;34m\u001b[1m[\u001b[0m\u001b[1;37m~\u001b[0;34m\u001b[1m]\u001b[0m\u001b[0m - \u001b[0;34m\u001b[1m[\u001b[0m\u001b[0;33m2015-05-09 10:02:36\u001b[0m\u001b[0;34m\u001b[1m]\u001b[0m\u001b[0m\r\n\u001b[0;34m\u001b[1m└─\u001b[1m[\u001b[1;35m0\u001b[0;34m\u001b[1m] \u003c\u003e\u001b[0m\u001b[0m \u001b[K"
+    ],
+    [
+      0.000006,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      3.757927,
+      "\r\r\n"
+    ]
+  ]
+}
