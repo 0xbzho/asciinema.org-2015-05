@@ -1,0 +1,138 @@
+{
+  "version": 1,
+  "width": 118,
+  "height": 39,
+  "duration": 19.783347,
+  "command": "/usr/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/usr/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.240149,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                     \r \r"
+    ],
+    [
+      0.000171,
+      "\u001b]2;lzx@lzx-Inspiron-5525: ~/github/find\u0007"
+    ],
+    [
+      0.000034,
+      "\u001b]1;~/github/find\u0007"
+    ],
+    [
+      0.039799,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[33m~/github/find\u001b[01;34m(master ✗)\u001b[00m "
+    ],
+    [
+      0.000257,
+      "\u001b[K"
+    ],
+    [
+      0.431179,
+      "find\u0008\u0008\u0008"
+    ],
+    [
+      0.040947,
+      "\u001b[1C"
+    ],
+    [
+      0.180754,
+      "\u001b[1C"
+    ],
+    [
+      0.109719,
+      "\u001b[1C"
+    ],
+    [
+      0.288534,
+      "\u001b[?1l\u001b\u003e\r\r\n"
+    ],
+    [
+      0.005760,
+      "\u001b]2;~/github/find/find.py\u0007"
+    ],
+    [
+      0.000012,
+      "\u001b]1;find\u0007"
+    ],
+    [
+      0.233497,
+      "\u001b7\u001b[?47h\u001b[?1002l\u001b[?1000l\u001b[?1000h\u001b[?1002h\u001b)0"
+    ],
+    [
+      0.001767,
+      "\u001b[?25l\u001b[0;39;49m\u001b[H\u001b[1;1H\u001b[0;39;49m\u000f\u003c Actions                         \u003e              Click menu and edit options.\u001b[K\u001b[2;1H\u001b[0;39;49m\u000f\u003c Name                            \u003e              Fill 'Execute Command' with the command you want to execute.\u001b[K\u001b[3;1H\u001b[0;39;49m\u000f\u003c Options                         \u003e              Fill 'Path' with the path you want to run with.\u001b[K\u001b[4;1H\u001b[0;39;7;49m\u000f\u003c Others                          \u003e\u001b[0;39;49m              Press Ctrl+e to jump to command input\u001b[K\u001b[5;1H\u001b[0;39;49m\u000f\u003c Perm                            \u003e              Press Ctrl+n to jump to menus, and Ctrl+o to jump to Options\u001b[K\u001b[6;1H\u001b[0;39;49m\u000f\u003c Size                            \u003e              Press q or Q or Ctrl+d to quit.\u001b[K\u001b[7;1H\u001b[0;39;49m\u000f\u003c Time                            \u003e              Press reset to reset command with options/exec/path\u001b[K\u001b[8;1H\u001b[0;39;49m\u000f\u003c Type                            \u003e              Press ctrl+r or click OK to run the command\u001b[K\u001b[9;1H\u001b[0;39;49m\u000f                                                 \u001b[K\u001b[10;1H\u001b[0;39;4"
+    ],
+    [
+      0.000287,
+      "9m\u000ffalse                [ ]                         -- always false\u001b[K\u001b[11;1H\u001b[0;39;49m\u000finum                 \u003e                           -- has inode number n\u001b[K\u001b[12;1H\u001b[0;39;49m\u000flinks                \u003e                           -- has n links\u001b[K\u001b[13;1H\u001b[0;39;49m\u000ftrue                 [ ]                         -- always true\u001b[K\u001b[14;1H\u001b[0;39;49m\u000f\u001b[K\u001b[15;1H\u001b[0;39;49m\u000f\u001b[K\u001b[16;1H\u001b[0;39;49m\u000f\u001b[K\u001b[17;1H\u001b[0;39;49m\u000f\u001b[K\u001b[18;1H\u001b[0;39;49m\u000f\u001b[K\u001b[19;1H\u001b[0;39;49m\u000f\u001b[K\u001b[20;1H\u001b[0;39;49m\u000f\u001b[K\u001b[21;1H\u001b[0;39;49m\u000f\u001b[K\u001b[22;1H\u001b[0;39;49m\u000f\u001b[K\u001b[23;1H\u001b[0;39;49m\u000f\u001b[K\u001b[24;1H\u001b[0;39;49m\u000f\u001b[K\u001b[25;1H\u001b[0;39;49m\u000f\u001b[K\u001b[26;1H\u001b[0;39;49m\u000f\u001b[K\u001b[27;1H\u001b[0;39;49m\u000f\u001b[K\u001b[28;1H\u001b[0;39;49m\u000f\u001b[K\u001b[29;1H\u001b[0;39;49m\u000f\u001b[K\u001b[30;1H\u001b[0;39;49m\u000f\u001b[K\u001b[31;1H\u001b[0;39;49m\u000f\u001b[K\u001b[32;1H\u001b[0;39;49m\u000f\u001b[K\u001b[33;1H\u001b[0;39;49m\u000f\u001b[K\u001b[34;1H\u001b[0;39;49m\u000f\u001b[K\u001b[35;1H\u001b[0;39;49m\u000f\u001b[K\u001b[36;1H\u001b[0;39;49m\u000f\u001b[K\u001b[37;1H\u001b[0;39;49m\u000fExecute Command:\u001b[K\u001b[38;1H\u001b[0;39;49m\u000fPath:\u001b[K\u001b[39;1H\u001b[0;39;49m\u000fFinal Command: find                                                                               \u003c OK     \u003e\u003c Reset \u003e\u0008\u001b[0;39;49m\u000f\u001b[4h \u001b[4l\u001b[4;3H\u001b[?25h"
+    ],
+    [
+      1.830773,
+      "\u001b[?25l\u001b[0;39;49m\u001b[H\u001b[1;1H\u001b[4;1H\u001b[0;39;49m\u000f\u003c Others                          \u003e              Press Ctrl+e to jump to command input\u001b[K\u001b[10;1H\u001b[0;39;7;49m\u000ffstype               \u003e                           -- is on a filesystem of given type                                  \u001b[11;1H\u001b[0;39;49m\u000ftype                                             -- is of type chosen\u001b[K\u001b[12;1H\u001b[0;39;49m\u000f(X) cl( ) b ( ) c ( ) d ( ) p ( ) f ( ) l ( ) s\u001b[K\u001b[13;1H\u001b[0;39;49m\u000f    r                                          \u001b[K\u001b[14;1H\u001b[0;39;49m\u000fxtype                                            -- same as -type, but for symbolic link, it checks the type of file\u001b[K\u001b[15;1H\u001b[0;39;49m\u000f(X) cl( ) b ( ) c ( ) d ( ) p ( ) f ( ) l ( ) s\u001b[K\u001b[16;1H\u001b[0;39;49m\u000f    r                                          \u001b[K\u001b[10;24H\u001b[?25h"
+    ],
+    [
+      1.829613,
+      "\u001b[?25l\u001b[0;39;49m\u001b[H\u001b[1;1H\u001b[10;1H\u001b[0;39;49m\u000ffstype               \u003e                           -- is on a filesystem of given type\u001b[K\u001b[11;1H\u001b[0;39;7;49m\u000ftype                                             -- is of type chosen                                                 \u001b[12;1H\u001b[0;39;7;49m\u000f( ) cl( ) b ( ) c ( ) d ( ) p (X) f ( ) l ( ) s                                                                       \u001b[13;1H\u001b[0;39;7;49m\u000f    r                                                                                                                 \u001b[39;1H\u001b[0;39;49m\u000fFinal Command: find  -type f                                                                      \u003c OK     \u003e\u003c Reset \u003e\u0008\u001b[0;39;49m\u000f\u001b[4h \u001b[4l\u001b[12;32H\u001b[?25h"
+    ],
+    [
+      1.181591,
+      "\u001b[?25l\u001b[0;39;49m\u001b[H\u001b[1;1H\u001b[10;1H\u001b[0;39;7;49m\u000fempty                [ ]                         -- is empty and is a regular file or directory                       \u001b[11;1H\u001b[0;39;49m\u000fsize                 \u003e                           -- uses n units[b|c|w|k|M|G] of space\u001b[K\u001b[12;1H\u001b[0;39;49m\u000f\u001b[K\u001b[13;1H\u001b[0;39;49m\u000f\u001b[K\u001b[14;1H\u001b[0;39;49m\u000f\u001b[K\u001b[15;1H\u001b[0;39;49m\u000f\u001b[K\u001b[16;1H\u001b[0;39;49m\u000f\u001b[K\u001b[10;23H\u001b[?25h"
+    ],
+    [
+      1.171815,
+      "\u001b[?25l\u001b[0;39;49m\u001b[H\u001b[1;1H\u001b[10;1H\u001b[0;39;49m\u000fempty                [ ]                         -- is empty and is a regular file or directory\u001b[K\u001b[11;1H\u001b[0;39;7;49m\u000fsize                 \u003e                           -- uses n units[b|c|w|k|M|G] of space                                \u001b[11;24H\u001b[?25h"
+    ],
+    [
+      2.003475,
+      "\u001b[?25l\u001b[0;39;49m\u001b[H\u001b[1;1H\u001b[11;1H\u001b[0;39;7;49m\u000fsize                 \u003e 4                         -- uses n units[b|c|w|k|M|G] of space                                \u001b[39;1H\u001b[0;39;49m\u000fFinal Command: find  -type f -size 4                                                              \u003c OK     \u003e\u003c Reset \u003e\u0008\u001b[0;39;49m\u000f\u001b[4h \u001b[4l\u001b[11;25H\u001b[?25h"
+    ],
+    [
+      0.089798,
+      "\u001b[?25l\u001b[0;39;49m\u001b[H\u001b[1;1H\u001b[11;1H\u001b[0;39;7;49m\u000fsize                 \u003e 4k                        -- uses n units[b|c|w|k|M|G] of space                                \u001b[39;1H\u001b[0;39;49m\u000fFinal Command: find  -type f -size 4k                                                             \u003c OK     \u003e\u003c Reset \u003e\u0008\u001b[0;39;49m\u000f\u001b[4h \u001b[4l\u001b[11;26H\u001b[?25h"
+    ],
+    [
+      4.881191,
+      "\u001b[?25l\u001b[0;39;49m\u001b[H\u001b[1;1H\u001b[11;1H\u001b[0;39;49m\u000fsize                 \u003e 4k                        -- uses n units[b|c|w|k|M|G] of space\u001b[K\u001b[38;6H\u001b[?25h"
+    ],
+    [
+      1.886764,
+      "\u001b[?25l\u001b[0;39;49m\u001b[H\u001b[1;1H\u001b[38;1H\u001b[0;39;49m\u000fPath:f\u001b[K\u001b[39;1H\u001b[0;39;49m\u000fFinal Command: find f -type f -size 4k                                                            \u003c OK     \u003e\u003c Reset \u003e\u0008\u001b[0;39;49m\u000f\u001b[4h \u001b[4l\u001b[38;7H\u001b[?25h"
+    ],
+    [
+      0.054721,
+      "\u001b[?25l\u001b[0;39;49m\u001b[H\u001b[1;1H\u001b[38;1H\u001b[0;39;49m\u000fPath:fi\u001b[K\u001b[39;1H\u001b[0;39;49m\u000fFinal Command: find fi -type f -size 4k                                                           \u003c OK     \u003e\u003c Reset \u003e\u0008\u001b[0;39;49m\u000f\u001b[4h \u001b[4l\u001b[38;8H\u001b[?25h"
+    ],
+    [
+      0.195452,
+      "\u001b[?25l\u001b[0;39;49m\u001b[H\u001b[1;1H\u001b[26;1H\u001b[0;39;49m\u000f  find/                                                                                                              \u001b[K\u001b[27;1H\u001b[0;39;49m\u000f  find.py                                                                                                            \u001b[K\u001b[38;1H\u001b[0;39;49m\u000fPath:find\u001b[K\u001b[39;1H\u001b[0;39;49m\u000fFinal Command: find find -type f -size 4k                                                         \u003c OK     \u003e\u003c Reset \u003e\u0008\u001b[0;39;49m\u000f\u001b[4h \u001b[4l\u001b[38;10H\u001b[?25h"
+    ],
+    [
+      1.487642,
+      "\u001b[?1002l\u001b[?1000l\u001b[0;39;49m\u000f\u001b[?47l\u001b8\u001b[?25hfind/tests/test_model.py"
+    ],
+    [
+      0.000015,
+      "\r\nfind/model.py\r\n"
+    ],
+    [
+      0.021348,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                     \r \r\u001b]2;lzx@lzx-Inspiron-5525: ~/github/find\u0007\u001b]1;~/github/find\u0007"
+    ],
+    [
+      0.041348,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[33m~/github/find\u001b[01;34m(master ✗)\u001b[00m "
+    ],
+    [
+      0.000012,
+      "\u001b[K"
+    ],
+    [
+      1.507102,
+      "\r\r\n"
+    ]
+  ]
+}
