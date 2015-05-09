@@ -1,0 +1,458 @@
+{
+  "version": 1,
+  "width": 155,
+  "height": 70,
+  "duration": 16.690707,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.460969,
+      "\u001b[?1034h"
+    ],
+    [
+      0.000014,
+      "tmp [501] "
+    ],
+    [
+      3.364377,
+      "l"
+    ],
+    [
+      0.438151,
+      "s"
+    ],
+    [
+      0.473077,
+      "\r\n"
+    ],
+    [
+      0.052506,
+      "100d-DG6.pdb                           3amt.pdb                               dsRNA-pdbv3.pdb\r\n"
+    ],
+    [
+      0.000012,
+      "100d.nts                               3amt2.out                              \u001b[34mdsRNA-wobble\u001b[39;49m\u001b[0m/\r\n"
+    ],
+    [
+      0.000016,
+      "100d.pdb                               3bwp-hx.pdb                            dsRNA.pdb\r\n"
+    ],
+    [
+      0.000018,
+      "\u001b[34m1EHZ-demo\u001b[39;49m\u001b[0m/                             3bwp.pdb                               dssr-jctsSimplified.pdb\r\n"
+    ],
+    [
+      0.003688,
+      "1OSU.pdb1                              3c1b-nts.pdb                           dssr-jmol.scr00\r\n1a0a.pdb                               3c3z.pdb                               dssr-planeCnts.pdb\r\n1a60-C6-C11.pdb                        3cc2-0-Kt-7.pdb                        dssr-planePairs.pdb\r\n1a60.pdb                               3cul.pdb                               dssr-planeStacks.pdb\r\n1a83.pdb                               3dg0.cif                               dssr-pymol.pml00\r\n1anr.pdb                               3dhs.pdb                               \u001b[34mdssr-run\u001b[39;49m\u001b[0m/\r\n1bdn.pdb                               3f1e-bp1.pdb                           dssr-varna.png\r\n1br3.pdb1                              3f1e-bp2.pdb                           duplex.ct\r\n1cx0.pdb                               3f2q.pdb                               ecnum_h44.pdb\r\n1da0-biou-extend3.pdb                  3h8x.pdb                               elements.dat\r\n1da0-biou-extend3.png                  3hga.pdb               "
+    ],
+    [
+      0.000022,
+      "                err.pdb\r\n1da0-biou-ref6.pdb                     3hga.pdb1                              err.txt\r\n1da0-biou.bps                          3hgo.pdb                               exlink.gif\r\n1da0-biou.pdb                          3j0l.pdb                               expect-pty.rb\r\n1da0.pdb                               3j7y.pdb                               extended_view.pdb\r\n1da0.pdb1                              3k49.pdb                               extlink.gif\r\n"
+    ],
+    [
+      0.000008,
+      "1dcw.pdb                               3ndb.out                               f49.pdb\r\n"
+    ],
+    [
+      0.000017,
+      "1ddy-A.pdb                             3ndb.pdb                               f8.pdb\r\n"
+    ],
+    [
+      0.000006,
+      "1ddy.pdb                               3owi.pdb                               fa.out\r\n"
+    ],
+    [
+      0.000028,
+      "1dfu.pdb                               3oxo.pdb                               fa.pdb\r\n"
+    ],
+    [
+      0.000007,
+      "1e95.pdb                               3oxo.pdb1                              fb.out\r\n"
+    ],
+    [
+      0.000022,
+      "1egk.pdb                               3php.pdb                               fb.pdb\r\n"
+    ],
+    [
+      0.000053,
+      "1egk.png                               3pio-iloop91.pdb                       fiber-1\r\n"
+    ],
+    [
+      0.000014,
+      "1egk.r3d                               3q1r.pdb                               find_motif.log\r\n1egk.ssr                               3q3z-V.pdb                             \u001b[34mfind_pair-p-examples\u001b[39;49m\u001b[0m/\r\n"
+    ],
+    [
+      0.000295,
+      "1ehz-A9-C11.pdb                        3q3z.pdb                               fr2.pdb\r\n1ehz-U33-A35.pdb                       3sc8.pdb                               frag.pdb\r\n1ehz-h2.pdb                            3ubt.pdb                               frag3-ref1.pdb\r\n1ehz-jct-label.pse                     3umy-UNCG.pdb                          frag3.pdb\r\n1ehz-more.out                          3umy.pdb                               g4.pdb\r\n1ehz-ok.pdb                            3uyh.pdb                               ga.pdb\r\n1ehz-pymol.png                         3v2f.pdb                               gc29.pdb\r\n1ehz-tloop.pdb                         3wru.pdb                               get-pair.eps\r\n1ehz.bps                               3zex-A-C547.pdb                        get-pair.png\r\n1ehz.cif                               3zex-A-G162.pdb                        gu.m\r\n1ehz.jpg                               3zex-A-G162.png                        gu.pdb\r\n1ehz.motif                             3zex-frag.pdb"
+    ],
+    [
+      0.000014,
+      "                          gu10-frame.pdb\r\n1ehz.out                               3zex.out                               gu10.pdb\r\n1ehz.pdb                               3zex.pdb                               gu6-frame.pdb\r\n1ehz.png                               3zp8.pdb                               gu6.pdb\r\n1ehz.ss2                               400d.pdb                               gu_platform_hbond.pdb\r\n1el2.pdb                               406D.pdb2                              h44wc.pdb\r\n1eu2.pdb                               406D.pdb3                              h6.pdb\r\n1evv.pdb                               406d.pdb                               hbond\r\n"
+    ],
+    [
+      0.000033,
+      "1evv_C74U.pdb                          437d.pdb                               hel_regions.pdb\r\n1f27.pdb                               441d.pdb                               hello-world.rb\r\n"
+    ],
+    [
+      0.000014,
+      "1f5e.pdb                               465d.outs                              hello.go\r\n"
+    ],
+    [
+      0.000105,
+      "1f7y.pdb                               465d.pdb                               \u001b[31mhello.m\u001b[39;49m\u001b[0m*\r\n"
+    ],
+    [
+      0.000016,
+      "1fcw.pdb                               480d-01-penta.pdb                      hstacking.pdb\r\n1ffk.out                               480d-penta.pdb                         hx.pdb\r\n1fjg.out                               485d.pdb                               index.html?id=1msy\r\n1fjg.pdb                               4ato.pdb                               index.php\r\n1gid-A.pdb                             4b9s.pdb                               install-getnonfreefonts\r\n1gid.outs                              4c40.pdb1                              jessy\r\n"
+    ],
+    [
+      0.000009,
+      "1gid.pdb                               4c4w.pdb                               jessy.rb\r\n"
+    ],
+    [
+      0.000023,
+      "1hmh-bp.pdb                            4cxc.pdb                               \u001b[34mjsmn\u001b[39;49m\u001b[0m/\r\n"
+    ],
+    [
+      0.000007,
+      "1hmh.bps                               4e2r.pdb                               k-turn.outs\r\n"
+    ],
+    [
+      0.000023,
+      "1hmh.pdb                               4e8p.par                               k-turn.pdb\r\n"
+    ],
+    [
+      0.000060,
+      "1hr2.pdb                               4e8p.pdb                               k_turn.pdb\r\n"
+    ],
+    [
+      0.000013,
+      "1hzs.pdb                               4e8p.str                               \u001b[34mlearning-git\u001b[39;49m\u001b[0m/\r\n1i0n.pdb                               4enc.pdb                               ligand.pdb\r\n1ibk.pdb                               4f6m.pdb                               log.pml\r\n"
+    ],
+    [
+      0.000006,
+      "1jes-xp.pdb                            4f6n.pdb                               logoData.out\r\n"
+    ],
+    [
+      0.000021,
+      "1jes.outs                              4fs6.pdb                               luigi-ok.pdb\r\n"
+    ],
+    [
+      0.000015,
+      "1jes.pdb                               4gqd.pdb                               luigi.pdb\r\n"
+    ],
+    [
+      0.000005,
+      "1jj2-0.32+455.pdb                      4gqd.pdb1                              lunas_helix0.txt\r\n"
+    ],
+    [
+      0.000032,
+      "1jj2-2ndstrs.ct                        4gxy.out2                              lux.json\r\n"
+    ],
+    [
+      0.000006,
+      "1jj2-2ndstrs.dbn                       4gxy.pdb                               lux2.json\r\n"
+    ],
+    [
+      0.000029,
+      "1jj2-Aminors.pdb                       4i3h.pdb                               lux3.json\r\n"
+    ],
+    [
+      0.000059,
+      "1jj2-G175-U176-A177.pdb                4jiy.pdb                               lux4\r\n"
+    ],
+    [
+      0.000010,
+      "1jj2-ayy.pdb                           4jiy.pdb1                              luxes_bonds.txt\r\n1jj2-h109-bp16.pdb                     4jrd-AA.pdb                            luxes_helix.txt\r\n1jj2-hairpins.pdb                      4jrt.pdb                               luxes_helix0.txt\r\n"
+    ],
+    [
+      0.000005,
+      "1jj2-helices.pdb                       4juo.pdb                               luxes_ntaa_lkg.txt\r\n"
+    ],
+    [
+      0.000021,
+      "1jj2-kturns.pdb                        4jv5.pdb                               m.pdb\r\n"
+    ],
+    [
+      0.000006,
+      "1jj2-m21-7nts.pdb                      4kb0.pdb                               m1.pdb\r\n"
+    ],
+    [
+      0.000022,
+      "1jj2-m231.pdb                          4ki4-TTP.pdb                           m11.pdb\r\n"
+    ],
+    [
+      0.000019,
+      "1jj2-multiplets.pdb                    4ki4.pdb                               m202.pdb\r\n"
+    ],
+    [
+      0.000006,
+      "1jj2-pairs.pdb                         4kj9.pdb                               m208.pdb\r\n"
+    ],
+    [
+      0.000020,
+      "1jj2-stems.pdb                         4kja.pdb                               m5.pdb\r\n"
+    ],
+    [
+      0.000154,
+      "1jj2-torsions.dat                      4kw0.pdb                               m6.pdb\r\n"
+    ],
+    [
+      0.000016,
+      "1jj2.out                               4lck.motif                             m67.pdb\r\n1jj2.pdb                               4lck.pdb                               m68.pdb\r\n1jj2.ssr                               4m57.pdb                               m7.pdb\r\n1jpq.pdb                               4m59.pdb                               m75.pdb\r\n1k5x.inp                               4mtd.pdb                               m79.pdb\r\n1k8p.out                               4ngd.pdb                               m83.pdb\r\n1k8p.pdb                               4nlf.pdb                               m98.pdb\r\n1k9w.pdb                               4o26.pdb                               matrixreduce_results.raw\r\n1kd5.pdb                               4ocb.pdb1                              minimalraw.log\r\n"
+    ],
+    [
+      0.000006,
+      "1kpz.pdb                               4olb.pdb                               missing-hbond.pdb\r\n"
+    ],
+    [
+      0.000180,
+      "1kx5.inp                               4oo8-ok.out                            missing-iloop.pdb\r\n"
+    ],
+    [
+      0.000017,
+      "1kx5.pdb                               4oo8-ok.pdb                            model-A-reversed.bps\r\n1lpi_cation_pi.pdb                     4oo8.out                               model-A-reversed.pdb\r\n1m6r.outs                              4oo8.pdb                               model-A.bps\r\n1msy-ss.pdb                            4oqu.pdb                               model-A.pdb\r\n1msy.alc                               4p5j.pdb                               model_coeff.tsv\r\n1msy.bps                               4pjo.pdb                               model_predicted.tsv\r\n1msy.ct                                4pmi.pdb                               model_pvals.tsv\r\n1msy.nts                               4pmw.pdb                               model_residuals.tsv\r\n1msy.out                               4pqv.pdb                               model_tvals.tsv\r\n1msy.outs                              4qkk.pdb1                              most_stable_3d_structure.pdb\r\n"
+    ],
+    [
+      0.000163,
+      "1msy.png                               4qpq.pdb                               motifs.list\r\n1n1o.pdb                               4qyz.pdb                               msg\r\n"
+    ],
+    [
+      0.000209,
+      "1n3e.pdb                               4r45.pdb                               msgfile\r\n1n77.pdb                               4r48.pdb                               mul.pdb\r\n1nbs-2ndstrs.bpseq                     4r48.pdb1                              multi.pdb\r\n1nbs-2ndstrs.ct                        4r8p.pdb                               mutations.dat\r\n1nbs-2ndstrs.dbn                       4rdu.pdb                               mutations_expd.dat\r\n1nbs-Aminors.pdb                       4rge-A.pdb                             mymol.png\r\n1nbs-bulges.pdb                        4rge.pdb                               myports.txt\r\n1nbs-hairpins.pdb                      4rkv.pdb                               nmr2.pdb\r\n1nbs-helices.pdb                       4rkv.pdb1                              nmr2.tor\r\n1nbs-iloops.pdb                        4u92.pdb                               nmr2.txt\r\n"
+    ],
+    [
+      0.000222,
+      "1nbs-junctions.pdb                     4u92.pdb1                              \u001b[34mnp_recipes\u001b[39;49m\u001b[0m/\r\n1nbs-multiplets.pdb                    4un3.pdb                               nt.pdb\r\n1nbs-pairs.pdb                         4un4.pdb                               octave-core\r\n1nbs-stems.pdb                         4un5.pdb                               one.pdb\r\n1nbs-strict-2ndstrs.bpseq              4uyj.pdb                               ordered.pdb\r\n1nbs-strict-2ndstrs.ct                 4uyk.pdb                               orderx-ok.pdb\r\n1nbs-strict-2ndstrs.dbn                4v4g-dft.cif                           orderx.pdb\r\n1nbs-strict-Aminors.pdb                4v4g-rna.cif                           outs\r\n1nbs-strict-bulges.pdb                 4v4g-rnaQuickHbond.cif                 p1.pdb\r\n1nbs-strict-hairpins.pdb               4v4g.cif                               p1x.pdb\r\n1nbs-strict-helices.pdb                4v5x.cif                               p56a.fig\r\n1nbs-strict-iloops.pdb           "
+    ],
+    [
+      0.000193,
+      "      4v5x.out                               p78a.dat\r\n1nbs-strict-junctions.pdb              4v9p-a2bases.pdb                       p78a.png\r\n1nbs-strict-multiplets.pdb             4v9p.cif                               p78a.ps\r\n1nbs-strict-pairs.pdb                  4w5o.pdb                               p78a.svg\r\n1nbs-strict-stems.pdb                  4wfl.out                               pascal-dft.pdb\r\n1nbs-strict-torsions.txt               4wfl.pdb                               pascal-v2.pdb\r\n1nbs-strict.out                        4wfm.out                               pascal-v3.pdb\r\n1nbs-torsions.txt                      4wfm.pdb                               pascal.pdb\r\n1nbs.out                               6cro-bp.pdb                            pascal2.pdb\r\n1nbs.pdb                               6cro.pdb                               pascnt-no5.pdb\r\n1nuj-EF.pdb                            6tna.lst                               pdb1kb1.ent\r\n1nuj.pdb                               6tna.mol             "
+    ],
+    [
+      0.000188,
+      "                  pdb2o80.ent\r\n1oct.pdb                               6tna.outs                              pdist\r\n1osu.pdb                               6tna.pdb                               \u001b[34mpdna\u001b[39;49m\u001b[0m/\r\n1p54.pdb                               6tna.tor                               pk.pdb\r\n1p9x-bp1.pdb                           6tna.txt                               \u001b[35mplayit\u001b[39;49m\u001b[0m@\r\n1p9x-bp2.pdb                           99_mf991.pdb                           pmiview1\r\n1pns.pdb                               9ant.inp                               pmiview2\r\n1pnx.pdb                               9ant.pdb                               pmiview3\r\n1qdf.pdb                               A-minor-x.pdb                          po4.pdb\r\n1qp5.pdb                               A.pdb                                  poc_haxis.r3d\r\n1rnk.pdb                               ADNA.pdb                               post\r\n1rx1.pdb                               AffinityProfile.log                    primefact."
+    ],
+    [
+      0.000195,
+      "py\r\n1rx1.png                               AffinityProfile.opt                    propeller_mg.alc\r\n1s72-clean.out                         Aminor-missing.pdb                     propeller_mg.mol\r\n1s72-dssr.txt                          Block_BP.alc                           propeller_mg.pdb\r\n1s72-hairpins.pdb                      Block_BP.mol                           prv_t.log\r\n1s72-rna.pdb                           Block_BP.pdb                           prx.pdb\r\n1s72-seq.out                           Block_BP_v3000.mol                     psams.list\r\n1s72.out                               Borg_P_C1_C4.dat                       rHoogsteen-pymol.png\r\n1s72.out2                              \u001b[34mDSSR\u001b[39;49m\u001b[0m/                                  rHoogsteen.pdb\r\n1s72.out3                              FinalModel.pdb                         rHoogsteen.pml\r\n1s72.pdb                               GG-overlap.outs                        rHoogsteen.png\r\n"
+    ],
+    [
+      0.000018,
+      "1t4x.bps                               GG-overlap.pdb                         ref-G175.pdb\r\n1t4x.out                               H-urb003.pdb                           ref-U176.pdb\r\n1t4x.pdb                               Jmol.png                               ref_frames.dat\r\n1tc3.pdb                               Jmol.pov                               \u001b[34mrelated_software\u001b[39;49m\u001b[0m/\r\n1tra.bps                               Jmol.pov.ini                           res11.pdb\r\n1tra.pdb                               Letter-of-Intent.doc                   \u001b[31mrestore_ports.tcl\u001b[39;49m\u001b[0m*\r\n1u0b.pdb                               LogoGenerator.log                      \u001b[34mresults\u001b[39;49m\u001b[0m/\r\n1u6b.pdb                               LogoGenerator.opt                      reversed.pdb\r\n1u8d.pdb                               Makefile                               rna.ps\r\n1voq.pdb                               MatrixREDUCE.log                       rna_model.pdb\r\n"
+    ],
+    [
+      0.000157,
+      "1vq8-GC29.pdb                          MatrixREDUCE.opt                       rnase-A.pdb\r\n"
+    ],
+    [
+      0.000017,
+      "1wld.pdb                               MotifREDUCE.log                        rnase-A.rad\r\n1xav.pdb                               MotifREDUCE.opt                        rnase-A.rad2\r\n1xns.pdb1                              \u001b[34mNYDemo\u001b[39;49m\u001b[0m/                                rnase-Val2.pdb\r\n1yfg.pdb                               REDUCE-Suite-v2.1-macosx-intel.tar.gz  rnase-Val2.rad\r\n1ymo.pdb                               \u001b[34mTEST\u001b[39;49m\u001b[0m/                                  rnase-Val2.rad2\r\n1z43.pdb                               Topo2Dictfile.log                      \u001b[31mrnase.pdb\u001b[39;49m\u001b[0m*\r\n1z8v-pl.png                            Topo2Dictfile.opt                      \u001b[31mrnaview\u001b[39;49m\u001b[0m*\r\n1z8v.pdb                               U-A6.pdb                               \u001b[35mrotate_mol\u001b[39;49m\u001b[0m@\r\n"
+    ],
+    [
+      0.000006,
+      "1z8v.png                               X6.list                                rotmat-bp6.dat\r\n"
+    ],
+    [
+      0.000166,
+      "1zc5.bpseq                             X6n.list                               rotmat.dat\r\n"
+    ],
+    [
+      0.000027,
+      "1zc5.ct                                X8.list                                rpt6.pdb\r\n1zc5.pdb                               XYZOUT                                 rptx.pdb\r\n1zih.pdb                               _region_.log                           run-area\r\n1zna.out                               \u001b[34m_region_.prv\u001b[39;49m\u001b[0m/                          run-area2\r\n1zna.outs                              _region_.tex                           s1.pdb\r\n1zna.pdb                               a-u.pdb                                s1x.pdb\r\n1zna.tor                               \u001b[34ma.out.dSYM\u001b[39;49m\u001b[0m/                            s2.pdb\r\n1zna.tor2                              aaa.pdb                                sam.pdb\r\n1zzn.pdb                               alc-atom.pdb                           sample.eps\r\n225d.pdb                               all-biloops.txt                        sample.png\r\n"
+    ],
+    [
+      0.000203,
+      "2aar-bp.pdb                            all-multiplets.txt                     sample_md0.pdb\r\n"
+    ],
+    [
+      0.000237,
+      "2aax.pdb                               all_helices.pdb                        sdtout\r\n2bo8.pdb                               all_helices0.pdb                       seq_psam.dat\r\n2bo8.pdb1                              all_multiplets.pdb                     serial_num.pdb\r\n2d94.pdb                               all_multiplets0.pdb                    sheared-GA-pymol.png\r\n2d94.pdb1                              all_pairs.pdb                          sheared-GA.pdb\r\n2fk6-2ndstrs.ct                        allpairs.ana                           sheared-GA.pml\r\n2fk6-2ndstrs.dbn                       \u001b[35manalyze\u001b[39;49m\u001b[0m@                               sheared-GA.png\r\n2fk6-hairpins.pdb                      angle1n.pdb                            snap_options\r\n2fk6-helices.pdb                       area.dat                               sort_dictlist.dat\r\n2fk6-multiplets.pdb                    asd                                    \u001b[34msrc\u001b[39;49m\u001b[0m/\r\n2fk6-pairs.pdb                         asd.pdb                 "
+    ],
+    [
+      0.000258,
+      "               ssRNA.pdb\r\n2fk6-stems.pdb                         asd2                                   stacking.pdb\r\n2fk6-torsions.dat                      asdf                                   std\r\n2fk6.pdb                               atom_lkg.alc                           suite.dat\r\n2gis-A.pdb                             \u001b[34mauto\u001b[39;49m\u001b[0m/                                  sx.pdb\r\n2gis.pdb                               auxiliary.par                          \u001b[31mt\u001b[39;49m\u001b[0m*\r\n2gis_final.pdb                         ayy.pdb                                t.aux\r\n2gya.pdb                               ayy2.pdb                               t.d\r\n2gyc.pdb                               base_pair_statistics.out               t.dvi\r\n2hns.pdb                               bblk_lkg.alc                           t.log\r\n2hof.pdb                               bdl084.pdb                             t.mol\r\n2hof.pdb1                              bdl084_O1P_O2P                         t.o\r\n2hof.pdb1.txt             "
+    ],
+    [
+      0.000268,
+      "             best_str.pdb                           t.out\r\n2hoj.pdb                               bestpairs.pdb                          t.pdb\r\n2hvy-E-nonCstem.pdb                    block-edge.r3d                         \u001b[34mt.prv\u001b[39;49m\u001b[0m/\r\n2kei-repr.pdb                          block-minor.r3d                        t.scr\r\n2kei-selected.png                      block-wc-thick.r3d                     t.svg\r\n2kei.pdb                               block-wc.r3d                           t.tex\r\n2koc.pdb                               block.r3d                              t1\r\n2kpv.pdb                               blocview.pdb                           t1.pdb\r\n2kx5.pdb                               blocview.png                           t2\r\n2ld8.pdb                               blocview_temp.pdb                      t2.out\r\n2lod.pdb                               blocview_temp.r3d                      t2.pdb\r\n2m5u.pdb                               bonds_lkg.dat                          t2.scr\r\n2mb2.pdb      "
+    ],
+    [
+      0.000227,
+      "                         bp-no12.pdb                            t3.pdb\r\n2mjj.pdb                               bp.pdb                                 tb.pdb\r\n2nz4.pdb                               bp11.pdb                               temp\r\n2o8b.out                               bp17.pdb                               temp2\r\n2o8b.pdb                               bp2.pdb                                temp_logo.eps\r\n2oeu.pdb                               bp27.pdb                               th.r3d\r\n2ow8.pdb                               bp31.pdb                               \u001b[34mtst9\u001b[39;49m\u001b[0m/\r\n2q10.pdb                               bp32.pdb                               \u001b[34mtstx\u001b[39;49m\u001b[0m/\r\n2qk9.pdb                               bp8.pdb                                ttt.log\r\n2qoy.pdb                               bp9.pdb                                tx.jpeg\r\n2rn1.pdb                               bp_helical.par                         tx.pdb\r\n2rsk-m8.pdb                            bp_order.dat   "
+    ],
+    [
+      0.000230,
+      "                        tx.r3d\r\n2tra.sql                               bp_step.par                            urb003.ent\r\n2tra.sqlite                            bp_step.par.expt                       used_luxes.cfg\r\n2vhm.pdb                               bps.txt                                ux.pdb\r\n2wh2-A-Kt-78.pdb                       bpx.pdb                                verify_all.log\r\n2xxa.pdb                               bromo_dimer-dssr.out                   w1.pdb\r\n2ymf.pdb                               bromo_dimer.out                        w37.pdb\r\n2ymg.pdb                               bromo_dimer.pdb                        x.out\r\n355d-3dna.pdb                          c-list                                 x.pdb\r\n355d-3dna_minimized.geo                c01_psam.dat                           x1.out\r\n355d-3dna_minimized.pdb                c1.scr                                 x2.out\r\n355d-step1.pdb                         c1x.scr                                x2.pdb\r\n355d.bps                   "
+    ],
+    [
+      0.000214,
+      "            cf_7methods.par                        x23.pdb\r\n355d.cif                               cg.pdb                                 \u001b[35mx3dna-dssr\u001b[39;49m\u001b[0m@\r\n355d.out                               check_Spellman1998AlphaTimeCourse.tsv  \u001b[35mx3dna-utils\u001b[39;49m\u001b[0m@\r\n355d.outs                              check_config.dat                       x583.out\r\n355d.pdb                               check_yeast_sample.csv                 x583.pdb\r\n355d.pdb.out                           chk.pdb                                x66-helices.pdb\r\n355d.r3d                               chk2.pdb                               x66-multiplets.pdb\r\n355d.ssr                               ck539_noh.pdb                          x66-pairs.pdb\r\n355d.tor                               classify_pair.log                      xatom.pdb\r\n355d_G12T.pdb                          clean_data.tsv                         xnts.pdb\r\n355d_G2A.pdb                           clean_file                             xnts.ssr\r\n355d_f1.pdb         "
+    ],
+    [
+      0.000015,
+      "                   clean_seq.fasta                        xp.pdb\r\n355d_frames.dat                        clean_topo.dat                         xstep.out\r\n355d_new.pdb                           col_chains.scr                         xstep.pdb\r\n355d_raw.pdb                           col_helices.scr                        xthrdnao_txp-day28.sql.gz\r\n355s.tors                              current_dir                            xx\r\n3CUL_REDO.py.pdb                       \u001b[34mdemo\u001b[39;49m\u001b[0m/                                  xx.pdb\r\n3F1E.py.pdb                            dictlist.dat                           xxx\r\n3amt.out                               drawing.svg\r\n"
+    ],
+    [
+      0.000762,
+      "tmp [502] "
+    ],
+    [
+      2.918990,
+      "x"
+    ],
+    [
+      0.247542,
+      "3"
+    ],
+    [
+      0.292494,
+      "-"
+    ],
+    [
+      0.404905,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.078906,
+      "d"
+    ],
+    [
+      0.806336,
+      "\u0007na"
+    ],
+    [
+      0.555083,
+      "-"
+    ],
+    [
+      0.190959,
+      "d"
+    ],
+    [
+      0.225123,
+      "s"
+    ],
+    [
+      0.071038,
+      "sr "
+    ],
+    [
+      0.277821,
+      "-"
+    ],
+    [
+      0.439022,
+      "v"
+    ],
+    [
+      0.235780,
+      "\r\n"
+    ],
+    [
+      0.017651,
+      "                DSSR: an Integrated Software Tool for\r\n               Dissecting the Spatial Structure of RNA\r\n                v1.2.6-2015mar28 by xiangjun@x3dna.org\r\n\r\n   This program is being actively maintained and developed. As always,\r\n   I greatly appreciate your feedback! Please report all DSSR-related\r\n   issues on the 3DNA Forum (forum.x3dna.org). I strive to respond\r\n   *promptly* to *any questions* posted there.\r\n"
+    ],
+    [
+      0.000038,
+      "\r\nTime used: 00:00:00:00\r\n"
+    ],
+    [
+      0.000730,
+      "tmp [503] "
+    ],
+    [
+      0.521695,
+      "x3dna-dssr -v"
+    ],
+    [
+      0.742358,
+      "\u0008\u001b[K"
+    ],
+    [
+      1.057407,
+      "h"
+    ],
+    [
+      0.236455,
+      "\r\n"
+    ],
+    [
+      0.005731,
+      "==========="
+    ],
+    [
+      0.000020,
+      "==============================="
+    ],
+    [
+      0.000007,
+      "============="
+    ],
+    [
+      0.000005,
+      "===="
+    ],
+    [
+      0.000005,
+      "==="
+    ],
+    [
+      0.000004,
+      "=="
+    ],
+    [
+      0.000004,
+      "==="
+    ],
+    [
+      0.000005,
+      "===\r\n"
+    ],
+    [
+      0.000011,
+      "                DSSR: an Integrated Software Tool for\r\n               Dissecting the Spatial Structure of RNA\r\n                v1.2.6-2015mar28 by xiangjun@x3dna.org\r\n\r\n   This program is being actively maintained and developed. As always,\r\n   I greatly appreciate your feedback! Please report all DSSR-related\r\n   issues on the 3DNA Forum (forum.x3dna.org). I strive to respond\r\n   *promptly* to *any questions* posted there.\r\n"
+    ],
+    [
+      0.000007,
+      "======================================================================\r\n  DSSR v1.2 (2013-2015), created and maintined by Xiang-Jun Lu (PhD)\r\n    This work has been made possible by the NIH grant R01GM096889\r\n======================================================================\r\n"
+    ],
+    [
+      0.000007,
+      "Terms:\r\n    o DSSR is free of charge for non-commercial purposes, and it comes\r\n      with ABSOLUTELY NO WARRANTY.\r\n"
+    ],
+    [
+      0.000010,
+      "    o Before a formal paper is published on DSSR, please cite the\r\n      program as follows: \"RNA structures were analyzed using DSSR, a\r\n      new component of the 3DNA suite of software programs\" and\r\n      include the GpU dinucleotide platform paper:\r\n        * Lu et al. (2010). \"The RNA backbone plays a crucial role in\r\n           mediating the intrinsic stability of the GpU dinucleotide\r\n"
+    ],
+    [
+      0.000013,
+      "           platform and the GpUpA/GpA mini duplex.\" Nucleic Acids\r\n           Res., 38(14), 4868- 4876.\r\n      Optionally, you may also want to mention one or both of the two\r\n      3DNA papers:\r\n        * Lu and Olson (2008). \"3DNA: a versatile, integrated software\r\n           system for the analysis, rebuilding and visualization of\r\n           three-dimensional nucleic-acid structures.\" Nat. Protoc.,\r\n           3(7), 1213-1227.\r\n"
+    ],
+    [
+      0.000296,
+      "        * Lu and Olson (2003). “3DNA: a software package for the\r\n           analysis, rebuilding and visualization of three-dimensional\r\n           nucleic acid structures.” Nucleic Acids Res., 31(17),\r\n           5108-5121.\r\n======================================================================\r\n"
+    ],
+    [
+      0.000332,
+      "Usage:                   x3dna-dssr [options]\r\n\r\nEach option is specified via --key[=val] (or -key[=val] or key[=val];\r\ni.e., two/one/zero preceding dashes are all accepted), where 'key' can\r\nbe in either lower, UPPER or MiXed case. Options can be in any order.\r\nOptions:\r\n  --help         Display this information (-h)\r\n  --version      Print version number and exit (-v)\r\n  --input=file   Specify a PDB/mmCIF file for analysis (-i=file)\r\n  --output=file  Designate the main DSSR output file (-o=file)\r\n  --nested       Remove pseudoknots to get a fully nested structure\r\n  --loop-isolated-pair  Set the boolean switch to include (default)\r\n                   or exclude isolated pairs in delineating loops\r\n  --more         Report detailed bp and step/helical parameters\r\n  --non-pair     Check non-pairing H-bonds/stacking interactions\r\n  --u-turn       Report U-turns (both UNR- and GNRA-types)\r\n  --po4          Detect interactions involving phosphate groups\r\n  --idstr        Delineate fields of the nucleotide id stri"
+    ],
+    [
+      0.000256,
+      "ng when\r\n                   'long' is specified; 'short' for a brief form\r\n  --get-hbonds   Find and output all H-bonds in the structure\r\n  --torsion360   Output torsion angles in the range of [0, 360]\r\n\r\nExamples:\r\n  x3dna-dssr -i=1msy.pdb --more\r\n  x3dna-dssr -i=1msy.pdb --idstr=long\r\n  x3dna-dssr -i=1msy.pdb --idstr=short\r\n  x3dna-dssr --input=1msy.pdb -o=1msy.out\r\n  x3dna-dssr --input=1msy.pdb --non-pair -o=1msy.out\r\n  x3dna-dssr --OUTPUT=1msy.out --Input=1msy.pdb\r\n  x3dna-dssr -i=1ehz.pdb -o=1ehz.out  # yeast phenylalanine tRNA\r\n  x3dna-dssr -i=1ehz.pdb --nested  # remove the pseudoknotted pair\r\n  x3dna-dssr -i=1jj2.pdb -o=1jj2.out  # large ribosomal subunit\r\n======================================================================\r\nQuestions?\r\n  Please read the DSSR User Manual, or visit the 3DNA Forum for help!\r\n\r\nTime used: 00:00:00:00\r\n"
+    ],
+    [
+      0.000575,
+      "tmp [504] "
+    ],
+    [
+      2.559909,
+      "exit\r\n"
+    ]
+  ]
+}
