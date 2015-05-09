@@ -1,0 +1,426 @@
+{
+  "version": 1,
+  "width": 119,
+  "height": 31,
+  "duration": 16.560738,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.094249,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                      \r \r"
+    ],
+    [
+      0.000047,
+      "\u001b]2;jared@Jareds-MacBook-Pro: ~/Data/development/helium/libhelium\u0007"
+    ],
+    [
+      0.000008,
+      "\u001b]1;..ium/libhelium\u0007"
+    ],
+    [
+      0.024013,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36mlibhelium \u001b[01;34mgit:(\u001b[31mbugfix/newer-openssl-cmake\u001b[34m) \u001b[33m✗\u001b[00m\u001b[00m\u001b[01;34m \u001b[00m\u001b[K"
+    ],
+    [
+      0.000127,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.834391,
+      "g"
+    ],
+    [
+      0.054848,
+      "\u0008gi"
+    ],
+    [
+      0.152126,
+      "t"
+    ],
+    [
+      0.047871,
+      " "
+    ],
+    [
+      0.296164,
+      "s"
+    ],
+    [
+      0.088064,
+      "t"
+    ],
+    [
+      0.167820,
+      "a"
+    ],
+    [
+      0.047652,
+      "t"
+    ],
+    [
+      0.096652,
+      "u"
+    ],
+    [
+      0.119724,
+      "s"
+    ],
+    [
+      0.151744,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000077,
+      "\r\r\n"
+    ],
+    [
+      0.001249,
+      "\u001b]2;git status\u0007\u001b]1;git\u0007"
+    ],
+    [
+      0.007808,
+      "On branch bugfix/newer-openssl-cmake\r\n"
+    ],
+    [
+      0.000066,
+      "Your branch is up-to-date with 'origin/bugfix/newer-openssl-cmake'.\r\nUntracked files:\r\n  (use \"git add \u003cfile\u003e...\" to include in what will be committed)\r\n"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000014,
+      "\t\u001b[31mCMakeCache.txt\u001b[m\r\n\t\u001b[31mCMakeFiles/\u001b[m\r\n"
+    ],
+    [
+      0.000006,
+      "\t\u001b[31mDoxyfile.out\u001b[m\r\n\t\u001b[31mMakefile\u001b[m\r\n\t\u001b[31mcmake_install.cmake\u001b[m\r\n\t\u001b[31minclude/config.h\u001b[m\r\n\t\u001b[31mlibhelium.a\u001b[m\r\n"
+    ],
+    [
+      0.000002,
+      "\t\u001b[31mlibhelium.dylib\u001b[m\r\n"
+    ],
+    [
+      0.000002,
+      "\t\u001b[31mmultiloop_test\u001b[m\r\n"
+    ],
+    [
+      0.000002,
+      "\t\u001b[31mshell\u001b[m\r\n\r\n"
+    ],
+    [
+      0.000006,
+      "nothing added to commit but untracked files present (use \"git add\" to track)\r\n"
+    ],
+    [
+      0.000347,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                      \r \r"
+    ],
+    [
+      0.000045,
+      "\u001b]2;jared@Jareds-MacBook-Pro: ~/Data/development/helium/libhelium\u0007"
+    ],
+    [
+      0.000014,
+      "\u001b]1;..ium/libhelium\u0007"
+    ],
+    [
+      0.021033,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36mlibhelium \u001b[01;34mgit:(\u001b[31mbugfix/newer-openssl-cmake\u001b[34m) \u001b[33m✗\u001b[00m\u001b[00m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000005,
+      "\u001b[K"
+    ],
+    [
+      0.000022,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.810014,
+      "g"
+    ],
+    [
+      0.057309,
+      "\u0008gi"
+    ],
+    [
+      0.110144,
+      "t"
+    ],
+    [
+      0.063982,
+      " "
+    ],
+    [
+      0.167871,
+      "s"
+    ],
+    [
+      0.120202,
+      "t"
+    ],
+    [
+      0.127953,
+      "a"
+    ],
+    [
+      0.072009,
+      "t"
+    ],
+    [
+      0.167996,
+      "u"
+    ],
+    [
+      0.104016,
+      "s"
+    ],
+    [
+      0.415881,
+      " "
+    ],
+    [
+      0.184614,
+      "|"
+    ],
+    [
+      0.119307,
+      " "
+    ],
+    [
+      0.336207,
+      "f"
+    ],
+    [
+      0.247653,
+      "p"
+    ],
+    [
+      0.160254,
+      "p"
+    ],
+    [
+      0.279973,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000035,
+      "\r\r\n"
+    ],
+    [
+      0.001758,
+      "\u001b]2;git status | fpp\u0007\u001b]1;git\u0007"
+    ],
+    [
+      0.094849,
+      "\u001b[?1049h\u001b[1;31r\u001b(B\u001b[m\u001b[4l\u001b[?7h\u001b[?1h\u001b="
+    ],
+    [
+      0.006929,
+      "\u001b[39;49m\u001b[?25l"
+    ],
+    [
+      0.000189,
+      "\u001b[39;49m\u001b(B\u001b[m\u001b[H\u001b[2JOn branch \u001b[37m\u001b[41mbugfix/newer-openssl-cmake\r\n\u001b[39;49m\u001b(B\u001b[mYour branch is up-to-date with 'origin/bugfix/newer-openssl-cmake'.\r\nUntracked files:\r\n  (use \"git add \u003cfile\u003e...\" to include in what will be committed)\n\n\u001b[5G\u001b(B\u001b[0;4mCMakeCache.txt\n\u001b[5G\u001b(B\u001b[mCMakeFiles/\n\u001b[5G\u001b(B\u001b[0;4mDoxyfile.out\n\u001b[5G\u001b(B\u001b[mMakefile\n\u001b[5G\u001b(B\u001b[0;4mcmake_install.cmake\n\u001b[5Ginclude/config.h\n\u001b[5Glibhelium.a\n\u001b[5Glibhelium.dylib\n\u001b[5G\u001b(B\u001b[mmultiloop_test\n\u001b[5Gshell\r\n\nnothing added to commit but untracked files present (use \"git add\" to track)\r\u001b[30d_______________________________________________________________________________________________________________________\u001b[31;1H[f|A] selection, [down|j|up|k|space|b] navigation, [enter] open, [c] command mode\u001b[H"
+    ],
+    [
+      0.776827,
+      "\u001b[1;11H\u001b(B\u001b[0;4mbugfix/newer-openssl-cmake\u001b[6;5H\u001b(B\u001b[0m\u001b[37m\u001b[41mCMakeCache.txt\r\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.151535,
+      "    \u001b(B\u001b[0;4mCMakeCache.txt\n\n\u001b[5G\u001b(B\u001b[0m\u001b[37m\u001b[41mDoxyfile.out\r\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.200008,
+      "    \u001b(B\u001b[0;4mDoxyfile.out\n\n\u001b[5G\u001b(B\u001b[0m\u001b[37m\u001b[41mcmake_install.cmake\r\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.210357,
+      "    \u001b(B\u001b[0;4mcmake_install.cmake\n\u001b[5G\u001b(B\u001b[0m\u001b[37m\u001b[41minclude/config.h\r\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.437653,
+      "    \u001b(B\u001b[0;4minclude/config.h\n\u001b[5G\u001b(B\u001b[0m\u001b[37m\u001b[41mlibhelium.a\r\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.519888,
+      "\u001b[A    \u001b[37m\u001b[41minclude/config.h\n\u001b[5G\u001b[39;49m\u001b(B\u001b[0;4mlibhelium.a\r\u001b[A\u001b(B\u001b[m"
+    ],
+    [
+      0.672027,
+      "    \u001b(B\u001b[0;4minclude/config.h\n\u001b[5G\u001b(B\u001b[0m\u001b[37m\u001b[41mlibhelium.a\r\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.191749,
+      "    \u001b(B\u001b[0;4mlibhelium.a\n\u001b[5G\u001b(B\u001b[0m\u001b[37m\u001b[41mlibhelium.dylib\r\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.256234,
+      "\u001b[1;11H\u001b[37m\u001b[41mbugfix/newer-openssl-cmake\u001b[13;5H\u001b[39;49m\u001b(B\u001b[0;4mlibhelium.dylib\u001b[H\u001b(B\u001b[m"
+    ],
+    [
+      0.439777,
+      "\u001b[1;11H\u001b(B\u001b[0;4mbugfix/newer-openssl-cmake\u001b[13;5H\u001b(B\u001b[0m\u001b[37m\u001b[41mlibhelium.dylib\r\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.216233,
+      "\u001b[A    \u001b[37m\u001b[41mlibhelium.a\n\u001b[5G\u001b[39;49m\u001b(B\u001b[0;4mlibhelium.dylib\r\u001b[A\u001b(B\u001b[m"
+    ],
+    [
+      0.175898,
+      "\u001b[A    \u001b[37m\u001b[41minclude/config.h\n\u001b[5G\u001b[39;49m\u001b(B\u001b[0;4mlibhelium.a\r\u001b[A\u001b(B\u001b[m"
+    ],
+    [
+      1.655769,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000009,
+      "\u001b[31;1H\u001b[?12l\u001b[?25h\u001b[?1049l\r\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.010019,
+      "\u001b[?1049h\u001b[?12;25h\u001b[?1h\u001b="
+    ],
+    [
+      0.002134,
+      "\u001b[H\u001b[2J"
+    ],
+    [
+      0.000006,
+      "\u001b[31d\u001b[K\u001b[?1l\u001b\u003e\u001b[?12l\u001b[?25h\u001b[?1049l\u001b[39;49m\r"
+    ],
+    [
+      0.000039,
+      "\u001b[?1049h\u001b[?12;25h\u001b[?1h\u001b="
+    ],
+    [
+      0.168715,
+      "\u001b[\u003e0c"
+    ],
+    [
+      0.000155,
+      "\u001b[H\u001b[2J"
+    ],
+    [
+      0.018907,
+      "\u001b[31d\u001b[?25l\u001b[38;5;188m\u001b[48;5;237m(No files need saving)                                                                                                \u001b[39;49m\r\u001b[H\u001b[38;5;237m\u001b[48;5;188mFile Edit Options Tools Lisp-Interaction Buffers Services Help                                                         \u001b[0m\u001b[39;49m\r\n\u001b[A"
+    ],
+    [
+      0.000065,
+      "\n\u001b[38;5;65m\u001b[48;5;237m;; \u001b[39;49m\u001b[38;5;108m\u001b[48;5;237mThis buffer is for notes you don't want to save, and for Lisp evaluation.                                           \u001b[39;49m\r\n\u001b[A\n\u001b[38;5;65m\u001b[48;5;237m;; \u001b[39;49m\u001b[38;5;108m\u001b[48;5;237mIf you want to create a file, visit that file with C-x C-f,                                                         \u001b[39;49m\r\n\u001b[A\n\u001b[38;5;65m\u001b[48;5;237m;; \u001b[39;49m\u001b[38;5;108m\u001b[48;5;237mthen enter the text in that file's own buffer.                                                                      \u001b[39;49m\r\n\u001b[A\n\u001b[38;5;188m\u001b[48;5;237m                                                                                                                       \u001b[39;49m\r\n\u001b[A\n\u001b[38;5;188m\u001b[48;5;237m                                                                                                                       \u001b[39;49m\r\n\u001b[A"
+    ],
+    [
+      0.000150,
+      "\n\u001b[38;5;188m\u001b[48;5;237m                                                                                                                       \u001b[39;49m\r\n\u001b[A\n\u001b[38;5;188m\u001b[48;5;237m                                                                                                                       \u001b[39;49m\r\n\u001b[A\n\u001b[38;5;188m\u001b[48;5;237m                                                                                                                       \u001b[39;49m\r\n\u001b[A\n\u001b[38;5;188m\u001b[48;5;237m                                                                                                                       \u001b[39;49m\r\n\u001b[A\n\u001b[38;5;188m\u001b[48;5;237m                                                                                                                       \u001b[39;49m\r\n\u001b[A"
+    ],
+    [
+      0.000138,
+      "\n\u001b[38;5;188m\u001b[48;5;237m                                                                                                                       \u001b[39;49m\r\n\u001b[A\n\u001b[38;5;188m\u001b[48;5;237m                                                                                                                       \u001b[39;49m\r\n\u001b[A\n\u001b[38;5;188m\u001b[48;5;237m                                                                                                                       \u001b[39;49m\r\n\u001b[A\n\u001b[38;5;188m\u001b[48;5;237m                                                                                                                       \u001b[39;49m\r\n\u001b[A\n\u001b[38;5;188m\u001b[48;5;237m                                                                                                                       \u001b[39;49m\r\n\u001b[A"
+    ],
+    [
+      0.000089,
+      "\n\u001b[38;5;188m\u001b[48;5;237m                                                                                                                       \u001b[39;49m\r\n\u001b[A\n\u001b[38;5;188m\u001b[48;5;237m                                                                                                                       \u001b[39;49m\r\n\u001b[A\n\u001b[38;5;188m\u001b[48;5;237m                                                                                                                       \u001b[39;49m\r\n\u001b[A\n\u001b[38;5;188m\u001b[48;5;237m                                                                                                                       \u001b[39;49m\r\n\u001b[A\n\u001b[38;5;188m\u001b[48;5;237m                                                                                                                       \u001b[39;49m\r\n\u001b[A\n\u001b[38;5;188m\u001b[48;5;237m                                                                                                                       \u001b[39;49m\r\n\u001b[A\n\u001b[38;5;188m\u001b[48;5;237m                                                                       "
+    ],
+    [
+      0.000106,
+      "                                                \u001b[39;49m\r\n\u001b[A\n\u001b[38;5;188m\u001b[48;5;237m                                                                                                                       \u001b[39;49m\r\n\u001b[A\n\u001b[38;5;188m\u001b[48;5;237m                                                                                                                       \u001b[39;49m\r\n\u001b[A\n\u001b[38;5;188m\u001b[48;5;237m                                                                                                                       \u001b[39;49m\r\n\u001b[A\n\u001b[38;5;188m\u001b[48;5;237m                                                                                                                       \u001b[39;49m\r\n\u001b[A\n\u001b[38;5;188m\u001b[48;5;237m                                                                                                                       \u001b[39;49m\r\n\u001b[A\n\u001b[38;5;188m\u001b[48;5;237m                                                                                                                       \u001b[39;49m\r\n\u001b[A\n\u001b[38;5;108m\u001b[48;5;235m-UU-:@----"
+    ],
+    [
+      0.000013,
+      "F4  \u001b[39;49m\u001b[1m\u001b[38;5;223m\u001b[48;5;235m*scratch*   \u001b[0m\u001b[39;49m\u001b[38;5;108m\u001b[48;5;235m   All of 191  (5,0)      (Lisp Interaction Projectile[] Pre) -------------------------------\u001b[39;49m\r\n\u001b[A\u001b[6d\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.251859,
+      "\u001b[31d\u001b[?25l\u001b[38;5;188m\u001b[48;5;237mWhen done with a buffer, type C-x #                                                                                   \u001b[39;49m\r\u001b[6d\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.022934,
+      "\u001b[31d\u001b[?25l\u001b[38;5;188m\u001b[48;5;237mWhen done with a buffer, type C-x #                                                                                   \u001b[39;49m\r\u001b[H\u001b[38;5;237m\u001b[48;5;188mFile Edit Options Tools C Buffers Services Help                                                                        \u001b[0m\u001b[39;49m\r\n\u001b[A"
+    ],
+    [
+      0.000044,
+      "\n\u001b[38;5;65m\u001b[48;5;237m/*\u001b[39;49m\u001b[38;5;108m\u001b[48;5;237m--------------------------------------------------------------------------                                           \u001b[39;49m\r\n\u001b[A\n\u001b[38;5;108m\u001b[48;5;237m * This file is autogenerated from config.h.in                                                                         \u001b[39;49m\r\n\u001b[A\n\u001b[38;5;108m\u001b[48;5;237m * during the cmake configuration of your project. If you need to make changes                                         \u001b[39;49m\r\n\u001b[A\n\u001b[38;5;108m\u001b[48;5;237m * edit the original file NOT THIS FILE.                                                                               \u001b[39;49m\r\n\u001b[A\n\u001b[38;5;108m\u001b[48;5;237m *--------------------------------------------------------------------------\u001b[39;49m\u001b[38;5;65m\u001b[48;5;237m*/\u001b[39;49m\u001b[38;5;188m\u001b[48;5;237m                                         \u001b[39;49m\r\n\u001b[A"
+    ],
+    [
+      0.000105,
+      "\n\u001b[1m\u001b[38;5;111m\u001b[48;5;237m#ifndef\u001b[0m\u001b[39;49m\u001b[38;5;188m\u001b[48;5;237m _CONFIGURATION_HEADER_GUARD_H_                                                                                 \u001b[39;49m\r\n\u001b[A\n\u001b[1m\u001b[38;5;111m\u001b[48;5;237m#define\u001b[0m\u001b[39;49m\u001b[38;5;188m\u001b[48;5;237m \u001b[39;49m\u001b[38;5;180m\u001b[48;5;237m_CONFIGURATION_HEADER_GUARD_H_\u001b[39;49m\u001b[38;5;188m\u001b[48;5;237m                                                                                 \u001b[39;49m\r\n\u001b[A\n\u001b[38;5;188m\u001b[48;5;237m                                                                                                                       \u001b[39;49m\r\n\u001b[A\n\u001b[38;5;65m\u001b[48;5;237m/* \u001b[39;49m\u001b[38;5;108m\u001b[48;5;237mDefine to 1 if you have the \u003cstdint.h\u003e header file. \u001b[39;49m\u001b[38;5;65m\u001b[48;5;237m*/\u001b[39;49m\u001b[38;5;188m\u001b[48;5;237m                                                              \u001b[39;49m\r\n\u001b[A\n\u001b[1m\u001b[38;5;111m\u001b[48;5;237m#define\u001b[0m\u001b[39;49m\u001b[38;5;188m\u001b[48;5;237m \u001b[39;49m\u001b[38;5;180m\u001b[48;5;237mHAVE_VSNPRINTF\u001b[39;49m\u001b[38;5;188m\u001b[48;5;237m 1                                   "
+    ],
+    [
+      0.000024,
+      "                                                            \u001b[39;49m\r\n\u001b[A"
+    ],
+    [
+      0.000101,
+      "\n\u001b[1m\u001b[38;5;111m\u001b[48;5;237m#define\u001b[0m\u001b[39;49m\u001b[38;5;188m\u001b[48;5;237m \u001b[39;49m\u001b[38;5;180m\u001b[48;5;237mHAVE_SNPRINTF\u001b[39;49m\u001b[38;5;188m\u001b[48;5;237m 1                                                                                                \u001b[39;49m\r\n\u001b[A\n\u001b[1m\u001b[38;5;111m\u001b[48;5;237m#define\u001b[0m\u001b[39;49m\u001b[38;5;188m\u001b[48;5;237m \u001b[39;49m\u001b[38;5;180m\u001b[48;5;237mHAVE_VASPRINTF\u001b[39;49m\u001b[38;5;188m\u001b[48;5;237m 1                                                                                               \u001b[39;49m\r\n\u001b[A\n\u001b[1m\u001b[38;5;111m\u001b[48;5;237m#define\u001b[0m\u001b[39;49m\u001b[38;5;188m\u001b[48;5;237m \u001b[39;49m\u001b[38;5;180m\u001b[48;5;237mHAVE_ASPRINTF\u001b[39;49m\u001b[38;5;188m\u001b[48;5;237m 1                                                                                                \u001b[39;49m\r\n\u001b[A\n\u001b[38;5;188m\u001b[48;5;237m                                                                                                                       \u001b[39;49m\r\n\u001b[A"
+    ],
+    [
+      0.000058,
+      "\n\u001b[1m\u001b[38;5;111m\u001b[48;5;237m#define\u001b[0m\u001b[39;49m\u001b[38;5;188m\u001b[48;5;237m \u001b[39;49m\u001b[38;5;180m\u001b[48;5;237mHAVE_STDARG_H\u001b[39;49m\u001b[38;5;188m\u001b[48;5;237m 1                                                                                                \u001b[39;49m\r\n\u001b[A"
+    ],
+    [
+      0.000081,
+      "\n\u001b[1m\u001b[38;5;111m\u001b[48;5;237m#define\u001b[0m\u001b[39;49m\u001b[38;5;188m\u001b[48;5;237m \u001b[39;49m\u001b[38;5;180m\u001b[48;5;237mHAVE_STDDEF_H\u001b[39;49m\u001b[38;5;188m\u001b[48;5;237m                                                                                                  \u001b[39;49m\r\n\u001b[A\n\u001b[1m\u001b[38;5;111m\u001b[48;5;237m#define\u001b[0m\u001b[39;49m\u001b[38;5;188m\u001b[48;5;237m \u001b[39;49m\u001b[38;5;180m\u001b[48;5;237mHAVE_STDINT_H\u001b[39;49m\u001b[38;5;188m\u001b[48;5;237m 1                                                                                                \u001b[39;49m\r\n\u001b[A\n\u001b[1m\u001b[38;5;111m\u001b[48;5;237m#define\u001b[0m\u001b[39;49m\u001b[38;5;188m\u001b[48;5;237m \u001b[39;49m\u001b[38;5;180m\u001b[48;5;237mHAVE_STDLIB_H\u001b[39;49m\u001b[38;5;188m\u001b[48;5;237m 1                                                                                                \u001b[39;49m\r\n\u001b[A\n\u001b[1m\u001b[38;5;111m\u001b[48;5;237m#define\u001b[0m\u001b[39;49m\u001b[38;5;188m\u001b[48;5;237m \u001b[39;49m\u001b[38;5;180m\u001b[48;5;237mHAVE_INTTYPES_H\u001b[39;49m\u001b[38;5;188m\u001b[48;5;237m 1                                                                                              \u001b[39;49m\r\n\u001b[A"
+    ],
+    [
+      0.000031,
+      "\n\u001b[1m\u001b[38;5;111m\u001b[48;5;237m#define\u001b[0m\u001b[39;49m\u001b[38;5;188m\u001b[48;5;237m \u001b[39;49m\u001b[38;5;180m\u001b[48;5;237mHAVE_LOCALE_H\u001b[39;49m\u001b[38;5;188m\u001b[48;5;237m 1                                                                                                \u001b[39;49m\r\n\u001b[A"
+    ],
+    [
+      0.000099,
+      "\n\u001b[38;5;188m\u001b[48;5;237m                                                                                                                       \u001b[39;49m\r\n\u001b[A\n\u001b[1m\u001b[38;5;111m\u001b[48;5;237m#define\u001b[0m\u001b[39;49m\u001b[38;5;188m\u001b[48;5;237m \u001b[39;49m\u001b[38;5;180m\u001b[48;5;237mHAVE_LOCALECONV\u001b[39;49m\u001b[38;5;188m\u001b[48;5;237m 1                                                                                              \u001b[39;49m\r\n\u001b[A\n\u001b[38;5;65m\u001b[48;5;237m/* \u001b[39;49m\u001b[38;5;108m\u001b[48;5;237m#undef HAVE_LCONV_DECIMAL_POINT \u001b[39;49m\u001b[38;5;65m\u001b[48;5;237m*/\u001b[39;49m\u001b[38;5;188m\u001b[48;5;237m                                                                                  \u001b[39;49m\r\n\u001b[A\n\u001b[38;5;188m\u001b[48;5;237m                                                                                                                       \u001b[39;49m\r\n\u001b[A\n\u001b[1m\u001b[38;5;111m\u001b[48;5;237m#endif\u001b[0m\u001b[39;49m\u001b[38;5;188m\u001b[48;5;237m                                                                                                                 \u001b[39;49m\r\n\u001b[A"
+    ],
+    [
+      0.000097,
+      "\n\u001b[38;5;188m\u001b[48;5;237m                                                                                                                       \u001b[39;49m\r\n\u001b[A\n\u001b[38;5;188m\u001b[48;5;237m                                                                                                                       \u001b[39;49m\r\n\u001b[A\n\u001b[38;5;188m\u001b[48;5;237m                                                                                                                       \u001b[39;49m\r\n\u001b[A\n\u001b[38;5;108m\u001b[48;5;235m-UU-:@----F4  \u001b[39;49m\u001b[1m\u001b[38;5;223m\u001b[48;5;235mconfig.h    \u001b[0m\u001b[39;49m\u001b[38;5;108m\u001b[48;5;235m   All of 778  (1,0)      (C/l Server Projectile[libhelium] Pre Abbrev) ---------------------\u001b[39;49m\r\n\u001b[A\u001b[2d\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      2.189864,
+      "\u001b[31d\u001b[?25l\u001b[38;5;188m\u001b[48;5;237m                                   \u001b[39;49m\u001b[H\n\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.200013,
+      "\u001b[31d\u001b[?25l\u001b[38;5;188m\u001b[48;5;237m(No files need saving)\u001b[39;49m\u001b[H\n\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.000344,
+      "\u001b[31d\u001b[K\u001b[?1l\u001b\u003e\u001b[?12l\u001b[?25h\u001b[?1049l\u001b[39;49m\r"
+    ],
+    [
+      0.000923,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                      \r \r"
+    ],
+    [
+      0.000055,
+      "\u001b]2;jared@Jareds-MacBook-Pro: ~/Data/development/helium/libhelium\u0007"
+    ],
+    [
+      0.000024,
+      "\u001b]1;..ium/libhelium\u0007"
+    ],
+    [
+      0.020479,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36mlibhelium \u001b[01;34mgit:(\u001b[31mbugfix/newer-openssl-cmake\u001b[34m) \u001b[33m✗\u001b[00m\u001b[00m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000005,
+      "\u001b[K"
+    ],
+    [
+      0.000053,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.888717,
+      "\r\r\n"
+    ]
+  ]
+}
