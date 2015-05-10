@@ -1,0 +1,1878 @@
+{
+  "version": 1,
+  "width": 116,
+  "height": 36,
+  "duration": 127.553136,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "rxvt-unicode",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.056647,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                   \r \r"
+    ],
+    [
+      0.007664,
+      "\u001b]2;simon@nikita: /tmp\u0007"
+    ],
+    [
+      0.000006,
+      "\u001b]1;/tmp\u0007"
+    ],
+    [
+      0.000186,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[31m[\u001b[36m02:19\u001b[31m] \u001b[31m\u003c\u001b[32msimon@nikita\u001b[39m:\u001b[36m/tmp\u001b[31m\u003e \u001b[39m\u001b[1m%\u001b[0m "
+    ],
+    [
+      0.000004,
+      "\u001b[K"
+    ],
+    [
+      0.000070,
+      "\u001b="
+    ],
+    [
+      0.769150,
+      "g"
+    ],
+    [
+      0.000031,
+      "\u0008gi"
+    ],
+    [
+      0.000049,
+      "t"
+    ],
+    [
+      0.000008,
+      " "
+    ],
+    [
+      0.000057,
+      "c"
+    ],
+    [
+      0.000011,
+      "l"
+    ],
+    [
+      0.000031,
+      "o"
+    ],
+    [
+      0.000030,
+      "n"
+    ],
+    [
+      0.000030,
+      "e"
+    ],
+    [
+      0.000013,
+      " "
+    ],
+    [
+      0.000034,
+      "h"
+    ],
+    [
+      0.000035,
+      "t"
+    ],
+    [
+      0.000031,
+      "t"
+    ],
+    [
+      0.000030,
+      "p"
+    ],
+    [
+      0.000030,
+      "s"
+    ],
+    [
+      0.000030,
+      ":"
+    ],
+    [
+      0.000030,
+      "/"
+    ],
+    [
+      0.000030,
+      "/"
+    ],
+    [
+      0.000030,
+      "g"
+    ],
+    [
+      0.000030,
+      "i"
+    ],
+    [
+      0.000030,
+      "t"
+    ],
+    [
+      0.000030,
+      "l"
+    ],
+    [
+      0.000030,
+      "a"
+    ],
+    [
+      0.000030,
+      "b"
+    ],
+    [
+      0.000038,
+      "."
+    ],
+    [
+      0.000023,
+      "d"
+    ],
+    [
+      0.000023,
+      "e"
+    ],
+    [
+      0.000023,
+      "b"
+    ],
+    [
+      0.000023,
+      "l"
+    ],
+    [
+      0.000023,
+      "a"
+    ],
+    [
+      0.000023,
+      "n"
+    ],
+    [
+      0.000023,
+      "."
+    ],
+    [
+      0.000023,
+      "o"
+    ],
+    [
+      0.000023,
+      "r"
+    ],
+    [
+      0.000023,
+      "g"
+    ],
+    [
+      0.000023,
+      "/"
+    ],
+    [
+      0.000023,
+      "d"
+    ],
+    [
+      0.000023,
+      "e"
+    ],
+    [
+      0.000023,
+      "b"
+    ],
+    [
+      0.000023,
+      "l"
+    ],
+    [
+      0.000023,
+      "a"
+    ],
+    [
+      0.000023,
+      "n"
+    ],
+    [
+      0.000023,
+      "/"
+    ],
+    [
+      0.000023,
+      "g"
+    ],
+    [
+      0.000023,
+      "i"
+    ],
+    [
+      0.000023,
+      "s"
+    ],
+    [
+      0.000023,
+      "t"
+    ],
+    [
+      0.000023,
+      "."
+    ],
+    [
+      0.000023,
+      "g"
+    ],
+    [
+      0.000023,
+      "i"
+    ],
+    [
+      0.000023,
+      "t"
+    ],
+    [
+      1.029158,
+      "\u001b\u003e"
+    ],
+    [
+      0.000004,
+      "\r\r\n"
+    ],
+    [
+      0.000527,
+      "\u001b]2;git clone https://gitlab.deblan.org/deblan/gist.git\u0007\u001b]1;git\u0007"
+    ],
+    [
+      0.001594,
+      "Clonage dans 'gist'...\r\n"
+    ],
+    [
+      0.258965,
+      "remote: Counting objects: 518, done.\u001b[K\r\nremote: Compressing objects:   0% (1/458)   \u001b[K\rremote: Compressing objects:   1% (5/458)   \u001b[K\rremote: Compressing objects:   2% (10/458)   \u001b[K\rremote: Compressing objects:   3% (14/458)   \u001b[K\rremote: Compressing objects:   4% (19/458)   \u001b[K\r"
+    ],
+    [
+      0.000008,
+      "remote: Compressing objects:   5% (23/458)   \u001b[K\rremote: Compressing objects:   6% (28/458)   \u001b[K\rremote: Compressing objects:   7% (33/458)   \u001b[K\rremote: Compressing objects:   8% (37/458)   \u001b[K\rremote: Compressing objects:   9% (42/458)   \u001b[K\rremote: Compressing objects:  10% (46/458)   \u001b[K\rremote: Compressing objects:  11% (51/458)   \u001b[K\rremote: Compressing objects:  12% (55/458)   \u001b[K\rremote: Compressing objects:  13% (60/458)   \u001b[K\r"
+    ],
+    [
+      0.000009,
+      "remote: Compressing objects:  14% (65/458)   \u001b[K\rremote: Compressing objects:  15% (69/458)   \u001b[K\rremote: Compressing objects:  16% (74/458)   \u001b[K\r"
+    ],
+    [
+      0.000003,
+      "remote: Compressing objects:  17% (78/458)   \u001b[K\rremote: Compressing objects:  18% (83/458)   \u001b[K\r"
+    ],
+    [
+      0.000005,
+      "remote: Compressing objects:  19% (88/458)   \u001b[K\rremote: Compressing objects:  20% (92/458)   \u001b[K\r"
+    ],
+    [
+      0.000002,
+      "remote: Compressing objects:  21% (97/458)   \u001b[K\r"
+    ],
+    [
+      0.000035,
+      "remote: Compressing objects:  22% (101/458)   \u001b[K\rremote: Compressing objects:  23% (106/458)   \u001b[K\rremote: Compressing objects:  24% (110/458)   \u001b[K\rremote: Compressing objects:  25% (115/458)   \u001b[K\rremote: Compressing objects:  26% (120/458)   \u001b[K\rremote: Compressing objects:  27% (124/458)   \u001b[K\rremote: Compressing objects:  28% (129/458)   \u001b[K\rremote: Compressing objects:  29% (133/458)   \u001b[K\r"
+    ],
+    [
+      0.000008,
+      "remote: Compressing objects:  30% (138/458)   \u001b[K\rremote: Compressing objects:  31% (142/458)   \u001b[K\rremote: Compressing objects:  32% (147/458)   \u001b[K\rremote: Compressing objects:  33% (152/458)   \u001b[K\rremote: Compressing objects:  34% (156/458)   \u001b[K\rremote: Compressing objects:  35% (161/458)   \u001b[K\rremote: Compressing objects:  36% (165/458)   \u001b[K\r"
+    ],
+    [
+      0.000257,
+      "remote: Compressing objects:  37% (170/458)   \u001b[K\rremote: Compressing objects:  38% (175/458)   \u001b[K\rremote: Compressing objects:  39% (179/458)   \u001b[K\rremote: Compressing objects:  40% (184/458)   \u001b[K\rremote: Compressing objects:  41% (188/458)   \u001b[K\rremote: Compressing objects:  42% (193/458)   \u001b[K\rremote: Compressing objects:  43% (197/458)   \u001b[K\rremote: Compressing objects:  44% (202/458)   \u001b[K\rremote: Compressing objects:  45% (207/458)   \u001b[K\rremote: Compressing objects:  46% (211/458)   \u001b[K\rremote: Compressing objects:  47% (216/458)   \u001b[K\rremote: Compressing objects:  48% (220/458)   \u001b[K\rremote: Compressing objects:  49% (225/458)   \u001b[K\rremote: Compressing objects:  50% (229/458)   \u001b[K\rremote: Compressing objects:  51% (234/458)   \u001b[K\rremote: Compressing objects:  52% (239/458)   \u001b[K\rremote: Compressing objects:  53% (243/458)   \u001b[K\rremote: Compressing objects:  54% (248/458)   \u001b[K\rremote: Compressing objects:  55% (252/458)   \u001b[K\rremote: Compressing objects:  56% (257/458)   \u001b[K\rremote: Compressing objects:  57% (262/458)   \u001b[K\rremote: Compressing objects:  58% (266/458)   \u001b[K\rremote: Compressing objects:  59% (271/458)   \u001b[K\rremote: Compressing objects:  60% (275/458)   \u001b[K\rremote: Compressing objects:  61% (280/458)   \u001b[K\rremote: Compressing objects:  62% (284/458)   \u001b[K\rremote: Compressing objects:  63% (289/458)   \u001b[K\rremote: Compressing objects:  64% (294/458)   \u001b[K\rremote: Compressing objects:  65% (298/458)   \u001b[K\rremote: Compressing objects:  66% (303/458)   \u001b[K\rremote: Compressing objects:  67% (307/458)   \u001b[K\rremote: Compressing objects:  68% (312/458)   \u001b[K\rremote: Compressing objects:  69% (317/458)   \u001b[K\rremote: Compressing objects:  70% (321/458)   \u001b[K\rremote: Compressing objects:  71% (326/458)   \u001b[K\rremote: Compressing objects:  72% (330/458)   \u001b[K\rremote: Compressing objects:  73% (335/458)   \u001b[K\rremote: Compressing objects:  74% (339/458)   \u001b[K\rremote: Compressing objects:  75% (344/458)   \u001b[K\rremote: Compressing objects:  76% (349/458)   \u001b[K\rremote: Compressing objects:  77% (353/458)   \u001b[K\rremote: Compressing objects:  78% (358/458)   \u001b[K\rremote: Compressing objects:  79% (362/458)   \u001b[K\rremote: Compressing objects:  80% (367/458)   \u001b[K\rremote: Compressing objects:  81% (371/458)   \u001b[K\rremote: Compressing objects:  82% (376/458)   \u001b[K\rremote: Compressing objects:  83% (381/458)   \u001b[K\rremote: Compressing objects:  84% (385/458)   \u001b[K\rremote: Compressing objects:  85% (390/458)   \u001b[K\rremote: Compressing objects:  86% (394/458)   \u001b[K\rremote: Compressing objects:  87% (399/458)   \u001b[K\rremote: Compressing objects:  88% (404/458)   \u001b[K\rremote: Compressing objects:  89% (408/458)   \u001b[K\rremote: Compressing objects:  90% (413/458)   \u001b[K\rremote: Compressing objects:  91% (417/458)   \u001b[K\rremote: Compressing objects:  92% (422/458)   \u001b[K\rremote: Compressing objects:  93% (426/458)   \u001b[K\rremote: Compressing objects:  94% (431/458)   \u001b[K\rremote: Compressing objects:  95% (436/458)   \u001b[K\rremote: Compressing objects:  96% (440/458)   \u001b[K\rremote: Compressing objects:  97% (445/458)   \u001b[K\rremote: Compressing objects:  98% (449/458)   \u001b[K\rremote: Compressing objects:  99% (454/458)   \u001b[K\rremote: Compressing objects: 100% (458/458)   \u001b[K\rremote: Compressing objects: 100% (458/458), done.\u001b[K\r\n"
+    ],
+    [
+      0.001366,
+      "Réception d'objets:   0% (1/518)   \r"
+    ],
+    [
+      0.000097,
+      "Réception d'objets:   1% (6/518)   \r"
+    ],
+    [
+      0.000087,
+      "Réception d'objets:   2% (11/518)   \r"
+    ],
+    [
+      0.000085,
+      "Réception d'objets:   3% (16/518)   \r"
+    ],
+    [
+      0.000075,
+      "Réception d'objets:   4% (21/518)   \r"
+    ],
+    [
+      0.000066,
+      "Réception d'objets:   5% (26/518)   \r"
+    ],
+    [
+      0.000101,
+      "Réception d'objets:   6% (32/518)   \r"
+    ],
+    [
+      0.000072,
+      "Réception d'objets:   7% (37/518)   \r"
+    ],
+    [
+      0.000079,
+      "Réception d'objets:   8% (42/518)   \r"
+    ],
+    [
+      0.012748,
+      "Réception d'objets:   9% (47/518)   \r"
+    ],
+    [
+      0.000120,
+      "Réception d'objets:  10% (52/518)   \r"
+    ],
+    [
+      0.000073,
+      "Réception d'objets:  11% (57/518)   \r"
+    ],
+    [
+      0.000139,
+      "Réception d'objets:  12% (63/518)   \r"
+    ],
+    [
+      0.000077,
+      "Réception d'objets:  13% (68/518)   \r"
+    ],
+    [
+      0.010338,
+      "Réception d'objets:  14% (73/518)   \r"
+    ],
+    [
+      0.000115,
+      "Réception d'objets:  15% (78/518)   \r"
+    ],
+    [
+      0.000087,
+      "Réception d'objets:  16% (83/518)   \r"
+    ],
+    [
+      0.000224,
+      "Réception d'objets:  17% (89/518)   \r"
+    ],
+    [
+      0.000132,
+      "Réception d'objets:  18% (94/518)   \r"
+    ],
+    [
+      0.000238,
+      "Réception d'objets:  19% (99/518)   \r"
+    ],
+    [
+      0.000114,
+      "Réception d'objets:  20% (104/518)   \r"
+    ],
+    [
+      0.000067,
+      "Réception d'objets:  21% (109/518)   \r"
+    ],
+    [
+      0.000106,
+      "Réception d'objets:  22% (114/518)   \r"
+    ],
+    [
+      0.008051,
+      "Réception d'objets:  23% (120/518)   \r"
+    ],
+    [
+      0.025687,
+      "Réception d'objets:  24% (125/518)   \rRéception d'objets:  25% (130/518)   \r"
+    ],
+    [
+      0.007394,
+      "Réception d'objets:  26% (135/518)   \rRéception d'objets:  27% (140/518)   \rRéception d'objets:  28% (146/518)   \rRéception d'objets:  29% (151/518)   \rRéception d'objets:  30% (156/518)   \rRéception d'objets:  31% (161/518)   \rRéception d'objets:  32% (166/518)   \rRéception d'objets:  33% (171/518)   \rRéception d'objets:  34% (177/518)   \rRéception d'objets:  35% (182/518)   \rRéception d'objets:  36% (187/518)   \rRéception d'objets:  37% (192/518)   \rRéception d'objets:  38% (197/518)   \rRéception d'objets:  39% (203/518)   \rRéception d'objets:  40% (208/518)   \rRéception d'objets:  41% (213/518)   \rRéception d'objets:  42% (218/518)   \rRéception d'objets:  43% (223/518)   \rRéception d'objets:  44% (228/518)   \rRéception d'objets:  45% (234/518)   \rRéception d'objets:  46% (239/518)   \rRéception d'objets:  47% (244/518)   \rRéception d'objets:  48% (249/518)   \rRéception d'objets:  49% (254/518)   \rRéception d'objets:  50% (259/518)   \rRéception d'objets:  51% (265/518)   \rRéception d'objets:  52% (270/518)   \rRéception d'objets:  53% (275/518)   \rRéception d'objets:  54% (280/518)   \rRéception d'objets:  55% (285/518)   \rRéception d'objets:  56% (291/518)   \rRéception d'objets:  57% (296/518)   \rRéception d'objets:  58% (301/518)   \rRéception d'objets:  59% (306/518)   \rRéception d'objets:  60% (311/518)   \rRéception d'objets:  61% (316/518)   \rRéception d'objets:  62% (322/518)   \rRéception d'objets:  63% (327/518)   \rRéception d'objets:  64% (332/518)   \rRéception d'objets:  65% (337/518)   \r"
+    ],
+    [
+      0.005017,
+      "remote: Total 518 (delta 239), reused 0 (delta 0)\u001b[K\r\n"
+    ],
+    [
+      0.001226,
+      "Réception d'objets:  66% (342/518)   \rRéception d'objets:  67% (348/518)   \rRéception d'objets:  68% (353/518)   \rRéception d'objets:  69% (358/518)   \rRéception d'objets:  70% (363/518)   \rRéception d'objets:  71% (368/518)   \rRéception d'objets:  72% (373/518)   \rRéception d'objets:  73% (379/518)   \rRéception d'objets:  74% (384/518)   \rRéception d'objets:  75% (389/518)   \rRéception d'objets:  76% (394/518)   \rRéception d'objets:  77% (399/518)   \rRéception d'objets:  78% (405/518)   \rRéception d'objets:  79% (410/518)   \rRéception d'objets:  80% (415/518)   \rRéception d'objets:  81% (420/518)   \rRéception d'objets:  82% (425/518)   \rRéception d'objets:  83% (430/518)   \rRéception d'objets:  84% (436/518)   \rRéception d'objets:  85% (441/518)   \rRéception d'objets:  86% (446/518)   \rRéception d'objets:  87% (451/518)   \rRéception d'objets:  88% (456/518)   \rRéception d'objets:  89% (462/518)   \rRéception d'objets:  90% (467/518)   \rRéception d'objets:  91% (472/518)   \rRéception d'objets:  92% (477/518)   \rRéception d'objets:  93% (482/518)   \rRéception d'objets:  94% (487/518)   \rRéception d'objets:  95% (493/518)   \rRéception d'objets:  96% (498/518)   \rRéception d'objets:  97% (503/518)   \rRéception d'objets:  98% (508/518)   \rRéception d'objets:  99% (513/518)   \rRéception d'objets: 100% (518/518)   \rRéception d'objets: 100% (518/518), 119.64 KiB | 0 bytes/s, fait.\r\n"
+    ],
+    [
+      0.000009,
+      "Résolution des deltas:   0% (0/239)   \r"
+    ],
+    [
+      0.000372,
+      "Résolution des deltas:   8% (21/239)   \r"
+    ],
+    [
+      0.000031,
+      "Résolution des deltas:   9% (23/239)   \r"
+    ],
+    [
+      0.000003,
+      "Résolution des deltas:  10% (24/239)   \r"
+    ],
+    [
+      0.000148,
+      "Résolution des deltas:  13% (32/239)   \rRésolution des deltas:  15% (36/239)   \r"
+    ],
+    [
+      0.000008,
+      "Résolution des deltas:  16% (39/239)   \r"
+    ],
+    [
+      0.000028,
+      "Résolution des deltas:  17% (41/239)   \r"
+    ],
+    [
+      0.000026,
+      "Résolution des deltas:  18% (44/239)   \r"
+    ],
+    [
+      0.000039,
+      "Résolution des deltas:  20% (48/239)   \r"
+    ],
+    [
+      0.000033,
+      "Résolution des deltas:  21% (51/239)   \r"
+    ],
+    [
+      0.000053,
+      "Résolution des deltas:  23% (57/239)   \r"
+    ],
+    [
+      0.000074,
+      "Résolution des deltas:  26% (64/239)   \r"
+    ],
+    [
+      0.000134,
+      "Résolution des deltas:  32% (77/239)   \r"
+    ],
+    [
+      0.000035,
+      "Résolution des deltas:  33% (80/239)   \r"
+    ],
+    [
+      0.000030,
+      "Résolution des deltas:  34% (83/239)   \r"
+    ],
+    [
+      0.000029,
+      "Résolution des deltas:  35% (85/239)   \r"
+    ],
+    [
+      0.000013,
+      "Résolution des deltas:  36% (87/239)   \r"
+    ],
+    [
+      0.000236,
+      "Résolution des deltas:  46% (111/239)   \r"
+    ],
+    [
+      0.000029,
+      "Résolution des deltas:  47% (114/239)   \r"
+    ],
+    [
+      0.000026,
+      "Résolution des deltas:  48% (116/239)   \r"
+    ],
+    [
+      0.000025,
+      "Résolution des deltas:  49% (119/239)   \r"
+    ],
+    [
+      0.000061,
+      "Résolution des deltas:  51% (124/239)   \r"
+    ],
+    [
+      0.000076,
+      "Résolution des deltas:  54% (130/239)   \r"
+    ],
+    [
+      0.000099,
+      "Résolution des deltas:  58% (141/239)   \r"
+    ],
+    [
+      0.000022,
+      "Résolution des deltas:  59% (143/239)   \r"
+    ],
+    [
+      0.000114,
+      "Résolution des deltas:  64% (153/239)   \r"
+    ],
+    [
+      0.000044,
+      "Résolution des deltas:  65% (157/239)   \r"
+    ],
+    [
+      0.000051,
+      "Résolution des deltas:  66% (160/239)   \r"
+    ],
+    [
+      0.000064,
+      "Résolution des deltas:  68% (163/239)   \r"
+    ],
+    [
+      0.000167,
+      "Résolution des deltas:  73% (175/239)   \r"
+    ],
+    [
+      0.000023,
+      "Résolution des deltas:  74% (177/239)   \r"
+    ],
+    [
+      0.000032,
+      "Résolution des deltas:  75% (180/239)   \r"
+    ],
+    [
+      0.000016,
+      "Résolution des deltas:  76% (182/239)   \r"
+    ],
+    [
+      0.000036,
+      "Résolution des deltas:  77% (185/239)   \r"
+    ],
+    [
+      0.000103,
+      "Résolution des deltas:  79% (190/239)   \r"
+    ],
+    [
+      0.000040,
+      "Résolution des deltas:  80% (193/239)   \r"
+    ],
+    [
+      0.000035,
+      "Résolution des deltas:  82% (197/239)   \r"
+    ],
+    [
+      0.000049,
+      "Résolution des deltas:  84% (203/239)   \r"
+    ],
+    [
+      0.000035,
+      "Résolution des deltas:  86% (207/239)   \r"
+    ],
+    [
+      0.000003,
+      "Résolution des deltas:  87% (208/239)   \r"
+    ],
+    [
+      0.000037,
+      "Résolution des deltas:  88% (212/239)   \r"
+    ],
+    [
+      0.000026,
+      "Résolution des deltas:  89% (215/239)   \r"
+    ],
+    [
+      0.000003,
+      "Résolution des deltas:  90% (216/239)   \r"
+    ],
+    [
+      0.000025,
+      "Résolution des deltas:  91% (218/239)   \r"
+    ],
+    [
+      0.000018,
+      "Résolution des deltas:  92% (220/239)   \r"
+    ],
+    [
+      0.000070,
+      "Résolution des deltas:  94% (227/239)   \r"
+    ],
+    [
+      0.000028,
+      "Résolution des deltas:  96% (230/239)   \r"
+    ],
+    [
+      0.000041,
+      "Résolution des deltas:  97% (232/239)   \r"
+    ],
+    [
+      0.000019,
+      "Résolution des deltas:  98% (235/239)   \r"
+    ],
+    [
+      0.000015,
+      "Résolution des deltas:  99% (237/239)   \r"
+    ],
+    [
+      0.000081,
+      "Résolution des deltas: 100% (239/239)   \r"
+    ],
+    [
+      0.000219,
+      "Résolution des deltas: 100% (239/239), fait.\r\n"
+    ],
+    [
+      0.010434,
+      "Vérification de la connectivité... "
+    ],
+    [
+      0.001898,
+      "fait.\r\n"
+    ],
+    [
+      0.006801,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                   \r \r"
+    ],
+    [
+      0.007511,
+      "\u001b]2;simon@nikita: /tmp\u0007\u001b]1;/tmp\u0007"
+    ],
+    [
+      0.000083,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[31m[\u001b[36m02:19\u001b[31m] \u001b[31m\u003c\u001b[32msimon@nikita\u001b[39m:\u001b[36m/tmp\u001b[31m\u003e \u001b[39m\u001b[1m%\u001b[0m \u001b[K"
+    ],
+    [
+      0.000013,
+      "\u001b="
+    ],
+    [
+      3.730903,
+      "c"
+    ],
+    [
+      0.071969,
+      "\u0008cd"
+    ],
+    [
+      0.167850,
+      " "
+    ],
+    [
+      0.312184,
+      "g"
+    ],
+    [
+      0.183983,
+      "i"
+    ],
+    [
+      0.144002,
+      "s"
+    ],
+    [
+      0.134529,
+      "t\u001b[1m/\u001b[0m"
+    ],
+    [
+      0.633670,
+      "\u0008\u001b[0m \u0008"
+    ],
+    [
+      0.000008,
+      "\u001b\u003e"
+    ],
+    [
+      0.000055,
+      "\r\r\n"
+    ],
+    [
+      0.000718,
+      "\u001b]2;cd gist\u0007\u001b]1;cd\u0007"
+    ],
+    [
+      0.000110,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                   \r \r"
+    ],
+    [
+      0.020935,
+      "\u001b]2;simon@nikita: /tmp/gist\u0007"
+    ],
+    [
+      0.000006,
+      "\u001b]1;/tmp/gist\u0007"
+    ],
+    [
+      0.000150,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[31m[\u001b[36m02:19\u001b[31m] \u001b[31m\u003c\u001b[32msimon@nikita\u001b[39m:\u001b[36m/tmp/gist\u001b[31m\u003e \u001b[39m\u001b[1m%\u001b[0m \u001b[K"
+    ],
+    [
+      0.000023,
+      "\u001b="
+    ],
+    [
+      0.593820,
+      "m"
+    ],
+    [
+      0.127958,
+      "\u0008ma"
+    ],
+    [
+      0.160005,
+      "k"
+    ],
+    [
+      0.240000,
+      "e"
+    ],
+    [
+      1.760590,
+      "\u001b\u003e\r\r\n\u001b]2;make\u0007\u001b]1;make\u0007"
+    ],
+    [
+      0.002056,
+      "\r\n"
+    ],
+    [
+      0.000112,
+      "#\r\n"
+    ],
+    [
+      0.000523,
+      "# Updating application's depencies.\r\n"
+    ],
+    [
+      0.000515,
+      "#\r\n"
+    ],
+    [
+      0.000521,
+      "git pull origin master\r\n"
+    ],
+    [
+      0.169913,
+      "Depuis https://gitlab.deblan.org/deblan/gist\r\n * branch            master     -\u003e FETCH_HEAD\r\n"
+    ],
+    [
+      0.007675,
+      "Already up-to-date.\r\n"
+    ],
+    [
+      0.000384,
+      "mkdir -p data/git\r\n"
+    ],
+    [
+      0.000695,
+      "composer update\r\n"
+    ],
+    [
+      0.064786,
+      "\u001b[32mLoading composer repositories with package information\u001b[39m\r\n"
+    ],
+    [
+      0.250809,
+      "\u001b[32mUpdating dependencies (including require-dev)\u001b[39m\r\n"
+    ],
+    [
+      4.632296,
+      "  - Installing \u001b[32mgeshi/geshi\u001b[39m (\u001b[33mdev-master d9cfd3e\u001b[39m)\r\n"
+    ],
+    [
+      0.002477,
+      "    Cloning d9cfd3e0cc9b24e6bd3045a4d222e651e68accd8\r\n"
+    ],
+    [
+      6.957566,
+      "\r\n"
+    ],
+    [
+      0.000957,
+      "  - Installing \u001b[32msymfony/routing\u001b[39m (\u001b[33mv2.6.6\u001b[39m)"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000659,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.026411,
+      "\r\n"
+    ],
+    [
+      0.001028,
+      "  - Installing \u001b[32mpsr/log\u001b[39m (\u001b[33m1.0.0\u001b[39m)\r\n"
+    ],
+    [
+      0.000469,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.016855,
+      "\r\n"
+    ],
+    [
+      0.001149,
+      "  - Installing \u001b[32msymfony/debug\u001b[39m (\u001b[33mv2.6.6\u001b[39m)\r\n"
+    ],
+    [
+      0.000534,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.021215,
+      "\r\n"
+    ],
+    [
+      0.001309,
+      "  - Installing \u001b[32msymfony/http-foundation\u001b[39m (\u001b[33mv2.6.6\u001b[39m)\r\n"
+    ],
+    [
+      0.000552,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.030725,
+      "\r\n"
+    ],
+    [
+      0.001525,
+      "  - Installing \u001b[32msymfony/event-dispatcher\u001b[39m (\u001b[33mv2.6.6\u001b[39m)\r\n"
+    ],
+    [
+      0.000438,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.019547,
+      "\r\n"
+    ],
+    [
+      0.001536,
+      "  - Installing \u001b[32msymfony/http-kernel\u001b[39m (\u001b[33mv2.6.6\u001b[39m)\r\n"
+    ],
+    [
+      0.000570,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.036292,
+      "\r\n"
+    ],
+    [
+      0.001913,
+      "  - Installing \u001b[32mpimple/pimple\u001b[39m (\u001b[33mv1.1.1\u001b[39m)\r\n"
+    ],
+    [
+      0.000444,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.018068,
+      "\r\n"
+    ],
+    [
+      0.001860,
+      "  - Installing \u001b[32msilex/silex\u001b[39m (\u001b[33m1.3.x-dev 77f308c\u001b[39m)\r\n"
+    ],
+    [
+      0.000309,
+      "    Cloning 77f308cabdade8f57775bf9a63bde817e3a1a228\r\n"
+    ],
+    [
+      14.816356,
+      "\r\n"
+    ],
+    [
+      0.002177,
+      "  - Installing \u001b[32msymfony/console\u001b[39m (\u001b[33mv2.6.6\u001b[39m)\r\n"
+    ],
+    [
+      0.000683,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.031441,
+      "\r\n"
+    ],
+    [
+      0.002621,
+      "  - Installing \u001b[32mknplabs/console-service-provider\u001b[39m (\u001b[33mv1.0\u001b[39m)\r\n"
+    ],
+    [
+      0.000578,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.018703,
+      "\r\n"
+    ],
+    [
+      0.002463,
+      "  - Installing \u001b[32mtwig/twig\u001b[39m (\u001b[33mv1.18.1\u001b[39m)\r\n"
+    ],
+    [
+      0.000726,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.050387,
+      "\r\n"
+    ],
+    [
+      0.002571,
+      "  - Installing \u001b[32msymfony/twig-bridge\u001b[39m (\u001b[33mv2.6.6\u001b[39m)\r\n"
+    ],
+    [
+      0.000464,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.022855,
+      "\r\n"
+    ],
+    [
+      0.002892,
+      "  - Installing \u001b[32msymfony/process\u001b[39m (\u001b[33mv2.6.6\u001b[39m)\r\n"
+    ],
+    [
+      0.000509,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.020968,
+      "\r\n"
+    ],
+    [
+      0.003183,
+      "  - Installing \u001b[32mcpliakas/git-wrapper\u001b[39m (\u001b[33m1.4.1\u001b[39m)\r\n"
+    ],
+    [
+      0.000547,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.023006,
+      "\r\n"
+    ],
+    [
+      0.003392,
+      "  - Installing \u001b[32msymfony/property-access\u001b[39m (\u001b[33mv2.6.6\u001b[39m)\r\n"
+    ],
+    [
+      0.000557,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.022792,
+      "\r\n"
+    ],
+    [
+      0.003280,
+      "  - Installing \u001b[32msymfony/options-resolver\u001b[39m (\u001b[33mv2.6.6\u001b[39m)\r\n"
+    ],
+    [
+      0.000473,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.017881,
+      "\r\n"
+    ],
+    [
+      0.003287,
+      "  - Installing \u001b[32msymfony/intl\u001b[39m (\u001b[33mv2.6.6\u001b[39m)\r\n"
+    ],
+    [
+      0.001662,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.129713,
+      "\r\n"
+    ],
+    [
+      0.004137,
+      "  - Installing \u001b[32msymfony/form\u001b[39m (\u001b[33mv2.6.6\u001b[39m)\r\n"
+    ],
+    [
+      0.000835,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.042733,
+      "\r\n"
+    ],
+    [
+      0.004311,
+      "  - Installing \u001b[32msymfony/security-core\u001b[39m (\u001b[33mv2.6.6\u001b[39m)\r\n"
+    ],
+    [
+      0.000642,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.031675,
+      "\r\n"
+    ],
+    [
+      0.004985,
+      "  - Installing \u001b[32msymfony/security-csrf\u001b[39m (\u001b[33mv2.6.6\u001b[39m)\r\n"
+    ],
+    [
+      0.000539,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.017687,
+      "\r\n"
+    ],
+    [
+      0.004027,
+      "  - Installing \u001b[32msymfony/filesystem\u001b[39m (\u001b[33mv2.6.6\u001b[39m)\r\n"
+    ],
+    [
+      0.000503,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.020123,
+      "\r\n"
+    ],
+    [
+      0.004562,
+      "  - Installing \u001b[32msymfony/config\u001b[39m (\u001b[33m2.8.x-dev b9a3893\u001b[39m)\r\n"
+    ],
+    [
+      0.000372,
+      "    Cloning b9a3893998ddb7a6e84088ac21a0540c4fa51627\r\n"
+    ],
+    [
+      15.057395,
+      "\r\n"
+    ],
+    [
+      0.004089,
+      "  - Installing \u001b[32msymfony/translation\u001b[39m (\u001b[33mv2.6.6\u001b[39m)\r\n"
+    ],
+    [
+      0.000689,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.028182,
+      "\r\n"
+    ],
+    [
+      0.004447,
+      "  - Installing \u001b[32msymfony/validator\u001b[39m (\u001b[33mv2.6.6\u001b[39m)\r\n"
+    ],
+    [
+      0.000787,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.056435,
+      "\r\n"
+    ],
+    [
+      0.004424,
+      "  - Installing \u001b[32msymfony/finder\u001b[39m (\u001b[33mv2.6.6\u001b[39m)\r\n"
+    ],
+    [
+      0.000521,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.023396,
+      "\r\n"
+    ],
+    [
+      0.005228,
+      "  - Installing \u001b[32msymfony/yaml\u001b[39m (\u001b[33mv2.6.6\u001b[39m)\r\n"
+    ],
+    [
+      0.000576,
+      "    Loading from cache\r\n"
+    ],
+    [
+      0.022980,
+      "\r\n"
+    ],
+    [
+      0.005075,
+      "  - Installing \u001b[32mpropel/propel\u001b[39m (\u001b[33mdev-master 4968909\u001b[39m)\r\n"
+    ],
+    [
+      0.000567,
+      "    Cloning 4968909779b239360cf52d30036c63452f94859b\r\n"
+    ],
+    [
+      26.923303,
+      "\r\n"
+    ],
+    [
+      0.315435,
+      "symfony/routing suggests installing symfony/expression-language (For using expression matching)\r\n"
+    ],
+    [
+      0.000455,
+      "symfony/routing suggests installing doctrine/annotations (For using the annotation loader)\r\n"
+    ],
+    [
+      0.000537,
+      "symfony/event-dispatcher suggests installing symfony/dependency-injection ()\r\n"
+    ],
+    [
+      0.000517,
+      "symfony/http-kernel suggests installing symfony/browser-kit ()\r\n"
+    ],
+    [
+      0.000455,
+      "symfony/http-kernel suggests installing symfony/class-loader ()\r\n"
+    ],
+    [
+      0.000622,
+      "symfony/http-kernel suggests installing symfony/dependency-injection ()\r\n"
+    ],
+    [
+      0.000576,
+      "symfony/http-kernel suggests installing symfony/var-dumper ()\r\n"
+    ],
+    [
+      0.000450,
+      "silex/silex suggests installing symfony/browser-kit (~2.3)\r\n"
+    ],
+    [
+      0.000448,
+      "silex/silex suggests installing symfony/css-selector (~2.3)\r\n"
+    ],
+    [
+      0.000443,
+      "silex/silex suggests installing symfony/dom-crawler (~2.3)\r\n"
+    ],
+    [
+      0.000948,
+      "symfony/twig-bridge suggests installing symfony/templating (For using the TwigEngine)\r\n"
+    ],
+    [
+      0.000641,
+      "symfony/twig-bridge suggests installing symfony/security (For using the SecurityExtension)\r\n"
+    ],
+    [
+      0.000434,
+      "symfony/twig-bridge suggests installing symfony/stopwatch (For using the StopwatchExtension)\r\n"
+    ],
+    [
+      0.000459,
+      "symfony/twig-bridge suggests installing symfony/var-dumper (For using the DumpExtension)\r\n"
+    ],
+    [
+      0.000436,
+      "symfony/twig-bridge suggests installing symfony/expression-language (For using the ExpressionExtension)\r\n"
+    ],
+    [
+      0.000428,
+      "cpliakas/git-wrapper suggests installing monolog/monolog (Enables logging of executed git commands)\r\n"
+    ],
+    [
+      0.000959,
+      "symfony/form suggests installing symfony/framework-bundle (For templating with PHP.)\r\n"
+    ],
+    [
+      0.000634,
+      "symfony/security-core suggests installing symfony/expression-language (For using the expression voter)\r\n"
+    ],
+    [
+      0.000438,
+      "symfony/security-core suggests installing ircmaxell/password-compat (For using the BCrypt password encoder in PHP \u003c5.5)\r\n"
+    ],
+    [
+      0.000696,
+      "symfony/validator suggests installing doctrine/annotations (For using the annotation mapping. You will also need doctrine/cache.)\r\n"
+    ],
+    [
+      0.000437,
+      "symfony/validator suggests installing doctrine/cache (For using the default cached annotation reader and metadata cache.)\r\n"
+    ],
+    [
+      0.000751,
+      "symfony/validator suggests installing egulias/email-validator (Strict (RFC compliant) email validation)\r\n"
+    ],
+    [
+      0.000500,
+      "symfony/validator suggests installing symfony/expression-language (For using the 2.4 Expression validator)\r\n"
+    ],
+    [
+      0.000441,
+      "propel/propel suggests installing monolog/monolog (The recommended logging library to use with Propel.)\r\n"
+    ],
+    [
+      0.058781,
+      "\u001b[32mWriting lock file\u001b[39m\r\n"
+    ],
+    [
+      0.000117,
+      "\u001b[32mGenerating autoload files\u001b[39m\r\n"
+    ],
+    [
+      0.218867,
+      "bower install\r\n"
+    ],
+    [
+      0.675100,
+      "bower \u001b[36mcached       \u001b[39m git://github.com/twbs/bootstrap.git#3.3.4\r\n"
+    ],
+    [
+      0.000327,
+      "bower \u001b[36mvalidate     \u001b[39m 3.3.4 against git://github.com/twbs/bootstrap.git#3.3.4\r\n"
+    ],
+    [
+      0.007857,
+      "bower \u001b[36mcached       \u001b[39m git://github.com/lipis/flag-icon-css.git#0.7.1\r\n"
+    ],
+    [
+      0.000048,
+      "bower \u001b[36mvalidate     \u001b[39m 0.7.1 against git://github.com/lipis/flag-icon-css.git#0.7.1\r\n"
+    ],
+    [
+      0.003605,
+      "bower \u001b[36mcached       \u001b[39m git://github.com/alexgorbatchev/SyntaxHighlighter.git#3.0.83\r\n"
+    ],
+    [
+      0.000016,
+      "bower \u001b[36mvalidate     \u001b[39m 3.0.83 against git://github.com/alexgorbatchev/SyntaxHighlighter.git#3.0.83\r\n"
+    ],
+    [
+      0.002878,
+      "bower \u001b[36mcached       \u001b[39m git://github.com/davidjbradshaw/iframe-resizer.git#2.8.6\r\n"
+    ],
+    [
+      0.000048,
+      "bower \u001b[36mvalidate     \u001b[39m 2.8.6 against git://github.com/davidjbradshaw/iframe-resizer.git#2.8.6\r\n"
+    ],
+    [
+      4.174612,
+      "bower \u001b[36mcached       \u001b[39m git://github.com/jquery/jquery.git#2.1.4\r\n"
+    ],
+    [
+      0.000221,
+      "bower \u001b[36mvalidate     \u001b[39m 2.1.4 against git://github.com/jquery/jquery.git#\u003e= 1.9.1\r\n"
+    ],
+    [
+      2.155637,
+      "bower \u001b[36minstall      \u001b[39m flag-icon-css#0.7.1\r\n"
+    ],
+    [
+      0.000205,
+      "bower \u001b[36minstall      \u001b[39m SyntaxHighlighter#3.0.83\r\n"
+    ],
+    [
+      0.000125,
+      "bower \u001b[36minstall      \u001b[39m iframe-resizer#2.8.6\r\n"
+    ],
+    [
+      0.000285,
+      "bower \u001b[36minstall      \u001b[39m bootstrap#3.3.4\r\n"
+    ],
+    [
+      0.000088,
+      "bower \u001b[36minstall      \u001b[39m jquery#2.1.4\r\n"
+    ],
+    [
+      0.772129,
+      "\r\nflag-icon-css#0.7.1 web/components/flag-icon-css\r\n"
+    ],
+    [
+      0.000006,
+      "\r\nSyntaxHighlighter#3.0.83 web/components/SyntaxHighlighter\r\n\r\niframe-resizer#2.8.6 web/components/iframe-resizer\r\n\r\nbootstrap#3.3.4 web/components/bootstrap\r\n└── jquery#2.1.4\r\n\r\njquery#2.1.4 web/components/jquery\r\n"
+    ],
+    [
+      0.006633,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                   \r \r"
+    ],
+    [
+      0.008162,
+      "\u001b]2;simon@nikita: /tmp/gist\u0007\u001b]1;/tmp/gist\u0007\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[31m[\u001b[36m02:21\u001b[31m] \u001b[31m\u003c\u001b[32msimon@nikita\u001b[39m:\u001b[36m/tmp/gist\u001b[31m\u003e \u001b[39m\u001b[1m%\u001b[0m \u001b[K\u001b="
+    ],
+    [
+      0.561720,
+      "m"
+    ],
+    [
+      0.247965,
+      "\u0008mv"
+    ],
+    [
+      0.223947,
+      " "
+    ],
+    [
+      0.368279,
+      "p"
+    ],
+    [
+      0.503820,
+      "r"
+    ],
+    [
+      0.291444,
+      "opel-dist.yaml\u001b[1m \u001b[0m"
+    ],
+    [
+      0.588656,
+      "\u0008\u001b[0m p"
+    ],
+    [
+      0.127947,
+      "r"
+    ],
+    [
+      0.176552,
+      "opel-dist.yaml\u001b[1m \u001b[0m"
+    ],
+    [
+      0.551344,
+      "\u0008\u001b[0m \u0008\u0008"
+    ],
+    [
+      0.183829,
+      "\u0008"
+    ],
+    [
+      0.088085,
+      "\u0008"
+    ],
+    [
+      0.159986,
+      "\u0008"
+    ],
+    [
+      0.167950,
+      "\u0008"
+    ],
+    [
+      0.128107,
+      "\u0008.yaml \u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.200051,
+      "\u0008.yaml \u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.191992,
+      "\u0008.yaml \u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.175995,
+      "\u0008.yaml \u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.240006,
+      "\u0008.yaml \u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.648601,
+      "\u001b\u003e\r\r\n\u001b]2;mv -v propel-dist.yaml propel.yaml\u0007\u001b]1;mv\u0007"
+    ],
+    [
+      0.001025,
+      "« propel-dist.yaml » -\u003e « propel.yaml »\r\n"
+    ],
+    [
+      0.000496,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                   \r \r"
+    ],
+    [
+      0.008605,
+      "\u001b]2;simon@nikita: /tmp/gist\u0007\u001b]1;/tmp/gist\u0007\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[31m[\u001b[36m02:21\u001b[31m] \u001b[31m\u003c\u001b[32msimon@nikita\u001b[39m:\u001b[36m/tmp/gist\u001b[31m\u003e \u001b[39m\u001b[1m%\u001b[0m \u001b[K\u001b="
+    ],
+    [
+      1.477325,
+      "v"
+    ],
+    [
+      0.112021,
+      "\u0008vi"
+    ],
+    [
+      0.159852,
+      "p"
+    ],
+    [
+      0.031938,
+      " "
+    ],
+    [
+      0.208010,
+      "p"
+    ],
+    [
+      0.456121,
+      "\u0008 \u0008"
+    ],
+    [
+      0.127899,
+      "\u0008"
+    ],
+    [
+      0.152094,
+      "\u0008 \u0008"
+    ],
+    [
+      0.280094,
+      "m"
+    ],
+    [
+      0.111861,
+      " "
+    ],
+    [
+      0.128135,
+      "p"
+    ],
+    [
+      0.128008,
+      "r"
+    ],
+    [
+      0.164070,
+      "opel.yaml\u001b[1m \u001b[0m"
+    ],
+    [
+      0.364020,
+      "\u0008\u001b[0m \u0008"
+    ],
+    [
+      0.000006,
+      "\u001b\u003e"
+    ],
+    [
+      0.000100,
+      "\r\r\n"
+    ],
+    [
+      0.000619,
+      "\u001b]2;vim propel.yaml\u0007"
+    ],
+    [
+      0.000049,
+      "\u001b]1;vim\u0007"
+    ],
+    [
+      0.103591,
+      "\u001b[?1000h\u001b[?1049h\u001b[?1h\u001b="
+    ],
+    [
+      0.000014,
+      "\u001b[2;1H▽\u001b[6n\u001b[2;1H  \u001b[1;1H"
+    ],
+    [
+      0.000576,
+      "\u001b[1;36r\u001b[?25h\u001b[?25h\u001b[27m\u001b[23m\u001b[m\u001b[H\u001b[2J\u001b[?25l\u001b[36;1H\"propel.yaml\""
+    ],
+    [
+      0.000080,
+      " 33L, 1023C"
+    ],
+    [
+      0.016258,
+      "\u001b[?1000l"
+    ],
+    [
+      0.010728,
+      "\u001b[?1000h"
+    ],
+    [
+      0.000224,
+      "\u001b[?1000l"
+    ],
+    [
+      0.010575,
+      "\u001b[?1000h"
+    ],
+    [
+      0.006452,
+      "\u001b[\u003ec"
+    ],
+    [
+      0.011522,
+      "\u001b[1;1H\u001b[38;5;11m  1 \u001b[m\u001b[1m\u001b[38;5;14mpropel\u001b[m\u001b[38;5;74m:\u001b[m\r\n\u001b[38;5;11m  2 \u001b[m    \u001b[1m\u001b[38;5;14mdatabase\u001b[m\u001b[38;5;74m:\u001b[m\r\n\u001b[38;5;11m  3 \u001b[m\u001b[8C\u001b[1m\u001b[38;5;14mconnections\u001b[m\u001b[38;5;74m:\u001b[m\r\n\u001b[38;5;11m  4 \u001b[m\u001b[12C\u001b[1m\u001b[38;5;14mdefault\u001b[m\u001b[38;5;74m:\u001b[m\r\n\u001b[38;5;11m  5 \u001b[m\u001b[16C\u001b[1m\u001b[38;5;14madapter\u001b[m\u001b[38;5;74m:\u001b[m mysql\r\n\u001b[38;5;11m  6 \u001b[m\u001b[16C\u001b[1m\u001b[38;5;14mclassname\u001b[m\u001b[38;5;74m:\u001b[m Propel\\Runtime\\Connection\\ConnectionWrapper\r\n\u001b[38;5;11m  7 \u001b[m\u001b[4m                \u001b[m\u001b[1m\u001b[4m\u001b[38;5;14mdsn\u001b[m\u001b[4m\u001b[38;5;74m:\u001b[m\u001b[4m \"mysql:host=localhost;dbname=gist\"                                                         \u001b[m\u001b[8;1H\u001b[38;5;11m  8 \u001b[m\u001b[16C\u001b[1m\u001b[38;5;14muser\u001b[m\u001b[38;5;74m:\u001b[m root\r\n\u001b[38;5;11m  9 \u001b[m\u001b[16C\u001b[1m\u001b[38;5;14mpassword\u001b[m\u001b[38;5;74m:\u001b[m root\r\n\u001b[38;5;11m 10 \u001b[m\u001b[16C\u001b[1m\u001b[38;5;14mattributes\u001b[m\u001b[38;5;74m:\u001b[m\r\n\u001b[38;5;11m 11 \u001b[m\u001b[16C\u001b[1m\u001b[38;5;14msettings\u001b[m\u001b[38;5;74m:\u001b[m\r\n\u001b[38;5;11m 12 \u001b[m\u001b[20C\u001b[1m\u001b[38;5;14mcharset\u001b[m\u001b[38;5;74m:\u001b[m utf8\r\n\u001b[38;5;11m 13 \u001b[m\u001b[20C\u001b[1m\u001b[38;5;14mqueries\u001b[m\u001b[38;5;74m:\u001b[m\r\n\u001b[38;5;11m 14 \u001b[m\u001b[24C\u001b[1m\u001b[38;5;14mutf8\u001b[m\u001b[38;5;74m:\u001b[m \"SET NAMES utf8 COLLATE utf8_unicode_ci, COLLATION_CONNECTION = utf8_unicode_ci, CC\u001b[15;1H\u001b[38;5;11m    \u001b[mOLLATION_DATABASE = utf8_unicode_ci, COLLATION_SERVER = utf8_unicode_ci\"\r\n\u001b[38;5;11m 15 \r\n 16 \u001b[m    \u001b[1m\u001b[38;5;14mpaths\u001b[m\u001b[38;5;74m:\u001b[m\r\n\u001b[38;5;11m 17 \u001b[m\u001b[8C\u001b[1m\u001b[38;5;14mprojectDir\u001b[m\u001b[38;5;74m:\u001b[m src/\r\n\u001b[38;5;11m 18 \u001b[m\u001b[8C\u001b[1m\u001b[38;5;14mschemaDir\u001b[m\u001b[38;5;74m:\u001b[m src/\r\n\u001b[38;5;11m 19 \u001b[m\u001b[8C\u001b[1m\u001b[38;5;14moutputDir\u001b[m\u001b[38;5;74m:\u001b[m src/\r\n\u001b[38;5;11m 20 \u001b[m\u001b[8C\u001b[1m\u001b[38;5;14mphpDir\u001b[m\u001b[38;5;74m:\u001b[m src/\r\n\u001b[38;5;11m 21 \u001b[m\u001b[8C\u001b[1m\u001b[38;5;14mphpConfDir\u001b[m\u001b[38;5;74m:\u001b[m app/config/propel\r\n\u001b[38;5;11m 22 \u001b[m\u001b[8C\u001b[1m\u001b[38;5;14msqlDir\u001b[m\u001b[38;5;74m:\u001b[m app/propel/sql\r\n\u001b[38;5;11m 23 \u001b[m\u001b[8C\u001b[1m\u001b[38;5;14mmigrationDir\u001b[m\u001b[38;5;74m:\u001b[m app/propel/migration\r\n\u001b[38;5;11m 24 \r\n 25 \u001b[m    \u001b[1m\u001b[38;5;14mruntime\u001b[m\u001b[38;5;74m:\u001b[m\r\n\u001b[38;5;11m 26 \u001b[m\u001b[8C\u001b[1m\u001b[38;5;14mdefaultConnection\u001b[m\u001b[38;5;74m:\u001b[m default\r\n\u001b[38;5;11m 27 \u001b[m\u001b[8C\u001b[1m\u001b[38;5;14mconnections\u001b[m\u001b[38;5;74m:\u001b[m "
+    ],
+    [
+      0.002481,
+      "\u001b[38;5;74m[\u001b[mdefault\u001b[38;5;74m]\u001b[m\r\n\u001b[38;5;11m 28 \r\n 29 \u001b[m    \u001b[1m\u001b[38;5;14mgenerator\u001b[m\u001b[38;5;74m:\u001b[m\r\n\u001b[38;5;11m 30 \u001b[m\u001b[8C\u001b[1m\u001b[38;5;14mdefaultConnection\u001b[m\u001b[38;5;74m:\u001b[m default\r\n\u001b[38;5;11m 31 \u001b[m\u001b[8C\u001b[1m\u001b[38;5;14mconnections\u001b[m\u001b[38;5;74m:\u001b[m \u001b[38;5;74m[\u001b[mdefault\u001b[38;5;74m]\u001b[m\r\n\u001b[38;5;11m 32 \u001b[m\u001b[8C\u001b[1m\u001b[38;5;14mobjectModel\u001b[m\u001b[38;5;74m:\u001b[m\r\n\u001b[38;5;11m 33 \u001b[m\u001b[12C\u001b[1m\u001b[38;5;14maddClassLevelComment\u001b[m\u001b[38;5;74m:\u001b[m \u001b[38;5;13mfalse\u001b[m\r\n\u001b[38;5;12m~                                                                                                                   \u001b[m\u001b[36;99H7,17\u001b[9CTout\u001b]2;propel.yaml (/tmp/gist) - VIM\u0007"
+    ],
+    [
+      0.000063,
+      "\u001b]1;propel.yaml\u0007"
+    ],
+    [
+      0.000009,
+      "\u001b[7;21H\u001b[?25h"
+    ],
+    [
+      0.000018,
+      "\u001b[?1000l\u001b[?1002h"
+    ],
+    [
+      0.396401,
+      "\u001b[?25l\u001b[36;1H\u001b[1m-- INSERTION --\u001b[m\u001b[36;16H\u001b[K\u001b[36;99H7,17\u001b[9CTout\u001b[7;21H\u001b[?25h"
+    ],
+    [
+      0.640427,
+      "\u001b[?25l\u001b[36;101H56\u001b[7;60H\u001b[?25h"
+    ],
+    [
+      0.168001,
+      "\u001b[?25l\u001b[36;102H5\u001b[7;59H\u001b[?25h"
+    ],
+    [
+      0.617157,
+      "\u001b[?25l\u001b[4me\"\u001b[m\u001b[36;102H6\u001b]2;propel.yaml + (/tmp/gist) - VIM\u0007\u001b]1;propel.yaml\u0007\u001b[7;60H\u001b[?25h"
+    ],
+    [
+      0.719829,
+      "\u001b[?25l\u001b[4mx\"\u001b[m\u001b[36;102H7\u001b[7;61H\u001b[?25h"
+    ],
+    [
+      0.231947,
+      "\u001b[?25l\u001b[4ma\"\u001b[m\u001b[36;102H8\u001b[7;62H\u001b[?25h"
+    ],
+    [
+      0.224137,
+      "\u001b[?25l\u001b[4mm\"\u001b[m\u001b[36;102H9\u001b[7;63H\u001b[?25h"
+    ],
+    [
+      0.159969,
+      "\u001b[?25l\u001b[4mp\"\u001b[m\u001b[36;101H60\u001b[7;64H\u001b[?25h"
+    ],
+    [
+      0.184912,
+      "\u001b[?25l\u001b[4ml\"\u001b[m\u001b[36;102H1\u001b[7;65H\u001b[?25h"
+    ],
+    [
+      0.119105,
+      "\u001b[?25l\u001b[4me\"\u001b[m\u001b[36;102H2\u001b[7;66H\u001b[?25h"
+    ],
+    [
+      0.223629,
+      "\u001b[36;1H\u001b[K\u001b[7;65H"
+    ],
+    [
+      0.175279,
+      "\u001b[?25l\u001b[36;99H7,61\u001b[9CTout\u001b[7;65H\u001b[?25h\u001b[?25l\u001b[36;99H\u001b[K\u001b[36;1H:\u001b[?25h"
+    ],
+    [
+      0.191581,
+      "x\u001b[?25l\u001b[?25h"
+    ],
+    [
+      0.248327,
+      "\r\u001b[?25l\u001b[?1002l\"propel.yaml\""
+    ],
+    [
+      0.015946,
+      " 33L, 1030C écrit(s)"
+    ],
+    [
+      0.011692,
+      "\u001b]2;propel.yaml + (/tmp/gist) - VIM\u0007\u001b]1;propel.yaml\u0007"
+    ],
+    [
+      0.019333,
+      "\u001b]2;propel.yaml + (/tmp/gist) - VIM\u0007\u001b]1;propel.yaml\u0007"
+    ],
+    [
+      0.000076,
+      "\r\u001b]2;vim propel.yaml\u0007\u001b]1;vim\u0007\r\r\n\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000002,
+      "\u001b[?25h\u001b[r\u001b[?1049l"
+    ],
+    [
+      0.002581,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                   \r \r"
+    ],
+    [
+      0.007731,
+      "\u001b]2;simon@nikita: /tmp/gist\u0007\u001b]1;/tmp/gist\u0007\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[31m[\u001b[36m02:21\u001b[31m] \u001b[31m\u003c\u001b[32msimon@nikita\u001b[39m:\u001b[36m/tmp/gist\u001b[31m\u003e \u001b[39m\u001b[1m%\u001b[0m \u001b[K\u001b="
+    ],
+    [
+      1.438522,
+      "m"
+    ],
+    [
+      0.111987,
+      "\u0008ma"
+    ],
+    [
+      0.119920,
+      "k"
+    ],
+    [
+      0.136089,
+      "e"
+    ],
+    [
+      0.047927,
+      " "
+    ],
+    [
+      0.168040,
+      "p"
+    ],
+    [
+      0.160036,
+      "r"
+    ],
+    [
+      0.119925,
+      "o"
+    ],
+    [
+      0.096036,
+      "p"
+    ],
+    [
+      0.139826,
+      "el\u001b[1m \u001b[0m"
+    ],
+    [
+      0.676929,
+      "\u0008\u001b[0m \u0008\u001b\u003e\r\r\n\u001b]2;make propel\u0007\u001b]1;make\u0007"
+    ],
+    [
+      0.001901,
+      "\r\n"
+    ],
+    [
+      0.000136,
+      "#\r\n"
+    ],
+    [
+      0.000554,
+      "# Propel migration.\r\n"
+    ],
+    [
+      0.000530,
+      "#\r\n"
+    ],
+    [
+      0.000521,
+      "./vendor/propel/propel/bin/propel config:convert\r\n"
+    ],
+    [
+      0.057991,
+      "Successfully wrote PHP configuration in file \u001b[32m\"app/config/propel/config.php\"\u001b[39m.\r\n"
+    ],
+    [
+      0.004585,
+      "./vendor/propel/propel/bin/propel model:build --recursive\r\n"
+    ],
+    [
+      0.104103,
+      "./vendor/propel/propel/bin/propel migration:diff --recursive\r\n"
+    ],
+    [
+      0.091997,
+      "No table found in all databases\r\n"
+    ],
+    [
+      0.000004,
+      "Comparing models...\r\n"
+    ],
+    [
+      0.000739,
+      "Structure of database was modified in datasource \"default\": 1 added tables\r\n"
+    ],
+    [
+      0.002924,
+      "\"app/propel/migration/PropelMigration_1431217287.php\" file successfully created.\r\n"
+    ],
+    [
+      0.000021,
+      "Please review the generated SQL statements, and add data migration code if necessary.\r\n"
+    ],
+    [
+      0.000031,
+      "Once the migration class is valid, call the \"migrate\" task to execute it.\r\n"
+    ],
+    [
+      0.006913,
+      "./vendor/propel/propel/bin/propel migration:migrate --recursive\r\n"
+    ],
+    [
+      0.062987,
+      "Executing migration PropelMigration_1431217287 up\r\n"
+    ],
+    [
+      0.011165,
+      "3 of 3 SQL statements executed successfully on datasource \"default\"\r\n"
+    ],
+    [
+      0.004083,
+      "Migration complete. No further migration to execute.\r\n"
+    ],
+    [
+      0.007141,
+      "./vendor/propel/propel/bin/propel model:build --recursive\r\n"
+    ],
+    [
+      0.106744,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                   \r \r"
+    ],
+    [
+      0.007689,
+      "\u001b]2;simon@nikita: /tmp/gist\u0007\u001b]1;/tmp/gist\u0007\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[31m[\u001b[36m02:21\u001b[31m] \u001b[31m\u003c\u001b[32msimon@nikita\u001b[39m:\u001b[36m/tmp/gist\u001b[31m\u003e \u001b[39m\u001b[1m%\u001b[0m \u001b[K\u001b="
+    ],
+    [
+      1.142360,
+      "\r\r\nbck-i-search: _\u001b[K\u001b[A\u001b[20C"
+    ],
+    [
+      0.384079,
+      "mv propel\u001b[4m-\u001b[24mdist.yaml propel.yaml\u001b[1B\u001b[52D\u001b[@-\u001b[100C \u0008\u001b[A\u001b[71D"
+    ],
+    [
+      0.264032,
+      "\u001b[9Dphp -S 19\u001b[24m2.168.1.133:8080 \u001b[4m-\u001b[4mt\u001b[24m web/  \u001b[1B\u001b[55Dt_\u001b[A\u001b[44C"
+    ],
+    [
+      0.888579,
+      "\u001b[24m-\u001b[24mt\u001b[1B\r\u001b[K\u001b[A\u001b[61C\u001b\u003e\u001b[1B\r\u001b]2;php -S 192.168.1.133:8080 -t web/\u0007\u001b]1;php\u0007"
+    ],
+    [
+      0.019862,
+      "PHP 5.6.7-1 Development Server started at Sun May 10 02:21:30 2015\r\nListening on http://192.168.1.133:8080\r\nDocument root is /tmp/gist/web\r\nPress Ctrl-C to quit.\r\n"
+    ],
+    [
+      5.939573,
+      "[Sun May 10 02:21:36 2015] \u001b[32m192.168.1.133:41893 [302]: /\u001b[0m\r\n"
+    ],
+    [
+      0.361898,
+      "[Sun May 10 02:21:36 2015] \u001b[32m192.168.1.133:41894 [200]: /en/\u001b[0m\r\n"
+    ],
+    [
+      0.143657,
+      "[Sun May 10 02:21:36 2015] \u001b[32m192.168.1.133:41895 [200]: /components/bootstrap/dist/css/bootstrap.min.css\u001b[0m\r\n"
+    ],
+    [
+      0.000216,
+      "[Sun May 10 02:21:36 2015] \u001b[32m192.168.1.133:41896 [200]: /components/flag-icon-css/css/flag-icon.min.css\u001b[0m\r\n"
+    ],
+    [
+      0.000286,
+      "[Sun May 10 02:21:36 2015] \u001b[32m192.168.1.133:41897 [200]: /app/css/bootstrap/bootstrap.min.css\u001b[0m"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000274,
+      "[Sun May 10 02:21:36 2015] \u001b[32m192.168.1.133:41898 [200]: /app/css/app.css\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000388,
+      "[Sun May 10 02:21:36 2015] \u001b[32m192.168.1.133:41899 [200]: /components/jquery/dist/jquery.min.js\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000159,
+      "[Sun May 10 02:21:36 2015] \u001b[32m192.168.1.133:41900 [200]: /components/bootstrap/dist/js/bootstrap.min.js\u001b[0m\r\n"
+    ],
+    [
+      0.000200,
+      "[Sun May 10 02:21:36 2015] \u001b[32m192.168.1.133:41901 [200]: /app/js/cipher.js\u001b[0m"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000201,
+      "[Sun May 10 02:21:36 2015] \u001b[32m192.168.1.133:41902 [200]: /app/js/app.js\u001b[0m\r\n"
+    ],
+    [
+      0.155888,
+      "[Sun May 10 02:21:37 2015] \u001b[32m192.168.1.133:41903 [200]: /components/flag-icon-css/flags/4x3/gb.svg\u001b[0m\r\n"
+    ],
+    [
+      0.000162,
+      "[Sun May 10 02:21:37 2015] \u001b[32m192.168.1.133:41904 [200]: /components/flag-icon-css/flags/4x3/fr.svg\u001b[0m\r\n"
+    ],
+    [
+      2.816524,
+      "^C"
+    ],
+    [
+      0.005241,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                   \r \r"
+    ],
+    [
+      0.007353,
+      "\u001b]2;simon@nikita: /tmp/gist\u0007\u001b]1;/tmp/gist\u0007\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[31m[\u001b[36m02:21\u001b[31m] \u001b[31m\u003c\u001b[32msimon@nikita\u001b[39m:\u001b[36m/tmp/gist\u001b[31m\u003e \u001b[39m\u001b[1m%\u001b[0m \u001b[K\u001b="
+    ],
+    [
+      1.123489,
+      "I"
+    ],
+    [
+      0.464083,
+      "\u0008It"
+    ],
+    [
+      0.615892,
+      " "
+    ],
+    [
+      0.464158,
+      "w"
+    ],
+    [
+      0.191846,
+      "o"
+    ],
+    [
+      0.144115,
+      "r"
+    ],
+    [
+      0.127866,
+      "k"
+    ],
+    [
+      0.272268,
+      "s"
+    ],
+    [
+      0.776290,
+      "!"
+    ],
+    [
+      1.055630,
+      " "
+    ],
+    [
+      0.216096,
+      ":"
+    ],
+    [
+      0.184274,
+      ")"
+    ],
+    [
+      2.047956,
+      "\r\r\n\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                   \r \r"
+    ],
+    [
+      0.007678,
+      "\u001b]2;simon@nikita: /tmp/gist\u0007\u001b]1;/tmp/gist\u0007\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[31m[\u001b[36m02:21\u001b[31m] \u001b[31m\u003c\u001b[32msimon@nikita\u001b[39m:\u001b[36m/tmp/gist\u001b[31m\u003e \u001b[39m\u001b[1m%\u001b[0m \u001b[K\u001b="
+    ],
+    [
+      1.115211,
+      "\r\r\n"
+    ]
+  ]
+}
