@@ -1,0 +1,118 @@
+{
+  "version": 1,
+  "width": 181,
+  "height": 46,
+  "duration": 12.009500,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.016084,
+      "\u001b]0;yoland\u0007"
+    ],
+    [
+      0.003456,
+      "\u001b[?1034h"
+    ],
+    [
+      0.000008,
+      "bash-3.2$ "
+    ],
+    [
+      2.236597,
+      "l"
+    ],
+    [
+      0.079893,
+      "s"
+    ],
+    [
+      0.128218,
+      "\r\n"
+    ],
+    [
+      0.004124,
+      "Applications\t\tDocuments\t\tEnvs\t\t\tMovies\t\t\tPublic\t\t\tbin\t\t\twikisole.sh\r\n"
+    ],
+    [
+      0.000012,
+      "Calibre Library\t\tDownloads\t\tJourney\t\t\tMusic\t\t\tVirtualBox VMs\t\tcontestapplet.conf\tz.sh\r\nDesktop\t\t\tDropbox\t\t\tLibrary\t\t\tPictures\t\tbazel\t\t\tcontestapplet.conf.bak\r\n"
+    ],
+    [
+      0.000407,
+      "\u001b]0;yoland\u0007"
+    ],
+    [
+      0.001857,
+      "bash-3.2$ "
+    ],
+    [
+      0.857587,
+      "r"
+    ],
+    [
+      0.071664,
+      "e"
+    ],
+    [
+      0.639938,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.144309,
+      "\u0008\u001b[K"
+    ],
+    [
+      3.952078,
+      "c"
+    ],
+    [
+      0.168002,
+      "d"
+    ],
+    [
+      0.184055,
+      " "
+    ],
+    [
+      0.568187,
+      "D"
+    ],
+    [
+      0.183543,
+      "e"
+    ],
+    [
+      0.072222,
+      "s"
+    ],
+    [
+      0.144054,
+      "k"
+    ],
+    [
+      0.096257,
+      "top/"
+    ],
+    [
+      0.519898,
+      "\r\n"
+    ],
+    [
+      0.000364,
+      "\u001b]0;Desktop\u0007"
+    ],
+    [
+      0.002786,
+      "bash-3.2$ "
+    ],
+    [
+      1.933276,
+      "exit\r\n"
+    ]
+  ]
+}
