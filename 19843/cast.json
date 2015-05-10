@@ -1,0 +1,2498 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 24,
+  "duration": 24.979063,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.324127,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000079,
+      "\u001b]2;daniel@daniel: ~/glsec\u0007"
+    ],
+    [
+      0.000016,
+      "\u001b]1;~/glsec\u0007"
+    ],
+    [
+      0.000070,
+      "\u001b]7;file:///Users/daniel/glsec\u0007"
+    ],
+    [
+      0.015150,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36mglsec \u001b[01;34m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000017,
+      "\u001b[K"
+    ],
+    [
+      0.000104,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.674990,
+      "m"
+    ],
+    [
+      0.094733,
+      "\u0008me"
+    ],
+    [
+      0.144194,
+      "t"
+    ],
+    [
+      0.179011,
+      "e"
+    ],
+    [
+      0.190967,
+      "o"
+    ],
+    [
+      0.155077,
+      "r"
+    ],
+    [
+      0.311174,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u001b[32mm\u001b[32me\u001b[32mt\u001b[32me\u001b[32mo\u001b[32mr\u001b[39m "
+    ],
+    [
+      0.108851,
+      "c"
+    ],
+    [
+      0.137737,
+      "r"
+    ],
+    [
+      0.063874,
+      "e"
+    ],
+    [
+      0.088228,
+      "a"
+    ],
+    [
+      0.099747,
+      "t"
+    ],
+    [
+      0.072282,
+      "e"
+    ],
+    [
+      0.179372,
+      " "
+    ],
+    [
+      0.161649,
+      "d"
+    ],
+    [
+      0.173834,
+      "e"
+    ],
+    [
+      0.096167,
+      "m"
+    ],
+    [
+      0.107988,
+      "o"
+    ],
+    [
+      0.546885,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000051,
+      "\r\r\n"
+    ],
+    [
+      0.001450,
+      "\u001b]2;meteor create demo\u0007\u001b]1;meteor\u0007"
+    ],
+    [
+      0.320629,
+      "\r"
+    ],
+    [
+      0.000245,
+      "   Preparing project                         -\r"
+    ],
+    [
+      0.000343,
+      "                                              \r"
+    ],
+    [
+      0.000007,
+      "   Preparing project                         -\r"
+    ],
+    [
+      0.000337,
+      "                                              \r"
+    ],
+    [
+      0.000017,
+      "   Preparing project                         -\r"
+    ],
+    [
+      0.308643,
+      "                                              \r"
+    ],
+    [
+      0.000008,
+      "   Selecting package versions                \\\r"
+    ],
+    [
+      0.000045,
+      "                                              \r"
+    ],
+    [
+      0.000008,
+      "   Selecting package versions                \\\r"
+    ],
+    [
+      0.056932,
+      "                                              \r"
+    ],
+    [
+      0.000008,
+      "   Selecting package versions                \\\r"
+    ],
+    [
+      0.053519,
+      "                                              \r   Selecting package versions                \\\r"
+    ],
+    [
+      0.061761,
+      "                                              \r"
+    ],
+    [
+      0.000008,
+      "   Selecting package versions                |\r"
+    ],
+    [
+      0.052106,
+      "                                              \r"
+    ],
+    [
+      0.000008,
+      "   Selecting package versions                |\r"
+    ],
+    [
+      0.058651,
+      "                                              \r   Selecting package versions                |\r"
+    ],
+    [
+      0.072024,
+      "                                              \r"
+    ],
+    [
+      0.000009,
+      "   Selecting package versions                |\r"
+    ],
+    [
+      0.051316,
+      "                                              \r"
+    ],
+    [
+      0.000008,
+      "   Selecting package versions                /\r"
+    ],
+    [
+      0.051222,
+      "                                              \r"
+    ],
+    [
+      0.000008,
+      "   Selecting package versions                /\r"
+    ],
+    [
+      0.052354,
+      "                                              \r   Selecting package versions                /\r"
+    ],
+    [
+      0.062988,
+      "                                              \r   Selecting package versions                /\r"
+    ],
+    [
+      0.052712,
+      "                                              \r"
+    ],
+    [
+      0.000008,
+      "   Selecting package versions                /\r"
+    ],
+    [
+      0.054342,
+      "                                              \r   Selecting package versions                -\r"
+    ],
+    [
+      0.050115,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Selecting package versions                -\r"
+    ],
+    [
+      0.055979,
+      "                                              \r"
+    ],
+    [
+      0.000009,
+      "   Selecting package versions                -\r"
+    ],
+    [
+      0.049272,
+      "                                              \r"
+    ],
+    [
+      0.000145,
+      "   Selecting package versions                -\r"
+    ],
+    [
+      0.171272,
+      "                                              \r"
+    ],
+    [
+      0.000009,
+      "   Selecting package versions                \\\r"
+    ],
+    [
+      0.086940,
+      "                                              \r"
+    ],
+    [
+      0.000008,
+      "   Selecting package versions                \\\r"
+    ],
+    [
+      0.025386,
+      "                                              \r"
+    ],
+    [
+      0.000008,
+      "   Selecting package versions                \\\r"
+    ],
+    [
+      0.024273,
+      "                                              \r"
+    ],
+    [
+      0.000008,
+      "   Downloading missing packages              \\\r"
+    ],
+    [
+      0.000142,
+      "                                              \r"
+    ],
+    [
+      0.000016,
+      "   Downloading missing packages              \\\r"
+    ],
+    [
+      0.000097,
+      "                                              \r"
+    ],
+    [
+      0.000030,
+      "   Downloading missing packages              \\\r"
+    ],
+    [
+      0.000706,
+      "                                              \r"
+    ],
+    [
+      0.000004,
+      "   Downloading missing packages              \\\r"
+    ],
+    [
+      0.000160,
+      "                                              \r"
+    ],
+    [
+      0.000005,
+      "   Downloading missing packages              \\\r"
+    ],
+    [
+      0.000554,
+      "                                              \r   Downloading missing packages              \\\r"
+    ],
+    [
+      0.000120,
+      "                                              \r"
+    ],
+    [
+      0.000018,
+      "   Downloading missing packages              \\\r"
+    ],
+    [
+      0.000644,
+      "                                              \r   Downloading missing packages              \\\r"
+    ],
+    [
+      0.000082,
+      "                                              \r"
+    ],
+    [
+      0.000031,
+      "   Downloading missing packages              \\\r"
+    ],
+    [
+      0.000759,
+      "                                              \r"
+    ],
+    [
+      0.000004,
+      "   Downloading missing packages              \\\r"
+    ],
+    [
+      0.000158,
+      "                                              \r"
+    ],
+    [
+      0.000005,
+      "   Downloading missing packages              \\\r"
+    ],
+    [
+      0.000584,
+      "                                              \r   Downloading missing packages              \\\r"
+    ],
+    [
+      0.000158,
+      "                                              \r"
+    ],
+    [
+      0.000005,
+      "   Downloading missing packages              \\\r"
+    ],
+    [
+      0.000522,
+      "                                              \r"
+    ],
+    [
+      0.000004,
+      "   Downloading missing packages              |\r"
+    ],
+    [
+      0.000167,
+      "                                              \r   Downloading missing packages              |\r"
+    ],
+    [
+      0.000564,
+      "                                              \r   Downloading missing packages              |\r"
+    ],
+    [
+      0.000121,
+      "                                              \r"
+    ],
+    [
+      0.000039,
+      "   Downloading missing packages              |\r"
+    ],
+    [
+      0.000955,
+      "                                              \r   Downloading missing packages              |\r"
+    ],
+    [
+      0.000098,
+      "                                              \r"
+    ],
+    [
+      0.000030,
+      "   Downloading missing packages              |\r"
+    ],
+    [
+      0.000537,
+      "                                              \r"
+    ],
+    [
+      0.000005,
+      "   Downloading missing packages              |\r"
+    ],
+    [
+      0.000359,
+      "                                              \r   Downloading missing packages              |\r"
+    ],
+    [
+      0.000634,
+      "                                              \r   Downloading missing packages              |\r"
+    ],
+    [
+      0.000177,
+      "                                              \r"
+    ],
+    [
+      0.000077,
+      "   Downloading missing packages              |\r"
+    ],
+    [
+      0.000698,
+      "                                              \r   Downloading missing packages              |\r"
+    ],
+    [
+      0.000121,
+      "                                              \r"
+    ],
+    [
+      0.000041,
+      "   Downloading missing packages              |\r"
+    ],
+    [
+      0.000542,
+      "                                              \r"
+    ],
+    [
+      0.000032,
+      "   Downloading missing packages              |\r"
+    ],
+    [
+      0.000300,
+      "                                              \r"
+    ],
+    [
+      0.000005,
+      "   Downloading missing packages              |\r"
+    ],
+    [
+      0.042283,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.000150,
+      "                                              \r"
+    ],
+    [
+      0.000051,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.000222,
+      "                                              \r"
+    ],
+    [
+      0.000038,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.001713,
+      "                                              \r"
+    ],
+    [
+      0.000015,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.000084,
+      "                                              \r"
+    ],
+    [
+      0.000029,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.002693,
+      "                                              \r"
+    ],
+    [
+      0.000018,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.000104,
+      "                                              \r"
+    ],
+    [
+      0.000025,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.003239,
+      "                                              \r"
+    ],
+    [
+      0.000024,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.000171,
+      "                                              \r"
+    ],
+    [
+      0.000072,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.002035,
+      "                                              \r"
+    ],
+    [
+      0.000018,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.000120,
+      "                                              \r"
+    ],
+    [
+      0.000041,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.002158,
+      "                                              \r"
+    ],
+    [
+      0.000033,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.000160,
+      "                                              \r"
+    ],
+    [
+      0.000044,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.003232,
+      "                                              \r"
+    ],
+    [
+      0.000044,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.000193,
+      "                                              \r"
+    ],
+    [
+      0.000006,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.003525,
+      "                                              \r"
+    ],
+    [
+      0.001518,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.000323,
+      "                                              \r"
+    ],
+    [
+      0.000008,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.003788,
+      "                                              \r"
+    ],
+    [
+      0.000025,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.000149,
+      "                                              \r"
+    ],
+    [
+      0.000016,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.002517,
+      "                                              \r"
+    ],
+    [
+      0.000023,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.000110,
+      "                                              \r"
+    ],
+    [
+      0.000017,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.003811,
+      "                                              \r"
+    ],
+    [
+      0.000009,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.000155,
+      "                                              \r"
+    ],
+    [
+      0.000037,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.006665,
+      "                                              \r   Building local packages                   |\r"
+    ],
+    [
+      0.000274,
+      "                                              \r"
+    ],
+    [
+      0.000136,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.003239,
+      "                                              \r"
+    ],
+    [
+      0.000011,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.000084,
+      "                                              \r"
+    ],
+    [
+      0.000022,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.005399,
+      "                                              \r   Building local packages                   |\r"
+    ],
+    [
+      0.000163,
+      "                                              \r"
+    ],
+    [
+      0.000033,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.002769,
+      "                                              \r"
+    ],
+    [
+      0.000017,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.000049,
+      "                                              \r"
+    ],
+    [
+      0.000026,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.000188,
+      "                                              \r"
+    ],
+    [
+      0.000026,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.012644,
+      "                                              \r   Building local packages                   |\r"
+    ],
+    [
+      0.000179,
+      "                                              \r"
+    ],
+    [
+      0.000007,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.002952,
+      "                                              \r"
+    ],
+    [
+      0.000018,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.000337,
+      "                                              \r"
+    ],
+    [
+      0.000046,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.003477,
+      "                                              \r"
+    ],
+    [
+      0.000009,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.000127,
+      "                                              \r"
+    ],
+    [
+      0.000006,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.003193,
+      "                                              \r"
+    ],
+    [
+      0.000006,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.000104,
+      "                                              \r"
+    ],
+    [
+      0.000078,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.009783,
+      "                                              \r"
+    ],
+    [
+      0.000010,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.000166,
+      "                                              \r"
+    ],
+    [
+      0.000026,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.002007,
+      "                                              \r"
+    ],
+    [
+      0.000020,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.000119,
+      "                                              \r"
+    ],
+    [
+      0.000027,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.002811,
+      "                                              \r"
+    ],
+    [
+      0.000037,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.000129,
+      "                                              \r"
+    ],
+    [
+      0.000024,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.007064,
+      "                                              \r   Building local packages                   |\r"
+    ],
+    [
+      0.000174,
+      "                                              \r"
+    ],
+    [
+      0.000036,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.002982,
+      "                                              \r   Building local packages                   |\r"
+    ],
+    [
+      0.000160,
+      "                                              \r"
+    ],
+    [
+      0.000007,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.002357,
+      "                                              \r"
+    ],
+    [
+      0.000020,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.000158,
+      "                                              \r"
+    ],
+    [
+      0.000008,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.000162,
+      "                                              \r"
+    ],
+    [
+      0.000008,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.002915,
+      "                                              \r"
+    ],
+    [
+      0.000031,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.000185,
+      "                                              \r"
+    ],
+    [
+      0.000025,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.003216,
+      "                                              \r"
+    ],
+    [
+      0.000013,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.000351,
+      "                                              \r"
+    ],
+    [
+      0.000006,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.002476,
+      "                                              \r"
+    ],
+    [
+      0.000019,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.000168,
+      "                                              \r"
+    ],
+    [
+      0.000025,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.002948,
+      "                                              \r"
+    ],
+    [
+      0.000034,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.000160,
+      "                                              \r"
+    ],
+    [
+      0.000034,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.001770,
+      "                                              \r"
+    ],
+    [
+      0.000014,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.000434,
+      "                                              \r"
+    ],
+    [
+      0.000004,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.002019,
+      "                                              \r"
+    ],
+    [
+      0.000015,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.000138,
+      "                                              \r"
+    ],
+    [
+      0.000022,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.001899,
+      "                                              \r"
+    ],
+    [
+      0.000019,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.000165,
+      "                                              \r"
+    ],
+    [
+      0.000024,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.002700,
+      "                                              \r"
+    ],
+    [
+      0.000019,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.000153,
+      "                                              \r"
+    ],
+    [
+      0.000024,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.002345,
+      "                                              \r"
+    ],
+    [
+      0.000049,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.000144,
+      "                                              \r"
+    ],
+    [
+      0.000023,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.001975,
+      "                                              \r"
+    ],
+    [
+      0.000017,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.000118,
+      "                                              \r"
+    ],
+    [
+      0.000027,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.003066,
+      "                                              \r"
+    ],
+    [
+      0.000008,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.000141,
+      "                                              \r"
+    ],
+    [
+      0.000025,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.002579,
+      "                                              \r"
+    ],
+    [
+      0.000007,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.000091,
+      "                                              \r"
+    ],
+    [
+      0.000024,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.002576,
+      "                                              \r"
+    ],
+    [
+      0.000011,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.000112,
+      "                                              \r"
+    ],
+    [
+      0.000219,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.003291,
+      "                                              \r"
+    ],
+    [
+      0.000046,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.000159,
+      "                                              \r"
+    ],
+    [
+      0.000028,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.010432,
+      "                                              \r"
+    ],
+    [
+      0.000036,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.000464,
+      "                                              \r"
+    ],
+    [
+      0.000155,
+      "   Preparing project                         |\r"
+    ],
+    [
+      0.000074,
+      "                                              \r"
+    ],
+    [
+      0.000027,
+      "   Preparing project                         |\r"
+    ],
+    [
+      0.001560,
+      "                                              \r"
+    ],
+    [
+      0.000034,
+      "   Preparing project                         |\r"
+    ],
+    [
+      0.001202,
+      "                                              \r"
+    ],
+    [
+      0.000043,
+      "demo: created.\r\n\r\n"
+    ],
+    [
+      0.000131,
+      "                                              \r"
+    ],
+    [
+      0.000015,
+      "   Preparing project                         |\r"
+    ],
+    [
+      0.000201,
+      "                                              \r"
+    ],
+    [
+      0.000027,
+      "To run your new app:\r\n"
+    ],
+    [
+      0.000092,
+      "                                              \r"
+    ],
+    [
+      0.000031,
+      "   Preparing project                         |\r"
+    ],
+    [
+      0.000282,
+      "                                              \r"
+    ],
+    [
+      0.000005,
+      "  cd demo\r\n"
+    ],
+    [
+      0.000047,
+      "                                              \r"
+    ],
+    [
+      0.000030,
+      "   Preparing project                         |\r"
+    ],
+    [
+      0.000146,
+      "                                              \r"
+    ],
+    [
+      0.000020,
+      "  meteor\r\n"
+    ],
+    [
+      0.000043,
+      "                                              \r"
+    ],
+    [
+      0.000025,
+      "   Preparing project                         |\r"
+    ],
+    [
+      0.000113,
+      "                                              \r"
+    ],
+    [
+      0.010958,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000075,
+      "\u001b]2;daniel@daniel: ~/glsec\u0007"
+    ],
+    [
+      0.000015,
+      "\u001b]1;~/glsec\u0007"
+    ],
+    [
+      0.000081,
+      "\u001b]7;file:///Users/daniel/glsec\u0007"
+    ],
+    [
+      0.014644,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36mglsec \u001b[01;34m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000008,
+      "\u001b[K"
+    ],
+    [
+      0.000079,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.591141,
+      "c"
+    ],
+    [
+      0.145624,
+      "\u0008cd"
+    ],
+    [
+      0.094559,
+      "\u0008\u0008\u001b[32mc\u001b[32md\u001b[39m "
+    ],
+    [
+      0.515481,
+      "d"
+    ],
+    [
+      0.144761,
+      "e"
+    ],
+    [
+      0.128228,
+      "m"
+    ],
+    [
+      0.147886,
+      "o"
+    ],
+    [
+      0.624323,
+      "\u0008\u0008\u0008\u0008\u001b[4md\u001b[4me\u001b[4mm\u001b[4mo\u001b[24m"
+    ],
+    [
+      0.000011,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000050,
+      "\r\r\n"
+    ],
+    [
+      0.001184,
+      "\u001b]2;cd demo\u0007"
+    ],
+    [
+      0.000009,
+      "\u001b]1;cd\u0007"
+    ],
+    [
+      0.026580,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000037,
+      "\u001b]2;daniel@daniel: ~/glsec/demo\u0007"
+    ],
+    [
+      0.000017,
+      "\u001b]1;~/glsec/demo\u0007"
+    ],
+    [
+      0.000045,
+      "\u001b]7;file:///Users/daniel/glsec/demo\u0007"
+    ],
+    [
+      0.013382,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36mdemo \u001b[01;34m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000008,
+      "\u001b[K"
+    ],
+    [
+      0.000041,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.016805,
+      "m"
+    ],
+    [
+      0.140543,
+      "\u0008me"
+    ],
+    [
+      0.140052,
+      "t"
+    ],
+    [
+      0.145767,
+      "e"
+    ],
+    [
+      0.257210,
+      "o"
+    ],
+    [
+      0.104175,
+      "r"
+    ],
+    [
+      0.834104,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u001b[32mm\u001b[32me\u001b[32mt\u001b[32me\u001b[32mo\u001b[32mr\u001b[39m"
+    ],
+    [
+      0.000011,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000033,
+      "\r\r\n"
+    ],
+    [
+      0.001782,
+      "\u001b]2;meteor\u0007"
+    ],
+    [
+      0.000010,
+      "\u001b]1;meteor\u0007"
+    ],
+    [
+      0.293459,
+      "\r"
+    ],
+    [
+      0.000139,
+      "   Preparing project                         -\r"
+    ],
+    [
+      0.000358,
+      "                                              \r   Preparing project                         -\r"
+    ],
+    [
+      0.000289,
+      "                                              \r   Preparing project                         -\r"
+    ],
+    [
+      0.031872,
+      "                                              \r"
+    ],
+    [
+      0.000024,
+      "[[[[[ ~/glsec/demo ]]]]]\r\n\r\n"
+    ],
+    [
+      0.000078,
+      "                                              \r   Preparing project                         -\r"
+    ],
+    [
+      0.000442,
+      "                                              \r"
+    ],
+    [
+      0.000023,
+      "=\u003e Started proxy.\r\n"
+    ],
+    [
+      0.000051,
+      "                                              \r   Preparing project                         -\r"
+    ],
+    [
+      0.301782,
+      "                                              \r"
+    ],
+    [
+      0.000008,
+      "   Selecting package versions                \\\r"
+    ],
+    [
+      0.000165,
+      "                                              \r"
+    ],
+    [
+      0.000006,
+      "   Selecting package versions                \\\r"
+    ],
+    [
+      0.055645,
+      "                                              \r"
+    ],
+    [
+      0.000011,
+      "   Selecting package versions                \\\r"
+    ],
+    [
+      0.051082,
+      "                                              \r"
+    ],
+    [
+      0.000009,
+      "   Selecting package versions                \\\r"
+    ],
+    [
+      0.053338,
+      "                                              \r"
+    ],
+    [
+      0.000008,
+      "   Selecting package versions                |\r"
+    ],
+    [
+      0.049362,
+      "                                              \r   Selecting package versions                |\r"
+    ],
+    [
+      0.050893,
+      "                                              \r   Selecting package versions                |\r"
+    ],
+    [
+      0.474462,
+      "                                              \r"
+    ],
+    [
+      0.000007,
+      "   Selecting package versions                -\r"
+    ],
+    [
+      0.059122,
+      "                                              \r"
+    ],
+    [
+      0.000009,
+      "   Selecting package versions                -\r"
+    ],
+    [
+      0.052566,
+      "                                              \r"
+    ],
+    [
+      0.000055,
+      "   Selecting package versions                -\r"
+    ],
+    [
+      0.051372,
+      "                                              \r"
+    ],
+    [
+      0.000057,
+      "   Selecting package versions                \\\r"
+    ],
+    [
+      0.054402,
+      "                                              \r"
+    ],
+    [
+      0.000010,
+      "   Selecting package versions                \\\r"
+    ],
+    [
+      0.051184,
+      "                                              \r"
+    ],
+    [
+      0.000008,
+      "   Selecting package versions                \\\r"
+    ],
+    [
+      0.050283,
+      "                                              \r"
+    ],
+    [
+      0.000008,
+      "   Selecting package versions                \\\r"
+    ],
+    [
+      0.061987,
+      "                                              \r   Selecting package versions                \\\r"
+    ],
+    [
+      0.055420,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Selecting package versions                |\r"
+    ],
+    [
+      0.050855,
+      "                                              \r"
+    ],
+    [
+      0.000010,
+      "   Selecting package versions                |\r"
+    ],
+    [
+      0.053042,
+      "                                              \r"
+    ],
+    [
+      0.000037,
+      "   Selecting package versions                |\r"
+    ],
+    [
+      0.051166,
+      "                                              \r   Selecting package versions                |\r"
+    ],
+    [
+      0.053847,
+      "                                              \r"
+    ],
+    [
+      0.000007,
+      "   Selecting package versions                |\r"
+    ],
+    [
+      0.171139,
+      "                                              \r"
+    ],
+    [
+      0.000031,
+      "   Selecting package versions                /\r"
+    ],
+    [
+      0.079602,
+      "                                              \r"
+    ],
+    [
+      0.000009,
+      "   Selecting package versions                /\r"
+    ],
+    [
+      0.024146,
+      "                                              \r"
+    ],
+    [
+      0.000008,
+      "   Selecting package versions                -\r"
+    ],
+    [
+      0.025526,
+      "                                              \r   Downloading missing packages              -\r"
+    ],
+    [
+      0.000059,
+      "                                              \r"
+    ],
+    [
+      0.000014,
+      "   Downloading missing packages              -\r"
+    ],
+    [
+      0.000096,
+      "                                              \r"
+    ],
+    [
+      0.000008,
+      "   Downloading missing packages              -\r"
+    ],
+    [
+      0.000823,
+      "                                              \r   Downloading missing packages              -\r"
+    ],
+    [
+      0.000063,
+      "                                              \r"
+    ],
+    [
+      0.000007,
+      "   Downloading missing packages              -\r"
+    ],
+    [
+      0.000578,
+      "                                              \r   Downloading missing packages              -\r"
+    ],
+    [
+      0.000048,
+      "                                              \r"
+    ],
+    [
+      0.000006,
+      "   Downloading missing packages              -\r"
+    ],
+    [
+      0.000770,
+      "                                              \r   Downloading missing packages              -\r"
+    ],
+    [
+      0.000061,
+      "                                              \r"
+    ],
+    [
+      0.000008,
+      "   Downloading missing packages              -\r"
+    ],
+    [
+      0.000589,
+      "                                              \r   Downloading missing packages              -\r"
+    ],
+    [
+      0.000224,
+      "                                              \r   Downloading missing packages              -\r"
+    ],
+    [
+      0.046432,
+      "                                              \r"
+    ],
+    [
+      0.000011,
+      "   Building local packages                   -\r"
+    ],
+    [
+      0.000040,
+      "                                              \r"
+    ],
+    [
+      0.000010,
+      "   Building local packages                   -\r"
+    ],
+    [
+      0.000113,
+      "                                              \r"
+    ],
+    [
+      0.000010,
+      "   Building local packages                   -\r"
+    ],
+    [
+      0.002266,
+      "                                              \r"
+    ],
+    [
+      0.000007,
+      "   Building local packages                   -\r"
+    ],
+    [
+      0.000345,
+      "                                              \r"
+    ],
+    [
+      0.000013,
+      "   Building local packages                   -\r"
+    ],
+    [
+      0.002895,
+      "                                              \r"
+    ],
+    [
+      0.000271,
+      "   Building local packages                   -\r"
+    ],
+    [
+      0.000114,
+      "                                              \r"
+    ],
+    [
+      0.000004,
+      "   Building local packages                   -\r"
+    ],
+    [
+      0.003339,
+      "                                              \r   Building local packages                   -\r"
+    ],
+    [
+      0.000048,
+      "                                              \r"
+    ],
+    [
+      0.000016,
+      "   Building local packages                   -\r"
+    ],
+    [
+      0.006655,
+      "                                              \r"
+    ],
+    [
+      0.000294,
+      "   Building local packages                   -\r"
+    ],
+    [
+      0.000085,
+      "                                              \r"
+    ],
+    [
+      0.000005,
+      "   Building local packages                   -\r"
+    ],
+    [
+      0.003971,
+      "                                              \r"
+    ],
+    [
+      0.000009,
+      "   Building local packages                   -\r"
+    ],
+    [
+      0.000092,
+      "                                              \r"
+    ],
+    [
+      0.000021,
+      "   Building local packages                   -\r"
+    ],
+    [
+      0.003562,
+      "                                              \r"
+    ],
+    [
+      0.000018,
+      "   Building local packages                   -\r"
+    ],
+    [
+      0.000110,
+      "                                              \r"
+    ],
+    [
+      0.000005,
+      "   Building local packages                   -\r"
+    ],
+    [
+      0.005016,
+      "                                              \r"
+    ],
+    [
+      0.000011,
+      "   Building local packages                   -\r"
+    ],
+    [
+      0.000062,
+      "                                              \r"
+    ],
+    [
+      0.000007,
+      "   Building local packages                   -\r"
+    ],
+    [
+      0.008002,
+      "                                              \r"
+    ],
+    [
+      0.000008,
+      "   Building local packages                   -\r"
+    ],
+    [
+      0.000047,
+      "                                              \r"
+    ],
+    [
+      0.000004,
+      "   Building local packages                   -\r"
+    ],
+    [
+      0.002749,
+      "                                              \r"
+    ],
+    [
+      0.000007,
+      "   Building local packages                   -\r"
+    ],
+    [
+      0.000055,
+      "                                              \r"
+    ],
+    [
+      0.000004,
+      "   Building local packages                   -\r"
+    ],
+    [
+      0.005280,
+      "                                              \r"
+    ],
+    [
+      0.000008,
+      "   Building local packages                   -\r"
+    ],
+    [
+      0.000050,
+      "                                              \r"
+    ],
+    [
+      0.000006,
+      "   Building local packages                   -\r"
+    ],
+    [
+      0.004696,
+      "                                              \r   Building local packages                   -\r"
+    ],
+    [
+      0.000030,
+      "                                              \r"
+    ],
+    [
+      0.000005,
+      "   Building local packages                   -\r"
+    ],
+    [
+      0.000077,
+      "                                              \r"
+    ],
+    [
+      0.000005,
+      "   Building local packages                   -\r"
+    ],
+    [
+      0.012455,
+      "                                              \r"
+    ],
+    [
+      0.000011,
+      "   Building local packages                   -\r"
+    ],
+    [
+      0.000072,
+      "                                              \r"
+    ],
+    [
+      0.000010,
+      "   Building local packages                   -\r"
+    ],
+    [
+      0.003823,
+      "                                              \r   Building local packages                   -\r"
+    ],
+    [
+      0.000060,
+      "                                              \r"
+    ],
+    [
+      0.000040,
+      "   Building local packages                   -\r"
+    ],
+    [
+      0.004977,
+      "                                              \r"
+    ],
+    [
+      0.000008,
+      "   Building local packages                   -\r"
+    ],
+    [
+      0.000067,
+      "                                              \r"
+    ],
+    [
+      0.000005,
+      "   Building local packages                   -\r"
+    ],
+    [
+      0.003035,
+      "                                              \r   Building local packages                   -\r"
+    ],
+    [
+      0.000215,
+      "                                              \r   Building local packages                   -\r"
+    ],
+    [
+      0.009821,
+      "                                              \r"
+    ],
+    [
+      0.000011,
+      "   Building local packages                   -\r"
+    ],
+    [
+      0.000082,
+      "                                              \r"
+    ],
+    [
+      0.000007,
+      "   Building local packages                   -\r"
+    ],
+    [
+      0.001668,
+      "                                              \r"
+    ],
+    [
+      0.000006,
+      "   Building local packages                   -\r"
+    ],
+    [
+      0.000057,
+      "                                              \r"
+    ],
+    [
+      0.000005,
+      "   Building local packages                   -\r"
+    ],
+    [
+      0.003574,
+      "                                              \r"
+    ],
+    [
+      0.000007,
+      "   Building local packages                   -\r"
+    ],
+    [
+      0.000066,
+      "                                              \r"
+    ],
+    [
+      0.000004,
+      "   Building local packages                   -\r"
+    ],
+    [
+      0.005106,
+      "                                              \r"
+    ],
+    [
+      0.000008,
+      "   Building local packages                   -\r"
+    ],
+    [
+      0.000047,
+      "                                              \r"
+    ],
+    [
+      0.000005,
+      "   Building local packages                   -\r"
+    ],
+    [
+      0.003037,
+      "                                              \r"
+    ],
+    [
+      0.000006,
+      "   Building local packages                   -\r"
+    ],
+    [
+      0.000079,
+      "                                              \r"
+    ],
+    [
+      0.000010,
+      "   Building local packages                   -\r"
+    ],
+    [
+      0.002249,
+      "                                              \r"
+    ],
+    [
+      0.000007,
+      "   Building local packages                   -\r"
+    ],
+    [
+      0.000058,
+      "                                              \r"
+    ],
+    [
+      0.000005,
+      "   Building local packages                   -\r"
+    ],
+    [
+      0.000095,
+      "                                              \r"
+    ],
+    [
+      0.000007,
+      "   Building local packages                   -\r"
+    ],
+    [
+      0.002079,
+      "                                              \r"
+    ],
+    [
+      0.000007,
+      "   Building local packages                   -\r"
+    ],
+    [
+      0.000097,
+      "                                              \r"
+    ],
+    [
+      0.000008,
+      "   Building local packages                   -\r"
+    ],
+    [
+      0.003652,
+      "                                              \r"
+    ],
+    [
+      0.000010,
+      "   Building local packages                   -\r"
+    ],
+    [
+      0.000362,
+      "                                              \r"
+    ],
+    [
+      0.000008,
+      "   Building local packages                   -\r"
+    ],
+    [
+      0.002315,
+      "                                              \r"
+    ],
+    [
+      0.000007,
+      "   Building local packages                   -\r"
+    ],
+    [
+      0.000070,
+      "                                              \r"
+    ],
+    [
+      0.000006,
+      "   Building local packages                   -\r"
+    ],
+    [
+      0.002486,
+      "                                              \r"
+    ],
+    [
+      0.000009,
+      "   Building local packages                   -\r"
+    ],
+    [
+      0.000092,
+      "                                              \r"
+    ],
+    [
+      0.000013,
+      "   Building local packages                   -\r"
+    ],
+    [
+      0.002638,
+      "                                              \r"
+    ],
+    [
+      0.000007,
+      "   Building local packages                   -\r"
+    ],
+    [
+      0.000407,
+      "                                              \r"
+    ],
+    [
+      0.000005,
+      "   Building local packages                   -\r"
+    ],
+    [
+      0.001606,
+      "                                              \r"
+    ],
+    [
+      0.000005,
+      "   Building local packages                   -\r"
+    ],
+    [
+      0.000109,
+      "                                              \r"
+    ],
+    [
+      0.000031,
+      "   Building local packages                   -\r"
+    ],
+    [
+      0.001326,
+      "                                              \r"
+    ],
+    [
+      0.000025,
+      "   Building local packages                   -\r"
+    ],
+    [
+      0.000099,
+      "                                              \r   Building local packages                   -\r"
+    ],
+    [
+      0.001744,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Building local packages                   -\r"
+    ],
+    [
+      0.000178,
+      "                                              \r"
+    ],
+    [
+      0.000006,
+      "   Building local packages                   -\r"
+    ],
+    [
+      0.001630,
+      "                                              \r"
+    ],
+    [
+      0.000006,
+      "   Building local packages                   -\r"
+    ],
+    [
+      0.000139,
+      "                                              \r"
+    ],
+    [
+      0.000007,
+      "   Building local packages                   -\r"
+    ],
+    [
+      0.002652,
+      "                                              \r"
+    ],
+    [
+      0.000005,
+      "   Building local packages                   -\r"
+    ],
+    [
+      0.000059,
+      "                                              \r"
+    ],
+    [
+      0.000005,
+      "   Building local packages                   -\r"
+    ],
+    [
+      0.002066,
+      "                                              \r"
+    ],
+    [
+      0.000008,
+      "   Building local packages                   -\r"
+    ],
+    [
+      0.000060,
+      "                                              \r"
+    ],
+    [
+      0.000006,
+      "   Building local packages                   -\r"
+    ],
+    [
+      0.002365,
+      "                                              \r"
+    ],
+    [
+      0.000007,
+      "   Building local packages                   -\r"
+    ],
+    [
+      0.000066,
+      "                                              \r"
+    ],
+    [
+      0.000005,
+      "   Building local packages                   -\r"
+    ],
+    [
+      0.002028,
+      "                                              \r"
+    ],
+    [
+      0.000016,
+      "   Building local packages                   -\r"
+    ],
+    [
+      0.000077,
+      "                                              \r"
+    ],
+    [
+      0.000004,
+      "   Building local packages                   -\r"
+    ],
+    [
+      0.001539,
+      "                                              \r"
+    ],
+    [
+      0.000006,
+      "   Building local packages                   -\r"
+    ],
+    [
+      0.000062,
+      "                                              \r"
+    ],
+    [
+      0.000005,
+      "   Building local packages                   -\r"
+    ],
+    [
+      0.010357,
+      "                                              \r"
+    ],
+    [
+      0.000007,
+      "   Building local packages                   -\r"
+    ],
+    [
+      0.000484,
+      "                                              \r   Building local packages                   -\r"
+    ],
+    [
+      0.006666,
+      "                                              \r   Building the application                  -\r"
+    ],
+    [
+      0.000009,
+      "                                              \r"
+    ],
+    [
+      0.000005,
+      "   Building the application                  -\r"
+    ],
+    [
+      0.000255,
+      "                                              \r   Building the application                  -\r"
+    ],
+    [
+      0.078699,
+      "                                              \r"
+    ],
+    [
+      0.000008,
+      "   Loading plugin `compileTemplates` fro...  \\\r"
+    ],
+    [
+      0.305949,
+      "                                              \r"
+    ],
+    [
+      0.000008,
+      "   Loading plugin `compileTemplates` fro...  |\r"
+    ],
+    [
+      0.053658,
+      "                                              \r"
+    ],
+    [
+      0.000009,
+      "   Loading plugin `compileTemplates` fro...  |\r"
+    ],
+    [
+      0.000465,
+      "                                              \r"
+    ],
+    [
+      0.000032,
+      "=\u003e Started MongoDB.\r\n"
+    ],
+    [
+      0.000026,
+      "                                              \r"
+    ],
+    [
+      0.000010,
+      "   Loading plugin `compileTemplates` fro...  |\r"
+    ],
+    [
+      0.214237,
+      "                                              \r"
+    ],
+    [
+      0.000008,
+      "   Building the application                  /\r"
+    ],
+    [
+      0.000015,
+      "                                              \r"
+    ],
+    [
+      0.000003,
+      "   Building the application                  /\r"
+    ],
+    [
+      0.000013,
+      "                                              \r"
+    ],
+    [
+      0.000004,
+      "   Building the application                  /\r"
+    ],
+    [
+      0.004657,
+      "                                              \r   Building the application                  /\r"
+    ],
+    [
+      0.000009,
+      "                                              \r"
+    ],
+    [
+      0.000004,
+      "   Building the application                  /\r"
+    ],
+    [
+      0.013058,
+      "                                              \r"
+    ],
+    [
+      0.000008,
+      "   Building the application                  /\r"
+    ],
+    [
+      0.000003,
+      "                                              \r"
+    ],
+    [
+      0.000009,
+      "   Building the application                  /\r"
+    ],
+    [
+      0.029243,
+      "                                              \r"
+    ],
+    [
+      0.000007,
+      "   Building the application                  /\r"
+    ],
+    [
+      0.000459,
+      "                                              \r   Building the application                  /\r"
+    ],
+    [
+      0.009254,
+      "                                              \r"
+    ],
+    [
+      0.000008,
+      "   Building the application                  /\r                                              \r"
+    ],
+    [
+      0.000003,
+      "   Building the application                  /\r"
+    ],
+    [
+      0.000019,
+      "                                              \r"
+    ],
+    [
+      0.000006,
+      "   Building the application                  /\r"
+    ],
+    [
+      0.031677,
+      "                                              \r"
+    ],
+    [
+      0.000017,
+      "   Building the application                  /\r                                              \r   Building the application                  /\r"
+    ],
+    [
+      0.124251,
+      "                                              \r   Building the application                  -\r"
+    ],
+    [
+      0.000020,
+      "                                              \r"
+    ],
+    [
+      0.000034,
+      "   Building the application                  -\r                                              \r"
+    ],
+    [
+      0.000006,
+      "   Building the application                  -\r"
+    ],
+    [
+      0.023985,
+      "                                              \r"
+    ],
+    [
+      0.000009,
+      "   Building the application                  -\r"
+    ],
+    [
+      0.000015,
+      "                                              \r"
+    ],
+    [
+      0.000004,
+      "   Building the application                  -\r"
+    ],
+    [
+      0.005006,
+      "                                              \r"
+    ],
+    [
+      0.000009,
+      "   Building the application                  -\r                                              \r   Building the application                  -\r"
+    ],
+    [
+      0.063293,
+      "                                              \r"
+    ],
+    [
+      0.000008,
+      "   Building the application                  -\r"
+    ],
+    [
+      0.049821,
+      "                                              \r"
+    ],
+    [
+      0.000024,
+      "   Building the application                  -\r"
+    ],
+    [
+      0.049887,
+      "                                              \r"
+    ],
+    [
+      0.000009,
+      "   Building the application                  \\\r"
+    ],
+    [
+      0.050025,
+      "                                              \r"
+    ],
+    [
+      0.000091,
+      "   Building the application                  \\\r"
+    ],
+    [
+      0.018754,
+      "                                              \r"
+    ],
+    [
+      0.000010,
+      "   Building the application                  \\\r                                              \r   Building the application                  \\\r"
+    ],
+    [
+      0.122834,
+      "                                              \r"
+    ],
+    [
+      0.000042,
+      "   Starting your app                         \\\r"
+    ],
+    [
+      0.015756,
+      "                                              \r"
+    ],
+    [
+      0.264044,
+      "=\u003e Started your app.\r\n"
+    ],
+    [
+      0.000166,
+      "\r\n"
+    ],
+    [
+      0.000125,
+      "=\u003e App running at: http://localhost:3000/\r\n"
+    ],
+    [
+      5.338982,
+      "^C"
+    ],
+    [
+      0.024445,
+      "\r\n"
+    ],
+    [
+      0.000123,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000211,
+      "\u001b]2;daniel@daniel: ~/glsec/demo\u0007"
+    ],
+    [
+      0.000056,
+      "\u001b]1;~/glsec/demo\u0007"
+    ],
+    [
+      0.000154,
+      "\u001b]7;file:///Users/daniel/glsec/demo\u0007"
+    ],
+    [
+      0.011540,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;31m➜ \u001b[27m\u001b[01;32m \u001b[36mdemo \u001b[01;34m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000009,
+      "\u001b[K"
+    ],
+    [
+      0.000063,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      2.495497,
+      "\r\r\n"
+    ]
+  ]
+}
