@@ -1,0 +1,4014 @@
+{
+  "version": 1,
+  "width": 181,
+  "height": 48,
+  "duration": 32.287167,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      1.990786,
+      "Writing /Users/geobart/.boot2docker/certs/boot2docker-vm/ca.pem\r\n"
+    ],
+    [
+      0.000219,
+      "Writing /Users/geobart/.boot2docker/certs/boot2docker-vm/cert.pem\r\n"
+    ],
+    [
+      0.000221,
+      "Writing /Users/geobart/.boot2docker/certs/boot2docker-vm/key.pem\r\n"
+    ],
+    [
+      0.000262,
+      "    export DOCKER_HOST=tcp://192.168.59.103:2376\r\n    export DOCKER_CERT_PATH=/Users/geobart/.boot2docker/certs/boot2docker-vm\r\n    export DOCKER_TLS_VERIFY=1\r\n"
+    ],
+    [
+      0.148415,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                    \r \r"
+    ],
+    [
+      0.016388,
+      "\u001b]2;geobart@geobeyond: ~\u0007\u001b]1;~\u0007"
+    ],
+    [
+      0.007527,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m\u001b[39m geobart@geobeyond\u001b[44m\u001b[30m\u001b[30m ~ \u001b[49m\u001b[34m\u001b[39m "
+    ],
+    [
+      0.000026,
+      "\u001b[K\u001b[137C\u001b[39m\u001b[0m\u001b[49m \u001b[39m\u001b[39m\u001b[39m\u001b[49m\u001b[30m 3713 \u001b[39m\u001b[37m\u001b[39m\u001b[47m\u001b[30m 11:06:10 \u001b[00m\u001b[39m\u001b[49m\u001b[156D"
+    ],
+    [
+      0.000158,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      2.424333,
+      "l"
+    ],
+    [
+      0.102262,
+      "\u0008ls"
+    ],
+    [
+      0.144305,
+      " "
+    ],
+    [
+      0.575707,
+      "-"
+    ],
+    [
+      0.264099,
+      "l"
+    ],
+    [
+      0.135879,
+      "a"
+    ],
+    [
+      0.224097,
+      "r"
+    ],
+    [
+      0.167975,
+      "t"
+    ],
+    [
+      0.640006,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000045,
+      "\r\r\n"
+    ],
+    [
+      0.000728,
+      "\u001b]2;ls -G -lart\u0007\u001b]1;ls\u0007"
+    ],
+    [
+      0.005218,
+      "total 1344\r\n"
+    ],
+    [
+      0.000091,
+      "drwxr-xr-x     7 geobart  staff     238 28 Feb  2013 \u001b[1m\u001b[36mData\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000025,
+      "-rw-rw-r--@    1 geobart  staff  141211  9 Ott  2013 yslow.js\r\n"
+    ],
+    [
+      0.000058,
+      "drwxr-xr-x+    5 geobart  staff     170  6 Gen  2014 \u001b[1m\u001b[36mPublic\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000024,
+      "-rw-r--r--     1 geobart  staff      27  7 Gen  2014 .hgignore_global\r\n"
+    ],
+    [
+      0.000020,
+      "-rw-r--r--     1 geobart  staff      13  7 Gen  2014 .gitignore_global\r\n"
+    ],
+    [
+      0.000018,
+      "drwxr-xr-x     6 geobart  staff     204 20 Gen  2014 \u001b[1m\u001b[36m.subversion\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000014,
+      "drwxr-xr-x     5 geobart  staff     170 20 Gen  2014 \u001b[1m\u001b[36m.vim\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000012,
+      "-rw-r--r--     1 geobart  staff      62 20 Gen  2014 .vimrc\r\n"
+    ],
+    [
+      0.000032,
+      "drwx------+    4 geobart  staff     136 22 Gen  2014 \u001b[1m\u001b[36mMusic\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000014,
+      "drwxr-xr-x     4 geobart  staff     136 22 Gen  2014 \u001b[1m\u001b[36m.karaf\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000017,
+      "drwxr-xr-x     4 geobart  staff     136 22 Gen  2014 \u001b[1m\u001b[36m.openshift\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000013,
+      "drwxr-xr-x     3 geobart  staff     102 23 Gen  2014 \u001b[1m\u001b[36m.pip\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000019,
+      "drwxr-xr-x     7 geobart  staff     238 23 Gen  2014 \u001b[1m\u001b[36m.codeintel\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.010113,
+      "-r--------     1 geobart  staff      20 26 Gen  2014 .erlang.cookie\r\n"
+    ],
+    [
+      0.000518,
+      "drwxr-xr-x     3 geobart  staff     102 27 Gen  2014 \u001b[1m\u001b[36m.tilemill\u001b[39;49m\u001b[0m\r\ndrwxr-xr-x     5 geobart  staff     170 27 Gen  2014 \u001b[1m\u001b[36mfp.users\u001b[39;49m\u001b[0m\r\ndrwxr-xr-x@    3 geobart  staff     102 28 Gen  2014 \u001b[1m\u001b[36m.DBsign\u001b[39;49m\u001b[0m\r\ndrwxr-xr-x    13 geobart  staff     442 28 Gen  2014 \u001b[1m\u001b[36m.spyder2\u001b[39;49m\u001b[0m\r\ndrwxr-x---     3 geobart  staff     102 30 Gen  2014 \u001b[1m\u001b[36mOracle\u001b[39;49m\u001b[0m\r\ndrwxrwx---     5 geobart  staff     170 30 Gen  2014 \u001b[1m\u001b[36moraInventory\u001b[39;49m\u001b[0m\r\ndrwxr-xr-x     5 geobart  staff     170 31 Gen  2014 \u001b[1m\u001b[36m.jdeveloper\u001b[39;49m\u001b[0m\r\ndrwx------     3 geobart  staff     102  7 Feb  2014 \u001b[1m\u001b[36m.cups\u001b[39;49m\u001b[0m\r\ndrwxr-xr-x     3 geobart  staff     102 10 Feb  2014 \u001b[1m\u001b[36m.Protege\u001b[39;49m\u001b[0m\r\ndrwxr-xr-x     4 geobart  staff     136 28 Feb  2014 \u001b[1m\u001b[36mDropbox_orcl\u001b[39;49m\u001b[0m\r\ndrwxr-xr-x     3 geobart  staff     102 28 Feb  2014 \u001b[1m\u001b[36m.Geopublishing\u001b[39;49m\u001b[0m\r\ndrwxr-xr-x     3 geobart  staff     102 28 Feb  2014 \u001b[1m\u001b[36m.swt\u001b[39;49m\u001b[0m\r\n-rw-----"
+    ],
+    [
+      0.000441,
+      "--     1 geobart  staff       0  1 Mar  2014 .ldapvi_history\r\ndrwxr-xr-x     5 root     admin     170  9 Mar  2014 \u001b[1m\u001b[36m..\u001b[39;49m\u001b[0m\r\ndrwxr-xr-x     4 geobart  staff     136 10 Mar  2014 \u001b[1m\u001b[36m.adobe\u001b[39;49m\u001b[0m\r\ndrwx------     5 geobart  staff     170 10 Mar  2014 \u001b[1m\u001b[36mApplications\u001b[39;49m\u001b[0m\r\ndrwxr-xr-x     3 geobart  staff     102 11 Mar  2014 \u001b[1m\u001b[36m.ApacheDirectoryStudio\u001b[39;49m\u001b[0m\r\ndrwxr-xr-x     3 geobart  staff     102 12 Mar  2014 \u001b[1m\u001b[36m.distlib\u001b[39;49m\u001b[0m\r\ndrwx------     3 geobart  staff     102 15 Mar  2014 \u001b[1m\u001b[36m.httpie\u001b[39;49m\u001b[0m\r\n-rw-------     1 geobart  staff       3 17 Mar  2014 .CFUserTextEncoding\r\ndrwxr-xr-x     3 geobart  staff     102 17 Mar  2014 \u001b[1m\u001b[36m.prism\u001b[39;49m\u001b[0m\r\ndrwxr-xr-x     3 geobart  staff     102 20 Mar  2014 \u001b[1m\u001b[36mtemp\u001b[39;49m\u001b[0m\r\ndrwxr-xr-x     3 geobart  staff     102 26 Mar  2014 \u001b[1m\u001b[36m.python-eggs\u001b[39;49m\u001b[0m\r\ndrwxr-xr-x     4 geobart  staff     136 29 Mar  2014 \u001b[1m\u001b[36mPycharmProjects\u001b[39;49m\u001b[0m\r\ndrwxr-xr-x     3 geobart  staff   "
+    ],
+    [
+      0.000025,
+      "  102 29 Mar  2014 \u001b[1m\u001b[36m.gem\u001b[39;49m\u001b[0m\r\ndrwxr-xr-x     6 geobart  staff     204 11 Apr  2014 \u001b[1m\u001b[36m.sqldeveloper\u001b[39;49m\u001b[0m\r\ndrwx------     6 geobart  staff     204 13 Apr  2014 \u001b[1m\u001b[36m.filezilla\u001b[39;49m\u001b[0m\r\ndrwxr-xr-x    15 geobart  staff     510 13 Apr  2014 \u001b[1m\u001b[36m.lazarus\u001b[39;49m\u001b[0m\r\ndrwx------     2 geobart  staff      68 22 Apr  2014 \u001b[1m\u001b[36m.graphterm\u001b[39;49m\u001b[0m\r\ndrwxr-xr-x     4 geobart  staff     136 24 Apr  2014 \u001b[1m\u001b[36m.invoicex\u001b[39;49m\u001b[0m\r\ndrwxr-xr-x     3 geobart  staff     102 24 Apr  2014 \u001b[1m\u001b[36m.local\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000158,
+      "drwxr-xr-x     6 geobart  staff     204 25 Apr  2014 \u001b[1m\u001b[36mudig-workspace\u001b[39;49m\u001b[0m\r\ndrwxr-xr-x     3 geobart  staff     102 28 Apr  2014 \u001b[1m\u001b[36m.kettle\u001b[39;49m\u001b[0m\r\ndrwxr-xr-x     3 geobart  staff     102 28 Apr  2014 \u001b[1m\u001b[36m.pentaho\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000005,
+      "-rw-r--r--     1 geobart  staff      26 28 Apr  2014 .gemrc\r\n"
+    ],
+    [
+      0.000123,
+      "-rwxr-xr-x     1 geobart  staff      59 29 Apr  2014 \u001b[31m.gdbinit\u001b[39;49m\u001b[0m\r\ndrwxr-xr-x    28 geobart  staff     952 29 Apr  2014 \u001b[1m\u001b[36mpaparazzi\u001b[39;49m\u001b[0m\r\n-rw-r--r--     1 root     staff       0 29 Apr  2014 .profile-bkup-pprz-2014-04-28_23-06-46GMT\r\n"
+    ],
+    [
+      0.000118,
+      "-rw-r--r--     1 root     staff     407 29 Apr  2014 .profile\r\ndrwxr-xr-x     3 geobart  staff     102  1 Mag  2014 \u001b[1m\u001b[36m.jmc\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000113,
+      "drwxr-xr-x     4 geobart  staff     136  1 Mag  2014 \u001b[1m\u001b[36m.eclipse\u001b[39;49m\u001b[0m\r\ndrwxr-xr-x     6 geobart  staff     204  2 Mag  2014 \u001b[1m\u001b[36meolisa\u001b[39;49m\u001b[0m\r\ndrwxr-xr-x     5 geobart  staff     170 23 Mag  2014 \u001b[1m\u001b[36m.composer\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000005,
+      "drwxr-xr-x     8 geobart  staff     272 26 Mag  2014 \u001b[1m\u001b[36m.cpan\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000128,
+      "drwxr-xr-x     3 geobart  staff     102 17 Giu  2014 \u001b[1m\u001b[36m.AtlasViewer\u001b[39;49m\u001b[0m\r\ndrwxr-xr-x     4 geobart  staff     136 17 Giu  2014 \u001b[1m\u001b[36m.AtlasStyler\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.001480,
+      "drwxr-xr-x     4 geobart  staff     136 17 Giu  2014 \u001b[1m\u001b[36m.Geopublisher\u001b[39;49m\u001b[0m\r\n-rw-r--r--     1 geobart  staff   80459 17 Giu  2014 pl.ini\r\ndrwxr-xr-x     3 geobart  staff     102 21 Giu  2014 \u001b[1m\u001b[36m.pylint.d\u001b[39;49m\u001b[0m\r\ndrwx------+   26 geobart  staff     884 24 Giu  2014 \u001b[1m\u001b[36mMovies\u001b[39;49m\u001b[0m\r\ndrwxr-xr-x     5 geobart  staff     170 25 Giu  2014 \u001b[1m\u001b[36mWebstormProjects\u001b[39;49m\u001b[0m\r\ndrwxr-xr-x     3 geobart  staff     102 28 Giu  2014 \u001b[1m\u001b[36m.keepassx\u001b[39;49m\u001b[0m\r\n-rw-r--r--     1 geobart  staff       0 30 Giu  2014 .geogitconfig\r\n-rw-------     1 geobart  staff      60  9 Lug  2014 .serverauth.2655\r\ndrwxr-xr-x     3 geobart  staff     102 12 Lug  2014 \u001b[1m\u001b[36m.cordova\u001b[39;49m\u001b[0m\r\ndrwxr-xr-x     5 geobart  staff     170 12 Lug  2014 \u001b[1m\u001b[36m.grunt-init\u001b[39;49m\u001b[0m\r\ndrwxr-xr-x     3 geobart  staff     102 15 Lug  2014 \u001b[1m\u001b[36msextante\u001b[39;49m\u001b[0m\r\ndrwx------     3 geobart  staff     102 17 Lug  2014 \u001b[1m\u001b[36m.MacOSX\u001b[39;49m\u001b[0m\r\ndrwxr-xr-x     4 geobart  staff     136 17 Lug  2014 "
+    ],
+    [
+      0.000628,
+      "\u001b[1m\u001b[36mbin\u001b[39;49m\u001b[0m\r\ndrwxr-xr-x     3 geobart  staff     102  3 Ago  2014 \u001b[1m\u001b[36m.yeoman-wordpress\u001b[39;49m\u001b[0m\r\n-rw-------     1 geobart  staff      13  3 Ago  2014 .mysql_history\r\n-rw-r--r--     1 geobart  staff     537  1 Set  2014 .anyconnect\r\ndrwxr-xr-x     2 geobart  staff      68  6 Set  2014 \u001b[1m\u001b[36m.geoserver\u001b[39;49m\u001b[0m\r\n-rw-------     1 geobart  staff      78 17 Set  2014 .python_history\r\n-rw-------     1 geobart  staff       0  8 Ott  2014 .pgpass\r\n-rw-r--r--     1 geobart  staff    3924  8 Ott  2014 pgadmin.log\r\n-rw-r--r--     1 geobart  staff    1490  8 Ott  2014 .pgadmin_histoqueries\r\n-rw-r--r--     1 geobart  staff      50  1 Nov  2014 .floorc.json\r\ndrwxr-xr-x     5 geobart  staff     170  1 Nov  2014 \u001b[1m\u001b[36mfloobits\u001b[39;49m\u001b[0m\r\n-rw-------     1 geobart  staff     120 23 Nov 15:52 .dockercfg\r\ndrwxr-xr-x     3 geobart  staff     102 24 Nov 04:13 \u001b[1m\u001b[36m.packer.d\u001b[39;49m\u001b[0m\r\n-rw-r--r--     1 geobart  staff    2605 13 Dic 17:28 .zshrc-e\r\ndrwxr-xr-x    11 geobart  staff     374 30 Dic"
+    ],
+    [
+      0.000674,
+      " 18:03 \u001b[1m\u001b[36mdumps\u001b[39;49m\u001b[0m\r\n-rw-r--r--     1 geobart  staff     250 31 Dic 19:49 .umleditor\r\ndrwx------     3 geobart  staff     102 10 Gen 01:27 \u001b[1m\u001b[36m.ansible\u001b[39;49m\u001b[0m\r\n-rw-r--r--     1 geobart  staff       8 11 Gen 23:23 opengeo.retry\r\ndrwxr-xr-x    10 geobart  staff     340 11 Gen 23:30 \u001b[1m\u001b[36m.vagrant.d\u001b[39;49m\u001b[0m\r\ndrwx------+    6 geobart  staff     204 25 Gen 17:28 \u001b[1m\u001b[36mPictures\u001b[39;49m\u001b[0m\r\ndrwxr-xr-x     5 geobart  staff     170 31 Gen 10:52 \u001b[1m\u001b[36m.log.io\u001b[39;49m\u001b[0m\r\ndrwxr-xr-x     4 geobart  staff     136  2 Feb 10:43 \u001b[1m\u001b[36mNetBeansProjects\u001b[39;49m\u001b[0m\r\ndrwxr-xr-x     3 geobart  staff     102  6 Feb 19:46 \u001b[1m\u001b[36m.m2\u001b[39;49m\u001b[0m\r\ndrwxr-xr-x     3 geobart  staff     102  6 Feb 21:09 \u001b[1m\u001b[36m.netbeans-derby\u001b[39;49m\u001b[0m\r\ndrwxr-xr-x     9 geobart  staff     306 13 Feb 00:49 \u001b[1m\u001b[36m.geotools\u001b[39;49m\u001b[0m\r\ndrwxr-xr-x     3 geobart  staff     102 13 Feb 00:51 \u001b[1m\u001b[36m.unidata\u001b[39;49m\u001b[0m\r\ndrwxr-x---     7 geobart  staff     238 18 Feb 16:00 \u001b[1m\u001b[36m.cardpeek\u001b[39;49m\u001b[0m\r\n-rw"
+    ],
+    [
+      0.000279,
+      "-r--r--     1 geobart  staff    8192 18 Feb 16:09 .cardpeek.log\r\n-rw-r--r--     1 geobart  staff      20 23 Feb 12:04 .sincedb_d555682fb52dd3dc54cd9bbe1653d351\r\n-rw-r--r--     1 geobart  staff      17 24 Feb 10:35 .sincedb_0937416333a2bafe036dea891d544e27\r\ndrwxr-xr-x     6 geobart  staff     204 26 Feb 21:30 \u001b[1m\u001b[36mnode_modules\u001b[39;49m\u001b[0m\r\ndrwxr-xr-x     3 geobart  staff     102 27 Feb 09:03 \u001b[1m\u001b[36moradiag_geobart\u001b[39;49m\u001b[0m\r\ndrwxr-xr-x     3 geobart  staff     102  7 Mar 17:18 \u001b[1m\u001b[36mbower_components\u001b[39;49m\u001b[0m\r\ndrwxr-xr-x    14 geobart  staff     476 11 Mar 08:18 \u001b[1m\u001b[36mVirtual Machine\u001b[39;49m\u001b[0m\r\ndrwx------@  199 geobart  staff    6766 11 Mar 17:54 \u001b[1m\u001b[36mGoogle Drive_old\u001b[39;49m\u001b[0m\r\ndrwx------     3 geobart  staff     102 12 Mar 14:59 \u001b[1m\u001b[36m.docker\u001b[39;49m\u001b[0m\r\ndrwxr-xr-x     7 geobart  staff     238 13 Mar 17:06 \u001b[1m\u001b[36m.cache\u001b[39;49m\u001b[0m\r\ndrwxr-xr-x     8 geobart  staff     272 13 Mar 17:07 \u001b[1m\u001b[36m.wine_PREVIOUS\u001b[39;49m\u001b[0m\r\ndrwxr-xr-x     9 geobart  staff     306 13 Mar 17:12 \u001b[1m\u001b"
+    ],
+    [
+      0.000011,
+      "[36m.config\u001b[39;49m\u001b[0m\r\ndrwxr-xr-x     3 geobart  staff     102 13 Mar 19:33 \u001b[1m\u001b[36mKitematic\u001b[39;49m\u001b[0m\r\ndrwxr-xr-x     9 geobart  staff     306 13 Mar 20:21 \u001b[1m\u001b[36m.wine_FAILED-VSPHERE-CLIENT\u001b[39;49m\u001b[0m\r\ndrwx------     9 geobart  staff     306 15 Mar 12:41 \u001b[1m\u001b[36m.ssh\u001b[39;49m\u001b[0m\r\ndrwxr-xr-x     3 geobart  staff     102 15 Mar 14:36 \u001b[1m\u001b[36m.translate_toolkit\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000211,
+      "drwx------+   10 geobart  staff     340 16 Mar 19:19 \u001b[1m\u001b[36mDesktop\u001b[39;49m\u001b[0m\r\ndrwxr-xr-x     8 geobart  staff     272 16 Mar 19:20 \u001b[1m\u001b[36m.qgis2\u001b[39;49m\u001b[0m\r\ndrwxr-xr-x     4 geobart  staff     136 16 Mar 19:20 \u001b[1m\u001b[36m.matplotlib\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000146,
+      "drwxr-xr-x     5 geobart  staff     170 16 Mar 22:06 \u001b[1m\u001b[36m.gradle\u001b[39;49m\u001b[0m\r\ndrwxr-xr-x     5 geobart  staff     170 17 Mar 16:46 \u001b[1m\u001b[36mBitcasa\u001b[39;49m\u001b[0m\r\ndrwxr-xr-x    14 geobart  staff     476  1 Apr 16:59 \u001b[1m\u001b[36m.virtualenvs\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000006,
+      "drwxr-xr-x    15 geobart  staff     510  1 Apr 18:42 \u001b[1m\u001b[36m.oh-my-zsh\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000139,
+      "-rw-r--r--     1 geobart  staff     220  2 Apr 23:50 updater.log\r\n-rw-r--r--     1 geobart  staff   35477  4 Apr 20:34 .zcompdump-geobeyond-5.0.2\r\n"
+    ],
+    [
+      0.000120,
+      "drwx------     2 geobart  staff      68  4 Apr 21:01 \u001b[1m\u001b[36mMail\u001b[39;49m\u001b[0m\r\ndrwxr-xr-x     5 geobart  staff     170  5 Apr 01:48 \u001b[1m\u001b[36mpyenv\u001b[39;49m\u001b[0m\r\ndrwxr-xr-x    14 geobart  staff     476  7 Apr 21:24 \u001b[1m\u001b[36mVirtualBox VMs\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000137,
+      "drwx------+   50 geobart  staff    1700 10 Apr 10:11 \u001b[1m\u001b[36mDocuments\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000120,
+      "-rw-------     1 geobart  staff     145 14 Apr 15:59 .lesshst\r\ndrwxr-xr-x    12 geobart  staff     408 14 Apr 18:00 \u001b[1m\u001b[36m.atom\u001b[39;49m\u001b[0m\r\n-rw-r--r--@    1 geobart  staff     225 17 Apr 14:13 actalis_ellips_applet.cfg\r\n"
+    ],
+    [
+      0.000176,
+      "-rw-r--r--@    1 geobart  staff    3099 17 Apr 14:16 actalis_sign_trace.log\r\n-rw-------     1 geobart  staff   13366 17 Apr 14:19 .bash_history\r\ndrwxr-xr-x     2 geobart  staff      68 21 Apr 09:55 \u001b[1m\u001b[36mSnapshots\u001b[39;49m\u001b[0m\r\ndrwxr-xr-x     8 geobart  staff     272 21 Apr 09:56 \u001b[1m\u001b[36m.yjp\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000257,
+      "drwxr-xr-x     9 geobart  staff     306 21 Apr 10:18 \u001b[1m\u001b[36m.wine\u001b[39;49m\u001b[0m\r\ndrwxr-xr-x    11 geobart  staff     374 21 Apr 20:12 \u001b[1m\u001b[36m.node-gyp\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000144,
+      "drwxr-xr-x@    6 geobart  staff     204 22 Apr 14:12 \u001b[1m\u001b[36m.tarantella\u001b[39;49m\u001b[0m\r\ndrwxr-xr-x     2 geobart  staff      68 27 Apr 10:05 \u001b[1m\u001b[36m.vessel\u001b[39;49m\u001b[0m\r\ndrwxr-xr-x     8 geobart  staff     272 27 Apr 20:59 \u001b[1m\u001b[36m.advLdap\u001b[39;49m\u001b[0m\r\ndrwxr-xr-x     7 geobart  staff     238 28 Apr 22:48 \u001b[1m\u001b[36m.mapbox-studio\u001b[39;49m\u001b[0m\r\ndrwxr-xr-x    13 geobart  staff     442 28 Apr 23:34 \u001b[1m\u001b[36m.avcd\u001b[39;49m\u001b[0m\r\n-rw-r--r--     1 geobart  staff     390  2 Mag 10:55 .gitconfig\r\n-rw-r--r--     1 geobart  staff    3173  3 Mag 17:48 .zshrc\r\n"
+    ],
+    [
+      0.000160,
+      "-rw-r--r--     1 geobart  staff     118  3 Mag 17:48 .zlogin\r\n-rw-r--r--     1 geobart  staff      68  3 Mag 17:48 .mkshrc\r\n-rw-r--r--     1 geobart  staff     219  3 Mag 17:48 .bashrc\r\n-rw-r--r--     1 geobart  staff    1485  3 Mag 17:48 .bash_profile\r\ndrwxr-xr-x    31 geobart  staff    1054  3 Mag 19:00 \u001b[1m\u001b[36m.rvm\u001b[39;49m\u001b[0m\r\ndrwxr-xr-x    40 geobart  staff    1360  4 Mag 23:36 \u001b[1m\u001b[36mCommitment\u001b[39;49m\u001b[0m\r\ndrwx------    12 geobart  staff     408  5 Mag 14:13 \u001b[1m\u001b[36m.dropbox\u001b[39;49m\u001b[0m\r\ndrwxr-xr-x     5 geobart  staff     170  5 Mag 15:10 \u001b[1m\u001b[36m.boot2docker\u001b[39;49m\u001b[0m\r\n-rw-r--r--     1 geobart  staff      17  5 Mag 15:11 .zsh-update\r\n"
+    ],
+    [
+      0.000182,
+      "drwxr-xr-x    84 geobart  staff    2856  6 Mag 11:41 \u001b[1m\u001b[36madmintoollogs\u001b[39;49m\u001b[0m\r\ndrwxr-xr-x    74 geobart  staff    2516  6 Mag 23:20 \u001b[1m\u001b[36mDevelopment\u001b[39;49m\u001b[0m\r\ndrwx------@  259 geobart  staff    8806  7 Mag 11:53 \u001b[1m\u001b[36mDropbox\u001b[39;49m\u001b[0m\r\ndrwxr-xr-x  1569 geobart  staff   53346  8 Mag 00:23 \u001b[1m\u001b[36m.npm\u001b[39;49m\u001b[0m\r\n-rw-r--r--@    1 geobart  staff   67588  8 Mag 11:16 .DS_Store\r\ndrwx------@  202 geobart  staff    6868  9 Mag 23:12 \u001b[1m\u001b[36mGoogle Drive\u001b[39;49m\u001b[0m\r\n-rw-------     1 geobart  staff    1024 10 Mag 02:18 .rnd\r\ndrwx------@   74 geobart  staff    2516 10 Mag 02:18 \u001b[1m\u001b[36mLibrary\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000159,
+      "-rw-------     1 geobart  staff    1616 10 Mag 02:30 .Xauthority\r\n-rw-------     1 geobart  staff   18940 10 Mag 10:07 .viminfo\r\ndrwx------+ 1107 geobart  staff   37638 10 Mag 10:30 \u001b[1m\u001b[36mDownloads\u001b[39;49m\u001b[0m\r\ndrwx------    51 geobart  staff    1734 10 Mag 10:30 \u001b[1m\u001b[36m.Trash\u001b[39;49m\u001b[0m\r\n-rw-r--r--     1 geobart  staff      32 10 Mag 10:51 .showterm\r\ndrwxr-xr-x     3 geobart  staff     102 10 Mag 11:06 \u001b[1m\u001b[36m.asciinema\u001b[39;49m\u001b[0m\r\n-rw-------     1 geobart  staff  173651 10 Mag 11:06 .zsh_history\r\n"
+    ],
+    [
+      0.000008,
+      "drwxr-xr-x@  169 geobart  staff    5746 10 Mag 11:06 \u001b[1m\u001b[36m.\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000905,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                    \r \r"
+    ],
+    [
+      0.005409,
+      "\u001b]2;geobart@geobeyond: ~\u0007"
+    ],
+    [
+      0.000011,
+      "\u001b]1;~\u0007"
+    ],
+    [
+      0.006892,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m\u001b[39m geobart@geobeyond\u001b[44m\u001b[30m\u001b[30m ~ \u001b[49m\u001b[34m\u001b[39m "
+    ],
+    [
+      0.000012,
+      "\u001b[K\u001b[137C\u001b[39m\u001b[0m\u001b[49m \u001b[39m\u001b[39m\u001b[39m\u001b[49m\u001b[30m 3714 \u001b[39m\u001b[37m\u001b[39m\u001b[47m\u001b[30m 11:06:15 \u001b[00m\u001b[39m\u001b[49m\u001b[156D\u001b[?1h\u001b="
+    ],
+    [
+      7.730413,
+      "c"
+    ],
+    [
+      0.103625,
+      "\u0008cd"
+    ],
+    [
+      0.119913,
+      " "
+    ],
+    [
+      0.736167,
+      "D"
+    ],
+    [
+      0.552012,
+      "o"
+    ],
+    [
+      0.150636,
+      "\u0007"
+    ],
+    [
+      0.000028,
+      "\r\r\n"
+    ],
+    [
+      0.000083,
+      "\u001b[J\u001b[1;31mDocuments\u001b[0m/  \u001b[J\u001b[1;31mDownloads\u001b[0m/\u001b[J\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m\r\u001b[24C"
+    ],
+    [
+      0.000016,
+      "cd Do\u001b[K\u001b[132C\u001b[39m\u001b[0m\u001b[49m \u001b[39m\u001b[39m\u001b[39m\u001b[49m\u001b[30m 3714 \u001b[39m\u001b[37m\u001b[39m\u001b[47m\u001b[30m 11:06:15 \u001b[00m\u001b[39m\u001b[49m\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m\u001b[151D"
+    ],
+    [
+      1.014673,
+      "cuments\u001b[1m/\u001b[0m"
+    ],
+    [
+      0.000009,
+      "\r\r\n"
+    ],
+    [
+      0.000027,
+      "\u001b[J\u001b[7mDocuments/\u001b[0m  \u001b[J\u001b[1;31mDownloads\u001b[0m/\u001b[J\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m\r\u001b[24C"
+    ],
+    [
+      0.000035,
+      "cd Documents\u001b[1m/\u001b[0m\u001b[K\u001b[124C\u001b[39m\u001b[0m\u001b[49m \u001b[39m\u001b[39m\u001b[39m\u001b[49m\u001b[30m 3714 \u001b[39m\u001b[37m\u001b[39m\u001b[47m\u001b[30m 11:06:15 \u001b[00m\u001b[39m\u001b[49m\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m\u001b[143D"
+    ],
+    [
+      0.378470,
+      "\r\r\n"
+    ],
+    [
+      0.000029,
+      "\u001b[7mDocuments/\u001b[0m  \r\u001b[7mDocuments/\u001b[0m  \r\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m\r\u001b[24C"
+    ],
+    [
+      0.000018,
+      "cd Documents\u001b[1m/\u001b[0m\u001b[K\u001b[124C\u001b[39m\u001b[0m\u001b[49m \u001b[39m\u001b[39m\u001b[39m\u001b[49m\u001b[30m 3714 \u001b[39m\u001b[37m\u001b[39m\u001b[47m\u001b[30m 11:06:15 \u001b[00m\u001b[39m\u001b[49m\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m\u001b[143D"
+    ],
+    [
+      0.000065,
+      "\u001b[8Dwnload\u001b[2C\r\r\n"
+    ],
+    [
+      0.000015,
+      "\u001b[12C\u001b[7mDownloads/\u001b[0m\r\u001b[1;31mDocuments\u001b[0m/  \r\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m\r\u001b[24C"
+    ],
+    [
+      0.000023,
+      "cd Downloads\u001b[1m/\u001b[0m\u001b[K\u001b[124C\u001b[39m\u001b[0m\u001b[49m \u001b[39m\u001b[39m\u001b[39m\u001b[49m\u001b[30m 3714 \u001b[39m\u001b[37m\u001b[39m\u001b[47m\u001b[30m 11:06:15 \u001b[00m\u001b[39m\u001b[49m\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m\u001b[143D"
+    ],
+    [
+      2.127914,
+      "\r\r\n\u001b[J\u001b[A\u001b[37C"
+    ],
+    [
+      0.640000,
+      "\u0008\u001b[0m \u0008"
+    ],
+    [
+      0.000023,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000039,
+      "\r\r\n\u001b[J"
+    ],
+    [
+      0.000546,
+      "\u001b]2;cd Downloads\u0007\u001b]1;cd\u0007"
+    ],
+    [
+      0.003762,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                    \r \r"
+    ],
+    [
+      0.003898,
+      "\u001b]2;geobart@geobeyond: ~/Downloads\u0007"
+    ],
+    [
+      0.000006,
+      "\u001b]1;~/Downloads\u0007"
+    ],
+    [
+      0.005255,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m\u001b[39m geobart@geobeyond\u001b[44m\u001b[30m\u001b[30m ~/Downloads \u001b[49m\u001b[34m\u001b[39m \u001b[K\u001b[127C\u001b[39m\u001b[0m\u001b[49m \u001b[39m\u001b[39m\u001b[39m\u001b[49m\u001b[30m 3715 \u001b[39m\u001b[37m\u001b[39m\u001b[47m\u001b[30m 11:06:28 \u001b[00m\u001b[39m\u001b[49m\u001b[146D\u001b[?1h\u001b="
+    ],
+    [
+      1.586896,
+      "l"
+    ],
+    [
+      0.143654,
+      "\u0008ls"
+    ],
+    [
+      0.176015,
+      " "
+    ],
+    [
+      0.504449,
+      "-"
+    ],
+    [
+      0.271886,
+      "l"
+    ],
+    [
+      0.120159,
+      "a"
+    ],
+    [
+      0.271631,
+      "r"
+    ],
+    [
+      0.176215,
+      "t"
+    ],
+    [
+      0.583756,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000023,
+      "\r\r\n"
+    ],
+    [
+      0.000716,
+      "\u001b]2;ls -G -lart\u0007\u001b]1;ls\u0007"
+    ],
+    [
+      0.027982,
+      "total 40387088\r\n"
+    ],
+    [
+      0.001038,
+      "-rw-r--r--@    1 geobart  staff     1792642 14 Feb  2005 CAS3UML.xml\r\n"
+    ],
+    [
+      0.000027,
+      "-rw-r--r--@    1 geobart  staff      520687  3 Feb  2010 handout-illus.pdf\r\n"
+    ],
+    [
+      0.000032,
+      "-rw-r--r--@    1 geobart  staff     2208305 30 Apr  2010 jgroups-2.6.15.GA.jar\r\n"
+    ],
+    [
+      0.000889,
+      "drwxr-xr-x@    9 geobart  staff         306 26 Mag  2010 \u001b[1m\u001b[36mled-1.111\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000015,
+      "-rw-r--r--@    1 geobart  staff     3201128 27 Ago  2010 sqlite-jdbc-3.7.2.jar\r\n"
+    ],
+    [
+      0.000036,
+      "-rw-r--r--@    1 geobart  staff      511488  8 Ott  2010 Manto nevoso.xls\r\n"
+    ],
+    [
+      0.000430,
+      "-rw-r--r--@    1 geobart  staff    32598458  2 Dic  2010 WPS-Webapp-0.0.2.war\r\n"
+    ],
+    [
+      0.000153,
+      "-rw-r--r--@    1 geobart  staff       15677 17 Gen  2011 geosms.apk\r\n-rw-r--r--     1 geobart  staff       66215 14 Mar  2011 GA_Orizz_Pos_Color_800px.png\r\n-rw-r--r--     1 geobart  staff      442229 18 Mar  2011 GA_Orizz_Pos_Color.eps\r\n-rw-rw-rw-     1 geobart  staff     7660722  5 Apr  2011 MOD11A2.A2008209.h18v04.005.2008222201606.hdf\r\n-rw-rw-rw-     1 geobart  staff     8318292  5 Apr  2011 MOD11A2.A2008209.h19v04.005.2008220115557.hdf\r\n-rw-r--r--     1 geobart  staff      284672 18 Apr  2011 Identity_Flow_Diagrams.vsd\r\n-rw-rw-rw-     1 geobart  staff       93696  7 Giu  2011 Vodafone_Music_OAM_OIF.vsd\r\n"
+    ],
+    [
+      0.000158,
+      "drwxr-xr-x@    8 geobart  staff         272  2 Nov  2011 \u001b[1m\u001b[36mevz-demo-9a8e484\u001b[39;49m\u001b[0m\r\ndrwxr-xr-x     4 geobart  staff         136 25 Gen  2012 \u001b[1m\u001b[36mskitour\u001b[39;49m\u001b[0m\r\n-rw-r--r--@    1 geobart  staff     1692226 27 Gen  2012 Cuneo_Metadati_Valanghe.pdf\r\n-rw-r--r--@    1 geobart  staff      246710 27 Gen  2012 Mappa mondiale degli incidenti da valanga_logo.pdf\r\n-rw-r--r--@    1 geobart  staff       52038  1 Feb  2012 Geoinformatics Forum Salzburg 2012.pdf\r\n-rw-r--r--@    1 geobart  staff     3449543  4 Feb  2012 MANUALE ECOSPORT.pdf\r\n"
+    ],
+    [
+      0.000055,
+      "-rw-r--r--@    1 geobart  staff      221661  4 Feb  2012 COSE lista membri web '11.pdf\r\n-rw-r--r--@    1 geobart  staff       66450  4 Feb  2012 Monti Sabini  Vetta del Tancia e Valle Gemini.gpx\r\n-rw-r--r--     1 geobart  staff        5904  8 Feb  2012 cliffs_test.json\r\n-rw-------     1 geobart  staff   103644563  8 Feb  2012 oxygen_13.2_cracked.zip\r\ndrwxr-xr-x@   14 geobart  staff         476  9 Feb  2012 \u001b[1m\u001b[36msitepress-multilingual-cms\u001b[39;49m\u001b[0m\r\n-rw-r--r--@    1 geobart  staff    11206533  9 Feb  2012 Huawei_E1750_Mac.zip\r\n-rw-r--r--@    1 geobart  staff     7790257  9 Feb  2012 3UK_27_20110519_r93.zip\r\n"
+    ],
+    [
+      0.000317,
+      "-rw-r--r--@    1 geobart  staff      246833 10 Feb  2012 Mappa mondiale degli incidenti da valanga.pdf\r\n"
+    ],
+    [
+      0.000016,
+      "-rw-r--r--@    1 geobart  staff       13440 11 Feb  2012 pitney_bowes_banner_180x150_aprile2010.png\r\n"
+    ],
+    [
+      0.000028,
+      "-rw-r--r--@    1 geobart  staff        4506 12 Feb  2012 tempcliff_revfra.json\r\n"
+    ],
+    [
+      0.000054,
+      "-rw-r--r--@    1 geobart  staff     6797566 22 Feb  2012 Sublime Text 2 Build 2181.dmg\r\n"
+    ],
+    [
+      0.000006,
+      "-rw-r--r--@    1 geobart  staff     5528787 22 Feb  2012 Sublime Text 2 Build 2181.tar.bz2\r\n"
+    ],
+    [
+      0.000013,
+      "-rw-r--r--@    1 geobart  staff     5595692 22 Feb  2012 Sublime Text 2 Build 2181 x64.tar.bz2\r\n"
+    ],
+    [
+      0.000026,
+      "-rw-r--r--@    1 geobart  staff     4023429 22 Feb  2012 Novatel_MiFi_UserGuide.pdf\r\n"
+    ],
+    [
+      0.000037,
+      "-rw-r--r--@    1 geobart  staff    77649920 24 Feb  2012 CST-Web-2.1.2-en-macosx.cocoa.x86_64.tar\r\n"
+    ],
+    [
+      0.000006,
+      "drwxr-xr-x@    9 geobart  staff         306 24 Feb  2012 \u001b[1m\u001b[36mCST-Web-2.1.2-en\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000015,
+      "-rw-r--r--@    1 geobart  staff    24560472 24 Feb  2012 pgadmin3-1.14.2.dmg\r\n"
+    ],
+    [
+      0.000027,
+      "-rw-r--r--     1 geobart  staff     1223066 24 Feb  2012 sitepress-multilingual-cms.zip\r\n"
+    ],
+    [
+      0.000004,
+      "-rw-r--r--@    1 geobart  staff    34332798 29 Feb  2012 GDAL_Complete-1.9.dmg\r\n"
+    ],
+    [
+      0.000043,
+      "-rw-r--r--@    1 geobart  staff      218112  2 Mar  2012 frtemplate.doc\r\n"
+    ],
+    [
+      0.000006,
+      "-rw-r--r--@    1 geobart  staff       79360  2 Mar  2012 FRDTemplate.doc\r\n"
+    ],
+    [
+      0.000009,
+      "-rw-r--r--@    1 geobart  staff       36352  2 Mar  2012 nfr_template.doc\r\n"
+    ],
+    [
+      0.000023,
+      "-rw-r--r--@    1 geobart  staff       37376  2 Mar  2012 NLI0532.xls\r\n"
+    ],
+    [
+      0.000018,
+      "-rw-r--r--@    1 geobart  staff       37888  2 Mar  2012 CDC_UP_Requirements_Traceability_Matrix_Template.xls\r\n"
+    ],
+    [
+      0.000024,
+      "-rw-r--r--@    1 geobart  staff      405504  2 Mar  2012 RM_Plan.doc\r\n"
+    ],
+    [
+      0.000057,
+      "-rw-r--r--@    1 geobart  staff      647680  2 Mar  2012 EDXL_HAVE_Requirements_12232005.doc\r\n"
+    ],
+    [
+      0.000025,
+      "-rw-r--r--@    1 geobart  staff    36087677  2 Mar  2012 UploadedFile_129751547081848750.doc\r\n"
+    ],
+    [
+      0.000049,
+      "-rw-r--r--@    1 geobart  staff       51712  2 Mar  2012 Synopsis_ReqSpec.doc\r\n"
+    ],
+    [
+      0.000005,
+      "-rw-r--r--@    1 geobart  staff       61440  2 Mar  2012 cpts322-srs-v1.doc\r\n"
+    ],
+    [
+      0.000295,
+      "-rw-r--r--@    1 geobart  staff      466590  2 Mar  2012 Sample-Software-Requirement-Specification.zip\r\n"
+    ],
+    [
+      0.000017,
+      "-rw-r--r--@    1 geobart  staff       59392  2 Mar  2012 SW_REQ_SPEC.dot\r\n"
+    ],
+    [
+      0.000088,
+      "-rw-r--r--@    1 geobart  staff      402488  3 Mar  2012 osgeo-conference-2013-request-for-proposal.pdf\r\n"
+    ],
+    [
+      0.000030,
+      "-rw-r--r--@    1 geobart  staff     9929318  5 Mar  2012 ganttproject-2.0.10-lion.dmg\r\n"
+    ],
+    [
+      0.000052,
+      "-rw-r--r--@    1 geobart  staff       19211 10 Mar  2012 Trenitalia_fattura_144584_del_10-03-2012.pdf\r\n"
+    ],
+    [
+      0.000018,
+      "-rw-r--r--@    1 geobart  staff      139327 12 Mar  2012 RyanairBoardingPass (1).pdf\r\n"
+    ],
+    [
+      0.000027,
+      "-rw-r--r--@    1 geobart  staff      950588 15 Mar  2012 futureinternet-04-00265.pdf\r\n"
+    ],
+    [
+      0.000017,
+      "-rw-r--r--     1 geobart  staff     5000000 15 Mar  2012 navicat100_premium_en.part10.rar\r\n"
+    ],
+    [
+      0.000024,
+      "-rw-r--r--@    1 geobart  staff     7513917 19 Mar  2012 IPSecuritas.dmg\r\n"
+    ],
+    [
+      0.000022,
+      "-rw-r--r--@    1 geobart  staff   811441491 19 Mar  2012 linuxmint-12.x86.7z\r\n"
+    ],
+    [
+      0.000034,
+      "-rw-r--r--@    1 geobart  staff   750676479 19 Mar  2012 mint12t.zip\r\n"
+    ],
+    [
+      0.000040,
+      "-rw-r--r--@    1 geobart  staff    10606329 19 Mar  2012 booktraining.net_Beginning_Spatial_with_SQL_Server_2008.rar\r\n"
+    ],
+    [
+      0.000005,
+      "-rw-r--r--@    1 geobart  staff   183549952 19 Mar  2012 Visual_Paradigm_for_UML_MacOSX_9_0_20120310.dmg\r\n"
+    ],
+    [
+      0.000025,
+      "drwxr-xr-x@    7 geobart  staff         238 20 Mar  2012 \u001b[1m\u001b[36mpostgis_viewer\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000029,
+      "-rw-r--r--@    1 geobart  staff        8448 25 Mar  2012 ogs_2.4.5.rtf\r\n"
+    ],
+    [
+      0.000040,
+      "-rw-r--r--@    1 geobart  staff        7003 26 Mar  2012 print.pdf\r\n"
+    ],
+    [
+      0.000014,
+      "-rw-r--r--@    1 geobart  staff     3057422 27 Mar  2012 Addendum-Lab100.zip\r\n"
+    ],
+    [
+      0.000138,
+      "-rw-r--r--@    1 geobart  staff       28672 27 Mar  2012 attachment-0001.doc\r\n-rw-r--r--@    1 geobart  staff      420455 28 Mar  2012 C_17_pubblicazioni_957_ulterioriallegati_ulterioreallegato_12_alleg.zip\r\n-rw-r--r--@    1 geobart  staff      678483 28 Mar  2012 linee_guida Lazio 2003.zip\r\n-rw-r--r--@    1 geobart  staff    21142071 28 Mar  2012 RSQL563.zip\r\n-rw-r--r--@    1 geobart  staff       66992 30 Mar  2012 FIG Registration details.pdf\r\n-rw-r--r--@    1 geobart  staff        4678 31 Mar  2012 sphinxcontrib-plantuml-0.3.tar.gz\r\n-rw-r--r--@    1 geobart  staff     9618944 31 Mar  2012 restblog.tar\r\n"
+    ],
+    [
+      0.000192,
+      "-rw-r--r--@    1 geobart  staff        7046  2 Apr  2012 print (1).pdf\r\n"
+    ],
+    [
+      0.000098,
+      "-rw-r--r--@    1 geobart  staff      161280  2 Apr  2012 GI2012+abstract+bartoli.doc\r\n-rw-r--r--@    1 geobart  staff      373724  3 Apr  2012 ipad.pdf\r\n"
+    ],
+    [
+      0.000019,
+      "-rw-r--r--@    1 geobart  staff       14054  3 Apr  2012 suite.txt\r\n"
+    ],
+    [
+      0.000022,
+      "-rw-r--r--@    1 geobart  staff      165376  3 Apr  2012 GI2012+abstract+name+summary.doc\r\n"
+    ],
+    [
+      0.000025,
+      "-rw-r--r--@    1 geobart  staff       25283  3 Apr  2012 cloud_sptheme-1.2.tar.gz\r\n"
+    ],
+    [
+      0.000023,
+      "drwxr-xr-x@    4 geobart  staff         136  4 Apr  2012 \u001b[1m\u001b[36mAdobe CS5.5 Master Collection MAC (Serials)\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000033,
+      "drwxr-xr-x     6 geobart  staff         204  5 Apr  2012 \u001b[1m\u001b[36m_themes\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000029,
+      "drwx------@    7 geobart  staff         238  6 Apr  2012 \u001b[1m\u001b[36mClimbingServer\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000035,
+      "drwxr-xr-x@    6 geobart  staff         204 10 Apr  2012 \u001b[1m\u001b[36mgeoserver-plugin-geoshield-1.0.0-jar\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000011,
+      "-rw-r--r--@    1 geobart  staff      188147 13 Apr  2012 IMG_13042012_111456.png\r\n"
+    ],
+    [
+      0.000033,
+      "-rw-r--r--@    1 geobart  staff    54077408 13 Apr  2012 navicat100_premium_en.dmg\r\n"
+    ],
+    [
+      0.032859,
+      "-rw-r--r--@    1 geobart  staff       35791 14 Apr  2012 bartaz-impress.js-0.5.3-1-g24cef7f.zip\r\n"
+    ],
+    [
+      0.000244,
+      "drwx------     9 geobart  staff         306 14 Apr  2012 \u001b[1m\u001b[36mimpressjs\u001b[39;49m\u001b[0m\r\n-rw-r--r--@    1 geobart  staff      234299 15 Apr  2012 shama-jmpress.js-v0.4.0-2-gd41f46e.zip\r\ndrwx------    15 geobart  staff         510 15 Apr  2012 \u001b[1m\u001b[36mjmpressjs\u001b[39;49m\u001b[0m\r\n-rw-r--r--@    1 geobart  staff       52301 15 Apr  2012 hakimel-reveal.js-v1.2-3-g6188306.zip\r\ndrwx------    10 geobart  staff         340 15 Apr  2012 \u001b[1m\u001b[36mrevealjs\u001b[39;49m\u001b[0m\r\n-rw-r--r--@    1 geobart  staff    33269003 18 Apr  2012 SJJB-PNGALL-Icons-20111021.tar.gz\r\n-rw-r--r--@    1 geobart  staff     3572500 20 Apr  2012 Rumney_FarmForest_GeoPDF.pdf\r\n-rw-r--r--@    1 geobart  staff    13475284 22 Apr  2012 rcouchx-0.5.2.dmg\r\n-rw-r--r--@    1 geobart  staff       13279 25 Apr  2012 CRP_FAQ_2012.xlsx\r\ndrwxr-xr-x@   11 geobart  staff         374 26 Apr  2012 \u001b[1m\u001b[36makismet\u001b[39;49m\u001b[0m\r\n-rw-r--r--@    1 geobart  staff     9573039 28 Apr  2012 opengeo-gxp-1085808.zip\r\ndrwx------    15 geobart  staff         510 28 Apr  2012 \u001b[1m\u001b[36"
+    ],
+    [
+      0.000013,
+      "mopengeo-gxp-1085808\u001b[39;49m\u001b[0m\r\ndrwxr-xr-x    12 geobart  staff         408 29 Apr  2012 \u001b[1m\u001b[36mcsw-search\u001b[39;49m\u001b[0m\r\n-rw-------@    1 geobart  staff     1055101 30 Apr  2012 script_6969.zip\r\n"
+    ],
+    [
+      0.000024,
+      "-rw-r--r--@    1 geobart  staff     2084854 30 Apr  2012 desandro-close-pixelate-331ea33.zip\r\n"
+    ],
+    [
+      0.000021,
+      "-rw-r--r--@    1 geobart  staff      250405 30 Apr  2012 geobmosaic-new-full.png\r\n"
+    ],
+    [
+      0.000038,
+      "-rw-r--r--@    1 geobart  staff     1275162 30 Apr  2012 geobmosaic-new-full_op.png\r\n"
+    ],
+    [
+      0.000036,
+      "-rw-r--r--@    1 geobart  staff       87332 30 Apr  2012 fig_2012_bartoli_1335794492774.zip\r\n"
+    ],
+    [
+      0.000057,
+      "-rw-r--r--@    1 geobart  staff     6611301  1 Mag  2012 siglibre2012opengeosuite02-120327133432-phpapp01.pdf\r\n"
+    ],
+    [
+      0.000458,
+      "drwxr-xr-x@    9 geobart  staff         306  1 Mag  2012 \u001b[1m\u001b[36mjgraphx\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000040,
+      "-rw-r--r--@    1 geobart  staff     9648618  2 Mag  2012 06-Intro-and-Discussion-OGC-Open-GeoSMS-Standard.pptx\r\n"
+    ],
+    [
+      0.000034,
+      "drwxr-xr-x    34 geobart  staff        1156 10 Mag  2012 \u001b[1m\u001b[36mworkshop_postgis_ita\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000031,
+      "-rw-r--r--@    1 geobart  staff      661831 12 Mag  2012 shutterstock-rickshaw-cbc79e1.tar.gz\r\n"
+    ],
+    [
+      0.000089,
+      "-rw-------@    1 geobart  staff     2622385 15 Mag  2012 9837DBTspecifiche.zip\r\ndrwxr-xr-x    42 geobart  staff        1428 15 Mag  2012 \u001b[1m\u001b[36mpavia\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000006,
+      "drwxr-xr-x     6 geobart  staff         204 17 Mag  2012 \u001b[1m\u001b[36mfirenze\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000030,
+      "-rw-r--r--@    1 geobart  staff     1188437 17 Mag  2012 inspire_marchesini[1].pdf\r\n"
+    ],
+    [
+      0.000043,
+      "drwxr-xr-x    11 geobart  staff         374 21 Mag  2012 \u001b[1m\u001b[36mtemp\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000023,
+      "-rw-r--r--@    1 geobart  staff      743889 24 Mag  2012 mapbox-wax-v6.0.3-0-g913e19f.zip\r\n"
+    ],
+    [
+      0.000004,
+      "-rw-r--r--@    1 geobart  staff      151851 25 Mag  2012 mapbox-mbutil-v0.0.2-8-g7aae05e.zip\r\n"
+    ],
+    [
+      0.000042,
+      "-rw-r--r--@    1 geobart  staff    84827555 29 Mag  2012 Wakanda-All-in-One-v2-111554.zip\r\n"
+    ],
+    [
+      0.000004,
+      "-rw-r--r--@    1 geobart  staff   372733578 30 Mag  2012 OpenGeoSuite-ce-2.5.dmg\r\n"
+    ],
+    [
+      0.000026,
+      "-rw-r--r--@    1 geobart  staff       10240 30 Mag  2012 excel_example.xls\r\n"
+    ],
+    [
+      0.000034,
+      "-rw-r--r--@    1 geobart  staff      738304 31 Mag  2012 domanda bando aic 2012.doc\r\n"
+    ],
+    [
+      0.000022,
+      "drwxr-xr-x     6 geobart  staff         204  9 Giu  2012 \u001b[1m\u001b[36mWakanda\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000041,
+      "-rw-r--r--@    1 geobart  staff     1463879 10 Giu  2012 propercursive-node-express-html5boilerplate-c1e63d1.zip\r\n"
+    ],
+    [
+      0.000054,
+      "-rw-r--r--@    1 geobart  staff        7756 10 Giu  2012 robrighter-node-boilerplate-ac39ae9.zip\r\n"
+    ],
+    [
+      0.000054,
+      "drwxr-xr-x@    8 geobart  staff         272 12 Giu  2012 \u001b[1m\u001b[36mSuperDuper! v2.6.4 with Core keygen\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000047,
+      "-rw-r--r--@    1 geobart  staff      543899 12 Giu  2012 citycouncil.geojson\r\n"
+    ],
+    [
+      0.000019,
+      "-rwx------@    1 geobart  staff      285496 12 Giu  2012 \u001b[31mevents30052012.geojson\u001b[39;49m\u001b[0m\r\n-rw-r--r--@    1 geobart  staff    15555170 13 Giu  2012 OpenJUMP-Installer-1.5.2-r2930-CORE.jar\r\n"
+    ],
+    [
+      0.000039,
+      "-rw-r--r--@    1 geobart  staff    31039240 13 Giu  2012 OpenJUMP-Installer-1.5.2-r2930-PLUS.jar\r\n"
+    ],
+    [
+      0.000110,
+      "-rw-r--r--@    1 geobart  staff    32580710 13 Giu  2012 wms2go_1.0.tar.gz\r\n"
+    ],
+    [
+      0.000554,
+      "-rw-r--r--@    1 geobart  staff    40960000 14 Giu  2012 Core-Keygen.dmg\r\n"
+    ],
+    [
+      0.000014,
+      "-rw-r--r--@    1 geobart  staff       38300 18 Giu  2012 sethvincent-leaflet-skeleton-example-2c198a2.zip\r\n"
+    ],
+    [
+      0.000080,
+      "-rw-r--r--@    1 geobart  staff    79593804 20 Giu  2012 QGIS-1.8.0-1.dmg\r\n"
+    ],
+    [
+      0.000061,
+      "-rw-r--r--@    1 geobart  staff      138160 20 Giu  2012 events.csv\r\n"
+    ],
+    [
+      0.000007,
+      "-rw-------     1 geobart  staff     1495483 23 Giu  2012 TabulaJs_5.3.0.zip\r\n"
+    ],
+    [
+      0.000039,
+      "-rw-r--r--@    1 geobart  staff    27562505 25 Giu  2012 snow_MSG_20051231_12345678_L00013712E00013712.hdf\r\n"
+    ],
+    [
+      0.000046,
+      "-rw-r--r--@    1 geobart  staff   115056640 27 Giu  2012 soapUI-4.5.1.dmg\r\n"
+    ],
+    [
+      0.000013,
+      "-rw-r--r--@    1 geobart  staff      464981 27 Giu  2012 wf_geoav.pptx\r\n"
+    ],
+    [
+      0.000041,
+      "drwxr-xr-x@    5 geobart  staff         170 27 Giu  2012 \u001b[1m\u001b[36mwf_geoav\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000013,
+      "drwxr-xr-x     4 geobart  staff         136 30 Giu  2012 \u001b[1m\u001b[36mtuttometeo\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000084,
+      "-rw-r--r--@    1 geobart  staff     2378793  3 Lug  2012 geoavalanche_poster.pdf\r\ndrwxr-xr-x@   35 geobart  staff        1190  6 Lug  2012 \u001b[1m\u001b[36mcx_Oracle-5.1.2\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000110,
+      "-rw-r--r--@    1 geobart  staff   641719637 10 Lug  2012 PushToTest_TestMaker_Community_Install_Mac-2011-10-26_06-19-18-49.zip\r\n-rw-r--r--@    1 geobart  staff      159025 11 Lug  2012 12-067r2_Charter_for_a_SWG_IoT_REST_API_SWG.doc\r\n"
+    ],
+    [
+      0.000010,
+      "-rw-r--r--@    1 geobart  staff       13121 11 Lug  2012 stacksocial_invoice.pdf\r\n-rw-r--r--@    1 geobart  staff      299014 11 Lug  2012 restjsonapis-120711135859-phpapp02.pdf\r\n"
+    ],
+    [
+      0.000145,
+      "-rw-r--r--@    1 geobart  staff      244258 13 Lug  2012 DUL.owl\r\ndrwxr-xr-x@    6 geobart  staff         204 17 Lug  2012 \u001b[1m\u001b[36miGlasses v3.2 Installer\u001b[39;49m\u001b[0m\r\n-rw-r--r--@    1 geobart  staff      482299 17 Lug  2012 tagcloudgeob.png\r\n-rw-r--r--@    1 geobart  staff      474275 17 Lug  2012 competagcloud.png\r\n"
+    ],
+    [
+      0.000588,
+      "-rw-r--r--@    1 geobart  staff   114960235 17 Lug  2012 openiam-idm-ce-2_2.zip\r\n"
+    ],
+    [
+      0.000034,
+      "-rw-r--r--@    1 geobart  staff      346072 17 Lug  2012 Syncope OpenSource IdM - it 1.2.pdf\r\n"
+    ],
+    [
+      0.000034,
+      "-rw-r--r--@    1 geobart  staff     5005164 18 Lug  2012 geob_cv.docx\r\n"
+    ],
+    [
+      0.000006,
+      "-rw-r--r--@    1 geobart  staff        2337 20 Lug  2012 popolazione.csv\r\n"
+    ],
+    [
+      0.000021,
+      "-rw-r--r--@    1 geobart  staff         799 23 Lug  2012 curl_avalanche.txt\r\n"
+    ],
+    [
+      0.000077,
+      "-rw-r--r--@    1 geobart  staff      696320 25 Lug  2012 OpenTechSchool-js-beginners-day1-9bce347.tar\r\n"
+    ],
+    [
+      0.000016,
+      "-rw-r--r--@    1 geobart  staff      184320 25 Lug  2012 OpenTechSchool-js-beginners-day2-868d5f9.tar\r\n"
+    ],
+    [
+      0.000004,
+      "-rw-r--r--     1 geobart  staff      708524  1 Ago  2012 Immagini 2.zip\r\n"
+    ],
+    [
+      0.000036,
+      "-rw-rw-r--@    1 geobart  staff        7897  1 Ago  2012 topp_state_subregion.sld\r\n"
+    ],
+    [
+      0.000148,
+      "-rw-r--r--@    1 geobart  staff       34533  7 Ago  2012 projects\u0026clients.xlsx\r\n-rw-r--r--@    1 geobart  staff   307240001 14 Ago  2012 hale-screencast_v3.mp4\r\n-rw-r--r--@    1 geobart  staff      125814 25 Ago  2012 Alan_Brunstrom,_ESA_Harwell_Centre_-UK_Space_Consumer_Apps__5.pdf\r\n-rw-r--r--@    1 geobart  staff     6917129 25 Ago  2012 LUX - ARTES 20 Feasibility Studies.pdf\r\ndrwxr-xr-x@   25 geobart  staff         850 27 Ago  2012 \u001b[1m\u001b[36mbizoo-Oracle\u001b[39;49m\u001b[0m\r\n-rw-r--r--@    1 geobart  staff      643584 27 Ago  2012 HYLAS 1 Capacity Request_Ver.1.3.doc\r\n-rw-r--r--@    1 geobart  staff       48270  4 Set  2012 Geoserver+-+REST.pdf\r\n-rw-r--r--@    1 geobart  staff       79393  4 Set  2012 Geoserver+e+Freemarker.pdf\r\n"
+    ],
+    [
+      0.000057,
+      "-rw-r--r--@    1 geobart  staff    28884983 11 Set  2012 nxmc-1.2.3.dmg\r\n-rw-r--r--@    1 geobart  staff      119296 11 Set  2012 CvGeospatialExpert.doc\r\n"
+    ],
+    [
+      0.000013,
+      "-rw-r--r--@    1 geobart  staff      104972 14 Set  2012 ESTA Application.pdf\r\n"
+    ],
+    [
+      0.000044,
+      "-rw-r--r--@    1 geobart  staff     1217796 16 Set  2012 ISSW_Installation_Guide_RAMMS.pdf\r\n"
+    ],
+    [
+      0.000054,
+      "-rw-r--r--@    1 geobart  staff      113118 27 Set  2012 bmcbride-leaflet-users-map-61d2804.zip\r\n-rw-r--r--@    1 geobart  staff     1462038 28 Set  2012 Inventoria_i.dmg\r\n"
+    ],
+    [
+      0.000527,
+      "-rw-r--r--@    1 geobart  staff    19441635 29 Set  2012 python-3.3.0-macosx10.6.dmg\r\n"
+    ],
+    [
+      0.000010,
+      "-rw-r--r--     1 geobart  staff     1924718  2 Ott  2012 image010.jpg\r\n"
+    ],
+    [
+      0.000057,
+      "-rw-r--r--@    1 geobart  staff       85086  3 Ott  2012 Confirmation AMS - KLM.pdf\r\n"
+    ],
+    [
+      0.000054,
+      "-rw-r--r--@    1 geobart  staff    23679588  3 Ott  2012 IOW_2012_10_03_iceland_bloom_H2.tif\r\n"
+    ],
+    [
+      0.000026,
+      "-rw-r--r--@    1 geobart  staff      272756  4 Ott  2012 makinacorpus-django-leaflet-0.2.0-8-g07d886f.zip\r\n"
+    ],
+    [
+      0.000034,
+      "-rw-r--r--@    1 geobart  staff     1503765  4 Ott  2012 mattmakesmaps-geodjango-66317c3.zip\r\n"
+    ],
+    [
+      0.000056,
+      "drwx------    19 geobart  staff         646  4 Ott  2012 \u001b[1m\u001b[36mleaflet-geodjango\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000009,
+      "-rw-r--r--@    1 geobart  staff     2080576  4 Ott  2012 AppointmentLetterExecuted.pdf\r\n"
+    ],
+    [
+      0.000041,
+      "-rw-r--r--@    1 geobart  staff   377680515  6 Ott  2012 spring-tool-suite-3.1.0.RELEASE-e4.2-macosx-cocoa-x86_64-installer.dmg\r\n"
+    ],
+    [
+      0.000024,
+      "-rw-r--r--@    1 geobart  staff     6041385  6 Ott  2012 spatial-data-and-geodjango.zip\r\n"
+    ],
+    [
+      0.000051,
+      "drwxrwxrwx     8 geobart  staff         272  6 Ott  2012 \u001b[30m\u001b[43meuropython-geodjango-slides\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000018,
+      "-rwxrwxrwx     1 geobart  staff     3738112  8 Ott  2012 \u001b[31mUEK4SNM00003_LK4A686SNM04_D_Configurazioneambientiproduzione.doc\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000054,
+      "-rw-r--r--@    1 geobart  staff         658  8 Ott  2012 gist3765928-4a213c88dc2ce2617696329caa1d585759a984b6.tar.gz\r\n"
+    ],
+    [
+      0.000051,
+      "-rw-r--r--@    1 geobart  staff      202402  9 Ott  2012 amsterdam_booking.pdf\r\n"
+    ],
+    [
+      0.001968,
+      "-rw-r--r--@    1 geobart  staff     2875904  9 Ott  2012 osso-oam-migration.ppt\r\n"
+    ],
+    [
+      0.000224,
+      "drwxr-xr-x@   44 geobart  staff        1496 12 Ott  2012 \u001b[1m\u001b[36mplantumlqeditor-master\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000121,
+      "-rw-r--r--@    1 geobart  staff     1301206 13 Ott  2012 Admin-Console-QuickStart.pdf\r\ndrwxr-xr-x     8 geobart  staff         272 14 Ott  2012 \u001b[1m\u001b[36mOracle testing\u001b[39;49m\u001b[0m\r\n-rw-r--r--@    1 geobart  staff   227072000 17 Ott  2012 sqldeveloper-3.2.10.09.57-macosx.tar\r\n-rw-r--r--@    1 geobart  staff       40960 18 Ott  2012 bizoo-Oracle-23634f9.tar\r\n-rw-r--r--@    1 geobart  staff     1985402 18 Ott  2012 Test_Plan-Produzione Completo-2012 rev. 1.0.jmx\r\n-rw-r--r--@    1 geobart  staff    24001774 18 Ott  2012 apache-jmeter-2.6.rar\r\ndrwxr-xr-x@   11 geobart  staff         374 19 Ott  2012 \u001b[1m\u001b[36mapache-jmeter-2.6\u001b[39;49m\u001b[0m\r\n-rw-r--r--@    1 geobart  staff       47425 19 Ott  2012 OEBB_Ticket.pdf\r\n-rw-r--r--@    1 geobart  staff       24725 23 Ott  2012 gb_rios.png\r\n-rw-r--r--@    1 geobart  staff     1131349 23 Ott  2012 rectangular_gb_full_hr.jpg\r\n"
+    ],
+    [
+      0.000161,
+      "-rw-r--r--@    1 geobart  staff      707672 23 Ott  2012 rectangular_gb_full_hr.tiff\r\n-rw-r--r--@    1 geobart  staff      455062 24 Ott  2012 munich_checkin.pdf\r\n"
+    ],
+    [
+      0.000010,
+      "-rw-r--r--@    1 geobart  staff      258092 25 Ott  2012 munich_checkin_back.pdf\r\n-rw-r--r--@    1 geobart  staff       67207 27 Ott  2012 og-intro-suite.png\r\n-rw-r--r--@    1 geobart  staff     1924720 27 Ott  2012 image010,5.jpg\r\n-rw-r--r--@    1 geobart  staff      176137 27 Ott  2012 og-intro-suite.jpg\r\ndrwxr-xr-x   130 geobart  staff        4420 30 Ott  2012 \u001b[1m\u001b[36mFotos_AC\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000003,
+      "-rw-r--r--@    1 geobart  staff     1710080 30 Ott  2012 htop-1.0.1.tar\r\n"
+    ],
+    [
+      0.000048,
+      "-rwxrwxrwx     1 geobart  staff      642230 30 Ott  2012 \u001b[31m28-08-2012 Specifiche di integrazione SI ver.0.4.2.docx\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000562,
+      "-rw-r--r--@    1 geobart  staff      648276  6 Nov  2012 justniffer_0.5.11.tar.gz\r\n"
+    ],
+    [
+      0.000057,
+      "-rw-r--r--@    1 geobart  staff    11225576  6 Nov  2012 Packtpub.Spring.Security.3.May.2010.pdf\r\n"
+    ],
+    [
+      0.000264,
+      "-rw-r--r--@    1 geobart  staff      430080  6 Nov  2012 Central Authentication Service (CAS).ppt\r\n-rw-r--r--@    1 geobart  staff   178409472  7 Nov  2012 Visual_Paradigm_for_UML_MacOSX_10_0_sp1_20121104.dmg\r\ndrwxr-xr-x     8 geobart  staff         272  9 Nov  2012 \u001b[1m\u001b[36mcaaml\u001b[39;49m\u001b[0m\r\n-rw-r--r--@    1 geobart  staff        6053  9 Nov  2012 image_gallery.jpeg\r\n-rw-r--r--     1 geobart  staff       20467  9 Nov  2012 image_gallery.jpg\r\n-rw-r--r--     1 geobart  staff       26899  9 Nov  2012 image_gallery.png\r\n"
+    ],
+    [
+      0.000010,
+      "-rw-r--r--@    1 geobart  staff         408  9 Nov  2012 descrizione_GB.txt\r\n"
+    ],
+    [
+      0.000005,
+      "-rw-r--r--     1 geobart  staff       44840  9 Nov  2012 Archivio.zip\r\n"
+    ],
+    [
+      0.000112,
+      "-rw-r--r--@    1 geobart  staff       17057 10 Nov  2012 sedi_RIOS.ods\r\n-rw-r--r--@    1 geobart  staff        1557 10 Nov  2012 sedi_RIOS.csv\r\n"
+    ],
+    [
+      0.000037,
+      "-rw-r--r--@    1 geobart  staff        8005 10 Nov  2012 pygeocoder-1.1.4.tar\r\n"
+    ],
+    [
+      0.000115,
+      "drwxr-xr-x     6 geobart  staff         204 10 Nov  2012 \u001b[1m\u001b[36mckarrie-oa-batch-geocoder-d80e49804c93\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000128,
+      "-rw-r--r--@    1 geobart  staff        2001 11 Nov  2012 sedi_RIOS_geocoded.csv\r\ndrwxr-xr-x@   13 geobart  staff         442 12 Nov  2012 \u001b[1m\u001b[36mCloudMade-Leaflet-165e50f\u001b[39;49m\u001b[0m\r\n-rw-r--r--@    1 geobart  staff      153009 15 Nov  2012 cas_presentation_20110407.pdf\r\ndrwxr-xr-x     5 geobart  staff         170 15 Nov  2012 \u001b[1m\u001b[36mJmeter2.8conPlugin\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000092,
+      "-rw-r--r--@    1 geobart  staff      424248 16 Nov  2012 screenshot_40.jpg\r\n-rw-r--r--@    1 geobart  staff      185733 16 Nov  2012 screenshot_41.jpg\r\n"
+    ],
+    [
+      0.000015,
+      "-rw-r--r--@    1 geobart  staff      168020 16 Nov  2012 screenshot_42.jpg\r\n"
+    ],
+    [
+      0.000003,
+      "-rw-r--r--@    1 geobart  staff        8379 19 Nov  2012 openlayers_proposed.png\r\n"
+    ],
+    [
+      0.000100,
+      "drwx------@   83 geobart  staff        2822 19 Nov  2012 \u001b[1m\u001b[36mCamera Uploads\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000129,
+      "-rw-r--r--@    1 geobart  staff        1465 21 Nov  2012 parametriPoi.txt\r\ndrwxr-xr-x     4 geobart  staff         136 21 Nov  2012 \u001b[1m\u001b[36mgeocode_rios\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000009,
+      "-rw-r--r--@    1 geobart  staff       82133 21 Nov  2012 bootstrap.zip\r\n"
+    ],
+    [
+      0.000074,
+      "-rw-r--r--@    1 geobart  staff      631640 22 Nov  2012 CloudMade-Leaflet-v0.4.5.zip\r\n"
+    ],
+    [
+      0.000011,
+      "-rw-r--r--@    1 geobart  staff        5660 22 Nov  2012 syntax.md\r\n"
+    ],
+    [
+      0.000025,
+      "-rw-r--r--     1 geobart  staff        5773 22 Nov  2012 sedi_RIOS_geocoded.geojson\r\n"
+    ],
+    [
+      0.000041,
+      "drwxr-xr-x@  187 geobart  staff        6358 23 Nov  2012 \u001b[1m\u001b[36mgeotools-8.4\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000146,
+      "-rw-r--r--@    1 geobart  staff        1155 29 Nov  2012 problemi.mdown\r\n-rw-r--r--@    1 geobart  staff      790421  2 Dic  2012 snow4energy LAST.rar\r\n"
+    ],
+    [
+      0.000115,
+      "drwxr-xr-x    15 geobart  staff         510  2 Dic  2012 \u001b[1m\u001b[36mSnow4Energy\u001b[39;49m\u001b[0m\r\n-rw-r--r--@    1 geobart  staff      203341  3 Dic  2012 tcp_ipv4.jpg\r\n-rw-r--r--@    1 geobart  staff      186176  3 Dic  2012 dns.jpg\r\n"
+    ],
+    [
+      0.000069,
+      "-rw-r--r--@    1 geobart  staff      539732  3 Dic  2012 iis.jpg\r\n-rw-r--r--@    1 geobart  staff      150832  3 Dic  2012 cert1.jpg\r\n"
+    ],
+    [
+      0.000005,
+      "-rw-r--r--@    1 geobart  staff      136186  3 Dic  2012 cert2.jpg\r\n"
+    ],
+    [
+      0.000013,
+      "-rw-r--r--     1 geobart  staff        4738  3 Dic  2012 UIRGEPWAS003.mdown\r\n"
+    ],
+    [
+      0.000014,
+      "-rw-r--r--     1 geobart  staff     1295460  3 Dic  2012 uirgepwas003.pdf\r\n"
+    ],
+    [
+      0.000015,
+      "-rw-r--r--     1 geobart  staff      321026  3 Dic  2012 procedura_cas_win.pdf\r\n"
+    ],
+    [
+      0.000025,
+      "-rw-r--r--@    1 geobart  staff      208673  4 Dic  2012 cx_Oracle-5.1.2.tar.gz\r\n"
+    ],
+    [
+      0.000018,
+      "drwxr-xr-x    33 geobart  staff        1122  5 Dic  2012 \u001b[1m\u001b[36msnowdepth\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000031,
+      "-rw-r--r--@    1 geobart  staff     1563028  6 Dic  2012 twitter-bootstrap.zip\r\n"
+    ],
+    [
+      0.000018,
+      "-rw-r--r--@    1 geobart  staff     1644883  7 Dic  2012 Eloquent JavaScript.zip\r\n"
+    ],
+    [
+      0.000366,
+      "-rw-r--r--@    1 geobart  staff      773229  9 Dic  2012 Montagna.TV-GeoAvalanche, le valanghe si segnalano col social mapping.pdf\r\n"
+    ],
+    [
+      0.000004,
+      "-rw-r--r--@    1 geobart  staff   432162330 10 Dic  2012 EarthFromSpace.ibooks\r\n"
+    ],
+    [
+      0.000029,
+      "-rw-r--r--@    1 geobart  staff      580867 12 Dic  2012 webservices crm integration.pdf\r\n"
+    ],
+    [
+      0.000024,
+      "-rw-r--r--@    1 geobart  staff     2141190 13 Dic  2012 plantuml.tar.bz2\r\n"
+    ],
+    [
+      0.000017,
+      "-rw-r--r--@    1 geobart  staff     2600584 15 Dic  2012 DAP Document - DWH.pdf\r\n"
+    ],
+    [
+      0.000029,
+      "-rw-r--r--@    1 geobart  staff      468764 15 Dic  2012 Additional_information_on_topic_SPA.2013.1.1-06_Data_Warehouse_Requirements_Document_v1.8.pdf\r\n"
+    ],
+    [
+      0.000022,
+      "-rw-r--r--@    1 geobart  staff      459285 20 Dic  2012 web api.pdf\r\n"
+    ],
+    [
+      0.000034,
+      "-rw-r--r--@    1 geobart  staff     1417717 26 Dic  2012 Route Planning with FOSS- OpenStreetMap, PostGIS, OSRM and OpenLayers.pdf\r\n"
+    ],
+    [
+      0.000032,
+      "-rw-r--r--@    1 geobart  staff     1028740  5 Gen  2013 Ushahidi-release-v3.1.4.apk\r\n"
+    ],
+    [
+      0.000011,
+      "-rw-r--r--@    1 geobart  staff       97226  5 Gen  2013 agiliq-sphinx-theme-master.zip\r\n"
+    ],
+    [
+      0.000024,
+      "-rw-r--r--@    1 geobart  staff     1369562  5 Gen  2013 Fusion_Sphinx-master.zip\r\n"
+    ],
+    [
+      0.000021,
+      "-rw-r--r--@    1 geobart  staff      163190  5 Gen  2013 sphinx-bootstrap-master.zip\r\n"
+    ],
+    [
+      0.000013,
+      "-rw-r--r--@    1 geobart  staff      220078  5 Gen  2013 sphinx-bootstrap-theme-master.zip\r\n"
+    ],
+    [
+      0.000018,
+      "-rw-r--r--@    1 geobart  staff       84297  5 Gen  2013 bootstrap (1).zip\r\n"
+    ],
+    [
+      0.000022,
+      "drwx------    15 geobart  staff         510  5 Gen  2013 \u001b[1m\u001b[36msphinx-bootstrap-theme-master\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000028,
+      "-rw-r--r--@    1 geobart  staff      519423  8 Gen  2013 136.pdf\r\n"
+    ],
+    [
+      0.000017,
+      "-rw-r--r--@    1 geobart  staff     2556408  9 Gen  2013 GISt61.pdf\r\n"
+    ],
+    [
+      0.001595,
+      "drwxr-xr-x@    4 geobart  staff         136 10 Gen  2013 \u001b[1m\u001b[36msphinx-themes-master\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000397,
+      "-rw-r--r--@    1 geobart  staff     3874383 13 Gen  2013 DikeX4.1.zip\r\n"
+    ],
+    [
+      0.000007,
+      "-rw-r--r--@    1 geobart  staff    47787623 13 Gen  2013 MacSnowLeopard.zip\r\n"
+    ],
+    [
+      0.000015,
+      "-rw-r--r--@    1 geobart  staff       89613 15 Gen  2013 acr38driver_installer-1.7.11.zip\r\n"
+    ],
+    [
+      0.000015,
+      "-rw-r--r--     1 geobart  staff     5762925 18 Gen  2013 geoOS.zip\r\n"
+    ],
+    [
+      0.000026,
+      "-rw-r--r--@    1 geobart  staff      462140 23 Gen  2013 collectl-3.6.5.src.tar.gz\r\n"
+    ],
+    [
+      0.000005,
+      "-rw-r--r--@    1 geobart  staff     8894082  1 Feb  2013 Sublime Text Build 3009.dmg\r\n"
+    ],
+    [
+      0.000014,
+      "-rw-r--r--     1 geobart  staff       13720  3 Feb  2013 Uirnet.sublime-workspace\r\n"
+    ],
+    [
+      0.000010,
+      "-rw-r--r--     1 geobart  staff          57  3 Feb  2013 Uirnet.sublime-project\r\n"
+    ],
+    [
+      0.000014,
+      "-rw-r--r--@    1 geobart  staff       35420  4 Feb  2013 pandoc-bootstrap-master.zip\r\n"
+    ],
+    [
+      0.000061,
+      "drwxrwxrwx     5 geobart  staff         170 11 Feb  2013 \u001b[30m\u001b[43mMac\u001b[39;49m\u001b[0m\r\n-rw-r--r--@    1 geobart  staff      134533 13 Feb  2013 Modello_Startup_Innovativa.pdf\r\n-rw-r--r--@    1 geobart  staff       85504 13 Feb  2013 Modello_Startup_Innovativa.doc\r\n-rw-r--r--     1 geobart  staff      136375 14 Feb  2013 Modello_Startup_Innovativa.pdf.p7m\r\n"
+    ],
+    [
+      0.000004,
+      "-rw-r--r--@    1 geobart  staff       41714 15 Feb  2013 LM_st_bonAd3ApcgSCMgpqoQjV_0.pdf\r\n"
+    ],
+    [
+      0.000018,
+      "-rw-r--r--@    1 geobart  staff     1398762 18 Feb  2013 image010,5.pdf\r\n"
+    ],
+    [
+      0.000005,
+      "-rw-r--r--@    1 geobart  staff      467494 19 Feb  2013 image0105.jpg\r\n"
+    ],
+    [
+      0.000018,
+      "-rw-r--r--@    1 geobart  staff     1915819 19 Feb  2013 eifreemaci.zip\r\n"
+    ],
+    [
+      0.000011,
+      "-rw-r--r--@    1 geobart  staff   137270731 20 Feb  2013 Sencha Application Designer.mp4\r\n"
+    ],
+    [
+      0.000023,
+      "-rw-r--r--@    1 geobart  staff    92652490 20 Feb  2013 GeoServer Beginner’s Guide.zip\r\n"
+    ],
+    [
+      0.000044,
+      "-rw-r--r--@    1 geobart  staff   423887473 22 Feb  2013 OpenGeoSuite-ce-3.0.2.dmg\r\n-rw-r--r--@    1 geobart  staff    10711040 22 Feb  2013 Ushahidi Manual - Final.doc\r\n-rw-r--r--@    1 geobart  staff      947192 22 Feb  2013 peakware-europe.kml\r\n"
+    ],
+    [
+      0.000013,
+      "-rw-r--r--@    1 geobart  staff        2271 22 Feb  2013 Ushahidi-plugin-mapbox-master.zip\r\n"
+    ],
+    [
+      0.000005,
+      "-rw-r--r--     1 geobart  staff        3974 23 Feb  2013 openweathermap.php\r\n"
+    ],
+    [
+      0.000396,
+      "-rw-r--r--@    1 geobart  staff      530505 24 Feb  2013 BANDO.pdf\r\n"
+    ],
+    [
+      0.000008,
+      "-rw-r--r--@    1 geobart  staff        4940 25 Feb  2013 appunti_rieti_ogs\r\n-rw-r--r--@    1 geobart  staff    23237786  1 Mar  2013 smarteditor-webapp-1.2.war\r\n"
+    ],
+    [
+      0.000017,
+      "-rw-r--r--@    1 geobart  staff      879332  1 Mar  2013 metageta-1.3.7.1.zip\r\n"
+    ],
+    [
+      0.000018,
+      "drwx------     9 geobart  staff         306  1 Mar  2013 \u001b[1m\u001b[36mmetageta\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000005,
+      "-rw-r--r--@    1 geobart  staff         649  3 Mar  2013 gist3628926-619414b2835fa4cedf1be86e0597110c1ea4edd8.tar.gz\r\n"
+    ],
+    [
+      0.000018,
+      "-rw-r--r--@    1 geobart  staff      654722  3 Mar  2013 SmeSpire_answers.pdf\r\n"
+    ],
+    [
+      0.001644,
+      "-rw-r--r--@    1 geobart  staff      562014  6 Mar  2013 sk-winzip2.dmg\r\n"
+    ],
+    [
+      0.001919,
+      "-rw-r--r--@    1 geobart  staff    12479526  6 Mar  2013 proceedings_geoinfo2011.pdf\r\n"
+    ],
+    [
+      0.000047,
+      "drwxr-xr-x@    9 geobart  staff         306  7 Mar  2013 \u001b[1m\u001b[36m2.2.0\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000071,
+      "-rw-r--r--@    1 geobart  staff      506257  9 Mar  2013 Scansione digitalizzata.pdf\r\n"
+    ],
+    [
+      0.000066,
+      "-rw-r--r--@    1 geobart  staff    34287363 11 Mar  2013 hegMACv2.12.tar.gz\r\n"
+    ],
+    [
+      0.000062,
+      "drwx------@    4 geobart  staff         136 11 Mar  2013 \u001b[1m\u001b[36mhegMACv2.12\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000180,
+      "drwxr-xr-x    32 geobart  staff        1088 12 Mar  2013 \u001b[1m\u001b[36mGeoAvalanche - Guida Apps\u001b[39;49m\u001b[0m\r\n-rw-r--r--@    1 geobart  staff  2521280939 13 Mar  2013 Flux-test.zip\r\n"
+    ],
+    [
+      0.000037,
+      "-rw-r--r--@    1 geobart  staff     3713250 17 Mar  2013 Sentenza Desktop for Mac.dmg\r\n"
+    ],
+    [
+      0.000105,
+      "-rw-r--r--@    1 geobart  staff     7007749 23 Mar  2013 DGN2200M Firmware Version 1.0.0.35 (All regions except North America) (1).zip\r\n"
+    ],
+    [
+      0.000069,
+      "drwxr-xr-x     6 geobart  staff         204 23 Mar  2013 \u001b[1m\u001b[36mOpen GeoSMS SDK\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000074,
+      "-rw-r--r--@    1 geobart  staff     5181544 25 Mar  2013 esa-hma-2013-giannecchini.pdf\r\n"
+    ],
+    [
+      0.000012,
+      "-rw-r--r--@    1 geobart  staff        5010 27 Mar  2013 Styles.zip\r\n"
+    ],
+    [
+      0.000091,
+      "-rw-r--r--@    1 geobart  staff    20308261  2 Apr  2013 geoserver-2.3.0-src.zip\r\n"
+    ],
+    [
+      0.000012,
+      "drwxr-xr-x    18 geobart  staff         612  5 Apr  2013 \u001b[1m\u001b[36mDocumentazione\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000080,
+      "-rw-r--r--@    1 geobart  staff      883583  5 Apr  2013 AdobeFlashPlayerInstaller_11au_aih.dmg\r\n"
+    ],
+    [
+      0.000013,
+      "-rw-r--r--@    1 geobart  staff    74970332  6 Apr  2013 geoserver-12I_CPO_TP.zip\r\n"
+    ],
+    [
+      0.000005,
+      "drwx------    45 geobart  staff        1530  7 Apr  2013 \u001b[1m\u001b[36marchivio\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000022,
+      "drwxr-xr-x    15 geobart  staff         510  9 Apr  2013 \u001b[1m\u001b[36mckeditor\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000029,
+      "drwxr-xr-x@   13 geobart  staff         442  9 Apr  2013 \u001b[1m\u001b[36mplantuml\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000019,
+      "-rw-r--r--@    1 geobart  staff     1751197 10 Apr  2013 Data Harmonisation Put into Practice by the HUMBOLDT Project.pdf\r\n"
+    ],
+    [
+      0.000544,
+      "-rw-r--r--@    1 geobart  staff   213889024 11 Apr  2013 Visual_Paradigm_for_UML_MacOSX_10_1_20130404.dmg\r\n"
+    ],
+    [
+      0.000011,
+      "-rw-r--r--@    1 geobart  staff       10035 11 Apr  2013 135229371-Visual-Paradigm-for-Uml-v10-1-Enterprise-Edition-Cracked.pdf\r\n"
+    ],
+    [
+      0.000019,
+      "-rw-r--r--@    1 geobart  staff     3107050 11 Apr  2013 Sentenza.Desktop.v1.0.MACOSX-Lz0.rar\r\n"
+    ],
+    [
+      0.000028,
+      "-rw-r--r--@    1 geobart  staff   131190624 15 Apr  2013 syncope-standalone-1.1.0-distribution.zip\r\n"
+    ],
+    [
+      0.000035,
+      "drwxr-xr-x     5 geobart  staff         170 17 Apr  2013 \u001b[1m\u001b[36mbk_ogs_mac\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000035,
+      "-rw-r--r--@    1 geobart  staff       13963 17 Apr  2013 Apache_Syncope.docx\r\n"
+    ],
+    [
+      0.000026,
+      "-rw-r--r--@    1 geobart  staff        7637 17 Apr  2013 wps-splitpoly-master.zip\r\n"
+    ],
+    [
+      0.000036,
+      "-rw-r--r--@    1 geobart  staff      578820 19 Apr  2013 OGC Web Processing Service Interface for Web Service Orchestration.pdf\r\n"
+    ],
+    [
+      0.000021,
+      "-rw-r--r--@    1 geobart  staff      836892 21 Apr  2013 JTS_geometry_manipulations.pdf\r\n"
+    ],
+    [
+      0.000021,
+      "-rw-r--r--@    1 geobart  staff    20308261 22 Apr  2013 geoserver-2.3.0-src (1).zip\r\n"
+    ],
+    [
+      0.000017,
+      "-rw-r--r--@    1 geobart  staff    71611188 22 Apr  2013 geotools-9.0-project.zip\r\n"
+    ],
+    [
+      0.000020,
+      "-rw-r--r--@    1 geobart  staff    66466207 29 Apr  2013 activiti-5.12.1.zip\r\n"
+    ],
+    [
+      0.000030,
+      "-rw-r--r--@    1 geobart  staff     1820071 30 Apr  2013 IAP Mechanism and Opportunities.pdf\r\n"
+    ],
+    [
+      0.000011,
+      "-rw-rw-rw-     1 geobart  staff        1290 30 Apr  2013 CASIEL_cert.pem\r\n"
+    ],
+    [
+      0.000025,
+      "-rw-r--r--@    1 geobart  staff     1098728 30 Apr  2013 azimuthjs-master.zip\r\n"
+    ],
+    [
+      0.000020,
+      "drwx------     9 geobart  staff         306 30 Apr  2013 \u001b[1m\u001b[36mazimuthjs-master\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000020,
+      "-rw-r--r--@    1 geobart  staff    68464934 10 Mag  2013 puppetdocs-latest.tar.gz\r\n"
+    ],
+    [
+      0.000030,
+      "-rw-r--r--@    1 geobart  staff     3231915 11 Mag  2013 general_tutorial_foroj16_english_withoutdata.pdf\r\n"
+    ],
+    [
+      0.000024,
+      "-rw-r--r--@    1 geobart  staff      964123 11 Mag  2013 An offset Algorithm.pdf\r\n"
+    ],
+    [
+      0.000385,
+      "-rw-r--r--@    1 geobart  staff      257342 12 Mag  2013 TopologyExtension4OJ-0.5.pdf\r\n"
+    ],
+    [
+      0.000010,
+      "-rw-r--r--@    1 geobart  staff     2206640 13 Mag  2013 map-icons.zip\r\n-rw-r--r--@    1 geobart  staff       80384 14 Mag  2013 projects_applicationform_it.doc\r\n"
+    ],
+    [
+      0.000004,
+      "-rw-r--r--@    1 geobart  staff       15165 15 Mag  2013 FilterFunction_fluxo2.java\r\n"
+    ],
+    [
+      0.000013,
+      "-rw-r--r--@    1 geobart  staff       28444 15 Mag  2013 fluxo.zip\r\n"
+    ],
+    [
+      0.000017,
+      "-rw-r--r--     1 geobart  staff      452817 15 Mag  2013 UMLmodel_export.uml\r\n"
+    ],
+    [
+      0.000023,
+      "-rw-r--r--@    1 geobart  staff        6238 15 Mag  2013 fluxo_15052013.rar\r\ndrwxr-xr-x    11 geobart  staff         374 15 Mag  2013 \u001b[1m\u001b[36mgs-devel\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000003,
+      "-rw-r--r--@    1 geobart  staff      323082 16 Mag  2013 FB_IVA_1Q_2013.pdf\r\n"
+    ],
+    [
+      0.000010,
+      "-rw-r--r--     1 geobart  staff      462928 16 Mag  2013 UMLmodel_export.xmi\r\n"
+    ],
+    [
+      0.000040,
+      "-rw-r--r--@    1 geobart  staff   611120932 16 Mag  2013 eclipse-modelpro-goldlx_1.1.0.200907141700.tar.gz\r\n-rw-r--r--@    1 geobart  staff   314359041 17 Mag  2013 hyperModel-CIMI_osx_2013-02-25.zip\r\n"
+    ],
+    [
+      0.000006,
+      "drwxr-xr-x@    9 geobart  staff         306 17 Mag  2013 \u001b[1m\u001b[36mModelPro\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000009,
+      "-rw-r--r--@    1 geobart  staff   400971489 17 Mag  2013 eclipse-galileo-modeling-acceleo-2.8.0.linux.tar.gz\r\n"
+    ],
+    [
+      0.000011,
+      "drwxr-xr-x    31 geobart  staff        1054 17 Mag  2013 \u001b[1m\u001b[36mSOA Metamodel\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000013,
+      "-rw-r--r--@    1 geobart  staff      209711 21 Mag  2013 Mapping_Ecosystem.pdf\r\n"
+    ],
+    [
+      0.000013,
+      "-rw-r--r--@    1 geobart  staff     1063618 21 Mag  2013 OpenSource_Weds_Andre_CUGOS.pdf\r\n"
+    ],
+    [
+      0.000010,
+      "-rw-r--r--@    1 geobart  staff       80373 23 Mag  2013 RI0066216.pdf\r\n"
+    ],
+    [
+      0.000013,
+      "-rw-r--r--     1 geobart  staff         157 30 Mag  2013 debug.sublime-project\r\n"
+    ],
+    [
+      0.000004,
+      "-rw-r--r--     1 geobart  staff       16228 30 Mag  2013 debug.sublime-workspace\r\n"
+    ],
+    [
+      0.000010,
+      "-rw-r--r--     1 geobart  staff     2361341 30 Mag  2013 GeoAvalanche.ipa\r\n"
+    ],
+    [
+      0.000020,
+      "-rw-r--r--@    1 geobart  staff     1399590 31 Mag  2013 strut-v0.5.5.zip\r\n"
+    ],
+    [
+      0.001203,
+      "-rw-r--r--@    1 geobart  staff      339873  1 Giu  2013 sparql-cheat-sheet-090616011306-phpapp01.pptx\r\n"
+    ],
+    [
+      0.000022,
+      "drwxr-xr-x    74 geobart  staff        2516  8 Giu  2013 \u001b[1m\u001b[36mScript Uirnet\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000014,
+      "-rw-r--r--     1 geobart  staff      635016 11 Giu  2013 OC_MI_H3G_DS.040_DS-v1.3.pdf\r\n"
+    ],
+    [
+      0.000020,
+      "-rw-r--r--@    1 geobart  staff      156970 23 Giu  2013 Entry_130858.pdf\r\n"
+    ],
+    [
+      0.000004,
+      "-rw-r--r--     1 geobart  staff       15363 24 Giu  2013 history.txt\r\n"
+    ],
+    [
+      0.000026,
+      "-rw-r--r--@    1 geobart  staff    31640002 26 Giu  2013 AvalancheWeatherForecasting.zip\r\n"
+    ],
+    [
+      0.000005,
+      "-rw-r--r--@    1 geobart  staff      644326 27 Giu  2013 glyphicons_free.zip\r\n"
+    ],
+    [
+      0.000407,
+      "-rw-r--r--@    1 geobart  staff     4580527 27 Giu  2013 ML-Bootstrap-template.zip\r\n"
+    ],
+    [
+      0.000008,
+      "-rw-r--r--@    1 geobart  staff        5326  5 Lug  2013 GeoserverWrapperAPIandTester.zip\r\n"
+    ],
+    [
+      0.000004,
+      "-rw-r--r--@    1 geobart  staff      270358  5 Lug  2013 IBM-os-geoserver-tutorial.pdf\r\n"
+    ],
+    [
+      0.000020,
+      "-rw-r--r--@    1 geobart  staff      502164  6 Lug  2013 Resuscitation of avalanche victims- Evidence-based guidelines.pdf\r\n"
+    ],
+    [
+      0.000020,
+      "-rw-r--r--@    1 geobart  staff    11326076  8 Lug  2013 WALib_API_and_demos_v1_3.zip\r\n"
+    ],
+    [
+      0.000011,
+      "-rw-r--r--@    1 geobart  staff     1613050  8 Lug  2013 worldwindandroid-docs-daily-652.1493.zip\r\n"
+    ],
+    [
+      0.000012,
+      "-rw-r--r--@    1 geobart  staff       27136  8 Lug  2013 coordinate_transform.ppt\r\n"
+    ],
+    [
+      0.000016,
+      "-rw-r--r--@    1 geobart  staff     2170336  8 Lug  2013 Probabilistic map representation using GeoTools.pdf\r\n"
+    ],
+    [
+      0.000040,
+      "-rw-r--r--@    1 geobart  staff     2604017  8 Lug  2013 Confronto prestazionionale OGC Web  Services tra GeoServer e MapServer.pdf\r\ndrwxr-xr-x    10 geobart  staff         340  8 Lug  2013 \u001b[1m\u001b[36mharobed-geopy-ed1b057067a1\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000006,
+      "-rw-r--r--@    1 geobart  staff      204929  8 Lug  2013 python-omgeo.pdf\r\n"
+    ],
+    [
+      0.000015,
+      "-rw-r--r--@    1 geobart  staff      218771  8 Lug  2013 Proj.pdf\r\n"
+    ],
+    [
+      0.000020,
+      "-rw-r--r--@    1 geobart  staff       94626  9 Lug  2013 skitourers.jpeg\r\n"
+    ],
+    [
+      0.000006,
+      "-rw-r--r--@    1 geobart  staff       74472  9 Lug  2013 skitourer.jpeg\r\n"
+    ],
+    [
+      0.000011,
+      "-rw-r--r--@    1 geobart  staff     1493194  9 Lug  2013 mapbox-osm-bright-124d1b3.zip\r\n"
+    ],
+    [
+      0.000007,
+      "-rw-r--r--@    1 geobart  staff       25712 13 Lug  2013 gb_rios_f.png\r\n"
+    ],
+    [
+      0.000014,
+      "-rw-r--r--@    1 geobart  staff         617 14 Lug  2013 openweather.zip\r\n"
+    ],
+    [
+      0.000016,
+      "-rw-r--r--@    1 geobart  staff     8014924 14 Lug  2013 Sublime Text 2.0.2.dmg\r\n"
+    ],
+    [
+      0.000040,
+      "-rwxrwxrwx     1 geobart  staff       42144 16 Lug  2013 \u001b[31mhttpd.conf\u001b[39;49m\u001b[0m\r\ndrwxr-xr-x    11 geobart  staff         374 16 Lug  2013 \u001b[1m\u001b[36mDocumentation\u001b[39;49m\u001b[0m\r\n-rw-r--r--@    1 geobart  staff      174099 18 Lug  2013 2013-07-02 Ordine di servizio Prot.659_2013.pdf\r\n"
+    ],
+    [
+      0.000007,
+      "-rw-r--r--@    1 geobart  staff     3714696 20 Lug  2013 101108074033.pdf\r\n"
+    ],
+    [
+      0.000023,
+      "-rw-r--r--@    1 geobart  staff   439708796 23 Lug  2013 OpenGeoSuite-3.1.dmg\r\n"
+    ],
+    [
+      0.000005,
+      "drwxr-xr-x    13 geobart  staff         442 24 Lug  2013 \u001b[1m\u001b[36mBundle utility mac\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000282,
+      "-rw-r--r--@    1 geobart  staff    13529250 27 Lug  2013 CitySensing.pdf\r\n"
+    ],
+    [
+      0.000006,
+      "-rw-r--r--@    1 geobart  staff     7359465  4 Ago  2013 geonode.pdf\r\n"
+    ],
+    [
+      0.000009,
+      "-rw-r--r--@    1 geobart  staff      528565  5 Ago  2013 screenshot_158.png\r\n"
+    ],
+    [
+      0.000014,
+      "-rw-r--r--@    1 geobart  staff      174736  5 Ago  2013 Untitled.png\r\n"
+    ],
+    [
+      0.000009,
+      "-rw-r--r--@    1 geobart  staff      189427  5 Ago  2013 Untitled1.png\r\n"
+    ],
+    [
+      0.000018,
+      "-rw-r--r--@    1 geobart  staff      250505  5 Ago  2013 GS.png\r\n"
+    ],
+    [
+      0.000005,
+      "-rw-r--r--@    1 geobart  staff      108752  5 Ago  2013 arch.png\r\n"
+    ],
+    [
+      0.000017,
+      "-rw-r--r--@    1 geobart  staff       32889 10 Ago  2013 808L4927.ZIP\r\n"
+    ],
+    [
+      0.000018,
+      "drwxr-xr-x   101 geobart  staff        3434 13 Ago  2013 \u001b[1m\u001b[36mNasa\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000021,
+      "-rw-r--r--@    1 geobart  staff      100204 17 Ago  2013 RicevutaRi.pdf\r\n"
+    ],
+    [
+      0.000024,
+      "-rw-r--r--@    1 geobart  staff      102267 17 Ago  2013 RicevutaCu.pdf\r\n"
+    ],
+    [
+      0.000020,
+      "-rw-r--r--@    1 geobart  staff      286212 18 Ago  2013 GEOBEYOND_SRL.pdf\r\n"
+    ],
+    [
+      0.000007,
+      "-rw-r--r--@    1 geobart  staff      316853 18 Ago  2013 deminimis.pdf\r\n"
+    ],
+    [
+      0.000015,
+      "-rw-r--r--@    1 geobart  staff     2700316 24 Ago  2013 Instant Interactive Map designs with Leaflet JavaScript Library How-to [eBook].epub\r\n"
+    ],
+    [
+      0.000020,
+      "-rw-r--r--@    1 geobart  staff      700946 24 Ago  2013 Instant Interactive Map designs with Leaflet JavaScript Library How-to [Instant].zip\r\n"
+    ],
+    [
+      0.000039,
+      "-rw-r--r--     1 geobart  staff    27421220 26 Ago  2013 my own web map application basics - adding localhost geoserver data part 2-K4LO8jpe0m0.mp4\r\n-rw-r--r--@    1 geobart  staff     1411777 27 Ago  2013 Instant Interactive Map designs with Leaflet JavaScript Library How-to [eBook].pdf\r\n"
+    ],
+    [
+      0.000006,
+      "-rw-r--r--@    1 geobart  staff       77985 31 Ago  2013 907612_Ispra.zip\r\n"
+    ],
+    [
+      0.000015,
+      "-rw-r--r--@    1 geobart  staff     1155864 31 Ago  2013 911281_07558_Agenzia_per_i_proc.Bolzano.zip\r\n"
+    ],
+    [
+      0.000019,
+      "-rw-r--r--@    1 geobart  staff     1175007  1 Set  2013 Libro_ioProgrammo_118_Javascript_by_example_OK.pdf\r\n"
+    ],
+    [
+      0.000036,
+      "-rw-r--r--@    1 geobart  staff     1145608  1 Set  2013 Libro_ioProgrammo_122_Imparare_pyton_OK.pdf\r\n"
+    ],
+    [
+      0.000024,
+      "-rw-r--r--@    1 geobart  staff     7361925  1 Set  2013 ANDROID-PROGRAMMING.pdf\r\n"
+    ],
+    [
+      0.000033,
+      "-rw-r--r--@    1 geobart  staff     3140118  1 Set  2013 Libro_PI_001_-_IPhone_-_La_tua_prima_app_OK.pdf\r\n"
+    ],
+    [
+      0.000032,
+      "-rw-r--r--@    1 geobart  staff    10124162  1 Set  2013 Libro_PI_002_-_IPhone_programming_ok.pdf\r\n"
+    ],
+    [
+      0.000034,
+      "-rw-r--r--@    1 geobart  staff     2658622  1 Set  2013 Libro_ioProgrammo_96_Guida_pratica_web_service_OK.pdf\r\n"
+    ],
+    [
+      0.000026,
+      "-rw-r--r--@    1 geobart  staff     2386163  1 Set  2013 Libro_ioProgrammo_116_Lavorare_con_SQL_server_OK.pdf\r\n"
+    ],
+    [
+      0.000420,
+      "-rw-r--r--@    1 geobart  staff       30969  6 Set  2013 905M0644.CUI.PDF\r\n"
+    ],
+    [
+      0.000011,
+      "-rw-r--r--@    1 geobart  staff   133734400  6 Set  2013 HALE-2.6.0-en-macosx.cocoa.x86_64.tar\r\n"
+    ],
+    [
+      0.000017,
+      "-rw-r--r--@    1 geobart  staff      757104  6 Set  2013 Workflow_Editor_User_Manual.pdf\r\n"
+    ],
+    [
+      0.000025,
+      "-rw-r--r--@    1 geobart  staff    45004800  6 Set  2013 WorkflowEditor-1.0.0.201008121648-IGD-macosx.cocoa.x86.tar\r\n"
+    ],
+    [
+      0.001504,
+      "-rw-r--r--@    1 geobart  staff    29614141 12 Set  2013 reveal.js tutorial - Touring the default CSS themes _ lynda.com-MCyqQCZGP9I.mp4\r\n"
+    ],
+    [
+      0.000008,
+      "-rw-r--r--     1 geobart  staff       32805 14 Set  2013 905M0644.CUI.PDF.p7m\r\n"
+    ],
+    [
+      0.000009,
+      "-rw-r--r--@    1 geobart  staff       31233 14 Set  2013 905M0644.ZIP\r\n"
+    ],
+    [
+      0.000023,
+      "drwx------    28 geobart  staff         952 16 Set  2013 \u001b[1m\u001b[36mcolorado_flood_vis_2013_files\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000016,
+      "-rw-r--r--@    1 geobart  staff      349267 16 Set  2013 colorado_flood_vis_2013.html\r\n"
+    ],
+    [
+      0.000014,
+      "-rw-r--r--@    1 geobart  staff    24237307 17 Set  2013 VodafoneMobileBroadband4.09.17.00.dmg.zip\r\n"
+    ],
+    [
+      0.000023,
+      "-rw-r--r--@    1 geobart  staff       16384 17 Set  2013 GDAL_Complete-1.10.dmg\r\n"
+    ],
+    [
+      0.000005,
+      "-rw-r--r--     1 geobart  staff       23070 18 Set  2013 Traffico3.sld\r\n"
+    ],
+    [
+      0.000010,
+      "-rw-r--r--@    1 geobart  staff     8470363 19 Set  2013 2013_03_PhD_Padova.pdf\r\n"
+    ],
+    [
+      0.000013,
+      "-rw-------@    1 geobart  staff        5688 22 Set  2013 boundless.png\r\n"
+    ],
+    [
+      0.000015,
+      "-rw-------@    1 geobart  staff        5311 22 Set  2013 OpenGeoSuite.png\r\n"
+    ],
+    [
+      0.000011,
+      "-rw-------@    1 geobart  staff        8188 22 Set  2013 Mapmeter.png\r\n"
+    ],
+    [
+      0.000013,
+      "drwxr-xr-x     5 geobart  staff         170 25 Set  2013 \u001b[1m\u001b[36mGS_GB_DOCS\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000048,
+      "-rw-r--r--@    1 geobart  staff    10983911 25 Set  2013 Geobatch_supporting meteorological data.pdf\r\n-rw-r--r--@    1 geobart  staff      753063 26 Set  2013 aziende.pdf\r\ndrwxr-xr-x    39 geobart  staff        1326 27 Set  2013 \u001b[1m\u001b[36mGAIAGIS\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000006,
+      "drwx------     8 geobart  staff         272  1 Ott  2013 \u001b[1m\u001b[36mTestFluxomajic\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000017,
+      "-rw-r--r--@    1 geobart  staff      159851  2 Ott  2013 130924_INCM_Economics_B11_Vanni.xlsx\r\n"
+    ],
+    [
+      0.000004,
+      "-rw-r--r--@    1 geobart  staff       86405  3 Ott  2013 web_hi_res_512.png\r\n"
+    ],
+    [
+      0.000015,
+      "-rw-r--r--@    1 geobart  staff      556922  5 Ott  2013 screenshot_191.jpg\r\n"
+    ],
+    [
+      0.000005,
+      "-rw-r--r--@    1 geobart  staff      716112  5 Ott  2013 screenshot_192.jpg\r\n"
+    ],
+    [
+      0.000010,
+      "-rw-r--r--@    1 geobart  staff      501177  5 Ott  2013 screenshot_194.jpg\r\n"
+    ],
+    [
+      0.000013,
+      "-rw-------@    1 geobart  staff       19638  5 Ott  2013 stack2-262x300.png\r\n"
+    ],
+    [
+      0.000015,
+      "-rw-r--r--@    1 geobart  staff      106956  5 Ott  2013 21.png\r\n"
+    ],
+    [
+      0.000010,
+      "-rw-r--r--@    1 geobart  staff       18524  5 Ott  2013 clustertheory.png\r\n"
+    ],
+    [
+      0.000389,
+      "-rw-r--r--@    1 geobart  staff       20598  5 Ott  2013 highavailabilitycluster.png\r\n"
+    ],
+    [
+      0.000008,
+      "-rw-r--r--@    1 geobart  staff       18029  5 Ott  2013 highperformancecluster.png\r\n"
+    ],
+    [
+      0.000005,
+      "drwxr-xr-x@    6 geobart  staff         204  7 Ott  2013 \u001b[1m\u001b[36mADOBE_CS5.5_MASTER_COLLECTION_KEYGEN_WIN_OSX-XFORCE\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000014,
+      "drwxr-xr-x    17 geobart  staff         578 10 Ott  2013 \u001b[1m\u001b[36mmodis_converted\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000024,
+      "-rw-r--r--@    1 geobart  staff      215961 12 Ott  2013 ArchivioPeaksAR-vers-1.zip\r\n"
+    ],
+    [
+      0.000005,
+      "-rw-r--r--@    1 geobart  staff     5457236 14 Ott  2013 CKAN - FOSS4G 2013.pdf\r\n"
+    ],
+    [
+      0.000014,
+      "-rw-r--r--@    1 geobart  staff     7374882 14 Ott  2013 josm-macosx.zip\r\n"
+    ],
+    [
+      0.000008,
+      "-rw-r--r--     1 geobart  staff         341 14 Ott  2013 peak_2013.osm\r\n"
+    ],
+    [
+      0.000017,
+      "-rw-r--r--@    1 geobart  staff       48804 17 Ott  2013 BOZZA_Caratteristiche PlaceMaker+ e casi studio.docx\r\n"
+    ],
+    [
+      0.000042,
+      "-rw-r--r--@    1 geobart  staff     1939941 18 Ott  2013 Capitolato_Tecnico_ODL.pdf\r\ndrwxr-xr-x@    6 geobart  staff         204 20 Ott  2013 \u001b[1m\u001b[36mResponsive-Design-Template--Illustrator-master\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000037,
+      "-rw-r--r--     1 geobart  staff      859752 21 Ott  2013 Responsive Pricing Table.psd\r\n"
+    ],
+    [
+      0.000006,
+      "-rw-r--r--@    1 geobart  staff     4761465 25 Ott  2013 foss4g-2013-mapproxy.zip\r\n"
+    ],
+    [
+      0.000010,
+      "-rw-r--r--@    1 geobart  staff     2299296 25 Ott  2013 OAM-Install-Notes.pdf\r\n"
+    ],
+    [
+      0.000016,
+      "-rw-r--r--@    1 geobart  staff     4552402 25 Ott  2013 FOSS4g.pptx\r\n"
+    ],
+    [
+      0.000011,
+      "-rw-r--r--@    1 geobart  staff     8582681 25 Ott  2013 FOSS4G_OSM_Workshop.pdf\r\n"
+    ],
+    [
+      0.000034,
+      "-rw-r--r--@    1 geobart  staff    18860272 25 Ott  2013 FOSS4G InaSAFE pratical.pdf\r\n"
+    ],
+    [
+      0.000006,
+      "-rw-r--r--@    1 geobart  staff     1179212 25 Ott  2013 FOSS4G Workshop Introduction.pdf\r\n"
+    ],
+    [
+      0.000036,
+      "-rw-r--r--@    1 geobart  staff    24346716 25 Ott  2013 suite-intro.zip\r\n"
+    ],
+    [
+      0.000019,
+      "-rw-r--r--@    1 geobart  staff     1387064 25 Ott  2013 FOSS4G_tiling_presentation.odp\r\n"
+    ],
+    [
+      0.000035,
+      "-rw-r--r--@    1 geobart  staff     8582681 25 Ott  2013 FOSS4G_OSM_Workshop (1).pdf\r\n"
+    ],
+    [
+      0.000396,
+      "-rw-r--r--@    1 geobart  staff    16010097 25 Ott  2013 Making Nocturnal Light Data More Accessible - Qing Liu FOSS4G2013.pdf\r\n"
+    ],
+    [
+      0.000007,
+      "-rw-r--r--@    1 geobart  staff       12420 25 Ott  2013 invoice.pdf\r\n"
+    ],
+    [
+      0.000003,
+      "-rw-r--r--@    1 geobart  staff     1838571 26 Ott  2013 magazine.zip\r\n"
+    ],
+    [
+      0.000016,
+      "-rw-r--r--@    1 geobart  staff      499212 26 Ott  2013 magazine-psd.zip\r\n"
+    ],
+    [
+      0.000008,
+      "-rw-r--r--@    1 geobart  staff     3009936 26 Ott  2013 parallax.zip\r\n"
+    ],
+    [
+      0.000020,
+      "-rw-r--r--@    1 geobart  staff    34836436 26 Ott  2013 parallax-psd.zip\r\n"
+    ],
+    [
+      0.000004,
+      "-rw-r--r--@    1 geobart  staff     5011601 26 Ott  2013 Guida al business planning.pdf\r\n"
+    ],
+    [
+      0.000013,
+      "-rw-r--r--@    1 geobart  staff      306765 26 Ott  2013 Guida al business plan NEW.pdf\r\n"
+    ],
+    [
+      0.000012,
+      "-rw-r--r--@    1 geobart  staff      580682 26 Ott  2013 Linee_guida_business_plan_ODC.pdf\r\n"
+    ],
+    [
+      0.000014,
+      "-rw-r--r--@    1 geobart  staff      471040 26 Ott  2013 Il modello per il Business Plan sett 2012.xlsx\r\n"
+    ],
+    [
+      0.000036,
+      "-rw-r--r--@    1 geobart  staff      292864 26 Ott  2013 BP_modello.doc\r\n-rw-r--r--@    1 geobart  staff       94208 26 Ott  2013 BP_guida_redazione.doc\r\n-rw-r--r--@    1 geobart  staff      396288 26 Ott  2013 BP_schema2.xls\r\n"
+    ],
+    [
+      0.000011,
+      "-rw-r--r--@    1 geobart  staff     2930688 26 Ott  2013 BP_schema.xls\r\n"
+    ],
+    [
+      0.000014,
+      "-rw-r--r--@    1 geobart  staff     9148592 26 Ott  2013 spaceplacepsychogeography-130920082502-phpapp02.odp\r\n"
+    ],
+    [
+      0.000014,
+      "-rw-r--r--@    1 geobart  staff     8053889 27 Ott  2013 Load Balancing Large Numbers Of OSGeo Components - final.pptx\r\n"
+    ],
+    [
+      0.000013,
+      "-rw-r--r--@    1 geobart  staff     9107807 27 Ott  2013 foss4g2013_wildfireplatform_mn.pdf\r\n"
+    ],
+    [
+      0.000014,
+      "drwx------     7 geobart  staff         238 31 Ott  2013 \u001b[1m\u001b[36mFlux-test\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000008,
+      "-rw-r--r--     1 geobart  staff     4197598 31 Ott  2013 Vector Editing in OpenLayers 3-78298228.mp4\r\n"
+    ],
+    [
+      0.000347,
+      "-rw-r--r--@    1 geobart  staff      221759  4 Nov  2013 pagamento_tares.pdf\r\n"
+    ],
+    [
+      0.000008,
+      "-rw-r--r--@    1 geobart  staff        7002  8 Nov  2013 print (2).pdf\r\ndrwx------@   19 geobart  staff         646 10 Nov  2013 \u001b[1m\u001b[36mdevice_template\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000004,
+      "-rw-r--r--     1 geobart  staff     2347852 12 Nov  2013 GeoAvalanche.apk\r\n"
+    ],
+    [
+      0.000033,
+      "-rw-r--r--@    1 geobart  staff      441714 12 Nov  2013 Screenshot_2013-11-12-00-55-03.png\r\n-rw-r--r--@    1 geobart  staff      804250 12 Nov  2013 Screenshot_2013-11-12-00-54-20.png\r\n"
+    ],
+    [
+      0.000011,
+      "-rw-r--r--@    1 geobart  staff      697076 12 Nov  2013 Screenshot_2013-11-12-00-55-46.png\r\n"
+    ],
+    [
+      0.000012,
+      "-rw-r--r--@    1 geobart  staff      624706 12 Nov  2013 Screenshot_2013-11-12-00-55-15.png\r\n"
+    ],
+    [
+      0.000040,
+      "-rw-r--r--@    1 geobart  staff      656921 12 Nov  2013 Screenshot_2013-11-12-00-54-32.png\r\n"
+    ],
+    [
+      0.000018,
+      "drwxrwxr-x@   14 geobart  staff         476 12 Nov  2013 \u001b[1m\u001b[36marchitect-docs-3\u001b[39;49m\u001b[0m\r\ndrwxr-xr-x    13 geobart  staff         442 13 Nov  2013 \u001b[1m\u001b[36mpy-gdalogr-cookbook\u001b[39;49m\u001b[0m\r\ndrwxr-xr-x     5 geobart  staff         170 14 Nov  2013 \u001b[1m\u001b[36mGeoprocessing with python and open source GIS\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000005,
+      "-rw-r--r--@    1 geobart  staff    16202893 15 Nov  2013 screenshots_fluxomajic.zip\r\n"
+    ],
+    [
+      0.000027,
+      "drwxr-xr-x    10 geobart  staff         340 15 Nov  2013 \u001b[1m\u001b[36mbartoli_chiambretti\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000006,
+      "-rw-r--r--@    1 geobart  staff      220648 16 Nov  2013 sellaronda.jpg\r\n"
+    ],
+    [
+      0.000003,
+      "-rw-r--r--@    1 geobart  staff       77295 16 Nov  2013 sellaronda.geojson\r\n"
+    ],
+    [
+      0.000020,
+      "-rw-r--r--@    1 geobart  staff      132092 19 Nov  2013 Introduction_to_GeoKettle_and_Sextante_arquitectures.odt\r\n"
+    ],
+    [
+      0.000016,
+      "-rw-r--r--@    1 geobart  staff     9419326 20 Nov  2013 bachelorthesis.pdf\r\n"
+    ],
+    [
+      0.000043,
+      "-rw-r--r--@    1 geobart  staff     6763792 20 Nov  2013 presentation-geobi-20110622-tbadard-slideshareready-110809115235-phpapp01.pdf\r\n"
+    ],
+    [
+      0.000007,
+      "-rw-r--r--@    1 geobart  staff     1410770 20 Nov  2013 geokettle-workshop.pdf\r\n-rw-r--r--@    1 geobart  staff      654345 24 Nov  2013 geoext2-2.0.0.zip\r\n"
+    ],
+    [
+      0.000305,
+      "-rw-r--r--@    1 geobart  staff     1113744 24 Nov  2013 NewbridgeGreen-extjs-theme-bootstrap-987ff4a.zip\r\n"
+    ],
+    [
+      0.000007,
+      "drwx------     9 geobart  staff         306 25 Nov  2013 \u001b[1m\u001b[36mNewbridgeGreen-extjs-theme-bootstrap-987ff4a\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000019,
+      "-rw-r--r--@    1 geobart  staff    35067903  1 Dic  2013 VPN_Tracker_7.0.5.pkg\r\n"
+    ],
+    [
+      0.000028,
+      "-rw-r--r--@    1 geobart  staff        4962  3 Dic  2013 dancing_people.svg\r\n"
+    ],
+    [
+      0.001370,
+      "-rw-r--r--@    1 geobart  staff     1954512  4 Dic  2013 ExpressInvoice_i.dmg\r\n"
+    ],
+    [
+      0.000014,
+      "-rw-r--r--@    1 geobart  staff      215040  8 Dic  2013 giovanni_D'Aguanno.doc\r\ndrwxr-xr-x    13 geobart  staff         442  8 Dic  2013 \u001b[1m\u001b[36mgxtest\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000004,
+      "-rw-r--r--@    1 geobart  staff        4648  9 Dic  2013 daitweb.conf\r\n"
+    ],
+    [
+      0.000013,
+      "-rw-r--r--@    1 geobart  staff       19135 10 Dic  2013 vm app server.xlsx\r\n"
+    ],
+    [
+      0.000016,
+      "-rw-r--r--@    1 geobart  staff       44131 10 Dic  2013 ricevutafirmata.pdf\r\n"
+    ],
+    [
+      0.000452,
+      "-rw-r--r--@    1 geobart  staff        1367 11 Dic  2013 shape.zip\r\n"
+    ],
+    [
+      0.000008,
+      "-rw-r--r--@    1 geobart  staff     4111941 13 Dic  2013 Rizzi_Andrea_tesi.pdf\r\n"
+    ],
+    [
+      0.000014,
+      "-rw-r--r--@    1 geobart  staff     5009534 13 Dic  2013 Sencha Architect App Development .pdf\r\n"
+    ],
+    [
+      0.001558,
+      "-rw-r--r--@    1 geobart  staff    24455100 16 Dic  2013 GoDjango-episode-41-django-rest-framework-part-1.mp4\r\n"
+    ],
+    [
+      0.001227,
+      "-rw-r--r--@    1 geobart  staff    43552440 18 Dic  2013 eoli-9.3.1-macosx.dmg\r\n"
+    ],
+    [
+      0.000024,
+      "-rw-r--r--@    1 geobart  staff    79825384 20 Dic  2013 best_practices_for_sencha_javascript_applications_1280x720.mp4\r\n"
+    ],
+    [
+      0.000026,
+      "-rw-r--r--@    1 geobart  staff   155562360 20 Dic  2013 deep_dive_into_ext_js_layouts_960x720.mp4\r\n"
+    ],
+    [
+      0.000027,
+      "-rw-r--r--@    1 geobart  staff   295843334 20 Dic  2013 node.js_from_scratch-_rest_api_960x720.mp4\r\n"
+    ],
+    [
+      0.000050,
+      "-rw-r--r--@    1 geobart  staff     8986376 20 Dic  2013 Your_Code_Sucks_webinar_jg__1_.pdf\r\n"
+    ],
+    [
+      0.000036,
+      "-rw-r--r--@    1 geobart  staff   144151794 20 Dic  2013 testing_sencha_applications_with_siesta_960x720.mp4\r\n"
+    ],
+    [
+      0.000078,
+      "-rw-r--r--@    1 geobart  staff    63155565 20 Dic  2013 building_a_geolocation_app_using_sencha_touch_and_architect_2.2_1280x720.mp4\r\n"
+    ],
+    [
+      0.000430,
+      "-rw-r--r--@    1 geobart  staff   307814222 20 Dic  2013 rapid_desktop_app_development_with_sencha_architect_1280x720.mp4\r\n"
+    ],
+    [
+      0.000007,
+      "drwxr-xr-x    18 geobart  staff         612 21 Dic  2013 \u001b[1m\u001b[36msenchacomplete\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000021,
+      "-rw-r--r--@    1 geobart  staff     6323634 31 Dic  2013 Data Visualization with D3.js Cookbook [eBook].epub\r\n"
+    ],
+    [
+      0.000022,
+      "-rw-r--r--@    1 geobart  staff     3201492 31 Dic  2013 Data Visualization with D3.js Cookbook [eBook].pdf\r\n"
+    ],
+    [
+      0.000023,
+      "-rw-r--r--@    1 geobart  staff     3594342 31 Dic  2013 Data Visualization with d3.js [eBook].pdf\r\n"
+    ],
+    [
+      0.000015,
+      "-rw-r--r--@    1 geobart  staff     7033337 31 Dic  2013 Data Visualization with d3.js [eBook].epub\r\n"
+    ],
+    [
+      0.000019,
+      "-rw-r--r--@    1 geobart  staff     4575439 31 Dic  2013 Responsive Web Design by Example [eBook].pdf\r\n"
+    ],
+    [
+      0.000018,
+      "-rw-r--r--@    1 geobart  staff     6124342 31 Dic  2013 Programming ArcGIS 10.1 with Python Cookbook [eBook].pdf\r\n"
+    ],
+    [
+      0.000026,
+      "-rw-r--r--@    1 geobart  staff     2830450 31 Dic  2013 Getting Started with PhantomJS [eBook].pdf\r\n"
+    ],
+    [
+      0.000031,
+      "-rw-r--r--@    1 geobart  staff     5450549 31 Dic  2013 Getting Started with PhantomJS [eBook].epub\r\n"
+    ],
+    [
+      0.000035,
+      "-rw-r--r--@    1 geobart  staff    12579823 31 Dic  2013 Learning Geospatial Analysis with Python [eBook].pdf\r\n"
+    ],
+    [
+      0.000025,
+      "-rw-r--r--@    1 geobart  staff     5280870 31 Dic  2013 Sencha Touch Cookbook, Second Edition [eBook].pdf\r\n"
+    ],
+    [
+      0.000068,
+      "-rw-r--r--@    1 geobart  staff     9774742 31 Dic  2013 Sencha Touch Cookbook, Second Edition [eBook].epub\r\n"
+    ],
+    [
+      0.000036,
+      "-rw-r--r--@    1 geobart  staff    22437943 31 Dic  2013 Responsive Web Design by Example [eBook].epub\r\n"
+    ],
+    [
+      0.000026,
+      "-rw-r--r--@    1 geobart  staff     8757462 31 Dic  2013 Creating Mobile Apps with Sencha Touch 2 [eBook].epub\r\n"
+    ],
+    [
+      0.000030,
+      "-rw-r--r--@    1 geobart  staff    15243230 31 Dic  2013 Programming ArcGIS 10.1 with Python Cookbook [eBook].epub\r\n"
+    ],
+    [
+      0.000027,
+      "-rw-r--r--@    1 geobart  staff    25183067 31 Dic  2013 Learning Geospatial Analysis with Python [eBook].epub\r\n"
+    ],
+    [
+      0.000024,
+      "-rw-r--r--@    1 geobart  staff     6239023 31 Dic  2013 Creating Mobile Apps with Sencha Touch 2 [eBook].pdf\r\n"
+    ],
+    [
+      0.000024,
+      "-rw-r--r--@    1 geobart  staff     4569593 31 Dic  2013 Learning QGIS 2.0 [eBook].pdf\r\n"
+    ],
+    [
+      0.000422,
+      "-rw-r--r--@    1 geobart  staff     9303958 31 Dic  2013 Learning QGIS 2.0 [eBook].epub\r\n"
+    ],
+    [
+      0.000049,
+      "-rw-r--r--@    1 geobart  staff       11680  1 Gen  2014 1_Pont_Vittorio.gpx\r\n"
+    ],
+    [
+      0.000006,
+      "-rw-r--r--     1 geobart  staff       27531  1 Gen  2014 prova.qgs\r\n"
+    ],
+    [
+      0.000024,
+      "-rw-r--r--@    1 geobart  staff   165073121  1 Gen  2014 QGIS-2.0.1-7-Lion.dmg\r\n"
+    ],
+    [
+      0.000040,
+      "drwx------     3 geobart  staff         102  6 Gen  2014 \u001b[1m\u001b[36mAbout Downloads.lpdf\u001b[39;49m\u001b[0m\r\n-rw-------     1 geobart  staff           0  6 Gen  2014 .localized\r\n"
+    ],
+    [
+      0.000028,
+      "-rw-r--r--@    1 geobart  staff     1084575  7 Gen  2014 GeoLiftManual.pdf\r\n"
+    ],
+    [
+      0.000018,
+      "-rw-r--r--@    1 geobart  staff      221439 10 Gen  2014 d22c1188-777e-11e3-9cd1-d0c934975d79.pdf\r\n"
+    ],
+    [
+      0.000068,
+      "-rw-r--r--@    1 geobart  staff      245833 10 Gen  2014 d2fdc7aa-777e-11e3-9cd1-d0c934975d79.pdf\r\n"
+    ],
+    [
+      0.001058,
+      "drwxr-xr-x@   17 geobart  staff         578 14 Gen  2014 \u001b[1m\u001b[36mExtSimpleExamples\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000019,
+      "-rw-r--r--@    1 geobart  staff        1309 14 Gen  2014 rad31570566.txt\r\n"
+    ],
+    [
+      0.000039,
+      "drwxr-xr-x    33 geobart  staff        1122 20 Gen  2014 \u001b[1m\u001b[36mUnicredit\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000048,
+      "-rw-r--r--@    1 geobart  staff      184544 20 Gen  2014 7672_31570566.pdf\r\n"
+    ],
+    [
+      0.000006,
+      "-rw-r--r--@    1 geobart  staff       54923 20 Gen  2014 Corporate Banking.pdf\r\n"
+    ],
+    [
+      0.000412,
+      "-rw-r--r--@    1 geobart  staff        1914 20 Gen  2014 pagamento_aruba.rtf\r\n"
+    ],
+    [
+      0.000607,
+      "-rw-r--r--@    1 geobart  staff       16524 20 Gen  2014 sublime-text.alfredworkflow\r\n"
+    ],
+    [
+      0.000020,
+      "-rw-r--r--@    1 geobart  staff       25879 20 Gen  2014 caniuse.alfredworkflow\r\n"
+    ],
+    [
+      0.000021,
+      "-rw-r--r--@    1 geobart  staff     1104020 20 Gen  2014 dash.alfredworkflow\r\n"
+    ],
+    [
+      0.000230,
+      "-rw-r--r--@    1 geobart  staff      169398 20 Gen  2014 terminal-finder.alfredworkflow\r\n"
+    ],
+    [
+      0.000022,
+      "-rw-r--r--@    1 geobart  staff     3283238 20 Gen  2014 package-managers.alfredworkflow\r\n"
+    ],
+    [
+      0.000022,
+      "-rw-r--r--@    1 geobart  staff      104228 20 Gen  2014 Jenkins.alfredworkflow\r\n"
+    ],
+    [
+      0.000022,
+      "-rw-r--r--@    1 geobart  staff     1900695 20 Gen  2014 source-tree.alfredworkflow\r\n"
+    ],
+    [
+      0.000018,
+      "-rw-r--r--@    1 geobart  staff       17499 20 Gen  2014 github.alfredworkflow\r\n"
+    ],
+    [
+      0.021009,
+      "-rw-r--r--@    1 geobart  staff       26622 20 Gen  2014 stack-overflow.alfredworkflow\r\n"
+    ],
+    [
+      0.012583,
+      "-rw-r--r--@    1 geobart  staff      207171 20 Gen  2014 virtualbox.alfredworkflow\r\n-rw-r--r--@    1 geobart  staff       53760 23 Gen  2014 esempio-cdu.doc\r\n-rw-r--r--@    1 geobart  staff      164484 23 Gen  2014 postgis20_cheatsheet.pdf\r\n-rw-r--r--@    1 geobart  staff     1136931 23 Gen  2014 BalboS_InternationalCIRGEOWorkshopPadua.pdf\r\n-rw-r--r--@    1 geobart  staff   374968679 23 Gen  2014 OpenGeoSuite-4.0.2.dmg\r\n-rw-r--r--@    1 geobart  staff       55642 26 Gen  2014 contratto_progetto_modello.odt\r\n-rw-r--r--@    1 geobart  staff      102912 26 Gen  2014 Lynx-BP_OAKS.doc\r\n-rw-r--r--@    1 geobart  staff      232010 26 Gen  2014 descrizione_breve_OAKS.odt\r\ndrwx------@    8 geobart  staff         272 27 Gen  2014 \u001b[1m\u001b[36mFileProtector-5.1.8.3-Mac\u001b[39;49m\u001b[0m\r\n-rw-r--r--@    1 geobart  staff     1474303 29 Gen  2014 iam_soa_config_11115.swf\r\n-rw-r--r--@    1 geobart  staff     1999912 29 Gen  2014 idm_config_11115.swf\r\n-rw-r--r--@    1 geobart  staff     5130416 29 Gen  2014 oim_config_ldapsync_11115.s"
+    ],
+    [
+      0.000336,
+      "wf\r\n-rw-r--r--@    1 geobart  staff     4717722 29 Gen  2014 idm_iam_soa_install_11115.swf\r\n-rw-r--r--@    1 geobart  staff       14980 29 Gen  2014 quesiti.integrazione AD in portal.docx\r\n-rw-r--r--     1 geobart  staff      216774 31 Gen  2014 Icone_Avalanche_Danger.zip\r\n-rw-r--r--@    1 geobart  staff       49847  1 Feb  2014 spiegazione-cdu.odt\r\n-rw-r--r--     1 geobart  staff    28711325  4 Feb  2014 pgstudio_1.1.zip\r\ndrwxr-xr-x@   18 geobart  staff         612 13 Feb  2014 \u001b[1m\u001b[36mtracemodeler\u001b[39;49m\u001b[0m\r\n-rw-r--r--@    1 geobart  staff     2811879 14 Feb  2014 geo_2.pdf\r\n-rw-r--r--@    1 geobart  staff     2569408 14 Feb  2014 geo_1.pdf\r\n-rw-r--r--@    1 geobart  staff     2726600 14 Feb  2014 geo_4.pdf\r\n-rw-r--r--@    1 geobart  staff     2783352 14 Feb  2014 geo_3.pdf\r\n-rw-r--r--@    1 geobart  staff     2134428 14 Feb  2014 geo_5.pdf\r\n-rw-r--r--@    1 geobart  staff       28244 15 Feb  2014 dc08d2a8055a8756978d901008d61699.jpg\r\n-rw-r--r--@    1 geobart  staff        2133 17 Feb  2014 appunti-api.t"
+    ],
+    [
+      0.000055,
+      "xt\r\n"
+    ],
+    [
+      0.001218,
+      "-rw-r--r--@    1 geobart  staff       63601 19 Feb  2014 image1.jpg\r\n"
+    ],
+    [
+      0.000008,
+      "-rw-r--r--     1 geobart  staff   408961389 20 Feb  2014 Sencha Architect 3 - The Next Generation-pb6ths5qg2g.mp4\r\n"
+    ],
+    [
+      0.000010,
+      "-rw-r--r--     1 geobart  staff    81608204 23 Feb  2014 Redefining Geospatial data versioning - The GeoGit approach-buy-G4VsHiw.mp4\r\n"
+    ],
+    [
+      0.001546,
+      "-rw-r--r--@    1 geobart  staff   168309746 26 Feb  2014 QGIS-2.2.0-1.dmg\r\n"
+    ],
+    [
+      0.001041,
+      "-rw-r--r--@    1 geobart  staff      312167 26 Feb  2014 Performance Tuning Guidelines and Diagnostics Collection for Oracle Identity Manager (OIM).pdf\r\n"
+    ],
+    [
+      0.000970,
+      "-rw-r--r--@    1 geobart  staff      223367 27 Feb  2014 How to setup LDAP Sync Recon Jobs.pdf\r\n"
+    ],
+    [
+      0.001414,
+      "-rw-r--r--@    1 geobart  staff      507338  6 Mar  2014 ohs11gr1-131852.pdf\r\n"
+    ],
+    [
+      0.000010,
+      "-rw-r--r--@    1 geobart  staff      548840  6 Mar  2014 Abdul Muqeet - Oracle Hyperion Blog_ March 2012.pdf\r\n"
+    ],
+    [
+      0.001304,
+      "-rw-r--r--@    1 geobart  staff      228518  8 Mar  2014 bozza_casi_uso_dopo_riunione_con_sepe.odt\r\n"
+    ],
+    [
+      0.000009,
+      "drwxrwxrwx     4 geobart  staff         136  9 Mar  2014 \u001b[30m\u001b[43mAdobe CS6\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.001270,
+      "drwxr-xr-x@    4 geobart  staff         136  9 Mar  2014 \u001b[1m\u001b[36mNavicatPremium11010[Pr1n0s]\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.001265,
+      "drwxr-xr-x@    5 geobart  staff         170  9 Mar  2014 \u001b[1m\u001b[36mBBEdit 10.5.7\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000960,
+      "drwxr-xr-x@    5 geobart  staff         170  9 Mar  2014 \u001b[1m\u001b[36mLittle Snitch v3.3\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000954,
+      "-rw-r--r--@    1 geobart  staff     1332946  9 Mar  2014 iDeaInvoiceTrial.app.zip\r\n"
+    ],
+    [
+      0.000010,
+      "drwxr-xr-x     3 geobart  staff         102  9 Mar  2014 \u001b[1m\u001b[36miDea Invoice Classic.app\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000048,
+      "-rw-r--r--@    1 geobart  staff     8016262  9 Mar  2014 GrandTotal_3.1.0.1.zip\r\n"
+    ],
+    [
+      0.000045,
+      "-rw-r--r--     1 geobart  staff   195072717 10 Mar  2014 Developing applications with Mobile Map Technology-u2A50PUg2qI.mp4\r\n"
+    ],
+    [
+      0.001211,
+      "-rw-r--r--@    1 geobart  staff     7720960 12 Mar  2014 OAM-OIM Integration - Password lifecycle-related use cases.doc\r\n"
+    ],
+    [
+      0.000020,
+      "-rw-r-----@    1 geobart  staff      110003 12 Mar  2014 idmsuitevalidationservice.jar\r\n-rw-r-----@    1 geobart  staff      247147 12 Mar  2014 idmsuiteautomation.jar\r\n"
+    ],
+    [
+      0.001895,
+      "-rw-r--r--@    1 geobart  staff      186866 13 Mar  2014 Troubleshooting Provisioning Issues and Errors While Running The Response File (Plan) Through PreVerify Phase (Doc ID 1391163.1).pdf\r\n"
+    ],
+    [
+      0.001092,
+      "-rw-r--r--@    1 geobart  staff       24573 14 Mar  2014 valutazione-tool-raffinamento_ETL_2.0.odt\r\n"
+    ],
+    [
+      0.001044,
+      "-rw-r--r--@    1 geobart  staff      785771 15 Mar  2014 CACMobile_ObsNet_140203.pdf\r\n"
+    ],
+    [
+      0.000010,
+      "-rw-r--r--     1 geobart  staff      787920 18 Mar  2014 mysql-connector-java-5.1.17.jar\r\ndrwxr-xr-x    22 geobart  staff         748 19 Mar  2014 \u001b[1m\u001b[36mProve_PwdPolicy_Bug\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000846,
+      "-rw-r--r--@    1 geobart  staff        1512 19 Mar  2014 appunti.txt\r\n"
+    ],
+    [
+      0.000560,
+      "-rw-r--r--@    1 geobart  staff       16837 19 Mar  2014 excerpt_diagnostic_AS.log\r\n"
+    ],
+    [
+      0.000006,
+      "-rw-r--r--     1 geobart  staff         960 20 Mar  2014 config_oam_IAMSuiteAgent.props\r\n"
+    ],
+    [
+      0.000003,
+      "-rw-r--r--     1 geobart  staff        5422 20 Mar  2014 config_oam_IAMSuiteAgent.log\r\n"
+    ],
+    [
+      0.000014,
+      "-rw-r-----     1 geobart  staff      400946 20 Mar  2014 oam-config.xml\r\n"
+    ],
+    [
+      0.000848,
+      "-rw-r--r--@    1 geobart  staff     2529280 20 Mar  2014 alasca-0.4.1-bin.tar\r\n"
+    ],
+    [
+      0.000016,
+      "-rw-r--r--@    1 geobart  staff      112640 20 Mar  2014 led-1.111.tar\r\n"
+    ],
+    [
+      0.000270,
+      "drwxr-xr-x@    6 geobart  staff         204 21 Mar  2014 \u001b[1m\u001b[36malasca-0.4.1\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000836,
+      "-rw-r--r--@    1 geobart  staff     1541620 21 Mar  2014 Oracle Identity Management Suite Integration Oracle Utilities Application Framework.pdf\r\n"
+    ],
+    [
+      0.000616,
+      "-rw-r--r--@    1 geobart  staff        4358 22 Mar  2014 debug_ohs_script\r\n"
+    ],
+    [
+      0.000023,
+      "-rw-r-----     1 geobart  staff    33989105 22 Mar  2014 oam-server.ear.orig\r\n"
+    ],
+    [
+      0.000279,
+      "-rw-r--r--@    1 geobart  staff    14944950 22 Mar  2014 pageloadtime-master.zip\r\n"
+    ],
+    [
+      0.000027,
+      "-rw-r--r--@    1 geobart  staff      427764 22 Mar  2014 prova.daitweb.txt\r\n"
+    ],
+    [
+      0.000476,
+      "-rw-r--r--@    1 geobart  staff      245676 22 Mar  2014 loadreport-master.zip\r\n"
+    ],
+    [
+      0.000282,
+      "drwxr-xr-x@    6 geobart  staff         204 22 Mar  2014 \u001b[1m\u001b[36mGrandTotal.v1.6.5.MacOSX.Cracked-NOY\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000863,
+      "-rw-r--r--@    1 geobart  staff       97799 23 Mar  2014 iso-countries-20140323.csv\r\n"
+    ],
+    [
+      0.000768,
+      "-rw-r--r--@    1 geobart  staff    54368396 23 Mar  2014 Make-Unit-Testing-In-JavaScript-Fun-With-Testem.mov\r\n"
+    ],
+    [
+      0.000711,
+      "-rw-r--r--@    1 geobart  staff       10596 24 Mar  2014 3DY85829CX407191K.pdf\r\n"
+    ],
+    [
+      0.000095,
+      "-rwxrwxrwx     1 geobart  staff       13494 25 Mar  2014 \u001b[31mdait-elezioni.css\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000601,
+      "-rw-r--r--@    1 geobart  staff      268661 26 Mar  2014 funkload.pdf\r\n"
+    ],
+    [
+      0.007727,
+      "-rw-r--r--@    1 geobart  staff          35 27 Mar  2014 Users.txt.orig.txt\r\n"
+    ],
+    [
+      0.000145,
+      "-rw-r--r--@    1 geobart  staff    63693208 29 Mar  2014 logstash-1.4.0.tar.gz\r\n-rw-r--r--@    1 geobart  staff     1105124 29 Mar  2014 kibana-3.0.0.zip\r\ndrwxr-xr-x    20 geobart  staff         680 31 Mar  2014 \u001b[1m\u001b[36mapache-jmeter-2.9\u001b[39;49m\u001b[0m\r\n-rw-r--r--@    1 geobart  staff     1399679 31 Mar  2014 polychart.zip\r\n-rw-r--r--@    1 geobart  staff     1165700  1 Apr  2014 JMeterPlugins-Standard-1.1.3.zip\r\n-rw-r--r--@    1 geobart  staff     3676668  1 Apr  2014 ServerAgent-2.2.1.zip\r\n-rw-r--r--     1 geobart  staff        3695  1 Apr  2014 syncPasswordPlugin.jar\r\n-rw-r--r--@    1 geobart  staff       86292  2 Apr  2014 plugin_oid_6.jpeg\r\n-rw-r--r--@    1 geobart  staff       83028  2 Apr  2014 plugin_oid_5.jpeg\r\n-rw-r--r--@    1 geobart  staff       49313  2 Apr  2014 plugin_oid_4.jpeg\r\n-rw-r--r--@    1 geobart  staff       71866  2 Apr  2014 plugin_oid_3.jpeg\r\n-rw-r--r--@    1 geobart  staff       70531  2 Apr  2014 plugin_oid_2.jpeg\r\n-rw-r--r--@    1 geobart  staff       57104  2 Apr  2014 plugin_oid_"
+    ],
+    [
+      0.000025,
+      "1.jpeg\r\n-rwxr-xr-x     1 geobart  staff         585  2 Apr  2014 \u001b[31mextractTimes.sh\u001b[39;49m\u001b[0m\r\n-rwxr-xr-x     1 geobart  staff         227  2 Apr  2014 \u001b[31mmonitorTimes.sh\u001b[39;49m\u001b[0m\r\n-rw-r--r--     1 geobart  staff      131620  2 Apr  2014 jmeter-desk_3000_run1.tar.gz\r\n-rw-r--r--     1 geobart  staff      132065  2 Apr  2014 jmeter-desk_3000_run2.tar.gz\r\n-rw-r--r--     1 geobart  staff       75132  3 Apr  2014 jmeter-desk_3000_run4_2M.tar.gz\r\n-rw-r--r--     1 geobart  staff       72361  3 Apr  2014 jmeter-desk_2000_run3_2M.tar.gz\r\n-rw-r--r--     1 geobart  staff      104766  3 Apr  2014 jmeter-desk_3000_run2_1M.tar.gz\r\n-rw-r--r--     1 geobart  staff       54503  3 Apr  2014 jmeter-desk_1500_run1_1M.tar.gz\r\ndrwx------     5 geobart  staff         170  3 Apr  2014 \u001b[1m\u001b[36mjmeter-desk_3000_run4_2M\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000134,
+      "-rw-r--r--     1 geobart  staff    31969280  5 Apr  2014 BLOCKS_frmwrk_v1.0.tgz\r\ndrwx------     4 geobart  staff         136  5 Apr  2014 \u001b[1m\u001b[36mGrandTotal.app\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000811,
+      "-rw-r--r--@    1 geobart  staff     7958416  5 Apr  2014 iam2-dodel.pdf\r\n"
+    ],
+    [
+      0.000008,
+      "-rw-r--r--     1 geobart  staff    93797322  7 Apr  2014 oim.ear.tar.gz\r\n"
+    ],
+    [
+      0.000625,
+      "-rw-r--r--@    1 geobart  staff         591  7 Apr  2014 view_groups.txt\r\n"
+    ],
+    [
+      0.000365,
+      "-rw-r--r--@    1 geobart  staff        9006  7 Apr  2014 logout_sniffer.txt\r\n"
+    ],
+    [
+      0.000006,
+      "-rw-r--r--@    1 geobart  staff         799  7 Apr  2014 new_query_groups.txt\r\n"
+    ],
+    [
+      0.000847,
+      "-rw-r--r--@    1 geobart  staff        2887  7 Apr  2014 errore.html\r\n"
+    ],
+    [
+      0.000532,
+      "-rw-r--r--@    1 geobart  staff     6640119  8 Apr  2014 2_stetl_INSPIRE_transform_v1.pdf\r\n"
+    ],
+    [
+      0.000796,
+      "-rw-r--r--@    1 geobart  staff      571324  8 Apr  2014 TR-2014-2.pdf\r\n"
+    ],
+    [
+      0.001105,
+      "-rw-r--r--@    1 geobart  staff      227228  9 Apr  2014 errore_9_aprile.docx\r\n"
+    ],
+    [
+      0.000022,
+      "-rw-r--r--@    1 geobart  staff        3205  9 Apr  2014 logout_matteo.jsp\r\n"
+    ],
+    [
+      0.000787,
+      "drwx------@    5 geobart  staff         170  9 Apr  2014 \u001b[1m\u001b[36mGetting_Started_with_OpenShift_eBook\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000006,
+      "-rw-r--r--     1 geobart  staff      405560 10 Apr  2014 trace_http_chpwd\r\n"
+    ],
+    [
+      0.000798,
+      "-rw-r--r--@    1 geobart  staff      409198 10 Apr  2014 http_trace_1\r\n"
+    ],
+    [
+      0.000006,
+      "-rw-r--r--@    1 geobart  staff        7472 10 Apr  2014 ohs1_SSODAITWEB.p12\r\n"
+    ],
+    [
+      0.000254,
+      "-rw-r--r--@    1 geobart  staff        9624 10 Apr  2014 ohs1_DAITWEB.p12\r\n"
+    ],
+    [
+      0.000600,
+      "-rw-r--r--@    1 geobart  staff      313656 10 Apr  2014 trace_http_oim_buono\r\n"
+    ],
+    [
+      0.000038,
+      "-rw-r--r--@    1 geobart  staff        3319 10 Apr  2014 logout.jsp.cookie.jsp\r\n"
+    ],
+    [
+      0.000023,
+      "-rw-r--r--@    1 geobart  staff       11261 10 Apr  2014 login.jsp.cookie.jsp\r\n"
+    ],
+    [
+      0.000031,
+      "-rw-r--r--     1 geobart  staff        1180 10 Apr  2014 logout.html\r\n-rw-r--r--     1 geobart  staff        3081 10 Apr  2014 oam-wlsagent-logout.war\r\n"
+    ],
+    [
+      0.001229,
+      "-rw-r--r--@    1 geobart  staff        2900 11 Apr  2014 logout.jsp\r\n"
+    ],
+    [
+      0.000008,
+      "drwxr-xr-x     6 geobart  staff         204 11 Apr  2014 \u001b[1m\u001b[36mnuovi certificati\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000861,
+      "-rw-r--r--@    1 geobart  staff        1577 12 Apr  2014 geonode.rst\r\n"
+    ],
+    [
+      0.000008,
+      "drwxr-xr-x    11 geobart  staff         374 13 Apr  2014 \u001b[1m\u001b[36mdelibere\u001b[39;49m\u001b[0m\r\n-rw-r--r--     1 geobart  staff         694 14 Apr  2014 Analisi trace http\r\n"
+    ],
+    [
+      0.001128,
+      "-rw-r--r--@    1 geobart  staff     2597654 14 Apr  2014 casadei_richiard_tesi.pdf\r\n"
+    ],
+    [
+      0.000874,
+      "-rw-r--r--@    1 geobart  staff       10830 15 Apr  2014 login.jsp\r\n"
+    ],
+    [
+      0.000009,
+      "drwx------     3 geobart  staff         102 15 Apr  2014 \u001b[1m\u001b[36mpages\u001b[39;49m\u001b[0m\r\n-rw-r--r--     1 geobart  staff    33990439 15 Apr  2014 oam-server.ear\r\ndrwx------     4 geobart  staff         136 15 Apr  2014 \u001b[1m\u001b[36mWEB-INF\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000014,
+      "drwx------     3 geobart  staff         102 15 Apr  2014 \u001b[1m\u001b[36mtemplates\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000042,
+      "-rw-r--r--     1 geobart  staff     1294247 15 Apr  2014 oracle.idm.uishell.war\r\n"
+    ],
+    [
+      0.000795,
+      "-rw-r--r--@    1 geobart  staff        3906 16 Apr  2014 WCErrorPage.jsp\r\n"
+    ],
+    [
+      0.000009,
+      "-rw-r--r--     1 geobart  staff        5073 16 Apr  2014 WCErrorPage.jsp.orig\r\n-rw-r--r--     1 geobart  staff      121989 16 Apr  2014 spaces.war\r\n-rw-r--r--     1 geobart  staff     2546182 16 Apr  2014 webcenter.ear\r\n"
+    ],
+    [
+      0.000649,
+      "-rw-r--r--@    1 geobart  staff        6560 17 Apr  2014 syncPasswordPlugin_oidlog.jar\r\n"
+    ],
+    [
+      0.000164,
+      "drwx------    11 geobart  staff         374 18 Apr  2014 \u001b[1m\u001b[36mpageloadtime-master\u001b[39;49m\u001b[0m\r\n-rw-r--r--     1 geobart  staff    48867799 19 Apr  2014 [Qgis] Tutorial 143  - 3D et texturage d'image-3HHnoiIjeP8.mp4\r\n"
+    ],
+    [
+      0.000496,
+      "-rw-r--r--@    1 geobart  staff     4514592 19 Apr  2014 SotM-2013-TopoJSON.pdf\r\n"
+    ],
+    [
+      0.000594,
+      "-rw-r--r--@    1 geobart  staff     1824211 20 Apr  2014 OpenLayers_workshop_v2.pdf\r\n"
+    ],
+    [
+      0.000831,
+      "-rw-r--r--@    1 geobart  staff     1500375 21 Apr  2014 Cesium3DMapsOnTheWeb.pdf\r\n"
+    ],
+    [
+      0.001051,
+      "-rw-r--r--@    1 geobart  staff     7550949 22 Apr  2014 Dahu-0.2.jar\r\n"
+    ],
+    [
+      0.000774,
+      "-rw-r--r--@    1 geobart  staff      426580 22 Apr  2014 JavaScriptForTesters.pdf\r\n"
+    ],
+    [
+      0.000933,
+      "-rw-r--r--@    1 geobart  staff     8995050 23 Apr  2014 _Serial_Box-04-2014_.dmg\r\n"
+    ],
+    [
+      0.000348,
+      "-rw-r--r--@    1 geobart  staff     1918758 23 Apr  2014 invoicemaci.zip\r\n"
+    ],
+    [
+      0.000018,
+      "-rw-r--r--@    1 geobart  staff     3431869 23 Apr  2014 profittrain_2.2.zip\r\n"
+    ],
+    [
+      0.000127,
+      "-rw-r--r--@    1 geobart  staff       17442 23 Apr  2014 template_ministero_white_prod_orig.html\r\n-rw-r--r--@    1 geobart  staff       25064 23 Apr  2014 template_ministero_white_prod2.html\r\n"
+    ],
+    [
+      0.000025,
+      "-rw-r--r--     1 geobart  staff    39326405 23 Apr  2014 BinaryNights.ForkLift.v2.6.MacOSX.Incl.Keymaker-CORE.zip\r\n"
+    ],
+    [
+      0.000731,
+      "-rw-r--r--@    1 geobart  staff     7763968 23 Apr  2014 peaks_osm.sqlite\r\n"
+    ],
+    [
+      0.001645,
+      "-rw-r--r--@    1 geobart  staff     1940370 24 Apr  2014 2013_geoserver_in_production.pdf\r\n"
+    ],
+    [
+      0.002107,
+      "-rw-r--r--@    1 geobart  staff       10289 24 Apr  2014 everest.gpx\r\n"
+    ],
+    [
+      0.001676,
+      "-rw-r--r--@    1 geobart  staff    15567005 24 Apr  2014 tryton-3.2.0.dmg\r\n"
+    ],
+    [
+      0.001082,
+      "drwxr-xr-x@   45 geobart  staff        1530 25 Apr  2014 \u001b[1m\u001b[36mIntuit.QuickBooks.Pro.2014.v15.0.4.R5.MacOSX.Regged-CORE\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.002513,
+      "-rw-r--r--@    1 geobart  staff        5754 27 Apr  2014 opengeo-playbook-master.zip\r\n"
+    ],
+    [
+      0.000390,
+      "-rw-r--r--@    1 geobart  staff     1195109 28 Apr  2014 riskinfo_lk2-master.zip\r\n"
+    ],
+    [
+      0.001463,
+      "-rw-r--r--@    1 geobart  staff       73858 28 Apr  2014 App-Asciio-1.02.71.tar.gz\r\n"
+    ],
+    [
+      0.000896,
+      "-rw-r--r--@    1 geobart  staff      249131 28 Apr  2014 David_François_Huynh-Google_Refine-tutorial.pdf\r\n"
+    ],
+    [
+      0.000362,
+      "-rw-r--r--@    1 geobart  staff    35435004 28 Apr  2014 eldemcan-Puse-ebe4a34.zip\r\n"
+    ],
+    [
+      0.000510,
+      "-rw-r--r--@    1 geobart  staff    18540487 28 Apr  2014 grefine-rdf-extension-0.9.0.tar.gz\r\n"
+    ],
+    [
+      0.000688,
+      "-rw-r--r--@    1 geobart  staff      968440 28 Apr  2014 TripleGeo_an ETL Tool for Transforming Geospatial Data into RDF Triples.pdf\r\n"
+    ],
+    [
+      0.000862,
+      "-rw-r--r--@    1 geobart  staff     2557787 28 Apr  2014 LODGrefine – LOD enabled Google Refine in Action.pdf\r\n"
+    ],
+    [
+      0.000654,
+      "-rw-r--r--@    1 geobart  staff   100255905 28 Apr  2014 geokettle-2.5.dmg\r\n"
+    ],
+    [
+      0.000778,
+      "-rw-r--r--@    1 geobart  staff      141528 28 Apr  2014 stetl.pdf\r\n"
+    ],
+    [
+      0.000454,
+      "drwxr-xr-x@   18 geobart  staff         612 28 Apr  2014 \u001b[1m\u001b[36mApp-Asciio-1.02.71\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000313,
+      "-rw-r--r--@    1 geobart  staff     1377521 28 Apr  2014 GeoKettle_E.Vautard.pdf\r\n"
+    ],
+    [
+      0.000281,
+      "-rw-r--r--@    1 geobart  staff      194546 28 Apr  2014 Linking Geospatial Data With GeoSPARQL.pdf\r\n"
+    ],
+    [
+      0.000294,
+      "-rw-r--r--@    1 geobart  staff     2990706 28 Apr  2014 The GeoKnow Project.pdf\r\n"
+    ],
+    [
+      0.000567,
+      "-rw-r--r--@    1 geobart  staff     2038101 29 Apr  2014 EDF2014-LDE_Strabon.pdf\r\n-rw-r--r--@    1 geobart  staff     7922896 29 Apr  2014 Geospatial data in RDF – stSPARQL.pdf\r\n"
+    ],
+    [
+      0.000015,
+      "-rw-r--r--@    1 geobart  staff      890868 29 Apr  2014 Linked Data Management API - InGeoCLOUDS.pdf\r\n"
+    ],
+    [
+      0.000557,
+      "-rw-r--r--@    1 geobart  staff      110946 29 Apr  2014 Piattaforma-Opne-Data-Interthree.jpg\r\n"
+    ],
+    [
+      0.000019,
+      "-rw-r--r--     1 geobart  staff       34652  1 Mag  2014 geotrek-mountains.zip\r\n"
+    ],
+    [
+      0.007720,
+      "-rw-r--r--@    1 geobart  staff      356521  1 Mag  2014 Kongoli_Remote_Sensing_Snow_final1.doc.pdf\r\n"
+    ],
+    [
+      0.000155,
+      "-rw-r--r--@    1 geobart  staff     4640219  1 Mag  2014 50463514971cc9efa3.pdf\r\n-rw-r--r--@    1 geobart  staff    16509447  3 Mag  2014 bollettino\r\n-rw-r--r--@    1 geobart  staff     1290810  3 Mag  2014 Paris2011_TopologyWithPostGIS_2_0.pdf\r\n-rw-r--r--@    1 geobart  staff        2876  4 Mag  2014 history-completa.txt\r\n-rw-r--r--@    1 geobart  staff         501  4 Mag  2014 history-postgis+geonode.txt\r\n-rw-r--r--@    1 geobart  staff        1000  4 Mag  2014 dopo-installato-postgis2+geonode2.txt\r\n-rw-r--r--@    1 geobart  staff    12366215  4 Mag  2014 bollettino_domani.sql\r\n-rw-r--r--@    1 geobart  staff    12369759  4 Mag  2014 bollettino_dopodomani.sql\r\n-rw-r--r--@    1 geobart  staff    24730346  4 Mag  2014 bollettino_oggi.sql\r\n-rw-r--r--@    1 geobart  staff        1901  4 Mag  2014 comandi-installazione-ok.sh\r\n-rw-r--r--@    1 geobart  staff       31639  4 Mag  2014 image.jpeg\r\n-rw-r--r--@    1 geobart  staff      502128  5 Mag  2014 f5-oracle-oam-dg_co.pdf\r\n-rw-r--r--@    1 geobart  staff       "
+    ],
+    [
+      0.000007,
+      " 5694  5 Mag  2014 everest.czml\r\n"
+    ],
+    [
+      0.000123,
+      "-rw-r--r--@    1 geobart  staff      469120  5 Mag  2014 erroredait.docx\r\n"
+    ],
+    [
+      0.000057,
+      "-rw-r--r--@    1 geobart  staff      192594  5 Mag  2014 1.jpg\r\n"
+    ],
+    [
+      0.000339,
+      "-rw-r--r--@    1 geobart  staff      182964  5 Mag  2014 2.jpg\r\n-rw-r--r--     1 geobart  staff      730485  6 Mag  2014 trace_chpwd\r\n"
+    ],
+    [
+      0.000614,
+      "-rw-r--r--@    1 geobart  staff      247067  6 Mag  2014 2-1.jpg\r\n"
+    ],
+    [
+      0.000009,
+      "-rw-r--r--     1 geobart  staff   667042838  7 Mag  2014 TeslaThemes.zip\r\n"
+    ],
+    [
+      0.000926,
+      "-rw-r--r--@    1 geobart  staff      192588  8 Mag  2014 30.jpg\r\n"
+    ],
+    [
+      0.001050,
+      "-rw-r--r--@    1 geobart  staff      784976  8 Mag  2014 Winning-in-the-API-Economy-eBook-3scale.pdf\r\n"
+    ],
+    [
+      0.000629,
+      "-rw-r--r--@    1 geobart  staff   119590981  9 Mag  2014 lodrefine-1.0.7.1.dmg\r\n"
+    ],
+    [
+      0.000976,
+      "-rw-r--r--@    1 geobart  staff        6519  9 Mag  2014 patch_bug_17803827.txt\r\n"
+    ],
+    [
+      0.000718,
+      "drwxr-xr-x@    6 geobart  staff         204  9 Mag  2014 \u001b[1m\u001b[36m18528094\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000010,
+      "-rw-r--r--     1 geobart  staff    54418041 10 Mag  2014 Opatch_patchWG.zip\r\n"
+    ],
+    [
+      0.000951,
+      "-rw-r--r--@    1 geobart  staff         600 10 Mag  2014 installazione cesium+volo-everest.txt\r\n"
+    ],
+    [
+      0.000270,
+      "-rw-r--r--@    1 geobart  staff        8002 10 Mag  2014 flyToEverest.zip\r\n"
+    ],
+    [
+      0.000572,
+      "-rw-r--r--@    1 geobart  staff        9851 10 Mag  2014 temp_oam.txt\r\n"
+    ],
+    [
+      0.000880,
+      "-rw-r--r--@    1 geobart  staff     2032866 11 Mag  2014 jquery-ui-1.10.4.zip\r\n"
+    ],
+    [
+      0.000321,
+      "-rw-r--r--@    1 geobart  staff    37133194 11 Mag  2014 Cesium-full-b28.zip\r\n"
+    ],
+    [
+      0.000755,
+      "-rw-r--r--@    1 geobart  staff      167424 15 Mag  2014 phf_v2.doc\r\n"
+    ],
+    [
+      0.000828,
+      "-rw-r--r--@    1 geobart  staff     4267962 17 Mag  2014 honeyproxy-latest.zip\r\n"
+    ],
+    [
+      0.001419,
+      "-rw-r--r--@    1 geobart  staff    18475384 22 Mag  2014 gs-geogit-2.4-20140401.154415-1-shaded-plugin.jar\r\n"
+    ],
+    [
+      0.000283,
+      "-rw-r--r--@    1 geobart  staff     4816004 22 Mag  2014 ROGUE_JCTD_WhitePaper_020513.pdf\r\n"
+    ],
+    [
+      0.000291,
+      "-rw-r--r--@    1 geobart  staff     1093562 22 Mag  2014 Cloudant-Geospatial-technical-overview.pdf\r\n"
+    ],
+    [
+      0.001120,
+      "-rw-r--r--@    1 geobart  staff   959424603 23 Mag  2014 Registr_1.mov\r\n"
+    ],
+    [
+      0.000006,
+      "drwxr-xr-x    13 geobart  staff         442 23 Mag  2014 \u001b[1m\u001b[36mvideo_gb\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000014,
+      "-rw-r--r--     1 geobart  staff    45095462 23 Mag  2014 video_gb.zip\r\n"
+    ],
+    [
+      0.000833,
+      "-rw-r--r--@    1 geobart  staff      237167 26 Mag  2014 nardi_matteo_tesi.pdf\r\n"
+    ],
+    [
+      0.000930,
+      "-rw-r--r--@    1 geobart  staff     4000799 29 Mag  2014 patrimoniopubblicolg2014_v0.6.pdf\r\n"
+    ],
+    [
+      0.000849,
+      "-rw-r--r--@    1 geobart  staff     3329828 30 Mag  2014 D1.1_Requirements_and_System_Architecture.pdf\r\n"
+    ],
+    [
+      0.001186,
+      "-rw-r--r--@    1 geobart  staff        3959 30 Mag  2014 states.sld\r\n"
+    ],
+    [
+      0.000006,
+      "drwxr-xr-x     7 geobart  staff         238  1 Giu  2014 \u001b[1m\u001b[36mwps\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000817,
+      "drwxr-xr-x@    5 geobart  staff         170  3 Giu  2014 \u001b[1m\u001b[36mSVI-LXQFI25\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.001064,
+      "-rw-r--r--@    1 geobart  staff       80544  7 Giu  2014 ricevutaCDR.pdf\r\n"
+    ],
+    [
+      0.000010,
+      "drwxr-xr-x    35 geobart  staff        1190  7 Giu  2014 \u001b[1m\u001b[36mSmespire Training\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000031,
+      "-rwxr-xr-x     1 geobart  staff    31938115  7 Giu  2014 \u001b[31msito_pm_geovolution.zip\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000731,
+      "-rw-r--r--@    1 geobart  staff     2471077  7 Giu  2014 513_jansen-hocevar-openlayers3-workshop.pdf\r\n"
+    ],
+    [
+      0.000027,
+      "-rw-r--r--@    1 geobart  staff       31626  7 Giu  2014 525_geokettle.pdf\r\n"
+    ],
+    [
+      0.000424,
+      "-rw-r--r--@    1 geobart  staff     5083558  7 Giu  2014 509_geonode-climb.pdf\r\n"
+    ],
+    [
+      0.000685,
+      "drwx------@   27 geobart  staff         918 10 Giu  2014 \u001b[1m\u001b[36mplacemaker_2014_06_09\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.001226,
+      "-rw-r--r--@    1 geobart  staff      145905 10 Giu  2014 =?UTF-8?B?MTEuMS4xLjcuMV9vYW0ucGRm?=.pdf\r\n"
+    ],
+    [
+      0.001396,
+      "-rw-r--r--@    1 geobart  staff      107367 14 Giu  2014 viewer7.jpg\r\n"
+    ],
+    [
+      0.001397,
+      "-rw-r--r--@    1 geobart  staff      964096 14 Giu  2014 GeoExt-Workshop.pdf\r\n"
+    ],
+    [
+      0.000045,
+      "-rw-r--r--     1 geobart  staff     1858159 15 Giu  2014 pm-nuovo.zip\r\n"
+    ],
+    [
+      0.000009,
+      "-rw-r--r--     1 geobart  staff     1799954 15 Giu  2014 pm_fb.zip\r\n"
+    ],
+    [
+      0.000770,
+      "-rw-r--r--@    1 geobart  staff     1862762 15 Giu  2014 pm-tre.zip\r\n"
+    ],
+    [
+      0.000586,
+      "-rw-r--r--@    1 geobart  staff      154495 15 Giu  2014 viewer8.jpg\r\n"
+    ],
+    [
+      0.000030,
+      "-rw-r--r--     1 geobart  staff     3561466 15 Giu  2014 pm_fb_last.zip\r\n-rw-r--r--     1 geobart  staff        2866 17 Giu  2014 simboli_fase1.sld\r\n"
+    ],
+    [
+      0.003112,
+      "-rw-r--r--@    1 geobart  staff      188889 17 Giu  2014 viewer11.jpg\r\n"
+    ],
+    [
+      0.000025,
+      "-rw-r--r--@    1 geobart  staff      127730 17 Giu  2014 viewer12.jpg\r\n"
+    ],
+    [
+      0.000042,
+      "-rw-r--r--@    1 geobart  staff      429031 19 Giu  2014 screenshot_53.png\r\n"
+    ],
+    [
+      0.000008,
+      "-rw-r--r--@    1 geobart  staff      541482 19 Giu  2014 screenshot_54.png\r\n"
+    ],
+    [
+      0.000024,
+      "-rw-r--r--     1 geobart  staff         342 19 Giu  2014 sut.ldif\r\n"
+    ],
+    [
+      0.001173,
+      "-rw-r--r--@    1 geobart  staff     7376773 21 Giu  2014 jepysi.jar\r\n"
+    ],
+    [
+      0.000623,
+      "-rw-r--r--@    1 geobart  staff      329468 21 Giu  2014 docs.jar\r\n"
+    ],
+    [
+      0.001517,
+      "-rw-r--r--@    1 geobart  staff        7003 25 Giu  2014 trenitalia_firenze.pdf\r\n"
+    ],
+    [
+      0.001109,
+      "-rw-r--r--@    1 geobart  staff      462917 25 Giu  2014 manual.pdf\r\n"
+    ],
+    [
+      0.001153,
+      "-rw-r--r--@    1 geobart  staff     2104017 25 Giu  2014 osm_in_the_enterprise.pdf\r\n"
+    ],
+    [
+      0.000033,
+      "-rw-r--r--@    1 geobart  staff        6834 25 Giu  2014 simboli fase1.sld\r\n"
+    ],
+    [
+      0.000455,
+      "-rw-r--r--@    1 geobart  staff        6834 25 Giu  2014 simboli fase1-1.sld\r\n"
+    ],
+    [
+      0.000506,
+      "-rw-r--r--@    1 geobart  staff      448043 25 Giu  2014 snapshot1.png\r\n"
+    ],
+    [
+      0.000013,
+      "-rw-r--r--     1 geobart  staff     1793971 29 Giu  2014 pm.tar.gz\r\n"
+    ],
+    [
+      0.001360,
+      "-rw-r--r--@    1 geobart  staff     1055482  1 Lug  2014 snapshot2.png\r\n"
+    ],
+    [
+      0.001421,
+      "-rw-r--r--@    1 geobart  staff    77064011  1 Lug  2014 Tech Talk -  The Boundless SDK by Bart van den Eijnden \u0026 Andreas Hocevar-99380327.mp4\r\n"
+    ],
+    [
+      0.000796,
+      "-rw-r--r--@    1 geobart  staff     2330106  2 Lug  2014 Belletti_Matteo_tesi.pdf\r\n"
+    ],
+    [
+      0.000006,
+      "-rw-r--r--@    1 geobart  staff     1056179  3 Lug  2014 snapshot3.png\r\n"
+    ],
+    [
+      0.000540,
+      "-rw-r--r--@    1 geobart  staff        9159  4 Lug  2014 prova.zip\r\n"
+    ],
+    [
+      0.000021,
+      "drwxr-xr-x     9 geobart  staff         306  4 Lug  2014 \u001b[1m\u001b[36mprova\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000549,
+      "-rw-r--r--@    1 geobart  staff      519164  5 Lug  2014 snapshot4.png\r\n"
+    ],
+    [
+      0.016445,
+      "-rw-r--r--@    1 geobart  staff        2787  6 Lug  2014 proxy.cgi\r\n"
+    ],
+    [
+      0.000153,
+      "-rw-r--r--     1 geobart  staff        2861  6 Lug  2014 proxy_pwd.cgi\r\n-rw-r--r--@    1 geobart  staff      134944  7 Lug  2014 snapshot5.png\r\n-rw-r--r--@    1 geobart  staff     1361441  7 Lug  2014 snapshot6.png\r\n-rw-r--r--@    1 geobart  staff       58397  7 Lug  2014 snapshot7.png\r\n-rw-r--r--@    1 geobart  staff     1050472  7 Lug  2014 snapshot9.png\r\n-rw-r--r--@    1 geobart  staff       49064  7 Lug  2014 snapshot10.png\r\n-rw-r--r--@    1 geobart  staff      103456  7 Lug  2014 snapshot11.png\r\n-rw-r--r--@    1 geobart  staff     1956809  8 Lug  2014 rc199-010-DebuggingJavascript_2.pdf\r\n-rw-r--r--     1 geobart  staff         134  8 Lug  2014 polygon_wkt\r\n-rw-r--r--@    1 geobart  staff       26424  9 Lug  2014 presenze_corso.pdf\r\n-rw-r--r--@    1 geobart  staff   170565044  9 Lug  2014 QGIS-2.4.0-1.dmg\r\n-rw-r--r--     1 geobart  staff        1450 12 Lug  2014 proxy_libreria.tar.gz\r\n-rw-r--r--@    1 geobart  staff      697924 14 Lug  2014 snapshot12.png\r\n-rw-r--r--@    1 geobart  staff      321108 14 Lu"
+    ],
+    [
+      0.000017,
+      "g  2014 snapshot13.png\r\n"
+    ],
+    [
+      0.001045,
+      "-rw-r--r--@    1 geobart  staff      282695 15 Lug  2014 snapshot14.png\r\n"
+    ],
+    [
+      0.000995,
+      "-rw-r--r--@    1 geobart  staff      117665 16 Lug  2014 jQuery-File-Upload-master.zip\r\n"
+    ],
+    [
+      0.000877,
+      "drwxr-xr-x@   22 geobart  staff         748 16 Lug  2014 \u001b[1m\u001b[36mjQuery-File-Upload-master\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.001961,
+      "-rw-r--r--@    1 geobart  staff        9029 17 Lug  2014 ExtJS-e3b95c9f2b76beb959edd5729611bacf5ee0de2d.zip\r\n"
+    ],
+    [
+      0.000946,
+      "drwxr-xr-x@    6 geobart  staff         204 17 Lug  2014 \u001b[1m\u001b[36mCarListings\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000775,
+      "-rw-r--r--@    1 geobart  staff     1421440 17 Lug  2014 ext_dataview.zip\r\n"
+    ],
+    [
+      0.000858,
+      "-rw-r--r--@    1 geobart  staff     4146870 21 Lug  2014 rc200-010d-java_performance_optimization_0.pdf\r\n"
+    ],
+    [
+      0.000897,
+      "-rw-r--r--@    1 geobart  staff     2368055 22 Lug  2014 Heng_Min_MasterThesis2010.pdf\r\n"
+    ],
+    [
+      0.000939,
+      "-rw-r--r--@    1 geobart  staff      757846 22 Lug  2014 snapshot16.png\r\n"
+    ],
+    [
+      0.000975,
+      "-rw-r--r--@    1 geobart  staff       45908 22 Lug  2014 snapshot17.png\r\n"
+    ],
+    [
+      0.000027,
+      "drwxr-xr-x     4 geobart  staff         136 22 Lug  2014 \u001b[1m\u001b[36mparsing_sld\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.001718,
+      "-rw-r--r--@    1 geobart  staff      231052 22 Lug  2014 snapshot18.png\r\n"
+    ],
+    [
+      0.002158,
+      "-rw-r--r--@    1 geobart  staff      695388 24 Lug  2014 snapshot20.png\r\n"
+    ],
+    [
+      0.001428,
+      "-rw-r--r--@    1 geobart  staff      171024 25 Lug  2014 snapshot21.png\r\n"
+    ],
+    [
+      0.001180,
+      "-rw-r--r--@    1 geobart  staff      236725 28 Lug  2014 snapshot22.png\r\n"
+    ],
+    [
+      0.000234,
+      "-rw-r--r--@    1 geobart  staff      236428 28 Lug  2014 snapshot23.png\r\n"
+    ],
+    [
+      0.000337,
+      "-rw-r--r--@    1 geobart  staff      212612 28 Lug  2014 snapshot24.png\r\n"
+    ],
+    [
+      0.000861,
+      "-rw-r--r--@    1 geobart  staff      426120 28 Lug  2014 snapshot25.png\r\n"
+    ],
+    [
+      0.000329,
+      "-rw-r--r--@    1 geobart  staff      570415 28 Lug  2014 snapshot26.png\r\n"
+    ],
+    [
+      0.000566,
+      "-rw-r--r--@    1 geobart  staff      449129 28 Lug  2014 snapshot27.png\r\n"
+    ],
+    [
+      0.001207,
+      "-rw-r--r--@    1 geobart  staff      287142 29 Lug  2014 snapshot28.png\r\n"
+    ],
+    [
+      0.000856,
+      "-rw-r--r--@    1 geobart  staff     5745842 29 Lug  2014 girona-openlayers-workshop.pdf\r\n"
+    ],
+    [
+      0.000326,
+      "-rw-r--r--@    1 geobart  staff        8453 29 Lug  2014 WFSQuery.txt\r\n"
+    ],
+    [
+      0.001191,
+      "-rw-r--r--@    1 geobart  staff       20465 30 Lug  2014 snapshot29.png\r\n"
+    ],
+    [
+      0.000345,
+      "-rw-r--r--@    1 geobart  staff      129457 30 Lug  2014 snapshot30.png\r\n"
+    ],
+    [
+      0.000862,
+      "-rw-r--r--@    1 geobart  staff     1566075 30 Lug  2014 gridClientLast.tar.gz\r\n"
+    ],
+    [
+      0.000006,
+      "drwxr-xr-x     5 geobart  staff         170 31 Lug  2014 \u001b[1m\u001b[36mbuild\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000018,
+      "-rw-r--r--     1 geobart  staff     2764367 31 Lug  2014 build.zip\r\n"
+    ],
+    [
+      0.000013,
+      "-rw-rw-rw-     1 geobart  staff     9771182 31 Lug  2014 spare.zip\r\n"
+    ],
+    [
+      0.000618,
+      "-rw-r--r--@    1 geobart  staff         661  1 Ago  2014 setting.sql\r\n"
+    ],
+    [
+      0.000005,
+      "-rw-------     1 geobart  staff     2551109  1 Ago  2014 gridClient_2SAL.zip\r\n"
+    ],
+    [
+      0.000830,
+      "-rw-r--r--@    1 geobart  staff     2838392  2 Ago  2014 ShapeFixer_1_0.zip\r\n"
+    ],
+    [
+      0.000007,
+      "drwxrwxr-x    11 geobart  staff         374  2 Ago  2014 \u001b[1m\u001b[36mShapeFixer\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000039,
+      "-rw-r--r--     1 geobart  staff     4716104  3 Ago  2014 geobeyond-it-1407070109-database-2014-08-03-14-02-44.sql\r\n"
+    ],
+    [
+      0.000320,
+      "-rw-r--r--@    1 geobart  staff      544945  3 Ago  2014 geobeyond-it-1407070109-database-2014-08-03-14-02-44.zip\r\n"
+    ],
+    [
+      0.000348,
+      "-rw-r--r--@    1 geobart  staff    92161183  3 Ago  2014 geobeyond-it-1407070109-file-2014-08-03-13-59-17.zip\r\n"
+    ],
+    [
+      0.000016,
+      "drwxr-xr-x     5 geobart  staff         170  3 Ago  2014 \u001b[1m\u001b[36mtmp\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000022,
+      "drwxr-xr-x    16 geobart  staff         544  4 Ago  2014 \u001b[1m\u001b[36mtemplate SPA\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000658,
+      "-rw-r--r--@    1 geobart  staff     4278400  4 Ago  2014 visia_-_Template1st.com.zip\r\n"
+    ],
+    [
+      0.000650,
+      "-rw-r--r--@    1 geobart  staff     9293128  5 Ago  2014 simplicity_102.zip\r\n"
+    ],
+    [
+      0.000625,
+      "-rw-r--r--@    1 geobart  staff    35377037  6 Ago  2014 betheme33.rar\r\n"
+    ],
+    [
+      0.000906,
+      "-rw-r--r--@    1 geobart  staff       79274  6 Ago  2014 hello-map_2_final.zip\r\n"
+    ],
+    [
+      0.000337,
+      "-rw-r--r--@    1 geobart  staff       81894  6 Ago  2014 hello-map_3_final.zip\r\n"
+    ],
+    [
+      0.000006,
+      "-rw-r--r--@    1 geobart  staff        1490  6 Ago  2014 hello-map_1_final.zip\r\n"
+    ],
+    [
+      0.000351,
+      "-rw-r--r--@    1 geobart  staff    29884857  7 Ago  2014 themeforest-7520253-spare-ultimate-multipurpose-less-theme.zip\r\n"
+    ],
+    [
+      0.000007,
+      "drwxrwxrwx     8 geobart  staff         272  7 Ago  2014 \u001b[30m\u001b[43msimplicity_wp_1.0.2\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000017,
+      "drwx------     8 geobart  staff         272  7 Ago  2014 \u001b[1m\u001b[36mbetheme-premium-wordpress-theme\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000016,
+      "-rwxrwxrwx     1 geobart  staff   271943044  8 Ago  2014 \u001b[31mvideo GB.zip\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000823,
+      "-rw-r--r--@    1 geobart  staff      100999  9 Ago  2014 wordpress.2014-08-09.xml\r\n"
+    ],
+    [
+      0.000231,
+      "-rw-r--r--@    1 geobart  staff       84086  9 Ago  2014 wp-migrate-db-pro-1.4.1.zip\r\n"
+    ],
+    [
+      0.000436,
+      "-rw-r--r--@    1 geobart  staff      565090  9 Ago  2014 sql362135_1-migrate-20140809165138.sql.gz\r\n"
+    ],
+    [
+      0.000544,
+      "-rw-r--r--@    1 geobart  staff      727630 11 Ago  2014 sql362135_1-migrate-20140811132323.sql.gz\r\n"
+    ],
+    [
+      0.000029,
+      "-rw-r--r--     1 geobart  staff     7610866 11 Ago  2014 sql362135_1-migrate-20140811132323.sql\r\n"
+    ],
+    [
+      0.000014,
+      "drwxr-xr-x    29 geobart  staff         986 12 Ago  2014 \u001b[1m\u001b[36mWPML\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000920,
+      "-rw-r--r--@    1 geobart  staff     2365044 13 Ago  2014 geogitbranch-140813131225-phpapp02.pptx\r\n"
+    ],
+    [
+      0.000877,
+      "-rw-r--r--@    1 geobart  staff     6341903 16 Ago  2014 wordpress-3.9.2.zip\r\n"
+    ],
+    [
+      0.000780,
+      "-rw-r--r--@    1 geobart  staff     2938450 20 Ago  2014 dorothy_snow_doc.pdf\r\n"
+    ],
+    [
+      0.000228,
+      "-rw-r--r--@    1 geobart  staff     2967102 20 Ago  2014 Doc4.3_MODIS.pdf\r\n"
+    ],
+    [
+      0.000441,
+      "-rw-r--r--@    1 geobart  staff     1752974 20 Ago  2014 Lu N.et al_j.jhydrol.2011.04.026.pdf\r\n"
+    ],
+    [
+      0.000286,
+      "-rw-r--r--@    1 geobart  staff     1493129 20 Ago  2014 Hall et. al..pdf\r\n"
+    ],
+    [
+      0.000739,
+      "-rw-r--r--@    1 geobart  staff      934145 25 Ago  2014 2465RGP2012_7-8-14.pdf\r\n"
+    ],
+    [
+      0.000005,
+      "drwx------     4 geobart  staff         136 27 Ago  2014 \u001b[1m\u001b[36moracle\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.001049,
+      "-rw-r--r--@    1 geobart  staff       69527 27 Ago  2014  Documento Di Abilitazione Geobeyond Srl T115.pdf\r\n"
+    ],
+    [
+      0.000005,
+      "-rw-r--r--     1 geobart  staff        3923 30 Ago  2014 temp.sql\r\n"
+    ],
+    [
+      0.000010,
+      "-rw-r--r--     1 geobart  staff       71559  1 Set  2014  Documento Di Abilitazione Geobeyond Srl T115.pdf.p7m\r\n"
+    ],
+    [
+      0.000777,
+      "-rw-r--r--@    1 geobart  staff     1540464  2 Set  2014 D2.2.1_Integration_of_Geospatial_Databases.pdf\r\n"
+    ],
+    [
+      0.001007,
+      "-rw-r-----@    1 geobart  staff      258486  5 Set  2014 descrizione.odt\r\n"
+    ],
+    [
+      0.004811,
+      "-rw-r--r--     1 geobart  staff        1964  6 Set  2014 gs-mysql-2.5-SNAPSHOT.jar\r\n"
+    ],
+    [
+      0.000147,
+      "-rw-r--r--@    1 geobart  staff      773946 10 Set  2014 geoserver-2.5-mysql-plugin.zip\r\n-rw-r--r--     1 geobart  staff       20371 10 Set  2014 gt-jdbc-mysql-11-SNAPSHOT.jar\r\n-rw-r--r--@    1 geobart  staff   192914135 15 Set  2014 The%20Manager's%20Guide%20to%20PostGIS%20—%20Paul%20Ramsey-HD.mp4\r\n-rw-r-----@    1 geobart  staff       84154 16 Set  2014 entita HMDACS directory 1.0..pptx\r\n-rw-r-----@    1 geobart  staff      576198 16 Set  2014 Enterprise_User_DIrectory_Security_Module_v01.docx\r\n-rw-r--r--@    1 geobart  staff      319693 16 Set  2014 819-4326.pdf\r\n-rw-r--r--@    1 geobart  staff     2249105 16 Set  2014 maa-deployment-blueprint-1735105.pdf\r\n-rw-r--r--@    1 geobart  staff     2475170 16 Set  2014 821-1217.pdf\r\n-rw-r--r--@    1 geobart  staff      313102 16 Set  2014 IDM_OID_Blueprint.pdf\r\n-rw-r-----@    1 geobart  staff       56320 16 Set  2014 CC1558_(korr ST)_OR_2_HU-EN (2).doc\r\n-rw-r-----@    1 geobart  staff     2905551 17 Set  2014 KIT_v2.0.zip\r\ndrwxrwxrwx     8 geobart  staff       "
+    ],
+    [
+      0.000009,
+      "  272 23 Set  2014 \u001b[30m\u001b[43mriskinfo_lk2-master\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000841,
+      "-rw-r--r--@    1 geobart  staff      630681 24 Set  2014 identity-federation-wp-129458.pdf\r\n"
+    ],
+    [
+      0.000875,
+      "-rw-r-----@    1 geobart  staff     1414144 24 Set  2014 MPSSO_Summary_v1p1.ppt\r\n"
+    ],
+    [
+      0.000010,
+      "-rw-r--r--@    1 geobart  staff       34825 25 Set  2014 buffer_geonode_oaks.pdf\r\n-rw-r--r--     1 geobart  staff      272703 25 Set  2014 geonode_oaks\r\n"
+    ],
+    [
+      0.000943,
+      "drwxr-xr-x@    3 geobart  staff         102 25 Set  2014 \u001b[1m\u001b[36mwercker.app\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000372,
+      "-rw-r--r--@    1 geobart  staff    17980180 26 Set  2014 sikulixsetup-1.1.0.jar\r\n"
+    ],
+    [
+      0.000892,
+      "-rw-r-----@    1 geobart  staff      532132 29 Set  2014 Quietanze_dematerializzate_del_29092014-173816_1_di_1.zip\r\n"
+    ],
+    [
+      0.000011,
+      "-rw-r--r--@    1 geobart  staff       39914 30 Set  2014 oaks_geonode_1.pdf\r\n"
+    ],
+    [
+      0.001264,
+      "-rw-r-----@    1 geobart  staff       69120 30 Set  2014 PROJECT_DOCUMENT_GENERIC.DOC\r\n"
+    ],
+    [
+      0.001055,
+      "-rw-r--r--@    1 geobart  staff      165888  1 Ott  2014 BOM-PROD.doc\r\n"
+    ],
+    [
+      0.000378,
+      "-rw-r-----@    1 geobart  staff      815699  1 Ott  2014 whitepaper-oud-434007.pdf\r\n"
+    ],
+    [
+      0.000013,
+      "-rw-r--r--@    1 geobart  staff     4904448  1 Ott  2014 VFUK_NewCo_Configuration_Functional_Design-Access_Management.doc\r\n"
+    ],
+    [
+      0.000014,
+      "-rw-r--r--@    1 geobart  staff     1702400  1 Ott  2014 VFUK_NewCo_OAM_Integration_Technical_Design.doc\r\n"
+    ],
+    [
+      0.000615,
+      "-rwxrwxrwx@    1 geobart  staff    20696967  1 Ott  2014 \u001b[31mHMDACS DESIGN SPECIFICATION_EN_1.3_5.pdf\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000009,
+      "-rw-rw-rw-     1 geobart  staff       71680  2 Ott  2014 ed_Lab.vsd\r\n-rw-rw-rw-     1 geobart  staff       61952  2 Ott  2014 sol_overview.vsd\r\n-rw-rw-rw-     1 geobart  staff      103936  2 Ott  2014 federation_seq.vsd\r\n"
+    ],
+    [
+      0.000003,
+      "-rw-rw-rw-     1 geobart  staff      237568  2 Ott  2014 IAM overview - End State.vsd\r\n"
+    ],
+    [
+      0.001125,
+      "-rw-r-----@    1 geobart  staff      297984  2 Ott  2014 identity-accessmgmt-certmatrix-1932870.xls\r\n"
+    ],
+    [
+      0.000343,
+      "-rw-r-----@    1 geobart  staff      272896  3 Ott  2014 oracle-accessmgr-10gr3-certmatrix-132000.xls\r\n-rw-rw-rw-     1 geobart  staff       62464  3 Ott  2014 Disegno1.vsd\r\n"
+    ],
+    [
+      0.000008,
+      "-rw-r--r--@    1 geobart  staff     1588736  3 Ott  2014 IAM_DESIGN_SELEXES_EDIT.doc\r\n-rw-rw-rw-@    1 geobart  staff      484352  3 Ott  2014 IAM_DESIGN_SELEXES.DOC\r\n"
+    ],
+    [
+      0.000814,
+      "-rw-r-----@    1 geobart  staff     5493311  4 Ott  2014 e28212.pdf\r\n"
+    ],
+    [
+      0.000007,
+      "-rw-r--r--@    1 geobart  staff        9177  6 Ott  2014 erogazione da validare_Bartoli_activities.xlsx\r\n"
+    ],
+    [
+      0.000576,
+      "-rw-r--r--@    1 geobart  staff   238017596  6 Ott  2014 oim_server1.out\r\n"
+    ],
+    [
+      0.000955,
+      "-rw-r-----@    1 geobart  staff     1422754  7 Ott  2014 OCD-Android-latest.apk\r\n"
+    ],
+    [
+      0.000775,
+      "-rw-r-----@    1 geobart  staff    10314777 11 Ott  2014 Arbiter.apk\r\n"
+    ],
+    [
+      0.000253,
+      "-rw-r--r--@    1 geobart  staff     6288495 11 Ott  2014 geob_cv_new.docx\r\n-rw-r--r--     1 geobart  staff    15195096 12 Ott  2014 docs.zip\r\n"
+    ],
+    [
+      0.000758,
+      "-rw-r-----@    1 geobart  staff      494332 12 Ott  2014 full-fledged-api-django-oauth-toolkit.pdf\r\n"
+    ],
+    [
+      0.000830,
+      "-rw-r-----@    1 geobart  staff     1393840 12 Ott  2014 come-creare-api-rest-per-tutti-i-gusti-con-django-oauth-toolkit.pdf\r\n"
+    ],
+    [
+      0.000848,
+      "-rw-r-----@    1 geobart  staff       79855 15 Ott  2014 GeoKnow Generator_triplegeo.pdf\r\n"
+    ],
+    [
+      0.000800,
+      "-rw-r--r--@    1 geobart  staff       63451 15 Ott  2014 Boundless-Global-Pricelist-September-2014b.pdf\r\n"
+    ],
+    [
+      0.000468,
+      "-rw-r--r--@    1 geobart  staff     1640968 19 Ott  2014 d_2_5_CLIMB-WebGIS-Server_and_client_architecture_final_report.pdf\r\n"
+    ],
+    [
+      0.000463,
+      "-rw-r--r--@    1 geobart  staff    13496881 19 Ott  2014 Installation and User Manual.pdf\r\n"
+    ],
+    [
+      0.000698,
+      "-rw-r--r--@    1 geobart  staff        2883 19 Ott  2014 software.rst\r\n"
+    ],
+    [
+      0.001039,
+      "-rw-r--r--@    1 geobart  staff     7675420 21 Ott  2014 Oracle_Retail_14.0_High_Availability_Case_Study_Fusion_Middleware_Cluster_-_Part_1.pdf\r\n"
+    ],
+    [
+      0.000024,
+      "-rw-r--r--@    1 geobart  staff    14427074 24 Ott  2014 Integrazione_applicazioni_SSO_Admin_Guide_v.1.0.docx\r\n"
+    ],
+    [
+      0.000681,
+      "-rw-r--r--@    1 geobart  staff     1341054 25 Ott  2014 ANALISI COMPARATIVA DI SOFTWARE PER LA PUBBLICAZIONE DI OPEN DATA.pdf\r\n"
+    ],
+    [
+      0.000869,
+      "-rw-r-----@    1 geobart  staff        1890 30 Ott  2014 EC_203112_30-10-2014_18-25-44279978.pdf\r\n"
+    ],
+    [
+      0.001124,
+      "-rw-r-----@    1 geobart  staff      506755 31 Ott  2014 Relazione Tecnica.odt\r\n"
+    ],
+    [
+      0.000366,
+      "-rw-r-----@    1 geobart  staff      177348 31 Ott  2014 Quietanze_dematerializzate_del_31102014-110715_1_di_1.zip\r\n"
+    ],
+    [
+      0.000666,
+      "-rw-r--r--@    1 geobart  staff        5887  1 Nov  2014 software-1.rst\r\n"
+    ],
+    [
+      0.001307,
+      "-rw-r-----@    1 geobart  staff       84557  5 Nov  2014 Bug Tracker - PM_LYNX_2014_10_24.ods\r\n"
+    ],
+    [
+      0.001276,
+      "-rw-r--r--@    1 geobart  staff        5428 10 Nov 11:02 sublime-ldif-master.zip\r\n"
+    ],
+    [
+      0.001182,
+      "-rw-r-----@    1 geobart  staff       23102 13 Nov 14:53 300417715.xlsx\r\n"
+    ],
+    [
+      0.002234,
+      "-rw-r--r--@    1 geobart  staff       49252 15 Nov 21:48 print-1.pdf\r\n"
+    ],
+    [
+      0.001103,
+      "-rw-r--r--@    1 geobart  staff        8809 20 Nov 13:22 erogazione da validare_Bartoli.xlsx\r\n"
+    ],
+    [
+      0.001632,
+      "-rw-r--r--@    1 geobart  staff     3041243 20 Nov 17:35 SuperDuper!.dmg\r\n"
+    ],
+    [
+      0.000668,
+      "-rw-r--r--@    1 geobart  staff      264285 22 Nov 16:51 HowToGetGeoSHAPE.pdf\r\n"
+    ],
+    [
+      0.000398,
+      "-rw-r--r--@    1 geobart  staff       18516 22 Nov 16:52 HowToGetGeoSHAPE.docx\r\n"
+    ],
+    [
+      0.001523,
+      "-rw-r--r--@    1 geobart  staff      345290 22 Nov 18:02 gisgoes3d_olivier_courtin.pdf\r\n"
+    ],
+    [
+      0.000027,
+      "drwxr-xr-x    20 geobart  staff         680 27 Nov 08:18 \u001b[1m\u001b[36mAutostrade\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.001331,
+      "drwx------@    6 geobart  staff         204 27 Nov 20:37 \u001b[1m\u001b[36mpoints\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000036,
+      "-rw-r--r--@    1 geobart  staff       22210 27 Nov 20:38 example.nt\r\n"
+    ],
+    [
+      0.001363,
+      "-rw-r--r--@    1 geobart  staff        7002 29 Nov 14:07 fattura_trenitalia_lucca.pdf\r\n"
+    ],
+    [
+      0.001033,
+      "-rw-r--r--@    1 geobart  staff     1620996 29 Nov 16:29 SuRF – Tapping into the Web of Data EUROPYTHON09.pdf\r\n"
+    ],
+    [
+      0.000462,
+      "-rw-r--r--@    1 geobart  staff      250572 29 Nov 16:33 surfrdf-master.zip\r\n"
+    ],
+    [
+      0.000923,
+      "-rw-r--r--@    1 geobart  staff     2675908 30 Nov 02:16 gettingthemostoutofsparqlwithpython-120725231551-phpapp01.pdf\r\n"
+    ],
+    [
+      0.000007,
+      "drwxrwxrwx    17 geobart  staff         578 30 Nov 02:20 \u001b[30m\u001b[43msurfrdf-master\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000803,
+      "-rw-r--r--@    1 geobart  staff     1381026 30 Nov 18:52 django-rdflib-e-postgresql-il-meglio-dei-due-mondi.pdf\r\n"
+    ],
+    [
+      0.000544,
+      "-rw-r--r--@    1 geobart  staff     1229975 30 Nov 20:37 sparql-1_1-cheat-sheet.pdf\r\n"
+    ],
+    [
+      0.000587,
+      "-rw-r--r--@    1 geobart  staff      793549  1 Dic 23:52 LiftYourData.pdf\r\n"
+    ],
+    [
+      0.016514,
+      "-rw-r--r--@    1 geobart  staff     1089610  1 Dic 23:58 353-599-1-SM.pdf\r\n-rw-r--r--@    1 geobart  staff     2637077  2 Dic 00:10 Chang_Eunmi.pdf\r\n"
+    ],
+    [
+      0.000163,
+      "-rw-r--r--@    1 geobart  staff     3622524  2 Dic 00:34 GetLOD-Linked Open Data and Spatial Data Infrastructures.pdf\r\n-rw-r--r--@    1 geobart  staff      996453  2 Dic 00:58 Hamdi-GeomRDF.pdf\r\n-rw-r--r--@    1 geobart  staff      378290  2 Dic 01:00 GeomRDF-A Geodata Converter with a Fine-Grained Structured Representation of Geometry in the Web.pdf\r\n-rw-r--r--@    1 geobart  staff       28425  2 Dic 18:12 parametri-api.odt\r\ndrwxr-xr-x    26 geobart  staff         884  2 Dic 21:41 \u001b[1m\u001b[36mTripleGeo\u001b[39;49m\u001b[0m\r\n-rw-r--r--@    1 geobart  staff       58333  4 Dic 10:29 call_4_innovators_allegato1.docx\r\n-rw-r--r--@    1 geobart  staff       93411  4 Dic 11:03 call_4_innovators_allegato_2.docx\r\n-rw-r--r--@    1 geobart  staff       14136  4 Dic 11:04 call_4_innovators_allegato_3.docx\r\n-rw-r--r--@    1 geobart  staff    48280429 14 Dic 07:36 Overpass Turbo meets Mapbox Studio-HD.mp4\r\n-rw-r-----@    1 geobart  staff    10406119 14 Dic 12:00 GeoGig-master.zip\r\ndrwxr-xr-x@   14 geobart  staff         476 14 Dic 14:"
+    ],
+    [
+      0.000013,
+      "32 \u001b[1m\u001b[36mless-boilerplate-master\u001b[39;49m\u001b[0m\r\ndrwxr-xr-x    44 geobart  staff        1496 17 Dic 20:23 \u001b[1m\u001b[36mbootswatch\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.001616,
+      "drwxr-xr-x@    7 geobart  staff         238 21 Dic 17:56 \u001b[1m\u001b[36mfoundation5 travel template\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.001535,
+      "-rw-r--r--@    1 geobart  staff      330034 27 Dic 22:12 Mapbox Studio Fundamentals Workshop - FOSS4G 2014.pdf\r\n"
+    ],
+    [
+      0.001368,
+      "-rw-r--r--@    1 geobart  staff     9969017 28 Dic 00:24 cartocss.pdf\r\n"
+    ],
+    [
+      0.001030,
+      "drwxr-xr-x@   12 geobart  staff         408 30 Dic 15:20 \u001b[1m\u001b[36mbootstraptor.com-blocks_v.2.0_md_stable\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000009,
+      "drwxr-xr-x     9 geobart  staff         306  1 Gen 19:45 \u001b[1m\u001b[36moffline website\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000887,
+      "drwxr-xr-x@    8 geobart  staff         272  4 Gen 00:58 \u001b[1m\u001b[36mMaptime_Leaflet_Intro\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.001064,
+      "-rw-r--r--@    1 geobart  staff     2485305  4 Gen 23:16 mapbox_sdmg_2013_07.pdf\r\n"
+    ],
+    [
+      0.001493,
+      "-rw-r--r--@    1 geobart  staff      257459  7 Gen 10:12 Geospatial analyst TORs.pdf\r\n"
+    ],
+    [
+      0.001076,
+      "-rw-r--r--@    1 geobart  staff      333568  7 Gen 11:54 The Carto Manual.pdf\r\n"
+    ],
+    [
+      0.001480,
+      "-rw-r--r--@    1 geobart  staff     2925033  7 Gen 12:27 presentation.pdf\r\n"
+    ],
+    [
+      0.000866,
+      "-rw-r--r--@    1 geobart  staff     2553563  7 Gen 12:34 BikePlanner.org_an open data and open source bike trip planner.pdf\r\n"
+    ],
+    [
+      0.001343,
+      "-rw-r--r--@    1 geobart  staff      284202  8 Gen 23:42 SUBENTRO modifica intestatario server.pdf\r\n"
+    ],
+    [
+      0.000014,
+      "-rwxrwxrwx     1 geobart  staff      584085  9 Gen 17:48 \u001b[31mSCAN3383_000.pdf\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.001195,
+      "drwxr-xr-x@    4 geobart  staff         136 10 Gen 19:35 \u001b[1m\u001b[36mOGS 4.1.1\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000923,
+      "-rw-r--r--@    1 geobart  staff      182085 20 Gen 15:01 tmp.txt\r\n"
+    ],
+    [
+      0.000024,
+      "drwxr-xr-x     9 geobart  staff         306 20 Gen 17:39 \u001b[1m\u001b[36maccess_tester\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000022,
+      "-rw-r--r--     1 geobart  staff      314097 21 Gen 13:12 tester_oam.tar.gz\r\n"
+    ],
+    [
+      0.000021,
+      "drwxr-----     7 geobart  staff         238 21 Gen 14:40 \u001b[1m\u001b[36mlc2evocom\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000021,
+      "-rwxr-x---     1 geobart  staff       92776 21 Gen 14:43 \u001b[31mcacerts\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.001402,
+      "drwx------@    5 geobart  staff         170 21 Gen 16:19 \u001b[1m\u001b[36mofm_webgates_iis_generic_11\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000009,
+      "drwxr-----     7 geobart  staff         238 21 Gen 16:35 \u001b[1m\u001b[36mlc2evosg\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000585,
+      "drwxr-xr-x@    7 geobart  staff         238 23 Gen 01:12 \u001b[1m\u001b[36mWhirlyGlobe_Maply_Distribution_2_3\u001b[39;49m\u001b[0m\r\ndrwxr-xr-x    18 geobart  staff         612 25 Gen 17:20 \u001b[1m\u001b[36mGeoavalanche\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.001371,
+      "-rw-r--r--@    1 geobart  staff   456973959 28 Gen 21:17 SenchaArchitect-3.2.dmg\r\n"
+    ],
+    [
+      0.000942,
+      "-rw-r--r--@    1 geobart  staff   102013410 30 Gen 11:57 opencrxServer-3.0.0-installer.jre-1.7.jar\r\n"
+    ],
+    [
+      0.001455,
+      "-rw-r--r--@    1 geobart  staff    43743301 30 Gen 19:59 sdidpa_1.3.zip\r\n"
+    ],
+    [
+      0.000736,
+      "-rw-r--r--@    1 geobart  staff    49043456  1 Feb 18:08 LdapAdminTool-6.10.x-macos-Setup.dmg\r\n"
+    ],
+    [
+      0.000976,
+      "-rw-r--r--@    1 geobart  staff       15360  5 Feb 11:05 offerte_opengeo_hosting.xls\r\n"
+    ],
+    [
+      0.000208,
+      "-rw-r--r--@    1 geobart  staff       79360  6 Feb 00:38 offerte.xls\r\n"
+    ],
+    [
+      0.000968,
+      "-rw-r--r--@    1 geobart  staff       12654  9 Feb 10:22 css3-pricing-table.zip\r\n"
+    ],
+    [
+      0.000010,
+      "-rw-r--r--     1 geobart  staff       14927 10 Feb 10:04 responsive-email-templates.zip\r\n"
+    ],
+    [
+      0.001234,
+      "-rw-r--r--@    1 geobart  staff       57670 10 Feb 10:45 Cerberus-master.zip\r\n"
+    ],
+    [
+      0.000471,
+      "-rw-r--r--@    1 geobart  staff       19787 10 Feb 13:02 antwort-master.zip\r\n"
+    ],
+    [
+      0.000638,
+      "-rw-r--r--@    1 geobart  staff      336184 10 Feb 13:27 layouts-master.zip\r\n"
+    ],
+    [
+      0.000911,
+      "-rw-r-----@    1 geobart  staff       39417 12 Feb 13:52 DOC_869871915.pdf\r\n"
+    ],
+    [
+      0.000017,
+      "-rw-r-----@    1 geobart  staff       27840 12 Feb 14:02 Profilo_FB.pdf\r\n"
+    ],
+    [
+      0.000712,
+      "-rw-r--r--@    1 geobart  staff       12380 12 Feb 14:17 ink-1.0.5.zip\r\n"
+    ],
+    [
+      0.000010,
+      "drwxr-xr-x     6 geobart  staff         204 12 Feb 14:59 \u001b[1m\u001b[36mIntimazione EQUITALIA 09620149001375778000\u001b[39;49m\u001b[0m\r\ndrwxr-xr-x    18 geobart  staff         612 15 Feb 09:05 \u001b[1m\u001b[36mRisorse vettoriali\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000009,
+      "drwxr-xr-x    16 geobart  staff         544 15 Feb 12:29 \u001b[1m\u001b[36mBusiness card template\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000649,
+      "-rw-r--r--@    1 geobart  staff       26263 16 Feb 14:06 receipt.pdf\r\n"
+    ],
+    [
+      0.000006,
+      "-rw-r--r--@    1 geobart  staff     1185382 16 Feb 15:31 formazione_base_OGS.ai\r\n"
+    ],
+    [
+      0.000952,
+      "-rw-r--r--@    1 geobart  staff       60935 18 Feb 15:24 Guida_CNS_Mac.zip\r\n"
+    ],
+    [
+      0.000898,
+      "-rw-r--r--@    1 geobart  staff     4233078 23 Feb 15:28 Soluzioni open source per Identity Management.pdf\r\n"
+    ],
+    [
+      0.000863,
+      "-rw-r--r--@    1 geobart  staff     3023908 24 Feb 13:53 Analisi e installazione di un prodotto Open Source per la gestione dei dati territoriali.pdf\r\n"
+    ],
+    [
+      0.000006,
+      "drwxr-xr-x     6 geobart  staff         204 25 Feb 00:26 \u001b[1m\u001b[36mSOUL-FI\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000018,
+      "drwxr-xr-x     8 geobart  staff         272 25 Feb 20:50 \u001b[1m\u001b[36mCALL_ASI\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000881,
+      "drwx------@    5 geobart  staff         170 26 Feb 16:29 \u001b[1m\u001b[36msample_styleguide_v1\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000536,
+      "-rw-r--r--@    1 geobart  staff      912538 26 Feb 20:59 SelectingAppropriateBandCombinations_Final.pdf\r\n"
+    ],
+    [
+      0.000788,
+      "drwxr-xr-x@    8 geobart  staff         272 27 Feb 18:17 \u001b[1m\u001b[36mChoropleth_Map_Example\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000472,
+      "-rw-r--r--@    1 geobart  staff    10100284 28 Feb 23:34 nest user manual 5.1.pdf\r\n"
+    ],
+    [
+      0.000242,
+      "-rw-r--r--@    1 geobart  staff     1246174 28 Feb 23:36 ansible_userguide.pdf\r\n"
+    ],
+    [
+      0.000479,
+      "-rw-r--r--@    1 geobart  staff     9514465  3 Mar 17:10 10min for GeoThings.pdf\r\n"
+    ],
+    [
+      0.000283,
+      "-rw-r--r--@    1 geobart  staff     1877157  4 Mar 00:32 tesiBontempelli.pdf\r\n"
+    ],
+    [
+      0.000873,
+      "-rw-r--r--@    1 geobart  staff     1629750  5 Mar 12:31 Integrating Typo3 with GeoNode and CKAN.pdf\r\n"
+    ],
+    [
+      0.000456,
+      "-rw-r--r--@    1 geobart  staff   312294525  5 Mar 19:52 How to setup Django Angularjs and Django Rest Framework in less than an hour [Tubidy.IM].mp4\r\n"
+    ],
+    [
+      0.000450,
+      "-rw-r--r--@    1 geobart  staff     2253140  7 Mar 13:37 ushahidi_sms_tutorial.pdf\r\n"
+    ],
+    [
+      0.000723,
+      "-rw-r--r--@    1 geobart  staff     1621130  7 Mar 13:49 posterSession_fall2014_duspviz.pdf\r\n"
+    ],
+    [
+      0.000028,
+      "drwx------@    4 geobart  staff         136  7 Mar 13:49 \u001b[1m\u001b[36mIntro_Illustrator_2014_Sept15\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.005711,
+      "-rw-r--r--@    1 geobart  staff     4259973  7 Mar 13:52 indesign_2014.pdf\r\n"
+    ],
+    [
+      0.000163,
+      "drwxr-xr-x     4 geobart  staff         136  7 Mar 13:52 \u001b[1m\u001b[36mPS-assets-2014\u001b[39;49m\u001b[0m\r\n-rw-r--r--@    1 geobart  staff    26894969 12 Mar 14:43 VMware-vSphere-CLI-5.5.0-2043780.x86_64.tar.gz\r\n-rw-r--r--@    1 geobart  staff       58409 15 Mar 19:47 Proposal Template.docx\r\n-rw-r--r--@    1 geobart  staff    25211964 22 Mar 17:22 advanced_training_spatial_data_management_geonode_manual.pdf\r\n-rw-r--r--@    1 geobart  staff      556136 22 Mar 17:29 geonode_144_Snow_Cover_Europe_20130319_0000.gaiag.tif\r\n-rw-r--r--@    1 geobart  staff     1613524 22 Mar 17:31 geonode_snowdepth-900913.tif\r\n-rw-r--r--@    1 geobart  staff      303192 22 Mar 17:32 geonode_srtm_38_03_hillshade.tif\r\n-rw-r--r--@    1 geobart  staff      303192 22 Mar 17:33 geonode_srtm_39_03_hillshade.tif\r\n-rw-r--r--@    1 geobart  staff     6572677 22 Mar 17:34 bollettino_oggi.zip\r\n-rw-r--r--@    1 geobart  staff     3286200 22 Mar 17:34 bollettino_domani.zip\r\n-rw-r--r--@    1 geobart  staff     3286242 22 Mar 17:34 bollettino_dopodomani.zip\r\n-r"
+    ],
+    [
+      0.000009,
+      "w-r--r--     1 geobart  staff       35883 23 Mar 09:37 history_geoavalanche.txt\r\n"
+    ],
+    [
+      0.000717,
+      "drwxr-xr-x@    3 geobart  staff         102 24 Mar 09:17 \u001b[1m\u001b[36mVessel.app\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000589,
+      "-rw-r--r--@    1 geobart  staff      101888 24 Mar 09:25 Mygeoss_selected_1.xls\r\n"
+    ],
+    [
+      0.000642,
+      "-rw-r--r--@    1 geobart  staff       21504 27 Mar 18:00 costo-orario-professionista-web.xls\r\n"
+    ],
+    [
+      0.000882,
+      "-rw-r--r--@    1 geobart  staff     3312661 30 Mar 09:11 lostatotrasparente-linkedopendataecittadinanzaattiva-140427151432-phpapp01.pdf\r\n"
+    ],
+    [
+      0.001179,
+      "-rw-r--r--@    1 geobart  staff     6844829  4 Apr 13:14 03_Quaderno del fare... BENE Fatturazione Elettronica nelle PA.PDF\r\n"
+    ],
+    [
+      0.000895,
+      "-rw-r--r--@    1 geobart  staff      506620  8 Apr 15:45 GeoFence-RESTAPI.pdf\r\n"
+    ],
+    [
+      0.000646,
+      "-rw-r--r--@    1 geobart  staff    10266246 13 Apr 09:17 Ushahidi_Manual_v2.7.4.pdf\r\n"
+    ],
+    [
+      0.000529,
+      "-rw-r--r--@    1 geobart  staff     4979592 13 Apr 23:49 ADDING TEMPORAL DATA ENHANCEMENTS TO THE ADVANCED SPATIAL DATA INFRASTRUCTURE PLATFORM.pdf\r\n"
+    ],
+    [
+      0.001176,
+      "-rw-r--r--@    1 geobart  staff     7123638 15 Apr 20:03 libreitaliadef-150415130255-conversion-gate01.pdf\r\n"
+    ],
+    [
+      0.000556,
+      "drwx------@    8 geobart  staff         272 16 Apr 00:26 \u001b[1m\u001b[36mfreebie-footer-templates\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000286,
+      "-rw-r--r--@    1 geobart  staff      196437 16 Apr 16:18 Booking.com_Conferma.pdf\r\n-rw-r--r--     1 geobart  staff     1165095 17 Apr 01:11 bootflat.zip\r\n"
+    ],
+    [
+      0.000006,
+      "-rw-r--r--     1 geobart  staff    11682310 17 Apr 01:11 Bootflat.UI.Kit.PSD.zip\r\n"
+    ],
+    [
+      0.000590,
+      "-rw-r--r--@    1 geobart  staff       11242 21 Apr 08:32 Fattura 26.827_2015.pdf\r\n"
+    ],
+    [
+      0.000213,
+      "-rw-r--r--@    1 geobart  staff       11041 21 Apr 08:32 Fattura 26.808_2015.pdf\r\n"
+    ],
+    [
+      0.000006,
+      "-rw-r--r--@    1 geobart  staff       11040 21 Apr 08:32 Fattura 26.792_2015.pdf\r\n"
+    ],
+    [
+      0.000254,
+      "-rw-r--r--@    1 geobart  staff       11041 21 Apr 08:33 Fattura 26.790_2015.pdf\r\ndrwxr-xr-x     9 geobart  staff         306 21 Apr 10:05 \u001b[1m\u001b[36mVisure esterne\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000008,
+      "drwxr-xr-x    58 geobart  staff        1972 21 Apr 20:00 \u001b[1m\u001b[36mmountainware\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000005,
+      "drwxr-xr-x     8 geobart  staff         272 23 Apr 15:50 \u001b[1m\u001b[36mIAP_write_good_proposal\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000014,
+      "drwxr-xr-x    37 geobart  staff        1258 24 Apr 17:08 \u001b[1m\u001b[36mFOSS4G-NA\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000012,
+      "-rw-r--r--     1 geobart  staff       21982 26 Apr 23:03 geonode_geoavalanche.rtf\r\n"
+    ],
+    [
+      0.000642,
+      "-rw-r--r--@    1 geobart  staff   461267304 27 Apr 08:29 synfigstudio-1.0.dmg\r\n"
+    ],
+    [
+      0.000789,
+      "-rw-r--r--@    1 geobart  staff      123442  1 Mag 09:44 IoT.png\r\n"
+    ],
+    [
+      0.000316,
+      "-rw-r--r--@    1 geobart  staff        6991  5 Mag 09:25 trenitali_milano1.pdf\r\n"
+    ],
+    [
+      0.000005,
+      "-rw-r--r--@    1 geobart  staff        6992  5 Mag 09:34 trenitalia_milano2.pdf\r\n"
+    ],
+    [
+      0.000302,
+      "-rw-r--r--@    1 geobart  staff      234195  5 Mag 12:14 Attachment-1.png\r\n"
+    ],
+    [
+      0.000246,
+      "-rw-r--r--@    1 geobart  staff     1468209  5 Mag 16:12 LOD4WFS_documentation.pdf\r\n-rw-r--r--     1 geobart  staff       91197  6 Mag 12:46 timeout_oid.txt\r\n"
+    ],
+    [
+      0.000015,
+      "-rw-r--r--     1 geobart  staff    39819384  6 Mag 18:56 Docker Tutorial 8 - Troubleshooting with Sysdig.mp4\r\n"
+    ],
+    [
+      0.000014,
+      "drwxr-xr-x     7 geobart  staff         238  7 Mag 00:06 \u001b[1m\u001b[36mMacaw\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000020,
+      "drwxr-xr-x    11 geobart  staff         374  7 Mag 00:07 \u001b[1m\u001b[36mApp-Schema tutorial\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000005,
+      "drwxr-xr-x    28 geobart  staff         952  8 Mag 09:12 \u001b[1m\u001b[36mD77281GC10\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000346,
+      "drwxr-xr-x@    7 geobart  staff         238 10 Mag 00:10 \u001b[1m\u001b[36mGifApp\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000046,
+      "drwx------+ 1107 geobart  staff       37638 10 Mag 10:30 \u001b[1m\u001b[36m.\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000010,
+      "-rw-r--r--@    1 geobart  staff      104452 10 Mag 10:46 .DS_Store\r\n"
+    ],
+    [
+      0.000048,
+      "drwxr-xr-x@  169 geobart  staff        5746 10 Mag 11:06 \u001b[1m\u001b[36m..\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000878,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                    \r \r"
+    ],
+    [
+      0.004708,
+      "\u001b]2;geobart@geobeyond: ~/Downloads\u0007\u001b]1;~/Downloads\u0007"
+    ],
+    [
+      0.010310,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m\u001b[39m geobart@geobeyond\u001b[44m\u001b[30m\u001b[30m ~/Downloads \u001b[49m\u001b[34m\u001b[39m "
+    ],
+    [
+      0.000124,
+      "\u001b[K\u001b[127C\u001b[39m\u001b[0m\u001b[49m \u001b[39m\u001b[39m\u001b[39m\u001b[49m\u001b[30m 3716 \u001b[39m\u001b[37m\u001b[39m\u001b[47m\u001b[30m 11:06:32 \u001b[00m\u001b[39m\u001b[49m\u001b[146D"
+    ],
+    [
+      0.000161,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      5.527926,
+      "e"
+    ],
+    [
+      0.207569,
+      "\u0008ex"
+    ],
+    [
+      0.192024,
+      "i"
+    ],
+    [
+      0.160065,
+      "t"
+    ],
+    [
+      1.456079,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000041,
+      "\r\r\n"
+    ],
+    [
+      0.000710,
+      "\u001b]2;exit\u0007"
+    ],
+    [
+      0.000006,
+      "\u001b]1;exit\u0007"
+    ]
+  ]
+}
