@@ -1,0 +1,1190 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 24,
+  "duration": 61.088448,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.402433,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000072,
+      "\u001b]2;daniel@daniel: ~/glsec\u0007"
+    ],
+    [
+      0.000022,
+      "\u001b]1;~/glsec\u0007"
+    ],
+    [
+      0.000069,
+      "\u001b]7;file:///Users/daniel/glsec\u0007"
+    ],
+    [
+      0.016268,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36mglsec \u001b[01;34m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000012,
+      "\u001b[K"
+    ],
+    [
+      0.000123,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      2.073245,
+      "r"
+    ],
+    [
+      0.059005,
+      "\u0008ra"
+    ],
+    [
+      0.048032,
+      "i"
+    ],
+    [
+      0.047619,
+      "l"
+    ],
+    [
+      0.124355,
+      "s"
+    ],
+    [
+      0.092464,
+      "\u0008\u0008\u0008\u0008\u0008\u001b[32mr\u001b[32ma\u001b[32mi\u001b[32ml\u001b[32ms\u001b[39m "
+    ],
+    [
+      0.326317,
+      "n"
+    ],
+    [
+      0.144233,
+      "e"
+    ],
+    [
+      0.067940,
+      "w"
+    ],
+    [
+      0.120006,
+      " "
+    ],
+    [
+      1.330839,
+      "d"
+    ],
+    [
+      0.220125,
+      "e"
+    ],
+    [
+      0.170016,
+      "m"
+    ],
+    [
+      0.474665,
+      "o"
+    ],
+    [
+      1.683918,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000061,
+      "\r\r\n"
+    ],
+    [
+      0.001514,
+      "\u001b]2;_rails_command new demo\u0007"
+    ],
+    [
+      0.000009,
+      "\u001b]1;rails\u0007"
+    ],
+    [
+      0.728080,
+      "\u001b[1m\u001b[32m      create\u001b[0m  \r\n"
+    ],
+    [
+      0.000465,
+      "\u001b[1m\u001b[32m      create\u001b[0m  README.rdoc\r\n"
+    ],
+    [
+      0.000955,
+      "\u001b[1m\u001b[32m      create\u001b[0m  Rakefile\r\n"
+    ],
+    [
+      0.001205,
+      "\u001b[1m\u001b[32m      create\u001b[0m  config.ru\r\n"
+    ],
+    [
+      0.001143,
+      "\u001b[1m\u001b[32m      create\u001b[0m  .gitignore\r\n"
+    ],
+    [
+      0.001031,
+      "\u001b[1m\u001b[32m      create\u001b[0m  Gemfile\r\n"
+    ],
+    [
+      0.002225,
+      "\u001b[1m\u001b[32m      create\u001b[0m  app\r\n"
+    ],
+    [
+      0.001032,
+      "\u001b[1m\u001b[32m      create\u001b[0m  app/assets/images/rails.png\r\n"
+    ],
+    [
+      0.001261,
+      "\u001b[1m\u001b[32m      create\u001b[0m  app/assets/javascripts/application.js\r\n"
+    ],
+    [
+      0.002221,
+      "\u001b[1m\u001b[32m      create\u001b[0m  app/assets/stylesheets/application.css\r\n"
+    ],
+    [
+      0.000945,
+      "\u001b[1m\u001b[32m      create\u001b[0m  app/controllers/application_controller.rb\r\n"
+    ],
+    [
+      0.000914,
+      "\u001b[1m\u001b[32m      create\u001b[0m  app/helpers/application_helper.rb\r\n"
+    ],
+    [
+      0.000851,
+      "\u001b[1m\u001b[32m      create\u001b[0m  app/mailers\r\n"
+    ],
+    [
+      0.000289,
+      "\u001b[1m\u001b[32m      create\u001b[0m  app/models\r\n"
+    ],
+    [
+      0.000331,
+      "\u001b[1m\u001b[32m      create\u001b[0m  app/views/layouts/application.html.erb\r\n"
+    ],
+    [
+      0.001045,
+      "\u001b[1m\u001b[32m      create\u001b[0m  app/mailers/.gitkeep\r\n"
+    ],
+    [
+      0.000362,
+      "\u001b[1m\u001b[32m      create\u001b[0m  app/models/.gitkeep\r\n"
+    ],
+    [
+      0.000582,
+      "\u001b[1m\u001b[32m      create\u001b[0m  config\r\n"
+    ],
+    [
+      0.000310,
+      "\u001b[1m\u001b[32m      create\u001b[0m  config/routes.rb\r\n"
+    ],
+    [
+      0.001200,
+      "\u001b[1m\u001b[32m      create\u001b[0m  config/application.rb\r\n"
+    ],
+    [
+      0.001739,
+      "\u001b[1m\u001b[32m      create\u001b[0m  config/environment.rb\r\n"
+    ],
+    [
+      0.003109,
+      "\u001b[1m\u001b[32m      create\u001b[0m  config/environments\r\n"
+    ],
+    [
+      0.000626,
+      "\u001b[1m\u001b[32m      create\u001b[0m  config/environments/development.rb\r\n"
+    ],
+    [
+      0.001752,
+      "\u001b[1m\u001b[32m      create\u001b[0m  config/environments/production.rb\r\n"
+    ],
+    [
+      0.002239,
+      "\u001b[1m\u001b[32m      create\u001b[0m  config/environments/test.rb\r\n"
+    ],
+    [
+      0.001284,
+      "\u001b[1m\u001b[32m      create\u001b[0m  config/initializers\r\n"
+    ],
+    [
+      0.000412,
+      "\u001b[1m\u001b[32m      create\u001b[0m  config/initializers/backtrace_silencers.rb\r\n"
+    ],
+    [
+      0.000841,
+      "\u001b[1m\u001b[32m      create\u001b[0m  config/initializers/inflections.rb\r\n"
+    ],
+    [
+      0.000625,
+      "\u001b[1m\u001b[32m      create\u001b[0m  config/initializers/mime_types.rb\r\n"
+    ],
+    [
+      0.000823,
+      "\u001b[1m\u001b[32m      create\u001b[0m  config/initializers/secret_token.rb\r\n"
+    ],
+    [
+      0.001376,
+      "\u001b[1m\u001b[32m      create\u001b[0m  config/initializers/session_store.rb\r\n"
+    ],
+    [
+      0.001194,
+      "\u001b[1m\u001b[32m      create\u001b[0m  config/initializers/wrap_parameters.rb\r\n"
+    ],
+    [
+      0.001813,
+      "\u001b[1m\u001b[32m      create\u001b[0m  config/locales\r\n"
+    ],
+    [
+      0.000804,
+      "\u001b[1m\u001b[32m      create\u001b[0m  config/locales/en.yml\r\n"
+    ],
+    [
+      0.000976,
+      "\u001b[1m\u001b[32m      create\u001b[0m  config/boot.rb\r\n"
+    ],
+    [
+      0.001247,
+      "\u001b[1m\u001b[32m      create\u001b[0m  config/database.yml\r\n"
+    ],
+    [
+      0.001251,
+      "\u001b[1m\u001b[32m      create\u001b[0m  db\r\n"
+    ],
+    [
+      0.000117,
+      "\u001b[1m\u001b[32m      create\u001b[0m  db/seeds.rb\r\n"
+    ],
+    [
+      0.003914,
+      "\u001b[1m\u001b[32m      create\u001b[0m  doc\r\n"
+    ],
+    [
+      0.000456,
+      "\u001b[1m\u001b[32m      create\u001b[0m  doc/README_FOR_APP\r\n"
+    ],
+    [
+      0.000957,
+      "\u001b[1m\u001b[32m      create\u001b[0m  lib\r\n"
+    ],
+    [
+      0.000175,
+      "\u001b[1m\u001b[32m      create\u001b[0m  lib/tasks\r\n"
+    ],
+    [
+      0.000174,
+      "\u001b[1m\u001b[32m      create\u001b[0m  lib/tasks/.gitkeep\r\n"
+    ],
+    [
+      0.000549,
+      "\u001b[1m\u001b[32m      create\u001b[0m  lib/assets\r\n\u001b[1m\u001b[32m      create\u001b[0m  lib/assets/.gitkeep\r\n"
+    ],
+    [
+      0.000532,
+      "\u001b[1m\u001b[32m      create\u001b[0m  log\r\n"
+    ],
+    [
+      0.000140,
+      "\u001b[1m\u001b[32m      create\u001b[0m  log/.gitkeep\r\n"
+    ],
+    [
+      0.000727,
+      "\u001b[1m\u001b[32m      create\u001b[0m  public\r\n"
+    ],
+    [
+      0.000370,
+      "\u001b[1m\u001b[32m      create\u001b[0m  public/404.html\r\n"
+    ],
+    [
+      0.000744,
+      "\u001b[1m\u001b[32m      create\u001b[0m  public/422.html\r\n"
+    ],
+    [
+      0.000813,
+      "\u001b[1m\u001b[32m      create\u001b[0m  public/500.html\r\n"
+    ],
+    [
+      0.001101,
+      "\u001b[1m\u001b[32m      create\u001b[0m  public/favicon.ico\r\n"
+    ],
+    [
+      0.000427,
+      "\u001b[1m\u001b[32m      create\u001b[0m  public/index.html\r\n"
+    ],
+    [
+      0.000778,
+      "\u001b[1m\u001b[32m      create\u001b[0m  public/robots.txt\r\n"
+    ],
+    [
+      0.001044,
+      "\u001b[1m\u001b[32m      create\u001b[0m  script\r\n"
+    ],
+    [
+      0.000356,
+      "\u001b[1m\u001b[32m      create\u001b[0m  script/rails\r\n"
+    ],
+    [
+      0.001411,
+      "\u001b[1m\u001b[32m      create\u001b[0m  test/fixtures\r\n"
+    ],
+    [
+      0.000580,
+      "\u001b[1m\u001b[32m      create\u001b[0m  test/fixtures/.gitkeep\r\n"
+    ],
+    [
+      0.000313,
+      "\u001b[1m\u001b[32m      create\u001b[0m  test/functional\r\n"
+    ],
+    [
+      0.000152,
+      "\u001b[1m\u001b[32m      create\u001b[0m  test/functional/.gitkeep\r\n"
+    ],
+    [
+      0.000264,
+      "\u001b[1m\u001b[32m      create\u001b[0m  test/integration\r\n"
+    ],
+    [
+      0.000150,
+      "\u001b[1m\u001b[32m      create\u001b[0m  test/integration/.gitkeep\r\n"
+    ],
+    [
+      0.000220,
+      "\u001b[1m\u001b[32m      create\u001b[0m  test/unit\r\n"
+    ],
+    [
+      0.000178,
+      "\u001b[1m\u001b[32m      create\u001b[0m  test/unit/.gitkeep\r\n"
+    ],
+    [
+      0.000660,
+      "\u001b[1m\u001b[32m      create\u001b[0m  test/performance/browsing_test.rb\r\n"
+    ],
+    [
+      0.001063,
+      "\u001b[1m\u001b[32m      create\u001b[0m  test/test_helper.rb\r\n"
+    ],
+    [
+      0.001684,
+      "\u001b[1m\u001b[32m      create\u001b[0m  tmp/cache\r\n"
+    ],
+    [
+      0.000436,
+      "\u001b[1m\u001b[32m      create\u001b[0m  tmp/cache/assets\r\n"
+    ],
+    [
+      0.000508,
+      "\u001b[1m\u001b[32m      create\u001b[0m  vendor/assets/javascripts\r\n"
+    ],
+    [
+      0.000601,
+      "\u001b[1m\u001b[32m      create\u001b[0m  vendor/assets/javascripts/.gitkeep\r\n"
+    ],
+    [
+      0.000276,
+      "\u001b[1m\u001b[32m      create\u001b[0m  vendor/assets/stylesheets\r\n"
+    ],
+    [
+      0.000195,
+      "\u001b[1m\u001b[32m      create\u001b[0m  vendor/assets/stylesheets/.gitkeep\r\n"
+    ],
+    [
+      0.000252,
+      "\u001b[1m\u001b[32m      create\u001b[0m  vendor/plugins\r\n"
+    ],
+    [
+      0.000171,
+      "\u001b[1m\u001b[32m      create\u001b[0m  vendor/plugins/.gitkeep\r\n"
+    ],
+    [
+      0.001481,
+      "\u001b[1m\u001b[32m         run\u001b[0m  bundle install\r\n"
+    ],
+    [
+      5.380696,
+      "Fetching gem metadata from https://rubygems.org/............\r\nFetching additional metadata from https://rubygems.org/..\r\nResolving dependencies...\r\nUsing rake 10.4.2\r\nUsing i18n 0.7.0\r\nUsing multi_json 1.11.0\r\nUsing activesupport 3.2.21\r\nUsing builder 3.0.4\r\nUsing activemodel 3.2.21\r\nUsing erubis 2.7.0\r\nUsing journey 1.0.4\r\nUsing rack 1.4.5\r\nUsing rack-cache 1.2\r\nUsing rack-test 0.6.3\r\nUsing hike 1.2.3\r\nUsing tilt 1.4.1\r\nUsing sprockets 2.2.3\r\nUsing actionpack 3.2.21\r\nUsing mime-types 1.25.1\r\nUsing polyglot 0.3.5\r\nUsing treetop 1.4.15\r\nUsing mail 2.5.4\r\nUsing actionmailer 3.2.21\r\nUsing arel 3.0.3\r\nUsing tzinfo 0.3.44\r\nUsing activerecord 3.2.21\r\nUsing activeresource 3.2.21\r\nUsing bundler 1.7.6\r\nUsing coffee-script-source 1.9.1.1\r\nUsing execjs 2.5.2\r\nUsing coffee-script 2.4.1\r\nUsing rack-ssl 1.3.4\r\nUsing json 1.8.2\r\nUsing rdoc 3.12.2\r\nUsing thor 0.19.1\r\nUsing railties 3.2.21\r\nUsing coffee-rails 3.2.2\r\nUsing jquery-rails 3.1.2\r\nUsing rails 3.2.21\r\nUsing sass 3.4.13\r\nUsing sass-rails 3.2.6\r\nUsing sqlite3 1.3.10\r\n"
+    ],
+    [
+      0.000013,
+      "Using uglifier 2.7.1\r\nYour bundle is complete!\r\nUse `bundle show [gemname]` to see where a bundled gem is installed.\r\n"
+    ],
+    [
+      0.021084,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000153,
+      "\u001b]2;daniel@daniel: ~/glsec\u0007"
+    ],
+    [
+      0.000062,
+      "\u001b]1;~/glsec\u0007"
+    ],
+    [
+      0.000051,
+      "\u001b]7;file:///Users/daniel/glsec\u0007"
+    ],
+    [
+      0.013181,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36mglsec \u001b[01;34m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000008,
+      "\u001b[K"
+    ],
+    [
+      0.000037,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.803586,
+      "c"
+    ],
+    [
+      0.171559,
+      "\u0008cd"
+    ],
+    [
+      0.102377,
+      "\u0008\u0008\u001b[32mc\u001b[32md\u001b[39m "
+    ],
+    [
+      0.168216,
+      "d"
+    ],
+    [
+      0.143422,
+      "e"
+    ],
+    [
+      0.064166,
+      "m"
+    ],
+    [
+      0.111807,
+      "o"
+    ],
+    [
+      0.534685,
+      "\u0008\u0008\u0008\u0008\u001b[4md\u001b[4me\u001b[4mm\u001b[4mo\u001b[24m"
+    ],
+    [
+      0.000032,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000067,
+      "\r\r\n"
+    ],
+    [
+      0.001396,
+      "\u001b]2;cd demo\u0007"
+    ],
+    [
+      0.000010,
+      "\u001b]1;cd\u0007"
+    ],
+    [
+      0.045237,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000045,
+      "\u001b]2;daniel@daniel: ~/glsec/demo\u0007"
+    ],
+    [
+      0.000024,
+      "\u001b]1;~/glsec/demo\u0007"
+    ],
+    [
+      0.000054,
+      "\u001b]7;file:///Users/daniel/glsec/demo\u0007"
+    ],
+    [
+      0.018377,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36mdemo \u001b[01;34m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000008,
+      "\u001b[K"
+    ],
+    [
+      0.000060,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.273450,
+      "r"
+    ],
+    [
+      0.210300,
+      "\u0008ra"
+    ],
+    [
+      0.084193,
+      "i"
+    ],
+    [
+      0.059952,
+      "l"
+    ],
+    [
+      0.096079,
+      "s"
+    ],
+    [
+      0.104056,
+      "\u0008\u0008\u0008\u0008\u0008\u001b[32mr\u001b[32ma\u001b[32mi\u001b[32ml\u001b[32ms\u001b[39m "
+    ],
+    [
+      0.269903,
+      "g"
+    ],
+    [
+      0.154053,
+      "e"
+    ],
+    [
+      0.128835,
+      "n"
+    ],
+    [
+      0.102184,
+      "e"
+    ],
+    [
+      0.111865,
+      "r"
+    ],
+    [
+      0.124078,
+      "a"
+    ],
+    [
+      0.120109,
+      "t"
+    ],
+    [
+      0.091969,
+      "e"
+    ],
+    [
+      0.179744,
+      " "
+    ],
+    [
+      0.364117,
+      "s"
+    ],
+    [
+      0.297249,
+      "c"
+    ],
+    [
+      0.119956,
+      "a"
+    ],
+    [
+      0.415699,
+      "f"
+    ],
+    [
+      0.135923,
+      "f"
+    ],
+    [
+      0.116370,
+      "o"
+    ],
+    [
+      0.169602,
+      "l"
+    ],
+    [
+      0.108421,
+      "d"
+    ],
+    [
+      0.155674,
+      " "
+    ],
+    [
+      1.001694,
+      "a"
+    ],
+    [
+      0.179545,
+      "r"
+    ],
+    [
+      0.196708,
+      "t"
+    ],
+    [
+      0.132947,
+      "i"
+    ],
+    [
+      0.104423,
+      "c"
+    ],
+    [
+      0.095820,
+      "l"
+    ],
+    [
+      0.100141,
+      "e"
+    ],
+    [
+      1.306472,
+      " "
+    ],
+    [
+      0.550330,
+      "t"
+    ],
+    [
+      0.142213,
+      "i"
+    ],
+    [
+      0.380027,
+      "t"
+    ],
+    [
+      0.236936,
+      "l"
+    ],
+    [
+      0.116049,
+      "e"
+    ],
+    [
+      0.270728,
+      ":"
+    ],
+    [
+      1.775196,
+      "s"
+    ],
+    [
+      0.103795,
+      "t"
+    ],
+    [
+      0.158117,
+      "r"
+    ],
+    [
+      0.096038,
+      "i"
+    ],
+    [
+      0.041239,
+      "n"
+    ],
+    [
+      0.106912,
+      "g"
+    ],
+    [
+      0.346238,
+      " "
+    ],
+    [
+      0.458594,
+      "b"
+    ],
+    [
+      0.116173,
+      "o"
+    ],
+    [
+      0.103683,
+      "d"
+    ],
+    [
+      0.080162,
+      "y"
+    ],
+    [
+      0.214683,
+      ":"
+    ],
+    [
+      0.889657,
+      "t"
+    ],
+    [
+      0.071427,
+      "e"
+    ],
+    [
+      0.222302,
+      "x"
+    ],
+    [
+      0.136967,
+      "t"
+    ],
+    [
+      1.868233,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000011,
+      "\r\r\n"
+    ],
+    [
+      0.001143,
+      "\u001b]2;_rails_command generate scaffold article title:string body:text\u0007"
+    ],
+    [
+      0.000008,
+      "\u001b]1;rails\u0007"
+    ],
+    [
+      1.253495,
+      "\u001b[1m\u001b[37m      invoke\u001b[0m  active_record\r\n"
+    ],
+    [
+      0.160235,
+      "\u001b[1m\u001b[32m      create\u001b[0m    db/migrate/20150510155025_create_articles.rb\r\n"
+    ],
+    [
+      0.001946,
+      "\u001b[1m\u001b[32m      create\u001b[0m    app/models/article.rb\r\n"
+    ],
+    [
+      0.006795,
+      "\u001b[1m\u001b[37m      invoke\u001b[0m    test_unit\r\n"
+    ],
+    [
+      0.001143,
+      "\u001b[1m\u001b[32m      create\u001b[0m      test/unit/article_test.rb\r\n"
+    ],
+    [
+      0.001809,
+      "\u001b[1m\u001b[32m      create\u001b[0m      test/fixtures/articles.yml\r\n"
+    ],
+    [
+      0.002594,
+      "\u001b[1m\u001b[37m      invoke\u001b[0m  resource_route\r\n"
+    ],
+    [
+      0.000817,
+      "\u001b[1m\u001b[32m       route\u001b[0m    resources :articles\r\n"
+    ],
+    [
+      0.002458,
+      "\u001b[1m\u001b[37m      invoke\u001b[0m  scaffold_controller\r\n"
+    ],
+    [
+      0.001513,
+      "\u001b[1m\u001b[32m      create\u001b[0m    app/controllers/articles_controller.rb\r\n"
+    ],
+    [
+      0.008728,
+      "\u001b[1m\u001b[37m      invoke\u001b[0m    erb\r\n"
+    ],
+    [
+      0.001931,
+      "\u001b[1m\u001b[32m      create\u001b[0m      app/views/articles\r\n"
+    ],
+    [
+      0.000710,
+      "\u001b[1m\u001b[32m      create\u001b[0m      app/views/articles/index.html.erb\r\n"
+    ],
+    [
+      0.002303,
+      "\u001b[1m\u001b[32m      create\u001b[0m      app/views/articles/edit.html.erb\r\n"
+    ],
+    [
+      0.001379,
+      "\u001b[1m\u001b[32m      create\u001b[0m      app/views/articles/show.html.erb\r\n"
+    ],
+    [
+      0.001476,
+      "\u001b[1m\u001b[32m      create\u001b[0m      app/views/articles/new.html.erb\r\n"
+    ],
+    [
+      0.000808,
+      "\u001b[1m\u001b[32m      create\u001b[0m      app/views/articles/_form.html.erb\r\n"
+    ],
+    [
+      0.007470,
+      "\u001b[1m\u001b[37m      invoke\u001b[0m    test_unit\r\n"
+    ],
+    [
+      0.002108,
+      "\u001b[1m\u001b[32m      create\u001b[0m      test/functional/articles_controller_test.rb\r\n"
+    ],
+    [
+      0.003795,
+      "\u001b[1m\u001b[37m      invoke\u001b[0m    helper\r\n"
+    ],
+    [
+      0.001815,
+      "\u001b[1m\u001b[32m      create\u001b[0m      app/helpers/articles_helper.rb\r\n"
+    ],
+    [
+      0.006654,
+      "\u001b[1m\u001b[37m      invoke\u001b[0m      test_unit\r\n"
+    ],
+    [
+      0.001196,
+      "\u001b[1m\u001b[32m      create\u001b[0m        test/unit/helpers/articles_helper_test.rb\r\n"
+    ],
+    [
+      0.002880,
+      "\u001b[1m\u001b[37m      invoke\u001b[0m  assets\r\n"
+    ],
+    [
+      0.004402,
+      "\u001b[1m\u001b[37m      invoke\u001b[0m    coffee\r\n"
+    ],
+    [
+      0.000953,
+      "\u001b[1m\u001b[32m      create\u001b[0m      app/assets/javascripts/articles.js.coffee\r\n"
+    ],
+    [
+      0.005432,
+      "\u001b[1m\u001b[37m      invoke\u001b[0m    scss\r\n"
+    ],
+    [
+      0.001050,
+      "\u001b[1m\u001b[32m      create\u001b[0m      app/assets/stylesheets/articles.css.scss\r\n"
+    ],
+    [
+      0.007476,
+      "\u001b[1m\u001b[37m      invoke\u001b[0m  scss\r\n"
+    ],
+    [
+      0.007319,
+      "\u001b[1m\u001b[32m      create\u001b[0m    app/assets/stylesheets/scaffolds.css.scss\r\n"
+    ],
+    [
+      0.044343,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000302,
+      "\u001b]2;daniel@daniel: ~/glsec/demo\u0007\u001b]1;~/glsec/demo\u0007\u001b]7;file:///Users/daniel/glsec/demo\u0007"
+    ],
+    [
+      0.011813,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36mdemo \u001b[01;34m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000007,
+      "\u001b[K"
+    ],
+    [
+      0.000039,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      2.251457,
+      "r"
+    ],
+    [
+      0.043784,
+      "\u0008ra"
+    ],
+    [
+      0.116087,
+      "k"
+    ],
+    [
+      0.108104,
+      "e"
+    ],
+    [
+      0.083825,
+      "\u0008\u0008\u0008\u0008\u001b[32mr\u001b[32ma\u001b[32mk\u001b[32me\u001b[39m "
+    ],
+    [
+      0.136007,
+      "d"
+    ],
+    [
+      0.168094,
+      "b"
+    ],
+    [
+      0.223886,
+      ":"
+    ],
+    [
+      0.624068,
+      "m"
+    ],
+    [
+      0.104015,
+      "i"
+    ],
+    [
+      0.131764,
+      "g"
+    ],
+    [
+      0.191325,
+      "r"
+    ],
+    [
+      0.095823,
+      "a"
+    ],
+    [
+      0.136169,
+      "t"
+    ],
+    [
+      0.075754,
+      "e"
+    ],
+    [
+      1.897576,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000011,
+      "\r\r\n"
+    ],
+    [
+      0.001221,
+      "\u001b]2;bundled_rake db:migrate\u0007"
+    ],
+    [
+      0.000011,
+      "\u001b]1;db:migrate\u0007"
+    ],
+    [
+      1.429893,
+      "==  CreateArticles: migrating =================================================\r\n"
+    ],
+    [
+      0.000033,
+      "-- create_table(:articles)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.001209,
+      "   -\u003e 0.0012s\r\n"
+    ],
+    [
+      0.000028,
+      "==  CreateArticles: migrated (0.0012s) ========================================\r\n"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.066149,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000135,
+      "\u001b]2;daniel@daniel: ~/glsec/demo\u0007"
+    ],
+    [
+      0.000032,
+      "\u001b]1;~/glsec/demo\u0007"
+    ],
+    [
+      0.000096,
+      "\u001b]7;file:///Users/daniel/glsec/demo\u0007"
+    ],
+    [
+      0.012011,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36mdemo \u001b[01;34m\u001b[01;34m \u001b[00m\u001b[K"
+    ],
+    [
+      0.000041,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      2.144859,
+      "r"
+    ],
+    [
+      0.059695,
+      "\u0008ra"
+    ],
+    [
+      0.040112,
+      "i"
+    ],
+    [
+      0.044013,
+      "l"
+    ],
+    [
+      0.119851,
+      "s"
+    ],
+    [
+      0.043862,
+      "\u0008\u0008\u0008\u0008\u0008\u001b[32mr\u001b[32ma\u001b[32mi\u001b[32ml\u001b[32ms\u001b[39m "
+    ],
+    [
+      0.298404,
+      "s"
+    ],
+    [
+      0.463864,
+      "e"
+    ],
+    [
+      0.101550,
+      "r"
+    ],
+    [
+      0.243959,
+      "v"
+    ],
+    [
+      0.188437,
+      "e"
+    ],
+    [
+      0.075948,
+      "r"
+    ],
+    [
+      1.178819,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000036,
+      "\r\r\n"
+    ],
+    [
+      0.001104,
+      "\u001b]2;_rails_command server\u0007"
+    ],
+    [
+      0.000008,
+      "\u001b]1;rails\u0007"
+    ],
+    [
+      1.158449,
+      "=\u003e Booting WEBrick\r\n"
+    ],
+    [
+      0.000010,
+      "=\u003e Rails 3.2.21 application starting in development on http://0.0.0.0:3000\r\n=\u003e Call with -d to detach\r\n=\u003e Ctrl-C to shutdown server\r\n"
+    ],
+    [
+      0.353712,
+      "[2015-05-10 11:50:39] INFO  WEBrick 1.3.1\r\n"
+    ],
+    [
+      0.000008,
+      "[2015-05-10 11:50:39] INFO  ruby 2.1.5 (2014-11-13) [x86_64-darwin14.0]\r\n"
+    ],
+    [
+      0.001037,
+      "[2015-05-10 11:50:39] INFO  WEBrick::HTTPServer#start: pid=76201 port=3000\r\n"
+    ],
+    [
+      6.390615,
+      "\r\n\r\nStarted GET \"/articles\" for 127.0.0.1 at 2015-05-10 11:50:45 -0400\r\nConnecting to database specified by database.yml\r\nProcessing by ArticlesController#index as HTML\r\n  \u001b[1m\u001b[36mArticle Load (0.5ms)\u001b[0m  \u001b[1mSELECT \"articles\".* FROM \"articles\" \u001b[0m\r\n  Rendered articles/index.html.erb within layouts/application (2.6ms)\r\nWarning. Error encountered while saving cache /Users/daniel/glsec/demo/tmp/cache/sass/51f3e237f42a3789ba5ba5876ebb8fa7d4e89e5a/articles.css.scssc: can't dump anonymous class #\u003cClass:0x007fccce196"
+    ],
+    [
+      0.000294,
+      "458\u003e\r\n\r\nCompiled articles.css  (4ms)  (pid 76201)\r\nWarning. Error encountered while saving cache /Users/daniel/glsec/demo/tmp/cache/sass/51f3e237f42a3789ba5ba5876ebb8fa7d4e89e5a/scaffolds.css.scssc: can't dump anonymous class #\u003cClass:0x007fccce196458\u003e\r\n\r\nCompiled scaffolds.css  (7ms)  (pid 76201)\r\nCompiled application.css  (19ms)  (pid 76201)\r\nCompiled jquery.js  (5ms)  (pid 76201)\r\nCompiled jquery_ujs.js  (0ms)  (pid 76201)\r\nCompiled articles.js  (100ms)  (pid 76201)\r\nCompiled application.js  (131ms)  (pid 76201)\r\nCo"
+    ],
+    [
+      0.000008,
+      "mpleted 200 OK in 212.5ms (Views: 189.9ms | ActiveRecord: 2.0ms)\r\n"
+    ],
+    [
+      0.027847,
+      "\r\n\r\nStarted GET \"/assets/application.css?body=1\" for 127.0.0.1 at 2015-05-10 11:50:46 -0400\r\nServed asset /application.css - 304 Not Modified (11ms)\r\n"
+    ],
+    [
+      0.010689,
+      "\r\n\r\nStarted GET \"/assets/articles.css?body=1\" for 127.0.0.1 at 2015-05-10 11:50:46 -0400\r\nServed asset /articles.css - 304 Not Modified (2ms)\r\n"
+    ],
+    [
+      0.005891,
+      "\r\n\r\nStarted GET \"/assets/scaffolds.css?body=1\" for 127.0.0.1 at 2015-05-10 11:50:46 -0400\r\nServed asset /scaffolds.css - 304 Not Modified (1ms)\r\n"
+    ],
+    [
+      0.005523,
+      "\r\n\r\nStarted GET \"/assets/jquery.js?body=1\" for 127.0.0.1 at 2015-05-10 11:50:46 -0400\r\nServed asset /jquery.js - 304 Not Modified (2ms)\r\n"
+    ],
+    [
+      0.005332,
+      "\r\n\r\nStarted GET \"/assets/jquery_ujs.js?body=1\" for 127.0.0.1 at 2015-05-10 11:50:46 -0400\r\nServed asset /jquery_ujs.js - 304 Not Modified (2ms)\r\n"
+    ],
+    [
+      0.004460,
+      "\r\n\r\nStarted GET \"/assets/articles.js?body=1\" for 127.0.0.1 at 2015-05-10 11:50:46 -0400\r\nServed asset /articles.js - 304 Not Modified (2ms)\r\n"
+    ],
+    [
+      0.008008,
+      "\r\n\r\nStarted GET \"/assets/application.js?body=1\" for 127.0.0.1 at 2015-05-10 11:50:46 -0400\r\nServed asset /application.js - 304 Not Modified (5ms)\r\n"
+    ],
+    [
+      3.292187,
+      "^C"
+    ],
+    [
+      0.000516,
+      "[2015-05-10 11:50:49] INFO  going to shutdown ...\r\n"
+    ],
+    [
+      0.218505,
+      "[2015-05-10 11:50:49] INFO  WEBrick::HTTPServer#start done.\r\nExiting"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.058622,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000190,
+      "\u001b]2;daniel@daniel: ~/glsec/demo\u0007"
+    ],
+    [
+      0.000104,
+      "\u001b]1;~/glsec/demo\u0007"
+    ],
+    [
+      0.000071,
+      "\u001b]7;file:///Users/daniel/glsec/demo\u0007"
+    ],
+    [
+      0.012572,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36mdemo \u001b[01;34m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000008,
+      "\u001b[K"
+    ],
+    [
+      0.000055,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.635689,
+      "\r\r\n"
+    ]
+  ]
+}
