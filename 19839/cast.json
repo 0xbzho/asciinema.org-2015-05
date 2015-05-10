@@ -1,0 +1,574 @@
+{
+  "version": 1,
+  "width": 96,
+  "height": 24,
+  "duration": 10.739435,
+  "command": "/usr/local/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/usr/local/bin/bash"
+  },
+  "stdout": [
+    [
+      0.027889,
+      "bash-4.3$ "
+    ],
+    [
+      2.326021,
+      "."
+    ],
+    [
+      0.032378,
+      "/"
+    ],
+    [
+      0.551935,
+      "t"
+    ],
+    [
+      0.175711,
+      "r"
+    ],
+    [
+      0.024275,
+      "a"
+    ],
+    [
+      0.208769,
+      "vis-docker.sh "
+    ],
+    [
+      0.679261,
+      "\r\n"
+    ],
+    [
+      0.584498,
+      "\r\nRunning tests\r\n"
+    ],
+    [
+      0.000017,
+      "=============\r\n"
+    ],
+    [
+      0.668209,
+      "Downloading/unpacking arrow (from -r client/requirements.txt (line 1))\r\r\n"
+    ],
+    [
+      0.491555,
+      "  Downloading arrow-0.5.4.tar.gz (81kB): \r  Downloading arrow-0.5.4.tar.gz (81kB):   5%  4.1kB\r  Downloading arrow-0.5.4.tar.gz (81kB):  10%  8.2kB\r  Downloading arrow-0.5.4.tar.gz (81kB):  15%  12kB "
+    ],
+    [
+      0.028962,
+      "\r  Downloading arrow-0.5.4.tar.gz (81kB):  20%  16kB"
+    ],
+    [
+      0.000008,
+      "\r  Downloading arrow-0.5.4.tar.gz (81kB):  25%  20kB\r  Downloading arrow-0.5.4.tar.gz (81kB):  30%  24kB\r  Downloading arrow-0.5.4.tar.gz (81kB):  35%  28kB"
+    ],
+    [
+      0.050501,
+      "\r  Downloading arrow-0.5.4.tar.gz (81kB):  40%  32kB"
+    ],
+    [
+      0.000010,
+      "\r  Downloading arrow-0.5.4.tar.gz (81kB):  45%  36kB\r  Downloading arrow-0.5.4.tar.gz (81kB):  50%  40kB\r  Downloading arrow-0.5.4.tar.gz (81kB):  55%  45kB"
+    ],
+    [
+      0.033057,
+      "\r  Downloading arrow-0.5.4.tar.gz (81kB):  60%  49kB"
+    ],
+    [
+      0.000013,
+      "\r  Downloading arrow-0.5.4.tar.gz (81kB):  65%  53kB\r  Downloading arrow-0.5.4.tar.gz (81kB):  70%  57kB"
+    ],
+    [
+      0.002477,
+      "\r  Downloading arrow-0.5.4.tar.gz (81kB):  75%  61kB"
+    ],
+    [
+      0.037002,
+      "\r  Downloading arrow-0.5.4.tar.gz (81kB):  80%  65kB"
+    ],
+    [
+      0.000009,
+      "\r  Downloading arrow-0.5.4.tar.gz (81kB):  85%  69kB\r  Downloading arrow-0.5.4.tar.gz (81kB):  90%  73kB\r  Downloading arrow-0.5.4.tar.gz (81kB):  95%  77kB"
+    ],
+    [
+      0.000011,
+      "\r  Downloading arrow-0.5.4.tar.gz (81kB): 100%  81kB"
+    ],
+    [
+      0.000022,
+      "\r  Downloading arrow-0.5.4.tar.gz (81kB):           \r  Downloading arrow-0.5.4.tar.gz (81kB): 81kB downloaded\r\r\n"
+    ],
+    [
+      0.017174,
+      "  Running setup.py (path:/tmp/pip-build-a9y1j7t6/arrow/setup.py) egg_info for package arrow\r\r\n"
+    ],
+    [
+      0.100415,
+      "    \r\r\n"
+    ],
+    [
+      0.048520,
+      "Requirement already satisfied (use --upgrade to upgrade): pyyaml in /usr/local/lib/python3.4/dist-packages (from -r client/requirements.txt (line 2))\r\r\n"
+    ],
+    [
+      0.000007,
+      "Requirement already satisfied (use --upgrade to upgrade): appdirs in /usr/local/lib/python3.4/dist-packages (from -r client/requirements.txt (line 3))\r\r\nRequirement already satisfied (use --upgrade to upgrade): progressbar2 in /usr/local/lib/python3.4/dist-packages (from -r client/requirements.txt (line 4))\r\r\n"
+    ],
+    [
+      0.000003,
+      "Requirement already satisfied (use --upgrade to upgrade): requests-toolbelt in /usr/local/lib/python3.4/dist-packages (from -r client/requirements.txt (line 5))\r\r\n"
+    ],
+    [
+      0.000005,
+      "Requirement already satisfied (use --upgrade to upgrade): python-dateutil in /usr/local/lib/python3.4/dist-packages (from arrow-\u003e-r client/requirements.txt (line 1))\r\r\n"
+    ],
+    [
+      0.000012,
+      "Installing collected packages: arrow\r\r\n"
+    ],
+    [
+      0.004272,
+      "  Running setup.py install for arrow\r\r\n"
+    ],
+    [
+      0.136353,
+      "    \r\r\n"
+    ],
+    [
+      0.042111,
+      "Successfully installed arrow\r\r\nCleaning up...\r\r\n"
+    ],
+    [
+      0.138390,
+      "running install\r\r\n"
+    ],
+    [
+      0.033395,
+      "Checking .pth file support in /usr/local/lib/python3.4/dist-packages/\r\r\n"
+    ],
+    [
+      0.000007,
+      "/usr/bin/python -E -c pass\r\r\n"
+    ],
+    [
+      0.014655,
+      "TEST PASSED: /usr/local/lib/python3.4/dist-packages/ appears to support .pth files\r\r\n"
+    ],
+    [
+      0.005766,
+      "running bdist_egg\r\r\n"
+    ],
+    [
+      0.000560,
+      "running egg_info\r\r\n"
+    ],
+    [
+      0.000417,
+      "writing top-level names to bush.egg-info/top_level.txt\r\r\n"
+    ],
+    [
+      0.001624,
+      "writing requirements to bush.egg-info/requires.txt\r\r\n"
+    ],
+    [
+      0.001431,
+      "writing bush.egg-info/PKG-INFO\r\r\n"
+    ],
+    [
+      0.001769,
+      "writing dependency_links to bush.egg-info/dependency_links.txt\r\r\n"
+    ],
+    [
+      0.063031,
+      "reading manifest file 'bush.egg-info/SOURCES.txt'\r\r\n"
+    ],
+    [
+      0.008622,
+      "writing manifest file 'bush.egg-info/SOURCES.txt'\r\r\n"
+    ],
+    [
+      0.001417,
+      "installing library code to build/bdist.linux-x86_64/egg\r\r\n"
+    ],
+    [
+      0.000005,
+      "running install_lib\r\r\n"
+    ],
+    [
+      0.000014,
+      "running build_py\r\r\n"
+    ],
+    [
+      0.014185,
+      "creating build/bdist.linux-x86_64/egg\r\r\n"
+    ],
+    [
+      0.001939,
+      "creating build/bdist.linux-x86_64/egg/bush\r\r\n"
+    ],
+    [
+      0.002244,
+      "copying build/lib/bush/__init__.py -\u003e build/bdist.linux-x86_64/egg/bush\r\r\n"
+    ],
+    [
+      0.004225,
+      "copying build/lib/bush/__main__.py -\u003e build/bdist.linux-x86_64/egg/bush\r\r\n"
+    ],
+    [
+      0.005088,
+      "copying build/lib/bush/api.py -\u003e build/bdist.linux-x86_64/egg/bush\r\r\n"
+    ],
+    [
+      0.005346,
+      "copying build/lib/bush/cli.py -\u003e build/bdist.linux-x86_64/egg/bush\r\r\n"
+    ],
+    [
+      0.005874,
+      "copying build/lib/bush/config.py -\u003e build/bdist.linux-x86_64/egg/bush\r\r\n"
+    ],
+    [
+      0.004299,
+      "copying build/lib/bush/config.yaml -\u003e build/bdist.linux-x86_64/egg/bush\r\r\n"
+    ],
+    [
+      0.004946,
+      "copying build/lib/bush/meta.py -\u003e build/bdist.linux-x86_64/egg/bush\r\r\n"
+    ],
+    [
+      0.005150,
+      "byte-compiling build/bdist.linux-x86_64/egg/bush/__init__.py to __init__.cpython-34.pyc\r\r\n"
+    ],
+    [
+      0.005138,
+      "byte-compiling build/bdist.linux-x86_64/egg/bush/__main__.py to __main__.cpython-34.pyc\r\r\n"
+    ],
+    [
+      0.005970,
+      "byte-compiling build/bdist.linux-x86_64/egg/bush/api.py to api.cpython-34.pyc\r\r\n"
+    ],
+    [
+      0.007395,
+      "byte-compiling build/bdist.linux-x86_64/egg/bush/cli.py to cli.cpython-34.pyc\r\r\n"
+    ],
+    [
+      0.006512,
+      "byte-compiling build/bdist.linux-x86_64/egg/bush/config.py to config.cpython-34.pyc\r\r\n"
+    ],
+    [
+      0.005227,
+      "byte-compiling build/bdist.linux-x86_64/egg/bush/meta.py to meta.cpython-34.pyc\r\r\n"
+    ],
+    [
+      0.016536,
+      "creating build/bdist.linux-x86_64/egg/EGG-INFO\r\r\n"
+    ],
+    [
+      0.000775,
+      "installing scripts to build/bdist.linux-x86_64/egg/EGG-INFO/scripts\r\r\n"
+    ],
+    [
+      0.000020,
+      "running install_scripts\r\r\nrunning build_scripts\r\r\n"
+    ],
+    [
+      0.004849,
+      "creating build/bdist.linux-x86_64/egg/EGG-INFO/scripts\r\r\n"
+    ],
+    [
+      0.002046,
+      "copying build/scripts-3.4/bush -\u003e build/bdist.linux-x86_64/egg/EGG-INFO/scripts\r\r\n"
+    ],
+    [
+      0.004718,
+      "changing mode of build/bdist.linux-x86_64/egg/EGG-INFO/scripts/bush to 755\r\r\n"
+    ],
+    [
+      0.003376,
+      "copying bush.egg-info/PKG-INFO -\u003e build/bdist.linux-x86_64/egg/EGG-INFO\r\r\n"
+    ],
+    [
+      0.005225,
+      "copying bush.egg-info/SOURCES.txt -\u003e build/bdist.linux-x86_64/egg/EGG-INFO\r\r\n"
+    ],
+    [
+      0.005456,
+      "copying bush.egg-info/dependency_links.txt -\u003e build/bdist.linux-x86_64/egg/EGG-INFO\r\r\n"
+    ],
+    [
+      0.004871,
+      "copying bush.egg-info/not-zip-safe -\u003e build/bdist.linux-x86_64/egg/EGG-INFO\r\r\n"
+    ],
+    [
+      0.005829,
+      "copying bush.egg-info/requires.txt -\u003e build/bdist.linux-x86_64/egg/EGG-INFO\r\r\n"
+    ],
+    [
+      0.006521,
+      "copying bush.egg-info/top_level.txt -\u003e build/bdist.linux-x86_64/egg/EGG-INFO\r\r\n"
+    ],
+    [
+      0.005792,
+      "creating 'dist/bush-0.1.0-py3.4.egg' and adding 'build/bdist.linux-x86_64/egg' to it\r\r\n"
+    ],
+    [
+      0.050923,
+      "removing 'build/bdist.linux-x86_64/egg' (and everything under it)\r\r\n"
+    ],
+    [
+      0.025156,
+      "Processing bush-0.1.0-py3.4.egg\r\r\n"
+    ],
+    [
+      0.003377,
+      "creating /usr/local/lib/python3.4/dist-packages/bush-0.1.0-py3.4.egg\r\r\n"
+    ],
+    [
+      0.000353,
+      "Extracting bush-0.1.0-py3.4.egg to /usr/local/lib/python3.4/dist-packages\r\r\n"
+    ],
+    [
+      0.024882,
+      "Adding bush 0.1.0 to easy-install.pth file\r\r\n"
+    ],
+    [
+      0.000006,
+      "Installing bush script to /usr/local/bin\r\r\n"
+    ],
+    [
+      0.000126,
+      "\r\r\nInstalled /usr/local/lib/python3.4/dist-packages/bush-0.1.0-py3.4.egg\r\r\n"
+    ],
+    [
+      0.000005,
+      "Processing dependencies for bush==0.1.0\r\r\n"
+    ],
+    [
+      0.013443,
+      "Searching for requests-toolbelt==0.4.0\r\r\n"
+    ],
+    [
+      0.000010,
+      "Best match: requests-toolbelt 0.4.0\r\r\nAdding requests-toolbelt 0.4.0 to easy-install.pth file\r\r\n\r\r\nUsing /usr/local/lib/python3.4/dist-packages\r\r\nSearching for progressbar2==2.7.3\r\r\nBest match: progressbar2 2.7.3\r\r\n"
+    ],
+    [
+      0.000066,
+      "progressbar2 2.7.3 is already the active version in easy-install.pth\r\r\n"
+    ],
+    [
+      0.000032,
+      "\r\r\nUsing /usr/local/lib/python3.4/dist-packages\r\r\n"
+    ],
+    [
+      0.000020,
+      "Searching for appdirs==1.4.0\r\r\nBest match: appdirs 1.4.0\r\r\n"
+    ],
+    [
+      0.000032,
+      "appdirs 1.4.0 is already the active version in easy-install.pth\r\r\n"
+    ],
+    [
+      0.000011,
+      "\r\r\nUsing /usr/local/lib/python3.4/dist-packages\r\r\n"
+    ],
+    [
+      0.000015,
+      "Searching for PyYAML==3.11\r\r\nBest match: PyYAML 3.11\r\r\n"
+    ],
+    [
+      0.002341,
+      "PyYAML 3.11 is already the active version in easy-install.pth\r\r\n\r\r\nUsing /usr/local/lib/python3.4/dist-packages\r\r\n"
+    ],
+    [
+      0.000008,
+      "Searching for arrow==0.5.4\r\r\nBest match: arrow 0.5.4\r\r\narrow 0.5.4 is already the active version in easy-install.pth\r\r\n\r\r\nUsing /usr/local/lib/python3.4/dist-packages\r\r\nSearching for requests==2.4.3\r\r\nBest match: requests 2.4.3\r\r\nAdding requests 2.4.3 to easy-install.pth file\r\r\n"
+    ],
+    [
+      0.000004,
+      "\r\r\nUsing /usr/lib/python3/dist-packages\r\r\nSearching for python-dateutil==2.4.2\r\r\n"
+    ],
+    [
+      0.000003,
+      "Best match: python-dateutil 2.4.2\r\r\n"
+    ],
+    [
+      0.000003,
+      "python-dateutil 2.4.2 is already the active version in easy-install.pth\r\r\n"
+    ],
+    [
+      0.000003,
+      "\r\r\nUsing /usr/local/lib/python3.4/dist-packages\r\r\n"
+    ],
+    [
+      0.000002,
+      "Searching for six==1.8.0\r\r\n"
+    ],
+    [
+      0.000015,
+      "Best match: six 1.8.0\r\r\nsix 1.8.0 is already the active version in easy-install.pth\r\r\n"
+    ],
+    [
+      0.000005,
+      "\r\r\nUsing /usr/lib/python3/dist-packages\r\r\nFinished processing dependencies for bush==0.1.0\r\r\n"
+    ],
+    [
+      0.021366,
+      "nohup: appending output to ‘nohup.out’\r\r\n\r\r\nRunning command --\u003e  tests/client_up.sh \r\r\n\r\r\n"
+    ],
+    [
+      0.013890,
+      "Checking simple upload without specifing tag\r\r\n"
+    ],
+    [
+      0.135139,
+      "\r  0% |                                               | ETA:  --:--:-- ETA:  --:--:--   0.00  B/s"
+    ],
+    [
+      0.002346,
+      "\r100% |#################################################| ETA:  0:00:00 ETA:  0:00:00 107.59 kB/s"
+    ],
+    [
+      0.017238,
+      "\r100% |#################################################| Time: 0:00:00 Time: 0:00:00  20.40 kB/s\r\r\n"
+    ],
+    [
+      0.022138,
+      "1\r\r\n"
+    ],
+    [
+      0.003982,
+      "Checking simple upload with tag\r\r\n"
+    ],
+    [
+      0.130664,
+      "\r  0% |                                               | ETA:  --:--:-- ETA:  --:--:--   0.00  B/s"
+    ],
+    [
+      0.004017,
+      "\r100% |#################################################| ETA:  0:00:00 ETA:  0:00:00 105.62 kB/s"
+    ],
+    [
+      0.013096,
+      "\r100% |#################################################| Time: 0:00:00 Time: 0:00:00  24.44 kB/s\r\r\n"
+    ],
+    [
+      0.023130,
+      "1\r\r\n"
+    ],
+    [
+      0.004163,
+      "Checking multiple files upload with tag\r\r\n"
+    ],
+    [
+      0.135337,
+      "\r  0% |                                               | ETA:  --:--:-- ETA:  --:--:--   0.00  B/s"
+    ],
+    [
+      0.001878,
+      "\r100% |#################################################| ETA:  0:00:00 ETA:  0:00:00 124.89 kB/s"
+    ],
+    [
+      0.014059,
+      "\r100% |#################################################| Time: 0:00:00 Time: 0:00:00  24.95 kB/s\r\r\n"
+    ],
+    [
+      0.025801,
+      "1\r\r\n"
+    ],
+    [
+      0.003853,
+      "Checking directory upload without tag\r\r\n"
+    ],
+    [
+      0.135569,
+      "\r  0% |                                               | ETA:  --:--:-- ETA:  --:--:--   0.00  B/s"
+    ],
+    [
+      0.004145,
+      "\r100% |#################################################| ETA:  0:00:00 ETA:  0:00:00 119.48 kB/s"
+    ],
+    [
+      0.013636,
+      "\r100% |#################################################| Time: 0:00:00 Time: 0:00:00  27.37 kB/s\r\r\n"
+    ],
+    [
+      0.023666,
+      "1\r\r\n"
+    ],
+    [
+      0.007201,
+      "Checking directory upload without tag (Ending / in dirname)\r\r\n"
+    ],
+    [
+      0.141240,
+      "\r  0% |                                               | ETA:  --:--:-- ETA:  --:--:--   0.00  B/s"
+    ],
+    [
+      0.004245,
+      "\r100% |#################################################| ETA:  0:00:00 ETA:  0:00:00 126.44 kB/s"
+    ],
+    [
+      0.018355,
+      "\r100% |#################################################| Time: 0:00:00 Time: 0:00:00  27.76 kB/s\r\r\n"
+    ],
+    [
+      0.018988,
+      "1\r\r\n"
+    ],
+    [
+      0.004028,
+      "Checking directory upload with tag\r\r\n"
+    ],
+    [
+      0.135293,
+      "\r  0% |                                               | ETA:  --:--:-- ETA:  --:--:--   0.00  B/s"
+    ],
+    [
+      0.004127,
+      "\r100% |#################################################| ETA:  0:00:00 ETA:  0:00:00 126.96 kB/s"
+    ],
+    [
+      0.015132,
+      "\r100% |#################################################| Time: 0:00:00 Time: 0:00:00  25.86 kB/s\r\r\n"
+    ],
+    [
+      0.027148,
+      "1\r\r\n"
+    ],
+    [
+      0.004754,
+      "\u001b[0;32m\r\r\n---------\r\r\n"
+    ],
+    [
+      0.000005,
+      "BUSH : OK\r\r\n---------\r\r\n\u001b[0m\r\r\n"
+    ],
+    [
+      0.175964,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "Results\r\n"
+    ],
+    [
+      0.000002,
+      "===================================\r\n"
+    ],
+    [
+      0.000024,
+      "BUSH : OK \r\n\r\n"
+    ],
+    [
+      0.013534,
+      "bash-4.3$ "
+    ],
+    [
+      2.605604,
+      "exit\r\n"
+    ]
+  ]
+}
