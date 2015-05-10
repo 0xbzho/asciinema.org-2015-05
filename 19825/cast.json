@@ -1,0 +1,126 @@
+{
+  "version": 1,
+  "width": 120,
+  "height": 24,
+  "duration": 6.249735,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.052465,
+      "\u001b]0;installer [/root/installer] @debian\u0007"
+    ],
+    [
+      0.000690,
+      "[\u001b[01;34m~/installer\u001b[00m]\r\r\n0|\u001b[01;32mroot@debian\u001b[00m:# "
+    ],
+    [
+      2.492037,
+      "l"
+    ],
+    [
+      0.445252,
+      "s"
+    ],
+    [
+      0.373967,
+      "\r\n"
+    ],
+    [
+      0.002822,
+      "total 36K"
+    ],
+    [
+      0.000481,
+      "\r\n"
+    ],
+    [
+      0.000322,
+      "drwxr-xr-x 7 root root 4.0K Mar 30 09:16 \u001b[0m\u001b[01;34mbase-files\u001b[0m"
+    ],
+    [
+      0.000170,
+      "\r\n"
+    ],
+    [
+      0.000268,
+      "drwxr-xr-x 8 root root 4.0K Mar 30 09:16 \u001b[01;34mdebian-cd\u001b[0m"
+    ],
+    [
+      0.000233,
+      "\r\n"
+    ],
+    [
+      0.000267,
+      "drwxr-xr-x 5 root root 4.0K Mar 30 09:16 \u001b[01;34mdebian-installer\u001b[0m"
+    ],
+    [
+      0.000232,
+      "\r\n"
+    ],
+    [
+      0.000224,
+      "drwxr-xr-x 4 root root 4.0K Mar 30 09:16 \u001b[01;34mdebootstrap\u001b[0m"
+    ],
+    [
+      0.000225,
+      "\r\n"
+    ],
+    [
+      0.001004,
+      "-rw-r--r-- 1 root root 1.9K May 10 01:55 install"
+    ],
+    [
+      0.000225,
+      "\r\n"
+    ],
+    [
+      0.000263,
+      "drwxr-xr-x 2 root root 4.0K Mar 30 09:16 \u001b[01;34mpreseeds\u001b[0m"
+    ],
+    [
+      0.000224,
+      "\r\n"
+    ],
+    [
+      0.000211,
+      "-rw-r--r-- 1 root root  454 Mar 30 09:16 README.md"
+    ],
+    [
+      0.000202,
+      "\r\n"
+    ],
+    [
+      0.000209,
+      "drwxr-xr-x 7 root root 4.0K Mar 30 09:16 \u001b[01;34mtasksel\u001b[0m"
+    ],
+    [
+      0.000221,
+      "\r\n"
+    ],
+    [
+      0.000256,
+      "drwxr-xr-x 2 root root 4.0K Mar 30 09:16 \u001b[01;34mtools\u001b[0m"
+    ],
+    [
+      0.000221,
+      "\r\n"
+    ],
+    [
+      0.002717,
+      "\u001b]0;installer [/root/installer] @debian\u0007"
+    ],
+    [
+      0.001713,
+      "[\u001b[01;34m~/installer\u001b[00m]\r\r\n0|\u001b[01;32mroot@debian\u001b[00m:# "
+    ],
+    [
+      2.872556,
+      "exit\r\n"
+    ]
+  ]
+}
