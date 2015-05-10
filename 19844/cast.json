@@ -1,0 +1,8178 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 24,
+  "duration": 49.449061,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.313516,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000076,
+      "\u001b]2;daniel@daniel: ~/glsec\u0007"
+    ],
+    [
+      0.000051,
+      "\u001b]1;~/glsec\u0007"
+    ],
+    [
+      0.000033,
+      "\u001b]7;file:///Users/daniel/glsec\u0007"
+    ],
+    [
+      0.013480,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36mglsec \u001b[01;34m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000016,
+      "\u001b[K"
+    ],
+    [
+      0.000225,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.679393,
+      "m"
+    ],
+    [
+      0.102653,
+      "\u0008me"
+    ],
+    [
+      0.163946,
+      "t"
+    ],
+    [
+      0.195210,
+      "e"
+    ],
+    [
+      0.258853,
+      "o"
+    ],
+    [
+      0.146990,
+      "r"
+    ],
+    [
+      0.546384,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u001b[32mm\u001b[32me\u001b[32mt\u001b[32me\u001b[32mo\u001b[32mr\u001b[39m "
+    ],
+    [
+      0.154624,
+      "c"
+    ],
+    [
+      0.169145,
+      "r"
+    ],
+    [
+      0.060030,
+      "e"
+    ],
+    [
+      0.151841,
+      "a"
+    ],
+    [
+      0.168340,
+      "t"
+    ],
+    [
+      0.087778,
+      "e"
+    ],
+    [
+      0.911464,
+      " "
+    ],
+    [
+      0.440062,
+      "-"
+    ],
+    [
+      0.126478,
+      "-"
+    ],
+    [
+      0.123560,
+      "e"
+    ],
+    [
+      0.226093,
+      "x"
+    ],
+    [
+      0.191964,
+      "a"
+    ],
+    [
+      0.186179,
+      "m"
+    ],
+    [
+      0.160641,
+      "p"
+    ],
+    [
+      0.210410,
+      "l"
+    ],
+    [
+      0.170861,
+      "e"
+    ],
+    [
+      0.166828,
+      " "
+    ],
+    [
+      0.281429,
+      "t"
+    ],
+    [
+      0.087869,
+      "o"
+    ],
+    [
+      0.188031,
+      "d"
+    ],
+    [
+      0.193249,
+      "o"
+    ],
+    [
+      0.218688,
+      "s"
+    ],
+    [
+      1.700026,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000064,
+      "\r\r\n"
+    ],
+    [
+      0.001133,
+      "\u001b]2;meteor create --example todos\u0007\u001b]1;meteor\u0007"
+    ],
+    [
+      0.700137,
+      "\r"
+    ],
+    [
+      0.000213,
+      "                                             -\r"
+    ],
+    [
+      0.000888,
+      "                                              \r                                             -\r"
+    ],
+    [
+      0.000439,
+      "                                              \r"
+    ],
+    [
+      0.000005,
+      "                                             -\r"
+    ],
+    [
+      0.021739,
+      "                                              \r"
+    ],
+    [
+      0.000007,
+      "   Preparing project                         -\r"
+    ],
+    [
+      0.000132,
+      "                                              \r"
+    ],
+    [
+      0.000006,
+      "   Preparing project                         -\r"
+    ],
+    [
+      0.000328,
+      "                                              \r   Preparing project                         -\r"
+    ],
+    [
+      0.324601,
+      "                                              \r"
+    ],
+    [
+      0.000009,
+      "   Selecting package versions                \\\r"
+    ],
+    [
+      0.000056,
+      "                                              \r"
+    ],
+    [
+      0.000006,
+      "   Selecting package versions                \\\r"
+    ],
+    [
+      0.060564,
+      "                                              \r"
+    ],
+    [
+      0.000008,
+      "   Selecting package versions                |\r"
+    ],
+    [
+      0.072902,
+      "                                              \r"
+    ],
+    [
+      0.000011,
+      "   Selecting package versions                |\r"
+    ],
+    [
+      0.062798,
+      "                                              \r"
+    ],
+    [
+      0.000009,
+      "   Selecting package versions                |\r"
+    ],
+    [
+      0.052211,
+      "                                              \r"
+    ],
+    [
+      0.000008,
+      "   Selecting package versions                |\r"
+    ],
+    [
+      0.055679,
+      "                                              \r"
+    ],
+    [
+      0.000009,
+      "   Selecting package versions                /\r"
+    ],
+    [
+      0.067139,
+      "                                              \r   Selecting package versions                /\r"
+    ],
+    [
+      0.050346,
+      "                                              \r"
+    ],
+    [
+      0.000031,
+      "   Selecting package versions                /\r"
+    ],
+    [
+      0.052561,
+      "                                              \r"
+    ],
+    [
+      0.000010,
+      "   Selecting package versions                /\r"
+    ],
+    [
+      0.099399,
+      "                                              \r"
+    ],
+    [
+      0.000008,
+      "   Selecting package versions                -\r"
+    ],
+    [
+      0.058326,
+      "                                              \r"
+    ],
+    [
+      0.000008,
+      "   Selecting package versions                -\r"
+    ],
+    [
+      0.059225,
+      "                                              \r"
+    ],
+    [
+      0.001670,
+      "   Selecting package versions                -\r"
+    ],
+    [
+      0.056948,
+      "                                              \r   Selecting package versions                -\r"
+    ],
+    [
+      0.056325,
+      "                                              \r   Selecting package versions                \\\r"
+    ],
+    [
+      0.054584,
+      "                                              \r"
+    ],
+    [
+      0.000019,
+      "   Selecting package versions                \\\r"
+    ],
+    [
+      0.053518,
+      "                                              \r"
+    ],
+    [
+      0.000009,
+      "   Selecting package versions                \\\r"
+    ],
+    [
+      0.101322,
+      "                                              \r"
+    ],
+    [
+      0.000013,
+      "   Selecting package versions                \\\r"
+    ],
+    [
+      0.052925,
+      "                                              \r"
+    ],
+    [
+      0.000011,
+      "   Selecting package versions                |\r"
+    ],
+    [
+      0.051394,
+      "                                              \r"
+    ],
+    [
+      0.000010,
+      "   Selecting package versions                |\r"
+    ],
+    [
+      0.052161,
+      "                                              \r"
+    ],
+    [
+      0.000011,
+      "   Selecting package versions                |\r"
+    ],
+    [
+      0.053106,
+      "                                              \r   Selecting package versions                |\r"
+    ],
+    [
+      0.050843,
+      "                                              \r"
+    ],
+    [
+      0.000009,
+      "   Selecting package versions                |\r"
+    ],
+    [
+      0.050658,
+      "                                              \r"
+    ],
+    [
+      0.000011,
+      "   Selecting package versions                /\r"
+    ],
+    [
+      0.057806,
+      "                                              \r"
+    ],
+    [
+      0.000009,
+      "   Selecting package versions                /\r"
+    ],
+    [
+      0.060037,
+      "                                              \r   Selecting package versions                /\r"
+    ],
+    [
+      0.061596,
+      "                                              \r   Selecting package versions                /\r"
+    ],
+    [
+      0.050374,
+      "                                              \r"
+    ],
+    [
+      0.000024,
+      "   Selecting package versions                -\r"
+    ],
+    [
+      0.051327,
+      "                                              \r   Selecting package versions                -\r"
+    ],
+    [
+      0.338145,
+      "                                              \r   Selecting package versions                \\\r"
+    ],
+    [
+      0.106282,
+      "                                              \r"
+    ],
+    [
+      0.000011,
+      "   Selecting package versions                |\r"
+    ],
+    [
+      0.050365,
+      "                                              \r"
+    ],
+    [
+      0.000009,
+      "   Selecting package versions                |\r"
+    ],
+    [
+      0.001593,
+      "                                              \r   Selecting package versions                |\r"
+    ],
+    [
+      0.048926,
+      "                                              \r"
+    ],
+    [
+      0.000010,
+      "   Checking for npm-bcrypt@0.7.8_2           |\r"
+    ],
+    [
+      0.000526,
+      "                                              \r   Checking for npm-bcrypt@0.7.8_2           |\r"
+    ],
+    [
+      0.262778,
+      "                                              \r"
+    ],
+    [
+      0.000008,
+      "   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.051696,
+      "                                              \r"
+    ],
+    [
+      0.000560,
+      "   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.053563,
+      "                                              \r   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.052529,
+      "                                              \r"
+    ],
+    [
+      0.000013,
+      "   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.053515,
+      "                                              \r"
+    ],
+    [
+      0.000095,
+      "   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.056532,
+      "                                              \r   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.051294,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.055311,
+      "                                              \r   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.052284,
+      "                                              \r"
+    ],
+    [
+      0.000018,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.051362,
+      "                                              \r"
+    ],
+    [
+      0.000047,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.056424,
+      "                                              \r   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.055512,
+      "                                              \r"
+    ],
+    [
+      0.000014,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.051434,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.053396,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.053848,
+      "                                              \r"
+    ],
+    [
+      0.000010,
+      "   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.050423,
+      "                                              \r"
+    ],
+    [
+      0.000010,
+      "   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.030612,
+      "                                              \r"
+    ],
+    [
+      0.000013,
+      "   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.019136,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.050863,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.051295,
+      "                                              \r   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.054679,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.034840,
+      "                                              \r"
+    ],
+    [
+      0.000013,
+      "   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.000621,
+      "                                              \r"
+    ],
+    [
+      0.000009,
+      "   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.016356,
+      "                                              \r"
+    ],
+    [
+      0.000009,
+      "   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.029946,
+      "                                              \r   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.000902,
+      "                                              \r   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.020196,
+      "                                              \r"
+    ],
+    [
+      0.000010,
+      "   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.011353,
+      "                                              \r   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.020871,
+      "                                              \r   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.023114,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.013485,
+      "                                              \r   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.016218,
+      "                                              \r"
+    ],
+    [
+      0.000011,
+      "   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.000639,
+      "                                              \r   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.000362,
+      "                                              \r   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.020985,
+      "                                              \r"
+    ],
+    [
+      0.000015,
+      "   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.001554,
+      "                                              \r   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.000602,
+      "                                              \r   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.001265,
+      "                                              \r   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.000998,
+      "                                              \r   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.002517,
+      "                                              \r   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.000673,
+      "                                              \r   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.000644,
+      "                                              \r"
+    ],
+    [
+      0.000008,
+      "   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.001753,
+      "                                              \r"
+    ],
+    [
+      0.000007,
+      "   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.065634,
+      "                                              \r"
+    ],
+    [
+      0.000010,
+      "   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.001358,
+      "                                              \r"
+    ],
+    [
+      0.000007,
+      "   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.000447,
+      "                                              \r"
+    ],
+    [
+      0.000006,
+      "   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.000505,
+      "                                              \r"
+    ],
+    [
+      0.000006,
+      "   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.048920,
+      "                                              \r"
+    ],
+    [
+      0.000010,
+      "   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.021609,
+      "                                              \r"
+    ],
+    [
+      0.000009,
+      "   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.001415,
+      "                                              \r"
+    ],
+    [
+      0.000007,
+      "   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.017344,
+      "                                              \r"
+    ],
+    [
+      0.000010,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.000191,
+      "                                              \r"
+    ],
+    [
+      0.000006,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.009228,
+      "                                              \r"
+    ],
+    [
+      0.000008,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.010953,
+      "                                              \r   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.000276,
+      "                                              \r   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.041277,
+      "                                              \r"
+    ],
+    [
+      0.000011,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.050139,
+      "                                              \r"
+    ],
+    [
+      0.000011,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.053296,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.034128,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.000452,
+      "                                              \r"
+    ],
+    [
+      0.000009,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.021697,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.035027,
+      "                                              \r   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.017902,
+      "                                              \r"
+    ],
+    [
+      0.000013,
+      "   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.030397,
+      "                                              \r   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.000554,
+      "                                              \r   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.000409,
+      "                                              \r"
+    ],
+    [
+      0.000008,
+      "   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.019848,
+      "                                              \r   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.000041,
+      "                                              \r"
+    ],
+    [
+      0.000006,
+      "   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.035009,
+      "                                              \r"
+    ],
+    [
+      0.000008,
+      "   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.000364,
+      "                                              \r"
+    ],
+    [
+      0.000005,
+      "   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.016181,
+      "                                              \r   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.035410,
+      "                                              \r"
+    ],
+    [
+      0.000029,
+      "   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.007413,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.008720,
+      "                                              \r   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.050044,
+      "                                              \r   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.000075,
+      "                                              \r"
+    ],
+    [
+      0.000009,
+      "   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.002921,
+      "                                              \r"
+    ],
+    [
+      0.000010,
+      "   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.001205,
+      "                                              \r   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.000620,
+      "                                              \r   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.000427,
+      "                                              \r   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.047426,
+      "                                              \r"
+    ],
+    [
+      0.000009,
+      "   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.026865,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.022757,
+      "                                              \r"
+    ],
+    [
+      0.000370,
+      "   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.027618,
+      "                                              \r"
+    ],
+    [
+      0.000013,
+      "   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.022375,
+      "                                              \r   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.017292,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.000408,
+      "                                              \r"
+    ],
+    [
+      0.000006,
+      "   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.032803,
+      "                                              \r"
+    ],
+    [
+      0.000011,
+      "   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.053825,
+      "                                              \r   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.014917,
+      "                                              \r   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.041219,
+      "                                              \r"
+    ],
+    [
+      0.000042,
+      "   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.032772,
+      "                                              \r"
+    ],
+    [
+      0.000210,
+      "   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.020546,
+      "                                              \r"
+    ],
+    [
+      0.000057,
+      "   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.054979,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.054334,
+      "                                              \r"
+    ],
+    [
+      0.000013,
+      "   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.052174,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.033858,
+      "                                              \r   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.019914,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.051861,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.052130,
+      "                                              \r"
+    ],
+    [
+      0.000013,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.050499,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.055944,
+      "                                              \r"
+    ],
+    [
+      0.000119,
+      "   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.003134,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.050451,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.052959,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.044271,
+      "                                              \r   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.007102,
+      "                                              \r   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.051042,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.051706,
+      "                                              \r   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.053194,
+      "                                              \r"
+    ],
+    [
+      0.000013,
+      "   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.001574,
+      "                                              \r   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.049735,
+      "                                              \r   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.054564,
+      "                                              \r   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.053169,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.050916,
+      "                                              \r"
+    ],
+    [
+      0.000013,
+      "   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.003579,
+      "                                              \r"
+    ],
+    [
+      0.000013,
+      "   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.046791,
+      "                                              \r"
+    ],
+    [
+      0.000016,
+      "   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.051638,
+      "                                              \r"
+    ],
+    [
+      0.000054,
+      "   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.049804,
+      "                                              \r"
+    ],
+    [
+      0.000013,
+      "   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.000092,
+      "                                              \r"
+    ],
+    [
+      0.000013,
+      "   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.053550,
+      "                                              \r"
+    ],
+    [
+      0.000013,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.051800,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.051990,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.053416,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.006432,
+      "                                              \r"
+    ],
+    [
+      0.000013,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.048396,
+      "                                              \r"
+    ],
+    [
+      0.000075,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.053705,
+      "                                              \r"
+    ],
+    [
+      0.000010,
+      "   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.031542,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.021888,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.055329,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.053374,
+      "                                              \r"
+    ],
+    [
+      0.000158,
+      "   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.057138,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.051128,
+      "                                              \r"
+    ],
+    [
+      0.000011,
+      "   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.000161,
+      "                                              \r"
+    ],
+    [
+      0.000006,
+      "   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.053780,
+      "                                              \r   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.052821,
+      "                                              \r"
+    ],
+    [
+      0.000013,
+      "   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.040999,
+      "                                              \r   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.010561,
+      "                                              \r"
+    ],
+    [
+      0.000010,
+      "   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.053165,
+      "                                              \r   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.052379,
+      "                                              \r   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.055721,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.051427,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.017118,
+      "                                              \r   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.033598,
+      "                                              \r"
+    ],
+    [
+      0.000013,
+      "   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.054734,
+      "                                              \r"
+    ],
+    [
+      0.000020,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.051056,
+      "                                              \r"
+    ],
+    [
+      0.001630,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.000785,
+      "                                              \r   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.056071,
+      "                                              \r   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.048350,
+      "                                              \r   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.002380,
+      "                                              \r"
+    ],
+    [
+      0.000011,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.053800,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.054301,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.054472,
+      "                                              \r   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.014575,
+      "                                              \r   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.037865,
+      "                                              \r"
+    ],
+    [
+      0.000016,
+      "   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.049172,
+      "                                              \r"
+    ],
+    [
+      0.000011,
+      "   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.001507,
+      "                                              \r   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.052084,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.013938,
+      "                                              \r"
+    ],
+    [
+      0.000013,
+      "   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.039397,
+      "                                              \r"
+    ],
+    [
+      0.000051,
+      "   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.050287,
+      "                                              \r   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.049738,
+      "                                              \r   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.027027,
+      "                                              \r   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.023574,
+      "                                              \r   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.060194,
+      "                                              \r"
+    ],
+    [
+      0.000011,
+      "   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.051984,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.041911,
+      "                                              \r"
+    ],
+    [
+      0.000013,
+      "   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.011733,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.036901,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.015251,
+      "                                              \r   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.057033,
+      "                                              \r   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.053511,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.032199,
+      "                                              \r   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.007451,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.011220,
+      "                                              \r"
+    ],
+    [
+      0.000011,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.052917,
+      "                                              \r"
+    ],
+    [
+      0.000135,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.050502,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.022729,
+      "                                              \r   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.029374,
+      "                                              \r   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.055205,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.054423,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.036896,
+      "                                              \r   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.014190,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.053367,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.001998,
+      "                                              \r   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.054581,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.051241,
+      "                                              \r"
+    ],
+    [
+      0.000013,
+      "   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.016820,
+      "                                              \r   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.034525,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.051910,
+      "                                              \r"
+    ],
+    [
+      0.000016,
+      "   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.053218,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.009740,
+      "                                              \r   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.042244,
+      "                                              \r"
+    ],
+    [
+      0.000017,
+      "   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.053341,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.054556,
+      "                                              \r   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.029700,
+      "                                              \r"
+    ],
+    [
+      0.000011,
+      "   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.021716,
+      "                                              \r   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.053150,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.052984,
+      "                                              \r"
+    ],
+    [
+      0.000011,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.000097,
+      "                                              \r"
+    ],
+    [
+      0.000013,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.018870,
+      "                                              \r   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.032193,
+      "                                              \r"
+    ],
+    [
+      0.000126,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.051562,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.045027,
+      "                                              \r   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.007720,
+      "                                              \r   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.054771,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.053129,
+      "                                              \r"
+    ],
+    [
+      0.000013,
+      "   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.019457,
+      "                                              \r   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.035227,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.050550,
+      "                                              \r"
+    ],
+    [
+      0.000030,
+      "   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.055425,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.008981,
+      "                                              \r   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.035713,
+      "                                              \r"
+    ],
+    [
+      0.000013,
+      "   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.006984,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.055043,
+      "                                              \r   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.030556,
+      "                                              \r"
+    ],
+    [
+      0.000009,
+      "   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.021345,
+      "                                              \r"
+    ],
+    [
+      0.000011,
+      "   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.053179,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.047889,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.002637,
+      "                                              \r"
+    ],
+    [
+      0.000011,
+      "   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.054240,
+      "                                              \r   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.025859,
+      "                                              \r   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.030500,
+      "                                              \r   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.050496,
+      "                                              \r   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.053292,
+      "                                              \r"
+    ],
+    [
+      0.000011,
+      "   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.019335,
+      "                                              \r   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.031933,
+      "                                              \r   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.006806,
+      "                                              \r   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.043419,
+      "                                              \r"
+    ],
+    [
+      0.000079,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.006575,
+      "                                              \r"
+    ],
+    [
+      0.000011,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.048550,
+      "                                              \r   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.049793,
+      "                                              \r"
+    ],
+    [
+      0.000011,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.028914,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.024351,
+      "                                              \r   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.053660,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.050470,
+      "                                              \r"
+    ],
+    [
+      0.000013,
+      "   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.004632,
+      "                                              \r"
+    ],
+    [
+      0.000021,
+      "   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.049024,
+      "                                              \r"
+    ],
+    [
+      0.000034,
+      "   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.050209,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.055673,
+      "                                              \r"
+    ],
+    [
+      0.000013,
+      "   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.019989,
+      "                                              \r"
+    ],
+    [
+      0.000057,
+      "   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.031904,
+      "                                              \r"
+    ],
+    [
+      0.000013,
+      "   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.028710,
+      "                                              \r   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.022261,
+      "                                              \r"
+    ],
+    [
+      0.000013,
+      "   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.047262,
+      "                                              \r   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.003169,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.051420,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.050371,
+      "                                              \r"
+    ],
+    [
+      0.000016,
+      "   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.025942,
+      "                                              \r   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.026482,
+      "                                              \r"
+    ],
+    [
+      0.000011,
+      "   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.008181,
+      "                                              \r   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.042936,
+      "                                              \r"
+    ],
+    [
+      0.000011,
+      "   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.052561,
+      "                                              \r"
+    ],
+    [
+      0.000020,
+      "   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.051428,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.050578,
+      "                                              \r"
+    ],
+    [
+      0.000015,
+      "   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.031369,
+      "                                              \r"
+    ],
+    [
+      0.000234,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.024555,
+      "                                              \r   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.035342,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.016259,
+      "                                              \r   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.017639,
+      "                                              \r"
+    ],
+    [
+      0.000013,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.035740,
+      "                                              \r"
+    ],
+    [
+      0.000013,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.052438,
+      "                                              \r"
+    ],
+    [
+      0.000016,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.028655,
+      "                                              \r"
+    ],
+    [
+      0.000013,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.007734,
+      "                                              \r"
+    ],
+    [
+      0.000119,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.015242,
+      "                                              \r   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.050433,
+      "                                              \r"
+    ],
+    [
+      0.000011,
+      "   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.053801,
+      "                                              \r   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.050634,
+      "                                              \r"
+    ],
+    [
+      0.000016,
+      "   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.004693,
+      "                                              \r   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.046496,
+      "                                              \r   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.054330,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.029493,
+      "                                              \r   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.025312,
+      "                                              \r"
+    ],
+    [
+      0.000107,
+      "   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.019942,
+      "                                              \r"
+    ],
+    [
+      0.000013,
+      "   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.031008,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.050150,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.050128,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.000129,
+      "                                              \r"
+    ],
+    [
+      0.000046,
+      "   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.019748,
+      "                                              \r"
+    ],
+    [
+      0.000016,
+      "   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.031023,
+      "                                              \r   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.053870,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.054580,
+      "                                              \r   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.019914,
+      "                                              \r   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.009149,
+      "                                              \r   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.020992,
+      "                                              \r   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.050300,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.051903,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.050423,
+      "                                              \r"
+    ],
+    [
+      0.000016,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.000667,
+      "                                              \r"
+    ],
+    [
+      0.000008,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.032890,
+      "                                              \r"
+    ],
+    [
+      0.000011,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.018789,
+      "                                              \r"
+    ],
+    [
+      0.000044,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.053818,
+      "                                              \r"
+    ],
+    [
+      0.000013,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.048450,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.001801,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.049003,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.000733,
+      "                                              \r"
+    ],
+    [
+      0.000010,
+      "   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.052946,
+      "                                              \r"
+    ],
+    [
+      0.000055,
+      "   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.035961,
+      "                                              \r"
+    ],
+    [
+      0.000013,
+      "   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.014086,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.050516,
+      "                                              \r"
+    ],
+    [
+      0.000032,
+      "   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.053214,
+      "                                              \r   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.050923,
+      "                                              \r   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.046348,
+      "                                              \r"
+    ],
+    [
+      0.000009,
+      "   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.000451,
+      "                                              \r"
+    ],
+    [
+      0.000028,
+      "   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.004133,
+      "                                              \r   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.050933,
+      "                                              \r   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.004311,
+      "                                              \r"
+    ],
+    [
+      0.000011,
+      "   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.026742,
+      "                                              \r"
+    ],
+    [
+      0.000038,
+      "   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.023768,
+      "                                              \r"
+    ],
+    [
+      0.000013,
+      "   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.051172,
+      "                                              \r"
+    ],
+    [
+      0.000013,
+      "   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.053432,
+      "                                              \r   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.010527,
+      "                                              \r   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.045131,
+      "                                              \r   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.020383,
+      "                                              \r   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.030521,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.020052,
+      "                                              \r   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.035877,
+      "                                              \r   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.053234,
+      "                                              \r"
+    ],
+    [
+      0.000008,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.055515,
+      "                                              \r   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.038537,
+      "                                              \r   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.014359,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.009110,
+      "                                              \r"
+    ],
+    [
+      0.000011,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.044767,
+      "                                              \r   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.053514,
+      "                                              \r"
+    ],
+    [
+      0.000067,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.030911,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.019981,
+      "                                              \r"
+    ],
+    [
+      0.000011,
+      "   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.009322,
+      "                                              \r"
+    ],
+    [
+      0.000011,
+      "   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.043725,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.051573,
+      "                                              \r"
+    ],
+    [
+      0.000013,
+      "   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.002081,
+      "                                              \r"
+    ],
+    [
+      0.000013,
+      "   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.048525,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.026052,
+      "                                              \r   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.025023,
+      "                                              \r   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.052325,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.018663,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.034577,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.046362,
+      "                                              \r   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.005401,
+      "                                              \r   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.049949,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.024559,
+      "                                              \r"
+    ],
+    [
+      0.000066,
+      "   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.000996,
+      "                                              \r"
+    ],
+    [
+      0.000010,
+      "   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.024922,
+      "                                              \r   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.046887,
+      "                                              \r"
+    ],
+    [
+      0.000013,
+      "   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.004268,
+      "                                              \r   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.050829,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.044527,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.006917,
+      "                                              \r   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.009835,
+      "                                              \r   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.045456,
+      "                                              \r   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.050020,
+      "                                              \r   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.000065,
+      "                                              \r"
+    ],
+    [
+      0.000007,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.035145,
+      "                                              \r   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.022226,
+      "                                              \r   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.055317,
+      "                                              \r   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.048093,
+      "                                              \r"
+    ],
+    [
+      0.000082,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.001585,
+      "                                              \r   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.023837,
+      "                                              \r   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.026618,
+      "                                              \r   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.052590,
+      "                                              \r   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.009872,
+      "                                              \r"
+    ],
+    [
+      0.000009,
+      "   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.043077,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.015380,
+      "                                              \r   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.035720,
+      "                                              \r"
+    ],
+    [
+      0.000013,
+      "   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.034782,
+      "                                              \r   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.018064,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.052875,
+      "                                              \r"
+    ],
+    [
+      0.000013,
+      "   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.026383,
+      "                                              \r   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.024771,
+      "                                              \r   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.052300,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.056316,
+      "                                              \r   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.042021,
+      "                                              \r"
+    ],
+    [
+      0.000013,
+      "   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.001369,
+      "                                              \r"
+    ],
+    [
+      0.000010,
+      "   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.007707,
+      "                                              \r"
+    ],
+    [
+      0.000008,
+      "   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.035668,
+      "                                              \r"
+    ],
+    [
+      0.000035,
+      "   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.015009,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.052530,
+      "                                              \r"
+    ],
+    [
+      0.000032,
+      "   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.050418,
+      "                                              \r"
+    ],
+    [
+      0.000033,
+      "   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.029121,
+      "                                              \r   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.023267,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.007363,
+      "                                              \r   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.045512,
+      "                                              \r   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.053650,
+      "                                              \r"
+    ],
+    [
+      0.000013,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.054808,
+      "                                              \r"
+    ],
+    [
+      0.000013,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.004929,
+      "                                              \r   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.008584,
+      "                                              \r   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.038111,
+      "                                              \r"
+    ],
+    [
+      0.000038,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.050463,
+      "                                              \r"
+    ],
+    [
+      0.000015,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.054558,
+      "                                              \r"
+    ],
+    [
+      0.000013,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.053121,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.055239,
+      "                                              \r   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.039321,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.000563,
+      "                                              \r"
+    ],
+    [
+      0.000009,
+      "   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.002162,
+      "                                              \r"
+    ],
+    [
+      0.000009,
+      "   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.008129,
+      "                                              \r"
+    ],
+    [
+      0.000009,
+      "   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.054056,
+      "                                              \r"
+    ],
+    [
+      0.000013,
+      "   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.013459,
+      "                                              \r"
+    ],
+    [
+      0.000013,
+      "   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.038468,
+      "                                              \r"
+    ],
+    [
+      0.000072,
+      "   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.001769,
+      "                                              \r   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.050724,
+      "                                              \r   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.006892,
+      "                                              \r   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.008330,
+      "                                              \r   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.036699,
+      "                                              \r   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.029009,
+      "                                              \r   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.008223,
+      "                                              \r"
+    ],
+    [
+      0.000013,
+      "   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.015698,
+      "                                              \r   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.052057,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.040694,
+      "                                              \r"
+    ],
+    [
+      0.000045,
+      "   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.000866,
+      "                                              \r   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.008734,
+      "                                              \r"
+    ],
+    [
+      0.000006,
+      "   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.036056,
+      "                                              \r   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.018648,
+      "                                              \r"
+    ],
+    [
+      0.000100,
+      "   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.012073,
+      "                                              \r   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.043393,
+      "                                              \r   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.046801,
+      "                                              \r"
+    ],
+    [
+      0.000016,
+      "   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.004695,
+      "                                              \r   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.016222,
+      "                                              \r   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.038514,
+      "                                              \r   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.033362,
+      "                                              \r   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.017669,
+      "                                              \r"
+    ],
+    [
+      0.000013,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.023722,
+      "                                              \r"
+    ],
+    [
+      0.000011,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.029670,
+      "                                              \r"
+    ],
+    [
+      0.000037,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.026719,
+      "                                              \r   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.025619,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.003334,
+      "                                              \r   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.049240,
+      "                                              \r   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.054359,
+      "                                              \r   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.033521,
+      "                                              \r"
+    ],
+    [
+      0.000016,
+      "   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.002187,
+      "                                              \r   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.017808,
+      "                                              \r   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.049971,
+      "                                              \r   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.021068,
+      "                                              \r"
+    ],
+    [
+      0.000013,
+      "   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.029386,
+      "                                              \r"
+    ],
+    [
+      0.000129,
+      "   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.001656,
+      "                                              \r   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.054361,
+      "                                              \r"
+    ],
+    [
+      0.000013,
+      "   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.055232,
+      "                                              \r   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.013209,
+      "                                              \r   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.007408,
+      "                                              \r   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.034144,
+      "                                              \r   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.052361,
+      "                                              \r"
+    ],
+    [
+      0.000013,
+      "   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.051021,
+      "                                              \r   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.000070,
+      "                                              \r"
+    ],
+    [
+      0.000008,
+      "   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.011086,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.039680,
+      "                                              \r"
+    ],
+    [
+      0.000015,
+      "   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.054598,
+      "                                              \r   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.041425,
+      "                                              \r   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.009988,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.000527,
+      "                                              \r"
+    ],
+    [
+      0.000009,
+      "   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.051225,
+      "                                              \r"
+    ],
+    [
+      0.000032,
+      "   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.054833,
+      "                                              \r   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.053860,
+      "                                              \r"
+    ],
+    [
+      0.000112,
+      "   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.004096,
+      "                                              \r   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.006349,
+      "                                              \r   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.041026,
+      "                                              \r"
+    ],
+    [
+      0.000011,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.009449,
+      "                                              \r"
+    ],
+    [
+      0.000013,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.083373,
+      "                                              \r   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.000038,
+      "                                              \r"
+    ],
+    [
+      0.000007,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.064108,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.006192,
+      "                                              \r"
+    ],
+    [
+      0.000011,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.048162,
+      "                                              \r"
+    ],
+    [
+      0.000013,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.055723,
+      "                                              \r"
+    ],
+    [
+      0.000011,
+      "   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.024400,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.000647,
+      "                                              \r"
+    ],
+    [
+      0.000009,
+      "   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.025518,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.054749,
+      "                                              \r   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.021344,
+      "                                              \r   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.030509,
+      "                                              \r"
+    ],
+    [
+      0.000016,
+      "   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.013511,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.073924,
+      "                                              \r"
+    ],
+    [
+      0.000013,
+      "   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.000086,
+      "                                              \r"
+    ],
+    [
+      0.000007,
+      "   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.055374,
+      "                                              \r"
+    ],
+    [
+      0.000045,
+      "   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.000109,
+      "                                              \r"
+    ],
+    [
+      0.000009,
+      "   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.064663,
+      "                                              \r"
+    ],
+    [
+      0.000016,
+      "   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.025616,
+      "                                              \r   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.006907,
+      "                                              \r   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.017463,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.050042,
+      "                                              \r   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.050761,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.031771,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.000881,
+      "                                              \r   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.019040,
+      "                                              \r   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.053801,
+      "                                              \r"
+    ],
+    [
+      0.000045,
+      "   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.012258,
+      "                                              \r   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.039244,
+      "                                              \r   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.000488,
+      "                                              \r   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.053910,
+      "                                              \r"
+    ],
+    [
+      0.000013,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.030934,
+      "                                              \r"
+    ],
+    [
+      0.000013,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.021593,
+      "                                              \r"
+    ],
+    [
+      0.000015,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.011677,
+      "                                              \r   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.007504,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.032550,
+      "                                              \r"
+    ],
+    [
+      0.000076,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.050199,
+      "                                              \r"
+    ],
+    [
+      0.000061,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.051392,
+      "                                              \r   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.006952,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.012674,
+      "                                              \r"
+    ],
+    [
+      0.000013,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.035129,
+      "                                              \r"
+    ],
+    [
+      0.000044,
+      "   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.050591,
+      "                                              \r   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.035800,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.014342,
+      "                                              \r   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.002677,
+      "                                              \r   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.050524,
+      "                                              \r   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.051695,
+      "                                              \r   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.002552,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.048766,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.012661,
+      "                                              \r   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.039019,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.050858,
+      "                                              \r"
+    ],
+    [
+      0.000042,
+      "   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.036028,
+      "                                              \r   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.014521,
+      "                                              \r"
+    ],
+    [
+      0.000170,
+      "   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.016938,
+      "                                              \r   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.034218,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.049929,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.001360,
+      "                                              \r"
+    ],
+    [
+      0.000057,
+      "   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.051579,
+      "                                              \r"
+    ],
+    [
+      0.000016,
+      "   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.043423,
+      "                                              \r"
+    ],
+    [
+      0.000011,
+      "   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.009263,
+      "                                              \r   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.050409,
+      "                                              \r   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.000250,
+      "                                              \r"
+    ],
+    [
+      0.000009,
+      "   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.050801,
+      "                                              \r"
+    ],
+    [
+      0.000011,
+      "   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.046190,
+      "                                              \r   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.004726,
+      "                                              \r"
+    ],
+    [
+      0.000011,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.004227,
+      "                                              \r"
+    ],
+    [
+      0.000013,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.050990,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.052399,
+      "                                              \r"
+    ],
+    [
+      0.000035,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.020880,
+      "                                              \r   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.035511,
+      "                                              \r   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.004813,
+      "                                              \r   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.048555,
+      "                                              \r   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.052568,
+      "                                              \r"
+    ],
+    [
+      0.000017,
+      "   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.052887,
+      "                                              \r"
+    ],
+    [
+      0.000013,
+      "   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.039615,
+      "                                              \r   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.000617,
+      "                                              \r   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.010046,
+      "                                              \r   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.050264,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.036995,
+      "                                              \r"
+    ],
+    [
+      0.000013,
+      "   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.013365,
+      "                                              \r"
+    ],
+    [
+      0.000011,
+      "   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.012643,
+      "                                              \r"
+    ],
+    [
+      0.000013,
+      "   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.024793,
+      "                                              \r   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.017918,
+      "                                              \r"
+    ],
+    [
+      0.000013,
+      "   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.052485,
+      "                                              \r"
+    ],
+    [
+      0.000015,
+      "   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.029432,
+      "                                              \r   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.019655,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.002365,
+      "                                              \r   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.053539,
+      "                                              \r   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.041824,
+      "                                              \r   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.011799,
+      "                                              \r"
+    ],
+    [
+      0.000015,
+      "   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.013284,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.041611,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.050723,
+      "                                              \r   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.040967,
+      "                                              \r"
+    ],
+    [
+      0.000010,
+      "   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.000708,
+      "                                              \r"
+    ],
+    [
+      0.000007,
+      "   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.009473,
+      "                                              \r   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.052840,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.037986,
+      "                                              \r"
+    ],
+    [
+      0.000013,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.008314,
+      "                                              \r"
+    ],
+    [
+      0.000011,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.003841,
+      "                                              \r   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.104207,
+      "                                              \r"
+    ],
+    [
+      0.000013,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.021528,
+      "                                              \r"
+    ],
+    [
+      0.000013,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.008472,
+      "                                              \r"
+    ],
+    [
+      0.000013,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.022837,
+      "                                              \r"
+    ],
+    [
+      0.000087,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.053316,
+      "                                              \r"
+    ],
+    [
+      0.000013,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.048270,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.003410,
+      "                                              \r"
+    ],
+    [
+      0.000011,
+      "   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.008385,
+      "                                              \r"
+    ],
+    [
+      0.000013,
+      "   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.046625,
+      "                                              \r   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.055312,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.039540,
+      "                                              \r   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.001716,
+      "                                              \r"
+    ],
+    [
+      0.000016,
+      "   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.012967,
+      "                                              \r   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.023150,
+      "                                              \r"
+    ],
+    [
+      0.000032,
+      "   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.031559,
+      "                                              \r"
+    ],
+    [
+      0.000011,
+      "   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.051640,
+      "                                              \r   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.000720,
+      "                                              \r   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.053112,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.017363,
+      "                                              \r   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.036671,
+      "                                              \r"
+    ],
+    [
+      0.000194,
+      "   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.025764,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.009086,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.016815,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.051273,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.025062,
+      "                                              \r   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.026010,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.042210,
+      "                                              \r"
+    ],
+    [
+      0.000016,
+      "   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.008996,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.054108,
+      "                                              \r   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.046737,
+      "                                              \r"
+    ],
+    [
+      0.000024,
+      "   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.006121,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.051839,
+      "                                              \r"
+    ],
+    [
+      0.000054,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.001485,
+      "                                              \r"
+    ],
+    [
+      0.000009,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.007759,
+      "                                              \r   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.041063,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.051583,
+      "                                              \r"
+    ],
+    [
+      0.000013,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.050499,
+      "                                              \r"
+    ],
+    [
+      0.000011,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.000543,
+      "                                              \r   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.056070,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.016867,
+      "                                              \r"
+    ],
+    [
+      0.000011,
+      "   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.037427,
+      "                                              \r"
+    ],
+    [
+      0.000024,
+      "   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.051514,
+      "                                              \r"
+    ],
+    [
+      0.000013,
+      "   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.009769,
+      "                                              \r   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.012629,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.028409,
+      "                                              \r"
+    ],
+    [
+      0.000021,
+      "   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.052353,
+      "                                              \r"
+    ],
+    [
+      0.000096,
+      "   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.036555,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.000628,
+      "                                              \r   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.014714,
+      "                                              \r   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.054361,
+      "                                              \r   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.004267,
+      "                                              \r   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.009103,
+      "                                              \r"
+    ],
+    [
+      0.000013,
+      "   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.042559,
+      "                                              \r   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.051687,
+      "                                              \r"
+    ],
+    [
+      0.000257,
+      "   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.039199,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.014276,
+      "                                              \r"
+    ],
+    [
+      0.000192,
+      "   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.025770,
+      "                                              \r   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.024830,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.053470,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.009664,
+      "                                              \r   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.043261,
+      "                                              \r"
+    ],
+    [
+      0.000013,
+      "   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.001940,
+      "                                              \r"
+    ],
+    [
+      0.000080,
+      "   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.049009,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.055922,
+      "                                              \r   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.029769,
+      "                                              \r   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.011432,
+      "                                              \r   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.008704,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.004183,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.048747,
+      "                                              \r"
+    ],
+    [
+      0.000013,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.040731,
+      "                                              \r"
+    ],
+    [
+      0.000017,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.009374,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.046722,
+      "                                              \r"
+    ],
+    [
+      0.000013,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.003351,
+      "                                              \r"
+    ],
+    [
+      0.000028,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.056732,
+      "                                              \r   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.037043,
+      "                                              \r"
+    ],
+    [
+      0.000009,
+      "   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.016466,
+      "                                              \r"
+    ],
+    [
+      0.000011,
+      "   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.043046,
+      "                                              \r   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.008277,
+      "                                              \r   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.052116,
+      "                                              \r   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.020952,
+      "                                              \r"
+    ],
+    [
+      0.000014,
+      "   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.028763,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.052079,
+      "                                              \r"
+    ],
+    [
+      0.000029,
+      "   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.037525,
+      "                                              \r"
+    ],
+    [
+      0.000013,
+      "   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.012992,
+      "                                              \r   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.025074,
+      "                                              \r   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.027174,
+      "                                              \r"
+    ],
+    [
+      0.000027,
+      "   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.053920,
+      "                                              \r   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.001036,
+      "                                              \r"
+    ],
+    [
+      0.000009,
+      "   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.050129,
+      "                                              \r   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.005873,
+      "                                              \r   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.046422,
+      "                                              \r   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.034914,
+      "                                              \r"
+    ],
+    [
+      0.000010,
+      "   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.017727,
+      "                                              \r   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.055995,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.012259,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.041398,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.051586,
+      "                                              \r"
+    ],
+    [
+      0.000013,
+      "   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.000146,
+      "                                              \r"
+    ],
+    [
+      0.000228,
+      "   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.050512,
+      "                                              \r"
+    ],
+    [
+      0.000039,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.033654,
+      "                                              \r"
+    ],
+    [
+      0.000011,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.019204,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.053952,
+      "                                              \r   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.029356,
+      "                                              \r"
+    ],
+    [
+      0.000013,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.024936,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.009393,
+      "                                              \r   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.041176,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.031109,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.001502,
+      "                                              \r"
+    ],
+    [
+      0.000009,
+      "   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.003644,
+      "                                              \r"
+    ],
+    [
+      0.000013,
+      "   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.013810,
+      "                                              \r"
+    ],
+    [
+      0.000010,
+      "   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.099875,
+      "                                              \r"
+    ],
+    [
+      0.000009,
+      "   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.056215,
+      "                                              \r"
+    ],
+    [
+      0.000009,
+      "   Downloading 5 packages                    |\r"
+    ],
+    [
+      0.099646,
+      "                                              \r"
+    ],
+    [
+      0.000011,
+      "   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.049998,
+      "                                              \r"
+    ],
+    [
+      0.000010,
+      "   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.049923,
+      "                                              \r"
+    ],
+    [
+      0.000008,
+      "   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.050012,
+      "                                              \r"
+    ],
+    [
+      0.000008,
+      "   Downloading 5 packages                    /\r"
+    ],
+    [
+      0.050064,
+      "                                              \r"
+    ],
+    [
+      0.000008,
+      "   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.049909,
+      "                                              \r"
+    ],
+    [
+      0.000009,
+      "   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.050009,
+      "                                              \r"
+    ],
+    [
+      0.000011,
+      "   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.050034,
+      "                                              \r"
+    ],
+    [
+      0.000011,
+      "   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.049905,
+      "                                              \r"
+    ],
+    [
+      0.000008,
+      "   Downloading 5 packages                    -\r"
+    ],
+    [
+      0.050032,
+      "                                              \r"
+    ],
+    [
+      0.000008,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.049998,
+      "                                              \r"
+    ],
+    [
+      0.000008,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.050010,
+      "                                              \r"
+    ],
+    [
+      0.000008,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.009514,
+      "                                              \r"
+    ],
+    [
+      0.000009,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.000344,
+      "                                              \r   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.000391,
+      "                                              \r"
+    ],
+    [
+      0.000005,
+      "   Downloading 5 packages                    \\\r"
+    ],
+    [
+      0.039977,
+      "                                              \r   Loading package accounts-base@1.2.0       \\\r"
+    ],
+    [
+      0.006784,
+      "                                              \r   Loading package accounts-base@1.2.0       \\\r"
+    ],
+    [
+      0.049702,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Building local packages                   \\\r"
+    ],
+    [
+      0.000037,
+      "                                              \r"
+    ],
+    [
+      0.000006,
+      "   Building local packages                   \\\r"
+    ],
+    [
+      0.000123,
+      "                                              \r"
+    ],
+    [
+      0.000010,
+      "   Building local packages                   \\\r"
+    ],
+    [
+      0.013786,
+      "                                              \r"
+    ],
+    [
+      0.000013,
+      "   Building local packages                   \\\r"
+    ],
+    [
+      0.000079,
+      "                                              \r"
+    ],
+    [
+      0.000020,
+      "   Building local packages                   \\\r"
+    ],
+    [
+      0.005490,
+      "                                              \r"
+    ],
+    [
+      0.000007,
+      "   Building local packages                   \\\r"
+    ],
+    [
+      0.000066,
+      "                                              \r"
+    ],
+    [
+      0.000006,
+      "   Building local packages                   \\\r"
+    ],
+    [
+      0.005286,
+      "                                              \r"
+    ],
+    [
+      0.000011,
+      "   Building local packages                   \\\r"
+    ],
+    [
+      0.000083,
+      "                                              \r"
+    ],
+    [
+      0.000011,
+      "   Building local packages                   \\\r"
+    ],
+    [
+      0.012709,
+      "                                              \r   Building local packages                   |\r"
+    ],
+    [
+      0.000044,
+      "                                              \r"
+    ],
+    [
+      0.000005,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.007606,
+      "                                              \r"
+    ],
+    [
+      0.000006,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.000067,
+      "                                              \r"
+    ],
+    [
+      0.000005,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.006644,
+      "                                              \r"
+    ],
+    [
+      0.000008,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.000035,
+      "                                              \r   Building local packages                   |\r"
+    ],
+    [
+      0.000099,
+      "                                              \r"
+    ],
+    [
+      0.000011,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.007543,
+      "                                              \r   Building local packages                   |\r"
+    ],
+    [
+      0.000299,
+      "                                              \r"
+    ],
+    [
+      0.000006,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.014344,
+      "                                              \r"
+    ],
+    [
+      0.000013,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.000187,
+      "                                              \r"
+    ],
+    [
+      0.000010,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.006011,
+      "                                              \r"
+    ],
+    [
+      0.000010,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.000088,
+      "                                              \r"
+    ],
+    [
+      0.000008,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.007127,
+      "                                              \r"
+    ],
+    [
+      0.000009,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.000095,
+      "                                              \r"
+    ],
+    [
+      0.000006,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.008045,
+      "                                              \r"
+    ],
+    [
+      0.000009,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.000093,
+      "                                              \r"
+    ],
+    [
+      0.000005,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.010616,
+      "                                              \r"
+    ],
+    [
+      0.000011,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.000208,
+      "                                              \r   Building local packages                   |\r"
+    ],
+    [
+      0.000006,
+      "                                              \r"
+    ],
+    [
+      0.000030,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.006946,
+      "                                              \r"
+    ],
+    [
+      0.000011,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.000128,
+      "                                              \r"
+    ],
+    [
+      0.000007,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.006055,
+      "                                              \r"
+    ],
+    [
+      0.000009,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.000103,
+      "                                              \r"
+    ],
+    [
+      0.000007,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.008079,
+      "                                              \r   Building local packages                   |\r"
+    ],
+    [
+      0.000067,
+      "                                              \r"
+    ],
+    [
+      0.000006,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.003576,
+      "                                              \r   Building local packages                   |\r"
+    ],
+    [
+      0.000092,
+      "                                              \r"
+    ],
+    [
+      0.000013,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.018842,
+      "                                              \r"
+    ],
+    [
+      0.000020,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.000181,
+      "                                              \r"
+    ],
+    [
+      0.000007,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.008293,
+      "                                              \r"
+    ],
+    [
+      0.000011,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.000053,
+      "                                              \r"
+    ],
+    [
+      0.000011,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.000121,
+      "                                              \r"
+    ],
+    [
+      0.000010,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.005923,
+      "                                              \r"
+    ],
+    [
+      0.000009,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.000127,
+      "                                              \r   Building local packages                   |\r"
+    ],
+    [
+      0.006724,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.000206,
+      "                                              \r   Building local packages                   |\r"
+    ],
+    [
+      0.006414,
+      "                                              \r"
+    ],
+    [
+      0.000010,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.000092,
+      "                                              \r"
+    ],
+    [
+      0.000028,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.004057,
+      "                                              \r"
+    ],
+    [
+      0.000008,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.000096,
+      "                                              \r"
+    ],
+    [
+      0.000008,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.005417,
+      "                                              \r"
+    ],
+    [
+      0.000010,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.000091,
+      "                                              \r"
+    ],
+    [
+      0.000011,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.007022,
+      "                                              \r"
+    ],
+    [
+      0.000006,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.000048,
+      "                                              \r"
+    ],
+    [
+      0.000006,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.008765,
+      "                                              \r   Building local packages                   |\r"
+    ],
+    [
+      0.000239,
+      "                                              \r"
+    ],
+    [
+      0.000006,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.004002,
+      "                                              \r"
+    ],
+    [
+      0.000010,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.000154,
+      "                                              \r"
+    ],
+    [
+      0.000008,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.010946,
+      "                                              \r"
+    ],
+    [
+      0.000009,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.000035,
+      "                                              \r"
+    ],
+    [
+      0.000004,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.000096,
+      "                                              \r"
+    ],
+    [
+      0.000006,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.007798,
+      "                                              \r"
+    ],
+    [
+      0.000010,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.000335,
+      "                                              \r"
+    ],
+    [
+      0.000007,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.006407,
+      "                                              \r"
+    ],
+    [
+      0.000009,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.000125,
+      "                                              \r"
+    ],
+    [
+      0.000009,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.010956,
+      "                                              \r"
+    ],
+    [
+      0.000008,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.000082,
+      "                                              \r"
+    ],
+    [
+      0.000005,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.015952,
+      "                                              \r   Building local packages                   |\r"
+    ],
+    [
+      0.000076,
+      "                                              \r"
+    ],
+    [
+      0.000007,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.008345,
+      "                                              \r   Building local packages                   |\r                                              \r   Building local packages                   |\r"
+    ],
+    [
+      0.000535,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.006951,
+      "                                              \r"
+    ],
+    [
+      0.000015,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.000099,
+      "                                              \r"
+    ],
+    [
+      0.000007,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.039739,
+      "                                              \r"
+    ],
+    [
+      0.000011,
+      "   Building local packages                   /\r"
+    ],
+    [
+      0.000107,
+      "                                              \r   Building local packages                   /\r"
+    ],
+    [
+      0.004982,
+      "                                              \r   Building local packages                   /\r"
+    ],
+    [
+      0.000049,
+      "                                              \r"
+    ],
+    [
+      0.000010,
+      "   Building local packages                   /\r"
+    ],
+    [
+      0.000362,
+      "                                              \r   Building local packages                   /\r"
+    ],
+    [
+      0.004781,
+      "                                              \r"
+    ],
+    [
+      0.000009,
+      "   Building local packages                   /\r"
+    ],
+    [
+      0.000145,
+      "                                              \r"
+    ],
+    [
+      0.000009,
+      "   Building local packages                   /\r"
+    ],
+    [
+      0.006073,
+      "                                              \r"
+    ],
+    [
+      0.000009,
+      "   Building local packages                   /\r"
+    ],
+    [
+      0.000148,
+      "                                              \r"
+    ],
+    [
+      0.000008,
+      "   Building local packages                   /\r"
+    ],
+    [
+      0.005090,
+      "                                              \r"
+    ],
+    [
+      0.000013,
+      "   Building local packages                   /\r"
+    ],
+    [
+      0.000318,
+      "                                              \r"
+    ],
+    [
+      0.000006,
+      "   Building local packages                   /\r"
+    ],
+    [
+      0.006319,
+      "                                              \r"
+    ],
+    [
+      0.000006,
+      "   Building local packages                   /\r"
+    ],
+    [
+      0.000134,
+      "                                              \r"
+    ],
+    [
+      0.000006,
+      "   Building local packages                   /\r"
+    ],
+    [
+      0.003547,
+      "                                              \r"
+    ],
+    [
+      0.000008,
+      "   Building local packages                   /\r"
+    ],
+    [
+      0.000474,
+      "                                              \r"
+    ],
+    [
+      0.000008,
+      "   Building local packages                   /\r"
+    ],
+    [
+      0.002808,
+      "                                              \r"
+    ],
+    [
+      0.000007,
+      "   Building local packages                   /\r"
+    ],
+    [
+      0.000130,
+      "                                              \r"
+    ],
+    [
+      0.000005,
+      "   Building local packages                   /\r"
+    ],
+    [
+      0.003235,
+      "                                              \r"
+    ],
+    [
+      0.000007,
+      "   Building local packages                   /\r"
+    ],
+    [
+      0.000080,
+      "                                              \r"
+    ],
+    [
+      0.000005,
+      "   Building local packages                   /\r"
+    ],
+    [
+      0.004473,
+      "                                              \r"
+    ],
+    [
+      0.000008,
+      "   Building local packages                   /\r"
+    ],
+    [
+      0.000084,
+      "                                              \r"
+    ],
+    [
+      0.000006,
+      "   Building local packages                   /\r"
+    ],
+    [
+      0.005558,
+      "                                              \r"
+    ],
+    [
+      0.000025,
+      "   Building local packages                   /\r"
+    ],
+    [
+      0.000105,
+      "                                              \r"
+    ],
+    [
+      0.000007,
+      "   Building local packages                   /\r"
+    ],
+    [
+      0.008132,
+      "                                              \r"
+    ],
+    [
+      0.000024,
+      "   Building local packages                   /\r"
+    ],
+    [
+      0.000026,
+      "                                              \r"
+    ],
+    [
+      0.000006,
+      "   Building local packages                   /\r"
+    ],
+    [
+      0.000161,
+      "                                              \r"
+    ],
+    [
+      0.000009,
+      "   Building local packages                   /\r"
+    ],
+    [
+      0.006155,
+      "                                              \r"
+    ],
+    [
+      0.000005,
+      "   Building local packages                   /\r"
+    ],
+    [
+      0.000064,
+      "                                              \r"
+    ],
+    [
+      0.000006,
+      "   Building local packages                   /\r"
+    ],
+    [
+      0.005368,
+      "                                              \r"
+    ],
+    [
+      0.000008,
+      "   Building local packages                   /\r"
+    ],
+    [
+      0.000139,
+      "                                              \r"
+    ],
+    [
+      0.000008,
+      "   Building local packages                   /\r"
+    ],
+    [
+      0.003688,
+      "                                              \r"
+    ],
+    [
+      0.000008,
+      "   Building local packages                   /\r"
+    ],
+    [
+      0.000192,
+      "                                              \r"
+    ],
+    [
+      0.000008,
+      "   Building local packages                   /\r"
+    ],
+    [
+      0.003850,
+      "                                              \r"
+    ],
+    [
+      0.000009,
+      "   Building local packages                   /\r"
+    ],
+    [
+      0.000610,
+      "                                              \r"
+    ],
+    [
+      0.000008,
+      "   Building local packages                   /\r"
+    ],
+    [
+      0.005897,
+      "                                              \r"
+    ],
+    [
+      0.000009,
+      "   Building local packages                   /\r"
+    ],
+    [
+      0.000184,
+      "                                              \r"
+    ],
+    [
+      0.000010,
+      "   Building local packages                   /\r"
+    ],
+    [
+      0.006250,
+      "                                              \r"
+    ],
+    [
+      0.000007,
+      "   Building local packages                   /\r"
+    ],
+    [
+      0.000094,
+      "                                              \r"
+    ],
+    [
+      0.000021,
+      "   Building local packages                   /\r"
+    ],
+    [
+      0.004806,
+      "                                              \r"
+    ],
+    [
+      0.000006,
+      "   Building local packages                   /\r"
+    ],
+    [
+      0.000077,
+      "                                              \r"
+    ],
+    [
+      0.000007,
+      "   Building local packages                   /\r"
+    ],
+    [
+      0.005140,
+      "                                              \r"
+    ],
+    [
+      0.000008,
+      "   Building local packages                   /\r"
+    ],
+    [
+      0.000184,
+      "                                              \r   Building local packages                   /\r"
+    ],
+    [
+      0.007011,
+      "                                              \r"
+    ],
+    [
+      0.000008,
+      "   Building local packages                   /\r"
+    ],
+    [
+      0.000134,
+      "                                              \r"
+    ],
+    [
+      0.000031,
+      "   Building local packages                   /\r"
+    ],
+    [
+      0.000361,
+      "                                              \r"
+    ],
+    [
+      0.000006,
+      "   Building local packages                   /\r"
+    ],
+    [
+      0.003867,
+      "                                              \r"
+    ],
+    [
+      0.000020,
+      "todos: created.\r\n\r\n"
+    ],
+    [
+      0.000190,
+      "                                              \r"
+    ],
+    [
+      0.000007,
+      "   Building local packages                   /\r"
+    ],
+    [
+      0.000328,
+      "                                              \r"
+    ],
+    [
+      0.000031,
+      "To run your new app:\r\n"
+    ],
+    [
+      0.000042,
+      "                                              \r"
+    ],
+    [
+      0.000006,
+      "   Building local packages                   /\r"
+    ],
+    [
+      0.000318,
+      "                                              \r"
+    ],
+    [
+      0.000006,
+      "  cd todos\r\n"
+    ],
+    [
+      0.000022,
+      "                                              \r"
+    ],
+    [
+      0.000005,
+      "   Building local packages                   /\r"
+    ],
+    [
+      0.000087,
+      "                                              \r"
+    ],
+    [
+      0.000005,
+      "  meteor\r\n"
+    ],
+    [
+      0.000019,
+      "                                              \r"
+    ],
+    [
+      0.000004,
+      "   Building local packages                   /\r"
+    ],
+    [
+      0.000082,
+      "                                              \r"
+    ],
+    [
+      0.014020,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000099,
+      "\u001b]2;daniel@daniel: ~/glsec\u0007"
+    ],
+    [
+      0.000030,
+      "\u001b]1;~/glsec\u0007"
+    ],
+    [
+      0.000085,
+      "\u001b]7;file:///Users/daniel/glsec\u0007"
+    ],
+    [
+      0.011798,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36mglsec \u001b[01;34m\u001b[01;34m \u001b[00m\u001b[K"
+    ],
+    [
+      0.000038,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.631101,
+      "c"
+    ],
+    [
+      0.141853,
+      "\u0008cd"
+    ],
+    [
+      0.106368,
+      "\u0008\u0008\u001b[32mc\u001b[32md\u001b[39m "
+    ],
+    [
+      0.205805,
+      "t"
+    ],
+    [
+      0.098821,
+      "o"
+    ],
+    [
+      0.144931,
+      "d"
+    ],
+    [
+      0.111234,
+      "o"
+    ],
+    [
+      0.217746,
+      "s"
+    ],
+    [
+      0.423493,
+      "\u0008\u0008\u0008\u0008\u0008\u001b[4mt\u001b[4mo\u001b[4md\u001b[4mo\u001b[4ms\u001b[24m"
+    ],
+    [
+      0.000012,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000134,
+      "\r\r\n"
+    ],
+    [
+      0.001359,
+      "\u001b]2;cd todos\u0007"
+    ],
+    [
+      0.000011,
+      "\u001b]1;cd\u0007"
+    ],
+    [
+      0.035166,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000099,
+      "\u001b]2;daniel@daniel: ~/glsec/todos\u0007\u001b]1;~/glsec/todos\u0007"
+    ],
+    [
+      0.000013,
+      "\u001b]7;file:///Users/daniel/glsec/todos\u0007"
+    ],
+    [
+      0.014214,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36mtodos \u001b[01;34m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000007,
+      "\u001b[K"
+    ],
+    [
+      0.000053,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.360872,
+      "m"
+    ],
+    [
+      0.147690,
+      "\u0008me"
+    ],
+    [
+      0.123930,
+      "t"
+    ],
+    [
+      0.166987,
+      "e"
+    ],
+    [
+      0.445992,
+      "o"
+    ],
+    [
+      0.727904,
+      "r"
+    ],
+    [
+      1.467357,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u001b[32mm\u001b[32me\u001b[32mt\u001b[32me\u001b[32mo\u001b[32mr\u001b[39m"
+    ],
+    [
+      0.000011,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000049,
+      "\r\r\n"
+    ],
+    [
+      0.001337,
+      "\u001b]2;meteor\u0007\u001b]1;meteor\u0007"
+    ],
+    [
+      0.300970,
+      "\r"
+    ],
+    [
+      0.000162,
+      "   Preparing project                         -\r"
+    ],
+    [
+      0.000301,
+      "                                              \r   Preparing project                         -\r"
+    ],
+    [
+      0.000287,
+      "                                              \r   Preparing project                         -\r"
+    ],
+    [
+      0.045679,
+      "                                              \r"
+    ],
+    [
+      0.000008,
+      "[[[[[ ~/glsec/todos ]]]]]\r\n\r\n"
+    ],
+    [
+      0.000036,
+      "                                              \r"
+    ],
+    [
+      0.000004,
+      "   Preparing project                         -\r"
+    ],
+    [
+      0.000273,
+      "                                              \r"
+    ],
+    [
+      0.000020,
+      "=\u003e Started proxy.\r\n"
+    ],
+    [
+      0.000027,
+      "                                              \r"
+    ],
+    [
+      0.000006,
+      "   Preparing project                         -\r"
+    ],
+    [
+      0.004709,
+      "                                              \r"
+    ],
+    [
+      0.000008,
+      "   Looking for packages                      -\r"
+    ],
+    [
+      0.000777,
+      "                                              \r"
+    ],
+    [
+      0.000017,
+      "   Looking for packages                      -\r"
+    ],
+    [
+      0.298903,
+      "                                              \r"
+    ],
+    [
+      0.000067,
+      "   Selecting package versions                \\\r"
+    ],
+    [
+      0.000133,
+      "                                              \r"
+    ],
+    [
+      0.000223,
+      "   Selecting package versions                \\\r"
+    ],
+    [
+      0.054869,
+      "                                              \r"
+    ],
+    [
+      0.000008,
+      "   Selecting package versions                \\\r"
+    ],
+    [
+      0.064988,
+      "                                              \r"
+    ],
+    [
+      0.000008,
+      "   Selecting package versions                \\\r"
+    ],
+    [
+      0.067293,
+      "                                              \r"
+    ],
+    [
+      0.000025,
+      "   Selecting package versions                |\r"
+    ],
+    [
+      0.076098,
+      "                                              \r"
+    ],
+    [
+      0.000024,
+      "   Selecting package versions                |\r"
+    ],
+    [
+      0.062092,
+      "                                              \r"
+    ],
+    [
+      0.000009,
+      "   Selecting package versions                |\r"
+    ],
+    [
+      0.635850,
+      "                                              \r"
+    ],
+    [
+      0.000008,
+      "   Selecting package versions                \\\r"
+    ],
+    [
+      0.053915,
+      "                                              \r"
+    ],
+    [
+      0.000008,
+      "   Selecting package versions                \\\r"
+    ],
+    [
+      0.051479,
+      "                                              \r"
+    ],
+    [
+      0.000009,
+      "   Selecting package versions                \\\r"
+    ],
+    [
+      0.051674,
+      "                                              \r"
+    ],
+    [
+      0.000008,
+      "   Selecting package versions                \\\r"
+    ],
+    [
+      0.051686,
+      "                                              \r"
+    ],
+    [
+      0.000009,
+      "   Selecting package versions                |\r"
+    ],
+    [
+      0.051504,
+      "                                              \r"
+    ],
+    [
+      0.000009,
+      "   Selecting package versions                |\r"
+    ],
+    [
+      0.054763,
+      "                                              \r"
+    ],
+    [
+      0.000008,
+      "   Selecting package versions                |\r"
+    ],
+    [
+      0.052276,
+      "                                              \r"
+    ],
+    [
+      0.000019,
+      "   Selecting package versions                |\r"
+    ],
+    [
+      0.053699,
+      "                                              \r"
+    ],
+    [
+      0.000009,
+      "   Selecting package versions                /\r"
+    ],
+    [
+      0.055892,
+      "                                              \r"
+    ],
+    [
+      0.000009,
+      "   Selecting package versions                /\r"
+    ],
+    [
+      0.049652,
+      "                                              \r   Selecting package versions                /\r"
+    ],
+    [
+      0.050093,
+      "                                              \r"
+    ],
+    [
+      0.000010,
+      "   Selecting package versions                /\r"
+    ],
+    [
+      0.359590,
+      "                                              \r"
+    ],
+    [
+      0.000028,
+      "   Selecting package versions                \\\r"
+    ],
+    [
+      0.117139,
+      "                                              \r"
+    ],
+    [
+      0.000007,
+      "   Selecting package versions                \\\r"
+    ],
+    [
+      0.043322,
+      "                                              \r"
+    ],
+    [
+      0.000008,
+      "   Selecting package versions                \\\r"
+    ],
+    [
+      0.006307,
+      "                                              \r"
+    ],
+    [
+      0.000008,
+      "   Downloading missing packages              \\\r"
+    ],
+    [
+      0.000041,
+      "                                              \r"
+    ],
+    [
+      0.000005,
+      "   Downloading missing packages              \\\r"
+    ],
+    [
+      0.000057,
+      "                                              \r"
+    ],
+    [
+      0.000004,
+      "   Downloading missing packages              \\\r"
+    ],
+    [
+      0.000420,
+      "                                              \r"
+    ],
+    [
+      0.000005,
+      "   Downloading missing packages              \\\r"
+    ],
+    [
+      0.000061,
+      "                                              \r"
+    ],
+    [
+      0.000007,
+      "   Downloading missing packages              \\\r"
+    ],
+    [
+      0.000671,
+      "                                              \r"
+    ],
+    [
+      0.000006,
+      "   Downloading missing packages              \\\r"
+    ],
+    [
+      0.000053,
+      "                                              \r"
+    ],
+    [
+      0.000015,
+      "   Downloading missing packages              \\\r"
+    ],
+    [
+      0.000411,
+      "                                              \r"
+    ],
+    [
+      0.000005,
+      "   Downloading missing packages              \\\r"
+    ],
+    [
+      0.000057,
+      "                                              \r"
+    ],
+    [
+      0.000005,
+      "   Downloading missing packages              \\\r"
+    ],
+    [
+      0.000409,
+      "                                              \r"
+    ],
+    [
+      0.000005,
+      "   Downloading missing packages              \\\r"
+    ],
+    [
+      0.000059,
+      "                                              \r"
+    ],
+    [
+      0.000007,
+      "   Downloading missing packages              \\\r"
+    ],
+    [
+      0.000764,
+      "                                              \r"
+    ],
+    [
+      0.000007,
+      "   Downloading missing packages              \\\r"
+    ],
+    [
+      0.000088,
+      "                                              \r"
+    ],
+    [
+      0.000005,
+      "   Downloading missing packages              \\\r"
+    ],
+    [
+      0.000570,
+      "                                              \r"
+    ],
+    [
+      0.000005,
+      "   Downloading missing packages              \\\r"
+    ],
+    [
+      0.000552,
+      "                                              \r"
+    ],
+    [
+      0.000005,
+      "   Downloading missing packages              \\\r"
+    ],
+    [
+      0.000691,
+      "                                              \r   Downloading missing packages              \\\r"
+    ],
+    [
+      0.000037,
+      "                                              \r"
+    ],
+    [
+      0.000044,
+      "   Downloading missing packages              \\\r"
+    ],
+    [
+      0.000717,
+      "                                              \r   Downloading missing packages              \\\r"
+    ],
+    [
+      0.000040,
+      "                                              \r"
+    ],
+    [
+      0.000005,
+      "   Downloading missing packages              \\\r"
+    ],
+    [
+      0.000784,
+      "                                              \r   Downloading missing packages              \\\r"
+    ],
+    [
+      0.000050,
+      "                                              \r"
+    ],
+    [
+      0.000018,
+      "   Downloading missing packages              \\\r"
+    ],
+    [
+      0.001897,
+      "                                              \r"
+    ],
+    [
+      0.000211,
+      "   Downloading missing packages              \\\r"
+    ],
+    [
+      0.000068,
+      "                                              \r"
+    ],
+    [
+      0.000015,
+      "   Downloading missing packages              \\\r"
+    ],
+    [
+      0.000790,
+      "                                              \r   Downloading missing packages              \\\r"
+    ],
+    [
+      0.000035,
+      "                                              \r"
+    ],
+    [
+      0.000004,
+      "   Downloading missing packages              \\\r"
+    ],
+    [
+      0.000547,
+      "                                              \r   Downloading missing packages              \\\r"
+    ],
+    [
+      0.000048,
+      "                                              \r   Downloading missing packages              \\\r"
+    ],
+    [
+      0.000451,
+      "                                              \r   Downloading missing packages              \\\r"
+    ],
+    [
+      0.000051,
+      "                                              \r"
+    ],
+    [
+      0.000026,
+      "   Downloading missing packages              \\\r"
+    ],
+    [
+      0.000512,
+      "                                              \r   Downloading missing packages              \\\r"
+    ],
+    [
+      0.000038,
+      "                                              \r"
+    ],
+    [
+      0.000004,
+      "   Downloading missing packages              \\\r"
+    ],
+    [
+      0.000462,
+      "                                              \r   Downloading missing packages              \\\r"
+    ],
+    [
+      0.000044,
+      "                                              \r"
+    ],
+    [
+      0.000006,
+      "   Downloading missing packages              \\\r"
+    ],
+    [
+      0.000548,
+      "                                              \r"
+    ],
+    [
+      0.000005,
+      "   Downloading missing packages              \\\r"
+    ],
+    [
+      0.000058,
+      "                                              \r"
+    ],
+    [
+      0.000005,
+      "   Downloading missing packages              \\\r"
+    ],
+    [
+      0.000676,
+      "                                              \r   Downloading missing packages              \\\r"
+    ],
+    [
+      0.000046,
+      "                                              \r"
+    ],
+    [
+      0.000005,
+      "   Downloading missing packages              \\\r"
+    ],
+    [
+      0.000510,
+      "                                              \r   Downloading missing packages              \\\r"
+    ],
+    [
+      0.000038,
+      "                                              \r"
+    ],
+    [
+      0.000006,
+      "   Downloading missing packages              \\\r"
+    ],
+    [
+      0.000432,
+      "                                              \r   Downloading missing packages              \\\r"
+    ],
+    [
+      0.000046,
+      "                                              \r"
+    ],
+    [
+      0.000032,
+      "   Downloading missing packages              \\\r"
+    ],
+    [
+      0.001247,
+      "                                              \r   Downloading missing packages              \\\r"
+    ],
+    [
+      0.000277,
+      "                                              \r   Downloading missing packages              \\\r"
+    ],
+    [
+      0.000696,
+      "                                              \r"
+    ],
+    [
+      0.000007,
+      "   Downloading missing packages              \\\r"
+    ],
+    [
+      0.000087,
+      "                                              \r"
+    ],
+    [
+      0.000005,
+      "   Downloading missing packages              \\\r"
+    ],
+    [
+      0.000524,
+      "                                              \r"
+    ],
+    [
+      0.000347,
+      "   Downloading missing packages              \\\r"
+    ],
+    [
+      0.000081,
+      "                                              \r"
+    ],
+    [
+      0.000004,
+      "   Downloading missing packages              \\\r"
+    ],
+    [
+      0.000508,
+      "                                              \r"
+    ],
+    [
+      0.000006,
+      "   Downloading missing packages              \\\r"
+    ],
+    [
+      0.000170,
+      "                                              \r   Downloading missing packages              \\\r"
+    ],
+    [
+      0.000547,
+      "                                              \r"
+    ],
+    [
+      0.000005,
+      "   Downloading missing packages              \\\r"
+    ],
+    [
+      0.000077,
+      "                                              \r"
+    ],
+    [
+      0.000005,
+      "   Downloading missing packages              \\\r"
+    ],
+    [
+      0.000452,
+      "                                              \r"
+    ],
+    [
+      0.000005,
+      "   Downloading missing packages              \\\r"
+    ],
+    [
+      0.000105,
+      "                                              \r"
+    ],
+    [
+      0.000009,
+      "   Downloading missing packages              \\\r"
+    ],
+    [
+      0.000489,
+      "                                              \r"
+    ],
+    [
+      0.000005,
+      "   Downloading missing packages              \\\r"
+    ],
+    [
+      0.000076,
+      "                                              \r"
+    ],
+    [
+      0.000041,
+      "   Downloading missing packages              \\\r"
+    ],
+    [
+      0.000438,
+      "                                              \r"
+    ],
+    [
+      0.000023,
+      "   Downloading missing packages              \\\r"
+    ],
+    [
+      0.000055,
+      "                                              \r   Downloading missing packages              \\\r"
+    ],
+    [
+      0.000497,
+      "                                              \r"
+    ],
+    [
+      0.000005,
+      "   Downloading missing packages              \\\r"
+    ],
+    [
+      0.000103,
+      "                                              \r   Downloading missing packages              \\\r"
+    ],
+    [
+      0.000420,
+      "                                              \r"
+    ],
+    [
+      0.000005,
+      "   Downloading missing packages              \\\r"
+    ],
+    [
+      0.000196,
+      "                                              \r"
+    ],
+    [
+      0.000006,
+      "   Downloading missing packages              \\\r"
+    ],
+    [
+      0.000687,
+      "                                              \r"
+    ],
+    [
+      0.000005,
+      "   Downloading missing packages              \\\r"
+    ],
+    [
+      0.000054,
+      "                                              \r"
+    ],
+    [
+      0.000005,
+      "   Downloading missing packages              \\\r"
+    ],
+    [
+      0.000637,
+      "                                              \r   Downloading missing packages              \\\r"
+    ],
+    [
+      0.000047,
+      "                                              \r"
+    ],
+    [
+      0.000005,
+      "   Downloading missing packages              \\\r"
+    ],
+    [
+      0.000592,
+      "                                              \r   Downloading missing packages              \\\r"
+    ],
+    [
+      0.000051,
+      "                                              \r   Downloading missing packages              \\\r"
+    ],
+    [
+      0.000502,
+      "                                              \r"
+    ],
+    [
+      0.000006,
+      "   Downloading missing packages              \\\r"
+    ],
+    [
+      0.000058,
+      "                                              \r"
+    ],
+    [
+      0.000005,
+      "   Downloading missing packages              \\\r"
+    ],
+    [
+      0.000905,
+      "                                              \r"
+    ],
+    [
+      0.000006,
+      "   Downloading missing packages              \\\r"
+    ],
+    [
+      0.000062,
+      "                                              \r"
+    ],
+    [
+      0.000007,
+      "   Downloading missing packages              \\\r"
+    ],
+    [
+      0.000858,
+      "                                              \r   Downloading missing packages              \\\r"
+    ],
+    [
+      0.000042,
+      "                                              \r"
+    ],
+    [
+      0.000006,
+      "   Downloading missing packages              \\\r"
+    ],
+    [
+      0.000492,
+      "                                              \r   Downloading missing packages              \\\r"
+    ],
+    [
+      0.000059,
+      "                                              \r"
+    ],
+    [
+      0.000018,
+      "   Downloading missing packages              \\\r"
+    ],
+    [
+      0.000514,
+      "                                              \r   Downloading missing packages              \\\r"
+    ],
+    [
+      0.000054,
+      "                                              \r"
+    ],
+    [
+      0.000024,
+      "   Downloading missing packages              \\\r"
+    ],
+    [
+      0.000772,
+      "                                              \r   Downloading missing packages              \\\r"
+    ],
+    [
+      0.000040,
+      "                                              \r"
+    ],
+    [
+      0.000026,
+      "   Downloading missing packages              \\\r"
+    ],
+    [
+      0.000535,
+      "                                              \r   Downloading missing packages              \\\r"
+    ],
+    [
+      0.000033,
+      "                                              \r"
+    ],
+    [
+      0.000004,
+      "   Downloading missing packages              \\\r"
+    ],
+    [
+      0.000463,
+      "                                              \r   Downloading missing packages              \\\r"
+    ],
+    [
+      0.000037,
+      "                                              \r"
+    ],
+    [
+      0.000027,
+      "   Downloading missing packages              \\\r"
+    ],
+    [
+      0.000480,
+      "                                              \r   Downloading missing packages              \\\r"
+    ],
+    [
+      0.000051,
+      "                                              \r"
+    ],
+    [
+      0.000026,
+      "   Downloading missing packages              \\\r"
+    ],
+    [
+      0.000428,
+      "                                              \r   Downloading missing packages              \\\r"
+    ],
+    [
+      0.000328,
+      "                                              \r   Downloading missing packages              \\\r"
+    ],
+    [
+      0.000434,
+      "                                              \r   Downloading missing packages              \\\r"
+    ],
+    [
+      0.000037,
+      "                                              \r"
+    ],
+    [
+      0.000005,
+      "   Downloading missing packages              \\\r"
+    ],
+    [
+      0.000465,
+      "                                              \r   Downloading missing packages              \\\r"
+    ],
+    [
+      0.000052,
+      "                                              \r"
+    ],
+    [
+      0.000026,
+      "   Downloading missing packages              \\\r"
+    ],
+    [
+      0.005835,
+      "                                              \r"
+    ],
+    [
+      0.000013,
+      "   Downloading missing packages              \\\r"
+    ],
+    [
+      0.000155,
+      "                                              \r"
+    ],
+    [
+      0.000089,
+      "   Downloading missing packages              \\\r"
+    ],
+    [
+      0.001230,
+      "                                              \r"
+    ],
+    [
+      0.000006,
+      "   Downloading missing packages              \\\r"
+    ],
+    [
+      0.000045,
+      "                                              \r"
+    ],
+    [
+      0.000004,
+      "   Downloading missing packages              \\\r"
+    ],
+    [
+      0.000425,
+      "                                              \r"
+    ],
+    [
+      0.000005,
+      "   Downloading missing packages              \\\r"
+    ],
+    [
+      0.000057,
+      "                                              \r"
+    ],
+    [
+      0.000005,
+      "   Downloading missing packages              \\\r"
+    ],
+    [
+      0.000400,
+      "                                              \r"
+    ],
+    [
+      0.000005,
+      "   Downloading missing packages              \\\r"
+    ],
+    [
+      0.000058,
+      "                                              \r"
+    ],
+    [
+      0.000004,
+      "   Downloading missing packages              \\\r"
+    ],
+    [
+      0.000394,
+      "                                              \r"
+    ],
+    [
+      0.000005,
+      "   Downloading missing packages              \\\r"
+    ],
+    [
+      0.000482,
+      "                                              \r"
+    ],
+    [
+      0.000006,
+      "   Downloading missing packages              \\\r"
+    ],
+    [
+      0.000455,
+      "                                              \r"
+    ],
+    [
+      0.000006,
+      "   Downloading missing packages              \\\r"
+    ],
+    [
+      0.000702,
+      "                                              \r"
+    ],
+    [
+      0.000004,
+      "   Downloading missing packages              \\\r"
+    ],
+    [
+      0.000583,
+      "                                              \r"
+    ],
+    [
+      0.000004,
+      "   Downloading missing packages              \\\r"
+    ],
+    [
+      0.000669,
+      "                                              \r"
+    ],
+    [
+      0.000006,
+      "   Downloading missing packages              \\\r"
+    ],
+    [
+      0.010102,
+      "                                              \r   Building local packages                   \\\r                                              \r   Building local packages                   \\\r                                              \r   Building local packages                   \\\r"
+    ],
+    [
+      0.007010,
+      "                                              \r   Building local packages                   \\\r"
+    ],
+    [
+      0.000705,
+      "                                              \r   Building local packages                   \\\r"
+    ],
+    [
+      0.003284,
+      "                                              \r   Building local packages                   |\r                                              \r   Building local packages                   |\r"
+    ],
+    [
+      0.003177,
+      "                                              \r"
+    ],
+    [
+      0.000008,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.000054,
+      "                                              \r"
+    ],
+    [
+      0.000004,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.002754,
+      "                                              \r"
+    ],
+    [
+      0.000008,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.000062,
+      "                                              \r"
+    ],
+    [
+      0.000039,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.002691,
+      "                                              \r"
+    ],
+    [
+      0.000007,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.000053,
+      "                                              \r"
+    ],
+    [
+      0.000005,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.002615,
+      "                                              \r"
+    ],
+    [
+      0.000006,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.000080,
+      "                                              \r"
+    ],
+    [
+      0.000015,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.002257,
+      "                                              \r"
+    ],
+    [
+      0.000008,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.000085,
+      "                                              \r"
+    ],
+    [
+      0.000011,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.005020,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.000165,
+      "                                              \r"
+    ],
+    [
+      0.000008,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.003075,
+      "                                              \r"
+    ],
+    [
+      0.000007,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.000028,
+      "                                              \r"
+    ],
+    [
+      0.000004,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.003076,
+      "                                              \r   Building local packages                   |\r"
+    ],
+    [
+      0.000035,
+      "                                              \r"
+    ],
+    [
+      0.000004,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.003410,
+      "                                              \r"
+    ],
+    [
+      0.000006,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.000062,
+      "                                              \r"
+    ],
+    [
+      0.000005,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.004107,
+      "                                              \r"
+    ],
+    [
+      0.000009,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.000062,
+      "                                              \r"
+    ],
+    [
+      0.000005,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.002866,
+      "                                              \r"
+    ],
+    [
+      0.000007,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.000167,
+      "                                              \r"
+    ],
+    [
+      0.000006,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.002085,
+      "                                              \r"
+    ],
+    [
+      0.000007,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.000038,
+      "                                              \r"
+    ],
+    [
+      0.000004,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.000085,
+      "                                              \r   Building local packages                   |\r"
+    ],
+    [
+      0.004212,
+      "                                              \r   Building local packages                   |\r"
+    ],
+    [
+      0.000046,
+      "                                              \r"
+    ],
+    [
+      0.000045,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.004014,
+      "                                              \r"
+    ],
+    [
+      0.000009,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.000126,
+      "                                              \r"
+    ],
+    [
+      0.000006,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.004037,
+      "                                              \r   Building local packages                   |\r"
+    ],
+    [
+      0.000349,
+      "                                              \r   Building local packages                   |\r"
+    ],
+    [
+      0.005252,
+      "                                              \r"
+    ],
+    [
+      0.000008,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.000102,
+      "                                              \r"
+    ],
+    [
+      0.000067,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.011970,
+      "                                              \r   Building local packages                   |\r"
+    ],
+    [
+      0.000035,
+      "                                              \r"
+    ],
+    [
+      0.000005,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.002432,
+      "                                              \r   Building local packages                   |\r                                              \r   Building local packages                   |\r"
+    ],
+    [
+      0.004020,
+      "                                              \r"
+    ],
+    [
+      0.000374,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.000338,
+      "                                              \r"
+    ],
+    [
+      0.000035,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.003228,
+      "                                              \r"
+    ],
+    [
+      0.000007,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.000057,
+      "                                              \r"
+    ],
+    [
+      0.000004,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.001721,
+      "                                              \r"
+    ],
+    [
+      0.000005,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.000068,
+      "                                              \r"
+    ],
+    [
+      0.000005,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.002797,
+      "                                              \r"
+    ],
+    [
+      0.000006,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.000044,
+      "                                              \r"
+    ],
+    [
+      0.000004,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.002500,
+      "                                              \r"
+    ],
+    [
+      0.000006,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.000066,
+      "                                              \r"
+    ],
+    [
+      0.000004,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.002876,
+      "                                              \r"
+    ],
+    [
+      0.000008,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.000130,
+      "                                              \r   Building local packages                   |\r"
+    ],
+    [
+      0.000137,
+      "                                              \r   Building local packages                   |\r"
+    ],
+    [
+      0.003316,
+      "                                              \r   Building local packages                   |\r"
+    ],
+    [
+      0.000068,
+      "                                              \r"
+    ],
+    [
+      0.000025,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.004126,
+      "                                              \r"
+    ],
+    [
+      0.000009,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.000140,
+      "                                              \r"
+    ],
+    [
+      0.000006,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.002519,
+      "                                              \r"
+    ],
+    [
+      0.000007,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.000052,
+      "                                              \r"
+    ],
+    [
+      0.000050,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.001649,
+      "                                              \r"
+    ],
+    [
+      0.000005,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.000108,
+      "                                              \r"
+    ],
+    [
+      0.000006,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.003810,
+      "                                              \r"
+    ],
+    [
+      0.000019,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.000247,
+      "                                              \r"
+    ],
+    [
+      0.000006,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.003240,
+      "                                              \r   Building local packages                   |\r"
+    ],
+    [
+      0.000042,
+      "                                              \r"
+    ],
+    [
+      0.000005,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.002924,
+      "                                              \r"
+    ],
+    [
+      0.000009,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.000088,
+      "                                              \r"
+    ],
+    [
+      0.000032,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.004036,
+      "                                              \r"
+    ],
+    [
+      0.000007,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.000042,
+      "                                              \r"
+    ],
+    [
+      0.000006,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.009484,
+      "                                              \r"
+    ],
+    [
+      0.000007,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.000036,
+      "                                              \r"
+    ],
+    [
+      0.000004,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.002589,
+      "                                              \r"
+    ],
+    [
+      0.000006,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.000325,
+      "                                              \r"
+    ],
+    [
+      0.000005,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.002287,
+      "                                              \r"
+    ],
+    [
+      0.000006,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.000068,
+      "                                              \r"
+    ],
+    [
+      0.000005,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.017262,
+      "                                              \r"
+    ],
+    [
+      0.000009,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.000054,
+      "                                              \r"
+    ],
+    [
+      0.000009,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.000125,
+      "                                              \r"
+    ],
+    [
+      0.000007,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.002348,
+      "                                              \r"
+    ],
+    [
+      0.000008,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.000112,
+      "                                              \r"
+    ],
+    [
+      0.000054,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.002007,
+      "                                              \r"
+    ],
+    [
+      0.000007,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.000129,
+      "                                              \r"
+    ],
+    [
+      0.000005,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.003249,
+      "                                              \r   Building local packages                   |\r"
+    ],
+    [
+      0.000051,
+      "                                              \r"
+    ],
+    [
+      0.000005,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.003223,
+      "                                              \r   Building local packages                   |\r"
+    ],
+    [
+      0.000234,
+      "                                              \r"
+    ],
+    [
+      0.000006,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.004710,
+      "                                              \r   Building local packages                   |\r"
+    ],
+    [
+      0.000087,
+      "                                              \r"
+    ],
+    [
+      0.000060,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.002220,
+      "                                              \r"
+    ],
+    [
+      0.000008,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.000061,
+      "                                              \r"
+    ],
+    [
+      0.000006,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.002560,
+      "                                              \r"
+    ],
+    [
+      0.000009,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.000086,
+      "                                              \r"
+    ],
+    [
+      0.000006,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.002797,
+      "                                              \r"
+    ],
+    [
+      0.000008,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.000112,
+      "                                              \r"
+    ],
+    [
+      0.000005,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.003719,
+      "                                              \r   Building local packages                   |\r"
+    ],
+    [
+      0.000080,
+      "                                              \r"
+    ],
+    [
+      0.000005,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.003790,
+      "                                              \r"
+    ],
+    [
+      0.000007,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.000047,
+      "                                              \r"
+    ],
+    [
+      0.000006,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.003152,
+      "                                              \r"
+    ],
+    [
+      0.000006,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.000160,
+      "                                              \r"
+    ],
+    [
+      0.000006,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.002706,
+      "                                              \r   Building local packages                   |\r"
+    ],
+    [
+      0.000051,
+      "                                              \r"
+    ],
+    [
+      0.000004,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.002975,
+      "                                              \r"
+    ],
+    [
+      0.000008,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.000051,
+      "                                              \r"
+    ],
+    [
+      0.000005,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.002479,
+      "                                              \r   Building local packages                   |\r"
+    ],
+    [
+      0.000525,
+      "                                              \r   Building local packages                   |\r"
+    ],
+    [
+      0.002386,
+      "                                              \r"
+    ],
+    [
+      0.000006,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.000230,
+      "                                              \r"
+    ],
+    [
+      0.000005,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.001835,
+      "                                              \r"
+    ],
+    [
+      0.000007,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.000161,
+      "                                              \r"
+    ],
+    [
+      0.000005,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.002958,
+      "                                              \r"
+    ],
+    [
+      0.000007,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.000031,
+      "                                              \r"
+    ],
+    [
+      0.000004,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.000100,
+      "                                              \r"
+    ],
+    [
+      0.000006,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.002416,
+      "                                              \r"
+    ],
+    [
+      0.000007,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.000131,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.002367,
+      "                                              \r"
+    ],
+    [
+      0.000008,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.000137,
+      "                                              \r"
+    ],
+    [
+      0.000005,
+      "   Building local packages                   |\r"
+    ],
+    [
+      0.003437,
+      "                                              \r   Building local packages                   |\r"
+    ],
+    [
+      0.000259,
+      "                                              \r   Building local packages                   |\r"
+    ],
+    [
+      0.357073,
+      "                                              \r"
+    ],
+    [
+      0.000010,
+      "   Loading plugin `compileLess` from pac...  -\r"
+    ],
+    [
+      0.059368,
+      "                                              \r"
+    ],
+    [
+      0.000009,
+      "   Loading plugin `compileLess` from pac...  -\r"
+    ],
+    [
+      0.073892,
+      "                                              \r   Loading plugin `compileLess` from pac...  -\r"
+    ],
+    [
+      0.000436,
+      "                                              \r   Loading plugin `compileLess` from pac...  -\r"
+    ],
+    [
+      0.069921,
+      "                                              \r"
+    ],
+    [
+      0.000008,
+      "   Loading plugin `compileTemplates` fro...  \\\r"
+    ],
+    [
+      0.000577,
+      "                                              \r"
+    ],
+    [
+      0.000006,
+      "=\u003e Started MongoDB.\r\n"
+    ],
+    [
+      0.000251,
+      "                                              \r"
+    ],
+    [
+      0.000006,
+      "   Loading plugin `compileTemplates` fro...  \\\r"
+    ],
+    [
+      0.331166,
+      "                                              \r"
+    ],
+    [
+      0.000013,
+      "   Building the application                  |\r"
+    ],
+    [
+      0.000035,
+      "                                              \r   Building the application                  |\r"
+    ],
+    [
+      0.016426,
+      "                                              \r"
+    ],
+    [
+      0.000008,
+      "   Building the application                  |\r"
+    ],
+    [
+      0.019119,
+      "                                              \r"
+    ],
+    [
+      0.000008,
+      "   Building the application                  |\r"
+    ],
+    [
+      0.014696,
+      "                                              \r"
+    ],
+    [
+      0.000009,
+      "   Building the application                  |\r"
+    ],
+    [
+      0.070771,
+      "                                              \r"
+    ],
+    [
+      0.000008,
+      "   Building the application                  |\r"
+    ],
+    [
+      0.050135,
+      "                                              \r"
+    ],
+    [
+      0.000008,
+      "   Building the application                  /\r"
+    ],
+    [
+      0.238664,
+      "                                              \r"
+    ],
+    [
+      0.000011,
+      "   Building the application                  -\r"
+    ],
+    [
+      0.056132,
+      "                                              \r"
+    ],
+    [
+      0.000007,
+      "   Building the application                  -\r"
+    ],
+    [
+      0.053599,
+      "                                              \r"
+    ],
+    [
+      0.000021,
+      "   Building the application                  -\r"
+    ],
+    [
+      0.049280,
+      "                                              \r"
+    ],
+    [
+      0.000009,
+      "   Building the application                  -\r"
+    ],
+    [
+      0.112010,
+      "                                              \r"
+    ],
+    [
+      0.000018,
+      "   Building the application                  \\\r"
+    ],
+    [
+      0.011829,
+      "                                              \r"
+    ],
+    [
+      0.000007,
+      "   Building the application                  \\\r"
+    ],
+    [
+      0.004392,
+      "                                              \r"
+    ],
+    [
+      0.000007,
+      "   Building the application                  \\\r"
+    ],
+    [
+      0.047209,
+      "                                              \r"
+    ],
+    [
+      0.000012,
+      "   Building the application                  \\\r"
+    ],
+    [
+      0.123990,
+      "                                              \r"
+    ],
+    [
+      0.000007,
+      "   Building the application                  \\\r"
+    ],
+    [
+      0.000010,
+      "                                              \r"
+    ],
+    [
+      0.000003,
+      "   Building the application                  \\\r"
+    ],
+    [
+      0.079425,
+      "                                              \r   Building the application                  |\r"
+    ],
+    [
+      0.005094,
+      "                                              \r   Building the application                  |\r"
+    ],
+    [
+      0.000045,
+      "                                              \r"
+    ],
+    [
+      0.000007,
+      "   Building the application                  |\r"
+    ],
+    [
+      0.086119,
+      "                                              \r"
+    ],
+    [
+      0.000008,
+      "   Building the application                  |\r"
+    ],
+    [
+      0.003453,
+      "                                              \r"
+    ],
+    [
+      0.000007,
+      "   Building the application                  |\r"
+    ],
+    [
+      0.000013,
+      "                                              \r"
+    ],
+    [
+      0.000004,
+      "   Building the application                  |\r"
+    ],
+    [
+      0.085919,
+      "                                              \r"
+    ],
+    [
+      0.000010,
+      "   Building the application                  |\r"
+    ],
+    [
+      0.049795,
+      "                                              \r"
+    ],
+    [
+      0.000009,
+      "   Building the application                  /\r"
+    ],
+    [
+      0.050076,
+      "                                              \r"
+    ],
+    [
+      0.000011,
+      "   Building the application                  /\r"
+    ],
+    [
+      0.049990,
+      "                                              \r"
+    ],
+    [
+      0.000009,
+      "   Building the application                  /\r"
+    ],
+    [
+      0.051724,
+      "                                              \r"
+    ],
+    [
+      0.000010,
+      "   Building the application                  /\r"
+    ],
+    [
+      0.018140,
+      "                                              \r"
+    ],
+    [
+      0.000010,
+      "   Building the application                  /\r"
+    ],
+    [
+      0.209577,
+      "                                              \r   Starting your app                         -\r"
+    ],
+    [
+      0.049643,
+      "                                              \r"
+    ],
+    [
+      0.000008,
+      "   Starting your app                         -\r"
+    ],
+    [
+      0.050059,
+      "                                              \r"
+    ],
+    [
+      0.000009,
+      "   Starting your app                         \\\r"
+    ],
+    [
+      0.028269,
+      "                                              \r"
+    ],
+    [
+      0.452156,
+      "=\u003e Started your app.\r\n"
+    ],
+    [
+      0.000164,
+      "\r\n"
+    ],
+    [
+      0.000314,
+      "=\u003e App running at: http://localhost:3000/\r\n"
+    ],
+    [
+      1.922527,
+      "^C"
+    ],
+    [
+      0.025796,
+      "\r\n"
+    ],
+    [
+      0.000161,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000221,
+      "\u001b]2;daniel@daniel: ~/glsec/todos\u0007"
+    ],
+    [
+      0.000051,
+      "\u001b]1;~/glsec/todos\u0007"
+    ],
+    [
+      0.000110,
+      "\u001b]7;file:///Users/daniel/glsec/todos\u0007"
+    ],
+    [
+      0.011939,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;31m➜ \u001b[27m\u001b[01;32m \u001b[36mtodos \u001b[01;34m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000008,
+      "\u001b[K"
+    ],
+    [
+      0.000081,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.537657,
+      "\r\r\n"
+    ]
+  ]
+}
