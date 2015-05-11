@@ -1,0 +1,314 @@
+{
+  "version": 1,
+  "width": 89,
+  "height": 23,
+  "duration": 101.006698,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.006412,
+      "\u001b[?1034h"
+    ],
+    [
+      0.000006,
+      "bash-3.2$ "
+    ],
+    [
+      1.487493,
+      "g"
+    ],
+    [
+      0.175544,
+      "i"
+    ],
+    [
+      0.175976,
+      "t"
+    ],
+    [
+      0.128037,
+      " "
+    ],
+    [
+      1.215989,
+      "p"
+    ],
+    [
+      0.143867,
+      "u"
+    ],
+    [
+      0.079979,
+      "s"
+    ],
+    [
+      0.103956,
+      "h"
+    ],
+    [
+      0.088167,
+      " "
+    ],
+    [
+      0.103897,
+      "d"
+    ],
+    [
+      0.096145,
+      "o"
+    ],
+    [
+      0.139986,
+      "k"
+    ],
+    [
+      0.139862,
+      "k"
+    ],
+    [
+      0.192116,
+      "u"
+    ],
+    [
+      0.111998,
+      " "
+    ],
+    [
+      0.096111,
+      "m"
+    ],
+    [
+      0.071833,
+      "a"
+    ],
+    [
+      0.095983,
+      "s"
+    ],
+    [
+      0.144225,
+      "t"
+    ],
+    [
+      0.039780,
+      "e"
+    ],
+    [
+      0.104118,
+      "r"
+    ],
+    [
+      0.096022,
+      " "
+    ],
+    [
+      0.143894,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.775833,
+      "\r\n"
+    ],
+    [
+      4.318063,
+      "Counting objects: 3, done.\r\n"
+    ],
+    [
+      0.000250,
+      "Delta compression using up to 8 threads.\r\n"
+    ],
+    [
+      0.000135,
+      "Compressing objects:  33% (1/3)   \r"
+    ],
+    [
+      0.000199,
+      "Compressing objects:  66% (2/3)   \r"
+    ],
+    [
+      0.000057,
+      "Compressing objects: 100% (3/3)   \r"
+    ],
+    [
+      0.000079,
+      "Compressing objects: 100% (3/3), done.\r\n"
+    ],
+    [
+      0.000301,
+      "Writing objects:  33% (1/3)   \r"
+    ],
+    [
+      0.000022,
+      "Writing objects:  66% (2/3)   \rWriting objects: 100% (3/3)   \r"
+    ],
+    [
+      0.000059,
+      "Writing objects: 100% (3/3), 291 bytes | 0 bytes/s, done.\r\n"
+    ],
+    [
+      0.000034,
+      "Total 3 (delta 2), reused 0 (delta 0)\r\n"
+    ],
+    [
+      1.013408,
+      "remote: Cloning into '/tmp/tmp.BbUQaC7cUa'...\u001b[K\r\nremote: done.\u001b[K\r\n"
+    ],
+    [
+      0.080854,
+      "remote: HEAD is now at 3364746... test push\u001b[K\r\n"
+    ],
+    [
+      0.040238,
+      "remote: -----\u003e Building home using buildstep...\u001b[K\r\n"
+    ],
+    [
+      5.373563,
+      "remote: -----\u003e Installing ENV in build environment ...\u001b[K\r\n"
+    ],
+    [
+      7.692450,
+      "remote: \u001b[1G-----\u003e Using u1000 to run an application\u001b[K\r\n"
+    ],
+    [
+      5.245596,
+      "remote: \u001b[1G-----\u003e Node.js app detected\u001b[K\r\n"
+    ],
+    [
+      0.046823,
+      "remote: \u001b[1G-----\u003e Requested node range: 0.10.x\u001b[K\r\n"
+    ],
+    [
+      0.000815,
+      "remote: \u001b[1G-----\u003e Resolved node version: 0.10.38\u001b[K\r\n"
+    ],
+    [
+      0.007634,
+      "remote: \u001b[1G-----\u003e Downloading and installing node\u001b[K\r\n"
+    ],
+    [
+      1.798864,
+      "remote: \u001b[1G-----\u003e Restoring node_modules directory from cache\u001b[K\r\n"
+    ],
+    [
+      3.778369,
+      "remote: \u001b[1G-----\u003e Pruning cached dependencies not specified in package.json\u001b[K\r\n"
+    ],
+    [
+      5.127716,
+      "remote: \u001b[1G-----\u003e Exporting config vars to environment\u001b[K\r\n"
+    ],
+    [
+      0.007615,
+      "remote: \u001b[1G-----\u003e Installing dependencies\u001b[K\r\n"
+    ],
+    [
+      2.339338,
+      "remote: \u001b[1G-----\u003e Caching node_modules directory for future builds\u001b[K\r\n"
+    ],
+    [
+      0.593232,
+      "remote: \u001b[1G-----\u003e Cleaning up node-gyp and npm artifacts\u001b[K\r\n"
+    ],
+    [
+      0.011968,
+      "remote: \u001b[1G-----\u003e Building runtime environment\u001b[K\r\n"
+    ],
+    [
+      0.021356,
+      "remote: \u001b[1G-----\u003e Discovering process types\u001b[K\r\n"
+    ],
+    [
+      0.113624,
+      "remote: \u001b[1G       Procfile declares types -\u003e web\u001b[K\r\n"
+    ],
+    [
+      36.093918,
+      "remote: -----\u003e Injecting git revision\u001b[K\r\n"
+    ],
+    [
+      1.273455,
+      "remote: -----\u003e Releasing home ...\u001b[K\r\n"
+    ],
+    [
+      2.035950,
+      "remote: -----\u003e Deploying home ...\u001b[K\r\n"
+    ],
+    [
+      1.024104,
+      "remote: -----\u003e Shutting down old containers\u001b[K\r\n"
+    ],
+    [
+      3.072342,
+      "remote: =====\u003e Application deployed:\u001b[K\r\n"
+    ],
+    [
+      0.242172,
+      "remote:        https://home.simpletranscription.com\u001b[K\r\n"
+    ],
+    [
+      0.127618,
+      "remote: -----\u003e Cleaning up ...\u001b[K\r\n"
+    ],
+    [
+      1.682559,
+      "To dokku@simpletranscription.cloudapp.net:home\r\n"
+    ],
+    [
+      0.000146,
+      "   310c559..3364746  master -\u003e master"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.002693,
+      "bash-3.2$ "
+    ],
+    [
+      8.792755,
+      "a"
+    ],
+    [
+      1.239770,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.367712,
+      "\r\n"
+    ],
+    [
+      0.000045,
+      "bash-3.2$ "
+    ],
+    [
+      0.864112,
+      "e"
+    ],
+    [
+      0.224003,
+      "x"
+    ],
+    [
+      0.072145,
+      "i"
+    ],
+    [
+      0.167833,
+      "t"
+    ],
+    [
+      0.151919,
+      "\r\n"
+    ],
+    [
+      0.000084,
+      "exit\r\n"
+    ]
+  ]
+}
