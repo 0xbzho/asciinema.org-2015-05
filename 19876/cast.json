@@ -1,0 +1,2502 @@
+{
+  "version": 1,
+  "width": 110,
+  "height": 40,
+  "duration": 606.225373,
+  "command": "/usr/local/bin/bash",
+  "title": "VMware ESX Training",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/usr/local/bin/bash"
+  },
+  "stdout": [
+    [
+      0.024667,
+      "\u001b]0;steven@Cerberus:/Users/steven\u0007"
+    ],
+    [
+      0.000243,
+      "\u001b[01;32msteven@Cerberus\u001b[01;34m ~ $\u001b[00m "
+    ],
+    [
+      2.699941,
+      "s"
+    ],
+    [
+      0.144080,
+      "s"
+    ],
+    [
+      0.104343,
+      "h"
+    ],
+    [
+      0.055663,
+      " "
+    ],
+    [
+      0.144020,
+      "r"
+    ],
+    [
+      0.087992,
+      "o"
+    ],
+    [
+      0.128066,
+      "o"
+    ],
+    [
+      0.087696,
+      "t"
+    ],
+    [
+      0.192194,
+      "@"
+    ],
+    [
+      0.215852,
+      "1"
+    ],
+    [
+      0.152060,
+      "0"
+    ],
+    [
+      0.200101,
+      "."
+    ],
+    [
+      0.103918,
+      "2"
+    ],
+    [
+      0.120136,
+      "0"
+    ],
+    [
+      0.193184,
+      "."
+    ],
+    [
+      0.119215,
+      "4"
+    ],
+    [
+      0.087532,
+      "."
+    ],
+    [
+      0.143986,
+      "1"
+    ],
+    [
+      0.151973,
+      "9"
+    ],
+    [
+      0.456167,
+      "\r\n"
+    ],
+    [
+      2.278126,
+      "Password: "
+    ],
+    [
+      1.873854,
+      "\r\n"
+    ],
+    [
+      0.837224,
+      "The time and date of this login have been sent to the system logs.\r\n\r\n\u001b[00mVMware offers supported, powerful system administration tools.  Please\r\nsee www.vmware.com/go/sysadmintools for details.\r\n\r\nThe ESXi Shell can be disabled by an administrative user. See the\r\nvSphere Security documentation for more information.\r\n"
+    ],
+    [
+      0.063947,
+      "~ # "
+    ],
+    [
+      6.985818,
+      "v"
+    ],
+    [
+      0.087905,
+      "m"
+    ],
+    [
+      0.151606,
+      "k"
+    ],
+    [
+      0.090000,
+      "f"
+    ],
+    [
+      0.159211,
+      "\r~ # vmkfstools \u001b[J"
+    ],
+    [
+      1.767395,
+      "\r\n"
+    ],
+    [
+      0.017732,
+      "No valid command specified\r\n\r\n\r\nOPTIONS FOR FILE SYSTEMS:\r\n\r\nvmkfstools -C --createfs [vmfs3|vmfs5]\r\n               -b --blocksize #[mMkK]\r\n               -S --setfsname fsName\r\n           -Z --spanfs span-partition\r\n           -G --growfs grown-partition\r\n   deviceName\r\n\r\n           -P --queryfs -h --humanreadable\r\n           -T --upgradevmfs\r\n   vmfsPath\r\n           -y --reclaimBlocks vmfsPath [--reclaimBlocksUnit #blocks]\r\n\r\nOPTIONS FOR VIRTUAL DISKS:\r\n\r\nvmkfstools -c --createvirtualdisk #[gGmMkK]\r\n     "
+    ],
+    [
+      0.000269,
+      "          -d --diskformat [zeroedthick\r\n                               |thin\r\n                               |eagerzeroedthick\r\n                               ]\r\n               -a --adaptertype [buslogic|lsilogic|ide\r\n                                |lsisas|pvscsi]\r\n               -W --objecttype [file|vsan]\r\n               --policyFile \u003cfileName\u003e\r\n           -w --writezeros\r\n           -j --inflatedisk\r\n           -k --eagerzero\r\n           -K --punchzero\r\n           -U --deletevirtualdisk\r\n           -E --renamevirtualdisk srcDisk\r\n           -i --clonevirtualdisk srcDisk\r\n               -d --diskformat [zeroedthick\r\n                               |thin\r\n                               |eagerzeroedthick\r\n                               |rdm:\u003cdevice\u003e|rdmp:\u003cdevice\u003e\r\n                               |2gbsparse]\r\n               -W --object [file|vsan]\r\n               --policyFile \u003cfileName\u003e\r\n               -N --avoidnativeclone\r\n           -X --extendvirtualdisk #[gGmMkK]\r\n               [-d --diskformat eagerzeroe"
+    ],
+    [
+      0.000512,
+      "dthick]\r\n           -M --migratevirtualdisk\r\n           -r --createrdm /vmfs/devices/disks/...\r\n           -q --queryrdm\r\n           -z --createrdmpassthru /vmfs/devices/disks/...\r\n           -v --verbose #\r\n           -g --geometry\r\n           -x --fix [check|repair]\r\n           -e --chainConsistent\r\n           -Q --objecttype name/value pair\r\n           --uniqueblocks childDisk\r\n   vmfsPath\r\n\r\nOPTIONS FOR DEVICES: \r\n\r\n           -L --lock [reserve|release|lunreset|targetreset|busreset|readkeys|readresv\r\n                     ] /vmfs/devices/disks/...\r\n           -B --breaklock /vmfs/devices/disks/...\r\n\r\nvmkfstools -H --help\r\n\r\n"
+    ],
+    [
+      0.002629,
+      "~ # "
+    ],
+    [
+      44.088701,
+      "\r~ # \u001b[J"
+    ],
+    [
+      0.051380,
+      "\r~ # \u001b[J"
+    ],
+    [
+      0.041314,
+      "\r~ # \u001b[J"
+    ],
+    [
+      0.081724,
+      "\r~ # \u001b[J"
+    ],
+    [
+      0.051469,
+      "\r~ # \u001b[J"
+    ],
+    [
+      0.048678,
+      "\r~ # \u001b[J"
+    ],
+    [
+      0.066852,
+      "\r~ # \u001b[J"
+    ],
+    [
+      0.295935,
+      "\r~ # \u001b[J"
+    ],
+    [
+      20.073212,
+      "d"
+    ],
+    [
+      0.046052,
+      "f"
+    ],
+    [
+      0.128749,
+      " "
+    ],
+    [
+      0.105954,
+      "\r\n"
+    ],
+    [
+      4.311697,
+      "Filesystem         Bytes          Used     Available Use% Mounted on\r\nVMFS-5     5497289703424 2899652378624 2597637324800  53% /vmfs/volumes/SAN01GENVM03\r\nVMFS-5     5497289703424 2496061767680 3001227935744  45% /vmfs/volumes/SAN01GENVM04\r\nVMFS-5     5497289703424  603195441152 4894094262272  11% /vmfs/volumes/SAN01GENVM02\r\nVMFS-5     2198754820096   35049701376 2163705118720   2% /vmfs/volumes/ImageStore\r\n"
+    ],
+    [
+      0.001397,
+      "VMFS-5     5497289703424 2666705977344 2830583726080  49% /vmfs/volumes/SAN01GENVM01\r\nVMFS-5     5497289703424 2919700103168 2577589600256  53% /vmfs/volumes/SAN01GENVM05\r\nVMFS-5     5497289703424  615877967872 4881411735552  11% /vmfs/volumes/SAN02GENVM05\r\nVMFS-5     5497289703424 1951577145344 3545712558080  36% /vmfs/volumes/SAN02GENVM01\r\nVMFS-5      536602476544    4193255424  532409221120   1% /vmfs/volumes/Logs\r\nVMFS-5     5497289703424  658500485120 4838789218304  12% /vmfs/volumes/SAN02GENVM02\r\nVMFS"
+    ],
+    [
+      0.000068,
+      "-5     5497289703424 3249826430976 2247463272448  59% /vmfs/volumes/SAN02GENVM04\r\nVMFS-5     5497289703424 3716271833088 1781017870336  68% /vmfs/volumes/SAN02GENVM03\r\nVMFS-5     3298266447872  192594051072 3105672396800   6% /vmfs/volumes/snap-027e1d89-SAN01GENVM04\r\nVMFS-5     5497289703424 4345585205248 1151704498176  79% /vmfs/volumes/SAN02GENVM06\r\nVMFS-5     5497289703424 3364198809600 2133090893824  61% /vmfs/volumes/SAN01GENVM06\r\nVMFS-5     2198754820096  394310713344 1804444106752  18% /vmfs/volumes/PHX01LAB01D01\r\nVMFS-5     2198754820096  457980248064 1740774572032  21% /vmfs/volumes/PHX01LAB01D02\r\nvfat           261853184     165285888      96567296  63% /vmfs/volumes/d4f073e7-0c44b6c1-60eb-57045a6396bc\r\nvfat           261853184     181534720      80318464  69% /vmfs/volumes/dc6dcbe8-e77bd11f-4a91-ef8a49ccee47\r\nvfat           299712512     202833920      96878592  68% /vmfs/volumes/546da73d-71487a24-999a-74e6e270c92e\r\n"
+    ],
+    [
+      0.011735,
+      "~ # "
+    ],
+    [
+      29.402026,
+      "c"
+    ],
+    [
+      0.103985,
+      "d"
+    ],
+    [
+      0.103292,
+      " "
+    ],
+    [
+      0.289834,
+      "/v"
+    ],
+    [
+      0.000122,
+      "mfs"
+    ],
+    [
+      0.000709,
+      "/volumes/SAN"
+    ],
+    [
+      0.000373,
+      "01GE"
+    ],
+    [
+      0.000006,
+      "NVM02"
+    ],
+    [
+      0.324734,
+      "\r\n"
+    ],
+    [
+      0.001472,
+      "/vmfs/volumes/54637d84-80b43850-87a8-74e6e2722021 # "
+    ],
+    [
+      2.374643,
+      "l"
+    ],
+    [
+      0.096160,
+      "s"
+    ],
+    [
+      0.063815,
+      " "
+    ],
+    [
+      0.558994,
+      "-la\r\ntotal 816176\r\ndrwxr-xr-t    1 root     root          2240 May  8 22:17 \u001b[1;34m.\u001b[0m\r\ndrwxr-xr-x    1 root     root           512 May 11 07:18 \u001b[1;34m..\u001b[0m\r\ndrwxr-xr-x    1 root     root           420 Nov 13 13:14 \u001b[1;34m.dvsData\u001b[0m\r\n-r--------    1 root     root      26935296 Nov 12 15:32 \u001b[0;0m.fbb.sf\u001b[0m\r\n-r--------    1 root     root     267026432 Nov 12 15:32 \u001b[0;0m.fdc.sf\u001b[0m\r\n-rwxr-xr-x    1 root     root       1048576 Nov 12 15:41 \u001b[1;32m.iormstats.sf\u001b[0m\r\ndrwxr-xr-x    1 root     root           420 Nov 12 15:41 \u001b[1;34m.naa.6000d31000884f000000000000000006\u001b[0m\r\n-r--------    1 root     root       1179648 Nov 12 15:32 \u001b[0;0m.pb2.sf\u001b[0m\r\n-r--------    1 root     root     268435456 Nov 12 15:32 \u001b[0;0m.pbc.sf\u001b[0m\r\n-r--------    1 root     root     262733824 Nov 12 15:32 \u001b[0;0m.sbc.sf\u001b[0m\r\ndrwx------    1 root     root           280 Nov 12 15:32 \u001b[1;34m.sdd.sf\u001b[0m\r\ndrwx------    1 root     root           280 May  8 20:18 \u001b[1;34m.vSphere-HA\u001b[0m\r\n-r--------    1 root     root       4194304 Nov 12 15:32"
+    ],
+    [
+      0.000032,
+      " \u001b[0;0m.vh.sf\u001b[0m\r\ndrwxr-xr-x    1 root     root          1120 May  8 22:22 \u001b[1;34mPHX01SCH01\u001b[0m\r\ndrwxr-xr-x    1 root     root           560 May  8 13:31 \u001b[1;34mPHX01SQLSAN01B\u001b[0m\r\ndrwxr-xr-x    1 root     root          3500 May  8 23:41 \u001b[1;34mPHX01UWEB01\u001b[0m\r\n/vmfs/volumes/54637d84-80b43850-87a8-74e6e2722021 # "
+    ],
+    [
+      16.754570,
+      "c"
+    ],
+    [
+      0.063446,
+      "d"
+    ],
+    [
+      0.071604,
+      " "
+    ],
+    [
+      0.289377,
+      "PH"
+    ],
+    [
+      0.000245,
+      "X01UWEB01"
+    ],
+    [
+      0.310877,
+      "\r\n"
+    ],
+    [
+      0.005543,
+      "/vmfs/volumes/54637d84-80b43850-87a8-74e6e2722021/PHX01UWEB01 # "
+    ],
+    [
+      3.883105,
+      "l"
+    ],
+    [
+      0.079250,
+      "s"
+    ],
+    [
+      0.055899,
+      " "
+    ],
+    [
+      0.111839,
+      "-"
+    ],
+    [
+      0.053041,
+      "l"
+    ],
+    [
+      0.059020,
+      "a"
+    ],
+    [
+      0.136087,
+      "\r\n"
+    ],
+    [
+      0.048201,
+      "total 24129568\r\n"
+    ],
+    [
+      0.001429,
+      "drwxr-xr-x    1 root     root          3500 May  8 23:41 \u001b[1;34m.\u001b[0m\r\n"
+    ],
+    [
+      0.000699,
+      "drwxr-xr-t    1 root     root          2240 May  8 22:17 \u001b[1;34m..\u001b[0m\r\n-rw-r--r--    1 root     root            73 May  8 23:14 \u001b[0;0mPHX01UWEB01-c2d1d0ee.hlog\u001b[0m\r\n"
+    ],
+    [
+      0.002417,
+      "-rw-------    1 root     root     8589934592 Apr  6 07:26 \u001b[0;0mPHX01UWEB01-c2d1d0ee.vswp\u001b[0m\r\n-rw-------    1 root     root     34359738368 May 11 07:17 \u001b[0;0mPHX01UWEB01-flat.vmdk\u001b[0m\r\n-rw-------    1 root     root          8684 May 11 07:09 \u001b[0;0mPHX01UWEB01.nvram\u001b[0m\r\n-rw-------    1 root     root           524 May  8 23:14 \u001b[0;0mPHX01UWEB01.vmdk\u001b[0m\r\n-rw-r--r--    1 root     root             0 Dec  2 11:52 \u001b[0;0mPHX01UWEB01.vmsd\u001b[0m\r\n-rwxr-xr-x    1 root     root          4100 May  8 23:14 \u001b[1;32mPHX01UWEB01.vmx\u001b[0m\r\n-rw-------    1 root     root             0 May  8 23:14 \u001b[0;0mPHX01UWEB01.vmx.lck\u001b[0m\r\n-rw-r--r--    1 root     root          3439 Feb 17 04:57 \u001b[0;0mPHX01UWEB01.vmxf\u001b[0m\r\n-rwxr-xr-x    1 root     root          4100 May  8 23:14 \u001b[1;32mPHX01UWEB01.vmx~\u001b[0m\r\n-rw-------    1 root     root     26843545600 May 11 07:18 \u001b[0;0mPHX01UWEB01_1-flat.vmdk\u001b[0m\r\n-rw-------    1 root     root           526 May  8 23:14 \u001b[0;0mPHX01UWEB01_1.vmdk\u001b[0m\r\n-rw-------    1 root     root     53687091200 May 11 07:"
+    ],
+    [
+      0.000016,
+      "12 \u001b[0;0mPHX01UWEB01_2-flat.vmdk\u001b[0m\r\n-rw-------    1 root     root           527 May  8 23:41 \u001b[0;0mPHX01UWEB01_2.vmdk\u001b[0m\r\n-rw-r--r--    1 root     root             0 May  8 20:37 \u001b[0;0mtest\u001b[0m\r\n-rw-r--r--    1 root     root        208125 Apr  6 06:35 \u001b[0;0mvmware-11.log\u001b[0m\r\n"
+    ],
+    [
+      0.187774,
+      "-rw-r--r--    1 root     root        206824 Apr  6 06:40 \u001b[0;0mvmware-12.log\u001b[0m\r\n-rw-r--r--    1 root     root        207572 Apr  6 07:21 \u001b[0;0mvmware-13.log\u001b[0m\r\n-rw-r--r--    1 root     root        181117 May  7 11:41 \u001b[0;0mvmware-14.log\u001b[0m\r\n-rw-r--r--    1 root     root        188629 May  8 23:07 \u001b[0;0mvmware-15.log\u001b[0m\r\n-rw-r--r--    1 root     root        250011 May  8 23:14 \u001b[0;0mvmware-16.log\u001b[0m\r\n-rw-r--r--    1 root     root        181153 May  8 23:53 \u001b[0;0mvmware.log\u001b[0m\r\n-rw-------    1 root     root     131072000 May  8 23:14 \u001b[0;0mvmx-PHX01UWEB01-3268530414-1.vswp\u001b[0m\r\n/vmfs/volumes/54637d84-80b43850-87a8-74e6e2722021/PHX01UWEB01 # "
+    ],
+    [
+      4.263440,
+      "l"
+    ],
+    [
+      0.114400,
+      "s"
+    ],
+    [
+      0.061857,
+      " "
+    ],
+    [
+      0.104615,
+      "-"
+    ],
+    [
+      0.056049,
+      "l"
+    ],
+    [
+      0.204930,
+      "r"
+    ],
+    [
+      0.154381,
+      "t"
+    ],
+    [
+      0.111594,
+      "\r\n"
+    ],
+    [
+      0.027221,
+      "total 24128536\r\n"
+    ],
+    [
+      0.001194,
+      "-rw-r--r--    1 root     root             0 Dec  2 11:52 \u001b[0;0mPHX01UWEB01.vmsd\u001b[0m\r\n"
+    ],
+    [
+      0.000100,
+      "-rw-r--r--    1 root     root          3439 Feb 17 04:57 \u001b[0;0mPHX01UWEB01.vmxf\u001b[0m\r\n"
+    ],
+    [
+      0.000923,
+      "-rw-r--r--    1 root     root        208125 Apr  6 06:35 \u001b[0;0mvmware-11.log\u001b[0m\r\n-rw-r--r--    1 root     root        206824 Apr  6 06:40 \u001b[0;0mvmware-12.log\u001b[0m\r\n-rw-r--r--    1 root     root        207572 Apr  6 07:21 \u001b[0;0mvmware-13.log\u001b[0m\r\n-rw-------    1 root     root     8589934592 Apr  6 07:26 \u001b[0;0mPHX01UWEB01-c2d1d0ee.vswp\u001b[0m\r\n-rw-r--r--    1 root     root        181117 May  7 11:41 \u001b[0;0mvmware-14.log\u001b[0m\r\n-rw-r--r--    1 root     root             0 May  8 20:37 \u001b[0;0mtest\u001b[0m\r\n-rw-r--r--    1 root     root        188629 May  8 23:07 \u001b[0;0mvmware-15.log\u001b[0m\r\n"
+    ],
+    [
+      0.000721,
+      "-rw-------    1 root     root     131072000 May  8 23:14 \u001b[0;0mvmx-PHX01UWEB01-3268530414-1.vswp\u001b[0m\r\n-rwxr-xr-x    1 root     root          4100 May  8 23:14 \u001b[1;32mPHX01UWEB01.vmx~\u001b[0m\r\n-rw-------    1 root     root             0 May  8 23:14 \u001b[0;0mPHX01UWEB01.vmx.lck\u001b[0m\r\n-rwxr-xr-x    1 root     root          4100 May  8 23:14 \u001b[1;32mPHX01UWEB01.vmx\u001b[0m\r\n"
+    ],
+    [
+      0.000049,
+      "-rw-------    1 root     root           524 May  8 23:14 \u001b[0;0mPHX01UWEB01.vmdk\u001b[0m\r\n-rw-r--r--    1 root     root            73 May  8 23:14 \u001b[0;0mPHX01UWEB01-c2d1d0ee.hlog\u001b[0m\r\n-rw-r--r--    1 root     root        250011 May  8 23:14 \u001b[0;0mvmware-16.log\u001b[0m\r\n-rw-------    1 root     root           526 May  8 23:14 \u001b[0;0mPHX01UWEB01_1.vmdk\u001b[0m\r\n-rw-------    1 root     root           527 May  8 23:41 \u001b[0;0mPHX01UWEB01_2.vmdk\u001b[0m\r\n-rw-r--r--    1 root     root        181153 May  8 23:53 \u001b[0;0mvmware.log\u001b[0m\r\n-rw-------    1 root     root          8684 May 11 07:09 \u001b[0;0mPHX01UWEB01.nvram\u001b[0m\r\n-rw-------    1 root     root     53687091200 May 11 07:12 \u001b[0;0mPHX01UWEB01_2-flat.vmdk\u001b[0m\r\n-rw-------    1 root     root     26843545600 May 11 07:18 \u001b[0;0mPHX01UWEB01_1-flat.vmdk\u001b[0m\r\n-rw-------    1 root     root     34359738368 May 11 07:18 \u001b[0;0mPHX01UWEB01-flat.vmdk\u001b[0m\r\n"
+    ],
+    [
+      0.006711,
+      "/vmfs/volumes/54637d84-80b43850-87a8-74e6e2722021/PHX01UWEB01 # "
+    ],
+    [
+      3.531626,
+      "t"
+    ],
+    [
+      0.072011,
+      "a"
+    ],
+    [
+      0.095645,
+      "i"
+    ],
+    [
+      0.128262,
+      "l"
+    ],
+    [
+      0.063842,
+      " "
+    ],
+    [
+      0.143926,
+      "-"
+    ],
+    [
+      0.058626,
+      "f"
+    ],
+    [
+      0.069544,
+      " "
+    ],
+    [
+      0.250268,
+      "vmwar"
+    ],
+    [
+      0.000008,
+      "e.log"
+    ],
+    [
+      0.198023,
+      "\r\n"
+    ],
+    [
+      4.074380,
+      "\r\n"
+    ],
+    [
+      0.006852,
+      "/vmfs/volumes/54637d84-80b43850-87a8-74e6e2722021/PHX01UWEB01 # "
+    ],
+    [
+      1.639039,
+      "c"
+    ],
+    [
+      0.095841,
+      "a"
+    ],
+    [
+      0.111752,
+      "t"
+    ],
+    [
+      0.056123,
+      " "
+    ],
+    [
+      0.392406,
+      "\u0008\u001b[J"
+    ],
+    [
+      0.151507,
+      "\u0008\u001b[J"
+    ],
+    [
+      0.104207,
+      "\u0008\u001b[J"
+    ],
+    [
+      0.136731,
+      "\u0008\u001b[J"
+    ],
+    [
+      0.415197,
+      "l"
+    ],
+    [
+      0.072247,
+      "e"
+    ],
+    [
+      0.065186,
+      "s"
+    ],
+    [
+      0.151101,
+      "s"
+    ],
+    [
+      0.122135,
+      " "
+    ],
+    [
+      0.294480,
+      "vmware.log"
+    ],
+    [
+      0.243730,
+      "\r\n"
+    ],
+    [
+      4.013668,
+      "WARNING: terminal is not fully functional\r\nvmware.log: Device or resource busy\r\n"
+    ],
+    [
+      0.008603,
+      "/vmfs/volumes/54637d84-80b43850-87a8-74e6e2722021/PHX01UWEB01 # "
+    ],
+    [
+      7.782978,
+      "l"
+    ],
+    [
+      0.095708,
+      "e"
+    ],
+    [
+      0.062740,
+      "s"
+    ],
+    [
+      0.128000,
+      "s"
+    ],
+    [
+      0.071932,
+      " "
+    ],
+    [
+      0.266013,
+      "vmwar"
+    ],
+    [
+      0.000278,
+      "e-16.log"
+    ],
+    [
+      0.365625,
+      "\r\n"
+    ],
+    [
+      0.033819,
+      "WARNING: terminal is not fully functional\r\n\rvmware-16.log  (press RETURN)"
+    ],
+    [
+      2.198487,
+      "\r\r"
+    ],
+    [
+      0.000743,
+      "2015-05-08T23:07:06.471Z| vmx| I120: Log for VMware ESX pid=39855555 version=5.5.0 build=build-2143827 option=\r\nRelease\r\n2015-05-08T23:07:06.471Z| vmx| I120: The process is 64-bit.\r\n2015-05-08T23:07:06.471Z| vmx| I120: Host codepage=UTF-8 encoding=UTF-8\r\n2015-05-08T23:07:06.471Z| vmx| I120: Host is VMkernel 5.5.0\r\n2015-05-08T23:07:06.460Z| vmx| I120: VTHREAD initialize main thread 0 \"vmx\" pid 39855555\r\n2015-05-08T23:07:06.460Z| vmx| I120: Msg_SetLocaleEx: HostLocale=UTF-8 UserLocale=NULL\r\n2015-05-08T23:07:0"
+    ],
+    [
+      0.000149,
+      "6.461Z| vmx| I120: ConfigDB: Failed to load /usr/lib/vmware/config\r\n2015-05-08T23:07:06.461Z| vmx| I120: ConfigDB: Failed to load ~/.vmware/config\r\n2015-05-08T23:07:06.462Z| vmx| I120: OBJLIB-LIB: Objlib initialized.\r\n2015-05-08T23:07:06.464Z| vmx| I120: PREF Optional preferences file not found at /usr/lib/vmware/config. Using\r\n default values.\r\n2015-05-08T23:07:06.464Z| vmx| I120: PREF Optional preferences file not found at //.vmware/config. Using defau\r\nlt values.\r\n2015-05-08T23:07:06.464Z| vmx| I120: PRE"
+    ],
+    [
+      0.000025,
+      "F Failed to l"
+    ],
+    [
+      0.000824,
+      "oad user preferences.\r\n2015-05-08T23:07:06.471Z| vmx| I120: Hostname=PHX01ESX06.corp.namecheap.net\r\n2015-05-08T23:07:06.472Z| vmx| I120: IP=127.0.0.1 (lo0)\r\n2015-05-08T23:07:06.472Z| vmx| I120: IP=10.20.4.16 (vmk0)\r\n2015-05-08T23:07:06.472Z| vmx| I120: IP=10.20.7.2 (vmk1)\r\n2015-05-08T23:07:06.472Z| vmx| I120: IP=10.20.7.20 (vmk2)\r\n2015-05-08T23:07:06.472Z| vmx| I120: IP=10.20.7.21 (vmk3)\r\n2015-05-08T23:07:06.472Z| vmx| I120: IP=10.20.7.3 (vmk4)\r\n2015-05-08T23:07:06.472Z| vmx| I120: vmkernel build type: rele"
+    ],
+    [
+      0.000243,
+      "ase\r\n2015-05-08T23:07:06.472Z| vmx| I120: System uptime 14636629707134 us\r\n2015-05-08T23:07:06.472Z| vmx| I120: Command line: \"/bin/vmx\" \"-ssched.group=host/user\" \"-#\" \"product=2;name=V\r\nMware ESX;version=5.5.0;buildnumber=2143827;licensename=VMware ESX Server;licenseversion=5.0;\" \"-@\" \"duplex=3;\r\nmsgs=ui\" \"/vmfs/volumes/54637d84-80b43850-87a8-74e6e2722021/PHX01UWEB01/PHX01UWEB01.vmx\"\r\n2015-05-08T23:07:06.472Z| vmx| I120: Environment: \"USER=root\" \"HOME=/\" \"SHELL=/bin/sh\" \"LANG=C\"\r\n2015-05-08T23:07:06.472Z| vmx| I120: Ms"
+    ],
+    [
+      0.000674,
+      "g_SetLocaleEx: HostLocale=UTF-8 UserLocale=NULL\r\n2015-05-08T23:07:06.472Z| vmx| I120: Duplex socket: 3\r\n2015-05-08T23:07:06.473Z| vmx| W110: CnxNeedScrub: Time to scrub dir /var/run/vmware\r\n2015-05-08T23:07:06.487Z| vmx| I120: CnxUnlinkPath: unlinking stale file /var/run/vmware/0f45b8a6b0a28e8961139\r\n42f044367cc\r\n2015-05-08T23:07:06.487Z| vmx| I120: CnxUnlinkPath: unlinking stale file /var/run/vmware/4f048efb172fdbca63168\r\n09f092c043b\r\n2015-05-08T23:07:06.490Z| vmx| I120: CnxUnlinkPath: unlinking stale file"
+    ],
+    [
+      0.000141,
+      " /var/run/vmware/root_0/14283047865747\r\n81_32144214/configFile\r\n2015-05-08T23:07:06.490Z| vmx| I120: CnxUnlinkPath: removing stale directory /var/run/vmware/root_0/1428304786\r\n574781_32144214\r\nvmware-16.log"
+    ],
+    [
+      47.142494,
+      "\r"
+    ],
+    [
+      0.000333,
+      "2015-05-08T23:07:06.490Z| vmx| I120: CnxUnlinkPath: unlinking stale file /var/run/vmware/root_0/14283051196390\r\n15_32145625/configFile\r\n2015-05-08T23:07:06.490Z| vmx| I120: CnxUnlinkPath: removing stale directory /var/run/vmware/root_0/1428305119\r\n639015_32145625\r\n2015-05-08T23:07:06.576Z| vmx| I120: Connecting 'ui' to fd '3' with user '(null)'\r\n2015-05-08T23:07:06.577Z| vmx| I120: VmdbAddConnection: cnxPath=/db/connection/#1/, cnxIx=1\r\n2015-05-08T23:07:06.577Z| vmx| I120: /vmfs/volumes/54637d84-80b43850-87"
+    ],
+    [
+      0.000597,
+      "a8-74e6e2722021/PHX01UWEB01/PHX01UWEB01\r\n.vmx: Removing stale symlink /var/run/vmware/5450dc8db9f0a2ea311db3d2f83adce1\r\n2015-05-08T23:07:06.577Z| vmx| I120: /vmfs/volumes/54637d84-80b43850-87a8-74e6e2722021/PHX01UWEB01/PHX01UWEB01\r\n.vmx: Setup symlink /var/run/vmware/5450dc8db9f0a2ea311db3d2f83adce1 -\u003e /var/run/vmware/root_0/143112642647270\r\n3_39855555\r\n2015-05-08T23:07:06.577Z| vmx| I120: Vix: [39855555 mainDispatch.c:463]: VMAutomation: Initializing VMAutomati\r\non.\r\n2015-05-08T23:07:06.578Z| vmx| I120: Vix: [39855555"
+    ],
+    [
+      0.000711,
+      " mainDispatch.c:760]: VMAutomationOpenListenerSocket() list\r\nening\r\n2015-05-08T23:07:06.593Z| vmx| I120: Vix: [39855555 mainDispatch.c:3964]: VMAutomation_ReportPowerOpFinished: \r\nstatevar=0, newAppState=1870, success=1 additionalError=0\r\n2015-05-08T23:07:06.593Z| vmx| I120: Transitioned vmx/execState/val to poweredOff\r\n2015-05-08T23:07:06.594Z| vmx| I120: Vix: [39855555 mainDispatch.c:3964]: VMAutomation_ReportPowerOpFinished: \r\nstatevar=1, newAppState=1873, success=1 additionalError=0\r\n2015-05-08T23:07:06.594Z| vmx| I120: Vix: [39855555 mainDispatch.c:3964]: VMAutomation_ReportPowerOpFinished: \r\nstatevar=2, newAppState=1877, success=1 additionalError=0\r\n2015-05-08T23:07:06.594Z| vmx| I120: Vix: [39855555 mainDispatch.c:3964]: VMAutomation_ReportPowerOpFinished: \r\nstatevar=3, newAppState=1881, success=1 additionalError=0\r\n2015-05-08T23:07:06.595Z| vmx| I120: FeatureCompat: EVC masks:\r\n2015-05-08T23:07:06.595Z| vmx| I120: Masking Feature: cpuid.STEPPING - Val:0\r\n2015-05-08T23:07:06.595Z| vmx| I120: Masking Fe"
+    ],
+    [
+      0.000023,
+      "ature: cpuid.Intel - Val:1\r\n2015-05-08T23:07:06.595Z| vmx| I120: Masking Feature: cpuid.RDRAND - Val:1\r\n2015-05-08T23:07:06.595Z| vmx| I120: Masking Feature: cpuid.MODEL - Val:0x3a\r\n2015-05-08T23:07:06.595Z| vmx| I120: Masking Feature: cpuid.XSAVE - Val:1\r\n2015-05-08T23:07:06.596Z| vmx| I120: Masking Feature: cpuid.LM - Val:1\r\n2015-05-08T23:07:06.596Z| vmx| I120: Masking Feature: cpuid.NUM_EXT_LEVELS - Val:0x80000008\r\n2015-05-08T23:07:06.596Z| vmx| I120: Masking Feature: cpuid.ENFSTRG - Val:1\r\n2015-05-08T23:07:06.596Z| vmx| I120: Masking Feature: cpuid.MWAIT - Val:1\r\n2015-05-08T23:07:06.596Z| vmx| I120: Masking Feature: cpuid.FAMILY - Val:6\r\n2015-05-08T23:07:06.596Z| vmx| I120: Masking Feature: cpuid.VMX - Val:1\r\n2015-05-08T23:07:06.596Z| vmx| I120: Masking Feature: cpuid.XCR0_MASTER_YMM_H - Val:1\r\n2015-05-08T23:07:06.596Z| vmx| I120: Masking Feature: misc.cpuidFaulting - Val:1\r\n2015-05-08T23:07:06.596Z| vmx| I120: Masking Feature: cpuid.PCID - Val:1\r\n:"
+    ],
+    [
+      12.753144,
+      "\r"
+    ],
+    [
+      0.001281,
+      "2015-05-08T23:07:06.596Z| vmx| I120: Masking Feature: cpuid.SSSE3 - Val:1\r\n2015-05-08T23:07:06.596Z| vmx| I120: Masking Feature: cpuid.SSE3 - Val:1\r\n2015-05-08T23:07:06.596Z| vmx| I120: Masking Feature: cpuid.NX - Val:1\r\n2015-05-08T23:07:06.596Z| vmx| I120: Masking Feature: cpuid.SSE41 - Val:1\r\n2015-05-08T23:07:06.596Z| vmx| I120: Masking Feature: cpuid.AES - Val:1\r\n2015-05-08T23:07:06.596Z| vmx| I120: Masking Feature: cpuid.PCLMULQDQ - Val:1\r\n2015-05-08T23:07:06.596Z| vmx| I120: Masking Feature: cpuid.SS -"
+    ],
+    [
+      0.000330,
+      " Val:1\r\n2015-05-08T23:07:06.596Z| vmx| I120: Masking Feature: cpuid.POPCNT - Val:1\r\n2015-05-08T23:07:06.596Z| vmx| I120: Masking Feature: cpuid.AVX - Val:1\r\n2015-05-08T23:07:06.596Z| vmx| I120: Masking Feature: vt.realmode - Val:1\r\n2015-05-08T23:07:06.596Z| vmx| I120: Masking Feature: cpuid.F16C - Val:1\r\n2015-05-08T23:07:06.596Z| vmx| I120: Masking Feature: cpuid.FSGSBASE - Val:1\r\n2015-05-08T23:07:06.596Z| vmx| I120: Masking Feature: cpuid.DS - Val:1\r\n2015-05-08T23:07:06.596Z| vmx| I120: Masking Feature: cp"
+    ],
+    [
+      0.000042,
+      "uid.RDTSCP - Val:1\r\n2015-05-08T23:07:06.596Z| vmx| I120: Masking Feature: cpuid.LAHF64 - Val:1\r\n2015-05-08T23:07:06.596Z| vmx| I120: Masking Feature: hv.capable - Val:1\r\n2015-05-08T23:07:06.596Z| vmx| I120: Masking Feature: cpuid.CMPXCHG16B - Val:1\r\n2015-05-08T23:07:06.596Z| vmx| I120: Masking Feature: cpuid.SMEP - Val:1\r\n2015-05-08T23:07:06.596Z| vmx| I120: Masking Feature: cpuid.SSE42 - Val:1\r\n2015-05-08T23:07:06.596Z| vmx| I120: Masking Feature: cpuid.XCR0_MASTER_SSE - Val:1\r\n2015-05-08T23:07:06.596Z| vmx| I120: Masking Feature: cpuid.NUMLEVELS - Val:0xd\r\n2015-05-08T23:07:06.596Z| vmx| I120: Masking Unknown Feature: Max:0\r\n2015-05-08T23:07:06.603Z| vmx| I120: hostCPUID vendor: GenuineIntel\r\n2015-05-08T23:07:06.603Z| vmx| I120: hostCPUID family: 0x6 model: 0x3e stepping: 0x4\r\n2015-05-08T23:07:06.603Z| vmx| I120: hostCPUID codename: Ivy Bridge EP/EN/EX\r\n2015-05-08T23:07:06.603Z| vmx| I120: hostCPUID name: Intel(R) Xeon(R) CPU E5-2640 v2 @ 2.00GHz\r\n2015-05-08T23:07:06.603Z| vmx| I120: hostCPUID level 00000000"
+    ],
+    [
+      0.000007,
+      ", 0: 0x0000000d 0x756e6547 0x6c65746e 0x49656e69\r\n2015-05-08T23:07:06.603Z| vmx| I120: hostCPUID level 00000001, 0: 0x000306e4 0x00200800 0x77bee3ff 0xbfebfbff\r\n2015-05-08T23:07:06.603Z| vmx| I120: hostCPUID level 00000002, 0: 0x76036301 0x00f0b2ff 0x00000000 0x00ca0000\r\n2015-05-08T23:07:06.603Z| vmx| I120: hostCPUID level 00000003, 0: 0x00000000 0x00000000 0x00000000 0x00000000\r\n"
+    ],
+    [
+      0.002058,
+      "2015-05-08T23:07:06.603Z| vmx| I120: hostCPUID level 00000004, 0: 0x3c004121 0x01c0003f 0x0000003f 0x00000000\r\n2015-05-08T23:07:06.603Z| vmx| I120: hostCPUID level 00000004, 1: 0x3c004122 0x01c0003f 0x0000003f 0x00000000\r\n2015-05-08T23:07:06.603Z| vmx| I120: hostCPUID level 00000004, 2: 0x3c004143 0x01c0003f 0x000001ff 0x00000000\r\n2015-05-08T23:07:06.603Z| vmx| I120: hostCPUID level 00000004, 3: 0x3c07c163 0x04c0003f 0x00003fff 0x00000006\r\n2015-05-08T23:07:06.603Z| vmx| I120: hostCPUID level 00000004, 4: 0x"
+    ],
+    [
+      0.000240,
+      "00000000 0x00000000 0x00000000 0x00000000\r\n2015-05-08T23:07:06.603Z| vmx| I120: hostCPUID level 00000005, 0: 0x00000040 0x00000040 0x00000003 0x00001120\r\n2015-05-08T23:07:06.603Z| vmx| I120: hostCPUID level 00000006, 0: 0x00000077 0x00000002 0x00000001 0x00000000\r\n2015-05-08T23:07:06.603Z| vmx| I120: hostCPUID level 00000007, 0: 0x00000000 0x00000281 0x00000000 0x00000000\r\n2015-05-08T23:07:06.603Z| vmx| I120: hostCPUID level 00000008, 0: 0x00000000 0x00000000 0x00000000 0x00000000\r\n:"
+    ],
+    [
+      5.802406,
+      "\r"
+    ],
+    [
+      0.000175,
+      "2015-05-08T23:07:06.603Z| vmx| I120: hostCPUID level 00000009, 0: 0x00000000 0x00000000 0x00000000 0x00000000\r\n2015-05-08T23:07:06.603Z| vmx| I120: hostCPUID level 0000000a, 0: 0x07300403 0x00000000 0x00000000 0x00000603\r\n2015-05-08T23:07:06.603Z| vmx| I120: hostCPUID level 0000000b, 0: 0x00000001 0x00000002 0x00000100 0x00000000\r\n2015-05-08T23:07:06.603Z| vmx| I120: hostCPUID level 0000000b, 1: 0x00000005 0x00000010 0x00000201 0x00000000\r\n2015-05-08T23:07:06.603Z| vmx| I120: hostCPUID level 0000000b, 2: 0x"
+    ],
+    [
+      0.000284,
+      "00000000 0x00000000 0x00000002 0x00000000\r\n2015-05-08T23:07:06.603Z| vmx| I120: hostCPUID level 0000000c, 0: 0x00000000 0x00000000 0x00000000 0x00000000\r\n2015-05-08T23:07:06.603Z| vmx| I120: hostCPUID level 0000000d, 0: 0x00000007 0x00000240 0x00000340 0x00000000\r\n2015-05-08T23:07:06.603Z| vmx| I120: hostCPUID level 0000000d, 1: 0x00000001 0x00000000 0x00000000 0x00000000\r\n2015-05-08T23:07:06.603Z| vmx| I120: hostCPUID level 0000000d, 2: 0x00000100 0x00000240 0x00000000 0x00000000\r\n2015-05-08T23:07:06.603Z|"
+    ],
+    [
+      0.000772,
+      " vmx| I120: hostCPUID level 0000000d, 3: 0x00000000 0x00000000 0x00000000 0x00000000\r\n2015-05-08T23:07:06.603Z| vmx| I120: hostCPUID level 0000000d, 4: 0x00000000 0x00000000 0x00000000 0x00000000\r\n2015-05-08T23:07:06.603Z| vmx| I120: hostCPUID level 0000000d, 5: 0x00000000 0x00000000 0x00000000 0x00000000\r\n2015-05-08T23:07:06.603Z| vmx| I120: hostCPUID level 0000000d, 6: 0x00000000 0x00000000 0x00000000 0x00000000\r\n2015-05-08T23:07:06.603Z| vmx| I120: hostCPUID level 0000000d, 7: 0x00000000 0x00000000 0x00000000 0x00000000\r\n2015-05-08T23:07:06.603Z| vmx| I120: hostCPUID level 0000000d, 8: 0x00000000 0x00000000 0x00000000 0x00000000\r\n2015-05-08T23:07:06.603Z| vmx| I120: hostCPUID level 0000000d, 9: 0x00000000 0x00000000 0x00000000 0x00000000\r\n2015-05-08T23:07:06.603Z| vmx| I120: hostCPUID level 0000000d, a: 0x00000000 0x00000000 0x00000000 0x00000000\r\n2015-05-08T23:07:06.603Z| vmx| I120: hostCPUID level 0000000d, b: 0x00000000 0x00000000 0x00000000 0x00000000\r\n2015-05-08T23:07:06.603Z| vmx| I120: hostCPUID lev"
+    ],
+    [
+      0.000069,
+      "el 0000000d, c: "
+    ],
+    [
+      0.000403,
+      "0x00000000 0x00000000 0x00000000 0x00000000\r\n2015-05-08T23:07:06.603Z| vmx| I120: hostCPUID level 0000000d, d: 0x00000000 0x00000000 0x00000000 0x00000000\r\n2015-05-08T23:07:06.603Z| vmx| I120: hostCPUID level 0000000d, e: 0x00000000 0x00000000 0x00000000 0x00000000\r\n2015-05-08T23:07:06.603Z| vmx| I120: hostCPUID level 0000000d, f: 0x00000000 0x00000000 0x00000000 0x00000000\r\n2015-05-08T23:07:06.603Z| vmx| I120: hostCPUID level 0000000d, 10: 0x00000000 0x00000000 0x00000000 0x00000000\r\n2015-05-08T23:07:06.60"
+    ],
+    [
+      0.000300,
+      "3Z| vmx| I120: hostCPUID level 0000000d, 11: 0x00000000 0x00000000 0x00000000 0x00000000\r\n2015-05-08T23:07:06.603Z| vmx| I120: hostCPUID level 0000000d, 12: 0x00000000 0x00000000 0x00000000 0x00000000\r\n2015-05-08T23:07:06.603Z| vmx| I120: hostCPUID level 0000000d, 13: 0x00000000 0x00000000 0x00000000 0x00000000\r\n2015-05-08T23:07:06.603Z| vmx| I120: hostCPUID level 0000000d, 14: 0x00000000 0x00000000 0x00000000 0x00000000\r\n2015-05-08T23:07:06.603Z| vmx| I120: hostCPUID level 0000000d, 15: 0x00000000 0x00000000 0x00000000 0x00000000\r\n2015-05-08T23:07:06.603Z| vmx| I120: hostCPUID level 0000000d, 16: 0x00000000 0x00000000 0x00000000 0x00000000\r\n2015-05-08T23:07:06.603Z| vmx| I120: hostCPUID level 0000000d, 17: 0x00000000 0x00000000 0x00000000 0x00000000\r\n2015-05-08T23:07:06.603Z| vmx| I120: hostCPUID level 0000000d, 18: 0x00000000 0x00000000 0x00000000 0x00000000\r\n2015-05-08T23:07:06.603Z| vmx| I120: hostCPUID level 0000000d, 19: 0x00000000 0x00000000 0x00000000 0x00000000\r\n2015-05-08T23:07:06.603Z| vmx| I120: h"
+    ],
+    [
+      0.000042,
+      "ostCPUID level 0000000d, 1a: 0x00000000 0x00000000 0x00000000 0x00000000\r\n2015-05-08T23:07:06.603Z| vmx| I120: hostCPUID level 0000000d, 1b: 0x00000000 0x00000000 0x00000000 0x00000000\r\n2015-05-08T23:07:06.603Z| vmx| I120: hostCPUID level 0000000d, 1c: 0x00000000 0x00000000 0x00000000 0x00000000\r\n2015-05-08T23:07:06.603Z| vmx| I120: hostCPUID level 0000000d, 1d: 0x00000000 0x00000000 0x00000000 0x00000000\r\n2015-05-08T23:07:06.603Z| vmx| I120: hostCPUID level 0000000d, 1e: 0x00000000 0x00000000 0x00000000 0x00000000\r\n2015-05-08T23:07:06.603Z| vmx| I120: hostCPUID level 0000000d, 1f: 0x00000000 0x00000000 0x00000000 0x00000000\r\n2015-05-08T23:07:06.603Z| vmx| I120: hostCPUID level 0000000d, 20: 0x00000000 0x00000000 0x00000000 0x00000000\r\n:"
+    ],
+    [
+      0.670281,
+      "\r"
+    ],
+    [
+      0.000627,
+      "2015-05-08T23:07:06.603Z| vmx| I120: hostCPUID level 0000000d, 21: 0x00000000 0x00000000 0x00000000 0x00000000\r\n2015-05-08T23:07:06.603Z| vmx| I120: hostCPUID level 0000000d, 22: 0x00000000 0x00000000 0x00000000 0x00000000\r\n2015-05-08T23:07:06.603Z| vmx| I120: hostCPUID level 0000000d, 23: 0x00000000 0x00000000 0x00000000 0x00000000\r\n2015-05-08T23:07:06.603Z| vmx| I120: hostCPUID level 0000000d, 24: 0x00000000 0x00000000 0x00000000 0x00000000\r\n2015-05-08T23:07:06.603Z| vmx| I120: hostCPUID level 0000000d, 2"
+    ],
+    [
+      0.000382,
+      "5: 0x00000000 0x00000000 0x00000000 0x00000000\r\n2015-05-08T23:07:06.603Z| vmx| I120: hostCPUID level 0000000d, 26: 0x00000000 0x00000000 0x00000000 0x00000000\r\n2015-05-08T23:07:06.603Z| vmx| I120: hostCPUID level 0000000d, 27: 0x00000000 0x00000000 0x00000000 0x00000000\r\n2015-05-08T23:07:06.603Z| vmx| I120: hostCPUID level 0000000d, 28: 0x00000000 0x00000000 0x00000000 0x00000000\r\n2015-05-08T23:07:06.603Z| vmx| I120: hostCPUID level 0000000d, 29: 0x00000000 0x00000000 0x00000000 0x00000000\r\n2015-05-08T23:07"
+    ],
+    [
+      0.000013,
+      ":06.603Z"
+    ],
+    [
+      0.001030,
+      "| vmx| I120: hostCPUID level 0000000d, 2a: 0x00000000 0x00000000 0x00000000 0x00000000\r\n2015-05-08T23:07:06.603Z| vmx| I120: hostCPUID level 0000000d, 2b: 0x00000000 0x00000000 0x00000000 0x00000000\r\n2015-05-08T23:07:06.604Z| vmx| I120: hostCPUID level 0000000d, 2c: 0x00000000 0x00000000 0x00000000 0x00000000\r\n2015-05-08T23:07:06.604Z| vmx| I120: hostCPUID level 0000000d, 2d: 0x00000000 0x00000000 0x00000000 0x00000000\r\n2015-05-08T23:07:06.604Z| vmx| I120: hostCPUID level 0000000d, 2e: 0x00000000 0x00000000 0x00000000 0x00000000\r\n2015-05-08T23:07:06.604Z| vmx| I120: hostCPUID level 0000000d, 2f: 0x00000000 0x00000000 0x00000000 0x00000000\r\n2015-05-08T23:07:06.604Z| vmx| I120: hostCPUID level 0000000d, 30: 0x00000000 0x00000000 0x00000000 0x00000000\r\n2015-05-08T23:07:06.604Z| vmx| I120: hostCPUID level 0000000d, 31: 0x00000000 0x00000000 0x00000000 0x00000000\r\n2015-05-08T23:07:06.604Z| vmx| I120: hostCPUID level 0000000d, 32: 0x00000000 0x00000000 0x00000000 0x00000000\r\n2015-05-08T23:07:06.604Z| vmx| I120: hos"
+    ],
+    [
+      0.000017,
+      "tCPUID l"
+    ],
+    [
+      0.000086,
+      "evel 0000000d, 33: 0x00000000 0x00000000 0x00000000 0x00000000\r\n2015-05-08T23:07:06.604Z| vmx| I120: hostCPUID level 0000000d, 34: 0x00000000 0x00000000 0x00000000 0x00000000\r\n2015-05-08T23:07:06.604Z| vmx| I120: hostCPUID level 0000000d, 35: 0x00000000 0x00000000 0x00000000 0x00000000\r\n2015-05-08T23:07:06.604Z| vmx| I120: hostCPUID level 0000000d, 36: 0x00000000 0x00000000 0x00000000 0x00000000\r\n2015-05-08T23:07:06.604Z| vmx| I120: hostCPUID level 0000000d, 37: 0x00000000 0x00000000 0x00000000 0x00000000\r\n"
+    ],
+    [
+      0.000027,
+      "2015-05-08T23:07:06.604Z| vmx| I120: hostCPUID level 0000000d, 38: 0x00000000 0x00000000 0x00000000 0x00000000\r\n2015-05-08T23:07:06.604Z| vmx| I120: hostCPUID level 0000000d, 39: 0x00000000 0x00000000 0x00000000 0x00000000\r\n2015-05-08T23:07:06.604Z| vmx| I120: hostCPUID level 0000000d, 3a: 0x00000000 0x00000000 0x00000000 0x00000000\r\n"
+    ],
+    [
+      0.110351,
+      "2015-05-08T23:07:06.604Z| vmx| I120: hostCPUID level 0000000d, 3b: 0x00000000 0x00000000 0x00000000 0x00000000\r\n2015-05-08T23:07:06.604Z| vmx| I120: hostCPUID level 0000000d, 3c: 0x00000000 0x00000000 0x00000000 0x00000000\r\n2015-05-08T23:07:06.604Z| vmx| I120: hostCPUID level 0000000d, 3d: 0x00000000 0x00000000 0x00000000 0x00000000\r\n2015-05-08T23:07:06.604Z| vmx| I120: hostCPUID level 0000000d, 3e: 0x00000000 0x00000000 0x00000000 0x00000000\r\n2015-05-08T23:07:06.604Z| vmx| I120: hostCPUID level 0000000d, 3"
+    ],
+    [
+      0.000274,
+      "f: 0x00000000 0x00000000 0x00000000 0x00000000\r\n2015-05-08T23:07:06.604Z| vmx| I120: hostCPUID level 80000000, 0: 0x80000008 0x00000000 0x00000000 0x00000000\r\n2015-05-08T23:07:06.604Z| vmx| I120: hostCPUID level 80000001, 0: 0x00000000 0x00000000 0x00000001 0x2c100800\r\n2015-05-08T23:07:06.604Z| vmx| I120: hostCPUID level 80000002, 0: 0x20202020 0x6e492020 0x286c6574 0x58202952\r\n2015-05-08T23:07:06.604Z| vmx| I120: hostCPUID level 80000003, 0: 0x286e6f65 0x43202952 0x45205550 0x36322d35\r\n2015-05-08T23:07:06.604Z| vmx| I120: hostCPUID level 80000004, 0: 0x76203034 0x20402032 0x30302e32 0x007a4847\r\n2015-05-08T23:07:06.604Z| vmx| I120: hostCPUID level 80000005, 0: 0x00000000 0x00000000 0x00000000 0x00000000\r\n2015-05-08T23:07:06.604Z| vmx| I120: hostCPUID level 80000006, 0: 0x00000000 0x00000000 0x01006040 0x00000000\r\n2015-05-08T23:07:06.604Z| vmx| I120: hostCPUID level 80000007, 0: 0x00000000 0x00000000 0x00000000 0x00000100\r\n:"
+    ],
+    [
+      0.879752,
+      "\r"
+    ],
+    [
+      0.000964,
+      "2015-05-08T23:07:06.604Z| vmx| I120: hostCPUID level 80000008, 0: 0x0000302e 0x00000000 0x00000000 0x00000000\r\n2015-05-08T23:07:06.604Z| vmx| I120: CPUID differences from hostCPUID.\r\n2015-05-08T23:07:06.604Z| vmx| I120: CPUID[1] level 00000001, 0: 0x000306e4 0x01200800 0x77bee3ff 0xbfebfbff\r\n2015-05-08T23:07:06.604Z| vmx| I120: CPUID[1] level 0000000b, 0: 0x00000001 0x00000002 0x00000100 0x00000001\r\n2015-05-08T23:07:06.604Z| vmx| I120: CPUID[1] level 0000000b, 1: 0x00000005 0x00000010 0x00000201 0x00000001\r"
+    ],
+    [
+      0.000342,
+      "\n2015-05-08T23:07:06.604Z| vmx| I120: CPUID[1] level 0000000b, 2: 0x00000000 0x00000000 0x00000002 0x00000001\r\n2015-05-08T23:07:06.604Z| vmx| I120: CPUID[2] level 00000001, 0: 0x000306e4 0x02200800 0x77bee3ff 0xbfebfbff\r\n2015-05-08T23:07:06.604Z| vmx| I120: CPUID[2] level 0000000b, 0: 0x00000001 0x00000002 0x00000100 0x00000002\r\n2015-05-08T23:07:06.604Z| vmx| I120: CPUID[2] level 0000000b, 1: 0x00000005 0x00000010 0x00000201 0x00000002\r\n2015-05-08T23:07:06.604Z| vmx| I120: CPUID[2] level 0000000b, 2: 0x0000"
+    ],
+    [
+      0.000051,
+      "0000 0x00000000 0x00000002 0x00000002\r\n2015-05-08T23:07:06.604Z| vmx| I120: CPUID[3] level 00000001, 0: 0x000306e4 0x03200800 0x77bee3ff 0xbfebfbff\r\n2015-05-08T23:07:06.604Z| vmx| I120: CPUID[3] level 0000000b, 0: 0x00000001 0x00000002 0x00000100 0x00000003\r\n2015-05-08T23:07:06.604Z| vmx| I120: CPUID[3] level 0000000b, 1: 0x00000005 0x00000010 0x00000201 0x00000003\r\n2015-05-08T23:07:06.604Z| vmx| I120: CPUID[3] level 0000000b, 2: 0x00000000 0x00000000 0x00000002 0x00000003\r\n2015-05-08T23:07:06.604Z| vmx| I120: CPUID[4] level 00000001, 0: 0x000306e4 0x04200800 0x77bee3ff 0xbfebfbff\r\n2015-05-08T23:07:06.604Z| vmx| I120: CPUID[4] level 0000000b, 0: 0x00000001 0x00000002 0x00000100 0x00000004\r\n2015-05-08T23:07:06.604Z| vmx| I120: CPUID[4] level 0000000b, 1: 0x00000005 0x00000010 0x00000201 0x00000004\r\n2015-05-08T23:07:06.604Z| vmx| I120: CPUID[4] level 0000000b, 2: 0x00000000 0x00000000 0x00000002 0x00000004\r\n2015-05-08T23:07:06.604Z| vmx| I120: CPUID[5] level 00000001, 0: 0x000306e4 0x05200800 0x77bee3ff 0xbfebf"
+    ],
+    [
+      0.000008,
+      "bff\r\n2015-05-08T2"
+    ],
+    [
+      0.000201,
+      "3:07:06.604Z| vmx| I120: CPUID[5] level 0000000b, 0: 0x00000001 0x00000002 0x00000100 0x00000005\r\n2015-05-08T23:07:06.604Z| vmx| I120: CPUID[5] level 0000000b, 1: 0x00000005 0x00000010 0x00000201 0x00000005\r\n2015-05-08T23:07:06.604Z| vmx| I120: CPUID[5] level 0000000b, 2: 0x00000000 0x00000000 0x00000002 0x00000005\r\n2015-05-08T23:07:06.604Z| vmx| I120: CPUID[6] level 00000001, 0: 0x000306e4 0x06200800 0x77bee3ff 0xbfebfbff\r\n2015-05-08T23:07:06.604Z| vmx| I120: CPUID[6] level 0000000b, 0: 0x00000001 0x000000"
+    ],
+    [
+      0.000008,
+      "02 0x00000100 0x00000006\r\n2015-05-08T23:07:06.604Z| vmx| I120: CPUID[6] level 0000000b, 1: 0x00000005 0x00000010 0x00000201 0x00000006\r\n2015-05-08T23:07:06.604Z| vmx| I120: CPUID[6] level 0000000b, 2: 0x00000000 0x00000000 0x00000002 0x00000006\r\n2015-05-08T23:07:06.604Z| vmx| I120: CPUID[7] level 00000001, 0: 0x000306e4 0x07200800 0x77bee3ff 0xbfebfbff\r\n2015-05-08T23:07:06.604Z| vmx| I120: CPUID[7] level 0000000b, 0: 0x00000001 0x00000002 0x00000100 0x00000007\r\n2015-05-08T23:07:06.604Z| vmx| I120: CPUID[7] level 00"
+    ],
+    [
+      0.000454,
+      "00000b, 1: 0x00000005 0x00000010 0x00000201 0x00000007\r\n2015-05-08T23:07:06.604Z| vmx| I120: CPUID[7] level 0000000b, 2: 0x00000000 0x00000000 0x00000002 0x00000007\r\n2015-05-08T23:07:06.604Z| vmx| I120: CPUID[8] level 00000001, 0: 0x000306e4 0x08200800 0x77bee3ff 0xbfebfbff\r\n2015-05-08T23:07:06.604Z| vmx| I120: CPUID[8] level 0000000b, 0: 0x00000001 0x00000002 0x00000100 0x00000008\r\n2015-05-08T23:07:06.604Z| vmx| I120: CPUID[8] level 0000000b, 1: 0x00000005 0x00000010 0x00000201 0x00000008\r\n2015-05-08T23:07"
+    ],
+    [
+      0.001021,
+      ":06.604Z| vmx| I120: CPUID[8] level 0000000b, 2: 0x00000000 0x00000000 0x00000002 0x00000008\r\n2015-05-08T23:07:06.604Z| vmx| I120: CPUID[9] level 00000001, 0: 0x000306e4 0x09200800 0x77bee3ff 0xbfebfbff\r\n2015-05-08T23:07:06.604Z| vmx| I120: CPUID[9] level 0000000b, 0: 0x00000001 0x00000002 0x00000100 0x00000009\r\n2015-05-08T23:07:06.605Z| vmx| I120: CPUID[9] level 0000000b, 1: 0x00000005 0x00000010 0x00000201 0x00000009\r\n2015-05-08T23:07:06.605Z| vmx| I120: CPUID[9] level 0000000b, 2: 0x00000000 0x00000000 0"
+    ],
+    [
+      0.000777,
+      "x0000000"
+    ],
+    [
+      0.000008,
+      "2 0x00000009\r\n2015-05-08T23:07:06.605Z| vmx| I120: CPUID[10] level 00000001, 0: 0x000306e4 0x0a200800 0x77bee3ff 0xbfebfbff\r\n:"
+    ],
+    [
+      0.571081,
+      "\r"
+    ],
+    [
+      0.001075,
+      "2015-05-08T23:07:06.605Z| vmx| I120: CPUID[10] level 0000000b, 0: 0x00000001 0x00000002 0x00000100 0x0000000a\r\n2015-05-08T23:07:06.605Z| vmx| I120: CPUID[10] level 0000000b, 1: 0x00000005 0x00000010 0x00000201 0x0000000a\r\n2015-05-08T23:07:06.605Z| vmx| I120: CPUID[10] level 0000000b, 2: 0x00000000 0x00000000 0x00000002 0x0000000a\r\n2015-05-08T23:07:06.605Z| vmx| I120: CPUID[11] level 00000001, 0: 0x000306e4 0x0b200800 0x77bee3ff 0xbfebfbff\r\n2015-05-08T23:07:06.605Z| vmx| I120: CPUID[11] level 0000000b, 0: 0x"
+    ],
+    [
+      0.000441,
+      "00000001 0x00000002 0x00000100 0x0000000b\r\n2015-05-08T23:07:06.605Z| vmx| I120: CPUID[11] level 0000000b, 1: 0x00000005 0x00000010 0x00000201 0x0000000b\r\n2015-05-08T23:07:06.605Z| vmx| I120: CPUID[11] level 0000000b, 2: 0x00000000 0x00000000 0x00000002 0x0000000b\r\n2015-05-08T23:07:06.605Z| vmx| I120: CPUID[12] level 00000001, 0: 0x000306e4 0x0c200800 0x77bee3ff 0xbfebfbff\r\n2015-05-08T23:07:06.605Z| vmx| I120: CPUID[12] level 0000000b, 0: 0x00000001 0x00000002 0x00000100 0x0000000c\r\n2015-05-08T23:07:06.605Z| vmx| I1"
+    ],
+    [
+      0.004171,
+      "20: CPUID[12] level 0000000b, 1: 0x00000005 0x00000010 0x00000201 0x0000000c\r\n2015-05-08T23:07:06.605Z| vmx| I120: CPUID[12] level 0000000b, 2: 0x00000000 0x00000000 0x00000002 0x0000000c\r\n2015-05-08T23:07:06.605Z| vmx| I120: CPUID[13] level 00000001, 0: 0x000306e4 0x0d200800 0x77bee3ff 0xbfebfbff\r\n2015-05-08T23:07:06.605Z| vmx| I120: CPUID[13] level 0000000b, 0: 0x00000001 0x00000002 0x00000100 0x0000000d\r\n2015-05-08T23:07:06.605Z| vmx| I120: CPUID[13] level 0000000b, 1: 0x00000005 0x00000010 0x00000201 0x0000000d\r\n2015-05-08T23:07:06.605Z| vmx| I120: CPUID[13] level 0000000b, 2: 0x00000000 0x00000000 0x00000002 0x0000000d\r\n2015-05-08T23:07:06.605Z| vmx| I120: CPUID[14] level 00000001, 0: 0x000306e4 0x0e200800 0x77bee3ff 0xbfebfbff\r\n2015-05-08T23:07:06.605Z| vmx| I120: CPUID[14] level 0000000b, 0: 0x00000001 0x00000002 0x00000100 0x0000000e\r\n2015-05-08T23:07:06.605Z| vmx| I120: CPUID[14] level 0000000b, 1: 0x00000005 0x00000010 0x00000201 0x0000000e\r\n2015-05-08T23:07:06.605Z| vmx| I120: CPUID[14] level 00000"
+    ],
+    [
+      0.000014,
+      "00b, 2: 0x00000000 0x00000000 0x00000002 0x0000000e\r\n2015-05-08T23:07:06.605Z| vmx| I120: CPUID[15] level 00000001, 0: 0x000306e4 0x0f200800 0x77bee3ff 0xbfebfbff\r\n2015-05-08T23:07:06.605Z| vmx| I120: CPUID[15] level 0000000b, 0: 0x00000001 0x00000002 0x00000100 0x0000000f\r\n2015-05-08T23:07:06.605Z| vmx| I120: CPUID[15] level 0000000b, 1: 0x00000005 0x00000010 0x00000201 0x0000000f\r\n2015-05-08T23:07:06.605Z| vmx| I120: CPUID[15] level 0000000b, 2: 0x00000000 0x00000000 0x00000002 0x0000000f\r\n"
+    ],
+    [
+      0.036438,
+      "2015-05-08T23:07:06.605Z| vmx| I120: CPUID[16] level 00000001, 0: 0x000306e4 0x20200800 0x77bee3ff 0xbfebfbff\r\n2015-05-08T23:07:06.605Z| vmx| I120: CPUID[16] level 0000000b, 0: 0x00000001 0x00000002 0x00000100 0x00000020\r\n2015-05-08T23:07:06.605Z| vmx| I120: CPUID[16] level 0000000b, 1: 0x00000005 0x00000010 0x00000201 0x00000020\r\n2015-05-08T23:07:06.605Z| vmx| I120: CPUID[16] level 0000000b, 2: 0x00000000 0x00000000 0x00000002 0x00000020\r\n2015-05-08T23:07:06.605Z| vmx| I120: CPUID[17] level 00000001, 0: 0x"
+    ],
+    [
+      0.000161,
+      "000306e4 0x21200800 0x77bee3ff 0xbfebfbff\r\n2015-05-08T23:07:06.605Z| vmx| I120: CPUID[17] level 0000000b, 0: 0x00000001 0x00000002 0x00000100 0x00000021\r\n2015-05-08T23:07:06.605Z| vmx| I120: CPUID[17] level 0000000b, 1: 0x00000005 0x00000010 0x00000201 0x00000021\r\n2015-05-08T23:07:06.605Z| vmx| I120: CPUID[17] level 0000000b, 2: 0x00000000 0x00000000 0x00000002 0x00000021\r\n2015-05-08T23:07:06.605Z| vmx| I120: CPUID[18] level 00000001, 0: 0x000306e4 0x22200800 0x77bee3ff 0xbfebfbff\r\n2015-05-08T23:07:06.605Z| vmx| I1"
+    ],
+    [
+      0.025843,
+      "20: CPUID[18] level 0000000b, 0: 0x00000001 0x00000002 0x00000100 0x00000022\r\n2015-05-08T23:07:06.605Z| vmx| I120: CPUID[18] level 0000000b, 1: 0x00000005 0x00000010 0x00000201 0x00000022\r\n2015-05-08T23:07:06.605Z| vmx| I120: CPUID[18] level 0000000b, 2: 0x00000000 0x00000000 0x00000002 0x00000022\r\n2015-05-08T23:07:06.605Z| vmx| I120: CPUID[19] level 00000001, 0: 0x000306e4 0x23200800 0x77bee3ff 0xbfebfbff\r\n2015-05-08T23:07:06.605Z| vmx| I120: CPUID[19] level 0000000b, 0: 0x00000001 0x00000002 0x00000100 0x"
+    ],
+    [
+      0.000020,
+      "00000023\r\n2015-05-08T23:07:06.605Z| vmx| I120: CPUID[19] level 0000000b, 1: 0x00000005 0x00000010 0x00000201 0x00000023\r\n2015-05-08T23:07:06.605Z| vmx| I120: CPUID[19] level 0000000b, 2: 0x00000000 0x00000000 0x00000002 0x00000023\r\n:"
+    ],
+    [
+      0.468548,
+      "\r2015-05-08T23:07:06.605Z| vmx| I120: CPUID[20] level 00000001, 0: 0x000306e4 0x24200800 0x77bee3ff 0xbfebfbff\r\n2015-05-08T23:07:06.605Z| vmx| I120: CPUID[20] level 0000000b, 0: 0x00000001 0x00000002 0x00000100 0x00000024\r\n2015-05-08T23:07:06.605Z| vmx| I120: CPUID[20] level 0000000b, 1: 0x00000005 0x00000010 0x00000201 0x00000024\r\n2015-05-08T23:07:06.605Z| vmx| I120: CPUID[20] level 0000000b, 2: 0x00000000 0x00000000 0x00000002 0x00000024\r\n2015-05-08T23:07:06.605Z| vmx| I120: CPUID[21] level 00000001, 0: 0x"
+    ],
+    [
+      0.001104,
+      "000306e4 0x25200800 0x77bee3ff 0xbfebfbff\r\n2015-05-08T23:07:06.605Z| vmx| I120: CPUID[21] level 0000000b, 0: 0x00000001 0x00000002 0x00000100 0x00000025\r\n2015-05-08T23:07:06.605Z| vmx| I120: CPUID[21] level 0000000b, 1: 0x00000005 0x00000010 0x00000201 0x00000025\r\n2015-05-08T23:07:06.605Z| vmx| I120: CPUID[21] level 0000000b, 2: 0x00000000 0x00000000 0x00000002 0x00000025\r\n2015-05-08T23:07:06.605Z| vmx| I120: CPUID[22] level 00000001, 0: 0x000306e4 0x26200800 0x77bee3ff 0xbfebfbff\r\n2015-05-08T23:07:06.605Z| vmx| I120: CPUID[22] level 0000000b, 0: 0x00000001 0x00000002 0x00000100 0x00000026\r\n2015-05-08T23:07:06.605Z| vmx| I120: CPUID[22] level 0000000b, 1: 0x00000005 0x00000010 0x00000201 0x00000026\r\n2015-05-08T23:07:06.605Z| vmx| I120: CPUID[22] level 0000000b, 2: 0x00000000 0x00000000 0x00000002 0x00000026\r\n2015-05-08T23:07:06.605Z| vmx| I120: CPUID[23] level 00000001, 0: 0x000306e4 0x27200800 0x77bee3ff 0xbfebfbff\r\n2015-05-08T23:07:06.606Z| vmx| I120: CPUID[23] level 0000000b, 0: 0x00000001 0x00000002 0x000"
+    ],
+    [
+      0.000009,
+      "00100 0x00000027\r\n2015-05-08T23:07:06.606Z| vmx| I120: CPUID[23] level 0000000b, 1: 0x00000005 0x00000010 0x00000201 0x00000027\r\n2015-05-08T23:07:06.606Z| vmx| I120: CPUID[23] level 0000000b, 2: 0x00000000 0x00000000 0x00000002 0x00000027\r\n2015-05-08T23:07:06.606Z| vmx| I120: CPUID[24] level 00000001, 0: 0x000306e4 0x28200800 0x77bee3ff 0xbfebfbff\r\n2015-05-08T23:07:06.606Z| vmx| I120: CPUID[24] level 0000000b, 0: 0x00000001 0x00000002 0x00000100 0x00000028\r\n2015-05-08T23:07:06.606Z| vmx| I120: CPUID[24] level 0000000b, 1: "
+    ],
+    [
+      0.002503,
+      "0x00000005 0x00000010 0x00000201 0x00000028\r\n2015-05-08T23:07:06.606Z| vmx| I120: CPUID[24] level 0000000b, 2: 0x00000000 0x00000000 0x00000002 0x00000028\r\n2015-05-08T23:07:06.606Z| vmx| I120: CPUID[25] level 00000001, 0: 0x000306e4 0x29200800 0x77bee3ff 0xbfebfbff\r\n2015-05-08T23:07:06.606Z| vmx| I120: CPUID[25] level 0000000b, 0: 0x00000001 0x00000002 0x00000100 0x00000029\r\n2015-05-08T23:07:06.606Z| vmx| I120: CPUID[25] level 0000000b, 1: 0x00000005 0x00000010 0x00000201 0x00000029\r\n2015-05-08T23:07:06.606Z| vmx| I120: CPUID[25] level 0000000b, 2: 0x00000000 0x00000000 0x00000002 0x00000029\r\n2015-05-08T23:07:06.606Z| vmx| I120: CPUID[26] level 00000001, 0: 0x000306e4 0x2a200800 0x77bee3ff 0xbfebfbff\r\n2015-05-08T23:07:06.606Z| vmx| I120: CPUID[26] level 0000000b, 0: 0x00000001 0x00000002 0x00000100 0x0000002a\r\n2015-05-08T23:07:06.606Z| vmx| I120: CPUID[26] level 0000000b, 1: 0x00000005 0x00000010 0x00000201 0x0000002a\r\n2015-05-08T23:07:06.606Z| vmx| I120: CPUID[26] level 0000000b, 2: 0x00000000 0x00000000 0x0"
+    ],
+    [
+      0.000011,
+      "0000002 0x0000002a\r\n2015-05-08T23:07:06.606Z| vmx| I120: CPUID[27] level 00000001, 0: 0x000306e4 0x2b200800 0x77bee3ff 0xbfebfbff\r\n2015-05-08T23:07:06.606Z| vmx| I120: CPUID[27] level 0000000b, 0: 0x00000001 0x00000002 0x00000100 0x0000002b\r\n2015-05-08T23:07:06.606Z| vmx| I120: CPUID[27] level 0000000b, 1: 0x00000005 0x00000010 0x00000201 0x0000002b\r\n2015-05-08T23:07:06.606Z| vmx| I120: CPUID[27] level 0000000b, 2: 0x00000000 0x00000000 0x00000002 0x0000002b\r\n2015-05-08T23:07:06.606Z| vmx| I120: CPUID[28] level 000"
+    ],
+    [
+      0.000187,
+      "00001, 0: 0x000306e4 0x2c200800 0x77bee3ff 0xbfebfbff\r\n2015-05-08T23:07:06.606Z| vmx| I120: CPUID[28] level 0000000b, 0: 0x00000001 0x00000002 0x00000100 0x0000002c\r\n2015-05-08T23:07:06.606Z| vmx| I120: CPUID[28] level 0000000b, 1: 0x00000005 0x00000010 0x00000201 0x0000002c\r\n2015-05-08T23:07:06.606Z| vmx| I120: CPUID[28] level 0000000b, 2: 0x00000000 0x00000000 0x00000002 0x0000002c\r\n2015-05-08T23:07:06.606Z| vmx| I120: CPUID[29] level 00000001, 0: 0x000306e4 0x2d200800 0x77bee3ff 0xbfebfbff\r\n2015-05-08T23:07:06.606Z| vmx| I120: CPUID[29] level 0000000b, 0: 0x00000001 0x00000002 0x00000100 0x0000002d\r\n2015-05-08T23:07:06.606Z| vmx| I120: CPUID[29] level 0000000b, 1: 0x00000005 0x00000010 0x00000201 0x0000002d\r\n:"
+    ],
+    [
+      0.531409,
+      "\r"
+    ],
+    [
+      0.000761,
+      "2015-05-08T23:07:06.606Z| vmx| I120: CPUID[29] level 0000000b, 2: 0x00000000 0x00000000 0x00000002 0x0000002d\r\n2015-05-08T23:07:06.606Z| vmx| I120: CPUID[30] level 00000001, 0: 0x000306e4 0x2e200800 0x77bee3ff 0xbfebfbff\r\n2015-05-08T23:07:06.606Z| vmx| I120: CPUID[30] level 0000000b, 0: 0x00000001 0x00000002 0x00000100 0x0000002e\r\n2015-05-08T23:07:06.606Z| vmx| I120: CPUID[30] level 0000000b, 1: 0x00000005 0x00000010 0x00000201 0x0000002e\r\n2015-05-08T23:07:06.606Z| vmx| I120: CPUID[30] level 0000000b, 2: 0x"
+    ],
+    [
+      0.000646,
+      "00000000 0x00000000 0x00000002 0x0000002e\r\n2015-05-08T23:07:06.606Z| vmx| I120: CPUID[31] level 00000001, 0: 0x000306e4 0x2f200800 0x77bee3ff 0xbfebfbff\r\n2015-05-08T23:07:06.606Z| vmx| I120: CPUID[31] level 0000000b, 0: 0x00000001 0x00000002 0x00000100 0x0000002f\r\n2015-05-08T23:07:06.606Z| vmx| I120: CPUID[31] level 0000000b, 1: 0x00000005 0x00000010 0x00000201 0x0000002f\r\n2015-05-08T23:07:06.606Z| vmx| I120: CPUID[31] level 0000000b, 2: 0x00000000 0x00000000 0x00000002 0x0000002f\r\n2015-05-08T23:07:06.606Z|"
+    ],
+    [
+      0.000049,
+      " vmx| I120: CPUID Maximum Physical Address Bits supported across all CPUs: 46\r\n2015-05-08T23:07:06.607Z| vmx| I120: Common: MSR       0x3a =                0x5\r\n2015-05-08T23:07:06.607Z| vmx| I120: Common: MSR      0x480 =   0xda040000000010\r\n2015-05-08T23:07:06.607Z| vmx| I120: Common: MSR      0x481 =       0xff00000016\r\n2015-05-08T23:07:06.607Z| vmx| I120: Common: MSR      0x482 = 0xfff9fffe0401e172\r\n2015-05-08T23:07:06.607Z| vmx| I120: Common: MSR      0x483 =   0x7fffff00036dff\r\n2015-05-08T23:07:06.607Z| vmx| "
+    ],
+    [
+      0.000671,
+      "I120: Common: MSR      0x484 =     0xffff000011ff\r\n2015-05-08T23:07:06.607Z| vmx| I120: Common: MSR      0x485 =         0x100401e5\r\n2015-05-08T23:07:06.607Z| vmx| I120: Common: MSR      0x486 =         0x80000021\r\n2015-05-08T23:07:06.607Z| vmx| I120: Common: MSR      0x487 =         0xffffffff\r\n2015-05-08T23:07:06.607Z| vmx| I120: Common: MSR      0x488 =             0x2000\r\n2015-05-08T23:07:06.607Z| vmx| I120: Common: MSR      0x489 =           0x1767ff\r\n2015-05-08T23:07:06.607Z| vmx| I120: Common: MSR      0x48a = "
+    ],
+    [
+      0.000009,
+      "              0x2a\r\n2015-05-08T23:07:06.607Z| vmx| I120: Common: MSR      0x48b =      0xfff00000000\r\n2015-05-08T23:07:06.607Z| vmx| I120: Common: MSR      0x48c =      0xf0106134141\r\n"
+    ],
+    [
+      0.111047,
+      "2015-05-08T23:07:06.607Z| vmx| I120: Common: MSR      0x48d =       0xff00000016\r\n2015-05-08T23:07:06.607Z| vmx| I120: Common: MSR      0x48e = 0xfff9fffe04006172\r\n2015-05-08T23:07:06.607Z| vmx| I120: Common: MSR      0x48f =   0x7fffff00036dfb\r\n2015-05-08T23:07:06.607Z| vmx| I120: Common: MSR      0x490 =     0xffff000011fb\r\n2015-05-08T23:07:06.607Z| vmx| I120: Common: MSR      0x491 =                  0\r\n2015-05-08T23:07:06.607Z| vmx| I120: Common: MSR 0xc0010114 =                  0\r\n2015-05-08T23:07:06."
+    ],
+    [
+      0.000417,
+      "607Z| vmx| I120: Common: MSR       0xce =      0xc10e4811400\r\n2015-05-08T23:07:06.607Z| vmx| I120: UTIL: Current file descriptor limit: soft 4096, hard 4096.\r\n2015-05-08T23:07:06.607Z| vmx| I120: PTSC: using TSC + offset (-760927763039174)\r\n2015-05-08T23:07:06.607Z| vmx| I120: PTSC: hardware TSCs are synchronized.\r\n2015-05-08T23:07:06.607Z| vmx| I120: PTSC: current PTSC=29273162652202966\r\n2015-05-08T23:07:06.607Z| vmx| I120: VMIOP: Init started\r\n2015-05-08T23:07:06.608Z| vmx| I120: MKSXlib: Initialized thread-safe Xlib\r\n2015-05-08T23:07:06.608Z| vmx| W110: ObtainHardwareID unexpected failure: 22.\r\n2015-05-08T23:07:06.608Z| vmx| W110: Hostinfo_MachineID ObtainHardwareID failure (Invalid argument); providing\r\n:"
+    ],
+    [
+      3.206881,
+      "\r"
+    ],
+    [
+      0.000790,
+      " default.\r\n2015-05-08T23:07:06.609Z| vmx| I120: [0x23FF3000-0x24F503FC): /bin/vmx\r\n2015-05-08T23:07:06.707Z| vmx| I120: changing directory to /vmfs/volumes/54637d84-80b43850-87a8-74e6e2722021/P\r\nHX01UWEB01/.\r\n2015-05-08T23:07:06.707Z| vmx| I120: Config file: /vmfs/volumes/54637d84-80b43850-87a8-74e6e2722021/PHX01UWEB0\r\n1/PHX01UWEB01.vmx\r\n2015-05-08T23:07:06.709Z| vmx| I120: Vix: [39855555 mainDispatch.c:3964]: VMAutomation_ReportPowerOpFinished: \r\nstatevar=1, newAppState=1873, success=1 additionalError=0\r\n2"
+    ],
+    [
+      0.000394,
+      "015-05-08T23:07:06.709Z| vmx| I120: Vix: [39855555 mainDispatch.c:3964]: VMAutomation_ReportPowerOpFinished: \r\nstatevar=2, newAppState=1878, success=1 additionalError=0\r\n2015-05-08T23:07:06.945Z| vmx| I120: VMXVmdbCbVmVmxMigrate: Got SET callback for /vm/#_VMX/vmx/migrateState/cm\r\nd/##1_24d/op/=from\r\n2015-05-08T23:07:06.945Z| vmx| I120: Could not identify IP address family of in/srcLogIp: \r\n2015-05-08T23:07:06.945Z| vmx| I120: Could not identify IP address family of in/dstLogIp: \r\n2015-05-08T23:07:06.945Z| vmx| I120: VM"
+    ],
+    [
+      0.000756,
+      "XVmdbVmVmxMigrateGetParam: type: 1 srcIp=\u003c10.20.4.20\u003e dstIp=\u003c10.20.4.16\r\n\u003e mid=5159a143a91d7 uuid=4c4c4544-0032-3810-8034-c2c04f503232 priority=high checksumMemory=no maxDowntime=0 en\r\ncrypted=0 resumeDuringPageIn=no latencyAware=yes diskOpFile=\r\n2015-05-08T23:07:06.946Z| vmx| I120: VMXVmdbVmVmxMigrateGetParam: type 1 unsharedSwap 0 memMinToTransfer 0 cpu\r\nMinToTransfer 0 numDisks 0 numStreamIps 0\r\n2015-05-08T23:07:06.946Z| vmx| I120: Received migrate 'from' request for mid id 1431126392082903, src ip \u003c10.2"
+    ],
+    [
+      0.000710,
+      "\r\n0.4.20\u003e.\r\n2015-05-08T23:07:06.947Z| vmx| I120: MigrateSetInfo: state=7 srcIp=\u003c10.20.4.20\u003e dstIp=\u003c10.20.4.16\u003e mid=1431126\r\n392082903 uuid=4c4c4544-0032-3810-8034-c2c04f503232 priority=high\r\n2015-05-08T23:07:06.947Z| vmx| I120: MigrateSetState: Transitioning from state 0 to 7.\r\n2015-05-08T23:07:06.947Z| vmx| I120: Migrate: Overriding message callbacks with migration handlers.\r\n2015-05-08T23:07:07.017Z| vmx| A115: ConfigDB: Setting config.readOnly = \"TRUE\"\r\n2015-05-08T23:07:07.017Z| vmx| W110: PowerOn\r\n2015-"
+    ],
+    [
+      0.000019,
+      "05-08T23:07:"
+    ],
+    [
+      0.000202,
+      "07.050Z| vmx| I120: Vix: [39855555 mainDispatch.c:3964]: VMAutomation_ReportPowerOpFinished: \r\nstatevar=0, newAppState=1871, success=1 additionalError=0\r\n2015-05-08T23:07:07.051Z| vmx| I120: UNAME VMkernel PHX01ESX06.corp.namecheap.net 5.5.0 #1 SMP Release build-2\r\n143827 Sep 18 2014 16:50:54 x86_64 (uwglibc release: vmware, version: 2.12.2)\r\n2015-05-08T23:07:07.051Z| vmx| I120: DICT --- USER PREFERENCES //.vmware/preferences \r\n2015-05-08T23:07:07.051Z| vmx| I120: DICT --- USER DEFAULTS //.vmware/config \r\n2"
+    ],
+    [
+      0.000028,
+      "015-05-08T23:07:07.051Z| vmx| I120: DICT --- HOST DEFAULTS /etc/vmware/config \r\n2015-05-08T23:07:07.051Z| vmx| I120: DICT                    libdir = /usr/lib/vmware\r\n2015-05-08T23:07:07.051Z| vmx| I120: DICT           authd.proxy.nfc = vmware-hostd:ha-nfc\r\n2015-05-08T23:07:07.051Z| vmx| I120: DICT        authd.proxy.nfcssl = vmware-hostd:ha-nfcssl\r\n2015-05-08T23:07:07.051Z| vmx| I120: DICT   authd.proxy.vpxa-nfcssl = vmware-vpxa:vpxa-nfcssl\r\n2015-05-08T23:07:07.051Z| vmx| I120: DICT      authd.proxy.vpxa-nfc = vmware-vpxa:vpxa-nfc\r\n:"
+    ],
+    [
+      37.239245,
+      "\r"
+    ],
+    [
+      0.000664,
+      "2015-05-08T23:07:07.051Z| vmx| I120: DICT            authd.fullpath = /sbin/authd\r\n2015-05-08T23:07:07.051Z| vmx| I120: DICT featureCompat.evc.completeMasks = TRUE\r\n2015-05-08T23:07:07.051Z| vmx| I120: DICT  featMask.evc.cpuid.Intel = Val:1\r\n2015-05-08T23:07:07.051Z| vmx| I120: DICT featMask.evc.cpuid.FAMILY = Val:6\r\n2015-05-08T23:07:07.051Z| vmx| I120: DICT  featMask.evc.cpuid.MODEL = Val:0x3a\r\n2015-05-08T23:07:07.051Z| vmx| I120: DICT featMask.evc.cpuid.STEPPING = Val:0\r\n2015-05-08T23:07:07.051Z| vmx| I12"
+    ],
+    [
+      0.000408,
+      "0: DICT featMask.evc.cpuid.NUMLEVELS = Val:0xd\r\n2015-05-08T23:07:07.051Z| vmx| I120: DICT featMask.evc.cpuid.NUM_EXT_LEVELS = Val:0x80000008\r\n2015-05-08T23:07:07.051Z| vmx| I120: DICT featMask.evc.cpuid.CMPXCHG16B = Val:1\r\n2015-05-08T23:07:07.051Z| vmx| I120: DICT     featMask.evc.cpuid.DS = Val:1\r\n2015-05-08T23:07:07.051Z| vmx| I120: DICT featMask.evc.cpuid.LAHF64 = Val:1\r\n2015-05-08T23:07:07.051Z| vmx| I120: DICT     featMask.evc.cpuid.LM = Val:1\r\n2015-05-08T23:07:07.051Z| vmx| I120: DICT  featMask.evc.cpuid.MWAIT ="
+    ],
+    [
+      0.000541,
+      " Val:1\r\n2015-05-08T23:07:07.051Z| vmx| I120: DICT     featMask.evc.cpuid.NX = Val:1\r\n2015-05-08T23:07:07.051Z| vmx| I120: DICT     featMask.evc.cpuid.SS = Val:1\r\n2015-05-08T23:07:07.051Z| vmx| I120: DICT   featMask.evc.cpuid.SSE3 = Val:1\r\n2015-05-08T23:07:07.051Z| vmx| I120: DICT  featMask.evc.cpuid.SSSE3 = Val:1\r\n2015-05-08T23:07:07.051Z| vmx| I120: DICT  featMask.evc.cpuid.SSE41 = Val:1\r\n2015-05-08T23:07:07.051Z| vmx| I120: DICT featMask.evc.cpuid.POPCNT = Val:1\r\n2015-05-08T23:07:07.051Z| vmx| I120: DICT featMask.evc.cpuid.RDTSCP = Val:1\r\n2015-05-08T23:07:07.051Z| vmx| I120: DICT  featMask.evc.cpuid.SSE42 = Val:1\r\n2015-05-08T23:07:07.051Z| vmx| I120: DICT    featMask.evc.cpuid.VMX = Val:1\r\n2015-05-08T23:07:07.051Z| vmx| I120: DICT   featMask.evc.hv.capable = Val:1\r\n2015-05-08T23:07:07.051Z| vmx| I120: DICT    featMask.evc.cpuid.AES = Val:1\r\n2015-05-08T23:07:07.051Z| vmx| I120: DICT featMask.evc.cpuid.PCLMULQDQ = Val:1\r\n2015-05-08T23:07:07.051Z| vmx| I120: DICT  featMask.evc.vt.realmode = Val:1\r\n2015-05-08T2"
+    ],
+    [
+      0.000031,
+      "3:07:07.051Z|"
+    ],
+    [
+      0.000915,
+      " vmx| I120: DICT    featMask.evc.cpuid.AVX = Val:1\r\n2015-05-08T23:07:07.051Z| vmx| I120: DICT   featMask.evc.cpuid.PCID = Val:1\r\n2015-05-08T23:07:07.051Z| vmx| I120: DICT featMask.evc.cpuid.XCR0_MASTER_SSE = Val:1\r\n2015-05-08T23:07:07.051Z| vmx| I120: DICT featMask.evc.cpuid.XCR0_MASTER_YMM_H = Val:1\r\n2015-05-08T23:07:07.051Z| vmx| I120: DICT  featMask.evc.cpuid.XSAVE = Val:1\r\n2015-05-08T23:07:07.051Z| vmx| I120: DICT featMask.evc.cpuid.ENFSTRG = Val:1\r\n2015-05-08T23:07:07.051Z| vmx| I120: DICT   featMask.e"
+    ],
+    [
+      0.000227,
+      "vc.cpuid.F16C = Val:1\r\n2015-05-08T23:07:07.051Z| vmx| I120: DICT featMask.evc.cpuid.FSGSBASE = Val:1\r\n2015-05-08T23:07:07.051Z| vmx| I120: DICT featMask.evc.cpuid.RDRAND = Val:1\r\n2015-05-08T23:07:07.051Z| vmx| I120: DICT   featMask.evc.cpuid.SMEP = Val:1\r\n2015-05-08T23:07:07.051Z| vmx| I120: DICT featMask.evc.misc.cpuidFaulting = Val:1\r\n2015-05-08T23:07:07.051Z| vmx| I120: DICT --- SITE DEFAULTS /usr/lib/vmware/config \r\n2015-05-08T23:07:07.051Z| vmx| I120: DICT --- NONPERSISTENT\r\n:"
+    ],
+    [
+      1.428205,
+      "\r"
+    ],
+    [
+      0.000855,
+      "2015-05-08T23:07:07.051Z| vmx| I120: DICT               sched.group = host/user\r\n2015-05-08T23:07:07.051Z| vmx| I120: DICT --- COMMAND LINE\r\n2015-05-08T23:07:07.051Z| vmx| I120: DICT               sched.group = host/user\r\n2015-05-08T23:07:07.051Z| vmx| I120: DICT --- RECORDING\r\n2015-05-08T23:07:07.051Z| vmx| I120: DICT               sched.group = host/user\r\n2015-05-08T23:07:07.051Z| vmx| I120: DICT --- CONFIGURATION /vmfs/volumes/54637d84-80b43850-87a8-74e6e2722021/\r\nPHX01UWEB01/PHX01UWEB01.vmx \r\n2015-05-08"
+    ],
+    [
+      0.000233,
+      "T23:07:07.051Z| vmx| I120: DICT            config.version = 8\r\n2015-05-08T23:07:07.051Z| vmx| I120: DICT         virtualHW.version = 8\r\n2015-05-08T23:07:07.051Z| vmx| I120: DICT                     nvram = PHX01UWEB01.nvram\r\n2015-05-08T23:07:07.051Z| vmx| I120: DICT        pciBridge0.present = TRUE\r\n2015-05-08T23:07:07.051Z| vmx| I120: DICT              svga.present = TRUE\r\n"
+    ],
+    [
+      0.107163,
+      "2015-05-08T23:07:07.051Z| vmx| I120: DICT        pciBridge4.present = TRUE\r\n2015-05-08T23:07:07.051Z| vmx| I120: DICT     pciBridge4.virtualDev = pcieRootPort\r\n2015-05-08T23:07:07.051Z| vmx| I120: DICT      pciBridge4.functions = 8\r\n2015-05-08T23:07:07.051Z| vmx| I120: DICT        pciBridge5.present = TRUE\r\n2015-05-08T23:07:07.052Z| vmx| I120: DICT     pciBridge5.virtualDev = pcieRootPort\r\n2015-05-08T23:07:07.052Z| vmx| I120: DICT      pciBridge5.functions = 8\r\n2015-05-08T23:07:07.052Z| vmx| I120: DICT     "
+    ],
+    [
+      0.000299,
+      "   pciBridge6.present = TRUE\r\n2015-05-08T23:07:07.052Z| vmx| I120: DICT     pciBridge6.virtualDev = pcieRootPort\r\n2015-05-08T23:07:07.052Z| vmx| I120: DICT      pciBridge6.functions = 8\r\n2015-05-08T23:07:07.052Z| vmx| I120: DICT        pciBridge7.present = TRUE\r\n2015-05-08T23:07:07.052Z| vmx| I120: DICT     pciBridge7.virtualDev = pcieRootPort\r\n2015-05-08T23:07:07.052Z| vmx| I120: DICT      pciBridge7.functions = 8\r\n2015-05-08T23:07:07.052Z| vmx| I120: DICT             vmci0.present = TRUE\r\n2015-05-08T23:07:07.052Z| vm"
+    ],
+    [
+      0.001721,
+      "x| I120: DICT             hpet0.present = TRUE\r\n2015-05-08T23:07:07.052Z| vmx| I120: DICT               displayName = PHX01UWEB01\r\n2015-05-08T23:07:07.052Z| vmx| I120: DICT        extendedConfigFile = PHX01UWEB01.vmxf\r\n2015-05-08T23:07:07.052Z| vmx| I120: DICT virtualHW.productCompatibility = hosted\r\n2015-05-08T23:07:07.052Z| vmx| I120: DICT           floppy0.present = FALSE\r\n2015-05-08T23:07:07.052Z| vmx| I120: DICT                  numvcpus = 16\r\n2015-05-08T23:07:07.052Z| vmx| I120: DICT      cpuid.coresPerSocket = 8\r\n2015-05-08T23:07:07.052Z| vmx| I120: DICT                   memSize = 8192\r\n2015-05-08T23:07:07.052Z| vmx| I120: DICT           sched.cpu.units = mhz\r\n2015-05-08T23:07:07.052Z| vmx| I120: DICT        powerType.powerOff = soft\r\n2015-05-08T23:07:07.052Z| vmx| I120: DICT         powerType.suspend = hard\r\n2015-05-08T23:07:07.052Z| vmx| I120: DICT           powerType.reset = soft\r\n2015-05-08T23:07:07.052Z| vmx| I120: DICT          scsi0.virtualDev = lsilogic\r\n2015-05-08T23:07:07.052Z| vmx| I120: DI"
+    ],
+    [
+      0.000007,
+      "CT             scsi0.present = TRUE\r\n:"
+    ],
+    [
+      3.465849,
+      "\r"
+    ],
+    [
+      0.001296,
+      "2015-05-08T23:07:07.052Z| vmx| I120: DICT         ide1:0.deviceType = cdrom-image\r\n2015-05-08T23:07:07.052Z| vmx| I120: DICT           ide1:0.fileName = /vmfs/volumes/5461f822-87ecfd86-4033-74e\r\n6e2722021/CentOS/CentOS 6.6 x86_64.iso\r\n2015-05-08T23:07:07.052Z| vmx| I120: DICT            ide1:0.present = TRUE\r\n2015-05-08T23:07:07.052Z| vmx| I120: DICT      ethernet0.virtualDev = vmxnet3\r\n2015-05-08T23:07:07.052Z| vmx| I120: DICT    ethernet0.dvs.switchId = 5d 79 35 50 7d 0c 06 86-ad c6 04 84 71 e\r\n2 1c c8\r\n2"
+    ],
+    [
+      0.000562,
+      "015-05-08T23:07:07.052Z| vmx| I120: DICT      ethernet0.dvs.portId = 254\r\n2015-05-08T23:07:07.052Z| vmx| I120: DICT ethernet0.dvs.portgroupId = dvportgroup-172\r\n2015-05-08T23:07:07.052Z| vmx| I120: DICT ethernet0.dvs.connectionId = 2121105539\r\n2015-05-08T23:07:07.052Z| vmx| I120: DICT     ethernet0.addressType = vpx\r\n2015-05-08T23:07:07.052Z| vmx| I120: DICT ethernet0.generatedAddress = 00:50:56:b5:02:91\r\n2015-05-08T23:07:07.052Z| vmx| I120: DICT         ethernet0.present = TRUE\r\n2015-05-08T23:07:07.052Z| v"
+    ],
+    [
+      0.000093,
+      "mx| I120: DICT      ethernet1.virtualDev = vmxnet3\r\n2015-05-08T23:07:07.052Z| vmx| I120: DICT    ethernet1.dvs.switchId = 5d 79 35 50 7d 0c 06 86-ad c6 04 84 71 e\r\n2 1c c8\r\n2015-05-08T23:07:07.052Z| vmx| I120: DICT      ethernet1.dvs.portId = 81\r\n2015-05-08T23:07:07.052Z| vmx| I120: DICT ethernet1.dvs.portgroupId = dvportgroup-52\r\n2015-05-08T23:07:07.052Z| vmx| I120: DICT ethernet1.dvs.connectionId = 2121121517\r\n2015-05-08T23:07:07.052Z| vmx| I120: DICT     ethernet1.addressType = vpx\r\n2015-05-08T23:07:07.052Z| vmx| I120: DICT ethernet1.generatedAddress = 00:50:56:b5:72:fa\r\n2015-05-08T23:07:07.052Z| vmx| I120: DICT         ethernet1.present = TRUE\r\n2015-05-08T23:07:07.052Z| vmx| I120: DICT        scsi0:0.deviceType = scsi-hardDisk\r\n2015-05-08T23:07:07.052Z| vmx| I120: DICT          scsi0:0.fileName = PHX01UWEB01.vmdk\r\n2015-05-08T23:07:07.052Z| vmx| I120: DICT           scsi0:0.present = TRUE\r\n2015-05-08T23:07:07.052Z| vmx| I120: DICT        scsi0:1.deviceType = scsi-hardDisk\r\n2015-05-08T23:07:07.052Z| vmx| I1"
+    ],
+    [
+      0.000007,
+      "20: DICT          scsi0:"
+    ],
+    [
+      0.000289,
+      "1.fileName = PHX01UWEB01_1.vmdk\r\n2015-05-08T23:07:07.052Z| vmx| I120: DICT           scsi0:1.present = TRUE\r\n2015-05-08T23:07:07.052Z| vmx| I120: DICT        scsi0:2.deviceType = scsi-hardDisk\r\n2015-05-08T23:07:07.052Z| vmx| I120: DICT          scsi0:2.fileName = PHX01UWEB01_2.vmdk\r\n2015-05-08T23:07:07.052Z| vmx| I120: DICT           scsi0:2.present = TRUE\r\n2015-05-08T23:07:07.052Z| vmx| I120: DICT                   guestOS = centos-64\r\n2015-05-08T23:07:07.052Z| vmx| I120: DICT  toolScripts.afterPowerOn = T"
+    ],
+    [
+      0.000007,
+      "RUE\r\n2015-05-08T23:07:07.052Z| vmx| I120: DICT   toolScripts.afterResume = TRUE\r\n2015-05-08T23:07:07.052Z| vmx| I120: DICT toolScripts.beforeSuspend = TRUE\r\n2015-05-08T23:07:07.052Z| vmx| I120: DICT toolScripts.beforePowerOff = TRUE\r\n2015-05-08T23:07:07.052Z| vmx| I120: DICT                 uuid.bios = 42 35 74 30 6b 19 06 83-b6 e5 4e 86 98 e\r\nf fe 62\r\n2015-05-08T23:07:07.052Z| vmx| I120: DICT                   vc.uuid = 50 35 4d 38 f1 5d 75 6b-f4 33 be 3c 13 2\r\n:"
+    ],
+    [
+      0.574718,
+      "\r1 87 e8\r\n2015-05-08T23:07:07.052Z| vmx| I120: DICT     chipset.onlineStandby = FALSE\r\n2015-05-08T23:07:07.052Z| vmx| I120: DICT             sched.cpu.min = 0\r\n2015-05-08T23:07:07.052Z| vmx| I120: DICT          sched.cpu.shares = normal\r\n2015-05-08T23:07:07.052Z| vmx| I120: DICT             sched.mem.min = 0\r\n2015-05-08T23:07:07.052Z| vmx| I120: DICT         sched.mem.minSize = 0\r\n2015-05-08T23:07:07.052Z| vmx| I120: DICT          sched.mem.shares = normal\r\n2015-05-08T23:07:07.052Z| vmx| I120: DICT    sched.swap.derivedName = /vmfs/volumes/54637d84-80b43850-87a8-74e\r\n6e2722021/PHX01UWEB01/PHX01UWEB01-c2d1d0ee.vswp\r\n2015-05-08T23:07:07.053Z| vmx| I120: DICT          replay.supported = FALSE\r\n2015-05-08T23:07:07.053Z| vmx| I120: DICT           replay.filename = \r\n2015-05-08T23:07:07.053Z| vmx| I120: DICT              scsi0:0.redo = \r\n2015-05-08T23:07:07.053Z| vmx| I120: DICT              scsi0:1.redo = \r\n2015-05-08T23:07:07.053Z| vmx| I120: DICT              scsi0:2.redo = \r\n2015-05-08T23:07:07.053Z| vmx| I120:"
+    ],
+    [
+      0.000009,
+      " DICT  pciBrid"
+    ],
+    [
+      0.001355,
+      "ge0.pciSlotNumber = 17\r\n2015-05-08T23:07:07.053Z| vmx| I120: DICT  pciBridge4.pciSlotNumber = 21\r\n2015-05-08T23:07:07.053Z| vmx| I120: DICT  pciBridge5.pciSlotNumber = 22\r\n2015-05-08T23:07:07.053Z| vmx| I120: DICT  pciBridge6.pciSlotNumber = 23\r\n2015-05-08T23:07:07.053Z| vmx| I120: DICT  pciBridge7.pciSlotNumber = 24\r\n2015-05-08T23:07:07.053Z| vmx| I120: DICT       scsi0.pciSlotNumber = 16\r\n2015-05-08T23:07:07.053Z| vmx| I120: DICT   ethernet0.pciSlotNumber = 160\r\n2015-05-08T23:07:07.053Z| vmx| I120: DICT  "
+    ],
+    [
+      0.000667,
+      " ethernet1.pciSlotNumber = 192\r\n2015-05-08T23:07:07.053Z| vmx| I120: DICT       vmci0.pciSlotNumber = 32\r\n2015-05-08T23:07:07.053Z| vmx| I120: DICT                  vmci0.id = -1729102238\r\n2015-05-08T23:07:07.053Z| vmx| I120: DICT               hostCPUID.0 = 0000000d756e65476c65746e49656e69\r\n2015-05-08T23:07:07.053Z| vmx| I120: DICT               hostCPUID.1 = 000306e40020080077bee3ffbfebfbff\r\n2015-05-08T23:07:07.053Z| vmx| I120: DICT        hostCPUID.80000001 = 0000000000000000000000012c100800\r\n2015-05-08T23:07:07.053"
+    ],
+    [
+      0.000037,
+      "Z| vmx| I120: DICT              guestCPUID.0 = 0000000d756e65476c65746e49656e69\r\n2015-05-08T23:07:07.053Z| vmx| I120: DICT              guestCPUID.1 = 000306a000080800969822031fabfbff\r\n2015-05-08T23:07:07.053Z| vmx| I120: DICT       guestCPUID.80000001 = 00000000000000000000000128100800\r\n2015-05-08T23:07:07.053Z| vmx| I120: DICT               userCPUID.0 = 0000000d756e65476c65746e49656e69\r\n2015-05-08T23:07:07.053Z| vmx| I120: DICT               userCPUID.1 = 000306a000080800969822031fabfbff\r\n2015-05-08T23:07:07.053Z| vmx| I120: DICT        userCPUID.80000001 = 00000000000000000000000128100800\r\n2015-05-08T23:07:07.053Z| vmx| I120: DICT      evcCompatibilityMode = TRUE\r\n2015-05-08T23:07:07.053Z| vmx| I120: DICT  vmotion.checkpointFBSize = 4194304\r\n2015-05-08T23:07:07.053Z| vmx| I120: DICT             cleanShutdown = FALSE\r\n2015-05-08T23:07:07.053Z| vmx| I120: DICT              softPowerOff = FALSE\r\n2015-05-08T23:07:07.053Z| vmx| I120: DICT     ide1:0.startConnected = TRUE\r\n2015-05-08T23:07:07.053Z| vmx| I120: D"
+    ],
+    [
+      0.000008,
+      "ICT toolsInstallManager.lastInstallError = 0\r\n:"
+    ],
+    [
+      7.656766,
+      "\r"
+    ],
+    [
+      0.013583,
+      "/vmfs/volumes/54637d84-80b43850-87a8-74e6e2722021/PHX01UWEB01 # "
+    ],
+    [
+      2.647002,
+      "v"
+    ],
+    [
+      0.112986,
+      "m"
+    ],
+    [
+      0.152590,
+      "k"
+    ],
+    [
+      0.071556,
+      "f"
+    ],
+    [
+      0.078588,
+      "s"
+    ],
+    [
+      1.395548,
+      "t"
+    ],
+    [
+      0.141767,
+      "\r/vmfs/volumes/54637d84-80b43850-87a8-74e6e2722021/PHX01UWEB01 # vmkfstools \u001b[J"
+    ],
+    [
+      4.175676,
+      "\r\n"
+    ],
+    [
+      0.016343,
+      "No valid command specified\r\n\r\n\r\nOPTIONS FOR FILE SYSTEMS:\r\n\r\nvmkfstools -C --createfs [vmfs3|vmfs5]\r\n               -b --blocksize #[mMkK]\r\n               -S --setfsname fsName\r\n           -Z --spanfs span-partition\r\n           -G --growfs grown-partition\r\n   deviceName\r\n\r\n           -P --queryfs -h --humanreadable\r\n           -T --upgradevmfs\r\n   vmfsPath\r\n           -y --reclaimBlocks vmfsPath [--reclaimBlocksUnit #blocks]\r\n\r\nOPTIONS FOR VIRTUAL DISKS:\r\n\r\nvmkfstools -c --createvirtualdisk #[gGmMkK]\r\n     "
+    ],
+    [
+      0.000521,
+      "          -d --diskformat [zeroedthick\r\n                               |thin\r\n                               |eagerzeroedthick\r\n                               ]\r\n               -a --adaptertype [buslogic|lsilogic|ide\r\n                                |lsisas|pvscsi]\r\n               -W --objecttype [file|vsan]\r\n               --policyFile \u003cfileName\u003e\r\n           -w --writezeros\r\n           -j --inflatedisk\r\n           -k --eagerzero\r\n           -K --punchzero\r\n           -U --deletevirtualdisk\r\n           -E --renamevirtualdisk srcDisk\r\n           -i --clonevirtualdisk srcDisk\r\n               -d --diskformat [zeroedthick\r\n                               |thin\r\n                               |eagerzeroedthick\r\n                               |rdm:\u003cdevice\u003e|rdmp:\u003cdevice\u003e\r\n                               |2gbsparse]\r\n               -W --object [file|vsan]\r\n               --policyFile \u003cfileName\u003e\r\n               -N --avoidnativeclone\r\n           -X --extendvirtualdisk #[gGmMkK]\r\n               [-d --diskformat eagerzeroe"
+    ],
+    [
+      0.000235,
+      "dthick]\r\n           -M --migratevirtualdisk\r\n           -r --createrdm /vmfs/devices/disks/...\r\n           -q --queryrdm\r\n           -z --createrdmpassthru /vmfs/devices/disks/...\r\n           -v --verbose #\r\n           -g --geometry\r\n           -x --fix [check|repair]\r\n           -e --chainConsistent\r\n           -Q --objecttype name/value pair\r\n           --uniqueblocks childDisk\r\n   vmfsPath\r\n\r\nOPTIONS FOR DEVICES: \r\n\r\n           -L --lock [reserve|release|lunreset|targetreset|busreset|readkeys|readresv\r\n "
+    ],
+    [
+      0.000008,
+      "                    ] /vmfs/devices/disks/...\r\n           -B --breaklock /vmfs/devices/disks/...\r\n\r\nvmkfstools -H --help\r\n\r\n"
+    ],
+    [
+      0.117128,
+      "/vmfs/volumes/54637d84-80b43850-87a8-74e6e2722021/PHX01UWEB01 # "
+    ],
+    [
+      25.850677,
+      "l"
+    ],
+    [
+      0.112092,
+      "s"
+    ],
+    [
+      0.102789,
+      " "
+    ],
+    [
+      0.072806,
+      "-"
+    ],
+    [
+      0.079452,
+      "l"
+    ],
+    [
+      0.087669,
+      "a"
+    ],
+    [
+      0.136915,
+      "\r\n"
+    ],
+    [
+      0.020252,
+      "total 24129568\r\n"
+    ],
+    [
+      0.001434,
+      "drwxr-xr-x    1 root     root          3500 May  8 23:41 \u001b[1;34m.\u001b[0m\r\n"
+    ],
+    [
+      0.000405,
+      "drwxr-xr-t    1 root     root          2240 May  8 22:17 \u001b[1;34m..\u001b[0m\r\n-rw-r--r--    1 root     root            73 May  8 23:14 \u001b[0;0mPHX01UWEB01-c2d1d0ee.hlog\u001b[0m\r\n-rw-------    1 root     root     8589934592 Apr  6 07:26 \u001b[0;0mPHX01UWEB01-c2d1d0ee.vswp\u001b[0m\r\n"
+    ],
+    [
+      0.000036,
+      "-rw-------    1 root     root     34359738368 May 11 07:21 \u001b[0;0mPHX01UWEB01-flat.vmdk\u001b[0m\r\n-rw-------    1 root     root          8684 May 11 07:20 \u001b[0;0mPHX01UWEB01.nvram\u001b[0m\r\n"
+    ],
+    [
+      0.000849,
+      "-rw-------    1 root     root           524 May  8 23:14 \u001b[0;0mPHX01UWEB01.vmdk\u001b[0m\r\n-rw-r--r--    1 root     root             0 Dec  2 11:52 \u001b[0;0mPHX01UWEB01.vmsd\u001b[0m\r\n-rwxr-xr-x    1 root     root          4100 May  8 23:14 \u001b[1;32mPHX01UWEB01.vmx\u001b[0m\r\n"
+    ],
+    [
+      0.000013,
+      "-rw-------    1 root     root             0 May  8 23:14 \u001b[0;0mPHX01UWEB01.vmx.lck\u001b[0m\r\n-rw-r--r--    1 root     root          3439 Feb 17 04:57 \u001b[0;0mPHX01UWEB01.vmxf\u001b[0m\r\n-rwxr-xr-x    1 root     root          4100 May  8 23:14 \u001b[1;32mPHX01UWEB01.vmx~\u001b[0m\r\n-rw-------    1 root     root     26843545600 May 11 07:21 \u001b[0;0mPHX01UWEB01_1-flat.vmdk\u001b[0m\r\n-rw-------    1 root     root           526 May  8 23:14 \u001b[0;0mPHX01UWEB01_1.vmdk\u001b[0m\r\n-rw-------    1 root     root     53687091200 May 11 07:12 \u001b[0;0mPHX01UWEB01_2-flat.vmdk\u001b[0m\r\n-rw-------    1 root     root           527 May  8 23:41 \u001b[0;0mPHX01UWEB01_2.vmdk\u001b[0m\r\n"
+    ],
+    [
+      0.001218,
+      "-rw-r--r--    1 root     root             0 May  8 20:37 \u001b[0;0mtest\u001b[0m\r\n-rw-r--r--    1 root     root        208125 Apr  6 06:35 \u001b[0;0mvmware-11.log\u001b[0m\r\n-rw-r--r--    1 root     root        206824 Apr  6 06:40 \u001b[0;0mvmware-12.log\u001b[0m\r\n-rw-r--r--    1 root     root        207572 Apr  6 07:21 \u001b[0;0mvmware-13.log\u001b[0m\r\n-rw-r--r--    1 root     root        181117 May  7 11:41 \u001b[0;0mvmware-14.log\u001b[0m\r\n"
+    ],
+    [
+      0.000075,
+      "-rw-r--r--    1 root     root        188629 May  8 23:07 \u001b[0;0mvmware-15.log\u001b[0m\r\n-rw-r--r--    1 root     root        250011 May  8 23:14 \u001b[0;0mvmware-16.log\u001b[0m\r\n-rw-r--r--    1 root     root        181153 May  8 23:53 \u001b[0;0mvmware.log\u001b[0m\r\n-rw-------    1 root     root     131072000 May  8 23:14 \u001b[0;0mvmx-PHX01UWEB01-3268530414-1.vswp\u001b[0m\r\n"
+    ],
+    [
+      0.003627,
+      "/vmfs/volumes/54637d84-80b43850-87a8-74e6e2722021/PHX01UWEB01 # "
+    ],
+    [
+      11.551652,
+      "v"
+    ],
+    [
+      0.300820,
+      "m"
+    ],
+    [
+      0.160522,
+      "k"
+    ],
+    [
+      0.055373,
+      "f"
+    ],
+    [
+      0.127861,
+      "s"
+    ],
+    [
+      0.496105,
+      "t"
+    ],
+    [
+      0.072292,
+      "o"
+    ],
+    [
+      0.136242,
+      "\r/vmfs/volumes/54637d84-80b43850-87a8-74e6e2722021/PHX01UWEB01 # vmkfstools \u001b[J"
+    ],
+    [
+      0.410985,
+      "-"
+    ],
+    [
+      0.452639,
+      "D"
+    ],
+    [
+      0.176103,
+      " "
+    ],
+    [
+      1.267005,
+      "PHX01UWEB01-flat.vmdk"
+    ],
+    [
+      0.668783,
+      "\r\n"
+    ],
+    [
+      0.135318,
+      "Lock [type 10c00001 offset 188616704 v 183, hb offset 3334144\r\ngen 7, mode 1, owner 546dac6c-7d1b85dc-3272-74e6e270c948 mtime 12818546\r\nnum 0 gblnum 0 gblgen 0 gblbrk 0]\r\nAddr \u003c4, 405, 90\u003e, gen 136, links 1, type reg, flags 0, uid 0, gid 0, mode 600\r\nlen 34359738368, nb 9090 tbz 0, cow 0, newSinceEpoch 9090, zla 3, bs 1048576\r\n"
+    ],
+    [
+      0.003517,
+      "/vmfs/volumes/54637d84-80b43850-87a8-74e6e2722021/PHX01UWEB01 # "
+    ],
+    [
+      63.344084,
+      "r"
+    ],
+    [
+      0.079210,
+      "r"
+    ],
+    [
+      0.104339,
+      "m"
+    ],
+    [
+      0.097937,
+      " "
+    ],
+    [
+      0.101832,
+      "t"
+    ],
+    [
+      0.088295,
+      "e"
+    ],
+    [
+      0.170025,
+      "s"
+    ],
+    [
+      0.053626,
+      "t"
+    ],
+    [
+      0.288469,
+      "\u0008\u001b[J"
+    ],
+    [
+      0.167822,
+      "\u0008\u001b[J"
+    ],
+    [
+      0.135901,
+      "\u0008\u001b[J"
+    ],
+    [
+      0.120856,
+      "\u0008\u001b[J"
+    ],
+    [
+      0.127269,
+      "\u0008\u001b[J"
+    ],
+    [
+      0.119998,
+      "\u0008\u001b[J"
+    ],
+    [
+      0.088384,
+      "\u0008\u001b[J"
+    ],
+    [
+      0.149583,
+      "\u0008\u001b[J"
+    ],
+    [
+      0.474024,
+      "m"
+    ],
+    [
+      0.344359,
+      "\u0008\u001b[J"
+    ],
+    [
+      0.127786,
+      "r"
+    ],
+    [
+      0.127922,
+      "m"
+    ],
+    [
+      0.056527,
+      " "
+    ],
+    [
+      0.119176,
+      "t"
+    ],
+    [
+      0.071662,
+      "e"
+    ],
+    [
+      0.176676,
+      "s"
+    ],
+    [
+      0.071120,
+      "t"
+    ],
+    [
+      0.113114,
+      "\r\n"
+    ],
+    [
+      0.064009,
+      "/vmfs/volumes/54637d84-80b43850-87a8-74e6e2722021/PHX01UWEB01 # "
+    ],
+    [
+      2.071777,
+      "l"
+    ],
+    [
+      0.071945,
+      "s"
+    ],
+    [
+      0.071663,
+      " "
+    ],
+    [
+      0.100184,
+      "-"
+    ],
+    [
+      0.019857,
+      "l"
+    ],
+    [
+      0.097438,
+      "a"
+    ],
+    [
+      0.128942,
+      "\r\n"
+    ],
+    [
+      0.022273,
+      "total 24129568\r\n"
+    ],
+    [
+      0.001428,
+      "drwxr-xr-x    1 root     root          3360 May 11 07:22 \u001b[1;34m.\u001b[0m\r\n"
+    ],
+    [
+      0.000640,
+      "drwxr-xr-t    1 root     root          2240 May  8 22:17 \u001b[1;34m..\u001b[0m\r\n"
+    ],
+    [
+      0.001824,
+      "-rw-r--r--    1 root     root            73 May  8 23:14 \u001b[0;0mPHX01UWEB01-c2d1d0ee.hlog\u001b[0m\r\n-rw-------    1 root     root     8589934592 Apr  6 07:26 \u001b[0;0mPHX01UWEB01-c2d1d0ee.vswp\u001b[0m\r\n"
+    ],
+    [
+      0.000059,
+      "-rw-------    1 root     root     34359738368 May 11 07:22 \u001b[0;0mPHX01UWEB01-flat.vmdk\u001b[0m\r\n-rw-------    1 root     root          8684 May 11 07:20 \u001b[0;0mPHX01UWEB01.nvram\u001b[0m\r\n-rw-------    1 root     root           524 May  8 23:14 \u001b[0;0mPHX01UWEB01.vmdk\u001b[0m\r\n-rw-r--r--    1 root     root             0 Dec  2 11:52 \u001b[0;0mPHX01UWEB01.vmsd\u001b[0m\r\n-rwxr-xr-x    1 root     root          4100 May  8 23:14 \u001b[1;32mPHX01UWEB01.vmx\u001b[0m\r\n-rw-------    1 root     root             0 May  8 23:14 \u001b[0;0mPHX01UWEB01.vmx.lck\u001b[0m\r\n-rw-r--r--    1 root     root          3439 Feb 17 04:57 \u001b[0;0mPHX01UWEB01.vmxf\u001b[0m\r\n-rwxr-xr-x    1 root     root          4100 May  8 23:14 \u001b[1;32mPHX01UWEB01.vmx~\u001b[0m\r\n-rw-------    1 root     root     26843545600 May 11 07:22 \u001b[0;0mPHX01UWEB01_1-flat.vmdk\u001b[0m\r\n-rw-------    1 root     root           526 May  8 23:14 \u001b[0;0mPHX01UWEB01_1.vmdk\u001b[0m\r\n-rw-------    1 root     root     53687091200 May 11 07:12 \u001b[0;0mPHX01UWEB01_2-flat.vmdk\u001b[0m\r\n-rw-------    1 root     root           527 May  8 23:41 "
+    ],
+    [
+      0.000020,
+      "\u001b[0;0mPHX01UWEB01_2.vmdk\u001b[0m\r\n-rw-r--r--    1 root     root        208125 Apr  6 06:35 \u001b[0;0mvmware-11.log\u001b[0m\r\n-rw-r--r--    1 root     root        206824 Apr  6 06:40 \u001b[0;0mvmware-12.log\u001b[0m\r\n-rw-r--r--    1 root     root        207572 Apr  6 07:21 \u001b[0;0mvmware-13.log\u001b[0m\r\n-rw-r--r--    1 root     root        181117 May  7 11:41 \u001b[0;0mvmware-14.log\u001b[0m\r\n-rw-r--r--    1 root     root        188629 May  8 23:07 \u001b[0;0mvmware-15.log\u001b[0m\r\n"
+    ],
+    [
+      0.000024,
+      "-rw-r--r--    1 root     root        250011 May  8 23:14 \u001b[0;0mvmware-16.log\u001b[0m\r\n-rw-r--r--    1 root     root        181153 May  8 23:53 \u001b[0;0mvmware.log\u001b[0m\r\n-rw-------    1 root     root     131072000 May  8 23:14 \u001b[0;0mvmx-PHX01UWEB01-3268530414-1.vswp\u001b[0m\r\n"
+    ],
+    [
+      0.009903,
+      "/vmfs/volumes/54637d84-80b43850-87a8-74e6e2722021/PHX01UWEB01 # "
+    ],
+    [
+      5.994671,
+      "c"
+    ],
+    [
+      0.103120,
+      "d"
+    ],
+    [
+      0.072370,
+      " "
+    ],
+    [
+      0.095709,
+      "."
+    ],
+    [
+      0.152412,
+      "."
+    ],
+    [
+      0.247588,
+      "\r\n"
+    ],
+    [
+      0.003413,
+      "/vmfs/volumes/54637d84-80b43850-87a8-74e6e2722021 # "
+    ],
+    [
+      1.708738,
+      "l"
+    ],
+    [
+      0.151924,
+      "l"
+    ],
+    [
+      0.088961,
+      "\r\n-sh: ll: not found\r\n"
+    ],
+    [
+      0.000894,
+      "/vmfs/volumes/54637d84-80b43850-87a8-74e6e2722021 # "
+    ],
+    [
+      1.014210,
+      "l"
+    ],
+    [
+      0.056398,
+      "s"
+    ],
+    [
+      0.056672,
+      " "
+    ],
+    [
+      0.102715,
+      "-"
+    ],
+    [
+      0.032981,
+      "l"
+    ],
+    [
+      0.103466,
+      "a"
+    ],
+    [
+      0.055876,
+      "\r\n"
+    ],
+    [
+      0.119302,
+      "total 816176\r\n"
+    ],
+    [
+      0.001337,
+      "drwxr-xr-t    1 root     root          2240 May  8 22:17 \u001b[1;34m.\u001b[0m\r\n"
+    ],
+    [
+      0.000867,
+      "drwxr-xr-x    1 root     root           512 May 11 07:23 \u001b[1;34m..\u001b[0m\r\n"
+    ],
+    [
+      0.000012,
+      "drwxr-xr-x    1 root     root           420 Nov 13 13:14 \u001b[1;34m.dvsData\u001b[0m\r\n-r--------    1 root     root      26935296 Nov 12 15:32 \u001b[0;0m.fbb.sf\u001b[0m\r\n-r--------    1 root     root     267026432 Nov 12 15:32 \u001b[0;0m.fdc.sf\u001b[0m\r\n-rwxr-xr-x    1 root     root       1048576 Nov 12 15:41 \u001b[1;32m.iormstats.sf\u001b[0m\r\ndrwxr-xr-x    1 root     root           420 Nov 12 15:41 \u001b[1;34m.naa.6000d31000884f000000000000000006\u001b[0m\r\n"
+    ],
+    [
+      0.000289,
+      "-r--------    1 root     root       1179648 Nov 12 15:32 \u001b[0;0m.pb2.sf\u001b[0m\r\n-r--------    1 root     root     268435456 Nov 12 15:32 \u001b[0;0m.pbc.sf\u001b[0m\r\n-r--------    1 root     root     262733824 Nov 12 15:32 \u001b[0;0m.sbc.sf\u001b[0m\r\ndrwx------    1 root     root           280 Nov 12 15:32 \u001b[1;34m.sdd.sf\u001b[0m\r\n"
+    ],
+    [
+      0.000012,
+      "drwx------    1 root     root           280 May  8 20:18 \u001b[1;34m.vSphere-HA\u001b[0m\r\n-r--------    1 root     root       4194304 Nov 12 15:32 \u001b[0;0m.vh.sf\u001b[0m\r\ndrwxr-xr-x    1 root     root          1120 May  8 22:22 \u001b[1;34mPHX01SCH01\u001b[0m\r\ndrwxr-xr-x    1 root     root           560 May  8 13:31 \u001b[1;34mPHX01SQLSAN01B\u001b[0m\r\ndrwxr-xr-x    1 root     root          3360 May 11 07:22 \u001b[1;34mPHX01UWEB01\u001b[0m\r\n"
+    ],
+    [
+      0.003523,
+      "/vmfs/volumes/54637d84-80b43850-87a8-74e6e2722021 # "
+    ],
+    [
+      2.034880,
+      "c"
+    ],
+    [
+      0.096031,
+      "d"
+    ],
+    [
+      0.529724,
+      " PHX0"
+    ],
+    [
+      0.000182,
+      "1SCH01\r\n"
+    ],
+    [
+      0.005196,
+      "/vmfs/volumes/54637d84-80b43850-87a8-74e6e2722021/PHX01SCH01 # "
+    ],
+    [
+      0.930152,
+      "l"
+    ],
+    [
+      0.120013,
+      "s"
+    ],
+    [
+      0.062802,
+      " "
+    ],
+    [
+      0.072589,
+      "-"
+    ],
+    [
+      0.031784,
+      "l"
+    ],
+    [
+      0.075270,
+      "a"
+    ],
+    [
+      0.453073,
+      "\r\n"
+    ],
+    [
+      0.009221,
+      "total 563883016\r\n"
+    ],
+    [
+      0.001328,
+      "drwxr-xr-x    1 root     root          1120 May  8 22:22 \u001b[1;34m.\u001b[0m\r\n"
+    ],
+    [
+      0.000760,
+      "drwxr-xr-t    1 root     root          2240 May  8 22:17 \u001b[1;34m..\u001b[0m\r\n"
+    ],
+    [
+      0.000029,
+      "-rw-------    1 root     root     53687091200 May 11 07:19 \u001b[0;0mPHX01SCH01_1-flat.vmdk\u001b[0m\r\n-rw-------    1 root     root           523 May  8 22:22 \u001b[0;0mPHX01SCH01_1.vmdk\u001b[0m\r\n-rw-------    1 root     root     536870912000 May 11 07:22 \u001b[0;0mPHX01SCH01_2-flat.vmdk\u001b[0m\r\n-rw-------    1 root     root           525 May  8 22:22 \u001b[0;0mPHX01SCH01_2.vmdk\u001b[0m\r\n"
+    ],
+    [
+      0.000010,
+      "-rw-------    1 root     root     53687091200 May 10 06:13 \u001b[0;0mPHX01SCH01_3-flat.vmdk\u001b[0m\r\n-rw-------    1 root     root           523 May  8 22:22 \u001b[0;0mPHX01SCH01_3.vmdk\u001b[0m\r\n"
+    ],
+    [
+      0.005602,
+      "/vmfs/volumes/54637d84-80b43850-87a8-74e6e2722021/PHX01SCH01 # "
+    ],
+    [
+      1.214135,
+      "c"
+    ],
+    [
+      0.096483,
+      "d"
+    ],
+    [
+      0.048205,
+      " "
+    ],
+    [
+      0.127884,
+      "."
+    ],
+    [
+      0.143221,
+      "."
+    ],
+    [
+      0.109013,
+      "\r\n"
+    ],
+    [
+      0.000921,
+      "/vmfs/volumes/54637d84-80b43850-87a8-74e6e2722021 # "
+    ],
+    [
+      0.330315,
+      "l"
+    ],
+    [
+      0.096799,
+      "s"
+    ],
+    [
+      0.055004,
+      " "
+    ],
+    [
+      0.093849,
+      "-"
+    ],
+    [
+      0.043321,
+      "l"
+    ],
+    [
+      0.105056,
+      "a"
+    ],
+    [
+      0.093971,
+      "\r\n"
+    ],
+    [
+      0.023554,
+      "total 816176\r\n"
+    ],
+    [
+      0.002812,
+      "drwxr-xr-t    1 root     root          2240 May  8 22:17 \u001b[1;34m.\u001b[0m\r\ndrwxr-xr-x    1 root     root           512 May 11 07:23 \u001b[1;34m..\u001b[0m\r\ndrwxr-xr-x    1 root     root           420 Nov 13 13:14 \u001b[1;34m.dvsData\u001b[0m\r\n-r--------    1 root     root      26935296 Nov 12 15:32 \u001b[0;0m.fbb.sf\u001b[0m\r\n-r--------    1 root     root     267026432 Nov 12 15:32 \u001b[0;0m.fdc.sf\u001b[0m\r\n-rwxr-xr-x    1 root     root       1048576 Nov 12 15:41 \u001b[1;32m.iormstats.sf\u001b[0m\r\ndrwxr-xr-x    1 root     root           420 Nov 12 15:41 \u001b[1;34m.naa.6000d31000884f000000000000000006\u001b[0m\r\n-r--------    1 root     root       1179648 Nov 12 15:32 \u001b[0;0m.pb2.sf\u001b[0m\r\n-r--------    1 root     root     268435456 Nov 12 15:32 \u001b[0;0m.pbc.sf\u001b[0m\r\n"
+    ],
+    [
+      0.000933,
+      "-r--------    1 root     root     262733824 Nov 12 15:32 \u001b[0;0m.sbc.sf\u001b[0m\r\ndrwx------    1 root     root           280 Nov 12 15:32 \u001b[1;34m.sdd.sf\u001b[0m\r\ndrwx------    1 root     root           280 May  8 20:18 \u001b[1;34m.vSphere-HA\u001b[0m\r\n"
+    ],
+    [
+      0.585048,
+      "-r--------    1 root     root       4194304 Nov 12 15:32 \u001b[0;0m.vh.sf\u001b[0m\r\ndrwxr-xr-x    1 root     root          1120 May  8 22:22 \u001b[1;34mPHX01SCH01\u001b[0m\r\ndrwxr-xr-x    1 root     root           560 May  8 13:31 \u001b[1;34mPHX01SQLSAN01B\u001b[0m\r\ndrwxr-xr-x    1 root     root          3360 May 11 07:22 \u001b[1;34mPHX01UWEB01\u001b[0m\r\n/vmfs/volumes/54637d84-80b43850-87a8-74e6e2722021 # "
+    ],
+    [
+      2.284060,
+      "c"
+    ],
+    [
+      0.096735,
+      "d"
+    ],
+    [
+      0.055023,
+      " "
+    ],
+    [
+      0.257771,
+      "PHX01SQLSAN"
+    ],
+    [
+      0.000008,
+      "01B"
+    ],
+    [
+      0.181985,
+      "\r\n"
+    ],
+    [
+      0.004921,
+      "/vmfs/volumes/54637d84-80b43850-87a8-74e6e2722021/PHX01SQLSAN01B # "
+    ],
+    [
+      0.419309,
+      "l"
+    ],
+    [
+      0.089745,
+      "s"
+    ],
+    [
+      0.046748,
+      " "
+    ],
+    [
+      0.105742,
+      "-"
+    ],
+    [
+      0.054445,
+      "l"
+    ],
+    [
+      0.065104,
+      "a"
+    ],
+    [
+      0.094264,
+      "\r\n"
+    ],
+    [
+      0.024302,
+      "total 1032\r\n"
+    ],
+    [
+      0.000854,
+      "drwxr-xr-x    1 root     root           560 May  8 13:31 \u001b[1;34m.\u001b[0m\r\n"
+    ],
+    [
+      0.000242,
+      "drwxr-xr-t    1 root     root          2240 May  8 22:17 \u001b[1;34m..\u001b[0m\r\n-rw-------    1 root     root     536870912000 Nov 13 14:56 \u001b[0;0mPHX01SQLSAN01B_1-rdmp.vmdk\u001b[0m\r\n-rw-------    1 root     root           506 Nov 18 09:09 \u001b[0;0mPHX01SQLSAN01B_1.vmdk\u001b[0m\r\n"
+    ],
+    [
+      0.004768,
+      "/vmfs/volumes/54637d84-80b43850-87a8-74e6e2722021/PHX01SQLSAN01B # "
+    ],
+    [
+      1.153815,
+      "c"
+    ],
+    [
+      0.112090,
+      "d"
+    ],
+    [
+      0.048460,
+      " "
+    ],
+    [
+      0.127703,
+      "."
+    ],
+    [
+      0.136523,
+      "."
+    ],
+    [
+      0.104125,
+      "\r\n"
+    ],
+    [
+      0.001292,
+      "/vmfs/volumes/54637d84-80b43850-87a8-74e6e2722021 # "
+    ],
+    [
+      0.302724,
+      "c"
+    ],
+    [
+      0.095256,
+      "d"
+    ],
+    [
+      0.072517,
+      " "
+    ],
+    [
+      0.151442,
+      "."
+    ],
+    [
+      0.154320,
+      "."
+    ],
+    [
+      0.085582,
+      "\r\n"
+    ],
+    [
+      0.000197,
+      "/vmfs/volumes # "
+    ],
+    [
+      0.424385,
+      "l"
+    ],
+    [
+      0.151434,
+      "l"
+    ],
+    [
+      0.072860,
+      "\r\n-sh: ll: not found\r\n"
+    ],
+    [
+      0.000104,
+      "/vmfs/volumes # "
+    ],
+    [
+      0.591009,
+      "l"
+    ],
+    [
+      0.088110,
+      "s"
+    ],
+    [
+      0.065077,
+      " "
+    ],
+    [
+      0.087208,
+      "-"
+    ],
+    [
+      0.039513,
+      "l"
+    ],
+    [
+      0.057137,
+      "a"
+    ],
+    [
+      0.094903,
+      "\r\n"
+    ],
+    [
+      0.523846,
+      "total 18180\r\n"
+    ],
+    [
+      0.000951,
+      "drwxr-xr-x    1 root     root           512 May 11 07:23 \u001b[1;34m.\u001b[0m\r\n"
+    ],
+    [
+      0.000320,
+      "drwxr-xr-x    1 root     root           512 Nov 20 08:54 \u001b[1;34m..\u001b[0m\r\ndrwxr-xr-t    1 root     root          2800 Mar 20 16:36 \u001b[1;34m5461f822-87ecfd86-4033-74e6e2722021\u001b[0m\r\n"
+    ],
+    [
+      0.001136,
+      "drwxr-xr-t    1 root     root          5040 May  8 21:28 \u001b[1;34m54637c82-4f7f5216-9e4a-74e6e2722021\u001b[0m\r\ndrwxr-xr-t    1 root     root          2240 May  8 22:17 \u001b[1;34m54637d84-80b43850-87a8-74e6e2722021\u001b[0m\r\ndrwxr-xr-t    1 root     root          6020 May  8 13:18 \u001b[1;34m54637dba-b9d35586-8cf5-74e6e2722021\u001b[0m\r\ndrwxr-xr-t    1 root     root          3780 May  8 21:28 \u001b[1;34m54637ddb-2044c3bc-076a-74e6e2722021\u001b[0m\r\ndrwxr-xr-t    1 root     root          5460 Apr 30 05:11 \u001b[1;34m54637dfa-822e2b84-ef32-74e6e2722021\u001b[0m\r\n"
+    ],
+    [
+      0.000113,
+      "drwxr-xr-t    1 root     root          3500 May  8 21:11 \u001b[1;34m5463894b-47382ec0-9406-74e6e2722021\u001b[0m\r\ndrwxr-xr-t    1 root     root          2940 Mar 13 00:51 \u001b[1;34m5463897c-29dea4ce-9e06-74e6e2722021\u001b[0m\r\ndrwxr-xr-t    1 root     root          4200 Mar 13 02:12 \u001b[1;34m546389a1-7dda6d22-8869-74e6e2722021\u001b[0m\r\ndrwxr-xr-t    1 root     root          5180 May  8 21:09 \u001b[1;34m546389c0-d53314b2-ab96-74e6e2722021\u001b[0m\r\ndrwxr-xr-t    1 root     root          2660 Feb 21 22:09 \u001b[1;34m546389e0-debe7520-7a79-74e6e2722021\u001b[0m\r\ndrwxr-xr-t    1 root     root         10500 Mar 25 16:53 \u001b[1;34m546d76d7-3b7a749e-d534-74e6e2722021\u001b[0m\r\n"
+    ],
+    [
+      0.001589,
+      "drwxr-xr-x    1 root     root             8 Jan  1  1970 \u001b[1;34m546da73d-71487a24-999a-74e6e270c92e\u001b[0m\r\ndrwxr-xr-t    1 root     root          2520 Nov 21 03:26 \u001b[1;34m5471133e-6fda1bf2-07a3-74e6e270c962\u001b[0m\r\ndrwxr-xr-t    1 root     root          3360 Apr 30 19:34 \u001b[1;34m54ef5e9a-c58a50aa-9ea7-74e6e2722048\u001b[0m\r\ndrwxr-xr-t    1 root     root          4060 May  8 21:28 \u001b[1;34m54ef5e9d-1cced15c-077f-74e6e272203b\u001b[0m\r\ndrwxr-xr-t    1 root     root          3080 Apr  9 01:02 \u001b[1;34m55104da5-14c8a1e0-02f0-74e6e2722048\u001b[0m\r\ndrwxr-xr-t    1 root     root          2100 Apr  5 21:16 \u001b[1;34m55104dbf-cb1be390-5ba6-74e6e2722055\u001b[0m\r\nlrwxr-xr-x    1 root     root            35 May 11 07:23 \u001b[1;36mImageStore\u001b[0m -\u003e \u001b[1;34m5461f822-87ecfd86-4033-74e6e2722021\u001b[0m\r\nlrwxr-xr-x    1 root     root            35 May 11 07:23 \u001b[1;36mLogs\u001b[0m -\u003e \u001b[1;34m546d76d7-3b7a749e-d534-74e6e2722021\u001b[0m\r\nlrwxr-xr-x    1 root     root            35 May 11 07:23 \u001b[1;36mPHX01LAB01D01\u001b[0m -\u003e \u001b[1;34m55104da5-14c8a1e0-02f0-74e6e2722048\u001b[0m\r\n"
+    ],
+    [
+      0.000017,
+      "lrwxr-xr-x    1 root     root            35 May 11 07:23 \u001b[1;36mPHX01LAB01D02\u001b[0m -\u003e \u001b[1;34m55104dbf-cb1be390-5ba6-74e6e2722055\u001b[0m\r\n"
+    ],
+    [
+      0.000114,
+      "lrwxr-xr-x    1 root     root            35 May 11 07:23 \u001b[1;36mSAN01GENVM01\u001b[0m -\u003e \u001b[1;34m54637c82-4f7f5216-9e4a-74e6e2722021\u001b[0m\r\n"
+    ],
+    [
+      0.000123,
+      "lrwxr-xr-x    1 root     root            35 May 11 07:23 \u001b[1;36mSAN01GENVM02\u001b[0m -\u003e \u001b[1;34m54637d84-80b43850-87a8-74e6e2722021\u001b[0m\r\n"
+    ],
+    [
+      0.190583,
+      "lrwxr-xr-x    1 root     root            35 May 11 07:23 \u001b[1;36mSAN01GENVM03\u001b[0m -\u003e \u001b[1;34m54637dba-b9d35586-8cf5-74e6e2722021\u001b[0m\r\nlrwxr-xr-x    1 root     root            35 May 11 07:23 \u001b[1;36mSAN01GENVM04\u001b[0m -\u003e \u001b[1;34m54637ddb-2044c3bc-076a-74e6e2722021\u001b[0m\r\nlrwxr-xr-x    1 root     root            35 May 11 07:23 \u001b[1;36mSAN01GENVM05\u001b[0m -\u003e \u001b[1;34m54637dfa-822e2b84-ef32-74e6e2722021\u001b[0m\r\nlrwxr-xr-x    1 root     root            35 May 11 07:23 \u001b[1;36mSAN01GENVM06\u001b[0m -\u003e \u001b[1;34m54ef5e9d-1cced15c-077f-74e6e272203b\u001b[0m\r\nlrwxr-xr-x    1 root     root            35 May 11 07:23 \u001b[1;36mSAN02GENVM01\u001b[0m -\u003e \u001b[1;34m5463894b-47382ec0-9406-74e6e2722021\u001b[0m\r\nlrwxr-xr-x    1 root     root            35 May 11 07:23 \u001b[1;36mSAN02GENVM02\u001b[0m -\u003e \u001b[1;34m5463897c-29dea4ce-9e06-74e6e2722021\u001b[0m\r\nlrwxr-xr-x    1 root     root            35 May 11 07:23 \u001b[1;36mSAN02GENVM03\u001b[0m -\u003e \u001b[1;34m546389a1-7dda6d22-8869-74e6e2722021\u001b[0m\r\nlrwxr-xr-x    1 root     root            35 May 11 07:23 \u001b[1;36mSAN02GENVM04\u001b[0m -\u003e \u001b[1;34m546389c0-"
+    ],
+    [
+      0.000030,
+      "d53314b2-ab96-74e6e2722021\u001b[0m\r\nlrwxr-xr-x    1 root     root            35 May 11 07:23 \u001b[1;36mSAN02GENVM05\u001b[0m -\u003e \u001b[1;34m546389e0-debe7520-7a79-74e6e2722021\u001b[0m\r\nlrwxr-xr-x    1 root     root            35 May 11 07:23 \u001b[1;36mSAN02GENVM06\u001b[0m -\u003e \u001b[1;34m54ef5e9a-c58a50aa-9ea7-74e6e2722048\u001b[0m\r\ndrwxr-xr-x    1 root     root             8 Jan  1  1970 \u001b[1;34md4f073e7-0c44b6c1-60eb-57045a6396bc\u001b[0m\r\ndrwxr-xr-x    1 root     root             8 Jan  1  1970 \u001b[1;34mdc6dcbe8-e77bd11f-4a91-ef8a49ccee47\u001b[0m\r\nlrwxr-xr-x    1 root     root            35 May 11 07:23 \u001b[1;36msnap-027e1d89-SAN01GENVM04\u001b[0m -\u003e \u001b[1;34m5471133e-6fda1bf2-07a3-74e6e270c962\u001b[0m\r\n/vmfs/volumes # "
+    ],
+    [
+      0.553991,
+      "a"
+    ],
+    [
+      0.119743,
+      "l"
+    ],
+    [
+      0.167709,
+      "i"
+    ],
+    [
+      0.065636,
+      "a"
+    ],
+    [
+      0.110433,
+      "s"
+    ],
+    [
+      0.104442,
+      " "
+    ],
+    [
+      0.215808,
+      "l"
+    ],
+    [
+      0.119514,
+      "l"
+    ],
+    [
+      0.168051,
+      "="
+    ],
+    [
+      0.290212,
+      "\""
+    ],
+    [
+      0.541985,
+      "l"
+    ],
+    [
+      0.119939,
+      "s"
+    ],
+    [
+      0.583877,
+      "-"
+    ],
+    [
+      0.144485,
+      " "
+    ],
+    [
+      0.215713,
+      "\u0008\u001b[J"
+    ],
+    [
+      0.127702,
+      "\u0008\u001b[J"
+    ],
+    [
+      0.064646,
+      " "
+    ],
+    [
+      0.152287,
+      "-"
+    ],
+    [
+      0.183075,
+      "l"
+    ],
+    [
+      0.128356,
+      " "
+    ],
+    [
+      0.447980,
+      "\u0008\u001b[J"
+    ],
+    [
+      0.312031,
+      "\""
+    ],
+    [
+      0.057920,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "/vmfs/volumes # "
+    ],
+    [
+      1.397942,
+      "l"
+    ],
+    [
+      0.121304,
+      "l"
+    ],
+    [
+      0.103659,
+      "\r\n"
+    ],
+    [
+      0.398120,
+      "total 18176\r\n"
+    ],
+    [
+      0.000691,
+      "drwxr-xr-t    1 root     root          2800 Mar 20 16:36 \u001b[1;34m5461f822-87ecfd86-4033-74e6e2722021\u001b[0m\r\ndrwxr-xr-t    1 root     root          5040 May  8 21:28 \u001b[1;34m54637c82-4f7f5216-9e4a-74e6e2722021\u001b[0m\r\ndrwxr-xr-t    1 root     root          2240 May  8 22:17 \u001b[1;34m54637d84-80b43850-87a8-74e6e2722021\u001b[0m\r\n"
+    ],
+    [
+      0.000903,
+      "drwxr-xr-t    1 root     root          6020 May  8 13:18 \u001b[1;34m54637dba-b9d35586-8cf5-74e6e2722021\u001b[0m\r\ndrwxr-xr-t    1 root     root          3780 May  8 21:28 \u001b[1;34m54637ddb-2044c3bc-076a-74e6e2722021\u001b[0m\r\ndrwxr-xr-t    1 root     root          5460 Apr 30 05:11 \u001b[1;34m54637dfa-822e2b84-ef32-74e6e2722021\u001b[0m\r\ndrwxr-xr-t    1 root     root          3500 May  8 21:11 \u001b[1;34m5463894b-47382ec0-9406-74e6e2722021\u001b[0m\r\ndrwxr-xr-t    1 root     root          2940 Mar 13 00:51 \u001b[1;34m5463897c-29dea4ce-9e06-74e6e2722021\u001b[0m\r\ndrwxr-xr-t    1 root     root          4200 Mar 13 02:12 \u001b[1;34m546389a1-7dda6d22-8869-74e6e2722021\u001b[0m\r\ndrwxr-xr-t    1 root     root          5180 May  8 21:09 \u001b[1;34m546389c0-d53314b2-ab96-74e6e2722021\u001b[0m\r\ndrwxr-xr-t    1 root     root          2660 Feb 21 22:09 \u001b[1;34m546389e0-debe7520-7a79-74e6e2722021\u001b[0m\r\ndrwxr-xr-t    1 root     root         10500 Mar 25 16:53 \u001b[1;34m546d76d7-3b7a749e-d534-74e6e2722021\u001b[0m\r\ndrwxr-xr-x    1 root     root             8 Jan  1  1970 \u001b[1;34m546da73d-71487a"
+    ],
+    [
+      0.000012,
+      "24-999a-74e6e270c92e\u001b[0m\r\ndrwxr-xr-t    1 root     root          2520 Nov 21 03:26 \u001b[1;34m5471133e-6fda1bf2-07a3-74e6e270c962\u001b[0m\r\ndrwxr-xr-t    1 root     root          3360 Apr 30 19:34 \u001b[1;34m54ef5e9a-c58a50aa-9ea7-74e6e2722048\u001b[0m\r\ndrwxr-xr-t    1 root     root          4060 May  8 21:28 \u001b[1;34m54ef5e9d-1cced15c-077f-74e6e272203b\u001b[0m\r\ndrwxr-xr-t    1 root     root          3080 Apr  9 01:02 \u001b[1;34m55104da5-14c8a1e0-02f0-74e6e2722048\u001b[0m\r\ndrwxr-xr-t    1 root     root          2100 Apr  5 21:16 \u001b[1;34m55104dbf-cb1be390-5ba6-74e6e2722055\u001b[0m\r\n"
+    ],
+    [
+      0.000566,
+      "lrwxr-xr-x    1 root     root            35 May 11 07:23 \u001b[1;36mImageStore\u001b[0m -\u003e \u001b[1;34m5461f822-87ecfd86-4033-74e6e2722021\u001b[0m\r\nlrwxr-xr-x    1 root     root            35 May 11 07:23 \u001b[1;36mLogs\u001b[0m -\u003e \u001b[1;34m546d76d7-3b7a749e-d534-74e6e2722021\u001b[0m\r\n"
+    ],
+    [
+      0.190404,
+      "lrwxr-xr-x    1 root     root            35 May 11 07:23 \u001b[1;36mPHX01LAB01D01\u001b[0m -\u003e \u001b[1;34m55104da5-14c8a1e0-02f0-74e6e2722048\u001b[0m\r\nlrwxr-xr-x    1 root     root            35 May 11 07:23 \u001b[1;36mPHX01LAB01D02\u001b[0m -\u003e \u001b[1;34m55104dbf-cb1be390-5ba6-74e6e2722055\u001b[0m\r\nlrwxr-xr-x    1 root     root            35 May 11 07:23 \u001b[1;36mSAN01GENVM01\u001b[0m -\u003e \u001b[1;34m54637c82-4f7f5216-9e4a-74e6e2722021\u001b[0m\r\nlrwxr-xr-x    1 root     root            35 May 11 07:23 \u001b[1;36mSAN01GENVM02\u001b[0m -\u003e \u001b[1;34m54637d84-80b43850-87a8-74e6e2722021\u001b[0m\r\nlrwxr-xr-x    1 root     root            35 May 11 07:23 \u001b[1;36mSAN01GENVM03\u001b[0m -\u003e \u001b[1;34m54637dba-b9d35586-8cf5-74e6e2722021\u001b[0m\r\nlrwxr-xr-x    1 root     root            35 May 11 07:23 \u001b[1;36mSAN01GENVM04\u001b[0m -\u003e \u001b[1;34m54637ddb-2044c3bc-076a-74e6e2722021\u001b[0m\r\nlrwxr-xr-x    1 root     root            35 May 11 07:23 \u001b[1;36mSAN01GENVM05\u001b[0m -\u003e \u001b[1;34m54637dfa-822e2b84-ef32-74e6e2722021\u001b[0m\r\nlrwxr-xr-x    1 root     root            35 May 11 07:23 \u001b[1;36mSAN01GENVM06\u001b[0m -\u003e \u001b[1;34m54ef5e9"
+    ],
+    [
+      0.000015,
+      "d-1cced15c-077f-74e6e272203b\u001b[0m\r\n"
+    ],
+    [
+      0.190303,
+      "lrwxr-xr-x    1 root     root            35 May 11 07:23 \u001b[1;36mSAN02GENVM01\u001b[0m -\u003e \u001b[1;34m5463894b-47382ec0-9406-74e6e2722021\u001b[0m\r\nlrwxr-xr-x    1 root     root            35 May 11 07:23 \u001b[1;36mSAN02GENVM02\u001b[0m -\u003e \u001b[1;34m5463897c-29dea4ce-9e06-74e6e2722021\u001b[0m\r\nlrwxr-xr-x    1 root     root            35 May 11 07:23 \u001b[1;36mSAN02GENVM03\u001b[0m -\u003e \u001b[1;34m546389a1-7dda6d22-8869-74e6e2722021\u001b[0m\r\nlrwxr-xr-x    1 root     root            35 May 11 07:23 \u001b[1;36mSAN02GENVM04\u001b[0m -\u003e \u001b[1;34m546389c0-d53314b2-ab96-74e6e2722021\u001b[0m\r\nlrwxr-xr-x    1 root     root            35 May 11 07:23 \u001b[1;36mSAN02GENVM05\u001b[0m -\u003e \u001b[1;34m546389e0-debe7520-7a79-74e6e2722021\u001b[0m\r\nlrwxr-xr-x    1 root     root            35 May 11 07:23 \u001b[1;36mSAN02GENVM06\u001b[0m -\u003e \u001b[1;34m54ef5e9a-c58a50aa-9ea7-74e6e2722048\u001b[0m\r\ndrwxr-xr-x    1 root     root             8 Jan  1  1970 \u001b[1;34md4f073e7-0c44b6c1-60eb-57045a6396bc\u001b[0m\r\ndrwxr-xr-x    1 root     root             8 Jan  1  1970 \u001b[1;34mdc6dcbe8-e77bd11f-4a91-ef8a49ccee47\u001b[0m\r\nlrwxr-xr-x    1 root  "
+    ],
+    [
+      0.000009,
+      "   root            35 May 11 07:23 \u001b[1;36msnap-027e1d89-SAN01GENVM04\u001b[0m -\u003e \u001b[1;34m5471133e-6fda1bf2-07a3-74e6e270c962\u001b[0m\r\n/vmfs/volumes # "
+    ],
+    [
+      30.155993,
+      "c"
+    ],
+    [
+      0.127188,
+      "d"
+    ],
+    [
+      0.095852,
+      " "
+    ],
+    [
+      0.289610,
+      "SA"
+    ],
+    [
+      0.000287,
+      "N01GENVM01"
+    ],
+    [
+      0.406393,
+      "\r\n"
+    ],
+    [
+      0.001931,
+      "/vmfs/volumes/54637c82-4f7f5216-9e4a-74e6e2722021 # "
+    ],
+    [
+      0.494059,
+      "l"
+    ],
+    [
+      0.112418,
+      "s"
+    ],
+    [
+      0.050675,
+      " "
+    ],
+    [
+      0.084596,
+      "-"
+    ],
+    [
+      0.031894,
+      "l"
+    ],
+    [
+      0.101187,
+      "a"
+    ],
+    [
+      0.222917,
+      "\r\n"
+    ],
+    [
+      0.028549,
+      "total 816336\r\n"
+    ],
+    [
+      0.000169,
+      "drwxr-xr-t    1 root     root          5040 May  8 21:28 \u001b[1;34m.\u001b[0m\r\ndrwxr-xr-x    1 root     root           512 May 11 07:24 \u001b[1;34m..\u001b[0m\r\ndrwxr-xr-x    1 root     root           420 Nov 13 16:23 \u001b[1;34m.dvsData\u001b[0m\r\n"
+    ],
+    [
+      0.002285,
+      "-r--------    1 root     root      26935296 Nov 12 15:28 \u001b[0;0m.fbb.sf\u001b[0m\r\n-r--------    1 root     root     267026432 Nov 12 15:28 \u001b[0;0m.fdc.sf\u001b[0m\r\n"
+    ],
+    [
+      0.000012,
+      "-rwxr-xr-x    1 root     root       1048576 Nov 12 15:41 \u001b[1;32m.iormstats.sf\u001b[0m\r\ndrwxr-xr-x    1 root     root           420 Nov 12 15:41 \u001b[1;34m.naa.6000d31000884f000000000000000005\u001b[0m\r\n-r--------    1 root     root       1179648 Nov 12 15:28 \u001b[0;0m.pb2.sf\u001b[0m\r\n-r--------    1 root     root     268435456 Nov 12 15:28 \u001b[0;0m.pbc.sf\u001b[0m\r\n-r--------    1 root     root     262733824 Nov 12 15:28 \u001b[0;0m.sbc.sf\u001b[0m\r\ndrwx------    1 root     root           280 Nov 12 15:28 \u001b[1;34m.sdd.sf\u001b[0m\r\ndrwx------    1 root     root           420 May  8 20:18 \u001b[1;34m.vSphere-HA\u001b[0m\r\n"
+    ],
+    [
+      0.000005,
+      "-r--------    1 root     root       4194304 Nov 12 15:28 \u001b[0;0m.vh.sf\u001b[0m\r\ndrwxr-xr-x    1 root     root          1680 Apr  6 07:20 \u001b[1;34mNew Virtual Machine\u001b[0m\r\ndrwxr-xr-x    1 root     root          3640 Apr 15 15:49 \u001b[1;34mPHX01ADMIN01\u001b[0m\r\n"
+    ],
+    [
+      0.000180,
+      "drwxr-xr-x    1 root     root          3920 Apr  6 09:34 \u001b[1;34mPHX01APIINT01\u001b[0m\r\ndrwxr-xr-x    1 root     root          2100 May  8 21:28 \u001b[1;34mPHX01CMLVM01\u001b[0m\r\ndrwxr-xr-x    1 root     root          2800 Apr  6 08:19 \u001b[1;34mPHX01CMS12\u001b[0m\r\ndrwxr-xr-x    1 root     root          2800 Apr  6 08:19 \u001b[1;34mPHX01CMS14\u001b[0m\r\ndrwxr-xr-x    1 root     root          3640 Apr  7 10:14 \u001b[1;34mPHX01MANAGE01\u001b[0m\r\ndrwxr-xr-x    1 root     root          2800 May  8 22:12 \u001b[1;34mPHX01RA01\u001b[0m\r\ndrwxr-xr-x    1 root     root          3360 Apr  6 10:19 \u001b[1;34mPHX01REAPI01\u001b[0m\r\n"
+    ],
+    [
+      0.000110,
+      "drwxr-xr-x    1 root     root          3640 Apr  6 10:01 \u001b[1;34mPHX01SBAPI01\u001b[0m\r\ndrwxr-xr-x    1 root     root          3360 May  8 22:13 \u001b[1;34mPHX01SBCMS01\u001b[0m\r\ndrwxr-xr-x    1 root     root          2940 May  8 22:15 \u001b[1;34mPHX01SBCMS02\u001b[0m\r\ndrwxr-xr-x    1 root     root          3920 Apr  6 11:55 \u001b[1;34mPHX01SBDB01\u001b[0m\r\ndrwxr-xr-x    1 root     root          3780 Apr  6 10:02 \u001b[1;34mPHX01SBMANAGE01\u001b[0m\r\ndrwxr-xr-x    1 root     root          2240 Apr 30 05:06 \u001b[1;34mPHX01SPLOG01\u001b[0m\r\ndrwxr-xr-x    1 root     root          2520 Apr 30 05:02 \u001b[1;34mPHX01SPSEARCH01\u001b[0m\r\ndrwxr-xr-x    1 root     root          2800 May 10 10:16 \u001b[1;34mPHX01SQLAO01\u001b[0m\r\ndrwxr-xr-x    1 root     root          3080 Apr  6 07:38 \u001b[1;34mPHX01SVN01\u001b[0m\r\ndrwxr-xr-x    1 root     root          2800 May  8 20:00 \u001b[1;34mPHX01TFTP01\u001b[0m\r\ndrwxr-xr-x    1 root     root          2800 May  8 19:59 \u001b[1;34mPHX01TS01\u001b[0m\r\ndrwxr-xr-x    1 root     root          1540 May  8 21:28 \u001b[1;34mPHX01UWEB01\u001b[0m\r\ndrwxr-xr-x    1 root     root          364"
+    ],
+    [
+      0.000009,
+      "0 May  8 19:43 \u001b[1;34mPHX01VCA01\u001b[0m\r\ndrwxr-xr-x    1 root     root          1680 Apr  6 07:20 \u001b[1;34mWindows Multi-Write 1\u001b[0m\r\n"
+    ],
+    [
+      0.001974,
+      "/vmfs/volumes/54637c82-4f7f5216-9e4a-74e6e2722021 # "
+    ],
+    [
+      3.379324,
+      "c"
+    ],
+    [
+      0.087600,
+      "d"
+    ],
+    [
+      0.091597,
+      " "
+    ],
+    [
+      0.309858,
+      "PHX01CMS12"
+    ],
+    [
+      0.383572,
+      "\r\n"
+    ],
+    [
+      0.023056,
+      "/vmfs/volumes/54637c82-4f7f5216-9e4a-74e6e2722021/PHX01CMS12 # "
+    ],
+    [
+      0.528667,
+      "l"
+    ],
+    [
+      0.103786,
+      "s"
+    ],
+    [
+      0.063372,
+      " "
+    ],
+    [
+      0.080058,
+      "-"
+    ],
+    [
+      0.037689,
+      "l"
+    ],
+    [
+      0.074663,
+      "a"
+    ],
+    [
+      0.128433,
+      "\r\n"
+    ],
+    [
+      0.016793,
+      "total 22508560\r\n"
+    ],
+    [
+      0.000705,
+      "drwxr-xr-x    1 root     root          2800 Apr  6 08:19 \u001b[1;34m.\u001b[0m\r\n"
+    ],
+    [
+      0.000908,
+      "drwxr-xr-t    1 root     root          5040 May  8 21:28 \u001b[1;34m..\u001b[0m\r\n"
+    ],
+    [
+      0.000149,
+      "-rw-r--r--    1 root     root            73 Apr  6 07:02 \u001b[0;0mPHX01CMS12-59bae3ff.hlog\u001b[0m\r\n-rw-------    1 root     root          8684 Apr  6 08:19 \u001b[0;0mPHX01CMS12.nvram\u001b[0m\r\n-rw-r--r--    1 root     root             0 Nov 30 18:12 \u001b[0;0mPHX01CMS12.vmsd\u001b[0m\r\n-rwxr-xr-x    1 root     root          4382 Apr  6 08:19 \u001b[1;32mPHX01CMS12.vmx\u001b[0m\r\n-rw-r--r--    1 root     root           265 Feb 26 02:40 \u001b[0;0mPHX01CMS12.vmxf\u001b[0m\r\n-rw-------    1 root     root     42949672960 Apr  6 08:19 \u001b[0;0mPHX01CMS12_2-flat.vmdk\u001b[0m\r\n-rw-------    1 root     root           548 Apr  6 07:03 \u001b[0;0mPHX01CMS12_2.vmdk\u001b[0m\r\n"
+    ],
+    [
+      0.002003,
+      "-rw-------    1 root     root     53687091200 Apr  6 08:19 \u001b[0;0mPHX01CMS12_3-flat.vmdk\u001b[0m\r\n-rw-------    1 root     root           523 Apr  6 07:04 \u001b[0;0mPHX01CMS12_3.vmdk\u001b[0m\r\n-rw-------    1 root     root     53687091200 Apr  6 08:19 \u001b[0;0mPHX01CMS12_4-flat.vmdk\u001b[0m\r\n-rw-------    1 root     root           523 Apr  6 08:19 \u001b[0;0mPHX01CMS12_4.vmdk\u001b[0m\r\n-rw-r--r--    1 root     root        243830 Feb 26 02:36 \u001b[0;0mvmware-10.log\u001b[0m\r\n-rw-r--r--    1 root     root        585889 Apr  6 07:03 \u001b[0;0mvmware-11.log\u001b[0m\r\n-rw-r--r--    1 root     root        291301 Feb 24 01:14 \u001b[0;0mvmware-6.log\u001b[0m\r\n"
+    ],
+    [
+      0.000008,
+      "-rw-r--r--    1 root     root        218916 Feb 24 04:24 \u001b[0;0mvmware-7.log\u001b[0m\r\n-rw-r--r--    1 root     root        221184 Feb 25 17:26 \u001b[0;0mvmware-8.log\u001b[0m\r\n-rw-r--r--    1 root     root        219134 Feb 25 17:34 \u001b[0;0mvmware-9.log\u001b[0m\r\n-rw-r--r--    1 root     root        237859 Apr  6 08:19 \u001b[0;0mvmware.log\u001b[0m\r\n"
+    ],
+    [
+      0.007721,
+      "/vmfs/volumes/54637c82-4f7f5216-9e4a-74e6e2722021/PHX01CMS12 # "
+    ],
+    [
+      1.763952,
+      "c"
+    ],
+    [
+      0.097125,
+      "d"
+    ],
+    [
+      0.078350,
+      " "
+    ],
+    [
+      0.111796,
+      "."
+    ],
+    [
+      0.143571,
+      "."
+    ],
+    [
+      0.081366,
+      "\r\n"
+    ],
+    [
+      0.001133,
+      "/vmfs/volumes/54637c82-4f7f5216-9e4a-74e6e2722021 # "
+    ],
+    [
+      0.454308,
+      "f"
+    ],
+    [
+      0.104769,
+      "i"
+    ],
+    [
+      0.054729,
+      "n"
+    ],
+    [
+      0.075188,
+      "d"
+    ],
+    [
+      0.060718,
+      " "
+    ],
+    [
+      0.065127,
+      "."
+    ],
+    [
+      0.126856,
+      " "
+    ],
+    [
+      0.192257,
+      "|"
+    ],
+    [
+      0.095958,
+      " "
+    ],
+    [
+      0.104287,
+      "g"
+    ],
+    [
+      0.169738,
+      "r"
+    ],
+    [
+      0.037987,
+      "e"
+    ],
+    [
+      0.056505,
+      "p"
+    ],
+    [
+      0.071434,
+      " "
+    ],
+    [
+      0.304216,
+      "-"
+    ],
+    [
+      0.187106,
+      "i"
+    ],
+    [
+      0.135503,
+      " "
+    ],
+    [
+      2.301713,
+      "j"
+    ],
+    [
+      0.064063,
+      "p"
+    ],
+    [
+      0.120052,
+      "g"
+    ],
+    [
+      0.121888,
+      "\r\n"
+    ],
+    [
+      0.593397,
+      "/vmfs/volumes/54637c82-4f7f5216-9e4a-74e6e2722021 # "
+    ],
+    [
+      0.740409,
+      "\r/vmfs/volumes/54637c82-4f7f5216-9e4a-74e6e2722021 # find . | grep -i jpg\u001b[J"
+    ],
+    [
+      0.273403,
+      "\u0008\u001b[J"
+    ],
+    [
+      0.939806,
+      "e"
+    ],
+    [
+      0.090907,
+      "p"
+    ],
+    [
+      0.360009,
+      "\u0008\u001b[J"
+    ],
+    [
+      0.136616,
+      "g"
+    ],
+    [
+      0.112563,
+      "\r\n"
+    ],
+    [
+      0.404922,
+      "/vmfs/volumes/54637c82-4f7f5216-9e4a-74e6e2722021 # "
+    ],
+    [
+      2.473646,
+      "c"
+    ],
+    [
+      0.168806,
+      "d"
+    ],
+    [
+      0.023394,
+      " "
+    ],
+    [
+      0.568423,
+      "."
+    ],
+    [
+      0.468224,
+      ".\r\n"
+    ],
+    [
+      0.001276,
+      "/vmfs/volumes # "
+    ],
+    [
+      26.154786,
+      "f"
+    ],
+    [
+      0.904891,
+      "\r/vmfs/volumes # cd ..\u001b[J"
+    ],
+    [
+      0.207644,
+      "\r/vmfs/volumes # find . | grep -i jpeg\u001b[J"
+    ],
+    [
+      0.631861,
+      "\r/vmfs/volumes # find . | grep -i jpg\u001b[J"
+    ],
+    [
+      0.409637,
+      "\r/vmfs/volumes # find . | grep -i jpeg\u001b[J"
+    ],
+    [
+      0.446393,
+      "\r\n"
+    ],
+    [
+      10.304746,
+      "/vmfs/volumes # "
+    ],
+    [
+      1.703696,
+      "\u0007"
+    ],
+    [
+      0.467270,
+      "\r/vmfs/volumes # find . | grep -i jpeg\u001b[J"
+    ],
+    [
+      0.684616,
+      "\u0008\u001b[J"
+    ],
+    [
+      0.152061,
+      "\u0008\u001b[J"
+    ],
+    [
+      0.296813,
+      "g"
+    ],
+    [
+      0.223580,
+      "\r\n"
+    ],
+    [
+      8.427008,
+      "/vmfs/volumes # "
+    ],
+    [
+      2.885622,
+      "\r/vmfs/volumes # find . | grep -i jpg\u001b[J"
+    ],
+    [
+      0.279607,
+      "\u0008\u001b[J"
+    ],
+    [
+      0.153086,
+      "\u0008\u001b[J"
+    ],
+    [
+      0.151020,
+      "\u0008\u001b[J"
+    ],
+    [
+      0.535713,
+      "p"
+    ],
+    [
+      0.007751,
+      "["
+    ],
+    [
+      0.144368,
+      "n"
+    ],
+    [
+      0.104778,
+      "g"
+    ],
+    [
+      0.607349,
+      "\u0008\u001b[J"
+    ],
+    [
+      0.151638,
+      "\u0008\u001b[J"
+    ],
+    [
+      0.152050,
+      "\u0008\u001b[J"
+    ],
+    [
+      0.288080,
+      "n"
+    ],
+    [
+      0.104172,
+      "g"
+    ],
+    [
+      0.097083,
+      "\r\n"
+    ],
+    [
+      8.007092,
+      "/vmfs/volumes # "
+    ],
+    [
+      8.568810,
+      "\u0007"
+    ],
+    [
+      0.841120,
+      "\u0007"
+    ],
+    [
+      0.019811,
+      "\r/vmfs/volumes # find . | grep -i png\u001b[J"
+    ],
+    [
+      0.779225,
+      "\u0008\u001b[J"
+    ],
+    [
+      0.143639,
+      "\u0008\u001b[J"
+    ],
+    [
+      0.137927,
+      "\u0008\u001b[J"
+    ],
+    [
+      0.750142,
+      "b"
+    ],
+    [
+      0.111643,
+      "p"
+    ],
+    [
+      0.104293,
+      "m"
+    ],
+    [
+      0.287808,
+      "\u0008\u001b[J"
+    ],
+    [
+      0.143860,
+      "\u0008\u001b[J"
+    ],
+    [
+      0.197734,
+      "m"
+    ],
+    [
+      0.059282,
+      "p"
+    ],
+    [
+      0.159317,
+      "\r\n"
+    ],
+    [
+      8.720558,
+      "/vmfs/volumes # "
+    ],
+    [
+      10.081324,
+      "\r\n/vmfs/volumes # "
+    ],
+    [
+      1.211106,
+      "Connection to 10.20.4.19 closed.\r\r\n"
+    ],
+    [
+      0.000810,
+      "\u001b]0;steven@Cerberus:/Users/steven\u0007"
+    ],
+    [
+      0.000116,
+      "\u001b[01;32msteven@Cerberus\u001b[01;34m ~ $\u001b[00m "
+    ],
+    [
+      1.801107,
+      "exit\r\n"
+    ]
+  ]
+}
