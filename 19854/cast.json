@@ -1,0 +1,1502 @@
+{
+  "version": 1,
+  "width": 76,
+  "height": 22,
+  "duration": 84.833052,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.007733,
+      "\u001b[?1034h"
+    ],
+    [
+      0.000008,
+      "bash-3.2$ "
+    ],
+    [
+      1.878937,
+      "g"
+    ],
+    [
+      0.087954,
+      "i"
+    ],
+    [
+      0.136202,
+      "t"
+    ],
+    [
+      0.087751,
+      " "
+    ],
+    [
+      0.056080,
+      "p"
+    ],
+    [
+      0.119895,
+      "u"
+    ],
+    [
+      0.184141,
+      "s"
+    ],
+    [
+      0.119984,
+      "h"
+    ],
+    [
+      0.159969,
+      " "
+    ],
+    [
+      0.623822,
+      "d"
+    ],
+    [
+      0.064070,
+      "o"
+    ],
+    [
+      0.087925,
+      "k"
+    ],
+    [
+      0.432297,
+      "k"
+    ],
+    [
+      0.231887,
+      "u"
+    ],
+    [
+      0.119941,
+      " "
+    ],
+    [
+      0.128085,
+      "m"
+    ],
+    [
+      0.071895,
+      "a"
+    ],
+    [
+      0.072023,
+      "s"
+    ],
+    [
+      0.144021,
+      "t"
+    ],
+    [
+      0.040207,
+      "e"
+    ],
+    [
+      0.103867,
+      "r"
+    ],
+    [
+      0.375814,
+      "\r\n"
+    ],
+    [
+      3.293741,
+      "Counting objects: 4, done.\r\n"
+    ],
+    [
+      0.000547,
+      "Delta compression using up to 8 threads.\r\n"
+    ],
+    [
+      0.000072,
+      "Compressing objects:  25% (1/4)   \r"
+    ],
+    [
+      0.000115,
+      "Compressing objects:  50% (2/4)   \r"
+    ],
+    [
+      0.000079,
+      "Compressing objects:  75% (3/4)   \rCompressing objects: 100% (4/4)   \r"
+    ],
+    [
+      0.000162,
+      "Compressing objects: 100% (4/4), done.\r\n"
+    ],
+    [
+      0.000232,
+      "Writing objects:  25% (1/4)   \r"
+    ],
+    [
+      0.000074,
+      "Writing objects:  50% (2/4)   \r"
+    ],
+    [
+      0.000028,
+      "Writing objects:  75% (3/4)   \r"
+    ],
+    [
+      0.000119,
+      "Writing objects: 100% (4/4)   \r"
+    ],
+    [
+      0.000053,
+      "Writing objects: 100% (4/4), 462 bytes | 0 bytes/s, done.\r\n"
+    ],
+    [
+      0.000005,
+      "Total 4 (delta 2), reused 0 (delta 0)\r\n"
+    ],
+    [
+      0.973172,
+      "remote: Cloning into '/tmp/tmp.hHrddmdHUh'...\u001b[K\r\n"
+    ],
+    [
+      0.001708,
+      "remote: done.\u001b[K\r\n"
+    ],
+    [
+      12.074879,
+      "remote: HEAD is now at 8b7f7f9... test push\u001b[K\r\n"
+    ],
+    [
+      0.039839,
+      "remote: -----\u003e Building worker-azure using Dockerfile...\u001b[K\r\n"
+    ],
+    [
+      0.518170,
+      "remote: Sending build context to Docker daemon 557.1 kB\u001b[K\r"
+    ],
+    [
+      0.001499,
+      "remote: Sending build context to Docker daemon 1.114 MB\u001b[K\r"
+    ],
+    [
+      0.014644,
+      "remote: Sending build context to Docker daemon 1.671 MB\u001b[K\r"
+    ],
+    [
+      0.015225,
+      "remote: Sending build context to Docker daemon 2.228 MB\u001b[K\r"
+    ],
+    [
+      0.000940,
+      "remote: Sending build context to Docker daemon 2.785 MB\u001b[K\r"
+    ],
+    [
+      0.015197,
+      "remote: Sending build context to Docker daemon 3.342 MB\u001b[K\r"
+    ],
+    [
+      0.008000,
+      "remote: Sending build context to Docker daemon 3.899 MB\u001b[K\r"
+    ],
+    [
+      0.113395,
+      "remote: Sending build context to Docker daemon 4.456 MB\u001b[K\rremote: Sending build context to Docker daemon 5.014 MB\u001b[K\rremote: Sending build context to Docker daemon 5.571 MB\u001b[K\rremote: Sending build context to Docker daemon 6.128 MB\u001b[K\r"
+    ],
+    [
+      0.000027,
+      "remote: Sending build context to Docker daemon 6.685 MB\u001b[K\rremote: Sending build context to Docker daemon 7.242 MB\u001b[K\rremote: Sending build context to Docker daemon 7.799 MB\u001b[K\rremote: Sending build context to Docker daemon 8.356 MB\u001b[K\r"
+    ],
+    [
+      0.007311,
+      "remote: Sending build context to Docker daemon 8.913 MB\u001b[K\r"
+    ],
+    [
+      0.012196,
+      "remote: Sending build context to Docker daemon  9.47 MB\u001b[K\r"
+    ],
+    [
+      0.015450,
+      "remote: Sending build context to Docker daemon 10.03 MB\u001b[K\r"
+    ],
+    [
+      0.013355,
+      "remote: Sending build context to Docker daemon 10.58 MB\u001b[K\r"
+    ],
+    [
+      0.012651,
+      "remote: Sending build context to Docker daemon 11.14 MB\u001b[K\r"
+    ],
+    [
+      0.013349,
+      "remote: Sending build context to Docker daemon  11.7 MB\u001b[K\r"
+    ],
+    [
+      0.015367,
+      "remote: Sending build context to Docker daemon 12.26 MB\u001b[K\r"
+    ],
+    [
+      0.011077,
+      "remote: Sending build context to Docker daemon 12.81 MB\u001b[K\r"
+    ],
+    [
+      0.068305,
+      "remote: Sending build context to Docker daemon 13.37 MB\u001b[K\rremote: Sending build context to Docker daemon 13.93 MB\u001b[K\rremote: Sending build context to Docker daemon 14.48 MB\u001b[K\rremote: Sending build context to Docker daemon 15.04 MB\u001b[K\r"
+    ],
+    [
+      0.000010,
+      "remote: Sending build context to Docker daemon  15.6 MB\u001b[K\rremote: Sending build context to Docker daemon 16.15 MB\u001b[K\r"
+    ],
+    [
+      0.005218,
+      "remote: Sending build context to Docker daemon 16.71 MB\u001b[K\r"
+    ],
+    [
+      0.033565,
+      "remote: Sending build context to Docker daemon 17.27 MB\u001b[K\rremote: Sending build context to Docker daemon 17.83 MB\u001b[K\rremote: Sending build context to Docker daemon 18.38 MB\u001b[K\r"
+    ],
+    [
+      0.007078,
+      "remote: Sending build context to Docker daemon 18.94 MB\u001b[K\r"
+    ],
+    [
+      0.010111,
+      "remote: Sending build context to Docker daemon  19.5 MB\u001b[K\r"
+    ],
+    [
+      0.016783,
+      "remote: Sending build context to Docker daemon 20.05 MB\u001b[K\r"
+    ],
+    [
+      0.009737,
+      "remote: Sending build context to Docker daemon 20.61 MB\u001b[K\r"
+    ],
+    [
+      0.011024,
+      "remote: Sending build context to Docker daemon 21.17 MB\u001b[K\r"
+    ],
+    [
+      0.009780,
+      "remote: Sending build context to Docker daemon 21.73 MB\u001b[K\r"
+    ],
+    [
+      0.063870,
+      "remote: Sending build context to Docker daemon 22.28 MB\u001b[K\r"
+    ],
+    [
+      0.060364,
+      "remote: Sending build context to Docker daemon 22.84 MB\u001b[K\r"
+    ],
+    [
+      0.005678,
+      "remote: Sending build context to Docker daemon  23.4 MB\u001b[K\r"
+    ],
+    [
+      0.108016,
+      "remote: Sending build context to Docker daemon 23.95 MB\u001b[K\r"
+    ],
+    [
+      0.006658,
+      "remote: Sending build context to Docker daemon 24.51 MB\u001b[K\r"
+    ],
+    [
+      0.501232,
+      "remote: Sending build context to Docker daemon 25.07 MB\u001b[K\rremote: Sending build context to Docker daemon 25.62 MB\u001b[K\rremote: Sending build context to Docker daemon 26.18 MB\u001b[K\r"
+    ],
+    [
+      0.000367,
+      "remote: Sending build context to Docker daemon 26.74 MB\u001b[K\rremote: Sending build context to Docker daemon  27.3 MB\u001b[K\r"
+    ],
+    [
+      0.169735,
+      "remote: Sending build context to Docker daemon 27.85 MB\u001b[K\r"
+    ],
+    [
+      0.430681,
+      "remote: Sending build context to Docker daemon 28.41 MB\u001b[K\r"
+    ],
+    [
+      0.005771,
+      "remote: Sending build context to Docker daemon 28.97 MB\u001b[K\r"
+    ],
+    [
+      0.417337,
+      "remote: Sending build context to Docker daemon 29.52 MB\u001b[K\rremote: Sending build context to Docker daemon 30.08 MB\u001b[K\r"
+    ],
+    [
+      0.000294,
+      "remote: Sending build context to Docker daemon 30.64 MB\u001b[K\r"
+    ],
+    [
+      0.000328,
+      "remote: Sending build context to Docker daemon  31.2 MB\u001b[K\r"
+    ],
+    [
+      0.000126,
+      "remote: Sending build context to Docker daemon 31.75 MB\u001b[K\r"
+    ],
+    [
+      0.000423,
+      "remote: Sending build context to Docker daemon 32.31 MB\u001b[K\rremote: Sending build context to Docker daemon 32.87 MB\u001b[K\r"
+    ],
+    [
+      0.000410,
+      "remote: Sending build context to Docker daemon 33.42 MB\u001b[K\rremote: Sending build context to Docker daemon 33.98 MB\u001b[K\r"
+    ],
+    [
+      0.106194,
+      "remote: Sending build context to Docker daemon 34.54 MB\u001b[K\r"
+    ],
+    [
+      0.064569,
+      "remote: Sending build context to Docker daemon 35.09 MB\u001b[K\rremote: Sending build context to Docker daemon 35.65 MB\u001b[K\rremote: Sending build context to Docker daemon 36.21 MB\u001b[K\rremote: Sending build context to Docker daemon 36.77 MB\u001b[K\rremote: Sending build context to Docker daemon 37.32 MB\u001b[K\r"
+    ],
+    [
+      0.016718,
+      "remote: Sending build context to Docker daemon 37.88 MB\u001b[K\r"
+    ],
+    [
+      0.018485,
+      "remote: Sending build context to Docker daemon 38.44 MB\u001b[K\r"
+    ],
+    [
+      0.013396,
+      "remote: Sending build context to Docker daemon 38.99 MB\u001b[K\r"
+    ],
+    [
+      0.015591,
+      "remote: Sending build context to Docker daemon 39.55 MB\u001b[K\r"
+    ],
+    [
+      0.012221,
+      "remote: Sending build context to Docker daemon 40.11 MB\u001b[K\r"
+    ],
+    [
+      0.012265,
+      "remote: Sending build context to Docker daemon 40.67 MB\u001b[K\r"
+    ],
+    [
+      0.011095,
+      "remote: Sending build context to Docker daemon 41.22 MB\u001b[K\r"
+    ],
+    [
+      0.012833,
+      "remote: Sending build context to Docker daemon 41.78 MB\u001b[K\r"
+    ],
+    [
+      0.011948,
+      "remote: Sending build context to Docker daemon 42.34 MB\u001b[K\r"
+    ],
+    [
+      0.047833,
+      "remote: Sending build context to Docker daemon 42.89 MB\u001b[K\rremote: Sending build context to Docker daemon 43.45 MB\u001b[K\rremote: Sending build context to Docker daemon 44.01 MB\u001b[K\r"
+    ],
+    [
+      0.012155,
+      "remote: Sending build context to Docker daemon 44.56 MB\u001b[K\r"
+    ],
+    [
+      0.030516,
+      "remote: Sending build context to Docker daemon 45.12 MB\u001b[K\rremote: Sending build context to Docker daemon 45.68 MB\u001b[K\r"
+    ],
+    [
+      0.003580,
+      "remote: Sending build context to Docker daemon 46.24 MB\u001b[K\r"
+    ],
+    [
+      0.015111,
+      "remote: Sending build context to Docker daemon 46.79 MB\u001b[K\r"
+    ],
+    [
+      0.010739,
+      "remote: Sending build context to Docker daemon 47.35 MB\u001b[K\r"
+    ],
+    [
+      0.016015,
+      "remote: Sending build context to Docker daemon 47.91 MB\u001b[K\r"
+    ],
+    [
+      0.008804,
+      "remote: Sending build context to Docker daemon 48.46 MB\u001b[K\r"
+    ],
+    [
+      0.011416,
+      "remote: Sending build context to Docker daemon 49.02 MB\u001b[K\r"
+    ],
+    [
+      0.014199,
+      "remote: Sending build context to Docker daemon 49.58 MB\u001b[K\r"
+    ],
+    [
+      0.046909,
+      "remote: Sending build context to Docker daemon 50.14 MB\u001b[K\rremote: Sending build context to Docker daemon 50.69 MB\u001b[K\rremote: Sending build context to Docker daemon 51.25 MB\u001b[K\r"
+    ],
+    [
+      0.013867,
+      "remote: Sending build context to Docker daemon 51.81 MB\u001b[K\r"
+    ],
+    [
+      0.038140,
+      "remote: Sending build context to Docker daemon 52.36 MB\u001b[K\rremote: Sending build context to Docker daemon 52.92 MB\u001b[K\r"
+    ],
+    [
+      0.000006,
+      "remote: Sending build context to Docker daemon 53.48 MB\u001b[K\r"
+    ],
+    [
+      0.009723,
+      "remote: Sending build context to Docker daemon 54.03 MB\u001b[K\r"
+    ],
+    [
+      0.020133,
+      "remote: Sending build context to Docker daemon 54.59 MB\u001b[K\r"
+    ],
+    [
+      0.037746,
+      "remote: Sending build context to Docker daemon 55.15 MB\u001b[K\r"
+    ],
+    [
+      0.015421,
+      "remote: Sending build context to Docker daemon 55.71 MB\u001b[K\r"
+    ],
+    [
+      0.012670,
+      "remote: Sending build context to Docker daemon 56.26 MB\u001b[K\r"
+    ],
+    [
+      0.019930,
+      "remote: Sending build context to Docker daemon 56.82 MB\u001b[K\r"
+    ],
+    [
+      0.013860,
+      "remote: Sending build context to Docker daemon 57.38 MB\u001b[K\r"
+    ],
+    [
+      0.014164,
+      "remote: Sending build context to Docker daemon 57.93 MB\u001b[K\r"
+    ],
+    [
+      0.006407,
+      "remote: Sending build context to Docker daemon 58.49 MB\u001b[K\r"
+    ],
+    [
+      0.018220,
+      "remote: Sending build context to Docker daemon 59.05 MB\u001b[K\r"
+    ],
+    [
+      0.013784,
+      "remote: Sending build context to Docker daemon  59.6 MB\u001b[K\r"
+    ],
+    [
+      0.014824,
+      "remote: Sending build context to Docker daemon 60.16 MB\u001b[K\r"
+    ],
+    [
+      0.038991,
+      "remote: Sending build context to Docker daemon 60.72 MB\u001b[K\rremote: Sending build context to Docker daemon 61.28 MB\u001b[K\rremote: Sending build context to Docker daemon 61.83 MB\u001b[K\r"
+    ],
+    [
+      0.014918,
+      "remote: Sending build context to Docker daemon 62.39 MB\u001b[K\r"
+    ],
+    [
+      0.015744,
+      "remote: Sending build context to Docker daemon 62.95 MB\u001b[K\r"
+    ],
+    [
+      0.032921,
+      "remote: Sending build context to Docker daemon  63.5 MB\u001b[K\rremote: Sending build context to Docker daemon 64.06 MB\u001b[K\rremote: Sending build context to Docker daemon 64.62 MB\u001b[K\r"
+    ],
+    [
+      0.009098,
+      "remote: Sending build context to Docker daemon 65.18 MB\u001b[K\r"
+    ],
+    [
+      0.010678,
+      "remote: Sending build context to Docker daemon 65.73 MB\u001b[K\r"
+    ],
+    [
+      0.009665,
+      "remote: Sending build context to Docker daemon 66.29 MB\u001b[K\r"
+    ],
+    [
+      0.011156,
+      "remote: Sending build context to Docker daemon 66.85 MB\u001b[K\r"
+    ],
+    [
+      0.011165,
+      "remote: Sending build context to Docker daemon  67.4 MB\u001b[K\r"
+    ],
+    [
+      0.014889,
+      "remote: Sending build context to Docker daemon 67.96 MB\u001b[K\r"
+    ],
+    [
+      0.013694,
+      "remote: Sending build context to Docker daemon 68.52 MB\u001b[K\r"
+    ],
+    [
+      0.027907,
+      "remote: Sending build context to Docker daemon 69.07 MB\u001b[K\rremote: Sending build context to Docker daemon 69.63 MB\u001b[K\r"
+    ],
+    [
+      0.014948,
+      "remote: Sending build context to Docker daemon 70.19 MB\u001b[K\rremote: Sending build context to Docker daemon 70.75 MB\u001b[K\r"
+    ],
+    [
+      0.012679,
+      "remote: Sending build context to Docker daemon  71.3 MB\u001b[K\r"
+    ],
+    [
+      0.034543,
+      "remote: Sending build context to Docker daemon 71.86 MB\u001b[K\rremote: Sending build context to Docker daemon 72.42 MB\u001b[K\rremote: Sending build context to Docker daemon 72.97 MB\u001b[K\r"
+    ],
+    [
+      0.007512,
+      "remote: Sending build context to Docker daemon 73.53 MB\u001b[K\r"
+    ],
+    [
+      0.012015,
+      "remote: Sending build context to Docker daemon 74.09 MB\u001b[K\r"
+    ],
+    [
+      0.008093,
+      "remote: Sending build context to Docker daemon 74.65 MB\u001b[K\r"
+    ],
+    [
+      0.016010,
+      "remote: Sending build context to Docker daemon  75.2 MB\u001b[K\r"
+    ],
+    [
+      0.011320,
+      "remote: Sending build context to Docker daemon 75.76 MB\u001b[K\r"
+    ],
+    [
+      0.012774,
+      "remote: Sending build context to Docker daemon 76.32 MB\u001b[K\r"
+    ],
+    [
+      0.009660,
+      "remote: Sending build context to Docker daemon 76.87 MB\u001b[K\r"
+    ],
+    [
+      0.035214,
+      "remote: Sending build context to Docker daemon 77.43 MB\u001b[K\rremote: Sending build context to Docker daemon 77.99 MB\u001b[K\r"
+    ],
+    [
+      0.038348,
+      "remote: Sending build context to Docker daemon 78.54 MB\u001b[K\rremote: Sending build context to Docker daemon  79.1 MB\u001b[K\r"
+    ],
+    [
+      0.000943,
+      "remote: Sending build context to Docker daemon 79.66 MB\u001b[K\r"
+    ],
+    [
+      0.018164,
+      "remote: Sending build context to Docker daemon 80.22 MB\u001b[K\r"
+    ],
+    [
+      0.005609,
+      "remote: Sending build context to Docker daemon 80.77 MB\u001b[K\r"
+    ],
+    [
+      0.013455,
+      "remote: Sending build context to Docker daemon 81.33 MB\u001b[K\r"
+    ],
+    [
+      0.011188,
+      "remote: Sending build context to Docker daemon 81.89 MB\u001b[K\r"
+    ],
+    [
+      0.011461,
+      "remote: Sending build context to Docker daemon 82.44 MB\u001b[K\r"
+    ],
+    [
+      0.012203,
+      "remote: Sending build context to Docker daemon    83 MB\u001b[K\r"
+    ],
+    [
+      0.010584,
+      "remote: Sending build context to Docker daemon 83.56 MB\u001b[K\r"
+    ],
+    [
+      0.009628,
+      "remote: Sending build context to Docker daemon 84.12 MB\u001b[K\r"
+    ],
+    [
+      0.010219,
+      "remote: Sending build context to Docker daemon 84.67 MB\u001b[K\r"
+    ],
+    [
+      0.025824,
+      "remote: Sending build context to Docker daemon 85.23 MB\u001b[K\r"
+    ],
+    [
+      0.040892,
+      "remote: Sending build context to Docker daemon 85.79 MB\u001b[K\rremote: Sending build context to Docker daemon 86.34 MB\u001b[K\r"
+    ],
+    [
+      0.000010,
+      "remote: Sending build context to Docker daemon  86.9 MB\u001b[K\rremote: Sending build context to Docker daemon 87.46 MB\u001b[K\r"
+    ],
+    [
+      0.005162,
+      "remote: Sending build context to Docker daemon 88.01 MB\u001b[K\r"
+    ],
+    [
+      0.015241,
+      "remote: Sending build context to Docker daemon 88.57 MB\u001b[K\r"
+    ],
+    [
+      0.013058,
+      "remote: Sending build context to Docker daemon 89.13 MB\u001b[K\r"
+    ],
+    [
+      0.021669,
+      "remote: Sending build context to Docker daemon 89.69 MB\u001b[K\r"
+    ],
+    [
+      0.010672,
+      "remote: Sending build context to Docker daemon 90.24 MB\u001b[K\r"
+    ],
+    [
+      0.006763,
+      "remote: Sending build context to Docker daemon  90.8 MB\u001b[K\r"
+    ],
+    [
+      0.020499,
+      "remote: Sending build context to Docker daemon 91.36 MB\u001b[K\r"
+    ],
+    [
+      0.019507,
+      "remote: Sending build context to Docker daemon 91.91 MB\u001b[K\r"
+    ],
+    [
+      0.004331,
+      "remote: Sending build context to Docker daemon 92.47 MB\u001b[K\r"
+    ],
+    [
+      0.009244,
+      "remote: Sending build context to Docker daemon 93.03 MB\u001b[K\r"
+    ],
+    [
+      0.014352,
+      "remote: Sending build context to Docker daemon 93.59 MB\u001b[K\r"
+    ],
+    [
+      0.029978,
+      "remote: Sending build context to Docker daemon 94.14 MB\u001b[K\rremote: Sending build context to Docker daemon  94.7 MB\u001b[K\r"
+    ],
+    [
+      0.001356,
+      "remote: Sending build context to Docker daemon 95.26 MB\u001b[K\r"
+    ],
+    [
+      0.011687,
+      "remote: Sending build context to Docker daemon 95.81 MB\u001b[K\r"
+    ],
+    [
+      0.009629,
+      "remote: Sending build context to Docker daemon 96.37 MB\u001b[K\r"
+    ],
+    [
+      0.012947,
+      "remote: Sending build context to Docker daemon 96.93 MB\u001b[K\r"
+    ],
+    [
+      0.016251,
+      "remote: Sending build context to Docker daemon 97.48 MB\u001b[K\r"
+    ],
+    [
+      0.012034,
+      "remote: Sending build context to Docker daemon 98.04 MB\u001b[K\r"
+    ],
+    [
+      0.007566,
+      "remote: Sending build context to Docker daemon  98.6 MB\u001b[K\r"
+    ],
+    [
+      0.022078,
+      "remote: Sending build context to Docker daemon 99.16 MB\u001b[K\r"
+    ],
+    [
+      0.019278,
+      "remote: Sending build context to Docker daemon 99.71 MB\u001b[K\r"
+    ],
+    [
+      0.006970,
+      "remote: Sending build context to Docker daemon 100.3 MB\u001b[K\r"
+    ],
+    [
+      0.003203,
+      "remote: Sending build context to Docker daemon 100.8 MB\u001b[K\r"
+    ],
+    [
+      0.016114,
+      "remote: Sending build context to Docker daemon 101.4 MB\u001b[K\r"
+    ],
+    [
+      0.028783,
+      "remote: Sending build context to Docker daemon 101.9 MB\u001b[K\r"
+    ],
+    [
+      0.001381,
+      "remote: Sending build context to Docker daemon 102.5 MB\u001b[K\r"
+    ],
+    [
+      0.010344,
+      "remote: Sending build context to Docker daemon 103.1 MB\u001b[K\r"
+    ],
+    [
+      0.019856,
+      "remote: Sending build context to Docker daemon 103.6 MB\u001b[K\r"
+    ],
+    [
+      0.002040,
+      "remote: Sending build context to Docker daemon 104.2 MB\u001b[K\r"
+    ],
+    [
+      0.022432,
+      "remote: Sending build context to Docker daemon 104.7 MB\u001b[K\r"
+    ],
+    [
+      0.017852,
+      "remote: Sending build context to Docker daemon 105.3 MB\u001b[K\r"
+    ],
+    [
+      0.022331,
+      "remote: Sending build context to Docker daemon 105.8 MB\u001b[K\r"
+    ],
+    [
+      0.011848,
+      "remote: Sending build context to Docker daemon 106.4 MB\u001b[K\r"
+    ],
+    [
+      0.008418,
+      "remote: Sending build context to Docker daemon   107 MB\u001b[K\r"
+    ],
+    [
+      0.017169,
+      "remote: Sending build context to Docker daemon 107.5 MB\u001b[K\r"
+    ],
+    [
+      0.014904,
+      "remote: Sending build context to Docker daemon 108.1 MB\u001b[K\r"
+    ],
+    [
+      0.010117,
+      "remote: Sending build context to Docker daemon 108.6 MB\u001b[K\r"
+    ],
+    [
+      0.014511,
+      "remote: Sending build context to Docker daemon 109.2 MB\u001b[K\r"
+    ],
+    [
+      0.016130,
+      "remote: Sending build context to Docker daemon 109.7 MB\u001b[K\r"
+    ],
+    [
+      0.009736,
+      "remote: Sending build context to Docker daemon 110.3 MB\u001b[K\r"
+    ],
+    [
+      0.011229,
+      "remote: Sending build context to Docker daemon 110.9 MB\u001b[K\r"
+    ],
+    [
+      0.015947,
+      "remote: Sending build context to Docker daemon 111.4 MB\u001b[K\r"
+    ],
+    [
+      0.013106,
+      "remote: Sending build context to Docker daemon   112 MB\u001b[K\r"
+    ],
+    [
+      0.010280,
+      "remote: Sending build context to Docker daemon 112.5 MB\u001b[K\r"
+    ],
+    [
+      0.016727,
+      "remote: Sending build context to Docker daemon 113.1 MB\u001b[K\r"
+    ],
+    [
+      0.010445,
+      "remote: Sending build context to Docker daemon 113.6 MB\u001b[K\r"
+    ],
+    [
+      0.011650,
+      "remote: Sending build context to Docker daemon 114.2 MB\u001b[K\r"
+    ],
+    [
+      0.015341,
+      "remote: Sending build context to Docker daemon 114.8 MB\u001b[K\r"
+    ],
+    [
+      0.008172,
+      "remote: Sending build context to Docker daemon 115.3 MB\u001b[K\r"
+    ],
+    [
+      0.032826,
+      "remote: Sending build context to Docker daemon 115.9 MB\u001b[K\r"
+    ],
+    [
+      0.522825,
+      "remote: Sending build context to Docker daemon 116.4 MB\u001b[K\r"
+    ],
+    [
+      0.000560,
+      "remote: Sending build context to Docker daemon   117 MB\u001b[K\rremote: Sending build context to Docker daemon 117.5 MB\u001b[K\r"
+    ],
+    [
+      0.019386,
+      "remote: Sending build context to Docker daemon 118.1 MB\u001b[K\r"
+    ],
+    [
+      0.018114,
+      "remote: Sending build context to Docker daemon 118.7 MB\u001b[K\r"
+    ],
+    [
+      0.016211,
+      "remote: Sending build context to Docker daemon 119.2 MB\u001b[K\r"
+    ],
+    [
+      0.011814,
+      "remote: Sending build context to Docker daemon 119.8 MB\u001b[K\r"
+    ],
+    [
+      0.012794,
+      "remote: Sending build context to Docker daemon 120.3 MB\u001b[K\r"
+    ],
+    [
+      0.011872,
+      "remote: Sending build context to Docker daemon 120.9 MB\u001b[K\r"
+    ],
+    [
+      0.017509,
+      "remote: Sending build context to Docker daemon 121.4 MB\u001b[K\r"
+    ],
+    [
+      0.061761,
+      "remote: Sending build context to Docker daemon   122 MB\u001b[K\rremote: Sending build context to Docker daemon 122.6 MB\u001b[K\rremote: Sending build context to Docker daemon 123.1 MB\u001b[K\rremote: Sending build context to Docker daemon 123.7 MB\u001b[K\r"
+    ],
+    [
+      0.003220,
+      "remote: Sending build context to Docker daemon 124.2 MB\u001b[K\r"
+    ],
+    [
+      0.018313,
+      "remote: Sending build context to Docker daemon 124.8 MB\u001b[K\r"
+    ],
+    [
+      0.008772,
+      "remote: Sending build context to Docker daemon 125.3 MB\u001b[K\r"
+    ],
+    [
+      0.011492,
+      "remote: Sending build context to Docker daemon 125.9 MB\u001b[K\r"
+    ],
+    [
+      0.013396,
+      "remote: Sending build context to Docker daemon 126.5 MB\u001b[K\r"
+    ],
+    [
+      0.014453,
+      "remote: Sending build context to Docker daemon   127 MB\u001b[K\r"
+    ],
+    [
+      0.013123,
+      "remote: Sending build context to Docker daemon 127.6 MB\u001b[K\r"
+    ],
+    [
+      0.013378,
+      "remote: Sending build context to Docker daemon 128.1 MB\u001b[K\r"
+    ],
+    [
+      0.003813,
+      "remote: Sending build context to Docker daemon 128.7 MB\u001b[K\r"
+    ],
+    [
+      0.011993,
+      "remote: Sending build context to Docker daemon 129.2 MB\u001b[K\r"
+    ],
+    [
+      0.015589,
+      "remote: Sending build context to Docker daemon 129.8 MB\u001b[K\r"
+    ],
+    [
+      0.012866,
+      "remote: Sending build context to Docker daemon 130.4 MB\u001b[K\r"
+    ],
+    [
+      0.010059,
+      "remote: Sending build context to Docker daemon 130.9 MB\u001b[K\r"
+    ],
+    [
+      0.020091,
+      "remote: Sending build context to Docker daemon 131.5 MB\u001b[K\r"
+    ],
+    [
+      0.006133,
+      "remote: Sending build context to Docker daemon   132 MB\u001b[K\r"
+    ],
+    [
+      0.011681,
+      "remote: Sending build context to Docker daemon 132.6 MB\u001b[K\r"
+    ],
+    [
+      0.011834,
+      "remote: Sending build context to Docker daemon 133.1 MB\u001b[K\r"
+    ],
+    [
+      0.016033,
+      "remote: Sending build context to Docker daemon 133.7 MB\u001b[K\r"
+    ],
+    [
+      0.016034,
+      "remote: Sending build context to Docker daemon 134.3 MB\u001b[K\r"
+    ],
+    [
+      0.015902,
+      "remote: Sending build context to Docker daemon 134.8 MB\u001b[K\r"
+    ],
+    [
+      0.005783,
+      "remote: Sending build context to Docker daemon 135.4 MB\u001b[K\r"
+    ],
+    [
+      0.019086,
+      "remote: Sending build context to Docker daemon 135.9 MB\u001b[K\r"
+    ],
+    [
+      0.009816,
+      "remote: Sending build context to Docker daemon 136.5 MB\u001b[K\r"
+    ],
+    [
+      0.015746,
+      "remote: Sending build context to Docker daemon   137 MB\u001b[K\r"
+    ],
+    [
+      0.010770,
+      "remote: Sending build context to Docker daemon 137.6 MB\u001b[K\r"
+    ],
+    [
+      0.012436,
+      "remote: Sending build context to Docker daemon 138.1 MB\u001b[K\r"
+    ],
+    [
+      0.008914,
+      "remote: Sending build context to Docker daemon 138.7 MB\u001b[K\r"
+    ],
+    [
+      0.016704,
+      "remote: Sending build context to Docker daemon 139.3 MB\u001b[K\r"
+    ],
+    [
+      0.010223,
+      "remote: Sending build context to Docker daemon 139.8 MB\u001b[K\r"
+    ],
+    [
+      0.015914,
+      "remote: Sending build context to Docker daemon 140.4 MB\u001b[K\r"
+    ],
+    [
+      0.011960,
+      "remote: Sending build context to Docker daemon 140.9 MB\u001b[K\r"
+    ],
+    [
+      0.012185,
+      "remote: Sending build context to Docker daemon 141.5 MB\u001b[K\r"
+    ],
+    [
+      0.010462,
+      "remote: Sending build context to Docker daemon   142 MB\u001b[K\r"
+    ],
+    [
+      0.013804,
+      "remote: Sending build context to Docker daemon 142.6 MB\u001b[K\r"
+    ],
+    [
+      0.011363,
+      "remote: Sending build context to Docker daemon 143.2 MB\u001b[K\r"
+    ],
+    [
+      0.015655,
+      "remote: Sending build context to Docker daemon 143.7 MB\u001b[K\r"
+    ],
+    [
+      0.011902,
+      "remote: Sending build context to Docker daemon 144.3 MB\u001b[K\r"
+    ],
+    [
+      0.016098,
+      "remote: Sending build context to Docker daemon 144.8 MB\u001b[K\r"
+    ],
+    [
+      0.008458,
+      "remote: Sending build context to Docker daemon 145.4 MB\u001b[K\r"
+    ],
+    [
+      0.012458,
+      "remote: Sending build context to Docker daemon 145.9 MB\u001b[K\r"
+    ],
+    [
+      0.010990,
+      "remote: Sending build context to Docker daemon 146.5 MB\u001b[K\r"
+    ],
+    [
+      0.014022,
+      "remote: Sending build context to Docker daemon 147.1 MB\u001b[K\r"
+    ],
+    [
+      0.015987,
+      "remote: Sending build context to Docker daemon 147.6 MB\u001b[K\r"
+    ],
+    [
+      0.010188,
+      "remote: Sending build context to Docker daemon 148.2 MB\u001b[K\r"
+    ],
+    [
+      0.009732,
+      "remote: Sending build context to Docker daemon 148.7 MB\u001b[K\r"
+    ],
+    [
+      0.011501,
+      "remote: Sending build context to Docker daemon 149.3 MB\u001b[K\r"
+    ],
+    [
+      0.014452,
+      "remote: Sending build context to Docker daemon 149.8 MB\u001b[K\r"
+    ],
+    [
+      0.010691,
+      "remote: Sending build context to Docker daemon 150.4 MB\u001b[K\r"
+    ],
+    [
+      0.015576,
+      "remote: Sending build context to Docker daemon   151 MB\u001b[K\r"
+    ],
+    [
+      0.011528,
+      "remote: Sending build context to Docker daemon 151.5 MB\u001b[K\r"
+    ],
+    [
+      0.009099,
+      "remote: Sending build context to Docker daemon 152.1 MB\u001b[K\r"
+    ],
+    [
+      0.012690,
+      "remote: Sending build context to Docker daemon 152.6 MB\u001b[K\r"
+    ],
+    [
+      0.010752,
+      "remote: Sending build context to Docker daemon 153.2 MB\u001b[K\r"
+    ],
+    [
+      0.015117,
+      "remote: Sending build context to Docker daemon 153.7 MB\u001b[K\r"
+    ],
+    [
+      0.012032,
+      "remote: Sending build context to Docker daemon 154.3 MB\u001b[K\r"
+    ],
+    [
+      0.012123,
+      "remote: Sending build context to Docker daemon 154.9 MB\u001b[K\r"
+    ],
+    [
+      0.008383,
+      "remote: Sending build context to Docker daemon 155.4 MB\u001b[K\r"
+    ],
+    [
+      0.012598,
+      "remote: Sending build context to Docker daemon   156 MB\u001b[K\r"
+    ],
+    [
+      0.014894,
+      "remote: Sending build context to Docker daemon 156.5 MB\u001b[K\r"
+    ],
+    [
+      0.014283,
+      "remote: Sending build context to Docker daemon 157.1 MB\u001b[K\r"
+    ],
+    [
+      0.011833,
+      "remote: Sending build context to Docker daemon 157.6 MB\u001b[K\r"
+    ],
+    [
+      0.014759,
+      "remote: Sending build context to Docker daemon 158.2 MB\u001b[K\r"
+    ],
+    [
+      0.009225,
+      "remote: Sending build context to Docker daemon 158.8 MB\u001b[K\r"
+    ],
+    [
+      0.015656,
+      "remote: Sending build context to Docker daemon 159.3 MB\u001b[K\r"
+    ],
+    [
+      0.012761,
+      "remote: Sending build context to Docker daemon 159.9 MB\u001b[K\r"
+    ],
+    [
+      0.011275,
+      "remote: Sending build context to Docker daemon 160.4 MB\u001b[K\r"
+    ],
+    [
+      0.016496,
+      "remote: Sending build context to Docker daemon   161 MB\u001b[K\r"
+    ],
+    [
+      0.003014,
+      "remote: Sending build context to Docker daemon 161.2 MB\u001b[K\r"
+    ],
+    [
+      0.000323,
+      "remote: \rremote: \r\n"
+    ],
+    [
+      0.000416,
+      "remote: Sending build context to Docker daemon \u001b[K\rremote: \r\n"
+    ],
+    [
+      0.010536,
+      "remote: Step 0 : FROM ubuntu:trusty\u001b[K\r\nremote:  ---\u003e 5ba9dab47459\u001b[K\r\n"
+    ],
+    [
+      0.000327,
+      "remote: Step 1 : MAINTAINER Steven Edouard \u003csteven.edouard1@gmail.com\u003e\u001b[K\r\n"
+    ],
+    [
+      0.016573,
+      "remote:  ---\u003e Using cache\u001b[K\r\n"
+    ],
+    [
+      0.000112,
+      "remote:  ---\u003e a8edc2f470a9\u001b[K\r\n"
+    ],
+    [
+      0.000516,
+      "remote: Step 2 : ENV DEBIAN_FRONTEND noninteractive\u001b[K\r\n"
+    ],
+    [
+      0.020871,
+      "remote:  ---\u003e Using cache\u001b[K\r\n"
+    ],
+    [
+      0.000082,
+      "remote:  ---\u003e 9d1067f755a9\u001b[K\r\n"
+    ],
+    [
+      0.000745,
+      "remote: Step 3 : RUN apt-get update -y -y\u001b[K\r\n"
+    ],
+    [
+      0.019317,
+      "remote:  ---\u003e Using cache\u001b[K\r\n"
+    ],
+    [
+      0.002524,
+      "remote:  ---\u003e d946efe72d6a\u001b[K\r\nremote: Step 4 : RUN apt-get install wget -y\u001b[K\r\n"
+    ],
+    [
+      0.016210,
+      "remote:  ---\u003e Using cache\u001b[K\r\n"
+    ],
+    [
+      0.000226,
+      "remote:  ---\u003e 07585e2a1e00\u001b[K\r\n"
+    ],
+    [
+      0.010935,
+      "remote: Step 5 : RUN wget http://nodejs.org/dist/v0.12.0/node-v0.12.0-linux-x64.tar.gz \u0026\u0026 sudo tar -C /usr/local --strip-components 1 -xzf node-v0.12.0-linux-x64.tar.gz\u001b[K\r\n"
+    ],
+    [
+      0.010441,
+      "remote:  ---\u003e Using cache\u001b[K\r\n"
+    ],
+    [
+      0.000356,
+      "remote:  ---\u003e 625a51284f8c\u001b[K\r\n"
+    ],
+    [
+      0.016860,
+      "remote: Step 6 : RUN sudo apt-get install build-essential -y\u001b[K\r\n"
+    ],
+    [
+      0.003745,
+      "remote:  ---\u003e Using cache\u001b[K\r\n"
+    ],
+    [
+      0.017442,
+      "remote:  ---\u003e f9b46ef0647b\u001b[K\r\nremote: Step 7 : RUN sudo apt-get install libreadline-gplv2-dev libncursesw5-dev libssl-dev libsqlite3-dev tk-dev libgdbm-dev libc6-dev libbz2-dev -y\u001b[K\r\n"
+    ],
+    [
+      0.007377,
+      "remote:  ---\u003e Using cache\u001b[K\r\n"
+    ],
+    [
+      0.000454,
+      "remote:  ---\u003e cbec6d3611d9\u001b[K\r\n"
+    ],
+    [
+      0.031492,
+      "remote: Step 8 : RUN wget http://python.org/ftp/python/2.7.5/Python-2.7.5.tgz \u0026\u0026 tar -xvf Python-2.7.5.tgz \u0026\u0026 cd Python-2.7.5 \u0026\u0026 ./configure \u0026\u0026 sudo make install\u001b[K\r\n"
+    ],
+    [
+      0.001716,
+      "remote:  ---\u003e Using cache\u001b[K\r\nremote:  ---\u003e 5a5c879832af\u001b[K\r\n"
+    ],
+    [
+      0.000010,
+      "remote: Step 9 : RUN sudo apt-get install software-properties-common -y\u001b[K\r\n"
+    ],
+    [
+      0.005328,
+      "remote:  ---\u003e Using cache\u001b[K\r\n"
+    ],
+    [
+      0.000216,
+      "remote:  ---\u003e 0a8086ac07ff\u001b[K\r\n"
+    ],
+    [
+      0.000456,
+      "remote: Step 10 : RUN sudo apt-get purge vlc-* # include the hyphen\u001b[K\r\n"
+    ],
+    [
+      0.018231,
+      "remote:  ---\u003e Using cache\u001b[K\r\n"
+    ],
+    [
+      0.000332,
+      "remote:  ---\u003e 92711448b9c6\u001b[K\r\n"
+    ],
+    [
+      0.000897,
+      "remote: Step 11 : RUN sudo add-apt-repository 'deb http://ppa.launchpad.net/jon-severinsson/ffmpeg/ubuntu '\"$(cat /etc/*-release | grep \"DISTRIB_CODENAME=\" | cut -d \"=\" -f2)\"' main' \u0026\u0026 sudo apt-get update\u001b[K\r\n"
+    ],
+    [
+      0.015857,
+      "remote:  ---\u003e Using cache\u001b[K\r\n"
+    ],
+    [
+      0.000347,
+      "remote:  ---\u003e 431272941fcf\u001b[K\r\n"
+    ],
+    [
+      0.000457,
+      "remote: Step 12 : RUN sudo apt-get update -y\u001b[K\r\n"
+    ],
+    [
+      0.018432,
+      "remote:  ---\u003e Using cache\u001b[K\r\n"
+    ],
+    [
+      0.000125,
+      "remote:  ---\u003e 18303bf7801e\u001b[K\r\n"
+    ],
+    [
+      0.000589,
+      "remote: Step 13 : RUN sudo apt-get upgrade -y\u001b[K\r\n"
+    ],
+    [
+      0.023721,
+      "remote:  ---\u003e Using cache\u001b[K\r\n"
+    ],
+    [
+      0.000452,
+      "remote:  ---\u003e 8635d5d3240b\u001b[K\r\n"
+    ],
+    [
+      0.000419,
+      "remote: Step 14 : RUN sudo apt-get install ffmpeg -y --force-yes\u001b[K\r\n"
+    ],
+    [
+      0.017526,
+      "remote:  ---\u003e Using cache\u001b[K\r\n"
+    ],
+    [
+      0.000380,
+      "remote:  ---\u003e 2c9ec6f560be\u001b[K\r\n"
+    ],
+    [
+      0.000476,
+      "remote: Step 15 : VOLUME /data\u001b[K\r\n"
+    ],
+    [
+      0.019895,
+      "remote:  ---\u003e Using cache\u001b[K\r\n"
+    ],
+    [
+      0.000591,
+      "remote:  ---\u003e 04f4d61ec916\u001b[K\r\nremote: Step 16 : ADD . /data\u001b[K\r\n"
+    ],
+    [
+      8.913645,
+      "remote:  ---\u003e 239b64d4fd20\u001b[K\r\n"
+    ],
+    [
+      3.584092,
+      "remote: Removing intermediate container 61b2ed7e1e57\u001b[K\r\n"
+    ],
+    [
+      0.000829,
+      "remote: Step 17 : WORKDIR /data\u001b[K\r\n"
+    ],
+    [
+      3.583304,
+      "remote:  ---\u003e Running in cbbed84e9325\u001b[K\r\n"
+    ],
+    [
+      2.560126,
+      "remote:  ---\u003e 831d5f80610c\u001b[K\r\n"
+    ],
+    [
+      1.111339,
+      "remote: Removing intermediate container cbbed84e9325\u001b[K\r\n"
+    ],
+    [
+      0.000116,
+      "remote: Step 18 : CMD cd /data; npm install; npm start\u001b[K\r\n"
+    ],
+    [
+      1.321487,
+      "remote:  ---\u003e Running in c7075810a08d\u001b[K\r\n"
+    ],
+    [
+      0.089895,
+      "remote:  ---\u003e eb6e22d6eedc\u001b[K\r\n"
+    ],
+    [
+      0.558147,
+      "remote: Removing intermediate container c7075810a08d\u001b[K\r\n"
+    ],
+    [
+      0.000129,
+      "remote: Successfully built eb6e22d6eedc\u001b[K\r\n"
+    ],
+    [
+      1.635532,
+      "remote: Sending build context to Docker daemon 2.048 kB\u001b[K\rremote: \rremote: \r\nremote: Sending build context to Docker daemon \u001b[K\rremote: \r\nremote: Step 0 : FROM dokku/worker-azure:latest\u001b[K\r\n"
+    ],
+    [
+      0.000010,
+      "remote:  ---\u003e eb6e22d6eedc\u001b[K\r\n"
+    ],
+    [
+      0.167328,
+      "remote: Step 1 : ENV GIT_REV 8b7f7f92e25bc885a7babcb69abdbc133373f45e\u001b[K\r\n"
+    ],
+    [
+      1.260511,
+      "remote:  ---\u003e Running in 8d10e8fed918\u001b[K\r\nremote:  ---\u003e df220058e75c\u001b[K\r\n"
+    ],
+    [
+      1.024076,
+      "remote: Removing intermediate container 8d10e8fed918\u001b[K\r\n"
+    ],
+    [
+      0.000031,
+      "remote: Successfully built df220058e75c\u001b[K\r\nremote: -----\u003e Releasing worker-azure ...\u001b[K\r\n"
+    ],
+    [
+      1.244326,
+      "remote: Sending build context to Docker daemon 2.048 kB\u001b[K\rremote: \rremote: \r\n"
+    ],
+    [
+      0.000105,
+      "remote: Sending build context to Docker daemon \u001b[K\rremote: \r\n"
+    ],
+    [
+      0.006896,
+      "remote: Step 0 : FROM dokku/worker-azure:latest\u001b[K\r\n"
+    ],
+    [
+      0.000076,
+      "remote:  ---\u003e df220058e75c\u001b[K\r\n"
+    ],
+    [
+      0.000637,
+      "remote: Successfully built df220058e75c\u001b[K\r\n"
+    ],
+    [
+      2.331873,
+      "remote: -----\u003e Deploying worker-azure ...\u001b[K\r\n"
+    ],
+    [
+      0.000094,
+      "remote: -----\u003e Shutting down old containers\u001b[K\r\n"
+    ],
+    [
+      19.456985,
+      "remote:        No external HTTP port published\u001b[K\r\n"
+    ],
+    [
+      0.004951,
+      "remote: =====\u003e Application deployed\u001b[K\r\n"
+    ],
+    [
+      0.181022,
+      "remote: -----\u003e Cleaning up ...\u001b[K\r\n"
+    ],
+    [
+      1.953109,
+      "To dokku@simpletranscription.cloudapp.net:worker-azure\r\n"
+    ],
+    [
+      0.000160,
+      "   95c864c..8b7f7f9  master -\u003e master\r\n"
+    ],
+    [
+      0.004127,
+      "bash-3.2$ "
+    ],
+    [
+      3.452311,
+      "3"
+    ],
+    [
+      0.239768,
+      "s"
+    ],
+    [
+      0.111813,
+      "i"
+    ],
+    [
+      0.239943,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.192114,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.176007,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.472086,
+      "e"
+    ],
+    [
+      0.200103,
+      "x"
+    ],
+    [
+      0.095622,
+      "i"
+    ],
+    [
+      0.160285,
+      "t"
+    ],
+    [
+      0.159942,
+      "\r\n"
+    ],
+    [
+      0.000097,
+      "exit\r\n"
+    ]
+  ]
+}
