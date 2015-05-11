@@ -1,0 +1,586 @@
+{
+  "version": 1,
+  "width": 110,
+  "height": 25,
+  "duration": 40.057404,
+  "command": "/usr/local/bin/bash",
+  "title": "Testing-v2",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/usr/local/bin/bash"
+  },
+  "stdout": [
+    [
+      0.008660,
+      "\u001b]0;steven@Cerberus:/Users/steven\u0007"
+    ],
+    [
+      0.000195,
+      "\u001b[01;32msteven@Cerberus\u001b[01;34m ~ $\u001b[00m "
+    ],
+    [
+      5.661593,
+      "h"
+    ],
+    [
+      0.072010,
+      "t"
+    ],
+    [
+      0.080410,
+      "o"
+    ],
+    [
+      0.103589,
+      "p"
+    ],
+    [
+      0.240125,
+      "\r\n"
+    ],
+    [
+      0.002477,
+      "bash: htop: command not found\r\n"
+    ],
+    [
+      0.000492,
+      "\u001b]0;steven@Cerberus:/Users/steven\u0007"
+    ],
+    [
+      0.000415,
+      "\u001b[01;32msteven@Cerberus\u001b[01;34m ~ $\u001b[00m "
+    ],
+    [
+      1.364490,
+      "b"
+    ],
+    [
+      0.191999,
+      "r"
+    ],
+    [
+      0.087974,
+      "e"
+    ],
+    [
+      0.184170,
+      "w"
+    ],
+    [
+      0.087959,
+      " "
+    ],
+    [
+      0.159843,
+      "i"
+    ],
+    [
+      0.072469,
+      "n"
+    ],
+    [
+      0.079752,
+      "s"
+    ],
+    [
+      0.080054,
+      "t"
+    ],
+    [
+      0.087837,
+      "a"
+    ],
+    [
+      0.032112,
+      "l"
+    ],
+    [
+      0.151747,
+      "l"
+    ],
+    [
+      0.091330,
+      " "
+    ],
+    [
+      0.164739,
+      "h"
+    ],
+    [
+      0.112356,
+      "t"
+    ],
+    [
+      0.103664,
+      "o"
+    ],
+    [
+      0.064132,
+      "p"
+    ],
+    [
+      0.248091,
+      "\r\n"
+    ],
+    [
+      0.323142,
+      "\u001b[1;34m==\u003e\u001b[1;39m Downloading https://homebrew.bintray.com/bottles/htop-osx-0.8.2.4.yosemite.bottle.tar.gz\u001b[0m\r\n"
+    ],
+    [
+      0.726029,
+      "\r##################"
+    ],
+    [
+      0.000012,
+      "###########################"
+    ],
+    [
+      0.000004,
+      "##"
+    ],
+    [
+      0.000004,
+      "##"
+    ],
+    [
+      0.000023,
+      "#############"
+    ],
+    [
+      0.000003,
+      "##"
+    ],
+    [
+      0.000004,
+      "##"
+    ],
+    [
+      0.000004,
+      "##"
+    ],
+    [
+      0.000005,
+      "##"
+    ],
+    [
+      0.000005,
+      "##"
+    ],
+    [
+      0.000005,
+      " "
+    ],
+    [
+      0.000033,
+      "100.0%"
+    ],
+    [
+      0.000021,
+      "\r\n"
+    ],
+    [
+      0.009744,
+      "\u001b[1;34m==\u003e\u001b[1;39m Pouring htop-osx-0.8.2.4.yosemite.bottle.tar.gz\u001b[0m\r\n"
+    ],
+    [
+      0.023150,
+      "\u001b[1;34m==\u003e\u001b[1;39m Caveats\u001b[0m\r\nhtop-osx requires root privileges to correctly display all running processes.\r\nso you will need to run `sudo htop`.\r\nYou should be certain that you trust any software you grant root privileges.\r\n"
+    ],
+    [
+      0.226044,
+      "\u001b[1;34m==\u003e\u001b[1;39m Summary\u001b[0m\r\n"
+    ],
+    [
+      0.008978,
+      "🍺  /usr/local/Cellar/htop-osx/0.8.2.4: 11 files, 184K\r\n"
+    ],
+    [
+      0.014510,
+      "\u001b]0;steven@Cerberus:/Users/steven\u0007"
+    ],
+    [
+      0.000106,
+      "\u001b[01;32msteven@Cerberus\u001b[01;34m ~ $\u001b[00m "
+    ],
+    [
+      1.331993,
+      "h"
+    ],
+    [
+      0.128047,
+      "t"
+    ],
+    [
+      0.112453,
+      "o"
+    ],
+    [
+      0.031993,
+      "p"
+    ],
+    [
+      4.111869,
+      "\r\n"
+    ],
+    [
+      0.004786,
+      "\u001b[?1049h\u001b[1;25r\u001b(B\u001b[m\u001b[4l\u001b[?7h\u001b[?1h\u001b="
+    ],
+    [
+      0.000008,
+      "\u001b[?25l"
+    ],
+    [
+      0.000087,
+      "\u001b[39;49m\u001b[?1000h"
+    ],
+    [
+      0.258125,
+      "\u001b[39;49m\u001b(B\u001b[m\u001b[H\u001b[2J\u001b[2d  \u001b[36m1  \u001b[39m\u001b(B\u001b[0;1m[\u001b(B\u001b[0m\u001b[32m||||||||\u001b[31m||||||\u001b(B\u001b[0;1m\u001b[30m\u001b[26X\u001b[2;47H29.4%\u001b[39m]\u001b(B\u001b[m     \u001b[36mTasks: \u001b(B\u001b[0;1m\u001b[36m265\u001b(B\u001b[0m\u001b[36m total, \u001b(B\u001b[0;1m\u001b[32m0\u001b(B\u001b[0m\u001b[36m running\u001b[3;3H2  \u001b[39m\u001b(B\u001b[0;1m[\u001b(B\u001b[0m\u001b[32m|||\u001b[31m|||\u001b(B\u001b[0;1m\u001b[30m\u001b[34X\u001b[3;47H10.5%\u001b[39m]\u001b(B\u001b[m     \u001b[36mLoad average: \u001b(B\u001b[0;1m\u001b[30m1.60 \u001b[39m\u001b(B\u001b[m1.63 \u001b(B\u001b[0;1m1.66 \u001b[4;3H\u001b(B\u001b[0m\u001b[36m3  \u001b[39m\u001b(B\u001b[0;1m[\u001b(B\u001b[0m\u001b[32m||||||||||\u001b[31m||||||||\u001b(B\u001b[0;1m\u001b[30m\u001b[22X\u001b[4;47H38.9%\u001b[39m]\u001b(B\u001b[m     \u001b[36mUptime: \u001b(B\u001b[0;1m\u001b[36m23 days, 04:05:31\u001b[5;3H\u001b(B\u001b[0m\u001b[36m4  \u001b[39m\u001b(B\u001b[0;1m[\u001b(B\u001b[0m\u001b[32m|||\u001b[31m|||\u001b(B\u001b[0;1m\u001b[30m\u001b[34X\u001b[5;47H11.1%\u001b[39m]\u001b[6;3H\u001b(B\u001b[0m\u001b[36mMem\u001b[39m\u001b(B\u001b[0;1m[\u001b(B\u001b[0m\u001b[32m|||||||||||||||||||||||||||||\u001b[34m|||||5230/8192MB\u001b[39m\u001b(B\u001b[0;1m]\u001b[7;3H\u001b(B\u001b[0m\u001b[36mSwp\u001b[39m\u001b(B\u001b[0;1m[\u001b(B\u001b[0m\u001b[31m|||||||||||||||||||||\u001b(B\u001b[0;1m\u001b[30m             1379/3072MB\u001b[39m]\r\u001b[9d\u001b(B\u001b[0m\u001b[30m\u001b[42m  PID USER     PRI  NI  VIRT   RES   SHR S \u001b[30m\u001b[46mCPU% \u001b[30m\u001b[42mMEM%   TIME+  Command\u001b[K\r\u001b[10d\u001b[30m\u001b[46m14193 steven    31   0 2387M  154"
+    ],
+    [
+      0.000075,
+      "4     0 C  3.0  0.0  0:00.00 htop\u001b[K\u001b[11;5H\u001b[39;49m\u001b(B\u001b[m1 \u001b(B\u001b[0;1m\u001b[30mroot     \u001b[39m\u001b(B\u001b[m  0   0     0     0     0 ?  0.0  0.0  0:00.00 (launchd)\u001b[12;4H42 \u001b(B\u001b[0;1m\u001b[30mroot     \u001b[39m\u001b(B\u001b[m  0   0     0     0     0 ?  0.0  0.0  0:00.00 (syslogd)\u001b[13;4H43 \u001b(B\u001b[0;1m\u001b[30mroot     \u001b[39m\u001b(B\u001b[m  0   0     0     0     0 ?  0.0  0.0  0:00.00 (UserEventAgent)\u001b[14;4H45 \u001b(B\u001b[0;1m\u001b[30mroot     \u001b[39m\u001b(B\u001b[m  0   0     0     0     0 ?  0.0  0.0  0:00.00 (kextd)\u001b[15;4H46 \u001b(B\u001b[0;1m\u001b[30mroot     \u001b[39m\u001b(B\u001b[m  0   0     0     0     0 ?  0.0  0.0  0:00.00 (fseventsd)\u001b[16;4H48 \u001b(B\u001b[0;1m\u001b[30mroot     \u001b[39m\u001b(B\u001b[m  0   0     0     0     0 ?  0.0  0.0  0:00.00 (thermald)\u001b[17;4H50 \u001b(B\u001b[0;1m\u001b[30m_appleev \u001b[39m\u001b(B\u001b[m  0   0     0     0     0 ?  0.0  0.0  0:00.00 (appleeventsd)\u001b[18;4H51 \u001b(B\u001b[0;1m\u001b[30mroot     \u001b[39m\u001b(B\u001b[m  0   0     0     0     0 ?  0.0  0.0  0:00.00 (configd)\u001b[19;4H52 \u001b(B\u001b[0;1m\u001b[30mroot     \u001b[39m\u001b(B\u001b[m  0   0     0     0     0 ?  0.0  0.0  0:00.00 (powerd)\u001b[20;4H55 \u001b(B\u001b[0;1m\u001b[30mroot     \u001b[39m\u001b(B\u001b[m  0   0     0     0"
+    ],
+    [
+      0.000309,
+      "     0 ?  0.0  0.0  0:00.00 (airportd)\u001b[21;4H57 \u001b(B\u001b[0;1m\u001b[30mroot     \u001b[39m\u001b(B\u001b[m  0 \u001b[31m 10 \u001b[39m\u001b(B\u001b[m    0     0     0 ?  0.0  0.0  0:00.00 (warmd)\u001b[22;4H59 \u001b(B\u001b[0;1m\u001b[30mroot     \u001b[39m\u001b(B\u001b[m  0   0     0     0     0 ?  0.0  0.0  0:00.00 (mds)\u001b[23;4H64 \u001b(B\u001b[0;1m\u001b[30mroot     \u001b[39m\u001b(B\u001b[m  0   0     0     0     0 ?  0.0  0.0  0:00.00 (diskarbitrationd)\u001b[24;4H73 \u001b(B\u001b[0;1m\u001b[30mroot     \u001b[39m\u001b(B\u001b[m  0   0     0     0     0 ?  0.0  0.0  0:00.00 (opendirectoryd)\r\u001b[25dF1\u001b[30m\u001b[46mHelp  \u001b[39;49m\u001b(B\u001b[mF2\u001b[30m\u001b[46mSetup \u001b[39;49m\u001b(B\u001b[mF3\u001b[30m\u001b[46mSearch\u001b[39;49m\u001b(B\u001b[mF4\u001b[30m\u001b[46mInvert\u001b[39;49m\u001b(B\u001b[mF5\u001b[30m\u001b[46mTree  \u001b[39;49m\u001b(B\u001b[mF6\u001b[30m\u001b[46mSortBy\u001b[39;49m\u001b(B\u001b[mF7\u001b[30m\u001b[46mNice -\u001b[39;49m\u001b(B\u001b[mF8\u001b[30m\u001b[46mNice +\u001b[39;49m\u001b(B\u001b[mF9\u001b[30m\u001b[46mKill  \u001b[39;49m\u001b(B\u001b[mF10\u001b[30m\u001b[46mQuit\u001b[K\u001b[H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      1.581197,
+      "\u001b[2;11H\u001b[31m||||\u001b(B\u001b[0;1m\u001b[30m      \u001b[2;47H15.7\u001b[3;8H     \u001b[3;47H 0.6\u001b[4;10H\u001b(B\u001b[0m\u001b[31m||\u001b(B\u001b[0;1m\u001b[30m             \u001b[4;47H 8.2\u001b[4;82H\u001b[36m3\u001b[5;8H\u001b(B\u001b[0m\u001b[31m|\u001b(B\u001b[0;1m\u001b[30m    \u001b[5;47H 1.3\u001b[10;33H\u001b(B\u001b[0m\u001b[30m\u001b[46m6\u001b[10;45H0\u001b[H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      1.582218,
+      "\u001b[2;48H\u001b(B\u001b[0;1m\u001b[30m3.9\u001b[3;8H\u001b(B\u001b[0m\u001b[31m|\u001b[3;48H\u001b(B\u001b[0;1m\u001b[30m1.3\u001b[3;75H3 \u001b[39m\u001b(B\u001b[m1.64 \u001b(B\u001b[0;1m1.67\u001b[4;9H\u001b(B\u001b[0m\u001b[31m||\u001b(B\u001b[0;1m\u001b[30m \u001b[4;48H7.6\u001b[4;82H\u001b[36m4\u001b[5;50H\u001b[30m9\u001b[10;45H\u001b(B\u001b[0m\u001b[30m\u001b[46m1\u001b[H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      1.580814,
+      "\u001b[2;48H\u001b(B\u001b[0;1m\u001b[30m7.1\u001b[3;48H3.2\u001b[4;9H\u001b(B\u001b[0m\u001b[32m|||\u001b[31m|||\u001b[4;47H\u001b(B\u001b[0;1m\u001b[30m15.8\u001b[4;82H\u001b[36m6\u001b[5;48H\u001b[30m3.1\u001b[6;44H\u001b(B\u001b[0m\u001b[34m9\u001b[10;34H\u001b[30m\u001b[46m8\u001b[10;45H0\u001b[H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.317850,
+      "\u001b[10d\u001b[30m\u001b[46m    1 root       0   0     0     0\u001b[42G?\u001b[10;63H(launchd)\r\u001b[11d\u001b[39;49m\u001b(B\u001b[m92240 steven   \u001b[11;63H\u001b[36m `- \u001b[39m\u001b(B\u001b[m/System/Library/PrivateFrameworks/KerberosHe\u001b[12;1H88169\u001b[12;63H\u001b[36m `- \u001b[39m\u001b(B\u001b[m(AppleCameraAssis)\r\u001b[13d74355 steven   \u001b[13;63H\u001b[36m `- \u001b[39m\u001b(B\u001b[m/usr/libexec/rtcreportingd\r\u001b[14d73239\u001b[14;63H\u001b[36m `- \u001b[39m\u001b(B\u001b[m(installd)\r\u001b[15d73128 steven   \u001b[15;63H\u001b[36m `- \u001b[39m\u001b(B\u001b[m/System/Library/PrivateFrameworks/GeoService\u001b[16;1H14069 steven   \u001b[16;63H\u001b[36m `- \u001b[39m\u001b(B\u001b[m/System/Library/Frameworks/CoreServices.fram\u001b[17;1H14063 steven   \u001b[17;63H\u001b[36m `- \u001b[39m\u001b(B\u001b[m/System/Library/Frameworks/CoreServices.fram\u001b[18;1H14062 steven   \u001b[18;63H\u001b[36m `- \u001b[39m\u001b(B\u001b[m/System/Library/Frameworks/CoreServices.fram\u001b[19;1H14049 steven   \u001b[19;63H\u001b[36m `- \u001b[39m\u001b(B\u001b[m/System/Library/Frameworks/CoreServices.fram\u001b[20;1H14048 steven   \u001b[20;63H\u001b[36m `- \u001b[39m\u001b(B\u001b[m/System/Library/Frameworks/CoreServices.fram\u001b[21;1H14047 steven     0   0 \u001b[21;63H\u001b[36m `- \u001b[39m\u001b(B\u001b[m/System/Library/Frameworks/CoreServices.fr"
+    ],
+    [
+      0.000093,
+      "am\u001b[22;1H14045 steven   \u001b[22;63H\u001b[36m `- \u001b[39m\u001b(B\u001b[m/System/Library/Frameworks/CoreServices.fram\u001b[23;1H14041 steven   \u001b[23;63H\u001b[36m `- \u001b[39m\u001b(B\u001b[m/System/Library/PrivateFrameworks/AOSKit.fra\u001b[24;1H14037 steven   \u001b[24;63H\u001b[36m `- \u001b[39m\u001b(B\u001b[m/System/Library/Image Capture/Devices/PTPCam\u001b[1;1H"
+    ],
+    [
+      1.586844,
+      "\u001b[2;11H\u001b[32m|||\u001b[31m||||\u001b[2;47H\u001b(B\u001b[0;1m\u001b[30m21.6\u001b[3;8H\u001b(B\u001b[0m\u001b[32m|\u001b[31m|\u001b[3;48H\u001b(B\u001b[0;1m\u001b[30m4\u001b[4;12H\u001b(B\u001b[0m\u001b[32m||\u001b[31m||||\u001b[4;47H\u001b(B\u001b[0;1m\u001b[30m21.6\u001b[4;82H\u001b[36m8\u001b[5;8H\u001b(B\u001b[0m\u001b[32m|\u001b[31m|\u001b[5;48H\u001b(B\u001b[0;1m\u001b[30m5.3\u001b[6;43H\u001b(B\u001b[0m\u001b[34m47\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.733943,
+      "\u001b[3;74H\u001b(B\u001b[0;1m\u001b[30m58 \u001b[39m\u001b(B\u001b[m1.63 \u001b(B\u001b[0;1m1.66\u001b[4;82H\u001b[36m9\r\u001b[10d\u001b[39m\u001b(B\u001b[m    1 \u001b(B\u001b[0;1m\u001b[30mroot     \u001b[39m\u001b(B\u001b[m  0   0     0     0     0 ?  0.0  0.0  0:00.00 (launchd)\u001b[K\r\u001b[18d\u001b[30m\u001b[46m14062 steven     0   0     0     0     0 ?  0.0  0.0  0:00.00  `- /System/Library/Frameworks/CoreServices.fram\u001b[1;1H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.958621,
+      "\u001b[4;81H\u001b(B\u001b[0;1m\u001b[36m40\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.708274,
+      "\u001b[18d14062 steven     0   0     0     0     0 ?  0.0  0.0  0:00.00 \u001b[36m `- \u001b[39m\u001b(B\u001b[m/System/Library/Frameworks/CoreServices.fram\u001b[19;1H\u001b[30m\u001b[46m14049 steven     0   0     0     0     0 ?  0.0  0.0  0:00.00  `- /System/Library/Frameworks/CoreServices.fram\u001b[1;1H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.499993,
+      "\u001b[4;82H\u001b(B\u001b[0;1m\u001b[36m1\r\u001b[19d\u001b[39m\u001b(B\u001b[m14049 steven     0   0     0     0     0 ?  0.0  0.0  0:00.00 \u001b[36m `- \u001b[39m\u001b(B\u001b[m/System/Library/Frameworks/CoreServices.fram\u001b[20;1H\u001b[30m\u001b[46m14048 steven     0   0     0     0     0 ?  0.0  0.0  0:00.00  `- /System/Library/Frameworks/CoreServices.fram\u001b[1;1H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.084474,
+      "\u001b[20d14048 steven     0   0     0     0     0 ?  0.0  0.0  0:00.00 \u001b[36m `- \u001b[39m\u001b(B\u001b[m/System/Library/Frameworks/CoreServices.fram\u001b[21;1H\u001b[30m\u001b[46m14047 steven     0   0     0     0     0 ?  0.0  0.0  0:00.00  `- /System/Library/Frameworks/CoreServices.fram\u001b[1;1H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.084345,
+      "\u001b[21d14047 steven     0   0     0     0     0 ?  0.0  0.0  0:00.00 \u001b[36m `- \u001b[39m\u001b(B\u001b[m/System/Library/Frameworks/CoreServices.fram\u001b[22;1H\u001b[30m\u001b[46m14045 steven     0   0     0     0     0 ?  0.0  0.0  0:00.00  `- /System/Library/Frameworks/CoreServices.fram\u001b[1;1H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.084428,
+      "\u001b[22d14045 steven     0   0     0     0     0 ?  0.0  0.0  0:00.00 \u001b[36m `- \u001b[39m\u001b(B\u001b[m/System/Library/Frameworks/CoreServices.fram\u001b[23;1H\u001b[30m\u001b[46m14041 steven     0   0     0     0     0 ?  0.0  0.0  0:00.00  `- /System/Library/PrivateFrameworks/AOSKit.fra\u001b[1;1H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.084624,
+      "\u001b[23d14041 steven     0   0     0     0     0 ?  0.0  0.0  0:00.00 \u001b[36m `- \u001b[39m\u001b(B\u001b[m/System/Library/PrivateFrameworks/AOSKit.fra\u001b[24;1H\u001b[30m\u001b[46m14037 steven     0   0     0     0     0 ?  0.0  0.0  0:00.00  `- /System/Library/Image Capture/Devices/PTPCam\u001b[1;1H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.084169,
+      "\u001b[10;24r\u001b[24;1H\n\u001b[1;25r\u001b[23;1H14037 steven     0   0     0     0     0 ?  0.0  0.0  0:00.00 \u001b[36m `- \u001b[39m\u001b(B\u001b[m/System/Library/Image Capture/Devices/PTPCam\u001b[24;1H\u001b[30m\u001b[46m14035 steven     0   0     0     0     0 ?  0.0  0.0  0:00.00  `- /System/Library/Image Capture/Devices/PTPCam\u001b[1;1H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.112798,
+      "\u001b[10;24r\u001b[24;1H\n\u001b[1;25r\u001b[23;1H14035 steven     0   0     0     0     0 ?  0.0  0.0  0:00.00 \u001b[36m `- \u001b[39m\u001b(B\u001b[m/System/Library/Image Capture/Devices/PTPCam\u001b[24;1H\u001b[30m\u001b[46m13955 root       0   0     0     0     0 ?  0.0  0.0  0:00.00  `- (nehelper)\u001b[K\u001b[H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.056397,
+      "\u001b[10;24r\u001b[24;1H\n\u001b[1;25r\u001b[23;1H13955 \u001b(B\u001b[0;1m\u001b[30mroot     \u001b[39m\u001b(B\u001b[m  0   0     0     0     0 ?  0.0  0.0  0:00.00 \u001b[36m `- \u001b[39m\u001b(B\u001b[m(nehelper)\u001b[K\r\u001b[24d\u001b[30m\u001b[46m13954 root       0   0     0     0     0 ?  0.0  0.0  0:00.00  `- (nesessionmanager)\u001b[K\u001b[H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.084304,
+      "\u001b[10;24r\u001b[24;1H\n\u001b[1;25r\u001b[23;1H13954 \u001b(B\u001b[0;1m\u001b[30mroot     \u001b[39m\u001b(B\u001b[m  0   0     0     0     0 ?  0.0  0.0  0:00.00 \u001b[36m `- \u001b[39m\u001b(B\u001b[m(nesessionmanager)\u001b[K\r\u001b[24d\u001b[30m\u001b[46m13956 steven     0   0     0     0     0 ?  0.0  0.0  0:00.00  |   `- (pppd)\u001b[K\u001b[H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.084517,
+      "\u001b[10;24r\u001b[24;1H\n\u001b[1;25r\u001b[23;1H13956 steven     0   0     0     0     0 ?  0.0  0.0  0:00.00 \u001b[36m |   `- \u001b[39m\u001b(B\u001b[m(pppd)\u001b[K\r\u001b[24d\u001b[30m\u001b[46m13930 _spotlig   0   0     0     0     0 ?  0.0  0.0  0:00.00  `- (mdworker)\u001b[K\u001b[H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.085112,
+      "\u001b[10;24r\u001b[24;1H\n\u001b[1;25r\u001b[4;82H\u001b(B\u001b[0;1m\u001b[36m2\r\u001b[23d\u001b[39m\u001b(B\u001b[m13930 \u001b(B\u001b[0;1m\u001b[30m_spotlig \u001b[39m\u001b(B\u001b[m  0   0     0     0     0 ?  0.0  0.0  0:00.00 \u001b[36m `- \u001b[39m\u001b(B\u001b[m(mdworker)\u001b[K\r\u001b[24d\u001b[30m\u001b[46m13920 root       0   0     0     0     0 ?  0.0  0.0  0:00.00  `- (ocspd)\u001b[K\u001b[H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.086175,
+      "\u001b[10;24r\u001b[24;1H\n\u001b[1;25r\u001b[23;1H13920 \u001b(B\u001b[0;1m\u001b[30mroot     \u001b[39m\u001b(B\u001b[m  0   0     0     0     0 ?  0.0  0.0  0:00.00 \u001b[36m `- \u001b[39m\u001b(B\u001b[m(ocspd)\u001b[K\r\u001b[24d\u001b[30m\u001b[46m13918 _netbios   0  20     0     0     0 ?  0.0  0.0  0:00.00  `- (netbiosd)\u001b[K\u001b[H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.081416,
+      "\u001b[10;24r\u001b[24;1H\n\u001b[1;25r\u001b[23;1H13918 \u001b(B\u001b[0;1m\u001b[30m_netbios \u001b[39m\u001b(B\u001b[m  0 \u001b[31m 20 \u001b[39m\u001b(B\u001b[m    0     0     0 ?  0.0  0.0  0:00.00 \u001b[36m `- \u001b[39m\u001b(B\u001b[m(netbiosd)\u001b[K\r\u001b[24d\u001b[30m\u001b[46m13883 steven     0   0     0     0     0 ?  0.0  0.0  0:00.00  `- /System/Library/Frameworks/CoreServices.fram\u001b[1;1H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.083831,
+      "\u001b[10;24r\u001b[24;1H\n\u001b[1;25r\u001b[23;1H13883 steven     0   0     0     0     0 ?  0.0  0.0  0:00.00 \u001b[36m `- \u001b[39m\u001b(B\u001b[m/System/Library/Frameworks/CoreServices.fram\u001b[24;1H\u001b[30m\u001b[46m13882 steven     0   0     0     0     0 ?  0.0  0.0  0:00.00  `- /usr/libexec/SafariNotificationAgent\u001b[K\u001b[H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.084215,
+      "\u001b[10;24r\u001b[24;1H\n\u001b[1;25r\u001b[23;1H13882 steven     0   0     0     0     0 ?  0.0  0.0  0:00.00 \u001b[36m `- \u001b[39m\u001b(B\u001b[m/usr/libexec/SafariNotificationAgent\u001b[K\r\u001b[24d\u001b[30m\u001b[46m13879 steven     0   0     0     0     0 ?  0.0  0.0  0:00.00  `- /System/Library/StagedFrameworks/Safari/WebK\u001b[1;1H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.086148,
+      "\u001b[10;24r\u001b[24;1H\n\u001b[1;25r\u001b[23;1H13879 steven     0   0     0     0     0 ?  0.0  0.0  0:00.00 \u001b[36m `- \u001b[39m\u001b(B\u001b[m/System/Library/StagedFrameworks/Safari/WebK\u001b[24;1H\u001b[30m\u001b[46m13878 steven     0   0     0     0     0 ?  0.0  0.0  0:00.00  `- /System/Library/StagedFrameworks/Safari/WebK\u001b[1;1H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.081494,
+      "\u001b[10;24r\u001b[24;1H\n\u001b[1;25r\u001b[23;1H13878 steven     0   0     0     0     0 ?  0.0  0.0  0:00.00 \u001b[36m `- \u001b[39m\u001b(B\u001b[m/System/Library/StagedFrameworks/Safari/WebK\u001b[24;1H\u001b[30m\u001b[46m13876 steven     0   0     0     0     0 ?  0.0  0.0  0:00.00  `- /Applications/Safari.app/Contents/MacOS/Safa\u001b[1;1H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.083683,
+      "\u001b[10;24r\u001b[24;1H\n\u001b[1;25r\u001b[23;1H13876 steven     0   0     0     0     0 ?  0.0  0.0  0:00.00 \u001b[36m `- \u001b[39m\u001b(B\u001b[m/Applications/Safari.app/Contents/MacOS/Safa\u001b[24;1H\u001b[30m\u001b[46m13870 steven     0   0     0     0     0 ?  0.0  0.0  0:00.00  `- /System/Library/PrivateFrameworks/Notes.fram\u001b[1;1H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.084081,
+      "\u001b[10;24r\u001b[24;1H\n\u001b[1;25r\u001b[23;1H13870 steven     0   0     0     0     0 ?  0.0  0.0  0:00.00 \u001b[36m `- \u001b[39m\u001b(B\u001b[m/System/Library/PrivateFrameworks/Notes.fram\u001b[24;1H\u001b[30m\u001b[46m13866 steven     0   0     0     0     0 ?  0.0  0.0  0:00.00  `- /Applications/Notes.app/Contents/MacOS/Notes\u001b[1;1H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.083975,
+      "\u001b[10;24r\u001b[24;1H\n\u001b[1;25r\u001b[23;1H13866 steven     0   0     0     0     0 ?  0.0  0.0  0:00.00 \u001b[36m `- \u001b[39m\u001b(B\u001b[m/Applications/Notes.app/Contents/MacOS/Notes\u001b[24;1H\u001b[30m\u001b[46m13831 steven     0   0     0     0     0 ?  0.0  0.0  0:00.00  `- /Applications/Thunderbird.app/Contents/MacOS\u001b[1;1H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.083425,
+      "\u001b[10;24r\u001b[24;1H\n\u001b[1;25r\u001b[23;1H13831 steven     0   0     0     0     0 ?  0.0  0.0  0:00.00 \u001b[36m `- \u001b[39m\u001b(B\u001b[m/Applications/Thunderbird.app/Contents/MacOS\u001b[24;1H\u001b[30m\u001b[46m13761 steven     0   0     0     0     0 ?  0.0  0.0  0:00.00  `- /System/Library/Frameworks/CoreServices.fram\u001b[1;1H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.083476,
+      "\u001b[10;24r\u001b[24;1H\n\u001b[1;25r\u001b[23;1H13761 steven     0   0     0     0     0 ?  0.0  0.0  0:00.00 \u001b[36m `- \u001b[39m\u001b(B\u001b[m/System/Library/Frameworks/CoreServices.fram\u001b[24;1H\u001b[30m\u001b[46m13459 steven     0   0     0     0     0 ?  0.0  0.0  0:00.00  `- /System/Library/PrivateFrameworks/CloudServi\u001b[1;1H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.084464,
+      "\u001b[10;24r\u001b[24;1H\n\u001b[1;25r\u001b[4;82H\u001b(B\u001b[0;1m\u001b[36m3\r\u001b[23d\u001b[39m\u001b(B\u001b[m13459 steven     0   0     0     0     0 ?  0.0  0.0  0:00.00 \u001b[36m `- \u001b[39m\u001b(B\u001b[m/System/Library/PrivateFrameworks/CloudServi\u001b[24;1H\u001b[30m\u001b[46m13438 steven     0   0     0     0     0 ?  0.0  0.0  0:00.00  `- /System/Library/PrivateFrameworks/CloudServi\u001b[1;1H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.084318,
+      "\u001b[10;24r\u001b[24;1H\n\u001b[1;25r\u001b[23;1H13438 steven     0   0     0     0     0 ?  0.0  0.0  0:00.00 \u001b[36m `- \u001b[39m\u001b(B\u001b[m/System/Library/PrivateFrameworks/CloudServi\u001b[24;1H\u001b[30m\u001b[46m13436 steven     0   0     0     0     0 ?  0.0  0.0  0:00.00  `- /System/Library/PrivateFrameworks/CloudServi\u001b[1;1H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.084485,
+      "\u001b[10;24r\u001b[24;1H\n\u001b[1;25r\u001b[23;1H13436 steven     0   0     0     0     0 ?  0.0  0.0  0:00.00 \u001b[36m `- \u001b[39m\u001b(B\u001b[m/System/Library/PrivateFrameworks/CloudServi\u001b[24;1H\u001b[30m\u001b[46m13381 steven     0   0     0     0     0 ?  0.0  0.0  0:00.00  `- /System/Library/PrivateFrameworks/ToneLibrar\u001b[1;1H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.083537,
+      "\u001b[10;24r\u001b[24;1H\n\u001b[1;25r\u001b[23;1H13381 steven     0   0     0     0     0 ?  0.0  0.0  0:00.00 \u001b[36m `- \u001b[39m\u001b(B\u001b[m/System/Library/PrivateFrameworks/ToneLibrar\u001b[24;1H\u001b[30m\u001b[46m13377 root       0   0     0     0     0 ?  0.0  0.0  0:00.00  `- (com.apple.cmio.r)\u001b[K\u001b[H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.084494,
+      "\u001b[10;24r\u001b[24;1H\n\u001b[1;25r\u001b[23;1H13377 \u001b(B\u001b[0;1m\u001b[30mroot     \u001b[39m\u001b(B\u001b[m  0   0     0     0     0 ?  0.0  0.0  0:00.00 \u001b[36m `- \u001b[39m\u001b(B\u001b[m(com.apple.cmio.r)\u001b[K\r\u001b[24d\u001b[30m\u001b[46m13295 steven     0   0     0     0     0 ?  0.0  0.0  0:00.00  `- /System/Library/Frameworks/AudioToolbox.fram\u001b[1;1H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.083961,
+      "\u001b[10;24r\u001b[24;1H\n\u001b[1;25r\u001b[23;1H13295 steven     0   0     0     0     0 ?  0.0  0.0  0:00.00 \u001b[36m `- \u001b[39m\u001b(B\u001b[m/System/Library/Frameworks/AudioToolbox.fram\u001b[24;1H\u001b[30m\u001b[46m13244 steven     0   0     0     0     0 ?  0.0  0.0  0:00.00  `- /System/Library/PrivateFrameworks/Communicat\u001b[1;1H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.082971,
+      "\u001b[10;24r\u001b[24;1H\n\u001b[1;25r\u001b[3;74H\u001b(B\u001b[0;1m\u001b[30m45 \u001b[39m\u001b(B\u001b[m1.60 \u001b(B\u001b[0;1m1.65\r\u001b[23d\u001b(B\u001b[m13244 steven     0   0     0     0     0 ?  0.0  0.0  0:00.00 \u001b[36m `- \u001b[39m\u001b(B\u001b[m/System/Library/PrivateFrameworks/Communicat\u001b[24;1H\u001b[30m\u001b[46m13046 root       0   1     0     0     0 ?  0.0  0.0  0:00.00  `- (periodic-wrapper)\u001b[K\u001b[H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.151748,
+      "\u001b[23d\u001b[30m\u001b[46m13244 steven     0   0     0     0     0 ?  0.0  0.0  0:00.00  `- /System/Library/PrivateFrameworks/Communicat\u001b[24;1H\u001b[39;49m\u001b(B\u001b[m13046 \u001b(B\u001b[0;1m\u001b[30mroot     \u001b[39m\u001b(B\u001b[m  0 \u001b[31m  1 \u001b[39m\u001b(B\u001b[m    0     0     0 ?  0.0  0.0  0:00.00 \u001b[36m `- \u001b[39m\u001b(B\u001b[m(periodic-wrapper)\u001b[K\u001b[H"
+    ],
+    [
+      0.501687,
+      "\u001b[4;82H\u001b(B\u001b[0;1m\u001b[36m4\r\u001b[22d\u001b(B\u001b[0m\u001b[30m\u001b[46m13295 steven     0   0     0     0     0 ?  0.0  0.0  0:00.00  `- /System/Library/Frameworks/AudioToolbox.fram\u001b[23;1H\u001b[39;49m\u001b(B\u001b[m13244 steven     0   0     0     0     0 ?  0.0  0.0  0:00.00 \u001b[36m `- \u001b[39m\u001b(B\u001b[m/System/Library/PrivateFrameworks/Communicat\u001b[1;1H"
+    ],
+    [
+      0.084104,
+      "\u001b[21d\u001b[30m\u001b[46m13377 root       0   0     0     0     0 ?  0.0  0.0  0:00.00  `- (com.apple.cmio.r)\u001b[K\r\u001b[22d\u001b[39;49m\u001b(B\u001b[m13295 steven     0   0     0     0     0 ?  0.0  0.0  0:00.00 \u001b[36m `- \u001b[39m\u001b(B\u001b[m/System/Library/Frameworks/AudioToolbox.fram\u001b[1;1H"
+    ],
+    [
+      0.083689,
+      "\u001b[20d\u001b[30m\u001b[46m13381 steven     0   0     0     0     0 ?  0.0  0.0  0:00.00  `- /System/Library/PrivateFrameworks/ToneLibrar\u001b[21;1H\u001b[39;49m\u001b(B\u001b[m13377 \u001b(B\u001b[0;1m\u001b[30mroot     \u001b[39m\u001b(B\u001b[m  0   0     0     0     0 ?  0.0  0.0  0:00.00 \u001b[36m `- \u001b[39m\u001b(B\u001b[m(com.apple.cmio.r)\u001b[K\u001b[H"
+    ],
+    [
+      0.083446,
+      "\u001b[19d\u001b[30m\u001b[46m13436 steven     0   0     0     0     0 ?  0.0  0.0  0:00.00  `- /System/Library/PrivateFrameworks/CloudServi\u001b[20;1H\u001b[39;49m\u001b(B\u001b[m13381 steven     0   0     0     0     0 ?  0.0  0.0  0:00.00 \u001b[36m `- \u001b[39m\u001b(B\u001b[m/System/Library/PrivateFrameworks/ToneLibrar\u001b[1;1H"
+    ],
+    [
+      0.083326,
+      "\u001b[18d\u001b[30m\u001b[46m13438 steven     0   0     0     0     0 ?  0.0  0.0  0:00.00  `- /System/Library/PrivateFrameworks/CloudServi\u001b[19;1H\u001b[39;49m\u001b(B\u001b[m13436 steven     0   0     0     0     0 ?  0.0  0.0  0:00.00 \u001b[36m `- \u001b[39m\u001b(B\u001b[m/System/Library/PrivateFrameworks/CloudServi\u001b[1;1H"
+    ],
+    [
+      0.083857,
+      "\u001b[17d\u001b[30m\u001b[46m13459 steven     0   0     0     0     0 ?  0.0  0.0  0:00.00  `- /System/Library/PrivateFrameworks/CloudServi\u001b[18;1H\u001b[39;49m\u001b(B\u001b[m13438 steven     0   0     0     0     0 ?  0.0  0.0  0:00.00 \u001b[36m `- \u001b[39m\u001b(B\u001b[m/System/Library/PrivateFrameworks/CloudServi\u001b[1;1H"
+    ],
+    [
+      0.123717,
+      "\u001b[16d\u001b[30m\u001b[46m13761 steven     0   0     0     0     0 ?  0.0  0.0  0:00.00  `- /System/Library/Frameworks/CoreServices.fram\u001b[17;1H\u001b[39;49m\u001b(B\u001b[m13459 steven     0   0     0     0     0 ?  0.0  0.0  0:00.00 \u001b[36m `- \u001b[39m\u001b(B\u001b[m/System/Library/PrivateFrameworks/CloudServi\u001b[1;1H"
+    ],
+    [
+      0.051898,
+      "\u001b[15d\u001b[30m\u001b[46m13831 steven     0   0     0     0     0 ?  0.0  0.0  0:00.00  `- /Applications/Thunderbird.app/Contents/MacOS\u001b[16;1H\u001b[39;49m\u001b(B\u001b[m13761 steven     0   0     0     0     0 ?  0.0  0.0  0:00.00 \u001b[36m `- \u001b[39m\u001b(B\u001b[m/System/Library/Frameworks/CoreServices.fram\u001b[1;1H"
+    ],
+    [
+      0.078028,
+      "\u001b[14d\u001b[30m\u001b[46m13866 steven     0   0     0     0     0 ?  0.0  0.0  0:00.00  `- /Applications/Notes.app/Contents/MacOS/Notes\u001b[15;1H\u001b[39;49m\u001b(B\u001b[m13831 steven     0   0     0     0     0 ?  0.0  0.0  0:00.00 \u001b[36m `- \u001b[39m\u001b(B\u001b[m/Applications/Thunderbird.app/Contents/MacOS\u001b[1;1H"
+    ],
+    [
+      0.083357,
+      "\u001b[13d\u001b[30m\u001b[46m13870 steven     0   0     0     0     0 ?  0.0  0.0  0:00.00  `- /System/Library/PrivateFrameworks/Notes.fram\u001b[14;1H\u001b[39;49m\u001b(B\u001b[m13866 steven     0   0     0     0     0 ?  0.0  0.0  0:00.00 \u001b[36m `- \u001b[39m\u001b(B\u001b[m/Applications/Notes.app/Contents/MacOS/Notes\u001b[1;1H"
+    ],
+    [
+      0.084460,
+      "\u001b[4;82H\u001b(B\u001b[0;1m\u001b[36m5\r\u001b[12d\u001b(B\u001b[0m\u001b[30m\u001b[46m13876 steven     0   0     0     0     0 ?  0.0  0.0  0:00.00  `- /Applications/Safari.app/Contents/MacOS/Safa\u001b[13;1H\u001b[39;49m\u001b(B\u001b[m13870 steven     0   0     0     0     0 ?  0.0  0.0  0:00.00 \u001b[36m `- \u001b[39m\u001b(B\u001b[m/System/Library/PrivateFrameworks/Notes.fram\u001b[1;1H"
+    ],
+    [
+      0.093399,
+      "\u001b[11d\u001b[30m\u001b[46m13878 steven     0   0     0     0     0 ?  0.0  0.0  0:00.00  `- /System/Library/StagedFrameworks/Safari/WebK\u001b[12;1H\u001b[39;49m\u001b(B\u001b[m13876 steven     0   0     0     0     0 ?  0.0  0.0  0:00.00 \u001b[36m `- \u001b[39m\u001b(B\u001b[m/Applications/Safari.app/Contents/MacOS/Safa\u001b[1;1H"
+    ],
+    [
+      0.074855,
+      "\u001b[10d\u001b[30m\u001b[46m13879 steven     0   0     0     0     0 ?  0.0  0.0  0:00.00  `- /System/Library/StagedFrameworks/Safari/WebK\u001b[11;1H\u001b[39;49m\u001b(B\u001b[m13878 steven     0   0     0     0     0 ?  0.0  0.0  0:00.00 \u001b[36m `- \u001b[39m\u001b(B\u001b[m/System/Library/StagedFrameworks/Safari/WebK\u001b[1;1H"
+    ],
+    [
+      0.083841,
+      "\u001b[10;24r\u001b[10;1H\u001bM\u001b[1;25r\u001b[10;1H\u001b[30m\u001b[46m13882 steven     0   0     0     0     0 ?  0.0  0.0  0:00.00  `- /usr/libexec/SafariNotificationAgent\u001b[K\r\u001b[11d\u001b[39;49m\u001b(B\u001b[m13879 steven     0   0     0     0     0 ?  0.0  0.0  0:00.00 \u001b[36m `- \u001b[39m\u001b(B\u001b[m/System/Library/StagedFrameworks/Safari/WebK\u001b[1;1H"
+    ],
+    [
+      0.084432,
+      "\u001b[10;24r\u001b[10;1H\u001bM\u001b[1;25r\u001b[10;1H\u001b[30m\u001b[46m13883 steven     0   0     0     0     0 ?  0.0  0.0  0:00.00  `- /System/Library/Frameworks/CoreServices.fram\u001b[11;1H\u001b[39;49m\u001b(B\u001b[m13882 steven     0   0     0     0     0 ?  0.0  0.0  0:00.00 \u001b[36m `- \u001b[39m\u001b(B\u001b[m/usr/libexec/SafariNotificationAgent\u001b[K\u001b[H"
+    ],
+    [
+      0.083125,
+      "\u001b[10;24r\u001b[10;1H\u001bM\u001b[1;25r\u001b[10;1H\u001b[30m\u001b[46m13918 _netbios   0  20     0     0     0 ?  0.0  0.0  0:00.00  `- (netbiosd)\u001b[K\r\u001b[11d\u001b[39;49m\u001b(B\u001b[m13883 steven     0   0     0     0     0 ?  0.0  0.0  0:00.00 \u001b[36m `- \u001b[39m\u001b(B\u001b[m/System/Library/Frameworks/CoreServices.fram\u001b[1;1H"
+    ],
+    [
+      0.084848,
+      "\u001b[10;24r\u001b[10;1H\u001bM\u001b[1;25r\u001b[10;1H\u001b[30m\u001b[46m13920 root       0   0     0     0     0 ?  0.0  0.0  0:00.00  `- (ocspd)\u001b[K\r\u001b[11d\u001b[39;49m\u001b(B\u001b[m13918 \u001b(B\u001b[0;1m\u001b[30m_netbios \u001b[39m\u001b(B\u001b[m  0 \u001b[31m 20 \u001b[39m\u001b(B\u001b[m    0     0     0 ?  0.0  0.0  0:00.00 \u001b[36m `- \u001b[39m\u001b(B\u001b[m(netbiosd)\u001b[K\u001b[H"
+    ],
+    [
+      0.084347,
+      "\u001b[10;24r\u001b[10;1H\u001bM\u001b[1;25r\u001b[10;1H\u001b[30m\u001b[46m13930 _spotlig   0   0     0     0     0 ?  0.0  0.0  0:00.00  `- (mdworker)\u001b[K\r\u001b[11d\u001b[39;49m\u001b(B\u001b[m13920 \u001b(B\u001b[0;1m\u001b[30mroot     \u001b[39m\u001b(B\u001b[m  0   0     0     0     0 ?  0.0  0.0  0:00.00 \u001b[36m `- \u001b[39m\u001b(B\u001b[m(ocspd)\u001b[K\u001b[H"
+    ],
+    [
+      0.084313,
+      "\u001b[10;24r\u001b[10;1H\u001bM\u001b[1;25r\u001b[10;1H\u001b[30m\u001b[46m13956 steven     0   0     0     0     0 ?  0.0  0.0  0:00.00  |   `- (pppd)\u001b[K\r\u001b[11d\u001b[39;49m\u001b(B\u001b[m13930 \u001b(B\u001b[0;1m\u001b[30m_spotlig \u001b[39m\u001b(B\u001b[m  0   0     0     0     0 ?  0.0  0.0  0:00.00 \u001b[36m `- \u001b[39m\u001b(B\u001b[m(mdworker)\u001b[K\u001b[H"
+    ],
+    [
+      0.084302,
+      "\u001b[10;24r\u001b[10;1H\u001bM\u001b[1;25r\u001b[10;1H\u001b[30m\u001b[46m13954 root       0   0     0     0     0 ?  0.0  0.0  0:00.00  `- (nesessionmanager)\u001b[K\r\u001b[11d\u001b[39;49m\u001b(B\u001b[m13956 steven     0   0     0     0     0 ?  0.0  0.0  0:00.00 \u001b[36m |   `- \u001b[39m\u001b(B\u001b[m(pppd)\u001b[K\u001b[H"
+    ],
+    [
+      0.813565,
+      "\u001b[10;24r\u001b[10;1H\u001bM\u001b[1;25r\u001b[4;82H\u001b(B\u001b[0;1m\u001b[36m6\r\u001b[10d\u001b(B\u001b[0m\u001b[30m\u001b[46m13955 root       0   0     0     0     0 ?  0.0  0.0  0:00.00  `- (nehelper)\u001b[K\r\u001b[11d\u001b[39;49m\u001b(B\u001b[m13954 \u001b(B\u001b[0;1m\u001b[30mroot     \u001b[39m\u001b(B\u001b[m  0   0     0     0     0 ?  0.0  0.0  0:00.00 \u001b[36m `- \u001b[39m\u001b(B\u001b[m(nesessionmanager)\u001b[K\u001b[H"
+    ],
+    [
+      0.256079,
+      "\u001b[10;24r\u001b[10;1H\u001bM\u001b[1;25r\u001b[10;1H\u001b[30m\u001b[46m14035 steven     0   0     0     0     0 ?  0.0  0.0  0:00.00  `- /System/Library/Image Capture/Devices/PTPCam\u001b[11;1H\u001b[39;49m\u001b(B\u001b[m13955 \u001b(B\u001b[0;1m\u001b[30mroot     \u001b[39m\u001b(B\u001b[m  0   0     0     0     0 ?  0.0  0.0  0:00.00 \u001b[36m `- \u001b[39m\u001b(B\u001b[m(nehelper)\u001b[K\u001b[H"
+    ],
+    [
+      0.168032,
+      "\u001b[10;24r\u001b[10;1H\u001bM\u001b[1;25r\u001b[4;82H\u001b(B\u001b[0;1m\u001b[36m7\r\u001b[10d\u001b(B\u001b[0m\u001b[30m\u001b[46m14037 steven     0   0     0     0     0 ?  0.0  0.0  0:00.00  `- /System/Library/Image Capture/Devices/PTPCam\u001b[11;1H\u001b[39;49m\u001b(B\u001b[m14035 steven     0   0     0     0     0 ?  0.0  0.0  0:00.00 \u001b[36m `- \u001b[39m\u001b(B\u001b[m/System/Library/Image Capture/Devices/PTPCam\u001b[1;1H"
+    ],
+    [
+      0.193512,
+      "\u001b[10;24r\u001b[10;1H\u001bM\u001b[1;25r\u001b[10;1H\u001b[30m\u001b[46m14041 steven     0   0     0     0     0 ?  0.0  0.0  0:00.00  `- /System/Library/PrivateFrameworks/AOSKit.fra\u001b[11;1H\u001b[39;49m\u001b(B\u001b[m14037 steven     0   0     0     0     0 ?  0.0  0.0  0:00.00 \u001b[36m `- \u001b[39m\u001b(B\u001b[m/System/Library/Image Capture/Devices/PTPCam\u001b[1;1H"
+    ],
+    [
+      0.662229,
+      "\u001b[10d14041 steven     0   0     0     0     0 ?  0.0  0.0  0:00.00 \u001b[36m `- \u001b[39m\u001b(B\u001b[m/System/Library/PrivateFrameworks/AOSKit.fra\u001b[11;1H\u001b[30m\u001b[46m14037 steven     0   0     0     0     0 ?  0.0  0.0  0:00.00  `- /System/Library/Image Capture/Devices/PTPCam\u001b[1;1H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.500644,
+      "\u001b[4;82H\u001b(B\u001b[0;1m\u001b[36m8\r\u001b[11d\u001b[39m\u001b(B\u001b[m14037 steven     0   0     0     0     0 ?  0.0  0.0  0:00.00 \u001b[36m `- \u001b[39m\u001b(B\u001b[m/System/Library/Image Capture/Devices/PTPCam\u001b[12;1H\u001b[30m\u001b[46m14035 steven     0   0     0     0     0 ?  0.0  0.0  0:00.00  `- /System/Library/Image Capture/Devices/PTPCam\u001b[1;1H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.083368,
+      "\u001b[12d14035 steven     0   0     0     0     0 ?  0.0  0.0  0:00.00 \u001b[36m `- \u001b[39m\u001b(B\u001b[m/System/Library/Image Capture/Devices/PTPCam\u001b[13;1H\u001b[30m\u001b[46m13955 root       0   0     0     0     0 ?  0.0  0.0  0:00.00  `- (nehelper)\u001b[K\u001b[H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.083492,
+      "\u001b[13d13955 \u001b(B\u001b[0;1m\u001b[30mroot     \u001b[39m\u001b(B\u001b[m  0   0     0     0     0 ?  0.0  0.0  0:00.00 \u001b[36m `- \u001b[39m\u001b(B\u001b[m(nehelper)\u001b[K\r\u001b[14d\u001b[30m\u001b[46m13954 root       0   0     0     0     0 ?  0.0  0.0  0:00.00  `- (nesessionmanager)\u001b[K\u001b[H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.083442,
+      "\u001b[3;74H\u001b(B\u001b[0;1m\u001b[30m50 \u001b[39m\u001b(B\u001b[m1.61\r\u001b[14d13954 \u001b(B\u001b[0;1m\u001b[30mroot     \u001b[39m\u001b(B\u001b[m  0   0     0     0     0 ?  0.0  0.0  0:00.00 \u001b[36m `- \u001b[39m\u001b(B\u001b[m(nesessionmanager)\u001b[K\r\u001b[15d\u001b[30m\u001b[46m13956 steven     0   0     0     0     0 ?  0.0  0.0  0:00.00  |   `- (pppd)\u001b[K\u001b[H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.084446,
+      "\u001b[15d13956 steven     0   0     0     0     0 ?  0.0  0.0  0:00.00 \u001b[36m |   `- \u001b[39m\u001b(B\u001b[m(pppd)\u001b[K\r\u001b[16d\u001b[30m\u001b[46m13930 _spotlig   0   0     0     0     0 ?  0.0  0.0  0:00.00  `- (mdworker)\u001b[K\u001b[H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.083534,
+      "\u001b[16d13930 \u001b(B\u001b[0;1m\u001b[30m_spotlig \u001b[39m\u001b(B\u001b[m  0   0     0     0     0 ?  0.0  0.0  0:00.00 \u001b[36m `- \u001b[39m\u001b(B\u001b[m(mdworker)\u001b[K\r\u001b[17d\u001b[30m\u001b[46m13920 root       0   0     0     0     0 ?  0.0  0.0  0:00.00  `- (ocspd)\u001b[K\u001b[H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.084453,
+      "\u001b[17d13920 \u001b(B\u001b[0;1m\u001b[30mroot     \u001b[39m\u001b(B\u001b[m  0   0     0     0     0 ?  0.0  0.0  0:00.00 \u001b[36m `- \u001b[39m\u001b(B\u001b[m(ocspd)\u001b[K\r\u001b[18d\u001b[30m\u001b[46m13918 _netbios   0  20     0     0     0 ?  0.0  0.0  0:00.00  `- (netbiosd)\u001b[K\u001b[H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.084500,
+      "\u001b[4;82H\u001b(B\u001b[0;1m\u001b[36m9\r\u001b[18d\u001b[39m\u001b(B\u001b[m13918 \u001b(B\u001b[0;1m\u001b[30m_netbios \u001b[39m\u001b(B\u001b[m  0 \u001b[31m 20 \u001b[39m\u001b(B\u001b[m    0     0     0 ?  0.0  0.0  0:00.00 \u001b[36m `- \u001b[39m\u001b(B\u001b[m(netbiosd)\u001b[K\r\u001b[19d\u001b[30m\u001b[46m13883 steven     0   0     0     0     0 ?  0.0  0.0  0:00.00  `- /System/Library/Frameworks/CoreServices.fram\u001b[1;1H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.084531,
+      "\u001b[19d13883 steven     0   0     0     0     0 ?  0.0  0.0  0:00.00 \u001b[36m `- \u001b[39m\u001b(B\u001b[m/System/Library/Frameworks/CoreServices.fram\u001b[20;1H\u001b[30m\u001b[46m13882 steven     0   0     0     0     0 ?  0.0  0.0  0:00.00  `- /usr/libexec/SafariNotificationAgent\u001b[K\u001b[H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      1.593251,
+      "\u001b[2;11H\u001b[31m||||\u001b(B\u001b[0;1m\u001b[30m   \u001b[2;47H15.3\u001b[3;8H\u001b(B\u001b[0m\u001b[31m|\u001b(B\u001b[0;1m\u001b[30m \u001b[3;48H1.6\u001b[4;10H\u001b(B\u001b[0m\u001b[31m||\u001b(B\u001b[0;1m\u001b[30m      \u001b[4;47H10.2\u001b[4;81H\u001b[36m50\u001b[5;8H\u001b(B\u001b[0m\u001b[31m|\u001b(B\u001b[0;1m\u001b[30m \u001b[5;48H2\u001b[6;44H\u001b(B\u001b[0m\u001b[34m2\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.378334,
+      "\u001b[25d\u001b[J"
+    ],
+    [
+      0.000015,
+      "\u001b[?12l\u001b[?25h\u001b[?1000l\u001b[25;1H\u001b[?1049l\r\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.001731,
+      "\u001b]0;steven@Cerberus:/Users/steven\u0007"
+    ],
+    [
+      0.000197,
+      "\u001b[01;32msteven@Cerberus\u001b[01;34m ~ $\u001b[00m "
+    ],
+    [
+      2.390018,
+      "e"
+    ],
+    [
+      0.240918,
+      "x"
+    ],
+    [
+      0.215267,
+      "i"
+    ],
+    [
+      0.207782,
+      "t"
+    ],
+    [
+      0.760075,
+      "\r\n"
+    ],
+    [
+      0.000128,
+      "exit\r\n"
+    ]
+  ]
+}
