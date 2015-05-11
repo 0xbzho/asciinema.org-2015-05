@@ -1,0 +1,378 @@
+{
+  "version": 1,
+  "width": 193,
+  "height": 43,
+  "duration": 24.139965,
+  "command": "/usr/local/bin/bash",
+  "title": "Sublime Text Kit 3.0.0 Demonstration",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/usr/local/bin/bash"
+  },
+  "stdout": [
+    [
+      0.523162,
+      "\u001b[0;30m\u001b[48;5;255m 06:36 PM \u001b[0m\u001b[0;30m\u001b[48;5;7m bkuhlmann@vilya \u001b[0m\u001b[0;30m\u001b[48;5;6m OSS \u001b[0m\u001b[48;5;2m  \u001b[0m "
+    ],
+    [
+      1.764896,
+      "s"
+    ],
+    [
+      0.000020,
+      "t"
+    ],
+    [
+      0.000021,
+      "k"
+    ],
+    [
+      0.423756,
+      " "
+    ],
+    [
+      0.141930,
+      "-"
+    ],
+    [
+      0.155035,
+      "h"
+    ],
+    [
+      0.464477,
+      "\r\n"
+    ],
+    [
+      0.239732,
+      "\r\n"
+    ],
+    [
+      0.000129,
+      "Commands:\r\n"
+    ],
+    [
+      0.004662,
+      "  stk -c, [--configure]  # Configure Sublime Text with current settings.\r\n"
+    ],
+    [
+      0.000020,
+      "  stk -e, [--edit]       # Edit settings in default editor (assumes $EDITOR environment variable).\r\n"
+    ],
+    [
+      0.000063,
+      "  stk -h, [--help=HELP]  # Show this message or get help for a command.\r\n"
+    ],
+    [
+      0.000037,
+      "  stk -m, [--metadata]   # Manage project/workspace metadata."
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000032,
+      "  stk -s, [--session]    # Manage session metadata.\r\n"
+    ],
+    [
+      0.000023,
+      "  stk -v, [--version]    # Show version.\r\n"
+    ],
+    [
+      0.000025,
+      "\r\n"
+    ],
+    [
+      0.024599,
+      "\u001b[0;30m\u001b[48;5;255m 06:36 PM \u001b[0m\u001b[0;30m\u001b[48;5;7m bkuhlmann@vilya \u001b[0m\u001b[0;30m\u001b[48;5;6m OSS \u001b[0m\u001b[48;5;2m  \u001b[0m "
+    ],
+    [
+      1.217333,
+      "s"
+    ],
+    [
+      0.000012,
+      "t"
+    ],
+    [
+      0.000045,
+      "k"
+    ],
+    [
+      0.188918,
+      " "
+    ],
+    [
+      0.196149,
+      "-"
+    ],
+    [
+      0.115801,
+      "v"
+    ],
+    [
+      0.265069,
+      "\r\n"
+    ],
+    [
+      0.217485,
+      "Sublime Text Kit 3.0.0\r\n"
+    ],
+    [
+      0.022886,
+      "\u001b[0;30m\u001b[48;5;255m 06:36 PM \u001b[0m\u001b[0;30m\u001b[48;5;7m bkuhlmann@vilya \u001b[0m\u001b[0;30m\u001b[48;5;6m OSS \u001b[0m\u001b[48;5;2m  \u001b[0m "
+    ],
+    [
+      1.360605,
+      "s"
+    ],
+    [
+      0.000012,
+      "t"
+    ],
+    [
+      0.000036,
+      "k"
+    ],
+    [
+      0.204862,
+      " "
+    ],
+    [
+      0.321908,
+      "-"
+    ],
+    [
+      0.577571,
+      "e"
+    ],
+    [
+      0.451577,
+      "\r\n"
+    ],
+    [
+      0.440221,
+      "\u001b[0;30m\u001b[48;5;255m 06:36 PM \u001b[0m\u001b[0;30m\u001b[48;5;7m bkuhlmann@vilya \u001b[0m\u001b[0;30m\u001b[48;5;6m OSS \u001b[0m\u001b[48;5;2m  \u001b[0m "
+    ],
+    [
+      5.139873,
+      "c"
+    ],
+    [
+      0.000030,
+      "a"
+    ],
+    [
+      0.000026,
+      "t"
+    ],
+    [
+      0.000032,
+      " "
+    ],
+    [
+      0.000007,
+      "~"
+    ],
+    [
+      0.000018,
+      "/"
+    ],
+    [
+      0.000033,
+      "."
+    ],
+    [
+      0.000036,
+      "s"
+    ],
+    [
+      0.000030,
+      "u"
+    ],
+    [
+      0.000028,
+      "b"
+    ],
+    [
+      0.000039,
+      "l"
+    ],
+    [
+      0.000032,
+      "i"
+    ],
+    [
+      0.000039,
+      "m"
+    ],
+    [
+      0.000029,
+      "e"
+    ],
+    [
+      0.000030,
+      "/"
+    ],
+    [
+      0.000042,
+      "s"
+    ],
+    [
+      0.000042,
+      "e"
+    ],
+    [
+      0.000041,
+      "t"
+    ],
+    [
+      0.000042,
+      "t"
+    ],
+    [
+      0.000041,
+      "i"
+    ],
+    [
+      0.000047,
+      "n"
+    ],
+    [
+      0.000054,
+      "g"
+    ],
+    [
+      0.000021,
+      "s"
+    ],
+    [
+      0.000032,
+      "."
+    ],
+    [
+      0.000041,
+      "y"
+    ],
+    [
+      0.000040,
+      "m"
+    ],
+    [
+      0.000028,
+      "l"
+    ],
+    [
+      0.814775,
+      "\r\n"
+    ],
+    [
+      0.004076,
+      "---\r\n:project_roots:\r\n  - \"~/Dropbox/Development/OSS\"\r\n:metadata_dir: \"~/Dropbox/Cache/Sublime\"\r\n"
+    ],
+    [
+      0.020044,
+      "\u001b[0;30m\u001b[48;5;255m 06:36 PM \u001b[0m\u001b[0;30m\u001b[48;5;7m bkuhlmann@vilya \u001b[0m\u001b[0;30m\u001b[48;5;6m OSS \u001b[0m\u001b[48;5;2m  \u001b[0m "
+    ],
+    [
+      4.457575,
+      "s"
+    ],
+    [
+      0.000038,
+      "t"
+    ],
+    [
+      0.000031,
+      "k"
+    ],
+    [
+      0.516392,
+      " "
+    ],
+    [
+      0.147259,
+      "-"
+    ],
+    [
+      0.139722,
+      " "
+    ],
+    [
+      0.514366,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.138695,
+      "c"
+    ],
+    [
+      0.174868,
+      "\r\n"
+    ],
+    [
+      0.221839,
+      "\u001b[1m\u001b[37m        info\u001b[0m  Creating metadata...\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[1m\u001b[37m        info\u001b[0m  Metadata Path: /Users/bkuhlmann/Dropbox/Cache/Sublime\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[1m\u001b[37m        info\u001b[0m  Processing project root: /Users/bkuhlmann/Dropbox/Development/OSS...\r\n"
+    ],
+    [
+      0.207735,
+      "\u001b[1m\u001b[37m        info\u001b[0m  Metadata created.\r\n"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000032,
+      "\u001b[1m\u001b[37m        info\u001b[0m  Rebuilding session metadata...\r\n"
+    ],
+    [
+      0.000024,
+      "\u001b[1m\u001b[37m        info\u001b[0m  Metadata (project/workspace) Path: /Users/bkuhlmann/Dropbox/Cache/Sublime\r\n"
+    ],
+    [
+      0.000069,
+      "\u001b[1m\u001b[37m        info\u001b[0m  Session Path: /Users/bkuhlmann/Library/Application Support/Sublime Text 3/Local/Session.sublime_session\r\n"
+    ],
+    [
+      0.003006,
+      "\u001b[1m\u001b[37m        info\u001b[0m  Session metadata rebuilt.\r\n"
+    ],
+    [
+      0.051312,
+      "\u001b[0;30m\u001b[48;5;255m 06:36 PM \u001b[0m\u001b[0;30m\u001b[48;5;7m bkuhlmann@vilya \u001b[0m\u001b[0;30m\u001b[48;5;6m OSS \u001b[0m\u001b[48;5;2m  \u001b[0m "
+    ],
+    [
+      1.802812,
+      "e"
+    ],
+    [
+      0.167979,
+      "x"
+    ],
+    [
+      0.064736,
+      "i"
+    ],
+    [
+      0.124420,
+      "t"
+    ],
+    [
+      0.094202,
+      "\r\n"
+    ],
+    [
+      0.000220,
+      "exit\r\n"
+    ]
+  ]
+}
