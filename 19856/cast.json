@@ -1,0 +1,2406 @@
+{
+  "version": 1,
+  "width": 102,
+  "height": 51,
+  "duration": 69.478548,
+  "command": "/opt/boxen/homebrew/bin/fish",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/opt/boxen/homebrew/bin/fish"
+  },
+  "stdout": [
+    [
+      0.215649,
+      "\u001b]0;fish  /Users/Eps/Deskt"
+    ],
+    [
+      0.000008,
+      "op\u0007\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.002798,
+      "Welcome to fish, the friendly interactive shell\r\nType \u001b[32mhelp\u001b[30m\u001b(B\u001b[m for instructions on how to use fish\r\n"
+    ],
+    [
+      0.209597,
+      "\u001b]0;fish  /Users/Eps/Desktop"
+    ],
+    [
+      0.000007,
+      "\u0007\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000124,
+      "\u001b[38;5;245m⏎\u001b[0m                                                                                                     \r \r"
+    ],
+    [
+      0.000028,
+      "\u001b[32m~/Desktop/ \u001b[31m2.2.0 \u001b[33m! \u001b[38;5;214mno repo \u001b[32m\u003e \u001b[K"
+    ],
+    [
+      1.203918,
+      "#"
+    ],
+    [
+      0.000063,
+      "\u0008\u001b[31m#\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.215705,
+      "\u001b[31m \u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000057,
+      "\u0008 "
+    ],
+    [
+      0.239948,
+      "C"
+    ],
+    [
+      0.000084,
+      "\u0008\u001b[31mC\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.263820,
+      "\u001b[31mr\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.056022,
+      "\u001b[31me\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.048079,
+      "\u001b[31ma\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.183840,
+      "\u001b[31mt\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.376048,
+      "\u001b[31mi\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.048051,
+      "\u001b[31mn\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.111985,
+      "\u001b[31mg\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.111844,
+      "\u001b[31m \u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000064,
+      "\u0008 "
+    ],
+    [
+      0.120068,
+      "a"
+    ],
+    [
+      0.000057,
+      "\u0008\u001b[31ma\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.095917,
+      "\u001b[31m \u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000060,
+      "\u0008 "
+    ],
+    [
+      0.423946,
+      "n"
+    ],
+    [
+      0.000066,
+      "\u0008\u001b[31mn\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.191899,
+      "\u001b[31me\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.064173,
+      "\u001b[31mw\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.408208,
+      "\u001b[31m \u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000061,
+      "\u0008 "
+    ],
+    [
+      0.575443,
+      "R"
+    ],
+    [
+      0.000058,
+      "\u0008\u001b[31mR\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.151962,
+      "\u001b[31ma\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.072032,
+      "\u001b[31mi\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.040051,
+      "\u001b[31ml\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.112073,
+      "\u001b[31ms\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.111835,
+      "\u001b[31m \u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000085,
+      "\u0008 "
+    ],
+    [
+      0.120075,
+      "a"
+    ],
+    [
+      0.000073,
+      "\u0008\u001b[31ma\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.063903,
+      "\u001b[31mp\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.160026,
+      "\u001b[31mp\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.607827,
+      "\r\n\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000210,
+      "\u001b]0;fish  /Users/Eps/Desktop\u0007"
+    ],
+    [
+      0.000004,
+      "\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.200007,
+      "\u001b]0;fish  /Users/Eps/Desktop\u0007"
+    ],
+    [
+      0.000006,
+      "\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000126,
+      "\u001b[38;5;245m⏎\u001b[0m                                                                                                     \r \r"
+    ],
+    [
+      0.000068,
+      "\u001b[32m~/Desktop/ \u001b[31m2.2.0 \u001b[33m! \u001b[38;5;214mno repo \u001b[32m\u003e \u001b[K"
+    ],
+    [
+      1.391617,
+      "r"
+    ],
+    [
+      0.000319,
+      "a\u001b[38;5;240mils new example_app\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000157,
+      "\u0008\u001b[31m\u001b[1mr\u001b(B\u001b[ma\u001b[38;5;240mils new example_app\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.047578,
+      "\u001b[31m\u001b[1ma\u001b(B\u001b[mi\u001b[38;5;240mls new example_app\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.093171,
+      "\u001b[31m\u001b[1mi\u001b(B\u001b[ml\u001b[38;5;240ms new example_app\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.058712,
+      "\u001b[31m\u001b[1ml\u001b(B\u001b[ms\u001b[38;5;240m new example_app\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.072114,
+      "\u001b[31m\u001b[1ms\u001b(B\u001b[m \u001b[38;5;240mnew example_app\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000297,
+      "\u0008\u0008\u0008\u0008\u0008\u001b[38;5;26mrails\u001b[30m\u001b(B\u001b[m \u001b[38;5;240mnew example_app\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.207623,
+      "\u001b[38;5;26m \u001b[30m\u001b(B\u001b[mn\u001b[38;5;240mew example_app\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000182,
+      "\u0008 n\u001b[38;5;240mew example_app\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.383812,
+      "\u001b[Ce\u001b[38;5;240mw example_app\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000223,
+      "\u0008\u001b[38;5;39m\u001b[4mn\u001b[30m\u001b(B\u001b[me\u001b[38;5;240mw example_app\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.095784,
+      "\u001b[38;5;39m\u001b[4me\u001b[30m\u001b(B\u001b[mw\u001b[38;5;240m example_app\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000252,
+      "\u0008\u0008\u001b[38;5;39mne\u001b[30m\u001b(B\u001b[mw\u001b[38;5;240m example_app\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.047575,
+      "\u001b[38;5;39mw\u001b[30m\u001b(B\u001b[m \u001b[38;5;240mexample_app\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.152324,
+      "\u001b[38;5;39m \u001b[30m\u001b(B\u001b[me\u001b[38;5;240mxample_app\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000198,
+      "\u0008 e\u001b[38;5;240mxample_app\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.359623,
+      "\u001b[Cx\u001b[38;5;240mample_app\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000214,
+      "\u0008\u001b[38;5;39me\u001b[30m\u001b(B\u001b[mx\u001b[38;5;240mample_app\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.055858,
+      "\u001b[38;5;39mx\u001b[30m\u001b(B\u001b[ma\u001b[38;5;240mmple_app\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.223965,
+      "\u001b[38;5;39ma\u001b[30m\u001b(B\u001b[mm\u001b[38;5;240mple_app\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.095875,
+      "\u001b[38;5;39mm\u001b[30m\u001b(B\u001b[mp\u001b[38;5;240mle_app\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.168028,
+      "\u001b[38;5;39mp\u001b[30m\u001b(B\u001b[ml\u001b[38;5;240me_app\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.055945,
+      "\u001b[38;5;39ml\u001b[30m\u001b(B\u001b[me\u001b[38;5;240m_app\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.135960,
+      "\u001b[38;5;39me\u001b[30m\u001b(B\u001b[m_\u001b[38;5;240mapp\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.208022,
+      "\u001b[38;5;39m_\u001b[30m\u001b(B\u001b[ma\u001b[38;5;240mpp\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.143885,
+      "\u001b[38;5;39ma\u001b[30m\u001b(B\u001b[mp\u001b[38;5;240mp\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.168134,
+      "\u001b[38;5;39ml\u001b[30m\u001b(B\u001b[m\u001b[K"
+    ],
+    [
+      0.043857,
+      "\u001b[38;5;39mo\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.588005,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.183983,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.200127,
+      "\u001b[38;5;39mp\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000183,
+      "p\u0008"
+    ],
+    [
+      0.159811,
+      "\u001b[38;5;39mp\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.615815,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000225,
+      "\u001b]0;rails  /Users/Eps/Deskt"
+    ],
+    [
+      0.000004,
+      "op\u0007\u001b[30m\u001b"
+    ],
+    [
+      0.000002,
+      "(B\u001b["
+    ],
+    [
+      0.000002,
+      "m"
+    ],
+    [
+      1.046091,
+      "\u001b[1m\u001b[32m      create\u001b[0m  \r\n"
+    ],
+    [
+      0.000401,
+      "\u001b[1m\u001b[32m      create\u001b[0m  README.rdoc\r\n"
+    ],
+    [
+      0.000330,
+      "\u001b[1m\u001b[32m      create\u001b[0m  Rakefile\r\n"
+    ],
+    [
+      0.000459,
+      "\u001b[1m\u001b[32m      create\u001b[0m  config.ru\r\n"
+    ],
+    [
+      0.000313,
+      "\u001b[1m\u001b[32m      create\u001b[0m  .gitignore\r\n"
+    ],
+    [
+      0.000463,
+      "\u001b[1m\u001b[32m      create\u001b[0m  Gemfile\r\n"
+    ],
+    [
+      0.001093,
+      "\u001b[1m\u001b[32m      create\u001b[0m  app\r\n"
+    ],
+    [
+      0.000474,
+      "\u001b[1m\u001b[32m      create\u001b[0m  app/assets/javascripts/application.js\r\n"
+    ],
+    [
+      0.000640,
+      "\u001b[1m\u001b[32m      create\u001b[0m  app/assets/stylesheets/application.css\r\n"
+    ],
+    [
+      0.000340,
+      "\u001b[1m\u001b[32m      create\u001b[0m  app/controllers/application_controller.rb\r\n"
+    ],
+    [
+      0.000381,
+      "\u001b[1m\u001b[32m      create\u001b[0m  app/helpers/application_helper.rb\r\n"
+    ],
+    [
+      0.000316,
+      "\u001b[1m\u001b[32m      create\u001b[0m  app/views/layouts/application.html.erb\r\n"
+    ],
+    [
+      0.000800,
+      "\u001b[1m\u001b[32m      create\u001b[0m  app/assets/images/.keep\r\n"
+    ],
+    [
+      0.000134,
+      "\u001b[1m\u001b[32m      create\u001b[0m  app/mailers/.keep\r\n"
+    ],
+    [
+      0.000097,
+      "\u001b[1m\u001b[32m      create\u001b[0m  app/models/.keep\r\n"
+    ],
+    [
+      0.000179,
+      "\u001b[1m\u001b[32m      create\u001b[0m  app/controllers/concerns/.keep\r\n"
+    ],
+    [
+      0.000114,
+      "\u001b[1m\u001b[32m      create\u001b[0m  app/models/concerns/.keep\r\n"
+    ],
+    [
+      0.000380,
+      "\u001b[1m\u001b[32m      create\u001b[0m  bin\r\n"
+    ],
+    [
+      0.000322,
+      "\u001b[1m\u001b[32m      create\u001b[0m  bin/bundle\r\n"
+    ],
+    [
+      0.000437,
+      "\u001b[1m\u001b[32m      create\u001b[0m  bin/rails\r\n"
+    ],
+    [
+      0.000281,
+      "\u001b[1m\u001b[32m      create\u001b[0m  bin/rake\r\n"
+    ],
+    [
+      0.000259,
+      "\u001b[1m\u001b[32m      create\u001b[0m  bin/setup\r\n"
+    ],
+    [
+      0.000678,
+      "\u001b[1m\u001b[32m      create\u001b[0m  config\r\n"
+    ],
+    [
+      0.000194,
+      "\u001b[1m\u001b[32m      create\u001b[0m  config/routes.rb\r\n"
+    ],
+    [
+      0.000500,
+      "\u001b[1m\u001b[32m      create\u001b[0m  config/application.rb\r\n"
+    ],
+    [
+      0.000642,
+      "\u001b[1m\u001b[32m      create\u001b[0m  config/environment.rb\r\n"
+    ],
+    [
+      0.000332,
+      "\u001b[1m\u001b[32m      create\u001b[0m  config/secrets.yml\r\n"
+    ],
+    [
+      0.000558,
+      "\u001b[1m\u001b[32m      create\u001b[0m  config/environments\r\n"
+    ],
+    [
+      0.000312,
+      "\u001b[1m\u001b[32m      create\u001b[0m  config/environments/development.rb\r\n"
+    ],
+    [
+      0.000594,
+      "\u001b[1m\u001b[32m      create\u001b[0m  config/environments/production.rb\r\n"
+    ],
+    [
+      0.000740,
+      "\u001b[1m\u001b[32m      create\u001b[0m  config/environments/test.rb\r\n"
+    ],
+    [
+      0.000576,
+      "\u001b[1m\u001b[32m      create\u001b[0m  config/initializers\r\n"
+    ],
+    [
+      0.000385,
+      "\u001b[1m\u001b[32m      create\u001b[0m  config/initializers/assets.rb\r\n"
+    ],
+    [
+      0.000386,
+      "\u001b[1m\u001b[32m      create\u001b[0m  config/initializers/backtrace_silencers.rb\r\n"
+    ],
+    [
+      0.000229,
+      "\u001b[1m\u001b[32m      create\u001b[0m  config/initializers/cookies_serializer.rb\r\n"
+    ],
+    [
+      0.000276,
+      "\u001b[1m\u001b[32m      create\u001b[0m  config/initializers/filter_parameter_logging.rb\r\n"
+    ],
+    [
+      0.028762,
+      "\u001b[1m\u001b[32m      create\u001b[0m  config/initializers/inflections.rb\r\n"
+    ],
+    [
+      0.000295,
+      "\u001b[1m\u001b[32m      create\u001b[0m  config/initializers/mime_types.rb\r\n"
+    ],
+    [
+      0.000303,
+      "\u001b[1m\u001b[32m      create\u001b[0m  config/initializers/session_store.rb\r\n"
+    ],
+    [
+      0.000451,
+      "\u001b[1m\u001b[32m      create\u001b[0m  config/initializers/wrap_parameters.rb\r\n"
+    ],
+    [
+      0.000465,
+      "\u001b[1m\u001b[32m      create\u001b[0m  config/locales\r\n"
+    ],
+    [
+      0.000352,
+      "\u001b[1m\u001b[32m      create\u001b[0m  config/locales/en.yml\r\n"
+    ],
+    [
+      0.000515,
+      "\u001b[1m\u001b[32m      create\u001b[0m  config/boot.rb\r\n"
+    ],
+    [
+      0.000613,
+      "\u001b[1m\u001b[32m      create\u001b[0m  config/database.yml\r\n"
+    ],
+    [
+      0.000641,
+      "\u001b[1m\u001b[32m      create\u001b[0m  db\r\n"
+    ],
+    [
+      0.000361,
+      "\u001b[1m\u001b[32m      create\u001b[0m  db/seeds.rb\r\n"
+    ],
+    [
+      0.000550,
+      "\u001b[1m\u001b[32m      create\u001b[0m  lib\r\n"
+    ],
+    [
+      0.000185,
+      "\u001b[1m\u001b[32m      create\u001b[0m  lib/tasks\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[1m\u001b[32m      create\u001b[0m  lib/tasks/.keep\r\n"
+    ],
+    [
+      0.000134,
+      "\u001b[1m\u001b[32m      create\u001b[0m  lib/assets\r\n"
+    ],
+    [
+      0.000063,
+      "\u001b[1m\u001b[32m      create\u001b[0m  lib/assets/.keep\r\n"
+    ],
+    [
+      0.000337,
+      "\u001b[1m\u001b[32m      create\u001b[0m  log\r\n"
+    ],
+    [
+      0.000055,
+      "\u001b[1m\u001b[32m      create\u001b[0m  log/.keep\r\n"
+    ],
+    [
+      0.000390,
+      "\u001b[1m\u001b[32m      create\u001b[0m  public\r\n"
+    ],
+    [
+      0.000306,
+      "\u001b[1m\u001b[32m      create\u001b[0m  public/404.html\r\n"
+    ],
+    [
+      0.000233,
+      "\u001b[1m\u001b[32m      create\u001b[0m  public/422.html\r\n"
+    ],
+    [
+      0.000216,
+      "\u001b[1m\u001b[32m      create\u001b[0m  public/500.html\r\n"
+    ],
+    [
+      0.000328,
+      "\u001b[1m\u001b[32m      create\u001b[0m  public/favicon.ico\r\n"
+    ],
+    [
+      0.000205,
+      "\u001b[1m\u001b[32m      create\u001b[0m  public/robots.txt\r\n"
+    ],
+    [
+      0.000401,
+      "\u001b[1m\u001b[32m      create\u001b[0m  test/fixtures\r\n"
+    ],
+    [
+      0.000165,
+      "\u001b[1m\u001b[32m      create\u001b[0m  test/fixtures/.keep\r\n"
+    ],
+    [
+      0.000131,
+      "\u001b[1m\u001b[32m      create\u001b[0m  test/controllers\r\n"
+    ],
+    [
+      0.000082,
+      "\u001b[1m\u001b[32m      create\u001b[0m  test/controllers/.keep\r\n"
+    ],
+    [
+      0.000102,
+      "\u001b[1m\u001b[32m      create\u001b[0m  test/mailers\r\n"
+    ],
+    [
+      0.000110,
+      "\u001b[1m\u001b[32m      create\u001b[0m  test/mailers/.keep\r\n"
+    ],
+    [
+      0.000104,
+      "\u001b[1m\u001b[32m      create\u001b[0m  test/models\r\n"
+    ],
+    [
+      0.000068,
+      "\u001b[1m\u001b[32m      create\u001b[0m  test/models/.keep\r\n"
+    ],
+    [
+      0.000102,
+      "\u001b[1m\u001b[32m      create\u001b[0m  test/helpers\r\n"
+    ],
+    [
+      0.000081,
+      "\u001b[1m\u001b[32m      create\u001b[0m  test/helpers/.keep\r\n"
+    ],
+    [
+      0.000101,
+      "\u001b[1m\u001b[32m      create\u001b[0m  test/integration\r\n"
+    ],
+    [
+      0.000078,
+      "\u001b[1m\u001b[32m      create\u001b[0m  test/integration/.keep\r\n"
+    ],
+    [
+      0.000218,
+      "\u001b[1m\u001b[32m      create\u001b[0m  test/test_helper.rb\r\n"
+    ],
+    [
+      0.000615,
+      "\u001b[1m\u001b[32m      create\u001b[0m  tmp/cache\r\n"
+    ],
+    [
+      0.000192,
+      "\u001b[1m\u001b[32m      create\u001b[0m  tmp/cache/assets\r\n"
+    ],
+    [
+      0.000285,
+      "\u001b[1m\u001b[32m      create\u001b[0m  vendor/assets/javascripts\r\n"
+    ],
+    [
+      0.000185,
+      "\u001b[1m\u001b[32m      create\u001b[0m  vendor/assets/javascripts/.keep\r\n"
+    ],
+    [
+      0.000125,
+      "\u001b[1m\u001b[32m      create\u001b[0m  vendor/assets/stylesheets\r\n"
+    ],
+    [
+      0.000076,
+      "\u001b[1m\u001b[32m      create\u001b[0m  vendor/assets/stylesheets/.keep\r\n"
+    ],
+    [
+      0.001062,
+      "\u001b[1m\u001b[32m         run\u001b[0m  bundle install\r\n"
+    ],
+    [
+      4.589026,
+      "Fetching gem metadata from https://rubygems.org/............\r\nFetching version metadata from https://rubygems.org/...\r\nFetching dependency metadata from https://rubygems.org/..\r\nResolving dependencies...\r\nUsing rake 10.4.2\r\nUsing i18n 0.7.0\r\nUsing json 1.8.2\r\nUsing minitest 5.6.1\r\nUsing thread_safe 0.3.5\r\nUsing tzinfo 1.2.2\r\nUsing activesupport 4.2.0\r\nUsing builder 3.2.2\r\nUsing erubis 2.7.0\r\nUsing mini_portile 0.6.2\r\nUsing nokogiri 1.6.6.2\r\nUsing rails-deprecated_sanitizer 1.0.3\r\nUsing rails-dom-testing 1.0.6\r\nUsing loofah 2.0.2\r\nUsing rails-html-sanitizer 1.0.2\r\nUsing actionview 4.2.0\r\nUsing rack 1.6.1\r\nUsing rack-test 0.6.3\r\nUsing actionpack 4.2.0\r\nUsing globalid 0.3.5\r\nUsing activejob 4.2.0\r\nUsing mime-types 2.5\r\nUsing mail 2.6.3\r\nUsing actionmailer 4.2.0\r\nUsing activemodel 4.2.0\r\nUsing arel 6.0.0\r\nUsing activerecord 4.2.0\r\nUsing debug_inspector 0.0.2\r\nUsing binding_of_caller 0.7.2\r\nUsing bundler 1.8.2\r\nUsing columnize 0.9.0\r\nUsing byebug 4.0.5\r\nUsing coffee-script-source 1.9.1.1\r\nUsing execjs 2.5.2\r\nUsing"
+    ],
+    [
+      0.000015,
+      " coffee-script 2.4.1\r\nUsing thor 0.19.1\r\nUsing railties 4.2.0\r\nUsing coffee-rails 4.1.0\r\nUsing multi_json 1.11.0\r\nUsing jbuilder 2.2.13\r\nUsing jquery-rails 4.0.3\r\nUsing sprockets 3.1.0\r\nUsing sprockets-rails 2.3.0\r\nUsing rails 4.2.0\r\nUsing rdoc 4.2.0\r\nUsing sass 3.4.13\r\nUsing tilt 1.4.1\r\nUsing sass-rails 5.0.3\r\nUsing sdoc 0.4.1\r\nUsing spring 1.3.6\r\nUsing sqlite3 1.3.10\r\nUsing turbolinks 2.5.3\r\nUsing uglifier 2.7.1\r\nUsing web-console 2.1.2\r\nBundle complete! 12 Gemfile dependencies, 54 gems now installed.\r\nUse `bundle show [gemname]` to see where a bundled gem is installed.\r\n"
+    ],
+    [
+      0.000507,
+      "\u001b[1m\u001b[32m         run\u001b[0m  bundle exec spring binstub --all\r\n"
+    ],
+    [
+      0.607283,
+      "* bin/rake: spring inserted\r\n* bin/rails: spring inserted\r\n"
+    ],
+    [
+      0.216254,
+      "\u001b]0;fish  /Users/Eps/Desktop\u0007"
+    ],
+    [
+      0.000006,
+      "\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000120,
+      "\u001b[38;5;245m⏎\u001b[0m                                                                                                     \r \r"
+    ],
+    [
+      0.000048,
+      "\u001b[32m~/Desktop/ \u001b[31m2.2.0 \u001b[33m! \u001b[38;5;214mno repo \u001b[32m\u003e \u001b[K"
+    ],
+    [
+      1.941689,
+      "#"
+    ],
+    [
+      0.000068,
+      "\u0008\u001b[31m#\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.199977,
+      "\u001b[31m \u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000058,
+      "\u0008 "
+    ],
+    [
+      0.295796,
+      "E"
+    ],
+    [
+      0.000064,
+      "\u0008\u001b[31mE\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.120041,
+      "\u001b[31mn\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.055969,
+      "\u001b[31mt\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.207903,
+      "\u001b[31me\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.055984,
+      "\u001b[31mr\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.088020,
+      "\u001b[31mi\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.072129,
+      "\u001b[31mn\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.095853,
+      "\u001b[31mg\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.119987,
+      "\u001b[31m \u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000059,
+      "\u0008 "
+    ],
+    [
+      0.160003,
+      "f"
+    ],
+    [
+      0.000070,
+      "\u0008\u001b[31mf\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.063860,
+      "\u001b[31mo\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.200029,
+      "\u001b[31ml\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.080123,
+      "\u001b[31md\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.175860,
+      "\u001b[31me\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.056092,
+      "\u001b[31mr\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.911828,
+      "\r\n\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000235,
+      "\u001b]0;fish  /Users/Eps/Desk"
+    ],
+    [
+      0.000005,
+      "top\u0007\u001b[30"
+    ],
+    [
+      0.000002,
+      "m\u001b("
+    ],
+    [
+      0.000002,
+      "B\u001b["
+    ],
+    [
+      0.000002,
+      "m"
+    ],
+    [
+      0.215431,
+      "\u001b]0;fish  /Users/Eps/Desktop"
+    ],
+    [
+      0.000009,
+      "\u0007\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000122,
+      "\u001b[38;5;245m⏎\u001b[0m                                                                                                     \r \r"
+    ],
+    [
+      0.000039,
+      "\u001b[32m~/Desktop/ \u001b[31m2.2.0 \u001b[33m! \u001b[38;5;214mno repo \u001b[32m\u003e \u001b[K"
+    ],
+    [
+      0.928260,
+      "c"
+    ],
+    [
+      0.000253,
+      "d\u001b[38;5;240m example_app/\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000143,
+      "\u0008\u001b[31m\u001b[1mc\u001b(B\u001b[md\u001b[38;5;240m example_app/\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.287539,
+      "\u001b[31m\u001b[1md\u001b(B\u001b[m \u001b[38;5;240mexample_app/\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000198,
+      "\u0008\u0008\u001b[38;5;26mcd\u001b[30m\u001b(B\u001b[m \u001b[38;5;240mexample_app/\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.167726,
+      "\u001b[38;5;26m \u001b[30m\u001b(B\u001b[me\u001b[38;5;240mxample_app/\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000152,
+      "\u0008 e\u001b[38;5;240mxample_app/\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.455758,
+      "\u001b[Cx\u001b[38;5;240mample_app/\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000210,
+      "\u0008\u001b[38;5;39m\u001b[4me\u001b[30m\u001b(B\u001b[mx\u001b[38;5;240mample_app/\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.199781,
+      "\u001b[38;5;39m\u001b[4mx\u001b[30m\u001b(B\u001b[ma\u001b[38;5;240mmple_app/\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.216166,
+      "\u001b[38;5;39m\u001b[4ma\u001b[30m\u001b(B\u001b[mm\u001b[38;5;240mple_app/\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.039908,
+      "\u001b[38;5;39m\u001b[4mm\u001b[30m\u001b(B\u001b[mp\u001b[38;5;240mle_app/\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.216197,
+      "\u001b[38;5;39m\u001b[4mp\u001b[30m\u001b(B\u001b[ml\u001b[38;5;240me_app/\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.063953,
+      "\u001b[38;5;39m\u001b[4ml\u001b[30m\u001b(B\u001b[me\u001b[38;5;240m_app/\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.159779,
+      "\u001b[38;5;39m\u001b[4me\u001b[30m\u001b(B\u001b[m_\u001b[38;5;240mapp/\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.256117,
+      "\u001b[38;5;39m\u001b[4m_\u001b[30m\u001b(B\u001b[ma\u001b[38;5;240mpp/\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.231961,
+      "\u001b[38;5;39m\u001b[4ma\u001b[30m\u001b(B\u001b[mp\u001b[38;5;240mp/\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.072117,
+      "\u001b[38;5;39m\u001b[4mp\u001b[30m\u001b(B\u001b[mp\u001b[38;5;240m/\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.023749,
+      "\u001b[38;5;39m\u001b[4mo\u001b[30m\u001b(B\u001b[m\u001b[K"
+    ],
+    [
+      0.000222,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[31m\u001b[1mexample_apo\u001b(B\u001b[m"
+    ],
+    [
+      0.501891,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.000251,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[38;5;39m\u001b[4mexample_ap\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.249787,
+      "\u001b[38;5;39m\u001b[4mp\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000173,
+      "/\u0008"
+    ],
+    [
+      0.351634,
+      "\u001b[K"
+    ],
+    [
+      0.000005,
+      "\r\n\u001b[30m\u001b(B\u001b["
+    ],
+    [
+      0.000002,
+      "m"
+    ],
+    [
+      0.000258,
+      "\u001b]0;cd  /Users/Eps/Desktop\u0007"
+    ],
+    [
+      0.000005,
+      "\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.210774,
+      "\u001b]0;fish  /Users/Eps/Desktop/"
+    ],
+    [
+      0.000009,
+      "example_app\u0007\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000112,
+      "\u001b[38;5;245m⏎\u001b[0m                                                                                                     \r \r"
+    ],
+    [
+      0.000056,
+      "\u001b[32m~/Desktop/example_app/ \u001b[31m2.2.0 \u001b[33m! \u001b[38;5;214mno repo \u001b[32m\u003e \u001b[K"
+    ],
+    [
+      1.524943,
+      "#"
+    ],
+    [
+      0.000052,
+      "\u0008\u001b[31m#\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.504050,
+      "\u001b[31m \u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000053,
+      "\u0008 "
+    ],
+    [
+      0.287777,
+      "I"
+    ],
+    [
+      0.000057,
+      "\u0008\u001b[31mI\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.231979,
+      "\u001b[31mn\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.071975,
+      "\u001b[31mi\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.231920,
+      "\u001b[31mt\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.095974,
+      "\u001b[31mi\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.176029,
+      "\u001b[31ma\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.127990,
+      "\u001b[31ml\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.080002,
+      "\u001b[31mi\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.599975,
+      "\u001b[31mz\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.135862,
+      "\u001b[31mi\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.072226,
+      "\u001b[31mn\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.151896,
+      "\u001b[31mg\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.087941,
+      "\u001b[31m \u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000062,
+      "\u0008 "
+    ],
+    [
+      0.280086,
+      "g"
+    ],
+    [
+      0.000061,
+      "\u0008\u001b[31mg\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.207843,
+      "\u001b[31mi\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.160041,
+      "\u001b[31mt\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.087727,
+      "\u001b[31m \u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000060,
+      "\u0008 "
+    ],
+    [
+      0.119977,
+      "r"
+    ],
+    [
+      0.000068,
+      "\u0008\u001b[31mr\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.048032,
+      "\u001b[31me\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.128033,
+      "\u001b[31mp\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.047947,
+      "\u001b[31mo\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.496000,
+      "\r\n\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000321,
+      "\u001b]0;fish  /Users/Eps/Desktop/example_app\u0007"
+    ],
+    [
+      0.000018,
+      "\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.212915,
+      "\u001b]0;fish  /Users/Eps/Desktop/"
+    ],
+    [
+      0.000009,
+      "example_app\u0007\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000114,
+      "\u001b[38;5;245m⏎\u001b[0m                                                                                                     \r \r"
+    ],
+    [
+      0.000058,
+      "\u001b[32m~/Desktop/example_app/ \u001b[31m2.2.0 \u001b[33m! \u001b[38;5;214mno repo \u001b[32m\u003e \u001b[K"
+    ],
+    [
+      0.490625,
+      "g"
+    ],
+    [
+      0.000237,
+      "i\u001b[38;5;240mt status\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000122,
+      "\u0008\u001b[31m\u001b[1mg\u001b(B\u001b[mi\u001b[38;5;240mt status\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.111503,
+      "\u001b[31m\u001b[1mi\u001b(B\u001b[mt\u001b[38;5;240m status\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000201,
+      "\u0008\u0008\u001b[38;5;26mgi\u001b[30m\u001b(B\u001b[mt\u001b[38;5;240m status\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.087950,
+      "\u001b[38;5;26mt\u001b[30m\u001b(B\u001b[m \u001b[38;5;240mstatus\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.127809,
+      "\u001b[38;5;26m \u001b[30m\u001b(B\u001b[ms\u001b[38;5;240mtatus\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000249,
+      "\u0008 s\u001b[38;5;240mtatus\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.215886,
+      "i\u001b[K"
+    ],
+    [
+      0.000255,
+      "n\u001b[38;5;240mit\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000097,
+      "\u0008\u001b[38;5;39mi\u001b[30m\u001b(B\u001b[mn\u001b[38;5;240mit\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.063602,
+      "\u001b[38;5;39mn\u001b[30m\u001b(B\u001b[mi\u001b[38;5;240mt\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.119994,
+      "\u001b[38;5;39mi\u001b[30m\u001b(B\u001b[mt\u0008"
+    ],
+    [
+      0.143854,
+      "\u001b[38;5;39mt\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.992111,
+      "\r\n\u001b[30m"
+    ],
+    [
+      0.000005,
+      "\u001b(B\u001b[m"
+    ],
+    [
+      0.000331,
+      "\u001b]0;git  /Users/Eps/Desktop"
+    ],
+    [
+      0.000004,
+      "/example_app\u0007"
+    ],
+    [
+      0.000013,
+      "\u001b[30m\u001b("
+    ],
+    [
+      0.000004,
+      "B\u001b[m"
+    ],
+    [
+      0.025622,
+      "Initialized empty Git repository in /Users/Eps/Desktop/example_app/.git/\r\n"
+    ],
+    [
+      0.205052,
+      "\u001b]0;fish  /Users/Eps/Deskt"
+    ],
+    [
+      0.000008,
+      "op/example_app\u0007\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000103,
+      "\u001b[38;5;245m⏎\u001b[0m                                                                                                     \r \r"
+    ],
+    [
+      0.000051,
+      "\u001b[32m~/Desktop/example_app/ \u001b[31m2.2.0 \u001b[33m! \u001b[38;5;214m00:00:00 \u001b[32m\u003e \u001b[K"
+    ],
+    [
+      0.705007,
+      "#"
+    ],
+    [
+      0.000055,
+      "\u0008\u001b[31m#\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.271644,
+      "\u001b[31m \u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000059,
+      "\u0008 "
+    ],
+    [
+      0.463987,
+      "A"
+    ],
+    [
+      0.000062,
+      "\u0008\u001b[31mA\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.192061,
+      "\u001b[31md\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.167923,
+      "\u001b[31md\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.143919,
+      "\u001b[31mi\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.048141,
+      "\u001b[31mn\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.087871,
+      "\u001b[31mg\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.127953,
+      "\u001b[31m \u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000063,
+      "\u0008 "
+    ],
+    [
+      0.111976,
+      "a"
+    ],
+    [
+      0.000059,
+      "\u0008\u001b[31ma\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.095940,
+      "\u001b[31ml\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.152053,
+      "\u001b[31ml\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.143911,
+      "\u001b[31m \u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000056,
+      "\u0008 "
+    ],
+    [
+      0.239939,
+      "f"
+    ],
+    [
+      0.000055,
+      "\u0008\u001b[31mf\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.135925,
+      "\u001b[31mi\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.031982,
+      "\u001b[31ml\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.167995,
+      "\u001b[31me\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.056057,
+      "\u001b[31ms\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.128016,
+      "\u001b[31m \u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000069,
+      "\u0008 "
+    ],
+    [
+      0.207915,
+      "t"
+    ],
+    [
+      0.000055,
+      "\u0008\u001b[31mt\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.096007,
+      "\u001b[31mo\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.143831,
+      "\u001b[31m \u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000066,
+      "\u0008 "
+    ],
+    [
+      0.200041,
+      "i"
+    ],
+    [
+      0.000063,
+      "\u0008\u001b[31mi\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.055834,
+      "\u001b[31mn\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.143984,
+      "\u001b[31mi\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.136098,
+      "\u001b[31mt\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.079948,
+      "\u001b[31mi\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.119883,
+      "\u001b[31ma\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.072159,
+      "\u001b[31ml\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.135826,
+      "\u001b[31m \u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000059,
+      "\u0008 "
+    ],
+    [
+      0.112058,
+      "c"
+    ],
+    [
+      0.000069,
+      "\u0008\u001b[31mc\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.072077,
+      "\u001b[31mo\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.063956,
+      "\u001b[31mm\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.136007,
+      "\u001b[31mm\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.159901,
+      "\u001b[31mi\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.103989,
+      "\u001b[31mt\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.352007,
+      "\r\n\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000265,
+      "\u001b]0;fish  /Users/Eps/Desktop"
+    ],
+    [
+      0.000004,
+      "/example_app\u0007"
+    ],
+    [
+      0.000014,
+      "\u001b[30m\u001b"
+    ],
+    [
+      0.000004,
+      "(B\u001b[m"
+    ],
+    [
+      0.202238,
+      "\u001b]0;fish  /Users/Eps/Desktop/e"
+    ],
+    [
+      0.000006,
+      "xample_app\u0007\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000121,
+      "\u001b[38;5;245m⏎\u001b[0m                                                                                                     \r \r"
+    ],
+    [
+      0.000040,
+      "\u001b[32m~/Desktop/example_app/ \u001b[31m2.2.0 \u001b[33m! \u001b[38;5;214m00:00:00 \u001b[32m\u003e \u001b[K"
+    ],
+    [
+      0.781364,
+      "g"
+    ],
+    [
+      0.000241,
+      "i\u001b[38;5;240mt init\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000110,
+      "\u0008\u001b[31m\u001b[1mg\u001b(B\u001b[mi\u001b[38;5;240mt init\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.071519,
+      "\u001b[31m\u001b[1mi\u001b(B\u001b[mt\u001b[38;5;240m init\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000168,
+      "\u0008\u0008\u001b[38;5;26mgi\u001b[30m\u001b(B\u001b[mt\u001b[38;5;240m init\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.135749,
+      "\u001b[38;5;26mt\u001b[30m\u001b(B\u001b[m \u001b[38;5;240minit\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.072059,
+      "\u001b[38;5;26m \u001b[30m\u001b(B\u001b[mi\u001b[38;5;240mnit\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000236,
+      "\u0008 i\u001b[38;5;240mnit\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.119683,
+      "a\u001b[K"
+    ],
+    [
+      0.000227,
+      "d\u001b[38;5;240md .\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000079,
+      "\u0008\u001b[38;5;39m\u001b[4ma\u001b[30m\u001b(B\u001b[md\u001b[38;5;240md .\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.079814,
+      "\u001b[38;5;39m\u001b[4md\u001b[30m\u001b(B\u001b[md\u001b[38;5;240m .\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000271,
+      "\u0008\u0008\u001b[38;5;39mad\u001b[30m\u001b(B\u001b[md\u001b[38;5;240m .\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.199769,
+      "\u001b[38;5;39md\u001b[30m\u001b(B\u001b[m \u001b[38;5;240m.\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.087960,
+      "\u001b[38;5;39m \u001b[30m\u001b(B\u001b[m.\u0008"
+    ],
+    [
+      0.000277,
+      "\u0008 .\u0008"
+    ],
+    [
+      0.159775,
+      "\u001b[C"
+    ],
+    [
+      0.000232,
+      "\u0008\u001b[38;5;39m\u001b[4m.\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.319580,
+      "\r\n\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000216,
+      "\u001b]0;git  /Users/Eps/Deskt"
+    ],
+    [
+      0.000005,
+      "op/example_app\u0007"
+    ],
+    [
+      0.000018,
+      "\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.237277,
+      "\u001b]0;fish  /Users/Eps/Desktop"
+    ],
+    [
+      0.000009,
+      "/example_app\u0007\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000117,
+      "\u001b[38;5;245m⏎\u001b[0m                                                                                                     \r \r"
+    ],
+    [
+      0.000054,
+      "\u001b[32m~/Desktop/example_app/ \u001b[31m2.2.0 \u001b[33m! \u001b[38;5;214m00:00:00 \u001b[32m\u003e \u001b[K"
+    ],
+    [
+      0.626655,
+      "#"
+    ],
+    [
+      0.000085,
+      "\u0008\u001b[31m#\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.327618,
+      "\u001b[31m \u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000053,
+      "\u0008 "
+    ],
+    [
+      0.271962,
+      "m"
+    ],
+    [
+      0.000057,
+      "\u0008\u001b[31mm\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.552215,
+      "\u001b[31ma\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.111690,
+      "\u001b[31mk\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.344066,
+      "\u001b[31mi\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.071851,
+      "\u001b[31mn\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.136036,
+      "\u001b[31mg\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.151977,
+      "\u001b[31m \u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000054,
+      "\u0008 "
+    ],
+    [
+      0.335990,
+      "i"
+    ],
+    [
+      0.000055,
+      "\u0008\u001b[31mi\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.055976,
+      "\u001b[31mn\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.135855,
+      "\u001b[31mi\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.152130,
+      "\u001b[31mt\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.079985,
+      "\u001b[31mi\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.128060,
+      "\u001b[31ma\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.048084,
+      "\u001b[31ml\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.127793,
+      "\u001b[31m \u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000057,
+      "\u0008 "
+    ],
+    [
+      0.071952,
+      "c"
+    ],
+    [
+      0.000057,
+      "\u0008\u001b[31mc\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.151935,
+      "\u001b[31mo\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.104030,
+      "\u001b[31mm\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.143940,
+      "\u001b[31mm\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.191977,
+      "\u001b[31mi\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.080030,
+      "\u001b[31mt\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.280435,
+      "\r\n\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000284,
+      "\u001b]0;fish  /Users/E"
+    ],
+    [
+      0.000004,
+      "ps/Desktop/example_"
+    ],
+    [
+      0.000002,
+      "app"
+    ],
+    [
+      0.000002,
+      "\u0007"
+    ],
+    [
+      0.000016,
+      "\u001b[30m\u001b"
+    ],
+    [
+      0.000004,
+      "(B\u001b[m"
+    ],
+    [
+      0.201605,
+      "\u001b]0;fish  /Users/Eps/Desktop/"
+    ],
+    [
+      0.000008,
+      "example_app\u0007\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000094,
+      "\u001b[38;5;245m⏎\u001b[0m                                                                                                     \r \r"
+    ],
+    [
+      0.000050,
+      "\u001b[32m~/Desktop/example_app/ \u001b[31m2.2.0 \u001b[33m! \u001b[38;5;214m00:00:00 \u001b[32m\u003e \u001b[K"
+    ],
+    [
+      0.445612,
+      "g"
+    ],
+    [
+      0.000224,
+      "i\u001b[38;5;240mt add .\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000104,
+      "\u0008\u001b[31m\u001b[1mg\u001b(B\u001b[mi\u001b[38;5;240mt add .\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.055541,
+      "\u001b[31m\u001b[1mi\u001b(B\u001b[mt\u001b[38;5;240m add .\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000182,
+      "\u0008\u0008\u001b[38;5;26mgi\u001b[30m\u001b(B\u001b[mt\u001b[38;5;240m add .\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.159768,
+      "\u001b[38;5;26mt\u001b[30m\u001b(B\u001b[m \u001b[38;5;240madd .\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.136006,
+      "\u001b[38;5;26m \u001b[30m\u001b(B\u001b[ma\u001b[38;5;240mdd .\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000279,
+      "\u0008 a\u001b[38;5;240mdd .\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.367817,
+      "c\u001b[K"
+    ],
+    [
+      0.000316,
+      "o\u001b[38;5;240mmmit -m 'initial commit'\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000174,
+      "\u0008\u001b[38;5;39m\u001b[4mc\u001b[30m\u001b(B\u001b[mo\u001b[38;5;240mmmit -m 'initial commit'\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.047403,
+      "\u001b[38;5;39m\u001b[4mo\u001b[30m\u001b(B\u001b[mm\u001b[38;5;240mmit -m 'initial commit'\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.080024,
+      "\u001b[38;5;39m\u001b[4mm\u001b[30m\u001b(B\u001b[mm\u001b[38;5;240mit -m 'initial commit'\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000244,
+      "\u0008\u0008\u0008\u001b[38;5;39mcom\u001b[30m\u001b(B\u001b[mm\u001b[38;5;240mit -m 'initial commit'\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.167845,
+      "\u001b[38;5;39mm\u001b[30m\u001b(B\u001b[mi\u001b[38;5;240mt -m 'initial commit'\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.223948,
+      "\u001b[38;5;39mi\u001b[30m\u001b(B\u001b[mt\u001b[38;5;240m -m 'initial commit'\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.048068,
+      "\u001b[38;5;39mt\u001b[30m\u001b(B\u001b[m \u001b[38;5;240m-m 'initial commit'\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.143895,
+      "\u001b[38;5;39m \u001b[30m\u001b(B\u001b[m-\u001b[38;5;240mm 'initial commit'\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000246,
+      "\u0008 -\u001b[38;5;240mm 'initial commit'\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.215887,
+      "o\u001b[K"
+    ],
+    [
+      0.000271,
+      "\u0008\u001b[38;5;39mo\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.351486,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.240141,
+      "-"
+    ],
+    [
+      0.000268,
+      "m\u001b[38;5;240m 'initial commit'\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000149,
+      "\u0008\u001b[38;5;39m-\u001b[30m\u001b(B\u001b[mm\u001b[38;5;240m 'initial commit'\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.263515,
+      "\u001b[38;5;39mm\u001b[30m\u001b(B\u001b[m \u001b[38;5;240m'initial commit'\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.183884,
+      "\u001b[38;5;39m \u001b[30m\u001b(B\u001b[m'\u001b[38;5;240minitial commit'\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000302,
+      "\u0008 '\u001b[38;5;240minitial commit'\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.503778,
+      "\u001b[Ci\u001b[38;5;240mnitial commit'\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000241,
+      "\u0008'i\u001b[38;5;240mnitial commit'\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.431887,
+      "In\u001b[38;5;240mitial commit'\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000217,
+      "\u0008\u0008\u001b[31m\u001b[1m'I\u001b(B\u001b[mn\u001b[38;5;240mitial commit'\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.257926,
+      "\u001b[31m\u001b[1mn\u001b(B\u001b[mi\u001b[38;5;240mtial commit'\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.077726,
+      "\u001b[31m\u001b[1mi\u001b(B\u001b[mt\u001b[38;5;240mial commit'\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.415967,
+      "\u001b[31m\u001b[1mt\u001b(B\u001b[mi\u001b[38;5;240mal commit'\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.111952,
+      "\u001b[31m\u001b[1mi\u001b(B\u001b[ma\u001b[38;5;240ml commit'\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.136047,
+      "\u001b[31m\u001b[1ma\u001b(B\u001b[ml\u001b[38;5;240m commit'\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.088004,
+      "\u001b[31m\u001b[1ml\u001b(B\u001b[m \u001b[38;5;240mcommit'\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.176195,
+      "\u001b[31m\u001b[1m \u001b(B\u001b[mc\u001b[38;5;240mommit'\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000214,
+      "\u0008 c\u001b[38;5;240mommit'\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.167603,
+      "\u001b[Co\u001b[38;5;240mmmit'\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000222,
+      "\u0008\u001b[31m\u001b[1mc\u001b(B\u001b[mo\u001b[38;5;240mmmit'\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.063849,
+      "\u001b[31m\u001b[1mo\u001b(B\u001b[mm\u001b[38;5;240mmit'\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.063784,
+      "\u001b[31m\u001b[1mm\u001b(B\u001b[mm\u001b[38;5;240mit'\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.168144,
+      "\u001b[31m\u001b[1mm\u001b(B\u001b[mi\u001b[38;5;240mt'\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.215828,
+      "\u001b[31m\u001b[1mi\u001b(B\u001b[mt\u001b[38;5;240m'\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.072110,
+      "\u001b[31m\u001b[1mt\u001b(B\u001b[m'\u0008"
+    ],
+    [
+      0.175946,
+      "\u001b[31m\u001b[1m'\u001b(B\u001b[m"
+    ],
+    [
+      0.000336,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[33m'Initial\u001b[30m\u001b(B\u001b[m \u001b[33mcommit'\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.623612,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000357,
+      "\u001b]0;git  /Users/Eps/Desktop"
+    ],
+    [
+      0.000004,
+      "/example_app\u0007"
+    ],
+    [
+      0.000012,
+      "\u001b[30m\u001b("
+    ],
+    [
+      0.000004,
+      "B\u001b[m"
+    ],
+    [
+      0.035530,
+      "[master (root-commit) a2f0709] Initial commit\r\n"
+    ],
+    [
+      0.001079,
+      " 57 files changed, 978 insertions(+)\r\n"
+    ],
+    [
+      0.000006,
+      " create mode 100644 .gitignore\r\n create mode 100644 Gemfile\r\n create mode 100644 Gemfile.lock\r\n create mode 100644 README.rdoc\r\n create mode 100644 Rakefile\r\n"
+    ],
+    [
+      0.000004,
+      " create mode 100644 app/assets/images/.keep\r\n create mode 100644 app/assets/javascripts/application.js\r\n create mode 100644 app/assets/stylesheets/application.css\r\n"
+    ],
+    [
+      0.000012,
+      " create mode 100644 app/controllers/application_controller.rb\r\n create mode 100644 app/controllers/concerns/.keep\r\n create mode 100644 app/helpers/application_helper.rb\r\n create mode 100644 app/mailers/.keep\r\n create mode 100644 app/models/.keep\r\n create mode 100644 app/models/concerns/.keep\r\n create mode 100644 app/views/layouts/application.html.erb\r\n create mode 100755 bin/bundle\r\n create mode 100755 bin/rails\r\n"
+    ],
+    [
+      0.000005,
+      " create mode 100755 bin/rake\r\n create mode 100755 bin/setup\r\n create mode 100755 bin/spring\r\n create mode 100644 config.ru\r\n create mode 100644 config/application.rb\r\n"
+    ],
+    [
+      0.000002,
+      " create mode 100644 config/boot.rb\r\n create mode 100644 config/database.yml\r\n"
+    ],
+    [
+      0.000002,
+      " create mode 100644 config/environment.rb\r\n create mode 100644 config/environments/development.rb\r\n"
+    ],
+    [
+      0.000003,
+      " create mode 100644 config/environments/production.rb\r\n create mode 100644 config/environments/test.rb\r\n"
+    ],
+    [
+      0.000003,
+      " create mode 100644 config/initializers/assets.rb\r\n create mode 100644 config/initializers/backtrace_silencers.rb\r\n"
+    ],
+    [
+      0.000003,
+      " create mode 100644 config/initializers/cookies_serializer.rb\r\n create mode 100644 config/initializers/filter_parameter_logging.rb\r\n"
+    ],
+    [
+      0.000003,
+      " create mode 100644 config/initializers/inflections.rb\r\n create mode 100644 config/initializers/mime_types.rb\r\n"
+    ],
+    [
+      0.000002,
+      " create mode 100644 config/initializers/session_store.rb\r\n create mode 100644 config/initializers/wrap_parameters.rb\r\n"
+    ],
+    [
+      0.000002,
+      " create mode 100644 config/locales/en.yml\r\n create mode 100644 config/routes.rb\r\n"
+    ],
+    [
+      0.000002,
+      " create mode 100644 config/secrets.yml\r\n create mode 100644 db/seeds.rb\r\n"
+    ],
+    [
+      0.000002,
+      " create mode 100644 lib/assets/.keep\r\n"
+    ],
+    [
+      0.000002,
+      " create mode 100644 lib/tasks/.keep\r\n create mode 100644 log/.keep\r\n"
+    ],
+    [
+      0.000002,
+      " create mode 100644 public/404.html\r\n"
+    ],
+    [
+      0.000002,
+      " create mode 100644 public/422.html\r\n create mode 100644 public/500.html\r\n"
+    ],
+    [
+      0.000002,
+      " create mode 100644 public/favicon.ico\r\n"
+    ],
+    [
+      0.000002,
+      " create mode 100644 public/robots.txt\r\n create mode 100644 test/controllers/.keep\r\n"
+    ],
+    [
+      0.000002,
+      " create mode 100644 test/fixtures/.keep\r\n"
+    ],
+    [
+      0.000002,
+      " create mode 100644 test/helpers/.keep\r\n create mode 100644 test/integration/.keep\r\n"
+    ],
+    [
+      0.000002,
+      " create mode 100644 test/mailers/.keep\r\n"
+    ],
+    [
+      0.000002,
+      " create mode 100644 test/models/.keep\r\n create mode 100644 test/test_helper.rb\r\n"
+    ],
+    [
+      0.000002,
+      " create mode 100644 vendor/assets/javascripts/.keep\r\n"
+    ],
+    [
+      0.000002,
+      " create mode 100644 vendor/assets/stylesheets/.keep\r\n"
+    ],
+    [
+      0.201765,
+      "\u001b]0;fish  /Users/Eps/Desktop"
+    ],
+    [
+      0.000026,
+      "/example_app\u0007\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000111,
+      "\u001b[38;5;245m⏎\u001b[0m                                                                                                     \r \r"
+    ],
+    [
+      0.000058,
+      "\u001b[32m~/Desktop/example_app/ \u001b[31m2.2.0 \u001b[33mmaster \u001b[38;5;214m00:00:00 \u001b[32m\u003e \u001b[K"
+    ],
+    [
+      2.865127,
+      "#"
+    ],
+    [
+      0.000065,
+      "\u0008\u001b[31m#\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.159681,
+      "\u001b[31m \u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000058,
+      "\u0008 "
+    ],
+    [
+      0.272059,
+      "C"
+    ],
+    [
+      0.000062,
+      "\u0008\u001b[31mC\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.135873,
+      "\u001b[31mh\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.103836,
+      "\u001b[31me\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.640847,
+      "\u001b[31mc\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.063279,
+      "\u001b[31mk\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.208003,
+      "\u001b[31mi\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.055993,
+      "\u001b[31mn\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.104004,
+      "\u001b[31mg\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.103891,
+      "\u001b[31m \u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000054,
+      "\u0008 "
+    ],
+    [
+      0.144082,
+      "s"
+    ],
+    [
+      0.000070,
+      "\u0008\u001b[31ms\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.103922,
+      "\u001b[31mt\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.239911,
+      "\u001b[31mt\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.168005,
+      "\u001b[31mu\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.088039,
+      "\u001b[31ma\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.431835,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.199983,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.176023,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.200075,
+      "\u001b[31ma\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.040023,
+      "\u001b[31mt\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.167882,
+      "\u001b[31mu\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.096134,
+      "\u001b[31ms\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.599962,
+      "\r\n\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000250,
+      "\u001b]0;fish  /Users/Eps/Desk"
+    ],
+    [
+      0.000006,
+      "top/example_app\u0007"
+    ],
+    [
+      0.000018,
+      "\u001b[30m\u001b(B\u001b["
+    ],
+    [
+      0.000004,
+      "m"
+    ],
+    [
+      0.202263,
+      "\u001b]0;fish  /Users/Eps/Deskt"
+    ],
+    [
+      0.000006,
+      "op/example_app\u0007\u001b[30m\u001b"
+    ],
+    [
+      0.000002,
+      "(B\u001b["
+    ],
+    [
+      0.000004,
+      "m"
+    ],
+    [
+      0.000112,
+      "\u001b[38;5;245m⏎\u001b[0m                                                                                                     \r \r"
+    ],
+    [
+      0.000066,
+      "\u001b[32m~/Desktop/example_app/ \u001b[31m2.2.0 \u001b[33mmaster \u001b[38;5;214m00:00:00 \u001b[32m\u003e \u001b[K"
+    ],
+    [
+      0.157232,
+      "g"
+    ],
+    [
+      0.000339,
+      "i\u001b[38;5;240mt commit -m 'Initial commit'\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000192,
+      "\u0008\u001b[31m\u001b[1mg\u001b(B\u001b[mi\u001b[38;5;240mt commit -m 'Initial commit'\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.071681,
+      "\u001b[31m\u001b[1mi\u001b(B\u001b[mt\u001b[38;5;240m commit -m 'Initial commit'\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000015,
+      "\u0008\u0008\u001b[38;5;26mgi\u001b[30m\u001b(B\u001b[mt\u001b[38;5;240m commit -m 'Initial commit'\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.111817,
+      "\u001b[38;5;26mt\u001b[30m\u001b(B\u001b[m \u001b[38;5;240mcommit -m 'Initial commit'\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.095992,
+      "\u001b[38;5;26m \u001b[30m\u001b(B\u001b[mc\u001b[38;5;240mommit -m 'Initial commit'\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000218,
+      "\u0008 c\u001b[38;5;240mommit -m 'Initial commit'\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.111636,
+      "s\u001b[K"
+    ],
+    [
+      0.000188,
+      "t\u001b[38;5;240matus\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000114,
+      "\u0008\u001b[38;5;39ms\u001b[30m\u001b(B\u001b[mt\u001b[38;5;240matus\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.079819,
+      "\u001b[38;5;39mt\u001b[30m\u001b(B\u001b[ma\u001b[38;5;240mtus\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.207884,
+      "\u001b[38;5;39ma\u001b[30m\u001b(B\u001b[mt\u001b[38;5;240mus\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.064043,
+      "\u001b[38;5;39mt\u001b[30m\u001b(B\u001b[mu\u001b[38;5;240ms\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.144046,
+      "\u001b[38;5;39mu\u001b[30m\u001b(B\u001b[ms\u0008"
+    ],
+    [
+      0.104011,
+      "\u001b[38;5;39ms\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.359917,
+      "\r\n"
+    ],
+    [
+      0.000014,
+      "\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000288,
+      "\u001b]0;git  /Users/Eps/Deskto"
+    ],
+    [
+      0.000004,
+      "p/example_app\u0007"
+    ],
+    [
+      0.000009,
+      "\u001b[30m\u001b("
+    ],
+    [
+      0.000003,
+      "B\u001b[m"
+    ],
+    [
+      0.005038,
+      "On branch master\r\n"
+    ],
+    [
+      0.000006,
+      "nothing to commit, working directory clean\r\n"
+    ],
+    [
+      0.206007,
+      "\u001b]0;fish  /Users/Eps/Desktop"
+    ],
+    [
+      0.000007,
+      "/example_app\u0007\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000101,
+      "\u001b[38;5;245m⏎\u001b[0m                                                                                                     \r \r"
+    ],
+    [
+      0.000051,
+      "\u001b[32m~/Desktop/example_app/ \u001b[31m2.2.0 \u001b[33mmaster \u001b[38;5;214m00:00:00 \u001b[32m\u003e \u001b[K"
+    ],
+    [
+      1.260673,
+      "e"
+    ],
+    [
+      0.000279,
+      "x\u001b[38;5;240mit\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000071,
+      "\u0008\u001b[31m\u001b[1me\u001b(B\u001b[mx\u001b[38;5;240mit\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.055476,
+      "\u001b[31m\u001b[1mx\u001b(B\u001b[mi\u001b[38;5;240mt\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000302,
+      "\u0008\u0008\u001b[38;5;26mex\u001b[30m\u001b(B\u001b[mi\u001b[38;5;240mt\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.071542,
+      "\u001b[38;5;26mi\u001b[30m\u001b(B\u001b[mt\u0008"
+    ],
+    [
+      0.000312,
+      "\u0008\u0008\u0008\u001b[31m\u001b[1mexi\u001b(B\u001b[mt\u0008"
+    ],
+    [
+      0.151742,
+      "\u001b[31m\u001b[1mt\u001b(B\u001b[m"
+    ],
+    [
+      0.000190,
+      "\u0008\u0008\u0008\u0008\u001b[38;5;26mexit\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.511866,
+      "\r\n\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000260,
+      "\u001b]0;exit  /Users/Eps/Deskto"
+    ],
+    [
+      0.000005,
+      "p/example_app\u0007"
+    ],
+    [
+      0.000017,
+      "\u001b[30m\u001b(B\u001b["
+    ],
+    [
+      0.000004,
+      "m"
+    ],
+    [
+      0.000236,
+      "\r\n\u001b[30m\u001b(B\u001b[m"
+    ]
+  ]
+}
