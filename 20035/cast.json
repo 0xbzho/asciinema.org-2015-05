@@ -1,0 +1,1910 @@
+{
+  "version": 1,
+  "width": 112,
+  "height": 36,
+  "duration": 52.746436,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.948945,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                               \r \r"
+    ],
+    [
+      0.000082,
+      "\u001b]2;mmcdaris@mcretina: ~/projects\u0007"
+    ],
+    [
+      0.000023,
+      "\u001b]1;~/projects\u0007"
+    ],
+    [
+      0.030044,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36mprojects \u001b[01;34m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000012,
+      "\u001b[K"
+    ],
+    [
+      0.000158,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.239693,
+      "r"
+    ],
+    [
+      0.000152,
+      "\u0008ra"
+    ],
+    [
+      0.000325,
+      "il"
+    ],
+    [
+      0.000022,
+      "s"
+    ],
+    [
+      0.000177,
+      " "
+    ],
+    [
+      0.000137,
+      "n"
+    ],
+    [
+      0.000099,
+      "e"
+    ],
+    [
+      0.000092,
+      "w"
+    ],
+    [
+      0.000059,
+      " "
+    ],
+    [
+      0.000065,
+      "a"
+    ],
+    [
+      0.000083,
+      "i"
+    ],
+    [
+      0.000087,
+      "r"
+    ],
+    [
+      0.000091,
+      "b"
+    ],
+    [
+      0.000090,
+      "r"
+    ],
+    [
+      0.000096,
+      "a"
+    ],
+    [
+      0.000083,
+      "k"
+    ],
+    [
+      0.000086,
+      "e"
+    ],
+    [
+      0.000089,
+      "_"
+    ],
+    [
+      0.000087,
+      "t"
+    ],
+    [
+      0.000087,
+      "e"
+    ],
+    [
+      0.000091,
+      "s"
+    ],
+    [
+      0.000090,
+      "t"
+    ],
+    [
+      0.218894,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000085,
+      "\r\r\n"
+    ],
+    [
+      0.001543,
+      "\u001b]2;rails new airbrake_test\u0007"
+    ],
+    [
+      0.000011,
+      "\u001b]1;rails\u0007"
+    ],
+    [
+      1.455951,
+      "\u001b[1m\u001b[32m      create\u001b[0m  \r\n"
+    ],
+    [
+      0.000985,
+      "\u001b[1m\u001b[32m      create\u001b[0m  README.rdoc\r\n"
+    ],
+    [
+      0.001280,
+      "\u001b[1m\u001b[32m      create\u001b[0m  Rakefile\r\n"
+    ],
+    [
+      0.001597,
+      "\u001b[1m\u001b[32m      create\u001b[0m  config.ru\r\n"
+    ],
+    [
+      0.001416,
+      "\u001b[1m\u001b[32m      create\u001b[0m  .gitignore\r\n"
+    ],
+    [
+      0.001227,
+      "\u001b[1m\u001b[32m      create\u001b[0m  Gemfile\r\n"
+    ],
+    [
+      0.002921,
+      "\u001b[1m\u001b[32m      create\u001b[0m  app\r\n"
+    ],
+    [
+      0.002151,
+      "\u001b[1m\u001b[32m      create\u001b[0m  app/assets/javascripts/application.js\r\n"
+    ],
+    [
+      0.002503,
+      "\u001b[1m\u001b[32m      create\u001b[0m  app/assets/stylesheets/application.css\r\n"
+    ],
+    [
+      0.001180,
+      "\u001b[1m\u001b[32m      create\u001b[0m  app/controllers/application_controller.rb\r\n"
+    ],
+    [
+      0.001424,
+      "\u001b[1m\u001b[32m      create\u001b[0m  app/helpers/application_helper.rb\r\n"
+    ],
+    [
+      0.001142,
+      "\u001b[1m\u001b[32m      create\u001b[0m  app/views/layouts/application.html.erb\r\n"
+    ],
+    [
+      0.002251,
+      "\u001b[1m\u001b[32m      create\u001b[0m  app/assets/images/.keep\r\n"
+    ],
+    [
+      0.000551,
+      "\u001b[1m\u001b[32m      create\u001b[0m  app/mailers/.keep\r\n"
+    ],
+    [
+      0.000583,
+      "\u001b[1m\u001b[32m      create\u001b[0m  app/models/.keep\r\n"
+    ],
+    [
+      0.000578,
+      "\u001b[1m\u001b[32m      create\u001b[0m  app/controllers/concerns/.keep\r\n"
+    ],
+    [
+      0.000507,
+      "\u001b[1m\u001b[32m      create\u001b[0m  app/models/concerns/.keep\r\n"
+    ],
+    [
+      0.001227,
+      "\u001b[1m\u001b[32m      create\u001b[0m  bin\r\n"
+    ],
+    [
+      0.001024,
+      "\u001b[1m\u001b[32m      create\u001b[0m  bin/bundle\r\n"
+    ],
+    [
+      0.001253,
+      "\u001b[1m\u001b[32m      create\u001b[0m  bin/rails\r\n"
+    ],
+    [
+      0.001166,
+      "\u001b[1m\u001b[32m      create\u001b[0m  bin/rake\r\n"
+    ],
+    [
+      0.002250,
+      "\u001b[1m\u001b[32m      create\u001b[0m  config\r\n"
+    ],
+    [
+      0.000972,
+      "\u001b[1m\u001b[32m      create\u001b[0m  config/routes.rb\r\n"
+    ],
+    [
+      0.002099,
+      "\u001b[1m\u001b[32m      create\u001b[0m  config/application.rb\r\n"
+    ],
+    [
+      0.002342,
+      "\u001b[1m\u001b[32m      create\u001b[0m  config/environment.rb\r\n"
+    ],
+    [
+      0.001781,
+      "\u001b[1m\u001b[32m      create\u001b[0m  config/secrets.yml\r\n"
+    ],
+    [
+      0.002006,
+      "\u001b[1m\u001b[32m      create\u001b[0m  config/environments\r\n"
+    ],
+    [
+      0.001831,
+      "\u001b[1m\u001b[32m      create\u001b[0m  config/environments/development.rb\r\n"
+    ],
+    [
+      0.002158,
+      "\u001b[1m\u001b[32m      create\u001b[0m  config/environments/production.rb\r\n"
+    ],
+    [
+      0.002775,
+      "\u001b[1m\u001b[32m      create\u001b[0m  config/environments/test.rb\r\n"
+    ],
+    [
+      0.001792,
+      "\u001b[1m\u001b[32m      create\u001b[0m  config/initializers\r\n"
+    ],
+    [
+      0.001407,
+      "\u001b[1m\u001b[32m      create\u001b[0m  config/initializers/assets.rb\r\n"
+    ],
+    [
+      0.001522,
+      "\u001b[1m\u001b[32m      create\u001b[0m  config/initializers/backtrace_silencers.rb\r\n"
+    ],
+    [
+      0.001524,
+      "\u001b[1m\u001b[32m      create\u001b[0m  config/initializers/cookies_serializer.rb\r\n"
+    ],
+    [
+      0.001066,
+      "\u001b[1m\u001b[32m      create\u001b[0m  config/initializers/filter_parameter_logging.rb\r\n"
+    ],
+    [
+      0.001745,
+      "\u001b[1m\u001b[32m      create\u001b[0m  config/initializers/inflections.rb\r\n"
+    ],
+    [
+      0.000838,
+      "\u001b[1m\u001b[32m      create\u001b[0m  config/initializers/mime_types.rb\r\n"
+    ],
+    [
+      0.001397,
+      "\u001b[1m\u001b[32m      create\u001b[0m  config/initializers/session_store.rb\r\n"
+    ],
+    [
+      0.001815,
+      "\u001b[1m\u001b[32m      create\u001b[0m  config/initializers/wrap_parameters.rb\r\n"
+    ],
+    [
+      0.001859,
+      "\u001b[1m\u001b[32m      create\u001b[0m  config/locales\r\n"
+    ],
+    [
+      0.001940,
+      "\u001b[1m\u001b[32m      create\u001b[0m  config/locales/en.yml\r\n"
+    ],
+    [
+      0.002943,
+      "\u001b[1m\u001b[32m      create\u001b[0m  config/boot.rb\r\n"
+    ],
+    [
+      0.003548,
+      "\u001b[1m\u001b[32m      create\u001b[0m  config/database.yml\r\n"
+    ],
+    [
+      0.002591,
+      "\u001b[1m\u001b[32m      create\u001b[0m  db\r\n"
+    ],
+    [
+      0.001385,
+      "\u001b[1m\u001b[32m      create\u001b[0m  db/seeds.rb\r\n"
+    ],
+    [
+      0.001956,
+      "\u001b[1m\u001b[32m      create\u001b[0m  lib\r\n"
+    ],
+    [
+      0.000755,
+      "\u001b[1m\u001b[32m      create\u001b[0m  lib/tasks\r\n"
+    ],
+    [
+      0.000134,
+      "\u001b[1m\u001b[32m      create\u001b[0m  lib/tasks/.keep\r\n"
+    ],
+    [
+      0.000527,
+      "\u001b[1m\u001b[32m      create\u001b[0m  lib/assets\r\n"
+    ],
+    [
+      0.000364,
+      "\u001b[1m\u001b[32m      create\u001b[0m  lib/assets/.keep\r\n"
+    ],
+    [
+      0.000823,
+      "\u001b[1m\u001b[32m      create\u001b[0m  log\r\n"
+    ],
+    [
+      0.000334,
+      "\u001b[1m\u001b[32m      create\u001b[0m  log/.keep\r\n"
+    ],
+    [
+      0.001274,
+      "\u001b[1m\u001b[32m      create\u001b[0m  public\r\n"
+    ],
+    [
+      0.000918,
+      "\u001b[1m\u001b[32m      create\u001b[0m  public/404.html\r\n"
+    ],
+    [
+      0.001487,
+      "\u001b[1m\u001b[32m      create\u001b[0m  public/422.html\r\n"
+    ],
+    [
+      0.001415,
+      "\u001b[1m\u001b[32m      create\u001b[0m  public/500.html\r\n"
+    ],
+    [
+      0.001402,
+      "\u001b[1m\u001b[32m      create\u001b[0m  public/favicon.ico\r\n"
+    ],
+    [
+      0.001196,
+      "\u001b[1m\u001b[32m      create\u001b[0m  public/robots.txt\r\n"
+    ],
+    [
+      0.001385,
+      "\u001b[1m\u001b[32m      create\u001b[0m  test/fixtures\r\n"
+    ],
+    [
+      0.000928,
+      "\u001b[1m\u001b[32m      create\u001b[0m  test/fixtures/.keep\r\n"
+    ],
+    [
+      0.000435,
+      "\u001b[1m\u001b[32m      create\u001b[0m  test/controllers\r\n"
+    ],
+    [
+      0.000291,
+      "\u001b[1m\u001b[32m      create\u001b[0m  test/controllers/.keep\r\n"
+    ],
+    [
+      0.000527,
+      "\u001b[1m\u001b[32m      create\u001b[0m  test/mailers\r\n"
+    ],
+    [
+      0.000263,
+      "\u001b[1m\u001b[32m      create\u001b[0m  test/mailers/.keep\r\n"
+    ],
+    [
+      0.000399,
+      "\u001b[1m\u001b[32m      create\u001b[0m  test/models\r\n"
+    ],
+    [
+      0.000295,
+      "\u001b[1m\u001b[32m      create\u001b[0m  test/models/.keep\r\n"
+    ],
+    [
+      0.000469,
+      "\u001b[1m\u001b[32m      create\u001b[0m  test/helpers\r\n"
+    ],
+    [
+      0.000279,
+      "\u001b[1m\u001b[32m      create\u001b[0m  test/helpers/.keep\r\n"
+    ],
+    [
+      0.000446,
+      "\u001b[1m\u001b[32m      create\u001b[0m  test/integration\r\n"
+    ],
+    [
+      0.000265,
+      "\u001b[1m\u001b[32m      create\u001b[0m  test/integration/.keep\r\n"
+    ],
+    [
+      0.000718,
+      "\u001b[1m\u001b[32m      create\u001b[0m  test/test_helper.rb\r\n"
+    ],
+    [
+      0.001907,
+      "\u001b[1m\u001b[32m      create\u001b[0m  tmp/cache\r\n"
+    ],
+    [
+      0.000854,
+      "\u001b[1m\u001b[32m      create\u001b[0m  tmp/cache/assets\r\n"
+    ],
+    [
+      0.003478,
+      "\u001b[1m\u001b[32m      create\u001b[0m  vendor/assets/javascripts\r\n\u001b[1m\u001b[32m      create\u001b[0m  vendor/assets/javascripts/.keep\r\n\u001b[1m\u001b[32m      create\u001b[0m  vendor/assets/stylesheets\r\n\u001b[1m\u001b[32m      create\u001b[0m  vendor/assets/stylesheets/.keep\r\n"
+    ],
+    [
+      0.001448,
+      "\u001b[1m\u001b[32m         run\u001b[0m  bundle install\r\n"
+    ],
+    [
+      8.428282,
+      "Fetching gem metadata from https://rubygems.org/............\r\nFetching additional metadata from https://rubygems.org/..\r\nResolving dependencies...\r\nUsing rake 10.4.2\r\nUsing i18n 0.7.0\r\nUsing json 1.8.2\r\nUsing minitest 5.6.1\r\nUsing thread_safe 0.3.5\r\nUsing tzinfo 1.2.2\r\nUsing activesupport 4.1.5\r\nUsing builder 3.2.2\r\nUsing erubis 2.7.0\r\nUsing actionview 4.1.5\r\nUsing rack 1.5.3\r\nUsing rack-test 0.6.3\r\nUsing actionpack 4.1.5\r\nUsing mime-types 1.25.1\r\nUsing polyglot 0.3.5\r\nUsing treetop 1.4.15\r\nUsing mail 2.5.4\r\nUsing actionmailer 4.1.5\r\nUsing activemodel 4.1.5\r\nUsing arel 5.0.1.20140414130214\r\nUsing activerecord 4.1.5\r\nUsing bundler 1.6.2\r\nUsing coffee-script-source 1.9.1.1\r\nUsing execjs 2.5.2\r\nUsing coffee-script 2.4.1\r\nUsing thor 0.19.1\r\nUsing railties 4.1.5\r\nUsing coffee-rails 4.0.1\r\nUsing hike 1.2.3\r\nUsing multi_json 1.11.0\r\nUsing jbuilder 2.2.13\r\nUsing jquery-rails 3.1.2\r\nUsing tilt 1.4.1\r\nUsing sprockets 2.12.3\r\nUsing sprockets-rails 2.3.1\r\nUsing rails 4.1.5\r\nUsing rdoc 4.2.0\r\nUsing sass 3.2.19\r\nUsing sass"
+    ],
+    [
+      0.000016,
+      "-rails 4.0.5\r\nUsing sdoc 0.4.1\r\nUsing spring 1.3.6\r\nUsing sqlite3 1.3.10\r\nUsing turbolinks 2.5.3\r\nUsing uglifier 2.7.1\r\nYour bundle is complete!\r\nUse `bundle show [gemname]` to see where a bundled gem is installed.\r\n"
+    ],
+    [
+      0.001467,
+      "\u001b[1m\u001b[32m         run\u001b[0m  bundle exec spring binstub --all\r\n"
+    ],
+    [
+      1.112988,
+      "* bin/rake: spring inserted\r\n* bin/rails: spring inserted\r\n"
+    ],
+    [
+      0.022904,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                               \r \r"
+    ],
+    [
+      0.000243,
+      "\u001b]2;mmcdaris@mcretina: ~/projects\u0007\u001b]1;~/projects\u0007"
+    ],
+    [
+      0.019744,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36mprojects \u001b[01;34m\u001b[01;34m \u001b[00m\u001b[K"
+    ],
+    [
+      0.000093,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.629357,
+      "c"
+    ],
+    [
+      0.007468,
+      "\u0008cd"
+    ],
+    [
+      0.344077,
+      " "
+    ],
+    [
+      1.047976,
+      "airbrake_test"
+    ],
+    [
+      1.191979,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000096,
+      "\r\r\n"
+    ],
+    [
+      0.001301,
+      "\u001b]2;cd airbrake_test\u0007"
+    ],
+    [
+      0.000011,
+      "\u001b]1;cd\u0007"
+    ],
+    [
+      0.056222,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                               \r \r"
+    ],
+    [
+      0.000327,
+      "\u001b]2;mmcdaris@mcretina: ~/projects/airbrake_test\u0007\u001b]1;..airbrake_test\u0007"
+    ],
+    [
+      0.022340,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36mairbrake_test \u001b[01;34m\u001b[01;34m \u001b[00m\u001b[K"
+    ],
+    [
+      0.000068,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.471813,
+      "v"
+    ],
+    [
+      0.135953,
+      "\u0008vi"
+    ],
+    [
+      0.095682,
+      "m"
+    ],
+    [
+      0.279984,
+      " "
+    ],
+    [
+      0.448239,
+      "G"
+    ],
+    [
+      0.199830,
+      "e"
+    ],
+    [
+      0.112149,
+      "m"
+    ],
+    [
+      0.311299,
+      "file"
+    ],
+    [
+      0.368423,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000069,
+      "\r\r\n"
+    ],
+    [
+      0.001293,
+      "\u001b]2;vim Gemfile\u0007\u001b]1;vim\u0007"
+    ],
+    [
+      1.442018,
+      "\u001b[?1049h\u001b[?1h\u001b="
+    ],
+    [
+      0.000021,
+      "\u001b[2;1H▽\u001b[6n"
+    ],
+    [
+      0.000023,
+      "\u001b[2;1H  \u001b[1;1H"
+    ],
+    [
+      0.001732,
+      "\u001b[1;36r\u001b[?12;25h\u001b[?12l\u001b[?25h\u001b[27m\u001b[m\u001b[H\u001b[2J\u001b[?25l\u001b[36;1H\"Gemfile\""
+    ],
+    [
+      0.000118,
+      " 40L, 1339C"
+    ],
+    [
+      0.491011,
+      "\r[WakaTime] Setup complete! Visit http://wakatime.com to view your logged time."
+    ],
+    [
+      0.019352,
+      "\r\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.023168,
+      "\u001b[\u003ec"
+    ],
+    [
+      0.769230,
+      "\u001b[1;1H\u001b[38;5;232m\u001b[48;5;144m ¹Gemfile \u001b[m\u001b[38;5;144m\u001b[48;5;67m\u001b[m\u001b[38;5;253m\u001b[48;5;67m                                                                                          \u001b[m\u001b[38;5;67m\u001b[48;5;67m\u001b[m\u001b[38;5;208m\u001b[48;5;67m\u001b[m\u001b[38;5;232m\u001b[48;5;208m buffers \u001b[?25l\u001b[m\u001b[2;1H\u001b[38;5;130m 17 \u001b[m\u001b[36m\u001b[47ms\u001b[m\u001b[36mource\u001b[m \u001b[35m'\u001b[m\u001b[31mhttps://rubygems.org\u001b[m\u001b[35m'\u001b[m\u001b[50C\u001b[48;5;224m \u001b[m\r\n\u001b[38;5;130m 16 \u001b[m\u001b[47m \u001b[m\u001b[78C\u001b[48;5;224m \u001b[m\r\n\u001b[38;5;130m 15 \u001b[m\u001b[47m \u001b[m\u001b[78C\u001b[48;5;224m \u001b[m\r\n\u001b[38;5;130m 14 \u001b[m\u001b[34m\u001b[47m#\u001b[m\u001b[34m Bundle edge Rails instead: gem 'rails', github: 'rails/rails'\u001b[m\u001b[16C\u001b[48;5;224m \u001b[m\r\n\u001b[38;5;130m 13 \u001b[m\u001b[36m\u001b[47mg\u001b[m\u001b[36mem\u001b[m \u001b[35m'\u001b[m\u001b[31mrails\u001b[m\u001b[35m'\u001b[m, \u001b[35m'\u001b[m\u001b[31m4.1.5\u001b[m\u001b[35m'\u001b[m\u001b[59C\u001b[48;5;224m \u001b[m\r\n\u001b[38;5;130m 12 \u001b[m\u001b[34m\u001b[47m#\u001b[m\u001b[34m Use sqlite3 as the database for Active Record\u001b[m\u001b[32C\u001b[48;5;224m \u001b[m\r\n\u001b[38;5;130m 11 \u001b[m\u001b[36m\u001b[47mg\u001b[m\u001b[36mem\u001b[m \u001b[35m'\u001b[m\u001b[31msqlite3\u001b[m\u001b[35m'\u001b[m\u001b[66C\u001b[48;5;224m \u001b[m\r\n\u001b[38;5;130m 10 \u001b[m\u001b[34m\u001b[47m#\u001b[m\u001b[34m Use SCSS for stylesheets\u001b[m\u001b[53C\u001b"
+    ],
+    [
+      0.000031,
+      "[48;5;224m \u001b[m\r\n\u001b[38;5;130m  9 \u001b[m\u001b[36m\u001b[47mg\u001b[m\u001b[36mem\u001b[m \u001b[35m'\u001b[m\u001b[31msass-rails\u001b[m\u001b[35m'\u001b[m, \u001b[35m'\u001b[m\u001b[31m~\u003e 4.0.3\u001b[m\u001b[35m'\u001b[m\u001b[51C\u001b[48;5;224m \u001b[m\r\n\u001b[38;5;130m  8 \u001b[m\u001b[34m\u001b[47m#\u001b[m\u001b[34m Use Uglifier as compressor for JavaScript assets\u001b[m\u001b[29C\u001b[48;5;224m \u001b[m\r\n\u001b[38;5;130m  7 \u001b[m\u001b[36m\u001b[47mg\u001b[m\u001b[36mem\u001b[m \u001b[35m'\u001b[m\u001b[31muglifier\u001b[m\u001b[35m'\u001b[m, \u001b[35m'\u001b[m\u001b[31m\u003e= 1.3.0\u001b[m\u001b[35m'\u001b[m\u001b[53C\u001b[48;5;224m \u001b[m\r\n\u001b[38;5;130m  6 \u001b[m\u001b[34m\u001b[47m#\u001b[m\u001b[34m Use CoffeeScript for .js.coffee assets and views\u001b[m\u001b[29C\u001b[48;5;224m \u001b[m\r\n\u001b[38;5;130m  5 \u001b[m\u001b[36m\u001b[47mg\u001b[m\u001b[36mem\u001b[m \u001b[35m'\u001b[m\u001b[31mcoffee-rails\u001b[m\u001b[35m'\u001b[m, \u001b[35m'\u001b[m\u001b[31m~\u003e 4.0.0\u001b[m\u001b[35m'\u001b[m\u001b[49C\u001b[48;5;224m \u001b[m\r\n\u001b[38;5;130m  4 \u001b[m\u001b[34m\u001b[47m#\u001b[m\u001b[34m See https://github.com/sstephenson/execjs#readme for more supported runtimes\u001b[m \u001b[48;5;224m \u001b[m\r\n\u001b[38;5;130m  3 \u001b[m\u001b[34m\u001b[47m#\u001b[m\u001b[34m gem 'therubyracer',  platforms: :ruby\u001b[m\u001b[40C\u001b[48;5;224m \u001b[m\r\n\u001b[38;5;130m  2 \u001b[m\u001b[47m \u001b[m\u001b[78C\u001b[48;5;224m \u001b[m\r\n\u001b[38;5;130m  1 \u001b[m\u001b[34m\u001b[47m#\u001b[m\u001b[34m Use jquery as the JavaScript library"
+    ],
+    [
+      0.015916,
+      "\u001b[m\u001b[41C\u001b[48;5;224m \u001b[m\r\n\u001b[38;5;130m18  \u001b[m\u001b[36mgem\u001b[m \u001b[35m'\u001b[m\u001b[31mjquery-rails\u001b[m\u001b[35m'\u001b[m\u001b[61C\u001b[48;5;224m \u001b[m\r\n\u001b[38;5;130m  1 \u001b[m\u001b[34m\u001b[47m#\u001b[m\u001b[34m Turbolinks makes following links in your web application faster. Read more: h\u001b[m\u001b[34m\u001b[48;5;224mt\u001b[m\u001b[34mtps://github.com/rails/turb\u001b[m\u001b[94m\u003e\u001b[m\u001b[21;1H\u001b[38;5;130m  2 \u001b[m\u001b[36m\u001b[47mg\u001b[m\u001b[36mem\u001b[m \u001b[35m'\u001b[m\u001b[31mturbolinks\u001b[m\u001b[35m'\u001b[m\u001b[63C\u001b[48;5;224m \u001b[m\r\n\u001b[38;5;130m  3 \u001b[m\u001b[34m\u001b[47m#\u001b[m\u001b[34m Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder\u001b[m      \u001b[48;5;224m \u001b[m\r\n\u001b[38;5;130m  4 \u001b[m\u001b[36m\u001b[47mg\u001b[m\u001b[36mem\u001b[m \u001b[35m'\u001b[m\u001b[31mjbuilder\u001b[m\u001b[35m'\u001b[m, \u001b[35m'\u001b[m\u001b[31m~\u003e 2.0\u001b[m\u001b[35m'\u001b[m\u001b[55C\u001b[48;5;224m \u001b[m\r\n\u001b[38;5;130m  5 \u001b[m\u001b[34m\u001b[47m#\u001b[m\u001b[34m bundle exec rake doc:rails generates the API under doc/api.\u001b[m\u001b[18C\u001b[48;5;224m \u001b[m\r\n\u001b[38;5;130m  6 \u001b[m\u001b[36m\u001b[47mg\u001b[m\u001b[36mem\u001b[m \u001b[35m'\u001b[m\u001b[31msdoc\u001b[m\u001b[35m'\u001b[m, \u001b[35m'\u001b[m\u001b[31m~\u003e 0.4.0\u001b[m\u001b[35m'\u001b[m,\u001b[10C\u001b[31mgroup\u001b[m: \u001b[31m:doc\u001b[m\u001b[35C\u001b[48;5;224m \u001b[m\r\n\u001b[38;5;130m  7 \u001b[m\u001b[47m \u001b[m\u001b[78C\u001b[48;5;224m \u001b[m\r\n\u001b[38;5;130m  8 \u001b"
+    ],
+    [
+      0.000025,
+      "[m\u001b[34m\u001b[47m#\u001b[m\u001b[34m Spring speeds up development by keeping your application running in the backg\u001b[m\u001b[34m\u001b[48;5;224mr\u001b[m\u001b[34mound. Read more: https://gi\u001b[m\u001b[94m\u003e\u001b[m\u001b[28;1H\u001b[38;5;130m  9 \u001b[m\u001b[36m\u001b[47mg\u001b[m\u001b[36mem\u001b[m \u001b[35m'\u001b[m\u001b[31mspring\u001b[m\u001b[35m'\u001b[m,\u001b[8C\u001b[31mgroup\u001b[m: \u001b[31m:development\u001b[m\u001b[39C\u001b[48;5;224m \u001b[m\r\n\u001b[38;5;130m 10 \u001b[m\u001b[47m \u001b[m\u001b[78C\u001b[48;5;224m \u001b[m\r\n\u001b[38;5;130m 11 \u001b[m\u001b[34m\u001b[47m#\u001b[m\u001b[34m Use ActiveModel has_secure_password\u001b[m\u001b[42C\u001b[48;5;224m \u001b[m\r\n\u001b[38;5;130m 12 \u001b[m\u001b[34m\u001b[47m#\u001b[m\u001b[34m gem 'bcrypt', '~\u003e 3.1.7'\u001b[m\u001b[53C\u001b[48;5;224m \u001b[m\r\n\u001b[38;5;130m 13 \u001b[m\u001b[47m \u001b[m\u001b[78C\u001b[48;5;224m \u001b[m\r\n\u001b[38;5;130m 14 \u001b[m\u001b[34m\u001b[47m#\u001b[m\u001b[34m Use unicorn as the app server\u001b[m\u001b[48C\u001b[48;5;224m \u001b[m\r\n\u001b[38;5;130m 15 \u001b[m\u001b[34m\u001b[47m#\u001b[m\u001b[34m gem 'unicorn'\u001b[m\u001b[64C\u001b[48;5;224m "
+    ],
+    [
+      0.099475,
+      "\u001b[m\r\n\u001b[38;5;232m\u001b[48;5;144m \u001b[m\u001b[1m\u001b[38;5;232m\u001b[48;5;144mNORMAL\u001b[m\u001b[38;5;232m\u001b[48;5;144m \u001b[m\u001b[38;5;144m\u001b[48;5;16m\u001b[m\u001b[38;5;16m\u001b[48;5;67m\u001b[m\u001b[38;5;253m\u001b[48;5;67m \u001b[m\u001b[1m Gemfile  \u001b[m\u001b[38;5;253m\u001b[48;5;67m                                                    \u001b[m\u001b[38;5;67m\u001b[48;5;67m\u001b[m\u001b[38;5;253m\u001b[48;5;67m ruby \u001b[m\u001b[38;5;16m\u001b[48;5;67m\u001b[m\u001b[38;5;253m\u001b[48;5;16m utf-8[unix] \u001b[m\u001b[38;5;144m\u001b[48;5;16m\u001b[m\u001b[38;5;232m\u001b[48;5;144m  45% \u001b[m\u001b[1m\u001b[38;5;232m\u001b[48;5;144m  18\u001b[m\u001b[38;5;232m\u001b[48;5;144m:  1  \u001b]2;vim: Gemfile\u0007"
+    ],
+    [
+      0.001944,
+      "\u001b[m\u001b[35;13H\u001b[1m1:Gemfile  \u001b[19;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.617700,
+      "\u001b[?25l\u001b[m\u001b[2;3H\u001b[38;5;130m6\r\n 15\r\n 14\r\n 13\r\n 12\r\n 11\r\n 10\r\n  9\r\n  8\r\n  7\r\n  6\r\n  5\r\n  4\r\n  3\r\n  2\r\n  1\r\n17 \u001b[m\u001b[1C\u001b[34m#\u001b[m\r\n\u001b[38;5;130m  1\u001b[m\u001b[1C\u001b[36m\u001b[47mg\u001b[m\u001b[20;3H\u001b[38;5;130m2\r\n  3\r\n  4\r\n  5\r\n  6\r\n  7\r\n  8\r\n  9\r\n 10\r\n 11\r\n 12\r\n 13\r\n 14\r\n 15\r\n 16\u001b[m\u001b[35;99H\u001b[38;5;232m\u001b[48;5;144m2\u001b[m\u001b[6C\u001b[1m\u001b[38;5;232m\u001b[48;5;144m7\u001b[m\u001b[38;5;232m\u001b[48;5;144m:\u001b[18;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.001615,
+      "\u001b[?25l\u001b[m\u001b[36;1H1:Gemfile \u001b[36;12H\u001b[K"
+    ],
+    [
+      0.026103,
+      "\u001b]2;vim: Gemfile\u0007"
+    ],
+    [
+      0.024139,
+      "\u001b]2;vim: Gemfile\u0007"
+    ],
+    [
+      0.005978,
+      "\u001b[18;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.142430,
+      "\u001b[?25l\u001b[2;3H\u001b[38;5;130m5\r\n 14\r\n 13\r\n 12\r\n 11\r\n 10\r\n  9\r\n  8\r\n  7\r\n  6\r\n  5\r\n  4\r\n  3\r\n  2\r\n  1\r\n16 \r\n  1\u001b[m\u001b[1C\u001b[34m\u001b[47m#\u001b[m\u001b[19;3H\u001b[38;5;130m2\r\n  3\r\n  4\r\n  5\r\n  6\r\n  7\r\n  8\r\n  9\r\n 10\r\n 11\r\n 12\r\n 13\r\n 14\r\n 15\r\n 16\r\n 17\u001b[m\u001b[35;99H\u001b[38;5;232m\u001b[48;5;144m0\u001b[m\u001b[6C\u001b[1m\u001b[38;5;232m\u001b[48;5;144m6\u001b[m\u001b[38;5;232m\u001b[48;5;144m:\u001b[17;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.031826,
+      "\u001b[?25l\u001b[m\u001b[2;3H\u001b[38;5;130m4\r\n 13\r\n 12\r\n 11\r\n 10\r\n  9\r\n  8\r\n  7\r\n  6\r\n  5\r\n  4\r\n  3\r\n  2\r\n  1\r\n15 \u001b[m\u001b[1C\u001b[34m#\u001b[m\r\n\u001b[38;5;130m  1\r\n  2\r\n  3\r\n  4\r\n  5\r\n  6\r\n  7\r\n  8\r\n  9\r\n 10\r\n 11\r\n 12\r\n 13\r\n 14\r\n 15\r\n 16\r\n 17\r\n 18\u001b[m\u001b[35;98H\u001b[38;5;232m\u001b[48;5;144m37\u001b[m\u001b[6C\u001b[1m\u001b[38;5;232m\u001b[48;5;144m5\u001b[m\u001b[38;5;232m\u001b[48;5;144m:\u001b[16;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.041572,
+      "\u001b[?25l\u001b[m\u001b[2;3H\u001b[38;5;130m3\r\n 12\r\n 11\r\n 10\r\n  9\r\n  8\r\n  7\r\n  6\r\n  5\r\n  4\r\n  3\r\n  2\r\n  1\r\n14 \u001b[m\u001b[1C\u001b[34m#\u001b[m\r\n\u001b[38;5;130m  1\u001b[m\u001b[1C\u001b[34m\u001b[47m#\u001b[m\u001b[17;3H\u001b[38;5;130m2\r\n  3\r\n  4\r\n  5\r\n  6\r\n  7\r\n  8\r\n  9\r\n 10\r\n 11\r\n 12\r\n 13\r\n 14\r\n 15\r\n 16\r\n 17\r\n 18\r\n 19\u001b[m\u001b[35;99H\u001b[38;5;232m\u001b[48;5;144m5\u001b[m\u001b[6C\u001b[1m\u001b[38;5;232m\u001b[48;5;144m4\u001b[m\u001b[38;5;232m\u001b[48;5;144m:\u001b[15;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.025879,
+      "\u001b[?25l\u001b[m\u001b[2;3H\u001b[38;5;130m2\r\n 11\r\n 10\r\n  9\r\n  8\r\n  7\r\n  6\r\n  5\r\n  4\r\n  3\r\n  2\r\n  1\r\n13 \u001b[m\u001b[1C\u001b[36mg\u001b[m\r\n\u001b[38;5;130m  1\u001b[m\u001b[1C\u001b[34m\u001b[47m#\u001b[m\u001b[16;3H\u001b[38;5;130m2\r\n  3\r\n  4\r\n  5\r\n  6\r\n  7\r\n  8\r\n  9\r\n 10\r\n 11\r\n 12\r\n 13\r\n 14\r\n 15\r\n 16\r\n 17\r\n 18\r\n 19\r\n 20\u001b[m\u001b[35;99H\u001b[38;5;232m\u001b[48;5;144m2\u001b[m\u001b[6C\u001b[1m\u001b[38;5;232m\u001b[48;5;144m3\u001b[m\u001b[38;5;232m\u001b[48;5;144m:\u001b[14;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.030537,
+      "\u001b[?25l\u001b[m\u001b[2;3H\u001b[38;5;130m1\r\n 10\r\n  9\r\n  8\r\n  7\r\n  6\r\n  5\r\n  4\r\n  3\r\n  2\r\n  1\r\n12 \u001b[m\u001b[1C\u001b[34m#\u001b[m\r\n\u001b[38;5;130m  1\u001b[m\u001b[1C\u001b[36m\u001b[47mg\u001b[m\u001b[15;3H\u001b[38;5;130m2\r\n  3\r\n  4\r\n  5\r\n  6\r\n  7\r\n  8\r\n  9\r\n 10\r\n 11\r\n 12\r\n 13\r\n 14\r\n 15\r\n 16\r\n 17\r\n 18\r\n 19\r\n 20\r\n 21\u001b[m\u001b[35;99H\u001b[38;5;232m\u001b[48;5;144m0\u001b[m\u001b[6C\u001b[1m\u001b[38;5;232m\u001b[48;5;144m2\u001b[m\u001b[38;5;232m\u001b[48;5;144m:\u001b[13;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028225,
+      "\u001b[?25l\u001b[m\u001b[2;3H\u001b[38;5;130m0\r\n  9\r\n  8\r\n  7\r\n  6\r\n  5\r\n  4\r\n  3\r\n  2\r\n  1\r\n11 \u001b[m\u001b[1C\u001b[36mg\u001b[m\r\n\u001b[38;5;130m  1\u001b[m\u001b[1C\u001b[34m\u001b[47m#\u001b[m\u001b[14;3H\u001b[38;5;130m2\r\n  3\r\n  4\r\n  5\r\n  6\r\n  7\r\n  8\r\n  9\r\n 10\r\n 11\r\n 12\r\n 13\r\n 14\r\n 15\r\n 16\r\n 17\r\n 18\r\n 19\r\n 20\r\n 21\r\n 22\u001b[m\u001b[35;98H\u001b[38;5;232m\u001b[48;5;144m27\u001b[m\u001b[6C\u001b[1m\u001b[38;5;232m\u001b[48;5;144m1\u001b[m\u001b[38;5;232m\u001b[48;5;144m:\u001b[12;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.048778,
+      "\u001b[?25l\u001b[m\u001b[2;2H\u001b[38;5;130m 9\r\n  8\r\n  7\r\n  6\r\n  5\r\n  4\r\n  3\r\n  2\r\n  1\r\n10 \u001b[m\u001b[1C\u001b[34m#\u001b[m\r\n\u001b[38;5;130m  1\u001b[m\u001b[1C\u001b[36m\u001b[47mg\u001b[m\u001b[13;3H\u001b[38;5;130m2\r\n  3\r\n  4\r\n  5\r\n  6\r\n  7\r\n  8\r\n  9\r\n 10\r\n 11\r\n 12\r\n 13\r\n 14\r\n 15\r\n 16\r\n 17\r\n 18\r\n 19\r\n 20\r\n 21\r\n 22\r\n 23\u001b[m\u001b[35;99H\u001b[38;5;232m\u001b[48;5;144m5\u001b[m\u001b[6C\u001b[1m\u001b[38;5;232m\u001b[48;5;144m0\u001b[m\u001b[38;5;232m\u001b[48;5;144m:\u001b[11;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.032513,
+      "\u001b[?25l\u001b[m\u001b[2;3H\u001b[38;5;130m8\r\n  7\r\n  6\r\n  5\r\n  4\r\n  3\r\n  2\r\n  1\r\n9  \u001b[m\u001b[1C\u001b[36mg\u001b[m\r\n\u001b[38;5;130m  1\u001b[m\u001b[1C\u001b[34m\u001b[47m#\u001b[m\u001b[12;3H\u001b[38;5;130m2\r\n  3\r\n  4\r\n  5\r\n  6\r\n  7\r\n  8\r\n  9\r\n 10\r\n 11\r\n 12\r\n 13\r\n 14\r\n 15\r\n 16\r\n 17\r\n 18\r\n 19\r\n 20\r\n 21\r\n 22\r\n 23\r\n 24\u001b[m\u001b[35;99H\u001b[38;5;232m\u001b[48;5;144m2\u001b[m\u001b[5C\u001b[1m\u001b[38;5;232m\u001b[48;5;144m 9\u001b[m\u001b[38;5;232m\u001b[48;5;144m:\u001b[10;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.031398,
+      "\u001b[?25l\u001b[m\u001b[2;3H\u001b[38;5;130m7\r\n  6\r\n  5\r\n  4\r\n  3\r\n  2\r\n  1\r\n8  \u001b[m\u001b[1C\u001b[34m#\u001b[m\r\n\u001b[38;5;130m  1\u001b[m\u001b[1C\u001b[36m\u001b[47mg\u001b[m\u001b[11;3H\u001b[38;5;130m2\r\n  3\r\n  4\r\n  5\r\n  6\r\n  7\r\n  8\r\n  9\r\n 10\r\n 11\r\n 12\r\n 13\r\n 14\r\n 15\r\n 16\r\n 17\r\n 18\r\n 19\r\n 20\r\n 21\r\n 22\r\n 23\r\n 24\r\n 25\u001b[m\u001b[35;99H\u001b[38;5;232m\u001b[48;5;144m0\u001b[m\u001b[6C\u001b[1m\u001b[38;5;232m\u001b[48;5;144m8\u001b[m\u001b[38;5;232m\u001b[48;5;144m:\u001b[9;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027327,
+      "\u001b[?25l\u001b[m\u001b[2;3H\u001b[38;5;130m6\r\n  5\r\n  4\r\n  3\r\n  2\r\n  1\r\n7  \u001b[m\u001b[1C\u001b[36mg\u001b[m\r\n\u001b[38;5;130m  1\u001b[m\u001b[1C\u001b[34m\u001b[47m#\u001b[m\u001b[10;3H\u001b[38;5;130m2\r\n  3\r\n  4\r\n  5\r\n  6\r\n  7\r\n  8\r\n  9\r\n 10\r\n 11\r\n 12\r\n 13\r\n 14\r\n 15\r\n 16\r\n 17\r\n 18\r\n 19\r\n 20\r\n 21\r\n 22\r\n 23\r\n 24\r\n 25\r\n 26\u001b[m\u001b[35;98H\u001b[38;5;232m\u001b[48;5;144m17\u001b[m\u001b[6C\u001b[1m\u001b[38;5;232m\u001b[48;5;144m7\u001b[m\u001b[38;5;232m\u001b[48;5;144m:\u001b[8;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029381,
+      "\u001b[?25l\u001b[m\u001b[2;3H\u001b[38;5;130m5\r\n  4\r\n  3\r\n  2\r\n  1\r\n6  \u001b[m\u001b[1C\u001b[34m#\u001b[m\r\n\u001b[38;5;130m  1\u001b[m\u001b[1C\u001b[36m\u001b[47mg\u001b[m\u001b[9;3H\u001b[38;5;130m2\r\n  3\r\n  4\r\n  5\r\n  6\r\n  7\r\n  8\r\n  9\r\n 10\r\n 11\r\n 12\r\n 13\r\n 14\r\n 15\r\n 16\r\n 17\r\n 18\r\n 19\r\n 20\r\n 21\r\n 22\r\n 23\r\n 24\r\n 25\r\n 26\r\n 27\u001b[m\u001b[35;99H\u001b[38;5;232m\u001b[48;5;144m5\u001b[m\u001b[6C\u001b[1m\u001b[38;5;232m\u001b[48;5;144m6\u001b[m\u001b[38;5;232m\u001b[48;5;144m:\u001b[7;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.026327,
+      "\u001b[?25l\u001b[m\u001b[2;3H\u001b[38;5;130m4\r\n  3\r\n  2\r\n  1\r\n5  \u001b[m\u001b[1C\u001b[36mg\u001b[m\r\n\u001b[38;5;130m  1\u001b[m\u001b[1C\u001b[34m\u001b[47m#\u001b[m\u001b[8;3H\u001b[38;5;130m2\r\n  3\r\n  4\r\n  5\r\n  6\r\n  7\r\n  8\r\n  9\r\n 10\r\n 11\r\n 12\r\n 13\r\n 14\r\n 15\r\n 16\r\n 17\r\n 18\r\n 19\r\n 20\r\n 21\r\n 22\r\n 23\r\n 24\r\n 25\r\n 26\r\n 27\r\n 28\u001b[m\u001b[35;99H\u001b[38;5;232m\u001b[48;5;144m2\u001b[m\u001b[6C\u001b[1m\u001b[38;5;232m\u001b[48;5;144m5\u001b[m\u001b[38;5;232m\u001b[48;5;144m:\u001b[6;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028017,
+      "\u001b[?25l\u001b[m\u001b[2;3H\u001b[38;5;130m3\r\n  2\r\n  1\r\n4  \u001b[m\u001b[1C\u001b[34m#\u001b[m\r\n\u001b[38;5;130m  1\u001b[m\u001b[1C\u001b[36m\u001b[47mg\u001b[m\u001b[7;3H\u001b[38;5;130m2\r\n  3\r\n  4\r\n  5\r\n  6\r\n  7\r\n  8\r\n  9\r\n 10\r\n 11\r\n 12\r\n 13\r\n 14\r\n 15\r\n 16\r\n 17\r\n 18\r\n 19\r\n 20\r\n 21\r\n 22\r\n 23\r\n 24\r\n 25\r\n 26\r\n 27\r\n 28\r\n 29\u001b[m\u001b[35;99H\u001b[38;5;232m\u001b[48;5;144m0\u001b[m\u001b[6C\u001b[1m\u001b[38;5;232m\u001b[48;5;144m4\u001b[m\u001b[38;5;232m\u001b[48;5;144m:\u001b[5;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.021646,
+      "\u001b[?25l\u001b[m\u001b[2;3H\u001b[38;5;130m2\r\n  1\r\n3  \r\n  1\u001b[m\u001b[1C\u001b[34m\u001b[47m#\u001b[m\u001b[6;3H\u001b[38;5;130m2\r\n  3\r\n  4\r\n  5\r\n  6\r\n  7\r\n  8\r\n  9\r\n 10\r\n 11\r\n 12\r\n 13\r\n 14\r\n 15\r\n 16\r\n 17\r\n 18\r\n 19\r\n 20\r\n 21\r\n 22\r\n 23\r\n 24\r\n 25\r\n 26\r\n 27\r\n 28\r\n 29\r\n 30\u001b[m\u001b[35;98H\u001b[38;5;232m\u001b[48;5;144m 7\u001b[m\u001b[6C\u001b[1m\u001b[38;5;232m\u001b[48;5;144m3\u001b[m\u001b[38;5;232m\u001b[48;5;144m:\u001b[4;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.024481,
+      "\u001b[?25l\u001b[m\u001b[2;3H\u001b[38;5;130m1\r\n2  \r\n  1\r\n  2\r\n  3\r\n  4\r\n  5\r\n  6\r\n  7\r\n  8\r\n  9\r\n 10\r\n 11\r\n 12\r\n 13\r\n 14\r\n 15\r\n 16\r\n 17\r\n 18\r\n 19\r\n 20\r\n 21\r\n 22\r\n 23\r\n 24\r\n 25\r\n 26\r\n 27\r\n 28\r\n 29\r\n 30\r\n 31\u001b[m\u001b[35;99H\u001b[38;5;232m\u001b[48;5;144m5\u001b[m\u001b[6C\u001b[1m\u001b[38;5;232m\u001b[48;5;144m2\u001b[m\u001b[38;5;232m\u001b[48;5;144m:\u001b[3;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028631,
+      "\u001b[?25l\u001b[m\u001b[2;1H\u001b[38;5;130m1  \u001b[m\u001b[1C\u001b[36ms\u001b[m\r\n\u001b[38;5;130m  1\r\n  2\r\n  3\r\n  4\r\n  5\r\n  6\r\n  7\r\n  8\r\n  9\r\n 10\r\n 11\r\n 12\r\n 13\r\n 14\r\n 15\r\n 16\r\n 17\r\n 18\r\n 19\r\n 20\r\n 21\r\n 22\r\n 23\r\n 24\r\n 25\r\n 26\r\n 27\r\n 28\r\n 29\r\n 30\r\n 31\r\n 32\u001b[m\u001b[35;99H\u001b[38;5;232m\u001b[48;5;144m2\u001b[m\u001b[6C\u001b[1m\u001b[38;5;232m\u001b[48;5;144m1\u001b[m\u001b[38;5;232m\u001b[48;5;144m:\u001b[2;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.348073,
+      "\u001b[?25l\u001b[m\r\u001b[38;5;130m  1\u001b[m\u001b[1C\u001b[36m\u001b[47ms\u001b[m\r\n\u001b[38;5;130m2  \r\n  1\r\n  2\r\n  3\r\n  4\r\n  5\r\n  6\r\n  7\r\n  8\r\n  9\r\n 10\r\n 11\r\n 12\r\n 13\r\n 14\r\n 15\r\n 16\r\n 17\r\n 18\r\n 19\r\n 20\r\n 21\r\n 22\r\n 23\r\n 24\r\n 25\r\n 26\r\n 27\r\n 28\r\n 29\r\n 30\r\n 31\u001b[m\u001b[35;99H\u001b[38;5;232m\u001b[48;5;144m5\u001b[m\u001b[6C\u001b[1m\u001b[38;5;232m\u001b[48;5;144m2\u001b[m\u001b[38;5;232m\u001b[48;5;144m:\u001b[3;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.288070,
+      "\u001b[?25l\u001b[m\u001b[36;1H\u001b[97m\u001b[101mneosnippet default snippets cannot be loaded."
+    ],
+    [
+      0.000130,
+      "\rYou must install neosnippet-snippets or disable runtime snippets."
+    ],
+    [
+      0.024114,
+      "\u001b[m\r\u001b[1m-- INSERT --\u001b[m\u001b[36;13H\u001b[K"
+    ],
+    [
+      0.013799,
+      "\u001b[1;1H\u001b[38;5;232m\u001b[48;5;81m ¹Gemfile+ \u001b[m\u001b[38;5;81m\u001b[48;5;67m\u001b[m\u001b[2;3H\u001b[38;5;130m2\r\n  1\r\n3  \r\n  1\u001b[m\u001b[1C\u001b[47m \u001b[m                                                              \u001b[6;3H\u001b[38;5;130m2\u001b[m\u001b[1C\u001b[34m\u001b[47m#\u001b[m\u001b[34m Bundle edge Rails instead: gem 'rails', github: 'rails/rails'\u001b[m\u001b[7;3H\u001b[38;5;130m3\u001b[m\u001b[1C\u001b[36m\u001b[47mg\u001b[m\u001b[36mem\u001b[m \u001b[35m'\u001b[m\u001b[31mrails\u001b[m\u001b[35m'\u001b[m, \u001b[35m'\u001b[m\u001b[31m4.1.5\u001b[m\u001b[35m'\u001b[m                           \u001b[8;3H\u001b[38;5;130m4\u001b[m\u001b[1C\u001b[34m\u001b[47m#\u001b[m\u001b[34m Use sqlite3 as the database for Active Record\u001b[m\u001b[9;3H\u001b[38;5;130m5\u001b[m\u001b[1C\u001b[36m\u001b[47mg\u001b[m\u001b[36mem\u001b[m \u001b[35m'\u001b[m\u001b[31msqlite3\u001b[m\u001b[35m'\u001b[m             \u001b[10;3H\u001b[38;5;130m6\u001b[m\u001b[1C\u001b[34m\u001b[47m#\u001b[m\u001b[34m Use SCSS for stylesheets\u001b[m  \u001b[11;3H\u001b[38;5;130m7\u001b[m\u001b[1C\u001b[36m\u001b[47mg\u001b[m\u001b[36mem\u001b[m \u001b[35m'\u001b[m\u001b[31msass-rails\u001b[m\u001b[35m'\u001b[m, \u001b[35m'\u001b[m\u001b[31m~\u003e 4.0.3\u001b[m\u001b[35m'\u001b[m                      \u001b[12;3H\u001b[38;5;130m8\u001b[m\u001b[1C\u001b[34m\u001b[47m#\u001b[m\u001b[34m Use Uglifier as compressor for JavaScript assets\u001b[m\u001b[13;2H\u001b[38;5;130m 9\u001b[m\u001b[1C\u001b[36m\u001b[47mg\u001b[m\u001b[36mem\u001b[m \u001b[35m'\u001b[m\u001b[31muglifier\u001b[m\u001b[35m'\u001b[m, \u001b"
+    ],
+    [
+      0.000335,
+      "[35m'\u001b[m\u001b[31m\u003e= 1.3.0\u001b[m\u001b[35m'\u001b[m                        \u001b[14;3H\u001b[38;5;130m0\u001b[m\u001b[1C\u001b[34m\u001b[47m#\u001b[m\u001b[34m Use CoffeeScript for .js.coffee assets and views\u001b[m\u001b[15;3H\u001b[38;5;130m1\u001b[m\u001b[1C\u001b[36m\u001b[47mg\u001b[m\u001b[36mem\u001b[m \u001b[35m'\u001b[m\u001b[31mcoffee-rails\u001b[m\u001b[35m'\u001b[m, \u001b[35m'\u001b[m\u001b[31m~\u003e 4.0.0\u001b[m\u001b[35m'\u001b[m                                                \u001b[16;3H\u001b[38;5;130m2\u001b[m\u001b[3C\u001b[34mSee https://github.com/sstephenson/execjs#readme for more supported runtimes\u001b[m\u001b[17;3H\u001b[38;5;130m3\u001b[m\u001b[1C\u001b[34m\u001b[47m#\u001b[m\u001b[34m gem 'therubyracer',  platforms: :ruby\u001b[m\u001b[18;3H\u001b[38;5;130m4\u001b[m\u001b[1C\u001b[47m \u001b[m                                     \u001b[19;3H\u001b[38;5;130m5\u001b[m\u001b[1C\u001b[34m\u001b[47m#\u001b[m\u001b[34m Use jquery as the JavaScript library\u001b[m\u001b[20;3H\u001b[38;5;130m6\u001b[m\u001b[1C\u001b[36m\u001b[47mg\u001b[m\u001b[36mem\u001b[m \u001b[35m'\u001b[m\u001b[31mjquery-rails\u001b[m\u001b[35m'\u001b[m                                                             \u001b[48;5;224m \u001b[m\u001b[20;85H\u001b[K\u001b[21;3H\u001b[38;5;130m7\u001b[m\u001b[1C\u001b[34m\u001b[47m#\u001b[m\u001b[34m Turbolinks makes following links in your web application faster. Read more: h\u001b[m\u001b[34m\u001b[48;5;224mt\u001b[m\u001b[34mtps://github.com"
+    ],
+    [
+      0.038202,
+      "/rails/turb\u001b[m\u001b[94m\u003e\u001b[m\u001b[22;3H\u001b[38;5;130m8\u001b[m\u001b[1C\u001b[36m\u001b[47mg\u001b[m\u001b[36mem\u001b[m \u001b[35m'\u001b[m\u001b[31mturbolinks\u001b[m\u001b[35m'\u001b[m                                                         \u001b[23;2H\u001b[38;5;130m19\u001b[m\u001b[1C\u001b[34m\u001b[47m#\u001b[m\u001b[34m Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder\u001b[m\u001b[24;3H\u001b[38;5;130m0\u001b[m\u001b[1C\u001b[36m\u001b[47mg\u001b[m\u001b[36mem\u001b[m \u001b[35m'\u001b[m\u001b[31mjbuilder\u001b[m\u001b[35m'\u001b[m, \u001b[35m'\u001b[m\u001b[31m~\u003e 2.0\u001b[m\u001b[35m'\u001b[m                                     \u001b[25;3H\u001b[38;5;130m1\u001b[m\u001b[1C\u001b[34m\u001b[47m#\u001b[m\u001b[34m bundle exec rake doc:rails generates the API under doc/api.\u001b[m\u001b[26;3H\u001b[38;5;130m2\u001b[m\u001b[1C\u001b[36m\u001b[47mg\u001b[m\u001b[36mem\u001b[m \u001b[35m'\u001b[m\u001b[31msdoc\u001b[m\u001b[35m'\u001b[m, \u001b[35m'\u001b[m\u001b[31m~\u003e 0.4.0\u001b[m\u001b[35m'\u001b[m,\u001b[10C\u001b[31mgroup\u001b[m: \u001b[31m:doc\u001b[m\u001b[27;3H\u001b[38;5;130m3\u001b[m\u001b[1C\u001b[47m \u001b[m                                                                              \u001b[48;5;224m \u001b[m\u001b[27;85H\u001b[K\u001b[28;3H\u001b[38;5;130m4\u001b[m\u001b[1C\u001b[34m\u001b[47m#\u001b[m\u001b[34m Spring speeds up development by keeping your application running in the backg\u001b[m\u001b[34m\u001b[48;5;224mr\u001b[m\u001b[34mound. Read more: https://gi\u001b[m\u001b["
+    ],
+    [
+      0.000039,
+      "94m\u003e\u001b[m\u001b[29;3H\u001b[38;5;130m5\u001b[m\u001b[1C\u001b[36m\u001b[47mg\u001b[m\u001b[36mem\u001b[m \u001b[35m'\u001b[m\u001b[31mspring\u001b[m\u001b[35m'\u001b[m,\u001b[8C\u001b[31mgroup\u001b[m: \u001b[31m:development\u001b[m\u001b[30;3H\u001b[38;5;130m6\u001b[m\u001b[1C\u001b[47m \u001b[m                                    \u001b[31;3H\u001b[38;5;130m7\u001b[m\u001b[3C\u001b[34mUse ActiveModel has_secure_password\u001b[m\u001b[32;3H\u001b[38;5;130m8\u001b[m\u001b[1C\u001b[34m\u001b[47m#\u001b[m\u001b[34m gem 'bcrypt', '~\u003e 3.1.7'\u001b[m\u001b[33;2H\u001b[38;5;130m29\u001b[m\u001b[1C\u001b[47m \u001b[m                              \u001b[34;3H\u001b[38;5;130m0\u001b[m\u001b[3C\u001b[34mUse unicorn as the app server\u001b[m\r\n\u001b[38;5;232m\u001b[48;5;81m \u001b[m\u001b[1m\u001b[38;5;232m\u001b[48;5;81mINSERT\u001b[m\u001b[38;5;232m\u001b[48;5;144m \u001b[m\u0008\u001b[38;5;232m\u001b[48;5;81m \u001b[m\u001b[38;5;81m\u001b[48;5;16m\u001b[m\u001b[38;5;16m\u001b[48;5;81m\u001b[m\u001b[38;5;232m\u001b[48;5;81m \u001b[m\u001b[10C\u001b[1m+\u001b[m\u001b[1C\u001b[38;5;232m\u001b[48;5;81m                                                  \u001b[m\u001b[38;5;67m\u001b[48;5;81m\u001b[m\u001b[20C\u001b[38;5;81m\u001b[48;5;16m\u001b[m\u001b[38;5;232m\u001b[48;5;81m   7% \u001b[m\u001b[1m\u001b[38;5;232m\u001b[48;5;81m   3\u001b[m\u001b[38;5;232m\u001b[48;5;144m:\u001b[m\u0008\u001b[38;5;232m\u001b[48;5;81m:  1  \u001b[4;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.641872,
+      "\u001b[?25l\u001b[m\u001b[2;5H\u001b[36ms\u001b[m\u001b[36m\u001b[47mo\u001b[m\u001b[3;5H \u001b[47m \u001b[m\u001b[4;5Hg\u001b[47m \u001b[m\u001b[5;5H \u001b[47m \u001b[m\u001b[6;5H\u001b[34m#\u001b[m\u001b[34m\u001b[47m \u001b[m\u001b[7;5H\u001b[36mg\u001b[m\u001b[36m\u001b[47me\u001b[m\u001b[8;5H\u001b[34m#\u001b[m\u001b[34m\u001b[47m \u001b[m\u001b[9;5H\u001b[36mg\u001b[m\u001b[36m\u001b[47me\u001b[m\u001b[10;5H\u001b[34m#\u001b[m\u001b[34m\u001b[47m \u001b[m\u001b[11;5H\u001b[36mg\u001b[m\u001b[36m\u001b[47me\u001b[m\u001b[12;5H\u001b[34m#\u001b[m\u001b[34m\u001b[47m \u001b[m\u001b[13;5H\u001b[36mg\u001b[m\u001b[36m\u001b[47me\u001b[m\u001b[14;5H\u001b[34m#\u001b[m\u001b[34m\u001b[47m \u001b[m\u001b[15;5H\u001b[36mg\u001b[m\u001b[36m\u001b[47me\u001b[m\u001b[16;5H\u001b[34m#\u001b[m\u001b[34m\u001b[47m \u001b[m\u001b[17;5H\u001b[34m#\u001b[m\u001b[34m\u001b[47m \u001b[m\u001b[18;5H \u001b[47m \u001b[m\u001b[19;5H\u001b[34m#\u001b[m\u001b[34m\u001b[47m \u001b[m\u001b[20;5H\u001b[36mg\u001b[m\u001b[36m\u001b[47me\u001b[m\u001b[21;5H\u001b[34m#\u001b[m\u001b[34m\u001b[47m \u001b[m\u001b[22;5H\u001b[36mg\u001b[m\u001b[36m\u001b[47me\u001b[m\u001b[23;5H\u001b[34m#\u001b[m\u001b[34m\u001b[47m \u001b[m\u001b[24;5H\u001b[36mg\u001b[m\u001b[36m\u001b[47me\u001b[m\u001b[25;5H\u001b[34m#\u001b[m\u001b[34m\u001b[47m \u001b[m\u001b[26;5H\u001b[36mg\u001b[m\u001b[36m\u001b[47me\u001b[m\u001b[27;5H \u001b[47m \u001b[m\u001b[28;5H\u001b[34m#\u001b[m\u001b[34m\u001b[47m \u001b[m\u001b[29;5H\u001b[36mg\u001b[m\u001b[36m\u001b[47me\u001b[m\u001b[30;5H \u001b[47m \u001b[m\u001b[31;5H\u001b[34m#\u001b[m\u001b[34m\u001b[47m \u001b[m\u001b[32;5H\u001b[34m#\u001b[m\u001b[34m\u001b[47m \u001b[m\u001b[33;5H \u001b[47m \u001b[m\u001b[34;5H\u001b[34m#\u001b[m\u001b[34m\u001b[47m \u001b[m\u001b[35;110H\u001b[38;5;232m\u001b[48;5;81m2\u001b[4;6H"
+    ],
+    [
+      0.076607,
+      "\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000010,
+      "\u001b[?25l"
+    ],
+    [
+      0.019497,
+      "\u001b[m\u001b[2;6H\u001b[36mo\u001b[m\u001b[36m\u001b[47mu\u001b[m\u001b[3;6H \u001b[47m \u001b[m\u001b[4;6He\u001b[47m \u001b[m\u001b[5;6H \u001b[47m \u001b[m\u001b[6;6H\u001b[34m \u001b[m\u001b[34m\u001b[47mB\u001b[m\u001b[7;6H\u001b[36me\u001b[m\u001b[36m\u001b[47mm\u001b[m\u001b[8;6H\u001b[34m \u001b[m\u001b[34m\u001b[47mU\u001b[m\u001b[9;6H\u001b[36me\u001b[m\u001b[36m\u001b[47mm\u001b[m\u001b[10;6H\u001b[34m \u001b[m\u001b[34m\u001b[47mU\u001b[m\u001b[11;6H\u001b[36me\u001b[m\u001b[36m\u001b[47mm\u001b[m\u001b[12;6H\u001b[34m \u001b[m\u001b[34m\u001b[47mU\u001b[m\u001b[13;6H\u001b[36me\u001b[m\u001b[36m\u001b[47mm\u001b[m\u001b[14;6H\u001b[34m \u001b[m\u001b[34m\u001b[47mU\u001b[m\u001b[15;6H\u001b[36me\u001b[m\u001b[36m\u001b[47mm\u001b[m\u001b[16;6H\u001b[34m \u001b[m\u001b[34m\u001b[47mS\u001b[m\u001b[17;6H\u001b[34m \u001b[m\u001b[34m\u001b[47mg\u001b[m\u001b[18;6H \u001b[47m \u001b[m\u001b[19;6H\u001b[34m \u001b[m\u001b[34m\u001b[47mU\u001b[m\u001b[20;6H\u001b[36me\u001b[m\u001b[36m\u001b[47mm\u001b[m\u001b[21;6H\u001b[34m \u001b[m\u001b[34m\u001b[47mT\u001b[m\u001b[22;6H\u001b[36me\u001b[m\u001b[36m\u001b[47mm\u001b[m\u001b[23;6H\u001b[34m \u001b[m\u001b[34m\u001b[47mB\u001b[m\u001b[24;6H\u001b[36me\u001b[m\u001b[36m\u001b[47mm\u001b[m\u001b[25;6H\u001b[34m \u001b[m\u001b[34m\u001b[47mb\u001b[m\u001b[26;6H\u001b[36me\u001b[m\u001b[36m\u001b[47mm\u001b[m\u001b[27;6H \u001b[47m \u001b[m\u001b[28;6H\u001b[34m \u001b[m\u001b[34m\u001b[47mS\u001b[m\u001b[29;6H\u001b[36me\u001b[m\u001b[36m\u001b[47mm\u001b[m\u001b[30;6H \u001b[47m \u001b[m\u001b[31;6H\u001b[34m \u001b[m\u001b[34m\u001b[47mU\u001b[m\u001b[32;6H\u001b[34m \u001b[m\u001b[34m\u001b[47mg\u001b[m\u001b[33;6H \u001b[47m \u001b[m\u001b[34;6H\u001b[34m \u001b[m\u001b[34m\u001b[47mU\u001b[m\u001b[35;110H\u001b[38;5;232m\u001b[48;5;81m3\u001b[4;7H"
+    ],
+    [
+      0.029541,
+      "\u001b[m\u001b[5;4H\u001b[30m\u001b[48;5;225m gem                               \u001b[6;4H gem  \u003csnip\u003e (gem) \"gem\"           \u001b[7;4H gemg \u003csnip\u003e (gemg) \"gem :git\"     \u001b[8;4H gre  \u003csnip\u003e (gre)                 \u001b[9;4H xget \u003csnip\u003e (xget) \"xhr get\"      \u001b[10;4H loge \u003csnip\u003e (loge) \"logger.error\" \u001b[4;7H"
+    ],
+    [
+      0.023758,
+      "\u001b[m\u001b[2;7H\u001b[36mu\u001b[m\u001b[36m\u001b[47mr\u001b[m\u001b[3;7H \u001b[47m \u001b[m\u001b[4;5H\u001b[36mgem\u001b[m\u001b[47m \u001b[m\u001b[5;4H\u001b[38;5;130m \u001b[m   \u001b[47m \u001b[m                              \u001b[6;4H\u001b[38;5;130m \u001b[m\u001b[34m# B\u001b[m\u001b[34m\u001b[47mu\u001b[m\u001b[34mndle edge Rails instead: gem '\u001b[m\u001b[7;4H\u001b[38;5;130m \u001b[m\u001b[36mgem\u001b[m\u001b[47m \u001b[m\u001b[35m'\u001b[m\u001b[31mrails\u001b[m\u001b[35m'\u001b[m, \u001b[35m'\u001b[m\u001b[31m4.1.5\u001b[m\u001b[35m'\u001b[m              \u001b[8;4H\u001b[38;5;130m \u001b[m\u001b[34m# U\u001b[m\u001b[34m\u001b[47ms\u001b[m\u001b[34me sqlite3 as the database for \u001b[m\u001b[9;4H\u001b[38;5;130m \u001b[m\u001b[36mgem\u001b[m\u001b[47m \u001b[m\u001b[35m'\u001b[m\u001b[31msqlite3\u001b[m\u001b[35m'\u001b[m                     \u001b[10;4H\u001b[38;5;130m \u001b[m\u001b[34m# U\u001b[m\u001b[34m\u001b[47ms\u001b[m\u001b[34me SCSS for stylesheets\u001b[m        \u001b[11;7H\u001b[36mm\u001b[m\u001b[47m \u001b[m\u001b[12;7H\u001b[34mU\u001b[m\u001b[34m\u001b[47ms\u001b[m\u001b[13;7H\u001b[36mm\u001b[m\u001b[47m \u001b[m\u001b[14;7H\u001b[34mU\u001b[m\u001b[34m\u001b[47ms\u001b[m\u001b[15;7H\u001b[36mm\u001b[m\u001b[47m \u001b[m\u001b[16;7H\u001b[34mS\u001b[m\u001b[34m\u001b[47me\u001b[m\u001b[17;7H\u001b[34mg\u001b[m\u001b[34m\u001b[47me\u001b[m\u001b[18;7H \u001b[47m \u001b[m\u001b[19;7H\u001b[34mU\u001b[m\u001b[34m\u001b[47ms\u001b[m\u001b[20;7H\u001b[36mm\u001b[m\u001b[47m \u001b[m\u001b[21;7H\u001b[34mT\u001b[m\u001b[34m\u001b[47mu\u001b[m\u001b[22;7H\u001b[36mm\u001b[m\u001b[47m \u001b[m\u001b[23;7H\u001b[34mB\u001b[m\u001b[34m\u001b[47mu\u001b[m\u001b[24;7H\u001b[36mm\u001b[m\u001b[47m \u001b[m\u001b[25;7H\u001b[34mb\u001b[m\u001b[34m\u001b[47mu\u001b[m\u001b[26;7H\u001b[36mm"
+    ],
+    [
+      0.000046,
+      "\u001b[m\u001b[47m \u001b[m\u001b[27;7H \u001b[47m \u001b[m\u001b[28;7H\u001b[34mS\u001b[m\u001b[34m\u001b[47mp\u001b[m\u001b[29;7H\u001b[36mm\u001b[m\u001b[47m \u001b[m\u001b[30;7H \u001b[47m \u001b[m\u001b[31;7H\u001b[34mU\u001b[m\u001b[34m\u001b[47ms\u001b[m\u001b[32;7H\u001b[34mg\u001b[m\u001b[34m\u001b[47me\u001b[m\u001b[33;7H \u001b[47m \u001b[m\u001b[34;7H\u001b[34mU\u001b[m\u001b[34m\u001b[47ms\u001b[m\u001b[35;110H\u001b[38;5;232m\u001b[48;5;81m4\u001b[4;8H"
+    ],
+    [
+      0.025933,
+      "\u001b[m\u001b[5;4H\u001b[30m\u001b[48;5;225m gem                           \u001b[6;4H gem  \u003csnip\u003e (gem) \"gem\"       \u001b[7;4H gemg \u003csnip\u003e (gemg) \"gem :git\" \u001b[4;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.146061,
+      "\u001b[?25l"
+    ],
+    [
+      0.022623,
+      "\u001b[m\u001b[2;8H\u001b[36mr\u001b[m\u001b[36m\u001b[47mc\u001b[m\u001b[3;8H \u001b[47m \u001b[m\u001b[4;8H\u001b[34m.\u001b[m\u001b[47m \u001b[m\u001b[5;4H\u001b[38;5;130m \u001b[m    \u001b[47m \u001b[m                         \u001b[6;4H\u001b[38;5;130m \u001b[m\u001b[34m# Bu\u001b[m\u001b[34m\u001b[47mn\u001b[m\u001b[34mdle edge Rails instead: g\u001b[m\u001b[7;4H\u001b[38;5;130m \u001b[m\u001b[36mgem\u001b[m \u001b[35m\u001b[47m'\u001b[m\u001b[31mrails\u001b[m\u001b[35m'\u001b[m, \u001b[35m'\u001b[m\u001b[31m4.1.5\u001b[m\u001b[35m'\u001b[m          \u001b[8;8H\u001b[34ms\u001b[m\u001b[34m\u001b[47me\u001b[m\u001b[9;8H \u001b[35m\u001b[47m'\u001b[m\u001b[10;8H\u001b[34ms\u001b[m\u001b[34m\u001b[47me\u001b[m\u001b[11;8H \u001b[35m\u001b[47m'\u001b[m\u001b[12;8H\u001b[34ms\u001b[m\u001b[34m\u001b[47me\u001b[m\u001b[13;8H \u001b[35m\u001b[47m'\u001b[m\u001b[14;8H\u001b[34ms\u001b[m\u001b[34m\u001b[47me\u001b[m\u001b[15;8H \u001b[35m\u001b[47m'\u001b[m\u001b[16;8H\u001b[34me\u001b[m\u001b[34m\u001b[47me\u001b[m\u001b[17;8H\u001b[34me\u001b[m\u001b[34m\u001b[47mm\u001b[m\u001b[18;8H \u001b[47m \u001b[m\u001b[19;8H\u001b[34ms\u001b[m\u001b[34m\u001b[47me\u001b[m\u001b[20;8H \u001b[35m\u001b[47m'\u001b[m\u001b[21;8H\u001b[34mu\u001b[m\u001b[34m\u001b[47mr\u001b[m\u001b[22;8H \u001b[35m\u001b[47m'\u001b[m\u001b[23;8H\u001b[34mu\u001b[m\u001b[34m\u001b[47mi\u001b[m\u001b[24;8H \u001b[35m\u001b[47m'\u001b[m\u001b[25;8H\u001b[34mu\u001b[m\u001b[34m\u001b[47mn\u001b[m\u001b[26;8H \u001b[35m\u001b[47m'\u001b[m\u001b[27;8H \u001b[47m \u001b[m\u001b[28;8H\u001b[34mp\u001b[m\u001b[34m\u001b[47mr\u001b[m\u001b[29;8H \u001b[35m\u001b[47m'\u001b[m\u001b[30;8H \u001b[47m \u001b[m\u001b[31;8H\u001b[34ms\u001b[m\u001b[34m\u001b[47me\u001b[m\u001b[32;8H\u001b[34me\u001b[m\u001b[34m\u001b[47mm\u001b[m\u001b[33;8H \u001b[47m \u001b[m\u001b[34;8H\u001b[34ms\u001b[m\u001b[34m\u001b[47me\u001b[m\u001b[35;110H\u001b[38;5;2"
+    ],
+    [
+      0.000025,
+      "32m\u001b[48;5;81m5\u001b[4;9H"
+    ],
+    [
+      0.025636,
+      "\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.496901,
+      "\u001b[?25l\u001b[m\u001b[2;9H\u001b[36mc\u001b[m\u001b[36m\u001b[47me\u001b[m\u001b[3;9H \u001b[47m \u001b[m\u001b[4;8H \u001b[35m''\u001b[m\u001b[5;9H \u001b[47m \u001b[m\u001b[6;9H\u001b[34mn\u001b[m\u001b[34m\u001b[47md\u001b[m\u001b[7;9H\u001b[35m'\u001b[m\u001b[31m\u001b[47mr\u001b[m\u001b[8;9H\u001b[34me\u001b[m\u001b[34m\u001b[47m \u001b[m\u001b[9;9H\u001b[35m'\u001b[m\u001b[31m\u001b[47ms\u001b[m\u001b[10;9H\u001b[34me\u001b[m\u001b[34m\u001b[47m \u001b[m\u001b[11;9H\u001b[35m'\u001b[m\u001b[31m\u001b[47ms\u001b[m\u001b[12;9H\u001b[34me\u001b[m\u001b[34m\u001b[47m \u001b[m\u001b[13;9H\u001b[35m'\u001b[m\u001b[31m\u001b[47mu\u001b[m\u001b[14;9H\u001b[34me\u001b[m\u001b[34m\u001b[47m \u001b[m\u001b[15;9H\u001b[35m'\u001b[m\u001b[31m\u001b[47mc\u001b[m\u001b[16;9H\u001b[34me\u001b[m\u001b[34m\u001b[47m \u001b[m\u001b[17;9H\u001b[34mm\u001b[m\u001b[34m\u001b[47m \u001b[m\u001b[18;9H \u001b[47m \u001b[m\u001b[19;9H\u001b[34me\u001b[m\u001b[34m\u001b[47m \u001b[m\u001b[20;9H\u001b[35m'\u001b[m\u001b[31m\u001b[47mj\u001b[m\u001b[21;9H\u001b[34mr\u001b[m\u001b[34m\u001b[47mb\u001b[m\u001b[22;9H\u001b[35m'\u001b[m\u001b[31m\u001b[47mt\u001b[m\u001b[23;9H\u001b[34mi\u001b[m\u001b[34m\u001b[47ml\u001b[m\u001b[24;9H\u001b[35m'\u001b[m\u001b[31m\u001b[47mj\u001b[m\u001b[25;9H\u001b[34mn\u001b[m\u001b[34m\u001b[47md\u001b[m\u001b[26;9H\u001b[35m'\u001b[m\u001b[31m\u001b[47ms\u001b[m\u001b[27;9H \u001b[47m \u001b[m\u001b[28;9H\u001b[34mr\u001b[m\u001b[34m\u001b[47mi\u001b[m\u001b[29;9H\u001b[35m'\u001b[m\u001b[31m\u001b[47ms\u001b[m\u001b[30;9H \u001b[47m \u001b[m\u001b[31;9H\u001b[34me\u001b[m\u001b[34m\u001b[47m \u001b[m\u001b[32;9H\u001b[34mm\u001b[m\u001b[34m\u001b[47m \u001b[m\u001b[33;9H \u001b[47m \u001b[m\u001b[34;9H\u001b[34me\u001b[m\u001b[34m\u001b[47m "
+    ],
+    [
+      0.003261,
+      "\u001b[m\u001b[35;110H\u001b[38;5;232m\u001b[48;5;81m6\u001b[4;10H"
+    ],
+    [
+      0.023645,
+      "\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.363625,
+      "\u001b[?25l"
+    ],
+    [
+      0.019436,
+      "\u001b[m\u001b[2;10H\u001b[36me\u001b[m\u001b[47m \u001b[m\u001b[3;10H \u001b[47m \u001b[m\u001b[4;10H\u001b[31ma\u001b[m\u001b[35m'\u001b[m\u001b[5;10H \u001b[47m \u001b[m\u001b[6;10H\u001b[34md\u001b[m\u001b[34m\u001b[47ml\u001b[m\u001b[7;10H\u001b[31mr\u001b[m\u001b[31m\u001b[47ma\u001b[m\u001b[8;10H\u001b[34m \u001b[m\u001b[34m\u001b[47ms\u001b[m\u001b[9;10H\u001b[31ms\u001b[m\u001b[31m\u001b[47mq\u001b[m\u001b[10;10H\u001b[34m \u001b[m\u001b[34m\u001b[47mS\u001b[m\u001b[11;10H\u001b[31ms\u001b[m\u001b[31m\u001b[47ma\u001b[m\u001b[12;10H\u001b[34m \u001b[m\u001b[34m\u001b[47mU\u001b[m\u001b[13;10H\u001b[31mu\u001b[m\u001b[31m\u001b[47mg\u001b[m\u001b[14;10H\u001b[34m \u001b[m\u001b[34m\u001b[47mC\u001b[m\u001b[15;10H\u001b[31mc\u001b[m\u001b[31m\u001b[47mo\u001b[m\u001b[16;10H\u001b[34m \u001b[m\u001b[34m\u001b[47mh\u001b[m\u001b[17;10H\u001b[34m \u001b[m\u001b[34m\u001b[47m'\u001b[m\u001b[18;10H \u001b[47m \u001b[m\u001b[19;10H\u001b[34m \u001b[m\u001b[34m\u001b[47mj\u001b[m\u001b[20;10H\u001b[31mj\u001b[m\u001b[31m\u001b[47mq\u001b[m\u001b[21;10H\u001b[34mb\u001b[m\u001b[34m\u001b[47mo\u001b[m\u001b[22;10H\u001b[31mt\u001b[m\u001b[31m\u001b[47mu\u001b[m\u001b[23;10H\u001b[34ml\u001b[m\u001b[34m\u001b[47md\u001b[m\u001b[24;10H\u001b[31mj\u001b[m\u001b[31m\u001b[47mb\u001b[m\u001b[25;10H\u001b[34md\u001b[m\u001b[34m\u001b[47ml\u001b[m\u001b[26;10H\u001b[31ms\u001b[m\u001b[31m\u001b[47md\u001b[m\u001b[27;10H \u001b[47m \u001b[m\u001b[28;10H\u001b[34mi\u001b[m\u001b[34m\u001b[47mn\u001b[m\u001b[29;10H\u001b[31ms\u001b[m\u001b[31m\u001b[47mp\u001b[m\u001b[30;10H \u001b[47m \u001b[m\u001b[31;10H\u001b[34m \u001b[m\u001b[34m\u001b[47mA\u001b[m\u001b[32;10H\u001b[34m \u001b[m\u001b[34m\u001b[47m'\u001b[m\u001b[33;10H \u001b[47m \u001b[m\u001b[34;10H\u001b[34m \u001b[m\u001b[34m\u001b[47mu\u001b[m\u001b[35;110H\u001b[38;5;232m\u001b[48;5;81m7\u001b[4;11H"
+    ],
+    [
+      0.026764,
+      "\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.042099,
+      "\u001b[?25l"
+    ],
+    [
+      0.019211,
+      "\u001b[m\u001b[2;11H \u001b[35m\u001b[47m'\u001b[m\u001b[3;11H \u001b[47m \u001b[m\u001b[4;11H\u001b[31mi\u001b[m\u001b[35m'\u001b[m\u001b[5;11H \u001b[47m \u001b[m\u001b[6;11H\u001b[34ml\u001b[m\u001b[34m\u001b[47me\u001b[m\u001b[7;11H\u001b[31ma\u001b[m\u001b[31m\u001b[47mi\u001b[m\u001b[8;11H\u001b[34ms\u001b[m\u001b[34m\u001b[47mq\u001b[m\u001b[9;11H\u001b[31mq\u001b[m\u001b[31m\u001b[47ml\u001b[m\u001b[10;11H\u001b[34mS\u001b[m\u001b[34m\u001b[47mC\u001b[m\u001b[11;11H\u001b[31ma\u001b[m\u001b[31m\u001b[47ms\u001b[m\u001b[12;11H\u001b[34mU\u001b[m\u001b[34m\u001b[47mg\u001b[m\u001b[13;11H\u001b[31mg\u001b[m\u001b[31m\u001b[47ml\u001b[m\u001b[14;11H\u001b[34mC\u001b[m\u001b[34m\u001b[47mo\u001b[m\u001b[15;11H\u001b[31mo\u001b[m\u001b[31m\u001b[47mf\u001b[m\u001b[16;11H\u001b[34mh\u001b[m\u001b[34m\u001b[47mt\u001b[m\u001b[17;11H\u001b[34m'\u001b[m\u001b[34m\u001b[47mt\u001b[m\u001b[18;11H \u001b[47m \u001b[m\u001b[19;11H\u001b[34mj\u001b[m\u001b[34m\u001b[47mq\u001b[m\u001b[20;11H\u001b[31mq\u001b[m\u001b[31m\u001b[47mu\u001b[m\u001b[21;11H\u001b[34mo\u001b[m\u001b[34m\u001b[47ml\u001b[m\u001b[22;11H\u001b[31mu\u001b[m\u001b[31m\u001b[47mr\u001b[m\u001b[23;11H\u001b[34md\u001b[m\u001b[34m\u001b[47m \u001b[m\u001b[24;11H\u001b[31mb\u001b[m\u001b[31m\u001b[47mu\u001b[m\u001b[25;11H\u001b[34ml\u001b[m\u001b[34m\u001b[47me\u001b[m\u001b[26;11H\u001b[31md\u001b[m\u001b[31m\u001b[47mo\u001b[m\u001b[27;11H \u001b[47m \u001b[m\u001b[28;11H\u001b[34mn\u001b[m\u001b[34m\u001b[47mg\u001b[m\u001b[29;11H\u001b[31mp\u001b[m\u001b[31m\u001b[47mr\u001b[m\u001b[30;11H \u001b[47m \u001b[m\u001b[31;11H\u001b[34mA\u001b[m\u001b[34m\u001b[47mc\u001b[m\u001b[32;11H\u001b[34m'\u001b[m\u001b[34m\u001b[47mb\u001b[m\u001b[33;11H \u001b[47m \u001b[m\u001b[34;11H\u001b[34mu\u001b[m\u001b[34m\u001b[47mn\u001b[m\u001b[35;110H\u001b[38;5;232m\u001b[48;5;81m8\u001b[4;12H"
+    ],
+    [
+      0.025647,
+      "\u001b[m\u001b[5;9H\u001b[30m\u001b[48;5;225m asid      \u003csnip\u003e (asid)                                                                      \u001b[6;9H asio      \u003csnip\u003e (asio)                                                                      \u001b[7;9H alias     \u003csnip\u003e (alias) \"alias :\u003cnew_name\u003e :\u003cold_name\u003e\"                                     \u001b[8;9H eai       \u003csnip\u003e (eai)                                                                       \u001b[9;9H mai       \u003csnip\u003e (mai)                                                                       \u001b[10;9H eaid      \u003csnip\u003e (eaid)                                                                      \u001b[11;9H vaif      \u003csnip\u003e (vaif) \"validates_associated if (vaif)\"                                     \u001b[12;9H eawi      \u003csnip\u003e (eawi)                                                                      \u001b[13;9H eawid     \u003csnip\u003e (eawid)                                                                     \u001b[14;9H vaoif     \u003csnip\u003e (vaoif) \"validates_acceptance_of if\"                                        "
+    ],
+    [
+      0.000053,
+      "\u001b[15;9H reai      \u003csnip\u003e (reai) \"redirect_to (action, id)\"                                           \u001b[16;9H usai      \u003csnip\u003e (usai)                                                                      \u001b[17;9H mapwi-    \u003csnip\u003e (mapwi-)                                                                    \u001b[18;9H recai     \u003csnip\u003e (recai) \"redirect_to (controller, action, id)\"                              \u001b[19;9H migration \u003csnip\u003e (migration) class .. \u003c ActiveRecord::Migration .. def up .. def down .. end \u001b[20;9H migration \u003csnip\u003e (migration) class .. \u003c ActiveRecord::Migration .. def change .. end         \u001b[4;12H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.115152,
+      "\u001b[?25l\u001b[m\u001b[2;12H\u001b[35m'\u001b[m\u001b[31m\u001b[47mh\u001b[m\u001b[3;12H \u001b[47m \u001b[m\u001b[4;12H\u001b[31mr\u001b[m\u001b[35m'\u001b[m\u001b[5;9H    \u001b[47m \u001b[m                                                                      \u001b[48;5;224m \u001b[m\u001b[5;85H\u001b[K\u001b[6;9H\u001b[34mndle\u001b[m\u001b[34m\u001b[47m \u001b[m\u001b[34medge Rails instead: gem 'rails', github: 'rails/rails'\u001b[m                \u001b[48;5;224m \u001b[m\u001b[6;85H\u001b[K\u001b[7;9H\u001b[35m'\u001b[m\u001b[31mrai\u001b[m\u001b[31m\u001b[47ml\u001b[m\u001b[31ms\u001b[m\u001b[35m'\u001b[m, \u001b[35m'\u001b[m\u001b[31m4.1.5\u001b[m\u001b[35m'\u001b[m                                                           \u001b[48;5;224m \u001b[m\u001b[7;85H\u001b[K\u001b[8;9H\u001b[34me sq\u001b[m\u001b[34m\u001b[47ml\u001b[m\u001b[34mite3 as the database for Active Record\u001b[m                                \u001b[48;5;224m \u001b[m\u001b[8;85H\u001b[K\u001b[9;9H\u001b[35m'\u001b[m\u001b[31msql\u001b[m\u001b[31m\u001b[47mi\u001b[m\u001b[31mte3\u001b[m\u001b[35m'\u001b[m                                                                  \u001b[48;5;224m \u001b[m\u001b[9;85H\u001b[K\u001b[10;9H\u001b[34me SC\u001b[m\u001b[34m\u001b[47mS\u001b[m\u001b[34mS for stylesheets\u001b[m                                                     \u001b[48;5;224m \u001b[m\u001b[10;85H\u001b[K\u001b[11;9H\u001b[35m'\u001b[m\u001b[31msas\u001b[m\u001b[31m\u001b[47ms\u001b[m\u001b[31m-rails\u001b[m\u001b[35m'\u001b[m, \u001b[35m'\u001b[m\u001b[31m~\u003e 4.0.3\u001b[m\u001b[35m"
+    ],
+    [
+      0.000053,
+      "'\u001b[m                                                   \u001b[48;5;224m \u001b[m\u001b[11;85H\u001b[K\u001b[12;9H\u001b[34me Ug\u001b[m\u001b[34m\u001b[47ml\u001b[m\u001b[34mifier as compressor for JavaScript assets\u001b[m                             \u001b[48;5;224m \u001b[m\u001b[12;85H\u001b[K\u001b[13;9H\u001b[35m'\u001b[m\u001b[31mugl\u001b[m\u001b[31m\u001b[47mi\u001b[m\u001b[31mfier\u001b[m\u001b[35m'\u001b[m, \u001b[35m'\u001b[m\u001b[31m\u003e= 1.3.0\u001b[m\u001b[35m'\u001b[m                                                     \u001b[48;5;224m \u001b[m\u001b[13;85H\u001b[K\u001b[14;9H\u001b[34me Co\u001b[m\u001b[34m\u001b[47mf\u001b[m\u001b[34mfeeScript for .js.coffee assets and views\u001b[m                             \u001b[48;5;224m \u001b[m\u001b[14;85H\u001b[K\u001b[15;9H\u001b[35m'\u001b[m\u001b[31mcof\u001b[m\u001b[31m\u001b[47mf\u001b[m\u001b[31mee-rails\u001b[m\u001b[35m'\u001b[m, \u001b[35m'\u001b[m\u001b[31m~\u003e 4.0.0\u001b[m\u001b[35m'\u001b[m                                                 \u001b[48;5;224m \u001b[m\u001b[15;85H\u001b[K\u001b[16;9H\u001b[34me ht\u001b[m\u001b[34m\u001b[47mt\u001b[m\u001b[34mps://github.com/sstephenson/execjs#readme for more supported runtimes\u001b[m \u001b[48;5;224m \u001b[m\u001b[16;85H\u001b[K\u001b[17;9H\u001b[34mm 't\u001b[m\u001b[34m\u001b[47mh\u001b[m\u001b[34merubyracer',  platforms: :ruby\u001b[m                                        \u001b[48;5;224m \u001b[m\u001b[17;85H\u001b[K\u001b[18;9H    \u001b[47m \u001b[m                    "
+    ],
+    [
+      0.013516,
+      "                                                  \u001b[48;5;224m \u001b[m\u001b[18;85H\u001b[K\u001b[19;9H\u001b[34me jq\u001b[m\u001b[34m\u001b[47mu\u001b[m\u001b[34mery as the JavaScript library\u001b[m                                         \u001b[48;5;224m \u001b[m\u001b[19;85H\u001b[K\u001b[20;9H\u001b[35m'\u001b[m\u001b[31mjqu\u001b[m\u001b[31m\u001b[47me\u001b[m\u001b[31mry-rails\u001b[m\u001b[35m'\u001b[m                                                             \u001b[48;5;224m \u001b[m\u001b[20;85H\u001b[K\u001b[21;12H\u001b[34ml\u001b[m\u001b[34m\u001b[47mi\u001b[m\u001b[22;12H\u001b[31mr\u001b[m\u001b[31m\u001b[47mb\u001b[m\u001b[23;12H\u001b[34m \u001b[m\u001b[34m\u001b[47mJ\u001b[m\u001b[24;12H\u001b[31mu\u001b[m\u001b[31m\u001b[47mi\u001b[m\u001b[25;12H\u001b[34me\u001b[m\u001b[34m\u001b[47m \u001b[m\u001b[26;12H\u001b[31mo\u001b[m\u001b[31m\u001b[47mc\u001b[m\u001b[27;12H \u001b[47m \u001b[m\u001b[28;12H\u001b[34mg\u001b[m\u001b[34m\u001b[47m \u001b[m\u001b[29;12H\u001b[31mr\u001b[m\u001b[31m\u001b[47mi\u001b[m\u001b[30;12H \u001b[47m \u001b[m\u001b[31;12H\u001b[34mc\u001b[m\u001b[34m\u001b[47mt\u001b[m\u001b[32;12H\u001b[34mb\u001b[m\u001b[34m\u001b[47mc\u001b[m\u001b[33;12H \u001b[47m \u001b[m\u001b[34;12H\u001b[34mn\u001b[m\u001b[34m\u001b[47mi\u001b[m\u001b[35;110H\u001b[38;5;232m\u001b[48;5;81m9\u001b[4;13H"
+    ],
+    [
+      0.028742,
+      "\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.101475,
+      "\u001b[?25l"
+    ],
+    [
+      0.019464,
+      "\u001b[m\u001b[2;13H\u001b[31mh\u001b[m\u001b[31m\u001b[47mt\u001b[m\u001b[3;13H \u001b[47m \u001b[m\u001b[4;13H\u001b[31mb\u001b[m\u001b[35m'\u001b[m\u001b[5;13H \u001b[47m \u001b[m\u001b[6;13H\u001b[34m \u001b[m\u001b[34m\u001b[47me\u001b[m\u001b[7;13H\u001b[31ml\u001b[m\u001b[31m\u001b[47ms\u001b[m\u001b[8;13H\u001b[34ml\u001b[m\u001b[34m\u001b[47mi\u001b[m\u001b[9;13H\u001b[31mi\u001b[m\u001b[31m\u001b[47mt\u001b[m\u001b[10;13H\u001b[34mS\u001b[m\u001b[34m\u001b[47mS\u001b[m\u001b[11;13H\u001b[31ms\u001b[m\u001b[31m\u001b[47m-\u001b[m\u001b[12;13H\u001b[34ml\u001b[m\u001b[34m\u001b[47mi\u001b[m\u001b[13;13H\u001b[31mi\u001b[m\u001b[31m\u001b[47mf\u001b[m\u001b[14;13H\u001b[34mf\u001b[m\u001b[34m\u001b[47mf\u001b[m\u001b[15;13H\u001b[31mf\u001b[m\u001b[31m\u001b[47me\u001b[m\u001b[16;13H\u001b[34mt\u001b[m\u001b[34m\u001b[47mp\u001b[m\u001b[17;13H\u001b[34mh\u001b[m\u001b[34m\u001b[47me\u001b[m\u001b[18;13H \u001b[47m \u001b[m\u001b[19;13H\u001b[34mu\u001b[m\u001b[34m\u001b[47me\u001b[m\u001b[20;13H\u001b[31me\u001b[m\u001b[31m\u001b[47mr\u001b[m\u001b[21;13H\u001b[34mi\u001b[m\u001b[34m\u001b[47mn\u001b[m\u001b[22;13H\u001b[31mb\u001b[m\u001b[31m\u001b[47mo\u001b[m\u001b[23;13H\u001b[34mJ\u001b[m\u001b[34m\u001b[47mS\u001b[m\u001b[24;13H\u001b[31mi\u001b[m\u001b[31m\u001b[47ml\u001b[m\u001b[25;13H\u001b[34m \u001b[m\u001b[34m\u001b[47me\u001b[m\u001b[26;13H\u001b[31mc\u001b[m\u001b[35m\u001b[47m'\u001b[m\u001b[27;13H \u001b[47m \u001b[m\u001b[28;13H\u001b[34m \u001b[m\u001b[34m\u001b[47ms\u001b[m\u001b[29;13H\u001b[31mi\u001b[m\u001b[31m\u001b[47mn\u001b[m\u001b[30;13H \u001b[47m \u001b[m\u001b[31;13H\u001b[34mt\u001b[m\u001b[34m\u001b[47mi\u001b[m\u001b[32;13H\u001b[34mc\u001b[m\u001b[34m\u001b[47mr\u001b[m\u001b[33;13H \u001b[47m \u001b[m\u001b[34;13H\u001b[34mi\u001b[m\u001b[34m\u001b[47mc\u001b[m\u001b[35;109H\u001b[38;5;232m\u001b[48;5;81m10\u001b[4;14H"
+    ],
+    [
+      0.030790,
+      "\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.021511,
+      "\u001b[?25l"
+    ],
+    [
+      0.027388,
+      "\u001b[m\u001b[2;14H\u001b[31mt\u001b[m\u001b[31m\u001b[47mt\u001b[m\u001b[3;14H \u001b[47m \u001b[m\u001b[4;14H\u001b[31mr\u001b[m\u001b[35m'\u001b[m\u001b[5;14H \u001b[47m \u001b[m\u001b[6;14H\u001b[34me\u001b[m\u001b[34m\u001b[47md\u001b[m\u001b[7;14H\u001b[31ms\u001b[m\u001b[35m\u001b[47m'\u001b[m\u001b[8;14H\u001b[34mi\u001b[m\u001b[34m\u001b[47mt\u001b[m\u001b[9;14H\u001b[31mt\u001b[m\u001b[31m\u001b[47me\u001b[m\u001b[10;14H\u001b[34mS\u001b[m\u001b[34m\u001b[47m \u001b[m\u001b[11;14H\u001b[31m-\u001b[m\u001b[31m\u001b[47mr\u001b[m\u001b[12;14H\u001b[34mi\u001b[m\u001b[34m\u001b[47mf\u001b[m\u001b[13;14H\u001b[31mf\u001b[m\u001b[31m\u001b[47mi\u001b[m\u001b[14;14H\u001b[34mf\u001b[m\u001b[34m\u001b[47me\u001b[m\u001b[15;14H\u001b[31me\u001b[m\u001b[31m\u001b[47me\u001b[m\u001b[16;14H\u001b[34mp\u001b[m\u001b[34m\u001b[47ms\u001b[m\u001b[17;14H\u001b[34me\u001b[m\u001b[34m\u001b[47mr\u001b[m\u001b[18;14H \u001b[47m \u001b[m\u001b[19;14H\u001b[34me\u001b[m\u001b[34m\u001b[47mr\u001b[m\u001b[20;14H\u001b[31mr\u001b[m\u001b[31m\u001b[47my\u001b[m\u001b[21;14H\u001b[34mn\u001b[m\u001b[34m\u001b[47mk\u001b[m\u001b[22;14H\u001b[31mo\u001b[m\u001b[31m\u001b[47ml\u001b[m\u001b[23;14H\u001b[34mS\u001b[m\u001b[34m\u001b[47mO\u001b[m\u001b[24;14H\u001b[31ml\u001b[m\u001b[31m\u001b[47md\u001b[m\u001b[25;14H\u001b[34me\u001b[m\u001b[34m\u001b[47mx\u001b[m\u001b[26;14H\u001b[35m'\u001b[m\u001b[47m,\u001b[m\u001b[27;14H \u001b[47m \u001b[m\u001b[28;14H\u001b[34ms\u001b[m\u001b[34m\u001b[47mp\u001b[m\u001b[29;14H\u001b[31mn\u001b[m\u001b[31m\u001b[47mg\u001b[m\u001b[30;14H \u001b[47m \u001b[m\u001b[31;14H\u001b[34mi\u001b[m\u001b[34m\u001b[47mv\u001b[m\u001b[32;14H\u001b[34mr\u001b[m\u001b[34m\u001b[47my\u001b[m\u001b[33;14H \u001b[47m \u001b[m\u001b[34;14H\u001b[34mc\u001b[m\u001b[34m\u001b[47mo\u001b[m\u001b[35;110H\u001b[38;5;232m\u001b[48;5;81m1\u001b[4;15H"
+    ],
+    [
+      0.039893,
+      "\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.020901,
+      "\u001b[?25l"
+    ],
+    [
+      0.027244,
+      "\u001b[m\u001b[2;15H\u001b[31mt\u001b[m\u001b[31m\u001b[47mp\u001b[m\u001b[3;15H \u001b[47m \u001b[m\u001b[4;15H\u001b[31ma\u001b[m\u001b[35m'\u001b[m\u001b[5;15H \u001b[47m \u001b[m\u001b[6;15H\u001b[34md\u001b[m\u001b[34m\u001b[47mg\u001b[m\u001b[7;15H\u001b[35m'\u001b[m\u001b[47m,\u001b[m\u001b[8;15H\u001b[34mt\u001b[m\u001b[34m\u001b[47me\u001b[m\u001b[9;15H\u001b[31me\u001b[m\u001b[31m\u001b[47m3\u001b[m\u001b[10;15H\u001b[34m \u001b[m\u001b[34m\u001b[47mf\u001b[m\u001b[11;15H\u001b[31mr\u001b[m\u001b[31m\u001b[47ma\u001b[m\u001b[12;15H\u001b[34mf\u001b[m\u001b[34m\u001b[47mi\u001b[m\u001b[13;15H\u001b[31mi\u001b[m\u001b[31m\u001b[47me\u001b[m\u001b[14;15H\u001b[34me\u001b[m\u001b[34m\u001b[47me\u001b[m\u001b[15;15H\u001b[31me\u001b[m\u001b[31m\u001b[47m-\u001b[m\u001b[16;15H\u001b[34ms\u001b[m\u001b[34m\u001b[47m:\u001b[m\u001b[17;15H\u001b[34mr\u001b[m\u001b[34m\u001b[47mu\u001b[m\u001b[18;15H \u001b[47m \u001b[m\u001b[19;15H\u001b[34mr\u001b[m\u001b[34m\u001b[47my\u001b[m\u001b[20;15H\u001b[31my\u001b[m\u001b[31m\u001b[47m-\u001b[m\u001b[21;15H\u001b[34mk\u001b[m\u001b[34m\u001b[47ms\u001b[m\u001b[22;15H\u001b[31ml\u001b[m\u001b[31m\u001b[47mi\u001b[m\u001b[23;15H\u001b[34mO\u001b[m\u001b[34m\u001b[47mN\u001b[m\u001b[24;15H\u001b[31md\u001b[m\u001b[31m\u001b[47me\u001b[m\u001b[25;15H\u001b[34mx\u001b[m\u001b[34m\u001b[47me\u001b[m\u001b[26;15H,\u001b[47m \u001b[m\u001b[27;15H \u001b[47m \u001b[m\u001b[28;15H\u001b[34mp\u001b[m\u001b[34m\u001b[47me\u001b[m\u001b[29;15H\u001b[31mg\u001b[m\u001b[35m\u001b[47m'\u001b[m\u001b[30;15H \u001b[47m \u001b[m\u001b[31;15H\u001b[34mv\u001b[m\u001b[34m\u001b[47me\u001b[m\u001b[32;15H\u001b[34my\u001b[m\u001b[34m\u001b[47mp\u001b[m\u001b[33;15H \u001b[47m \u001b[m\u001b[34;15H\u001b[34mo\u001b[m\u001b[34m\u001b[47mr\u001b[m\u001b[35;110H\u001b[38;5;232m\u001b[48;5;81m2\u001b[4;16H"
+    ],
+    [
+      0.043202,
+      "\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.060683,
+      "\u001b[?25l"
+    ],
+    [
+      0.030993,
+      "\u001b[m\u001b[2;16H\u001b[31mp\u001b[m\u001b[31m\u001b[47ms\u001b[m\u001b[3;16H \u001b[47m \u001b[m\u001b[4;16H\u001b[31mk\u001b[m\u001b[35m'\u001b[m\u001b[5;16H \u001b[47m \u001b[m\u001b[6;16H\u001b[34mg\u001b[m\u001b[34m\u001b[47me\u001b[m\u001b[7;16H,\u001b[47m \u001b[m\u001b[8;16H\u001b[34me\u001b[m\u001b[34m\u001b[47m3\u001b[m\u001b[9;16H\u001b[31m3\u001b[m\u001b[35m\u001b[47m'\u001b[m\u001b[10;16H\u001b[34mf\u001b[m\u001b[34m\u001b[47mo\u001b[m\u001b[11;16H\u001b[31ma\u001b[m\u001b[31m\u001b[47mi\u001b[m\u001b[12;16H\u001b[34mi\u001b[m\u001b[34m\u001b[47me\u001b[m\u001b[13;16H\u001b[31me\u001b[m\u001b[31m\u001b[47mr\u001b[m\u001b[14;16H\u001b[34me\u001b[m\u001b[34m\u001b[47mS\u001b[m\u001b[15;16H\u001b[31m-\u001b[m\u001b[31m\u001b[47mr\u001b[m\u001b[16;16H\u001b[34m:\u001b[m\u001b[34m\u001b[47m/\u001b[m\u001b[17;16H\u001b[34mu\u001b[m\u001b[34m\u001b[47mb\u001b[m\u001b[18;16H \u001b[47m \u001b[m\u001b[19;16H\u001b[34my\u001b[m\u001b[34m\u001b[47m \u001b[m\u001b[20;16H\u001b[31m-\u001b[m\u001b[31m\u001b[47mr\u001b[m\u001b[21;16H\u001b[34ms\u001b[m\u001b[34m\u001b[47m \u001b[m\u001b[22;16H\u001b[31mi\u001b[m\u001b[31m\u001b[47mn\u001b[m\u001b[23;16H\u001b[34mN\u001b[m\u001b[34m\u001b[47m \u001b[m\u001b[24;16H\u001b[31me\u001b[m\u001b[31m\u001b[47mr\u001b[m\u001b[25;16H\u001b[34me\u001b[m\u001b[34m\u001b[47mc\u001b[m\u001b[26;16H \u001b[35m\u001b[47m'\u001b[m\u001b[27;16H \u001b[47m \u001b[m\u001b[28;16H\u001b[34me\u001b[m\u001b[34m\u001b[47me\u001b[m\u001b[29;16H\u001b[35m'\u001b[m\u001b[47m,\u001b[m\u001b[30;16H \u001b[47m \u001b[m\u001b[31;16H\u001b[34me\u001b[m\u001b[34m\u001b[47mM\u001b[m\u001b[32;16H\u001b[34mp\u001b[m\u001b[34m\u001b[47mt\u001b[m\u001b[33;16H \u001b[47m \u001b[m\u001b[34;16H\u001b[34mr\u001b[m\u001b[34m\u001b[47mn\u001b[m\u001b[35;110H\u001b[38;5;232m\u001b[48;5;81m3\u001b[4;17H"
+    ],
+    [
+      0.040711,
+      "\u001b[m\u001b[2;17H\u001b[31ms\u001b[m\u001b[31m\u001b[47m:\u001b[m\u001b[3;17H \u001b[47m \u001b[m\u001b[4;17H\u001b[31me\u001b[m\u001b[35m'\u001b[m\u001b[5;17H \u001b[47m \u001b[m\u001b[6;17H\u001b[34me\u001b[m\u001b[34m\u001b[47m \u001b[m\u001b[7;17H \u001b[35m\u001b[47m'\u001b[m\u001b[8;17H\u001b[34m3\u001b[m\u001b[34m\u001b[47m \u001b[m\u001b[9;17H\u001b[35m'\u001b[m\u001b[47m \u001b[m\u001b[10;17H\u001b[34mo\u001b[m\u001b[34m\u001b[47mr\u001b[m\u001b[11;17H\u001b[31mi\u001b[m\u001b[31m\u001b[47ml\u001b[m\u001b[12;17H\u001b[34me\u001b[m\u001b[34m\u001b[47mr\u001b[m\u001b[13;17H\u001b[31mr\u001b[m\u001b[35m\u001b[47m'\u001b[m\u001b[14;17H\u001b[34mS\u001b[m\u001b[34m\u001b[47mc\u001b[m\u001b[15;17H\u001b[31mr\u001b[m\u001b[31m\u001b[47ma\u001b[m\u001b[16;17H\u001b[34m/\u001b[m\u001b[34m\u001b[47m/\u001b[m\u001b[17;17H\u001b[34mb\u001b[m\u001b[34m\u001b[47my\u001b[m\u001b[18;17H \u001b[47m \u001b[m\u001b[19;17H\u001b[34m \u001b[m\u001b[34m\u001b[47ma\u001b[m\u001b[20;17H\u001b[31mr\u001b[m\u001b[31m\u001b[47ma\u001b[m\u001b[21;17H\u001b[34m \u001b[m\u001b[34m\u001b[47mm\u001b[m\u001b[22;17H\u001b[31mn\u001b[m\u001b[31m\u001b[47mk\u001b[m\u001b[23;17H\u001b[34m \u001b[m\u001b[34m\u001b[47mA\u001b[m\u001b[24;17H\u001b[31mr\u001b[m\u001b[35m\u001b[47m'\u001b[m\u001b[25;17H\u001b[34mc\u001b[m\u001b[34m\u001b[47m \u001b[m\u001b[26;17H\u001b[35m'\u001b[m\u001b[31m\u001b[47m~\u001b[m\u001b[27;17H \u001b[47m \u001b[m\u001b[28;17H\u001b[34me\u001b[m\u001b[34m\u001b[47md\u001b[m\u001b[29;17H,\u001b[47m \u001b[m\u001b[30;17H \u001b[47m \u001b[m\u001b[31;17H\u001b[34mM\u001b[m\u001b[34m\u001b[47mo\u001b[m\u001b[32;17H\u001b[34mt\u001b[m\u001b[34m\u001b[47m'\u001b[m\u001b[33;17H \u001b[47m \u001b[m\u001b[34;17H\u001b[34mn\u001b[m\u001b[34m\u001b[47m \u001b[m\u001b[35;110H\u001b[38;5;232m\u001b[48;5;81m4\u001b[4;18H"
+    ],
+    [
+      0.035912,
+      "\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.513450,
+      "\u001b[m\u001b[36;1H\u001b[K\u001b[?25l\u001b[36;1H\u001b[1m-- INSERT --\u001b[m\u001b[36;1H\u001b[K"
+    ],
+    [
+      0.031836,
+      "\u001b[2;17H\u001b[31m\u001b[47ms\u001b[m\u001b[31m:\u001b[m\u001b[3;17H\u001b[47m \u001b[m \u001b[5;17H\u001b[47m \u001b[m \u001b[6;17H\u001b[34m\u001b[47me\u001b[m\u001b[34m \u001b[m\u001b[7;17H\u001b[47m \u001b[m\u001b[35m'\u001b[m\u001b[8;17H\u001b[34m\u001b[47m3\u001b[m\u001b[34m \u001b[m\u001b[9;17H\u001b[35m\u001b[47m'\u001b[m \u001b[10;17H\u001b[34m\u001b[47mo\u001b[m\u001b[34mr\u001b[m\u001b[11;17H\u001b[31m\u001b[47mi\u001b[m\u001b[31ml\u001b[m\u001b[12;17H\u001b[34m\u001b[47me\u001b[m\u001b[34mr\u001b[m\u001b[13;17H\u001b[31m\u001b[47mr\u001b[m\u001b[35m'\u001b[m\u001b[14;17H\u001b[34m\u001b[47mS\u001b[m\u001b[34mc\u001b[m\u001b[15;17H\u001b[31m\u001b[47mr\u001b[m\u001b[31ma\u001b[m\u001b[16;17H\u001b[34m\u001b[47m/\u001b[m\u001b[34m/\u001b[m\u001b[17;17H\u001b[34m\u001b[47mb\u001b[m\u001b[34my\u001b[m\u001b[18;17H\u001b[47m \u001b[m \u001b[19;17H\u001b[34m\u001b[47m \u001b[m\u001b[34ma\u001b[m\u001b[20;17H\u001b[31m\u001b[47mr\u001b[m\u001b[31ma\u001b[m\u001b[21;17H\u001b[34m\u001b[47m \u001b[m\u001b[34mm\u001b[m\u001b[22;17H\u001b[31m\u001b[47mn\u001b[m\u001b[31mk\u001b[m\u001b[23;17H\u001b[34m\u001b[47m \u001b[m\u001b[34mA\u001b[m\u001b[24;17H\u001b[31m\u001b[47mr\u001b[m\u001b[35m'\u001b[m\u001b[25;17H\u001b[34m\u001b[47mc\u001b[m\u001b[34m \u001b[m\u001b[26;17H\u001b[35m\u001b[47m'\u001b[m\u001b[31m~\u001b[m\u001b[27;17H\u001b[47m \u001b[m \u001b[28;17H\u001b[34m\u001b[47me\u001b[m\u001b[34md\u001b[m\u001b[29;17H\u001b[47m,\u001b[m \u001b[30;17H\u001b[47m \u001b[m \u001b[31;17H\u001b[34m\u001b[47mM\u001b[m\u001b[34mo\u001b[m\u001b[32;17H\u001b[34m\u001b[47mt\u001b[m\u001b[34m'\u001b[m\u001b[33;17H\u001b[47m \u001b[m \u001b[34;17H\u001b[34m\u001b[47mn\u001b[m\u001b[34m \u001b[m\r\n\u001b[38;5;232m\u001b[48;5;144m \u001b[m\u001b[1m\u001b[38;5;232m\u001b[48;5;144mNORMAL\u001b[m\u001b[38;5;232m\u001b[48;5;81m \u001b[m\u0008\u001b[38;5;232m\u001b[48;5;144m \u001b[m\u001b[38;5;144m\u001b[48;5;16m\u001b[m\u001b"
+    ],
+    [
+      0.000017,
+      "[38;5;16m\u001b[48;5;144m\u001b[m\u001b[38;5;232m\u001b[48;5;144m \u001b[12C                                                  \u001b[m\u001b[38;5;67m\u001b[48;5;144m\u001b[m\u001b[20C\u001b[38;5;144m\u001b[48;5;16m\u001b[m\u001b[38;5;232m\u001b[48;5;144m   7% \u001b[m\u001b[1m\u001b[38;5;232m\u001b[48;5;144m   3\u001b[m\u001b[38;5;232m\u001b[48;5;81m:\u001b[m\u0008\u001b[38;5;232m\u001b[48;5;144m: 13  \u001b[4;17H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[36;1H\u001b[m:\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.111926,
+      "w"
+    ],
+    [
+      0.000008,
+      "\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.351847,
+      "\r"
+    ],
+    [
+      0.000388,
+      "\u001b[?25l\"Gemfile\""
+    ],
+    [
+      0.000808,
+      " 41L, 1354C written"
+    ],
+    [
+      0.526809,
+      ":"
+    ],
+    [
+      0.136061,
+      "w"
+    ],
+    [
+      0.087924,
+      "q"
+    ],
+    [
+      0.351900,
+      "\r\n"
+    ],
+    [
+      0.852694,
+      "\u001b]2;vim: Gemfile\u0007"
+    ],
+    [
+      0.067178,
+      "\u001b]2;vim: Gemfile\u0007"
+    ],
+    [
+      0.026797,
+      "\u001b]2;vim: Gemfile\u0007"
+    ],
+    [
+      0.003476,
+      "\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.025072,
+      "\u001b]2;vim: Gemfile\u0007"
+    ],
+    [
+      0.025219,
+      "\u001b]2;vim: Gemfile\u0007"
+    ],
+    [
+      0.034050,
+      "\u001b[1;1H\u001b[38;5;232m\u001b[48;5;144m ¹Gemfile \u001b[m\u001b[38;5;144m\u001b[48;5;67m\u001b[m\u001b[38;5;253m\u001b[48;5;67m \u001b[?25l\u001b[m\u001b[35;10H\u001b[38;5;16m\u001b[48;5;67m\u001b[m\u001b[38;5;253m\u001b[48;5;67m \u001b[m\u001b[10C\u001b[1m  \u001b[m\u001b[38;5;253m\u001b[48;5;67m                                                  \u001b[m\u001b[38;5;67m\u001b[48;5;67m"
+    ],
+    [
+      0.001245,
+      "\u001b[4;17H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000022,
+      "\u001b[?25l\u001b[m\u001b[36;1H\u001b[K\u001b[36;1H:"
+    ],
+    [
+      0.000036,
+      "wq\r"
+    ],
+    [
+      0.000418,
+      "\"Gemfile\""
+    ],
+    [
+      0.000825,
+      " 41L, 1354C written"
+    ],
+    [
+      0.074415,
+      "\u001b]2;vim: Gemfile\u0007"
+    ],
+    [
+      0.027604,
+      "\u001b]2;vim: Gemfile\u0007"
+    ],
+    [
+      0.004295,
+      "\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.022736,
+      "\u001b]2;vim: Gemfile\u0007"
+    ],
+    [
+      0.038762,
+      "\u001b]2;vim: Gemfile\u0007"
+    ],
+    [
+      0.057504,
+      "\r\u001b]2;Thanks for flying Vim\u0007\r\r\n\u001b[?1l\u001b\u003e\u001b[?1049l"
+    ],
+    [
+      0.006530,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                               \r \r\u001b]2;mmcdaris@mcretina: ~/projects/airbrake_test\u0007\u001b]1;..airbrake_test\u0007"
+    ],
+    [
+      0.021092,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36mairbrake_test \u001b[01;34m\u001b[01;34m \u001b[00m\u001b[K"
+    ],
+    [
+      0.000064,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.630578,
+      "b"
+    ],
+    [
+      0.095583,
+      "\u0008bu"
+    ],
+    [
+      0.144161,
+      "n"
+    ],
+    [
+      0.103798,
+      "d"
+    ],
+    [
+      0.095819,
+      "l"
+    ],
+    [
+      0.096316,
+      "e"
+    ],
+    [
+      0.095895,
+      " "
+    ],
+    [
+      0.152014,
+      "i"
+    ],
+    [
+      0.055744,
+      "n"
+    ],
+    [
+      0.088345,
+      "s"
+    ],
+    [
+      0.095863,
+      "t"
+    ],
+    [
+      0.080000,
+      "a"
+    ],
+    [
+      0.063926,
+      "l"
+    ],
+    [
+      0.152236,
+      "l"
+    ],
+    [
+      0.191915,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000045,
+      "\r\r\n"
+    ],
+    [
+      0.000938,
+      "\u001b]2;bundle install\u0007"
+    ],
+    [
+      0.000009,
+      "\u001b]1;bundle\u0007"
+    ],
+    [
+      1.442971,
+      "Resolving dependencies..."
+    ],
+    [
+      0.037014,
+      "\r\n"
+    ],
+    [
+      0.010381,
+      "Using rake 10.4.2\r\n"
+    ],
+    [
+      0.000159,
+      "Using i18n 0.7.0\r\n"
+    ],
+    [
+      0.000133,
+      "Using json 1.8.2\r\n"
+    ],
+    [
+      0.000148,
+      "Using minitest 5.6.1\r\n"
+    ],
+    [
+      0.000126,
+      "Using thread_safe 0.3.5\r\n"
+    ],
+    [
+      0.000112,
+      "Using tzinfo 1.2.2\r\n"
+    ],
+    [
+      0.000108,
+      "Using activesupport 4.1.5\r\n"
+    ],
+    [
+      0.000125,
+      "Using builder 3.2.2\r\n"
+    ],
+    [
+      0.000097,
+      "Using erubis 2.7.0\r\n"
+    ],
+    [
+      0.000078,
+      "Using actionview 4.1.5\r\n"
+    ],
+    [
+      0.000089,
+      "Using rack 1.5.3\r\n"
+    ],
+    [
+      0.000185,
+      "Using rack-test 0.6.3\r\n"
+    ],
+    [
+      0.000054,
+      "Using actionpack 4.1.5\r\n"
+    ],
+    [
+      0.000098,
+      "Using mime-types 1.25.1\r\n"
+    ],
+    [
+      0.000105,
+      "Using polyglot 0.3.5\r\n"
+    ],
+    [
+      0.000110,
+      "Using treetop 1.4.15\r\n"
+    ],
+    [
+      0.000142,
+      "Using mail 2.5.4\r\n"
+    ],
+    [
+      0.000101,
+      "Using actionmailer 4.1.5\r\n"
+    ],
+    [
+      0.000116,
+      "Using activemodel 4.1.5\r\n"
+    ],
+    [
+      0.000270,
+      "Using arel 5.0.1.20140414130214\r\n"
+    ],
+    [
+      0.000102,
+      "Using activerecord 4.1.5\r\n"
+    ],
+    [
+      0.000121,
+      "Using multi_json 1.11.0\r\n"
+    ],
+    [
+      0.000126,
+      "Using airbrake 4.1.0\r\n"
+    ],
+    [
+      0.000117,
+      "Using bundler 1.6.2\r\n"
+    ],
+    [
+      0.000178,
+      "Using coffee-script-source 1.9.1.1\r\n"
+    ],
+    [
+      0.000131,
+      "Using execjs 2.5.2\r\n"
+    ],
+    [
+      0.000121,
+      "Using coffee-script 2.4.1\r\n"
+    ],
+    [
+      0.000176,
+      "Using thor 0.19.1\r\n"
+    ],
+    [
+      0.000127,
+      "Using railties 4.1.5\r\n"
+    ],
+    [
+      0.000117,
+      "Using coffee-rails 4.0.1\r\n"
+    ],
+    [
+      0.000106,
+      "Using hike 1.2.3\r\n"
+    ],
+    [
+      0.000103,
+      "Using jbuilder 2.2.13\r\n"
+    ],
+    [
+      0.000108,
+      "Using jquery-rails 3.1.2\r\n"
+    ],
+    [
+      0.000143,
+      "Using tilt 1.4.1\r\n"
+    ],
+    [
+      0.000114,
+      "Using sprockets 2.12.3\r\n"
+    ],
+    [
+      0.000111,
+      "Using sprockets-rails 2.3.1\r\n"
+    ],
+    [
+      0.000108,
+      "Using rails 4.1.5\r\n"
+    ],
+    [
+      0.000161,
+      "Using rdoc 4.2.0\r\n"
+    ],
+    [
+      0.000100,
+      "Using sass 3.2.19\r\n"
+    ],
+    [
+      0.000162,
+      "Using sass-rails 4.0.5\r\n"
+    ],
+    [
+      0.000112,
+      "Using sdoc 0.4.1\r\n"
+    ],
+    [
+      0.000319,
+      "Using spring 1.3.6\r\n"
+    ],
+    [
+      0.000141,
+      "Using sqlite3 1.3.10\r\n"
+    ],
+    [
+      0.000137,
+      "Using turbolinks 2.5.3\r\n"
+    ],
+    [
+      0.000189,
+      "Using uglifier 2.7.1\r\n"
+    ],
+    [
+      0.004783,
+      "\u001b[32mYour bundle is complete!\u001b[0m\r\n"
+    ],
+    [
+      0.000013,
+      "\u001b[32mUse `bundle show [gemname]` to see where a bundled gem is installed.\u001b[0m\r\n"
+    ],
+    [
+      0.031667,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                               \r \r"
+    ],
+    [
+      0.000248,
+      "\u001b]2;mmcdaris@mcretina: ~/projects/airbrake_test\u0007\u001b]1;..airbrake_test\u0007"
+    ],
+    [
+      0.017211,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36mairbrake_test \u001b[01;34m\u001b[01;34m \u001b[00m\u001b[K"
+    ],
+    [
+      0.000064,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      2.343626,
+      "r"
+    ],
+    [
+      0.000098,
+      "\u0008ra"
+    ],
+    [
+      0.000137,
+      "i"
+    ],
+    [
+      0.000096,
+      "l"
+    ],
+    [
+      0.000105,
+      "s"
+    ],
+    [
+      0.000031,
+      " "
+    ],
+    [
+      0.000117,
+      "g"
+    ],
+    [
+      0.000087,
+      "e"
+    ],
+    [
+      0.000092,
+      "n"
+    ],
+    [
+      0.000096,
+      "e"
+    ],
+    [
+      0.000088,
+      "r"
+    ],
+    [
+      0.000089,
+      "a"
+    ],
+    [
+      0.000101,
+      "t"
+    ],
+    [
+      0.000093,
+      "e"
+    ],
+    [
+      0.000033,
+      " "
+    ],
+    [
+      0.000129,
+      "a"
+    ],
+    [
+      0.000080,
+      "i"
+    ],
+    [
+      0.000088,
+      "r"
+    ],
+    [
+      0.000079,
+      "b"
+    ],
+    [
+      0.000076,
+      "r"
+    ],
+    [
+      0.000057,
+      "a"
+    ],
+    [
+      0.000057,
+      "k"
+    ],
+    [
+      0.000056,
+      "e"
+    ],
+    [
+      0.000042,
+      " "
+    ],
+    [
+      0.000075,
+      "-"
+    ],
+    [
+      0.000156,
+      "-"
+    ],
+    [
+      0.000122,
+      "a"
+    ],
+    [
+      0.000106,
+      "p"
+    ],
+    [
+      0.000101,
+      "i"
+    ],
+    [
+      0.000092,
+      "-"
+    ],
+    [
+      0.000090,
+      "k"
+    ],
+    [
+      0.000085,
+      "e"
+    ],
+    [
+      0.000092,
+      "y"
+    ],
+    [
+      0.000030,
+      " "
+    ],
+    [
+      0.000095,
+      "8"
+    ],
+    [
+      0.000086,
+      "c"
+    ],
+    [
+      0.000084,
+      "3"
+    ],
+    [
+      0.000091,
+      "c"
+    ],
+    [
+      0.000088,
+      "5"
+    ],
+    [
+      0.000096,
+      "1"
+    ],
+    [
+      0.000088,
+      "1"
+    ],
+    [
+      0.000100,
+      "7"
+    ],
+    [
+      0.000146,
+      "e"
+    ],
+    [
+      0.000066,
+      "7"
+    ],
+    [
+      0.000074,
+      "a"
+    ],
+    [
+      0.000106,
+      "5"
+    ],
+    [
+      0.000090,
+      "7"
+    ],
+    [
+      0.000092,
+      "8"
+    ],
+    [
+      0.000092,
+      "3"
+    ],
+    [
+      0.000093,
+      "3"
+    ],
+    [
+      0.000089,
+      "8"
+    ],
+    [
+      0.000105,
+      "4"
+    ],
+    [
+      0.000072,
+      "d"
+    ],
+    [
+      0.000085,
+      "1"
+    ],
+    [
+      0.000293,
+      "8"
+    ],
+    [
+      0.000016,
+      "2"
+    ],
+    [
+      0.000148,
+      "7"
+    ],
+    [
+      0.000103,
+      "6"
+    ],
+    [
+      0.000096,
+      "f"
+    ],
+    [
+      0.000088,
+      "e"
+    ],
+    [
+      0.000090,
+      "a"
+    ],
+    [
+      0.000088,
+      "b"
+    ],
+    [
+      0.000090,
+      "1"
+    ],
+    [
+      0.000095,
+      "8"
+    ],
+    [
+      0.000095,
+      "c"
+    ],
+    [
+      0.000092,
+      "b"
+    ],
+    [
+      0.995297,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000036,
+      "\r\r\n"
+    ],
+    [
+      0.001012,
+      "\u001b]2;rails generate airbrake --api-key 8c3c5117e7a5783384d18276feab18cb\u0007"
+    ],
+    [
+      0.000013,
+      "\u001b]1;rails\u0007"
+    ],
+    [
+      5.203082,
+      "\u001b[1m\u001b[32m      create\u001b[0m  config/initializers/airbrake.rb\r\n"
+    ],
+    [
+      0.011709,
+      "\u001b[1m\u001b[32m         run\u001b[0m  rake airbrake:test from \".\"\r\n"
+    ],
+    [
+      2.662927,
+      "Configuration:\r\n"
+    ],
+    [
+      0.000110,
+      "                  api_key: \"8c3c5117e7a5783384d18276feab18cb\""
+    ],
+    [
+      0.000058,
+      "\r\n"
+    ],
+    [
+      0.000244,
+      "        backtrace_filters: [#\u003cProc:0x007facb2b7b7e8@/Users/mmcdaris/.rvm/gems/ruby"
+    ],
+    [
+      0.000143,
+      "\r\n"
+    ],
+    [
+      0.000105,
+      " development_environments: []"
+    ],
+    [
+      0.000056,
+      "\r\n"
+    ],
+    [
+      0.000035,
+      "       development_lookup: true"
+    ],
+    [
+      0.000022,
+      "\r\n"
+    ],
+    [
+      0.000093,
+      "         environment_name: \"development\""
+    ],
+    [
+      0.000038,
+      "\r\n"
+    ],
+    [
+      0.000090,
+      "                     host: \"api.airbrake.io\""
+    ],
+    [
+      0.000025,
+      "\r\n"
+    ],
+    [
+      0.000082,
+      "        http_open_timeout: 2"
+    ],
+    [
+      0.000031,
+      "\r\n"
+    ],
+    [
+      0.000041,
+      "        http_read_timeout: 5"
+    ],
+    [
+      0.000038,
+      "\r\n"
+    ],
+    [
+      0.000150,
+      "                   ignore: [\"ActiveRecord::RecordNotFound\", \"ActionController::Rou"
+    ],
+    [
+      0.000050,
+      "\r\n"
+    ],
+    [
+      0.000027,
+      "        ignore_by_filters: []"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000020,
+      "        ignore_user_agent: []"
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.000073,
+      "            notifier_name: \"Airbrake Notifier\""
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.000038,
+      "             notifier_url: \"https://github.com/airbrake/airbrake\""
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000039,
+      "         notifier_version: \"4.1.0\""
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.000054,
+      "           params_filters: [\"password\", \"password_confirmation\"]"
+    ],
+    [
+      0.000024,
+      "\r\n"
+    ],
+    [
+      0.000244,
+      "             project_root: #\u003cPathname:/Users/mmcdaris/projects/airbrake_test\u003e\r\n"
+    ],
+    [
+      0.000027,
+      "                     port: 80"
+    ],
+    [
+      0.000023,
+      "\r\n"
+    ],
+    [
+      0.000013,
+      "                 protocol: \"http\"\r\n"
+    ],
+    [
+      0.000015,
+      "               proxy_host: nil"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000013,
+      "               proxy_pass: nil"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000025,
+      "               proxy_port: nil\r\n"
+    ],
+    [
+      0.000029,
+      "               proxy_user: nil"
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.000026,
+      "                   secure: false"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000043,
+      "use_system_ssl_cert_chain: false"
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.000028,
+      "                framework: \"Rails: 4.1.5\""
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.000058,
+      "         user_information: \"Airbrake Error {{error_id}}\""
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.000051,
+      "   rescue_rake_exceptions: nil"
+    ],
+    [
+      0.000063,
+      "\r\n"
+    ],
+    [
+      0.000032,
+      " rake_environment_filters: []"
+    ],
+    [
+      0.000070,
+      "\r\n"
+    ],
+    [
+      0.000030,
+      "                test_mode: nil"
+    ],
+    [
+      0.000062,
+      "\r\n"
+    ],
+    [
+      0.000030,
+      "Setting up the Controller.\r\n"
+    ],
+    [
+      0.004568,
+      "Processing request.\r\n"
+    ],
+    [
+      0.013107,
+      "\r\n\r\n"
+    ],
+    [
+      0.000392,
+      "Started GET \"/verify\" for  at 2015-05-13 12:58:23 -0700\r\n"
+    ],
+    [
+      0.007633,
+      "Raising 'AirbrakeTestingException' to simulate application failure.\r\n"
+    ],
+    [
+      1.577592,
+      "** [Airbrake] Success: Net::HTTPOK\r\n"
+    ],
+    [
+      0.000025,
+      "** [Airbrake] Environment Info: [Ruby: 2.1.2] [Rails: 4.1.5] [Env: development]\r\n"
+    ],
+    [
+      0.000200,
+      "** [Airbrake] Response from Airbrake: \r\nUUID: 1419714066346066926\r\nURL:  https://airbrake.io/locate/1419714066346066926\r\n"
+    ],
+    [
+      0.000255,
+      "\r\nTesting airbrake via \"rake airbrake:test\". If you can see this, it works.\r\n"
+    ],
+    [
+      0.066422,
+      "false\r\n"
+    ],
+    [
+      0.153428,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                               \r \r"
+    ],
+    [
+      0.000258,
+      "\u001b]2;mmcdaris@mcretina: ~/projects/airbrake_test\u0007\u001b]1;..airbrake_test\u0007"
+    ],
+    [
+      0.031512,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36mairbrake_test \u001b[01;34m\u001b[01;34m \u001b[00m\u001b[K"
+    ],
+    [
+      0.000175,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      2.410968,
+      "e"
+    ],
+    [
+      0.223687,
+      "\u0008ex"
+    ],
+    [
+      0.191887,
+      "i"
+    ],
+    [
+      0.232129,
+      "t"
+    ],
+    [
+      1.600014,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000056,
+      "\r\r\n"
+    ],
+    [
+      0.001002,
+      "\u001b]2;exit\u0007"
+    ],
+    [
+      0.000011,
+      "\u001b]1;exit\u0007"
+    ]
+  ]
+}
