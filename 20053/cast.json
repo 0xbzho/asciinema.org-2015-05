@@ -1,0 +1,1494 @@
+{
+  "version": 1,
+  "width": 130,
+  "height": 39,
+  "duration": 15.999480,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      2.966093,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                 \r \r"
+    ],
+    [
+      0.000030,
+      "\u001b]2;jcgay@localhost: ~/dev/maven-color\u0007"
+    ],
+    [
+      0.000012,
+      "\u001b]1;..v/maven-color\u0007"
+    ],
+    [
+      0.109617,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[47m\u001b[30m \u001b[47m\u001b[30m  \u001b[47m\u001b[33m   \u001b[47m\u001b[31m   \u001b[47m\u001b[31m  \u001b[47m\u001b[31m   \u001b[47m\u001b[30m   \u001b[47m\u001b[30m   \u001b[47m\u001b[30m   \u001b[47m\u001b[31m   \u001b[47m\u001b[30m\u001b[47m\u001b[31m   \u001b[41m\u001b[37m \u001b[41m\u001b[30m\u001b[41m\u001b[30m --   --   \u001b[41m\u001b[30m(master  origin)  \u001b[41m\u001b[30m   \u001b[49m\u001b[31m\u001b[49m\u001b[39m\r\n~/dev/maven-color • "
+    ],
+    [
+      0.000007,
+      "\u001b[K\u001b[87C\u001b[00m12:55 \u001b[01;37m jcgay@localhost\u001b[00m\u001b[109D"
+    ],
+    [
+      0.000101,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.350712,
+      "\u001b[4mm\u001b[24m"
+    ],
+    [
+      0.143583,
+      "\u0008\u001b[24m\u001b[32mm\u001b[32mv\u001b[39m"
+    ],
+    [
+      0.079344,
+      "\u0008\u0008\u001b[32mm\u001b[32mv\u001b[32mn\u001b[39m"
+    ],
+    [
+      0.117463,
+      " "
+    ],
+    [
+      0.155562,
+      "\u001b[4m\u001b[33mc\u001b[24m\u001b[39m"
+    ],
+    [
+      0.029680,
+      "\u0008\u001b[24m\u001b[39mcl"
+    ],
+    [
+      0.193958,
+      "e"
+    ],
+    [
+      0.096085,
+      "a"
+    ],
+    [
+      0.072981,
+      "n"
+    ],
+    [
+      0.110843,
+      " "
+    ],
+    [
+      0.112394,
+      "\u001b[4m\u001b[33mi\u001b[24m\u001b[39m"
+    ],
+    [
+      0.246404,
+      "\u0008\u001b[24m\u001b[39min"
+    ],
+    [
+      0.105238,
+      "s"
+    ],
+    [
+      0.233360,
+      "t"
+    ],
+    [
+      0.230834,
+      "a"
+    ],
+    [
+      0.080498,
+      "l"
+    ],
+    [
+      0.127495,
+      "l"
+    ],
+    [
+      0.341129,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000059,
+      "\r\r\n"
+    ],
+    [
+      0.000793,
+      "\u001b]2;mvn -T4 clean install\u0007"
+    ],
+    [
+      0.000005,
+      "\u001b]1;mvn\u0007"
+    ],
+    [
+      1.908265,
+      "\u001b[39m[INFO] Scanning for projects...\r\n\u001b[0;39m"
+    ],
+    [
+      0.065719,
+      "\u001b[33m[WARNING] \r\n\u001b[0;39m"
+    ],
+    [
+      0.000038,
+      "\u001b[33m[WARNING] Some problems were encountered while building the effective model for com.github.jcgay.maven.color:maven-color-agent:jar:1.2-SNAPSHOT\r\n\u001b[0;39m"
+    ],
+    [
+      0.000098,
+      "\u001b[33m[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-shade-plugin is missing. @ com.github.jcgay.maven.color:maven-color-agent:[unknown-version], /Users/jcgay/dev/maven-color/maven-color-agent/pom.xml, line 33, column 21\r\n\u001b[0;39m"
+    ],
+    [
+      0.000054,
+      "\u001b[33m[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-toolchains-plugin is missing. @ com.github.jcgay.maven.color:maven-color:1.2-SNAPSHOT, /Users/jcgay/dev/maven-color/pom.xml, line 142, column 29\r\n\u001b[0;39m"
+    ],
+    [
+      0.000021,
+      "\u001b[33m[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-jar-plugin is missing. @ com.github.jcgay.maven.color:maven-color-agent:[unknown-version], /Users/jcgay/dev/maven-color/maven-color-agent/pom.xml, line 22, column 21\r\n\u001b[0;39m"
+    ],
+    [
+      0.000038,
+      "\u001b[33m[WARNING] \r\n\u001b[0;39m"
+    ],
+    [
+      0.000091,
+      "\u001b[33m[WARNING] Some problems were encountered while building the effective model for com.github.jcgay.maven.color:maven-color-logger:jar:1.2-SNAPSHOT\r\n\u001b[0;39m"
+    ],
+    [
+      0.000052,
+      "\u001b[33m[WARNING] 'build.plugins.plugin.version' for org.codehaus.plexus:plexus-component-metadata is missing. @ com.github.jcgay.maven.color:maven-color-logger:[unknown-version], /Users/jcgay/dev/maven-color/maven-color-logger/pom.xml, line 52, column 21\r\n\u001b[0;39m"
+    ],
+    [
+      0.000042,
+      "\u001b[33m[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-shade-plugin is missing. @ com.github.jcgay.maven.color:maven-color-logger:[unknown-version], /Users/jcgay/dev/maven-color/maven-color-logger/pom.xml, line 38, column 21\r\n\u001b[0;39m"
+    ],
+    [
+      0.000045,
+      "\u001b[33m[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-toolchains-plugin is missing. @ com.github.jcgay.maven.color:maven-color:1.2-SNAPSHOT, /Users/jcgay/dev/maven-color/pom.xml, line 142, column 29\r\n\u001b[0;39m"
+    ],
+    [
+      0.000063,
+      "\u001b[33m[WARNING] \r\n\u001b[0;39m"
+    ],
+    [
+      0.000052,
+      "\u001b[33m[WARNING] Some problems were encountered while building the effective model for com.github.jcgay.maven.color:maven-color-logback:jar:1.2-SNAPSHOT\r\n\u001b[0;39m"
+    ],
+    [
+      0.000034,
+      "\u001b[33m[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-toolchains-plugin is missing. @ com.github.jcgay.maven.color:maven-color:1.2-SNAPSHOT, /Users/jcgay/dev/maven-color/pom.xml, line 142, column 29\r\n\u001b[0;39m"
+    ],
+    [
+      0.000045,
+      "\u001b[33m[WARNING] \r\n\u001b[0;39m"
+    ],
+    [
+      0.000046,
+      "\u001b[33m[WARNING] Some problems were encountered while building the effective model for com.github.jcgay.maven.color:maven-color-core:jar:1.2-SNAPSHOT\r\n\u001b[0;39m"
+    ],
+    [
+      0.000054,
+      "\u001b[33m[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-toolchains-plugin is missing. @ com.github.jcgay.maven.color:maven-color:1.2-SNAPSHOT, /Users/jcgay/dev/maven-color/pom.xml, line 142, column 29\r\n\u001b[0;39m"
+    ],
+    [
+      0.000037,
+      "\u001b[33m[WARNING] \r\n\u001b[0;39m"
+    ],
+    [
+      0.000035,
+      "\u001b[33m[WARNING] Some problems were encountered while building the effective model for com.github.jcgay.maven.color:maven-color-log4j2:jar:1.2-SNAPSHOT\r\n\u001b[0;39m"
+    ],
+    [
+      0.000042,
+      "\u001b[33m[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-toolchains-plugin is missing. @ com.github.jcgay.maven.color:maven-color:1.2-SNAPSHOT, /Users/jcgay/dev/maven-color/pom.xml, line 142, column 29\r\n\u001b[0;39m"
+    ],
+    [
+      0.000033,
+      "\u001b[33m[WARNING] \r\n\u001b[0;39m"
+    ],
+    [
+      0.000034,
+      "\u001b[33m[WARNING] Some problems were encountered while building the effective model for com.github.jcgay.maven.color:maven-color:pom:1.2-SNAPSHOT\r\n\u001b[0;39m"
+    ],
+    [
+      0.000060,
+      "\u001b[33m[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-toolchains-plugin is missing. @ line 142, column 29\r\n\u001b[0;39m"
+    ],
+    [
+      0.000029,
+      "\u001b[33m[WARNING] \r\n\u001b[0;39m"
+    ],
+    [
+      0.000046,
+      "\u001b[33m[WARNING] It is highly recommended to fix these problems because they threaten the stability of your build.\r\n\u001b[0;39m"
+    ],
+    [
+      0.000028,
+      "\u001b[33m[WARNING] \r\n\u001b[0;39m"
+    ],
+    [
+      0.000044,
+      "\u001b[33m[WARNING] For this reason, future Maven versions might no longer support building such malformed projects.\r\n\u001b[0;39m"
+    ],
+    [
+      0.000029,
+      "\u001b[33m[WARNING] \r\n\u001b[0;39m"
+    ],
+    [
+      0.004733,
+      "\u001b[39m[INFO] ------------------------------------------------------------------------\r\n\u001b[0;39m"
+    ],
+    [
+      0.000005,
+      "\u001b[39m[INFO] Reactor Build Order:\r\n\u001b[0;39m"
+    ],
+    [
+      0.000028,
+      "\u001b[39m[INFO] \r\n\u001b[0;39m"
+    ],
+    [
+      0.000043,
+      "\u001b[39m[INFO] maven-color\r\n\u001b[0;39m"
+    ],
+    [
+      0.000024,
+      "\u001b[39m[INFO] maven-color-agent\r\n\u001b[0;39m"
+    ],
+    [
+      0.000031,
+      "\u001b[39m[INFO] maven-color-core\r\n\u001b[0;39m"
+    ],
+    [
+      0.000021,
+      "\u001b[39m[INFO] maven-color-logger\r\n\u001b[0;39m"
+    ],
+    [
+      0.000028,
+      "\u001b[39m[INFO] maven-color-logback\r\n\u001b[0;39m"
+    ],
+    [
+      0.000025,
+      "\u001b[39m[INFO] maven-color-log4j2\r\n\u001b[0;39m"
+    ],
+    [
+      0.005895,
+      "\u001b[39m[INFO] \r\n\u001b[0;39m"
+    ],
+    [
+      0.000171,
+      "\u001b[39m[INFO] Using the SmartBuilder implementation with a thread count of 4\r\n\u001b[0;39m"
+    ],
+    [
+      0.006205,
+      "\u001b[39m[INFO]                                                                         \r\n\u001b[0;39m"
+    ],
+    [
+      0.000005,
+      "\u001b[39m[INFO] ------------------------------------------------------------------------\r\n\u001b[0;39m"
+    ],
+    [
+      0.002494,
+      "\u001b[39m[INFO] \u001b[96mBuilding maven-color 1.2-SNAPSHOT\u001b[m\r\n\u001b[0;39m"
+    ],
+    [
+      0.000016,
+      "\u001b[39m[INFO] ------------------------------------------------------------------------\r\n\u001b[0;39m"
+    ],
+    [
+      0.056006,
+      "\u001b[39m[INFO] \r\n\u001b[0;39m"
+    ],
+    [
+      0.000034,
+      "\u001b[39m[INFO] \u001b[1m--- maven-clean-plugin:2.5:clean (default-clean) @ maven-color ---\u001b[m\r\n\u001b[0;39m"
+    ],
+    [
+      0.053451,
+      "\u001b[39m[INFO] \r\n\u001b[0;39m"
+    ],
+    [
+      0.000023,
+      "\u001b[39m[INFO] \u001b[1m--- maven-toolchains-plugin:1.1:toolchain (default) @ maven-color ---\u001b[m\r\n\u001b[0;39m"
+    ],
+    [
+      0.202608,
+      "\u001b[39m[INFO] Required toolchain: jdk [ version='1.6' ]\r\n\u001b[0;39m"
+    ],
+    [
+      0.005130,
+      "\u001b[39m[INFO] Found matching toolchain for type jdk: JDK[/Users/jcgay/.jenv/versions/1.6]\r\n\u001b[0;39m"
+    ],
+    [
+      0.000284,
+      "\u001b[39m[INFO] \r\n\u001b[0;39m"
+    ],
+    [
+      0.000026,
+      "\u001b[39m[INFO] \u001b[1m--- maven-install-plugin:2.4:install (default-install) @ maven-color ---\u001b[m\r\n\u001b[0;39m"
+    ],
+    [
+      0.077397,
+      "\u001b[39m[INFO] Installing /Users/jcgay/dev/maven-color/pom.xml to /Users/jcgay/.m2/repository/com/github/jcgay/maven/color/maven-color/1.2-SNAPSHOT/maven-color-1.2-SNAPSHOT.pom\r\n\u001b[0;39m"
+    ],
+    [
+      0.010042,
+      "\u001b[39m[INFO]                                                                         \r\n\u001b[0;39m"
+    ],
+    [
+      0.000006,
+      "\u001b[39m[INFO] ------------------------------------------------------------------------\r\n\u001b[0;39m"
+    ],
+    [
+      0.000039,
+      "\u001b[39m[INFO]                                                                         \r\n\u001b[0;39m"
+    ],
+    [
+      0.000052,
+      "\u001b[39m[INFO] \u001b[96mBuilding maven-color-core 1.2-SNAPSHOT\u001b[m\r\n\u001b[0;39m"
+    ],
+    [
+      0.000043,
+      "\u001b[39m[INFO] ------------------------------------------------------------------------\r\n\u001b[0;39m"
+    ],
+    [
+      0.000043,
+      "\u001b[39m[INFO] ------------------------------------------------------------------------\r\n\u001b[0;39m"
+    ],
+    [
+      0.000049,
+      "\u001b[39m[INFO] \u001b[96mBuilding maven-color-agent 1.2-SNAPSHOT\u001b[m\r\n\u001b[0;39m"
+    ],
+    [
+      0.000046,
+      "\u001b[39m[INFO] ------------------------------------------------------------------------\r\n\u001b[0;39m"
+    ],
+    [
+      0.071586,
+      "\u001b[39m[INFO] \r\n\u001b[0;39m"
+    ],
+    [
+      0.000093,
+      "\u001b[39m[INFO] \u001b[1m--- maven-clean-plugin:2.5:clean (default-clean) @ maven-color-agent ---\u001b[m\r\n\u001b[0;39m"
+    ],
+    [
+      0.001090,
+      "\u001b[39m[INFO] Deleting /Users/jcgay/dev/maven-color/maven-color-agent/target\r\n\u001b[0;39m"
+    ],
+    [
+      0.000850,
+      "\u001b[39m[INFO] \r\n\u001b[0;39m"
+    ],
+    [
+      0.000049,
+      "\u001b[39m[INFO] \u001b[1m--- maven-clean-plugin:2.5:clean (default-clean) @ maven-color-core ---\u001b[m\r\n\u001b[0;39m"
+    ],
+    [
+      0.001279,
+      "\u001b[39m[INFO] Deleting /Users/jcgay/dev/maven-color/maven-color-core/target\r\n\u001b[0;39m"
+    ],
+    [
+      0.000849,
+      "\u001b[39m[INFO] \r\n\u001b[0;39m"
+    ],
+    [
+      0.000190,
+      "\u001b[39m[INFO] \u001b[1m--- maven-toolchains-plugin:1.1:toolchain (default) @ maven-color-agent ---\u001b[m\r\n\u001b[0;39m"
+    ],
+    [
+      0.000557,
+      "\u001b[39m[INFO] Required toolchain: jdk [ version='1.6' ]\r\n\u001b[0;39m"
+    ],
+    [
+      0.000218,
+      "\u001b[39m[INFO] Found matching toolchain for type jdk: JDK[/Users/jcgay/.jenv/versions/1.6]\r\n\u001b[0;39m"
+    ],
+    [
+      0.000146,
+      "\u001b[39m[INFO] \r\n\u001b[0;39m"
+    ],
+    [
+      0.000092,
+      "\u001b[39m[INFO] \u001b[1m--- maven-resources-plugin:2.6:resources (default-resources) @ maven-color-agent ---\u001b[m\r\n\u001b[0;39m"
+    ],
+    [
+      0.001238,
+      "\u001b[39m[INFO] \r\n\u001b[0;39m"
+    ],
+    [
+      0.000034,
+      "\u001b[39m[INFO] \u001b[1m--- maven-toolchains-plugin:1.1:toolchain (default) @ maven-color-core ---\u001b[m\r\n\u001b[0;39m"
+    ],
+    [
+      0.088071,
+      "\u001b[39m[INFO] Required toolchain: jdk [ version='1.6' ]\r\n\u001b[0;39m"
+    ],
+    [
+      0.000323,
+      "\u001b[39m[INFO] Found matching toolchain for type jdk: JDK[/Users/jcgay/.jenv/versions/1.6]\r\n\u001b[0;39m"
+    ],
+    [
+      0.000160,
+      "\u001b[39m[INFO] \r\n\u001b[0;39m"
+    ],
+    [
+      0.000031,
+      "\u001b[39m[INFO] \u001b[1m--- maven-resources-plugin:2.6:resources (default-resources) @ maven-color-core ---\u001b[m\r\n\u001b[0;39m"
+    ],
+    [
+      0.007750,
+      "\u001b[33m[WARNING] Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!\r\n\u001b[0;39m"
+    ],
+    [
+      0.000042,
+      "\u001b[33m[WARNING] Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!\r\n\u001b[0;39m"
+    ],
+    [
+      0.000023,
+      "\u001b[39m[INFO] skip non existing resourceDirectory /Users/jcgay/dev/maven-color/maven-color-core/src/main/resources\r\n\u001b[0;39m"
+    ],
+    [
+      0.000055,
+      "\u001b[39m[INFO] skip non existing resourceDirectory /Users/jcgay/dev/maven-color/maven-color-agent/src/main/resources\r\n\u001b[0;39m"
+    ],
+    [
+      0.000924,
+      "\u001b[39m[INFO] \r\n\u001b[0;39m"
+    ],
+    [
+      0.000032,
+      "\u001b[39m[INFO] \r\n\u001b[0;39m"
+    ],
+    [
+      0.000089,
+      "\u001b[39m[INFO] \u001b[1m--- maven-compiler-plugin:3.1:compile (default-compile) @ maven-color-agent ---\u001b[m\r\n\u001b[0;39m"
+    ],
+    [
+      0.000070,
+      "\u001b[39m[INFO] \u001b[1m--- maven-compiler-plugin:3.1:compile (default-compile) @ maven-color-core ---\u001b[m\r\n\u001b[0;39m"
+    ],
+    [
+      0.157376,
+      "\u001b[39m[INFO] Toolchain in compiler-plugin: JDK[/Users/jcgay/.jenv/versions/1.6]\r\n\u001b[0;39m"
+    ],
+    [
+      0.000020,
+      "\u001b[39m[INFO] Toolchain in compiler-plugin: JDK[/Users/jcgay/.jenv/versions/1.6]\r\n\u001b[0;39m"
+    ],
+    [
+      0.009166,
+      "\u001b[39m[INFO] Changes detected - recompiling the module!\r\n\u001b[0;39m"
+    ],
+    [
+      0.000487,
+      "\u001b[39m[INFO] Changes detected - recompiling the module!\r\n\u001b[0;39m"
+    ],
+    [
+      0.000534,
+      "\u001b[33m[WARNING] File encoding has not been set, using platform encoding UTF-8, i.e. build is platform dependent!\r\n\u001b[0;39m"
+    ],
+    [
+      0.000039,
+      "\u001b[33m[WARNING] File encoding has not been set, using platform encoding UTF-8, i.e. build is platform dependent!\r\n\u001b[0;39m"
+    ],
+    [
+      0.004642,
+      "\u001b[39m[INFO] Compiling 4 source files to /Users/jcgay/dev/maven-color/maven-color-agent/target/classes\r\n\u001b[0;39m"
+    ],
+    [
+      0.000062,
+      "\u001b[39m[INFO] Compiling 2 source files to /Users/jcgay/dev/maven-color/maven-color-core/target/classes\r\n\u001b[0;39m"
+    ],
+    [
+      0.454395,
+      "\u001b[39m[INFO] \r\n\u001b[0;39m"
+    ],
+    [
+      0.000020,
+      "\u001b[39m[INFO] \u001b[1m--- maven-resources-plugin:2.6:testResources (default-testResources) @ maven-color-core ---\u001b[m\r\n\u001b[0;39m"
+    ],
+    [
+      0.001681,
+      "\u001b[33m[WARNING] Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!\r\n\u001b[0;39m"
+    ],
+    [
+      0.000037,
+      "\u001b[39m[INFO] skip non existing resourceDirectory /Users/jcgay/dev/maven-color/maven-color-core/src/test/resources\r\n\u001b[0;39m"
+    ],
+    [
+      0.000117,
+      "\u001b[39m[INFO] \r\n\u001b[0;39m"
+    ],
+    [
+      0.000045,
+      "\u001b[39m[INFO] \u001b[1m--- maven-compiler-plugin:3.1:testCompile (default-testCompile) @ maven-color-core ---\u001b[m\r\n\u001b[0;39m"
+    ],
+    [
+      0.002370,
+      "\u001b[39m[INFO] Toolchain in compiler-plugin: JDK[/Users/jcgay/.jenv/versions/1.6]\r\n\u001b[0;39m"
+    ],
+    [
+      0.002165,
+      "\u001b[39m[INFO] Changes detected - recompiling the module!\r\n\u001b[0;39m"
+    ],
+    [
+      0.000062,
+      "\u001b[33m[WARNING] File encoding has not been set, using platform encoding UTF-8, i.e. build is platform dependent!\r\n\u001b[0;39m"
+    ],
+    [
+      0.000431,
+      "\u001b[39m[INFO] Compiling 1 source file to /Users/jcgay/dev/maven-color/maven-color-core/target/test-classes\r\n\u001b[0;39m"
+    ],
+    [
+      0.008735,
+      "\u001b[39m[INFO] \r\n\u001b[0;39m"
+    ],
+    [
+      0.000048,
+      "\u001b[39m[INFO] \u001b[1m--- maven-resources-plugin:2.6:testResources (default-testResources) @ maven-color-agent ---\u001b[m\r\n\u001b[0;39m"
+    ],
+    [
+      0.000994,
+      "\u001b[33m[WARNING] Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!\r\n\u001b[0;39m"
+    ],
+    [
+      0.000051,
+      "\u001b[39m[INFO] skip non existing resourceDirectory /Users/jcgay/dev/maven-color/maven-color-agent/src/test/resources\r\n\u001b[0;39m"
+    ],
+    [
+      0.000155,
+      "\u001b[39m[INFO] \r\n\u001b[0;39m"
+    ],
+    [
+      0.000048,
+      "\u001b[39m[INFO] \u001b[1m--- maven-compiler-plugin:3.1:testCompile (default-testCompile) @ maven-color-agent ---\u001b[m\r\n\u001b[0;39m"
+    ],
+    [
+      0.001695,
+      "\u001b[39m[INFO] Toolchain in compiler-plugin: JDK[/Users/jcgay/.jenv/versions/1.6]\r\n\u001b[0;39m"
+    ],
+    [
+      0.000053,
+      "\u001b[39m[INFO] No sources to compile\r\n\u001b[0;39m"
+    ],
+    [
+      0.000098,
+      "\u001b[39m[INFO] \r\n\u001b[0;39m"
+    ],
+    [
+      0.000065,
+      "\u001b[39m[INFO] \u001b[1m--- maven-surefire-plugin:2.12.4:test (default-test) @ maven-color-agent ---\u001b[m\r\n\u001b[0;39m"
+    ],
+    [
+      0.110773,
+      "\u001b[39m[INFO] Toolchain in surefire-plugin: JDK[/Users/jcgay/.jenv/versions/1.6]\r\n\u001b[0;39m\u001b[39m[INFO] No tests to run.\r\n\u001b[0;39m"
+    ],
+    [
+      0.002592,
+      "\u001b[39m[INFO] \r\n\u001b[0;39m\u001b[39m[INFO] \u001b[1m--- maven-jar-plugin:2.4:jar (default-jar) @ maven-color-agent ---\u001b[m\r\n\u001b[0;39m"
+    ],
+    [
+      0.169862,
+      "\u001b[39m[INFO] Building jar: /Users/jcgay/dev/maven-color/maven-color-agent/target/maven-color-agent-1.2-SNAPSHOT.jar\r\n\u001b[0;39m"
+    ],
+    [
+      0.016056,
+      "\u001b[39m[INFO] \r\n\u001b[0;39m"
+    ],
+    [
+      0.000027,
+      "\u001b[39m[INFO] \u001b[1m--- maven-shade-plugin:2.3:shade (default) @ maven-color-agent ---\u001b[m\r\n\u001b[0;39m"
+    ],
+    [
+      0.218970,
+      "\u001b[39m[INFO] \r\n\u001b[0;39m"
+    ],
+    [
+      0.000012,
+      "\u001b[39m[INFO] \u001b[1m--- maven-surefire-plugin:2.12.4:test (default-test) @ maven-color-core ---\u001b[m\r\n\u001b[0;39m"
+    ],
+    [
+      0.009131,
+      "\u001b[39m[INFO] Toolchain in surefire-plugin: JDK[/Users/jcgay/.jenv/versions/1.6]\r\n\u001b[0;39m"
+    ],
+    [
+      0.000574,
+      "\u001b[39m[INFO] Including org.ow2.asm:asm:jar:4.1 in the shaded jar.\r\n\u001b[0;39m"
+    ],
+    [
+      0.006342,
+      "\u001b[39m[INFO] Surefire report directory: /Users/jcgay/dev/maven-color/maven-color-core/target/surefire-reports\r\n\u001b[0;39m"
+    ],
+    [
+      0.106653,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "-------------------------------------------------------\r\n T E S T S"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000012,
+      "-------------------------------------------------------"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.050410,
+      "\u001b[39m[INFO] Replacing original artifact with shaded artifact.\r\n\u001b[0;39m"
+    ],
+    [
+      0.000131,
+      "\u001b[39m[INFO] Replacing /Users/jcgay/dev/maven-color/maven-color-agent/target/maven-color-agent-1.2-SNAPSHOT.jar with /Users/jcgay/dev/maven-color/maven-color-agent/target/maven-color-agent-1.2-SNAPSHOT-shaded.jar\r\n\u001b[0;39m"
+    ],
+    [
+      0.000731,
+      "\u001b[39m[INFO] \r\n\u001b[0;39m"
+    ],
+    [
+      0.000102,
+      "\u001b[39m[INFO] \u001b[1m--- maven-install-plugin:2.4:install (default-install) @ maven-color-agent ---\u001b[m\r\n\u001b[0;39m"
+    ],
+    [
+      0.003975,
+      "\u001b[39m[INFO] Installing /Users/jcgay/dev/maven-color/maven-color-agent/target/maven-color-agent-1.2-SNAPSHOT.jar to /Users/jcgay/.m2/repository/com/github/jcgay/maven/color/maven-color-agent/1.2-SNAPSHOT/maven-color-agent-1.2-SNAPSHOT.jar\r\n\u001b[0;39m"
+    ],
+    [
+      0.000582,
+      "\u001b[39m[INFO] Installing /Users/jcgay/dev/maven-color/maven-color-agent/pom.xml to /Users/jcgay/.m2/repository/com/github/jcgay/maven/color/maven-color-agent/1.2-SNAPSHOT/maven-color-agent-1.2-SNAPSHOT.pom\r\n\u001b[0;39m"
+    ],
+    [
+      0.164283,
+      "Running com.github.jcgay.maven.color.core.MessageColorTest\r\n"
+    ],
+    [
+      0.083739,
+      "Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.083 sec\r\n"
+    ],
+    [
+      0.010022,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "Results :\r\n"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000037,
+      "Tests run: 3, Failures: 0, Errors: 0, Skipped: 0"
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.003423,
+      "\u001b[39m[INFO] \r\n\u001b[0;39m"
+    ],
+    [
+      0.000033,
+      "\u001b[39m[INFO] \u001b[1m--- maven-jar-plugin:2.4:jar (default-jar) @ maven-color-core ---\u001b[m\r\n\u001b[0;39m"
+    ],
+    [
+      0.005018,
+      "\u001b[39m[INFO] Building jar: /Users/jcgay/dev/maven-color/maven-color-core/target/maven-color-core-1.2-SNAPSHOT.jar\r\n\u001b[0;39m"
+    ],
+    [
+      0.004420,
+      "\u001b[39m[INFO] \r\n\u001b[0;39m"
+    ],
+    [
+      0.000031,
+      "\u001b[39m[INFO] \u001b[1m--- maven-install-plugin:2.4:install (default-install) @ maven-color-core ---\u001b[m\r\n\u001b[0;39m"
+    ],
+    [
+      0.001359,
+      "\u001b[39m[INFO] Installing /Users/jcgay/dev/maven-color/maven-color-core/target/maven-color-core-1.2-SNAPSHOT.jar to /Users/jcgay/.m2/repository/com/github/jcgay/maven/color/maven-color-core/1.2-SNAPSHOT/maven-color-core-1.2-SNAPSHOT.jar\r\n\u001b[0;39m"
+    ],
+    [
+      0.000561,
+      "\u001b[39m[INFO] Installing /Users/jcgay/dev/maven-color/maven-color-core/pom.xml to /Users/jcgay/.m2/repository/com/github/jcgay/maven/color/maven-color-core/1.2-SNAPSHOT/maven-color-core-1.2-SNAPSHOT.pom\r\n\u001b[0;39m"
+    ],
+    [
+      0.002670,
+      "\u001b[39m[INFO]                                                                         \r\n\u001b[0;39m"
+    ],
+    [
+      0.000039,
+      "\u001b[39m[INFO]                                                                         \r\n\u001b[0;39m"
+    ],
+    [
+      0.000046,
+      "\u001b[39m[INFO]                                                                         \r\n\u001b[0;39m"
+    ],
+    [
+      0.000061,
+      "\u001b[39m[INFO] ------------------------------------------------------------------------\r\n\u001b[0;39m"
+    ],
+    [
+      0.000039,
+      "\u001b[39m[INFO] ------------------------------------------------------------------------\r\n\u001b[0;39m"
+    ],
+    [
+      0.000049,
+      "\u001b[39m[INFO] ------------------------------------------------------------------------\r\n\u001b[0;39m"
+    ],
+    [
+      0.000067,
+      "\u001b[39m[INFO] \u001b[96mBuilding maven-color-logback 1.2-SNAPSHOT\u001b[m\r\n\u001b[0;39m"
+    ],
+    [
+      0.000056,
+      "\u001b[39m[INFO] \u001b[96mBuilding maven-color-logger 1.2-SNAPSHOT\u001b[m\r\n\u001b[0;39m"
+    ],
+    [
+      0.000052,
+      "\u001b[39m[INFO] \u001b[96mBuilding maven-color-log4j2 1.2-SNAPSHOT\u001b[m\r\n\u001b[0;39m"
+    ],
+    [
+      0.000042,
+      "\u001b[39m[INFO] ------------------------------------------------------------------------\r\n\u001b[0;39m"
+    ],
+    [
+      0.000046,
+      "\u001b[39m[INFO] ------------------------------------------------------------------------\r\n\u001b[0;39m"
+    ],
+    [
+      0.000038,
+      "\u001b[39m[INFO] ------------------------------------------------------------------------\r\n\u001b[0;39m"
+    ],
+    [
+      0.044503,
+      "\u001b[39m[INFO] \r\n\u001b[0;39m"
+    ],
+    [
+      0.000043,
+      "\u001b[39m[INFO] \u001b[1m--- maven-clean-plugin:2.5:clean (default-clean) @ maven-color-logback ---\u001b[m\r\n\u001b[0;39m"
+    ],
+    [
+      0.001087,
+      "\u001b[39m[INFO] Deleting /Users/jcgay/dev/maven-color/maven-color-logback/target\r\n\u001b[0;39m"
+    ],
+    [
+      0.005016,
+      "\u001b[39m[INFO] \r\n\u001b[0;39m"
+    ],
+    [
+      0.000081,
+      "\u001b[39m[INFO] \u001b[1m--- maven-clean-plugin:2.5:clean (default-clean) @ maven-color-log4j2 ---\u001b[m\r\n\u001b[0;39m"
+    ],
+    [
+      0.000885,
+      "\u001b[39m[INFO] Deleting /Users/jcgay/dev/maven-color/maven-color-log4j2/target\r\n\u001b[0;39m"
+    ],
+    [
+      0.000853,
+      "\u001b[39m[INFO] \r\n\u001b[0;39m\u001b[39m[INFO] \u001b[1m--- maven-toolchains-plugin:1.1:toolchain (default) @ maven-color-logback ---\u001b[m\r\n\u001b[0;39m"
+    ],
+    [
+      0.000262,
+      "\u001b[39m[INFO] \r\n\u001b[0;39m"
+    ],
+    [
+      0.000056,
+      "\u001b[39m[INFO] \u001b[1m--- maven-toolchains-plugin:1.1:toolchain (default) @ maven-color-log4j2 ---\u001b[m\r\n\u001b[0;39m"
+    ],
+    [
+      0.000572,
+      "\u001b[39m[INFO] Required toolchain: jdk [ version='1.6' ]\r\n\u001b[0;39m"
+    ],
+    [
+      0.000031,
+      "\u001b[39m[INFO] Required toolchain: jdk [ version='1.6' ]\r\n\u001b[0;39m"
+    ],
+    [
+      0.000312,
+      "\u001b[39m[INFO] Found matching toolchain for type jdk: JDK[/Users/jcgay/.jenv/versions/1.6]\r\n\u001b[0;39m"
+    ],
+    [
+      0.000034,
+      "\u001b[39m[INFO] Found matching toolchain for type jdk: JDK[/Users/jcgay/.jenv/versions/1.6]\r\n\u001b[0;39m"
+    ],
+    [
+      0.000100,
+      "\u001b[39m[INFO] \r\n\u001b[0;39m"
+    ],
+    [
+      0.000045,
+      "\u001b[39m[INFO] \r\n\u001b[0;39m"
+    ],
+    [
+      0.000062,
+      "\u001b[39m[INFO] \u001b[1m--- maven-resources-plugin:2.6:resources (default-resources) @ maven-color-log4j2 ---\u001b[m\r\n\u001b[0;39m"
+    ],
+    [
+      0.000057,
+      "\u001b[39m[INFO] \u001b[1m--- maven-resources-plugin:2.6:resources (default-resources) @ maven-color-logback ---\u001b[m\r\n\u001b[0;39m"
+    ],
+    [
+      0.001263,
+      "\u001b[33m[WARNING] Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!\r\n\u001b[0;39m"
+    ],
+    [
+      0.000048,
+      "\u001b[33m[WARNING] Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!\r\n\u001b[0;39m"
+    ],
+    [
+      0.000040,
+      "\u001b[39m[INFO] skip non existing resourceDirectory /Users/jcgay/dev/maven-color/maven-color-logback/src/main/resources\r\n\u001b[0;39m"
+    ],
+    [
+      0.000040,
+      "\u001b[39m[INFO] skip non existing resourceDirectory /Users/jcgay/dev/maven-color/maven-color-log4j2/src/main/resources\r\n\u001b[0;39m"
+    ],
+    [
+      0.000129,
+      "\u001b[39m[INFO] \r\n\u001b[0;39m"
+    ],
+    [
+      0.000030,
+      "\u001b[39m[INFO] \r\n\u001b[0;39m"
+    ],
+    [
+      0.000053,
+      "\u001b[39m[INFO] \u001b[1m--- maven-compiler-plugin:3.1:compile (default-compile) @ maven-color-logback ---\u001b[m\r\n\u001b[0;39m"
+    ],
+    [
+      0.000055,
+      "\u001b[39m[INFO] \u001b[1m--- maven-compiler-plugin:3.1:compile (default-compile) @ maven-color-log4j2 ---\u001b[m\r\n\u001b[0;39m"
+    ],
+    [
+      0.002070,
+      "\u001b[39m[INFO] Toolchain in compiler-plugin: JDK[/Users/jcgay/.jenv/versions/1.6]\r\n\u001b[0;39m"
+    ],
+    [
+      0.000029,
+      "\u001b[39m[INFO] Toolchain in compiler-plugin: JDK[/Users/jcgay/.jenv/versions/1.6]\r\n\u001b[0;39m"
+    ],
+    [
+      0.001469,
+      "\u001b[39m[INFO] Changes detected - recompiling the module!\r\n\u001b[0;39m"
+    ],
+    [
+      0.000032,
+      "\u001b[33m[WARNING] File encoding has not been set, using platform encoding UTF-8, i.e. build is platform dependent!\r\n\u001b[0;39m"
+    ],
+    [
+      0.000455,
+      "\u001b[39m[INFO] Changes detected - recompiling the module!\r\n\u001b[0;39m"
+    ],
+    [
+      0.000041,
+      "\u001b[33m[WARNING] File encoding has not been set, using platform encoding UTF-8, i.e. build is platform dependent!\r\n\u001b[0;39m"
+    ],
+    [
+      0.000171,
+      "\u001b[39m[INFO] Compiling 1 source file to /Users/jcgay/dev/maven-color/maven-color-log4j2/target/classes\r\n\u001b[0;39m"
+    ],
+    [
+      0.000553,
+      "\u001b[39m[INFO] Compiling 5 source files to /Users/jcgay/dev/maven-color/maven-color-logback/target/classes\r\n\u001b[0;39m"
+    ],
+    [
+      0.071794,
+      "\u001b[39m[INFO] \r\n\u001b[0;39m"
+    ],
+    [
+      0.000051,
+      "\u001b[39m[INFO] \u001b[1m--- maven-clean-plugin:2.5:clean (default-clean) @ maven-color-logger ---\u001b[m\r\n\u001b[0;39m"
+    ],
+    [
+      0.000811,
+      "\u001b[39m[INFO] Deleting /Users/jcgay/dev/maven-color/maven-color-logger/target\r\n\u001b[0;39m"
+    ],
+    [
+      0.005322,
+      "\u001b[39m[INFO] \r\n\u001b[0;39m"
+    ],
+    [
+      0.000040,
+      "\u001b[39m[INFO] \u001b[1m--- maven-toolchains-plugin:1.1:toolchain (default) @ maven-color-logger ---\u001b[m\r\n\u001b[0;39m"
+    ],
+    [
+      0.000626,
+      "\u001b[39m[INFO] Required toolchain: jdk [ version='1.6' ]\r\n\u001b[0;39m"
+    ],
+    [
+      0.000257,
+      "\u001b[39m[INFO] Found matching toolchain for type jdk: JDK[/Users/jcgay/.jenv/versions/1.6]\r\n\u001b[0;39m"
+    ],
+    [
+      0.000157,
+      "\u001b[39m[INFO] \r\n\u001b[0;39m"
+    ],
+    [
+      0.000035,
+      "\u001b[39m[INFO] \u001b[1m--- maven-resources-plugin:2.6:resources (default-resources) @ maven-color-logger ---\u001b[m\r\n\u001b[0;39m"
+    ],
+    [
+      0.001139,
+      "\u001b[33m[WARNING] Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!\r\n\u001b[0;39m"
+    ],
+    [
+      0.000065,
+      "\u001b[39m[INFO] skip non existing resourceDirectory /Users/jcgay/dev/maven-color/maven-color-logger/src/main/resources\r\n\u001b[0;39m"
+    ],
+    [
+      0.000119,
+      "\u001b[39m[INFO] \r\n\u001b[0;39m"
+    ],
+    [
+      0.000060,
+      "\u001b[39m[INFO] \u001b[1m--- maven-compiler-plugin:3.1:compile (default-compile) @ maven-color-logger ---\u001b[m\r\n\u001b[0;39m"
+    ],
+    [
+      0.001524,
+      "\u001b[39m[INFO] Toolchain in compiler-plugin: JDK[/Users/jcgay/.jenv/versions/1.6]\r\n\u001b[0;39m"
+    ],
+    [
+      0.002088,
+      "\u001b[39m[INFO] Changes detected - recompiling the module!\r\n\u001b[0;39m"
+    ],
+    [
+      0.000111,
+      "\u001b[33m[WARNING] File encoding has not been set, using platform encoding UTF-8, i.e. build is platform dependent!\r\n\u001b[0;39m"
+    ],
+    [
+      0.000583,
+      "\u001b[39m[INFO] Compiling 5 source files to /Users/jcgay/dev/maven-color/maven-color-logger/target/classes\r\n\u001b[0;39m"
+    ],
+    [
+      0.167423,
+      "\u001b[39m[INFO] -------------------------------------------------------------\r\n\u001b[0;39m"
+    ],
+    [
+      0.000027,
+      "\u001b[1;31m[ERROR] COMPILATION ERROR : \r\n\u001b[0;39m"
+    ],
+    [
+      0.000023,
+      "\u001b[39m[INFO] -------------------------------------------------------------\r\n\u001b[0;39m"
+    ],
+    [
+      0.000052,
+      "\u001b[1;31m[ERROR] /Users/jcgay/dev/maven-color/maven-color-log4j2/src/main/java/com/github/jcgay/maven/color/log4j2/MavenMessagePatternConverter.java:[20,49] ';' expected\r\n\u001b[0;39m"
+    ],
+    [
+      0.000031,
+      "\u001b[39m[INFO] 1 error\r\n\u001b[0;39m"
+    ],
+    [
+      0.000026,
+      "\u001b[39m[INFO] -------------------------------------------------------------\r\n\u001b[0;39m"
+    ],
+    [
+      0.281935,
+      "\u001b[39m[INFO] \r\n\u001b[0;39m"
+    ],
+    [
+      0.000041,
+      "\u001b[39m[INFO] \u001b[1m--- maven-resources-plugin:2.6:testResources (default-testResources) @ maven-color-logback ---\u001b[m\r\n\u001b[0;39m"
+    ],
+    [
+      0.000990,
+      "\u001b[33m[WARNING] Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!\r\n\u001b[0;39m"
+    ],
+    [
+      0.000032,
+      "\u001b[39m[INFO] skip non existing resourceDirectory /Users/jcgay/dev/maven-color/maven-color-logback/src/test/resources\r\n\u001b[0;39m"
+    ],
+    [
+      0.000178,
+      "\u001b[39m[INFO] \r\n\u001b[0;39m\u001b[39m[INFO] \u001b[1m--- maven-compiler-plugin:3.1:testCompile (default-testCompile) @ maven-color-logback ---\u001b[m\r\n\u001b[0;39m"
+    ],
+    [
+      0.001369,
+      "\u001b[39m[INFO] Toolchain in compiler-plugin: JDK[/Users/jcgay/.jenv/versions/1.6]\r\n\u001b[0;39m"
+    ],
+    [
+      0.002331,
+      "\u001b[39m[INFO] Changes detected - recompiling the module!\r\n\u001b[0;39m"
+    ],
+    [
+      0.000006,
+      "\u001b[33m[WARNING] File encoding has not been set, using platform encoding UTF-8, i.e. build is platform dependent!\r\n\u001b[0;39m"
+    ],
+    [
+      0.000407,
+      "\u001b[39m[INFO] Compiling 3 source files to /Users/jcgay/dev/maven-color/maven-color-logback/target/test-classes\r\n\u001b[0;39m"
+    ],
+    [
+      0.219657,
+      "\u001b[39m[INFO] \r\n\u001b[0;39m"
+    ],
+    [
+      0.000021,
+      "\u001b[39m[INFO] \u001b[1m--- plexus-component-metadata:1.6:generate-metadata (default) @ maven-color-logger ---\u001b[m\r\n\u001b[0;39m"
+    ],
+    [
+      0.163210,
+      "\u001b[39m[INFO] Discovered 1 component descriptors(s)\r\n\u001b[0;39m"
+    ],
+    [
+      0.043903,
+      "\u001b[39m[INFO] \r\n\u001b[0;39m"
+    ],
+    [
+      0.000053,
+      "\u001b[39m[INFO] \u001b[1m--- maven-resources-plugin:2.6:testResources (default-testResources) @ maven-color-logger ---\u001b[m\r\n\u001b[0;39m"
+    ],
+    [
+      0.001332,
+      "\u001b[33m[WARNING] Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!\r\n\u001b[0;39m"
+    ],
+    [
+      0.000036,
+      "\u001b[39m[INFO] skip non existing resourceDirectory /Users/jcgay/dev/maven-color/maven-color-logger/src/test/resources\r\n\u001b[0;39m"
+    ],
+    [
+      0.000109,
+      "\u001b[39m[INFO] \r\n\u001b[0;39m"
+    ],
+    [
+      0.000027,
+      "\u001b[39m[INFO] \u001b[1m--- maven-compiler-plugin:3.1:testCompile (default-testCompile) @ maven-color-logger ---\u001b[m\r\n\u001b[0;39m"
+    ],
+    [
+      0.001735,
+      "\u001b[39m[INFO] Toolchain in compiler-plugin: JDK[/Users/jcgay/.jenv/versions/1.6]\r\n\u001b[0;39m"
+    ],
+    [
+      0.002277,
+      "\u001b[39m[INFO] Changes detected - recompiling the module!\r\n\u001b[0;39m\u001b[33m[WARNING] File encoding has not been set, using platform encoding UTF-8, i.e. build is platform dependent!\r\n\u001b[0;39m"
+    ],
+    [
+      0.000637,
+      "\u001b[39m[INFO] Compiling 4 source files to /Users/jcgay/dev/maven-color/maven-color-logger/target/test-classes\r\n\u001b[0;39m"
+    ],
+    [
+      0.130416,
+      "\u001b[39m[INFO] \r\n\u001b[0;39m"
+    ],
+    [
+      0.000014,
+      "\u001b[39m[INFO] \u001b[1m--- maven-surefire-plugin:2.12.4:test (default-test) @ maven-color-logback ---\u001b[m\r\n\u001b[0;39m"
+    ],
+    [
+      0.002178,
+      "\u001b[39m[INFO] Toolchain in surefire-plugin: JDK[/Users/jcgay/.jenv/versions/1.6]\r\n\u001b[0;39m"
+    ],
+    [
+      0.000968,
+      "\u001b[39m[INFO] Surefire report directory: /Users/jcgay/dev/maven-color/maven-color-logback/target/surefire-reports\r\n\u001b[0;39m"
+    ],
+    [
+      0.001113,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "-------------------------------------------------------\r\n T E S T S"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000016,
+      "-------------------------------------------------------"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.218657,
+      "Running com.github.jcgay.maven.color.logback.MavenHighlightConverterTest\r\n"
+    ],
+    [
+      0.091834,
+      "Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.092 sec\r\n"
+    ],
+    [
+      0.002643,
+      "Running com.github.jcgay.maven.color.logback.MavenMessageConverterTest\r\n"
+    ],
+    [
+      0.017180,
+      "Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.017 sec\r\n"
+    ],
+    [
+      0.002957,
+      "Running com.github.jcgay.maven.color.logback.WithJansiResolverTest\r\n"
+    ],
+    [
+      0.160382,
+      "Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.16 sec\r\n"
+    ],
+    [
+      0.010481,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "Results :\r\n"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000013,
+      "Tests run: 9, Failures: 0, Errors: 0, Skipped: 0"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000035,
+      "\r\n"
+    ],
+    [
+      0.000767,
+      "\u001b[39m[INFO] \r\n\u001b[0;39m"
+    ],
+    [
+      0.000040,
+      "\u001b[39m[INFO] \u001b[1m--- maven-jar-plugin:2.4:jar (default-jar) @ maven-color-logback ---\u001b[m\r\n\u001b[0;39m"
+    ],
+    [
+      0.004008,
+      "\u001b[39m[INFO] Building jar: /Users/jcgay/dev/maven-color/maven-color-logback/target/maven-color-logback-1.2-SNAPSHOT.jar\r\n\u001b[0;39m"
+    ],
+    [
+      0.004668,
+      "\u001b[39m[INFO] \r\n\u001b[0;39m"
+    ],
+    [
+      0.000045,
+      "\u001b[39m[INFO] \u001b[1m--- maven-assembly-plugin:2.2-beta-5:single (make-assembly) @ maven-color-logback ---\u001b[m\r\n\u001b[0;39m"
+    ],
+    [
+      0.069784,
+      "\u001b[39m[INFO] \r\n\u001b[0;39m"
+    ],
+    [
+      0.000025,
+      "\u001b[39m[INFO] \u001b[1m--- maven-surefire-plugin:2.12.4:test (default-test) @ maven-color-logger ---\u001b[m\r\n\u001b[0;39m"
+    ],
+    [
+      0.187912,
+      "\u001b[39m[INFO] Toolchain in surefire-plugin: JDK[/Users/jcgay/.jenv/versions/1.6]\r\n\u001b[0;39m"
+    ],
+    [
+      0.000659,
+      "\u001b[39m[INFO] Surefire report directory: /Users/jcgay/dev/maven-color/maven-color-logger/target/surefire-reports\r\n\u001b[0;39m"
+    ],
+    [
+      0.000922,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "-------------------------------------------------------\r\n T E S T S"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "-------------------------------------------------------"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.223361,
+      "Running com.github.jcgay.maven.color.logger.AnsiColorConsoleLoggerTest\r\n"
+    ],
+    [
+      0.095304,
+      "Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.095 sec\r\n"
+    ],
+    [
+      0.001854,
+      "Running com.github.jcgay.maven.color.logger.AnsiColorLoggerTest\r\n"
+    ],
+    [
+      0.021516,
+      "Tests run: 21, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.022 sec\r\n"
+    ],
+    [
+      0.001974,
+      "Running com.github.jcgay.maven.color.logger.AnsiOutputConsumerTest\r\n"
+    ],
+    [
+      0.001961,
+      "Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.002 sec\r\n"
+    ],
+    [
+      0.001135,
+      "Running com.github.jcgay.maven.color.plugin.ClassRealmModifierBuildPluginManagerTest\r\n"
+    ],
+    [
+      0.002442,
+      "\u001b[39m[INFO] Building tar : /Users/jcgay/dev/maven-color/maven-color-logback/target/maven-color-logback-1.2-SNAPSHOT-bundle.tar.gz\r\n\u001b[0;39m"
+    ],
+    [
+      0.000949,
+      "Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.003 sec\r\n"
+    ],
+    [
+      0.009480,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "Results :\r\n\r\n"
+    ],
+    [
+      0.000014,
+      "Tests run: 27, Failures: 0, Errors: 0, Skipped: 0"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000549,
+      "\u001b[39m[INFO] \r\n\u001b[0;39m"
+    ],
+    [
+      0.000044,
+      "\u001b[39m[INFO] \u001b[1m--- maven-jar-plugin:2.4:jar (default-jar) @ maven-color-logger ---\u001b[m\r\n\u001b[0;39m"
+    ],
+    [
+      0.004868,
+      "\u001b[39m[INFO] Building jar: /Users/jcgay/dev/maven-color/maven-color-logger/target/maven-color-logger-1.2-SNAPSHOT.jar\r\n\u001b[0;39m"
+    ],
+    [
+      0.005151,
+      "\u001b[39m[INFO] \r\n\u001b[0;39m"
+    ],
+    [
+      0.000020,
+      "\u001b[39m[INFO] \u001b[1m--- maven-shade-plugin:2.3:shade (default) @ maven-color-logger ---\u001b[m\r\n\u001b[0;39m"
+    ],
+    [
+      0.001055,
+      "\u001b[39m[INFO] Including org.fusesource.jansi:jansi:jar:1.11 in the shaded jar.\r\n\u001b[0;39m"
+    ],
+    [
+      0.000004,
+      "\u001b[39m[INFO] Including com.github.jcgay.maven.color:maven-color-core:jar:1.2-SNAPSHOT in the shaded jar.\r\n\u001b[0;39m"
+    ],
+    [
+      0.019587,
+      "\u001b[39m[INFO] Replacing original artifact with shaded artifact.\r\n\u001b[0;39m"
+    ],
+    [
+      0.000027,
+      "\u001b[39m[INFO] Replacing /Users/jcgay/dev/maven-color/maven-color-logger/target/maven-color-logger-1.2-SNAPSHOT.jar with /Users/jcgay/dev/maven-color/maven-color-logger/target/maven-color-logger-1.2-SNAPSHOT-shaded.jar\r\n\u001b[0;39m"
+    ],
+    [
+      0.000287,
+      "\u001b[39m[INFO] \r\n\u001b[0;39m"
+    ],
+    [
+      0.000085,
+      "\u001b[39m[INFO] \u001b[1m--- maven-install-plugin:2.4:install (default-install) @ maven-color-logger ---\u001b[m\r\n\u001b[0;39m"
+    ],
+    [
+      0.001398,
+      "\u001b[39m[INFO] Installing /Users/jcgay/dev/maven-color/maven-color-logger/target/maven-color-logger-1.2-SNAPSHOT.jar to /Users/jcgay/.m2/repository/com/github/jcgay/maven/color/maven-color-logger/1.2-SNAPSHOT/maven-color-logger-1.2-SNAPSHOT.jar\r\n\u001b[0;39m"
+    ],
+    [
+      0.000742,
+      "\u001b[39m[INFO] Installing /Users/jcgay/dev/maven-color/maven-color-logger/pom.xml to /Users/jcgay/.m2/repository/com/github/jcgay/maven/color/maven-color-logger/1.2-SNAPSHOT/maven-color-logger-1.2-SNAPSHOT.pom\r\n\u001b[0;39m"
+    ],
+    [
+      0.239111,
+      "\u001b[39m[INFO] Building zip: /Users/jcgay/dev/maven-color/maven-color-logback/target/maven-color-logback-1.2-SNAPSHOT-bundle.zip\r\n\u001b[0;39m"
+    ],
+    [
+      0.057217,
+      "\u001b[39m[INFO] \r\n\u001b[0;39m"
+    ],
+    [
+      0.000023,
+      "\u001b[39m[INFO] \u001b[1m--- maven-install-plugin:2.4:install (default-install) @ maven-color-logback ---\u001b[m\r\n\u001b[0;39m"
+    ],
+    [
+      0.001495,
+      "\u001b[39m[INFO] Installing /Users/jcgay/dev/maven-color/maven-color-logback/target/maven-color-logback-1.2-SNAPSHOT.jar to /Users/jcgay/.m2/repository/com/github/jcgay/maven/color/maven-color-logback/1.2-SNAPSHOT/maven-color-logback-1.2-SNAPSHOT.jar\r\n\u001b[0;39m"
+    ],
+    [
+      0.000752,
+      "\u001b[39m[INFO] Installing /Users/jcgay/dev/maven-color/maven-color-logback/pom.xml to /Users/jcgay/.m2/repository/com/github/jcgay/maven/color/maven-color-logback/1.2-SNAPSHOT/maven-color-logback-1.2-SNAPSHOT.pom\r\n\u001b[0;39m"
+    ],
+    [
+      0.003257,
+      "\u001b[39m[INFO] Installing /Users/jcgay/dev/maven-color/maven-color-logback/target/maven-color-logback-1.2-SNAPSHOT-bundle.tar.gz to /Users/jcgay/.m2/repository/com/github/jcgay/maven/color/maven-color-logback/1.2-SNAPSHOT/maven-color-logback-1.2-SNAPSHOT-bundle.tar.gz\r\n\u001b[0;39m"
+    ],
+    [
+      0.003181,
+      "\u001b[39m[INFO] Installing /Users/jcgay/dev/maven-color/maven-color-logback/target/maven-color-logback-1.2-SNAPSHOT-bundle.zip to /Users/jcgay/.m2/repository/com/github/jcgay/maven/color/maven-color-logback/1.2-SNAPSHOT/maven-color-logback-1.2-SNAPSHOT-bundle.zip\r\n\u001b[0;39m"
+    ],
+    [
+      0.003070,
+      "\u001b[39m[INFO] ------------------------------------------------------------------------\r\n\u001b[0;39m"
+    ],
+    [
+      0.000005,
+      "\u001b[39m[INFO] Reactor Summary:\r\n\u001b[0;39m"
+    ],
+    [
+      0.000020,
+      "\u001b[39m[INFO] \r\n\u001b[0;39m"
+    ],
+    [
+      0.000214,
+      "\u001b[39m[INFO] maven-color ........................................ \u001b[92;1mSUCCESS\u001b[m [  0.407 s]\r\n\u001b[0;39m"
+    ],
+    [
+      0.000076,
+      "\u001b[39m[INFO] maven-color-agent .................................. \u001b[92;1mSUCCESS\u001b[m [  1.521 s]\r\n\u001b[0;39m"
+    ],
+    [
+      0.000090,
+      "\u001b[39m[INFO] maven-color-core ................................... \u001b[92;1mSUCCESS\u001b[m [  1.794 s]\r\n\u001b[0;39m"
+    ],
+    [
+      0.000085,
+      "\u001b[39m[INFO] maven-color-logger ................................. \u001b[92;1mSUCCESS\u001b[m [  2.338 s]\r\n\u001b[0;39m"
+    ],
+    [
+      0.000088,
+      "\u001b[39m[INFO] maven-color-logback ................................ \u001b[92;1mSUCCESS\u001b[m [  2.643 s]\r\n\u001b[0;39m"
+    ],
+    [
+      0.000153,
+      "\u001b[39m[INFO] maven-color-log4j2 ................................. \u001b[91;1mFAILURE\u001b[m [  0.314 s]\r\n\u001b[0;39m"
+    ],
+    [
+      0.000018,
+      "\u001b[39m[INFO] ------------------------------------------------------------------------\r\n\u001b[0;39m"
+    ],
+    [
+      0.000035,
+      "\u001b[39m[INFO] \u001b[91;1mBUILD FAILURE\u001b[m\r\n\u001b[0;39m"
+    ],
+    [
+      0.000032,
+      "\u001b[39m[INFO] ------------------------------------------------------------------------\r\n\u001b[0;39m"
+    ],
+    [
+      0.000106,
+      "\u001b[39m[INFO] Total time: 4.936 s (Wall Clock)\r\n\u001b[0;39m"
+    ],
+    [
+      0.000203,
+      "\u001b[39m[INFO] Finished at: 2015-05-14T12:55:51+02:00\r\n\u001b[0;39m"
+    ],
+    [
+      0.113674,
+      "\u001b[39m[INFO] Final Memory: 18M/439M\r\n\u001b[0;39m"
+    ],
+    [
+      0.000016,
+      "\u001b[39m[INFO] ------------------------------------------------------------------------\r\n\u001b[0;39m"
+    ],
+    [
+      1.018473,
+      "\u001b[1;31m[ERROR] Failed to execute goal org.apache.maven.plugins:maven-compiler-plugin:3.1:compile (default-compile) on project maven-color-log4j2: Compilation failure\r\n\u001b[0;39m"
+    ],
+    [
+      0.000007,
+      "\u001b[1;31m[ERROR] /Users/jcgay/dev/maven-color/maven-color-log4j2/src/main/java/com/github/jcgay/maven/color/log4j2/MavenMessagePatternConverter.java:[20,49] ';' expected\r\n\u001b[0;39m"
+    ],
+    [
+      0.000038,
+      "\u001b[1;31m[ERROR] -\u003e [Help 1]\r\n\u001b[0;39m"
+    ],
+    [
+      0.000057,
+      "\u001b[1;31m[ERROR] \r\n\u001b[0;39m"
+    ],
+    [
+      0.000005,
+      "\u001b[1;31m[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.\r\n\u001b[0;39m"
+    ],
+    [
+      0.000037,
+      "\u001b[1;31m[ERROR] Re-run Maven using the -X switch to enable full debug logging.\r\n\u001b[0;39m"
+    ],
+    [
+      0.000034,
+      "\u001b[1;31m[ERROR] \r\n\u001b[0;39m"
+    ],
+    [
+      0.000029,
+      "\u001b[1;31m[ERROR] For more information about the errors and possible solutions, please read the following articles:\r\n\u001b[0;39m"
+    ],
+    [
+      0.000067,
+      "\u001b[1;31m[ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/MojoFailureException\r\n\u001b[0;39m"
+    ],
+    [
+      0.000049,
+      "\u001b[1;31m[ERROR] \r\n\u001b[0;39m"
+    ],
+    [
+      0.000031,
+      "\u001b[1;31m[ERROR] After correcting the problems, you can resume the build with the command\r\n\u001b[0;39m"
+    ],
+    [
+      0.000015,
+      "\u001b[1;31m[ERROR]   mvn \u003cgoals\u003e -rf :maven-color-log4j2\r\n\u001b[0;39m"
+    ],
+    [
+      0.355857,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                 \r \r"
+    ],
+    [
+      0.000063,
+      "\u001b]2;jcgay@localhost: ~/dev/maven-color\u0007"
+    ],
+    [
+      0.000014,
+      "\u001b]1;..v/maven-color\u0007"
+    ],
+    [
+      0.107360,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[47m\u001b[30m \u001b[47m\u001b[30m  \u001b[47m\u001b[33m   \u001b[47m\u001b[31m   \u001b[47m\u001b[31m  \u001b[47m\u001b[31m   \u001b[47m\u001b[30m   \u001b[47m\u001b[30m   \u001b[47m\u001b[30m   \u001b[47m\u001b[31m   \u001b[47m\u001b[30m\u001b[47m\u001b[31m   \u001b[41m\u001b[37m \u001b[41m\u001b[30m\u001b[41m\u001b[30m --   --   \u001b[41m\u001b[30m(master  origin)  \u001b[41m\u001b[30m   \u001b[49m\u001b[31m\u001b[49m\u001b[39m\r\n~/dev/maven-color • "
+    ],
+    [
+      0.000006,
+      "\u001b[K\u001b[87C\u001b[00m12:55 \u001b[01;37m jcgay@localhost\u001b[00m\u001b[109D"
+    ],
+    [
+      0.000021,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.628402,
+      "\r\r\n"
+    ]
+  ]
+}
