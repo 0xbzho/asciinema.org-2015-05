@@ -1,0 +1,158 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 24,
+  "duration": 25.558257,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.114596,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000048,
+      "\u001b]2;rtemme@rtemme-macbook: ~\u0007"
+    ],
+    [
+      0.000019,
+      "\u001b]1;~\u0007"
+    ],
+    [
+      0.000075,
+      "\u001b]7;file:///Users/rtemme\u0007"
+    ],
+    [
+      0.010864,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32mrtemme@rtemme-macbook\u001b[00m : ~\r\n\u001b[01;36m➜ \u001b[00m "
+    ],
+    [
+      0.000014,
+      "\u001b[K"
+    ],
+    [
+      0.000191,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      4.789082,
+      "i"
+    ],
+    [
+      0.102942,
+      "\u0008ip"
+    ],
+    [
+      0.095888,
+      "e"
+    ],
+    [
+      0.072170,
+      "r"
+    ],
+    [
+      0.184127,
+      "f"
+    ],
+    [
+      0.136002,
+      " "
+    ],
+    [
+      0.159946,
+      "-"
+    ],
+    [
+      0.120048,
+      "s"
+    ],
+    [
+      0.471790,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000093,
+      "\r\r\n"
+    ],
+    [
+      0.001196,
+      "\u001b]2;iperf -s\u0007"
+    ],
+    [
+      0.000011,
+      "\u001b]1;iperf\u0007"
+    ],
+    [
+      0.003234,
+      "------------------------------------------------------------\r\nServer listening on TCP port 5001\r\nTCP window size:  128 KByte (default)\r\n------------------------------------------------------------\r\n"
+    ],
+    [
+      5.781564,
+      "[  5] local 10.0.1.108 port 5001 connected with 10.0.1.107 port 54827\r\n[  4] local 10.0.1.108 port 5001 connected with 10.0.1.107 port 54825\r\n"
+    ],
+    [
+      0.000011,
+      "[  6] local 10.0.1.108 port 5001 connected with 10.0.1.107 port 54826\r\n"
+    ],
+    [
+      0.010079,
+      "[  7] local 10.0.1.108 port 5001 connected with 10.0.1.107 port 54829\r\n[  8] local 10.0.1.108 port 5001 connected with 10.0.1.107 port 54828\r\n"
+    ],
+    [
+      8.882571,
+      "[ ID] Interval       Transfer     Bandwidth\r\n[  5]  0.0- 8.9 sec   200 MBytes   189 Mbits/sec\r\n"
+    ],
+    [
+      0.031456,
+      "[  4]  0.0- 8.9 sec   200 MBytes   188 Mbits/sec\r\n[  6]  0.0- 8.9 sec   200 MBytes   188 Mbits/sec\r\n[  8]  0.0- 8.9 sec   200 MBytes   188 Mbits/sec\r\n"
+    ],
+    [
+      0.012548,
+      "[  7]  0.0- 8.9 sec   200 MBytes   188 Mbits/sec\r\n"
+    ],
+    [
+      0.000008,
+      "[SUM]  0.0- 8.9 sec  1000 MBytes   940 Mbits/sec\r\n"
+    ],
+    [
+      3.225584,
+      "^C"
+    ],
+    [
+      0.000804,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000095,
+      "\u001b]2;rtemme@rtemme-macbook: ~\u0007"
+    ],
+    [
+      0.000034,
+      "\u001b]1;~\u0007"
+    ],
+    [
+      0.000076,
+      "\u001b]7;file:///Users/rtemme\u0007"
+    ],
+    [
+      0.010024,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32mrtemme@rtemme-macbook\u001b[00m : ~\r\n\u001b[01;36m➜ \u001b[00m "
+    ],
+    [
+      0.000019,
+      "\u001b[K"
+    ],
+    [
+      0.000020,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.316777,
+      "\r\r\n"
+    ]
+  ]
+}
