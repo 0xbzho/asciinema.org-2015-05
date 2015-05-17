@@ -1,0 +1,266 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 24,
+  "duration": 12.770011,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.007822,
+      "\u001b[?1034hbash-3.2$ "
+    ],
+    [
+      0.775917,
+      "."
+    ],
+    [
+      0.159875,
+      "/"
+    ],
+    [
+      0.231646,
+      "b"
+    ],
+    [
+      0.144228,
+      "e"
+    ],
+    [
+      0.103826,
+      "a"
+    ],
+    [
+      0.088173,
+      "c"
+    ],
+    [
+      0.144019,
+      "o"
+    ],
+    [
+      0.072080,
+      "n"
+    ],
+    [
+      0.495979,
+      "s"
+    ],
+    [
+      0.168345,
+      "can "
+    ],
+    [
+      0.375464,
+      "\r\n"
+    ],
+    [
+      0.045507,
+      "RegionUUID:2B162531-FD29-4758-85B4-555A6DFF00FF PowerCalibration:-69 Type:iBeacon MajorNumber:23764 MinorNumber:54248 RSSI:-75 \r\n"
+    ],
+    [
+      0.002881,
+      "RegionUUID:E2C56DB5-DFFB-48D2-B060-D0F5A71096E0 PowerCalibration:-60 Type:iBeacon MajorNumber:1 MinorNumber:2 RSSI:-70 \r\n"
+    ],
+    [
+      0.250376,
+      "RegionUUID:2B162531-FD29-4758-85B4-555A6DFF00FF PowerCalibration:-69 Type:iBeacon MajorNumber:23764 MinorNumber:54248 RSSI:-79 \r\n"
+    ],
+    [
+      0.285035,
+      "RegionUUID:E2C56DB5-DFFB-48D2-B060-D0F5A71096E0 PowerCalibration:-60 Type:iBeacon MajorNumber:1 MinorNumber:2 RSSI:-83 \r\n"
+    ],
+    [
+      0.348197,
+      "RegionUUID:E2C56DB5-DFFB-48D2-B060-D0F5A71096E0 PowerCalibration:-60 Type:iBeacon MajorNumber:1 MinorNumber:2 RSSI:-69 \r\n"
+    ],
+    [
+      0.464763,
+      "RegionUUID:2B162531-FD29-4758-85B4-555A6DFF00FF PowerCalibration:-69 Type:iBeacon MajorNumber:23764 MinorNumber:54248 RSSI:-78 \r\n"
+    ],
+    [
+      0.163456,
+      "^C"
+    ],
+    [
+      0.000814,
+      "\r\n"
+    ],
+    [
+      0.000141,
+      "bash-3.2$ "
+    ],
+    [
+      0.310947,
+      "./beaconscan "
+    ],
+    [
+      0.367678,
+      " "
+    ],
+    [
+      0.320162,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.208325,
+      "-"
+    ],
+    [
+      0.231832,
+      "h"
+    ],
+    [
+      0.215988,
+      "\r\n"
+    ],
+    [
+      0.013252,
+      "\r\n----------------------\r\nbeaconscan\r\n"
+    ],
+    [
+      0.000011,
+      "----------------------\r\nbeaconscan is a command line utility to browse iBeacon and Physical Beacons on OS X and print out the beacon information.\r\nCopyright 2015 Twocanoes Labs, LLC\r\n\r\nUsage:\r\nbeaconscan -help                      this message\r\nbeaconscan -scantime \u003ctime\u003e           seconds to scan before exiting\r\nbeaconscan -outputType \u003cjson|plain\u003e   change output format\r\n\r\n"
+    ],
+    [
+      0.000720,
+      "bash-3.2$ "
+    ],
+    [
+      0.770035,
+      "./beaconscan -h"
+    ],
+    [
+      0.320042,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.384039,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.584240,
+      "-"
+    ],
+    [
+      0.231819,
+      "o"
+    ],
+    [
+      0.079841,
+      "u"
+    ],
+    [
+      0.104027,
+      "t"
+    ],
+    [
+      0.112216,
+      "p"
+    ],
+    [
+      0.087546,
+      "u"
+    ],
+    [
+      0.096334,
+      "t"
+    ],
+    [
+      0.216922,
+      "T"
+    ],
+    [
+      0.135014,
+      "y"
+    ],
+    [
+      0.367807,
+      "p"
+    ],
+    [
+      0.184410,
+      "e"
+    ],
+    [
+      0.127983,
+      " "
+    ],
+    [
+      0.159869,
+      "j"
+    ],
+    [
+      0.112120,
+      "s"
+    ],
+    [
+      0.135869,
+      "o"
+    ],
+    [
+      0.111860,
+      "n"
+    ],
+    [
+      0.344216,
+      "\r\n"
+    ],
+    [
+      0.490945,
+      "{\"RegionUUID\":\"50DE3A2C-3F71-4714-BC02-638B9274B314\",\"PowerCalibration\":\"-69\",\"Type\":\"iBeacon\",\"MajorNumber\":\"1\",\"MinorNumber\":\"68\",\"RSSI\":\"-64\"}\r\n"
+    ],
+    [
+      0.017001,
+      "{\"RegionUUID\":\"2B162531-FD29-4758-85B4-555A6DFF00FF\",\"PowerCalibration\":\"-69\",\"Type\":\"iBeacon\",\"MajorNumber\":\"23764\",\"MinorNumber\":\"54248\",\"RSSI\":\"-82\"}\r\n"
+    ],
+    [
+      0.276869,
+      "{\"RegionUUID\":\"E2C56DB5-DFFB-48D2-B060-D0F5A71096E0\",\"PowerCalibration\":\"-60\",\"Type\":\"iBeacon\",\"MajorNumber\":\"1\",\"MinorNumber\":\"2\",\"RSSI\":\"-69\"}\r\n"
+    ],
+    [
+      0.325012,
+      "{\"RegionUUID\":\"2B162531-FD29-4758-85B4-555A6DFF00FF\",\"PowerCalibration\":\"-69\",\"Type\":\"iBeacon\",\"MajorNumber\":\"23764\",\"MinorNumber\":\"54248\",\"RSSI\":\"-78\"}\r\n"
+    ],
+    [
+      0.114289,
+      "^C"
+    ],
+    [
+      0.000859,
+      "\r\n"
+    ],
+    [
+      0.000207,
+      "bash-3.2$ "
+    ],
+    [
+      0.415135,
+      "e"
+    ],
+    [
+      0.143783,
+      "x"
+    ],
+    [
+      0.152030,
+      "i"
+    ],
+    [
+      0.056102,
+      "t"
+    ],
+    [
+      0.111864,
+      "\r\n"
+    ],
+    [
+      0.000138,
+      "exit\r\n"
+    ]
+  ]
+}
