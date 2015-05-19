@@ -1,0 +1,586 @@
+{
+  "version": 1,
+  "width": 118,
+  "height": 29,
+  "duration": 49.651337,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.848734,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                     \r \r"
+    ],
+    [
+      0.000088,
+      "\u001b]2;suzart@woody:\u0007\u001b]1;..ce/os/rust-pm\u0007"
+    ],
+    [
+      0.128283,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[42m\u001b[30m suzart@woody \u001b[49m\u001b[39m\u001b[32m\u001b[44m\u001b[49m\u001b[39m\u001b[37m\u001b[44m rust-pm\u001b[34m \u001b[34m\u001b[47m\u001b[37m\u001b[30m\u001b[47m  master ✔\u001b[37m \u001b[49m\u001b[39m "
+    ],
+    [
+      0.000062,
+      "\u001b[K\u001b[67C\u001b[37m\u001b[49m\u001b[30m\u001b[47m 09:26:20 \u001b[39m\u001b[49m\u001b[78D\u001b[?1h\u001b="
+    ],
+    [
+      1.530688,
+      "c"
+    ],
+    [
+      0.045365,
+      "\u0008ca"
+    ],
+    [
+      0.160191,
+      "t"
+    ],
+    [
+      0.135541,
+      " "
+    ],
+    [
+      1.048363,
+      "r"
+    ],
+    [
+      0.135912,
+      "u"
+    ],
+    [
+      0.095339,
+      "s"
+    ],
+    [
+      0.112717,
+      "t"
+    ],
+    [
+      0.295863,
+      "-"
+    ],
+    [
+      0.256276,
+      "m"
+    ],
+    [
+      0.439677,
+      "\u0008 \u0008"
+    ],
+    [
+      0.248176,
+      "p"
+    ],
+    [
+      0.121112,
+      "m.toml\u001b[1m \u001b[0m"
+    ],
+    [
+      0.614844,
+      "\u0008\u001b[0m \u0008"
+    ],
+    [
+      0.000027,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000065,
+      "\r\r\n"
+    ],
+    [
+      0.001984,
+      "\u001b]2;cat rust-pm.toml\u0007\u001b]1;cat\u0007"
+    ],
+    [
+      0.003083,
+      "server-port = \"localhost:4000\""
+    ],
+    [
+      0.000029,
+      "\r\n\r\n[bad_sleeper]\r\ncommand = \"./bad_sleeper.py\"\r\n"
+    ],
+    [
+      0.000019,
+      "max_retries = 3\r\n\r\n\r\n[bad_sleeper_infi]"
+    ],
+    [
+      0.000013,
+      "\r\ncommand = \"./bad_sleeper.py\"\r\n"
+    ],
+    [
+      0.000009,
+      "max_retries = 0 # 0 means forever\r\n"
+    ],
+    [
+      0.000012,
+      "\r\n[good_sleeper]"
+    ],
+    [
+      0.000011,
+      "\r\ncommand = \"./sleeper.py\""
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "max_retries = 3"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000849,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                     \r \r"
+    ],
+    [
+      0.000024,
+      "\u001b]2;suzart@woody:\u0007"
+    ],
+    [
+      0.000029,
+      "\u001b]1;..ce/os/rust-pm\u0007"
+    ],
+    [
+      0.118344,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[42m\u001b[30m suzart@woody \u001b[49m\u001b[39m\u001b[32m\u001b[44m\u001b[49m\u001b[39m\u001b[37m\u001b[44m rust-pm\u001b[34m \u001b[34m\u001b[47m\u001b[37m\u001b[30m\u001b[47m  master ✔\u001b[37m \u001b[49m\u001b[39m "
+    ],
+    [
+      0.000018,
+      "\u001b[K\u001b[67C\u001b[37m\u001b[49m\u001b[30m\u001b[47m 09:26:26 \u001b[39m\u001b[49m\u001b[78D"
+    ],
+    [
+      0.000074,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.292183,
+      "#"
+    ],
+    [
+      0.518610,
+      "\u0008# "
+    ],
+    [
+      0.648646,
+      "3"
+    ],
+    [
+      0.423606,
+      " "
+    ],
+    [
+      0.112276,
+      "p"
+    ],
+    [
+      0.088004,
+      "r"
+    ],
+    [
+      0.063768,
+      "o"
+    ],
+    [
+      0.112304,
+      "c"
+    ],
+    [
+      0.048030,
+      "e"
+    ],
+    [
+      0.368093,
+      "s"
+    ],
+    [
+      0.143775,
+      "s"
+    ],
+    [
+      0.192054,
+      "e"
+    ],
+    [
+      0.160038,
+      "s"
+    ],
+    [
+      0.111800,
+      " "
+    ],
+    [
+      0.152225,
+      "t"
+    ],
+    [
+      0.088071,
+      "o"
+    ],
+    [
+      0.063787,
+      " "
+    ],
+    [
+      0.096643,
+      "b"
+    ],
+    [
+      0.055131,
+      "e"
+    ],
+    [
+      0.104118,
+      " "
+    ],
+    [
+      0.104191,
+      "n"
+    ],
+    [
+      0.303880,
+      "\u0008 \u0008"
+    ],
+    [
+      0.176025,
+      "m"
+    ],
+    [
+      0.104138,
+      "a"
+    ],
+    [
+      0.071954,
+      "n"
+    ],
+    [
+      0.088115,
+      "a"
+    ],
+    [
+      0.103560,
+      "g"
+    ],
+    [
+      0.080339,
+      "e"
+    ],
+    [
+      0.512123,
+      "d"
+    ],
+    [
+      0.648042,
+      "."
+    ],
+    [
+      0.103943,
+      " "
+    ],
+    [
+      0.104033,
+      "o"
+    ],
+    [
+      0.087915,
+      "k"
+    ],
+    [
+      0.463972,
+      "?"
+    ],
+    [
+      0.431212,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000019,
+      "\r"
+    ],
+    [
+      0.000170,
+      "\r\n"
+    ],
+    [
+      0.001105,
+      "\u001b]2;# 3 processes to be managed. ok?\u0007"
+    ],
+    [
+      0.000103,
+      "\u001b]1;#\u0007"
+    ],
+    [
+      0.002104,
+      "zsh: command not found: #\r\n"
+    ],
+    [
+      0.000772,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                     \r \r"
+    ],
+    [
+      0.000117,
+      "\u001b]2;suzart@woody:\u0007"
+    ],
+    [
+      0.000013,
+      "\u001b]1;..ce/os/rust-pm\u0007"
+    ],
+    [
+      0.108078,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[42m\u001b[30m suzart@woody \u001b[49m\u001b[39m\u001b[32m\u001b[44m\u001b[49m\u001b[39m\u001b[37m\u001b[44m rust-pm\u001b[34m \u001b[34m\u001b[47m\u001b[37m\u001b[30m\u001b[47m  master ✔\u001b[37m \u001b[49m\u001b[39m \u001b[K\u001b[67C\u001b[37m\u001b[49m\u001b[30m\u001b[47m 09:26:34 \u001b[39m\u001b[49m\u001b[78D"
+    ],
+    [
+      0.000048,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      2.376426,
+      "r"
+    ],
+    [
+      0.071693,
+      "\u0008ru"
+    ],
+    [
+      0.112245,
+      "s"
+    ],
+    [
+      0.647868,
+      "t"
+    ],
+    [
+      0.367490,
+      "\u0008 \u0008"
+    ],
+    [
+      0.144365,
+      "\u0008 \u0008"
+    ],
+    [
+      0.143844,
+      "\u0008\u0008r \u0008"
+    ],
+    [
+      0.144092,
+      "\u0008 \u0008"
+    ],
+    [
+      0.072367,
+      "c"
+    ],
+    [
+      0.112072,
+      "\u0008ca"
+    ],
+    [
+      0.063979,
+      "r"
+    ],
+    [
+      0.127536,
+      "g"
+    ],
+    [
+      0.064220,
+      "o"
+    ],
+    [
+      0.047878,
+      " "
+    ],
+    [
+      0.096053,
+      "r"
+    ],
+    [
+      0.048052,
+      "u"
+    ],
+    [
+      0.088010,
+      "n"
+    ],
+    [
+      1.039818,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000037,
+      "\r\r\n"
+    ],
+    [
+      0.001418,
+      "\u001b]2;cargo run\u0007"
+    ],
+    [
+      0.000026,
+      "\u001b]1;cargo\u0007"
+    ],
+    [
+      0.298761,
+      "\u001b(B\u001b[0m\u001b[32m\u001b[1m     Running\u001b(B\u001b[0m `target/debug/rust-pm`\r\n"
+    ],
+    [
+      0.053703,
+      "\u001b[35m[good_sleeper stdout]: \u001b(B\u001b[0mI'll take some rest\r\n\r\n"
+    ],
+    [
+      3.002194,
+      "\u001b[35m[good_sleeper stdout]: \u001b(B\u001b[0mI'll take some rest\r\n\r\n"
+    ],
+    [
+      1.991064,
+      "\u001b[32m[bad_sleeper_infi stdout]: \u001b(B\u001b[0mI'll take some rest\r\n\r\n"
+    ],
+    [
+      0.014896,
+      "\u001b[33m\u001b(B\u001b[0m\u001b[36m[bad_sleeper stdout]: \u001b(B\u001b[0mI'll take some rest\r\n\r\n"
+    ],
+    [
+      0.003084,
+      "\u001b[33m\u001b(B\u001b[0m[rust-pm] info: bad_sleeper_infi - exited with error. Try 1 out of 0.\r\n"
+    ],
+    [
+      0.012337,
+      "[rust-pm] info: bad_sleeper - exited with error. Try 1 out of 3.\r\n"
+    ],
+    [
+      0.981977,
+      "\u001b[35m[good_sleeper stdout]: \u001b(B\u001b[0mI'll take some rest\r\n\r\n"
+    ],
+    [
+      3.003120,
+      "\u001b[35m[good_sleeper stdout]: \u001b(B\u001b[0mI'll take some rest\r\n\r\n"
+    ],
+    [
+      1.031053,
+      "\u001b[32m[bad_sleeper_infi stdout]: \u001b(B\u001b[0mI'll take some rest\r\n\r\n"
+    ],
+    [
+      0.010277,
+      "\u001b[33m\u001b(B\u001b[0m\u001b[36m[bad_sleeper stdout]: \u001b(B\u001b[0mI'll take some rest\r\n\r\n"
+    ],
+    [
+      0.007452,
+      "\u001b[33m\u001b(B\u001b[0m[rust-pm] info: bad_sleeper_infi - exited with error. Try 2 out of 0.\r\n"
+    ],
+    [
+      0.006396,
+      "[rust-pm] info: bad_sleeper - exited with error. Try 2 out of 3.\r\n"
+    ],
+    [
+      1.948189,
+      "\u001b[35m[good_sleeper stdout]: \u001b(B\u001b[0mI'll take some rest\r\n\r\n"
+    ],
+    [
+      3.003233,
+      "\u001b[35m[good_sleeper stdout]: \u001b(B\u001b[0mI'll take some rest\r\n\r\n"
+    ],
+    [
+      0.062916,
+      "\u001b[32m[bad_sleeper_infi stdout]: \u001b(B\u001b[0mI'll take some rest\r\n\r\n"
+    ],
+    [
+      0.017882,
+      "\u001b[33m\u001b(B\u001b[0m[rust-pm] info: bad_sleeper_infi - exited with error. Try 3 out of 0.\r\n"
+    ],
+    [
+      0.001723,
+      "\u001b[36m[bad_sleeper stdout]: \u001b(B\u001b[0mI'll take some rest"
+    ],
+    [
+      0.000044,
+      "\r\n"
+    ],
+    [
+      0.000138,
+      "\r\n"
+    ],
+    [
+      0.010786,
+      "\u001b[33m\u001b(B\u001b[0m[rust-pm] info: bad_sleeper - reached max retries of 3. Giving up."
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      2.908360,
+      "\u001b[35m[good_sleeper stdout]: \u001b(B\u001b[0mI'll take some rest\r\n\r\n"
+    ],
+    [
+      2.097883,
+      "\u001b[32m[bad_sleeper_infi stdout]: \u001b(B\u001b[0mI'll take some rest\r\n\r\n"
+    ],
+    [
+      0.012879,
+      "\u001b[33m\u001b(B\u001b[0m[rust-pm] info: bad_sleeper_infi - exited with error. Try 4 out of 0.\r\n"
+    ],
+    [
+      0.892633,
+      "\u001b[35m[good_sleeper stdout]: \u001b(B\u001b[0mI'll take some rest\r\n\r\n"
+    ],
+    [
+      3.002948,
+      "\u001b[35m[good_sleeper stdout]: \u001b(B\u001b[0mI'll take some rest\r\n\r\n"
+    ],
+    [
+      1.129307,
+      "\u001b[32m[bad_sleeper_infi stdout]: \u001b(B\u001b[0mI'll take some rest\r\n\r\n"
+    ],
+    [
+      0.014511,
+      "\u001b[33m\u001b(B\u001b[0m[rust-pm] info: bad_sleeper_infi - exited with error. Try 5 out of 0.\r\n"
+    ],
+    [
+      1.862553,
+      "\u001b[35m[good_sleeper stdout]: \u001b(B\u001b[0mDone sleeping\r\n\r\n"
+    ],
+    [
+      0.009689,
+      "\u001b[33m\u001b(B\u001b[0m[rust-pm] info: good_sleeper - finished.\r\n"
+    ],
+    [
+      0.382607,
+      "^C"
+    ],
+    [
+      0.003275,
+      "\r\n"
+    ],
+    [
+      0.000288,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                     \r \r"
+    ],
+    [
+      0.000298,
+      "\u001b]2;suzart@woody:\u0007"
+    ],
+    [
+      0.000148,
+      "\u001b]1;..ce/os/rust-pm\u0007"
+    ],
+    [
+      0.108774,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[42m\u001b[30m suzart@woody \u001b[49m\u001b[39m\u001b[32m\u001b[44m\u001b[49m\u001b[39m\u001b[37m\u001b[44m rust-pm\u001b[34m \u001b[34m\u001b[47m\u001b[37m\u001b[30m\u001b[47m  master ✔\u001b[37m \u001b[49m\u001b[39m \u001b[K\u001b[67C\u001b[37m\u001b[49m\u001b[30m\u001b[47m 09:27:08 \u001b[39m\u001b[49m\u001b[78D"
+    ],
+    [
+      0.000021,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.271031,
+      "\r"
+    ],
+    [
+      0.000036,
+      "\r\n"
+    ]
+  ]
+}
