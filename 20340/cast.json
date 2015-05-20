@@ -1,0 +1,194 @@
+{
+  "version": 1,
+  "width": 93,
+  "height": 26,
+  "duration": 31.194360,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.351053,
+      "\u001b[?1034h"
+    ],
+    [
+      0.000011,
+      "\u001b[01;32mHyrule \u001b[01;33m~/code/tmp  📦  \u001b[01;37m\r\r\n"
+    ],
+    [
+      0.000023,
+      "▸\u001b[00m "
+    ],
+    [
+      2.554178,
+      "c"
+    ],
+    [
+      0.146135,
+      "a"
+    ],
+    [
+      0.135113,
+      "t"
+    ],
+    [
+      0.089849,
+      " "
+    ],
+    [
+      0.135096,
+      "G"
+    ],
+    [
+      0.135086,
+      "o"
+    ],
+    [
+      0.129455,
+      "deps "
+    ],
+    [
+      0.613000,
+      "\r\n"
+    ],
+    [
+      0.004548,
+      "# Git repos\r\ngithub.com/nu7hatch/gotrail               v0.0.2\r\ngithub.com/replicon/fast-archiver         v1.02\r\n\r\n# Subpackages\r\ngithub.com/garyburd/redigo/redis          a6a0a737c00caf4d4c2bb589941ace0d688168bb\r\n\r\n# Bazaar Repo\r\nlaunchpad.net/gocheck                     r2013.03.03\r\n\r\n# Mercurial Repo\r\ncode.google.com/p/go.example/hello/...    ae081cd1d6cc\r\n\r\n"
+    ],
+    [
+      0.009993,
+      "\u001b[01;32mHyrule \u001b[01;33m~/code/tmp  📦  \u001b[01;37m\r\r\n"
+    ],
+    [
+      0.000009,
+      "▸\u001b[00m "
+    ],
+    [
+      1.391621,
+      "g"
+    ],
+    [
+      0.101294,
+      "p"
+    ],
+    [
+      0.157592,
+      "m"
+    ],
+    [
+      0.101121,
+      " "
+    ],
+    [
+      0.213983,
+      "i"
+    ],
+    [
+      0.168568,
+      "n"
+    ],
+    [
+      0.101359,
+      "s"
+    ],
+    [
+      0.157401,
+      "t"
+    ],
+    [
+      0.191219,
+      "a"
+    ],
+    [
+      0.056397,
+      "l"
+    ],
+    [
+      0.168723,
+      "l"
+    ],
+    [
+      1.025945,
+      "\r\n"
+    ],
+    [
+      0.013403,
+      "\u003e\u003e Getting package github.com/nu7hatch/gotrail\r\n"
+    ],
+    [
+      0.000525,
+      "\u003e\u003e Getting package github.com/replicon/fast-archiver\r\n"
+    ],
+    [
+      0.000596,
+      "\u003e\u003e Getting package github.com/garyburd/redigo/redis\r\n"
+    ],
+    [
+      0.001255,
+      "\u003e\u003e Getting package launchpad.net/gocheck\r\n"
+    ],
+    [
+      0.001609,
+      "\u003e\u003e Getting package code.google.com/p/go.example/hello/...\r\n"
+    ],
+    [
+      19.228894,
+      "\u003e\u003e Setting github.com/nu7hatch/gotrail to version v0.0.2\r\n"
+    ],
+    [
+      0.001503,
+      "\u003e\u003e Setting github.com/replicon/fast-archiver to version v1.02\r\n"
+    ],
+    [
+      0.002118,
+      "\u003e\u003e Setting github.com/garyburd/redigo/redis to version a6a0a737c00caf4d4c2bb589941ace0d688168bb\r\n"
+    ],
+    [
+      0.001382,
+      "\u003e\u003e Setting launchpad.net/gocheck to version r2013.03.03\r\n"
+    ],
+    [
+      0.001368,
+      "\u003e\u003e Setting code.google.com/p/go.example/hello/... to version ae081cd1d6cc\r\n"
+    ],
+    [
+      0.234331,
+      "\u003e\u003e Building package github.com/nu7hatch/gotrail\r\n"
+    ],
+    [
+      0.048927,
+      "\u003e\u003e Building package github.com/replicon/fast-archiver\r\n"
+    ],
+    [
+      0.406577,
+      "\u003e\u003e Building package github.com/garyburd/redigo/redis\r\n"
+    ],
+    [
+      0.253272,
+      "\u003e\u003e Building package launchpad.net/gocheck\r\n"
+    ],
+    [
+      0.065236,
+      "\u003e\u003e Building package code.google.com/p/go.example/hello/...\r\n"
+    ],
+    [
+      0.213581,
+      "\u003e\u003e All Done\r\n"
+    ],
+    [
+      0.010184,
+      "\u001b[01;32mHyrule \u001b[01;33m~/code/tmp  📦  \u001b[01;37m\r\r\n"
+    ],
+    [
+      0.000009,
+      "▸\u001b[00m "
+    ],
+    [
+      2.569201,
+      "exit\r\n"
+    ]
+  ]
+}
