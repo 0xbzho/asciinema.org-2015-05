@@ -1,0 +1,338 @@
+{
+  "version": 1,
+  "width": 84,
+  "height": 23,
+  "duration": 397.646124,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.094395,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                   \r \r"
+    ],
+    [
+      0.000046,
+      "\u001b]2;mball0001@PATAPL-X2XDFFTA: ~/git/polymer-testing-box\u0007"
+    ],
+    [
+      0.000017,
+      "\u001b]1;..r-testing-box\u0007"
+    ],
+    [
+      0.018993,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[01;32m⚡ \u001b[01;32m\u001b[1m\u001b[36m~/git/polymer-testing-box \u001b[01;34mgit:(\u001b[31mmaster\u001b[34m)\u001b[00m\u001b[01;33m[11:18:18]\r\n\u001b[1m\u001b[31m$ \u001b[00m"
+    ],
+    [
+      0.000008,
+      "\u001b[K"
+    ],
+    [
+      0.000104,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.092900,
+      "v"
+    ],
+    [
+      0.193288,
+      "\u0008va"
+    ],
+    [
+      0.125161,
+      "g"
+    ],
+    [
+      0.200471,
+      "r"
+    ],
+    [
+      0.183906,
+      "a"
+    ],
+    [
+      0.087945,
+      "n"
+    ],
+    [
+      0.151931,
+      "t"
+    ],
+    [
+      0.047900,
+      " "
+    ],
+    [
+      0.128003,
+      "u"
+    ],
+    [
+      0.120121,
+      "p"
+    ],
+    [
+      0.351883,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000097,
+      "\r\r\n"
+    ],
+    [
+      0.000792,
+      "\u001b]2;vagrant up\u0007"
+    ],
+    [
+      0.000006,
+      "\u001b]1;vagrant\u0007"
+    ],
+    [
+      1.368236,
+      "\u001b[0mBringing machine 'default' up with 'virtualbox' provider...\u001b[0m\r\n"
+    ],
+    [
+      0.151791,
+      "\u001b[1m==\u003e default: Importing base box 'ubuntu/trusty64'...\u001b[0m\r\n"
+    ],
+    [
+      6.848376,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000156,
+      "\u001b[0mProgress: 90%\u001b[0m"
+    ],
+    [
+      1.676500,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000915,
+      "\u001b[1m==\u003e default: Matching MAC address for NAT networking...\u001b[0m\r\n"
+    ],
+    [
+      0.133874,
+      "\u001b[1m==\u003e default: Checking if box 'ubuntu/trusty64' is up to date...\u001b[0m\r\n"
+    ],
+    [
+      0.706243,
+      "\u001b[1m==\u003e default: Setting the name of the VM: polymer-testing-box_default_1432307912474_1337\u001b[0m\r\n"
+    ],
+    [
+      0.106950,
+      "\u001b[1m==\u003e default: Clearing any previously set forwarded ports...\u001b[0m\r\n"
+    ],
+    [
+      0.785922,
+      "\u001b[1m==\u003e default: Clearing any previously set network interfaces...\u001b[0m\r\n"
+    ],
+    [
+      0.045311,
+      "\u001b[1m==\u003e default: Preparing network interfaces based on configuration...\u001b[0m\r\n"
+    ],
+    [
+      0.000492,
+      "\u001b[0m    default: Adapter 1: nat\u001b[0m\r\n"
+    ],
+    [
+      0.043301,
+      "\u001b[1m==\u003e default: Forwarding ports...\u001b[0m\r\n"
+    ],
+    [
+      0.068572,
+      "\u001b[0m    default: 5900 =\u003e 5901 (adapter 1)\u001b[0m\r\n"
+    ],
+    [
+      0.000230,
+      "\u001b[0m    default: 22 =\u003e 2222 (adapter 1)\u001b[0m\r\n"
+    ],
+    [
+      0.128433,
+      "\u001b[1m==\u003e default: Running 'pre-boot' VM customizations...\u001b[0m\r\n"
+    ],
+    [
+      0.127178,
+      "\u001b[1m==\u003e default: Booting VM...\u001b[0m\r\n"
+    ],
+    [
+      0.260401,
+      "\u001b[1m==\u003e default: Waiting for machine to boot. This may take a few minutes...\u001b[0m"
+    ],
+    [
+      0.002142,
+      "\r\n"
+    ],
+    [
+      0.228558,
+      "\u001b[0m    default: SSH address: 127.0.0.1:2222\u001b[0m\r\n"
+    ],
+    [
+      0.000124,
+      "\u001b[0m    default: SSH username: vagrant\u001b[0m\r\n"
+    ],
+    [
+      0.000290,
+      "\u001b[0m    default: SSH auth method: private key\u001b[0m\r\n"
+    ],
+    [
+      15.132390,
+      "\u001b[0m    default: Warning: Connection timeout. Retrying...\u001b[0m\r\n"
+    ],
+    [
+      2.688669,
+      "\u001b[0m    default: \r\n    default: Vagrant insecure key detected. Vagrant will automatically replace\r\n    default: this with a newly generated keypair for better security.\u001b[0m\r\n"
+    ],
+    [
+      0.368854,
+      "\u001b[0m    default: \r\n    default: Inserting generated public key within guest...\u001b[0m"
+    ],
+    [
+      0.000108,
+      "\r\n"
+    ],
+    [
+      0.071497,
+      "\u001b[0m    default: Removing insecure key from the guest if its present...\u001b[0m\r\n"
+    ],
+    [
+      0.061472,
+      "\u001b[0m    default: Key inserted! Disconnecting and reconnecting using new SSH key...\u001b[0m"
+    ],
+    [
+      0.000026,
+      "\r\n"
+    ],
+    [
+      0.498675,
+      "\u001b[1m==\u003e default: Machine booted and ready!\u001b[0m\r\n"
+    ],
+    [
+      0.000254,
+      "\u001b[1m==\u003e default: Checking for guest additions in VM...\u001b[0m\r\n"
+    ],
+    [
+      0.112720,
+      "\u001b[1m==\u003e default: Mounting shared folders...\u001b[0m\r\n"
+    ],
+    [
+      0.000234,
+      "\u001b[0m    default: /vagrant =\u003e /Users/mball0001/git/polymer-testing-box\u001b[0m\r\n"
+    ],
+    [
+      0.287424,
+      "\u001b[1m==\u003e default: Running provisioner: ansible...\u001b[0m\r\n"
+    ],
+    [
+      0.274118,
+      "\u001b[0mPYTHONUNBUFFERED=1 ANSIBLE_FORCE_COLOR=true ANSIBLE_HOST_KEY_CHECKING=false ANSIBLE_SSH_ARGS='-o UserKnownHostsFile=/dev/null -o ControlMaster=auto -o ControlPersist=60s' ansible-playbook --private-key=/Users/mball0001/git/polymer-testing-box/.vagrant/machines/default/virtualbox/private_key --user=vagrant --connection=ssh --limit='default' --inventory-file=/Users/mball0001/git/polymer-testing-box/.vagrant/provisioners/ansible/inventory playbook.yml\u001b[0m"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.550372,
+      "\u001b[0m\r\nPLAY [all] ******************************************************************** \r\n\r\nGATHERING FACTS *************************************************************** \r\n\u001b[0m"
+    ],
+    [
+      2.739472,
+      "\u001b[0m\u001b[0;32mok: [default]\u001b[0m\r\n\u001b[0m"
+    ],
+    [
+      0.000206,
+      "\u001b[0m\r\nTASK: [add Google public key to apt] ****************************************** \r\n\u001b[0m"
+    ],
+    [
+      5.613966,
+      "\u001b[0m\u001b[0;33mchanged: [default]\u001b[0m\r\n\u001b[0m"
+    ],
+    [
+      0.000244,
+      "\u001b[0m\r\nTASK: [add Google to apt-get repositories] ************************************ \r\n\u001b[0m"
+    ],
+    [
+      10.429257,
+      "\u001b[0m\u001b[0;33mchanged: [default]\u001b[0m\r\n\u001b[0m"
+    ],
+    [
+      0.001420,
+      "\u001b[0m\r\nTASK: [apt name={{ item }} state=installed update_cache=yes] ****************** \r\n\u001b[0m"
+    ],
+    [
+      138.420567,
+      "\u001b[0m\u001b[0;33mchanged: [default] =\u003e (item=dbus-x11,default-jre,firefox,git,google-chrome-stable,nodejs,npm,python,xvfb)\u001b[0m\r\n\u001b[0m"
+    ],
+    [
+      0.000186,
+      "\u001b[0m\r\nTASK: [symlink /user/bin/nodejs to /usr/bin/node] ***************************** \r\n\u001b[0m"
+    ],
+    [
+      0.113470,
+      "\u001b[0m\u001b[0;33mchanged: [default]\u001b[0m\r\n\u001b[0m"
+    ],
+    [
+      0.000253,
+      "\u001b[0m\r\nTASK: [install bower] ********************************************************* \r\n\u001b[0m"
+    ],
+    [
+      42.365486,
+      "\u001b[0m\u001b[0;33mchanged: [default]\u001b[0m\r\n\u001b[0m"
+    ],
+    [
+      0.000212,
+      "\u001b[0m\r\nTASK: [install web-component-tester] ****************************************** \r\n\u001b[0m"
+    ],
+    [
+      158.346557,
+      "\u001b[0m\u001b[0;33mchanged: [default]\u001b[0m\r\n\u001b[0m"
+    ],
+    [
+      0.000183,
+      "\u001b[0m\r\nTASK: [copy xvfb init script to /etc/init.d] ********************************** \r\n\u001b[0m"
+    ],
+    [
+      0.204197,
+      "\u001b[0m\u001b[0;33mchanged: [default]\u001b[0m\r\n\u001b[0m"
+    ],
+    [
+      0.000148,
+      "\u001b[0m\r\nTASK: [Start xvfb service] **************************************************** \r\n\u001b[0m"
+    ],
+    [
+      0.144106,
+      "\u001b[0m\u001b[0;33mchanged: [default]\u001b[0m\r\n\u001b[0m"
+    ],
+    [
+      0.000212,
+      "\u001b[0m\r\nPLAY RECAP ******************************************************************** \r\n\u001b[0;33mdefault\u001b[0m                    : \u001b[0;32mok\u001b[0m\u001b[0;32m=\u001b[0m\u001b[0;32m9\u001b[0m    \u001b[0;33mchanged\u001b[0m\u001b[0;33m=\u001b[0m\u001b[0;33m8\u001b[0m    unreachable=0    failed=0   \r\n\r\n\u001b[0m"
+    ],
+    [
+      0.050405,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                   \r \r"
+    ],
+    [
+      0.000061,
+      "\u001b]2;mball0001@PATAPL-X2XDFFTA: ~/git/polymer-testing-box\u0007"
+    ],
+    [
+      0.000026,
+      "\u001b]1;..r-testing-box\u0007"
+    ],
+    [
+      0.018945,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[01;32m⚡ \u001b[01;32m\u001b[1m\u001b[36m~/git/polymer-testing-box \u001b[01;34mgit:(\u001b[31mmaster\u001b[34m)\u001b[00m\u001b[01;33m[11:24:52]\r\n\u001b[1m\u001b[31m$ \u001b[00m\u001b[K"
+    ],
+    [
+      0.000085,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      3.656745,
+      "\r\r\n"
+    ]
+  ]
+}
