@@ -1,0 +1,66 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 23,
+  "duration": 13.578444,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "screen",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.017340,
+      "\u001b_mike@silverstar:~\u001b\\[mike@silverstar ~]$ "
+    ],
+    [
+      1.095070,
+      "u"
+    ],
+    [
+      0.360704,
+      "n"
+    ],
+    [
+      0.153476,
+      "a"
+    ],
+    [
+      0.155572,
+      "m"
+    ],
+    [
+      0.082606,
+      "e"
+    ],
+    [
+      0.298399,
+      " "
+    ],
+    [
+      0.386730,
+      "-"
+    ],
+    [
+      0.397592,
+      "r"
+    ],
+    [
+      1.242318,
+      "\r\n"
+    ],
+    [
+      0.001144,
+      "4.1.0-rc4-ARCH-Mike_custom-00096-g865d872\r\n"
+    ],
+    [
+      0.000404,
+      "\u001b_mike@silverstar:~\u001b\\[mike@silverstar ~]$ "
+    ],
+    [
+      9.386965,
+      "exit\r\n"
+    ]
+  ]
+}
