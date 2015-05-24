@@ -1,0 +1,2830 @@
+{
+  "version": 1,
+  "width": 81,
+  "height": 30,
+  "duration": 65.487973,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.078865,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                \r \r"
+    ],
+    [
+      0.001371,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[1m~\u001b[0m "
+    ],
+    [
+      0.000005,
+      "\u001b[K\u001b[71C\u001b[22;30m10:05PM\u001b[00m\u001b[78D"
+    ],
+    [
+      1.066481,
+      "\u001b[32mc\u001b[39m"
+    ],
+    [
+      0.053962,
+      "\u0008\u001b[32mc\u001b[32md\u001b[39m"
+    ],
+    [
+      0.095666,
+      " "
+    ],
+    [
+      0.176132,
+      "\u001b[4md\u001b[24m"
+    ],
+    [
+      0.303880,
+      "\u0008\u001b[4md\u001b[4ms\u001b[24m"
+    ],
+    [
+      0.079938,
+      "\u0008\u001b[4ms\u001b[4mh\u001b[24m"
+    ],
+    [
+      0.144162,
+      "\u0008\u001b[4mh\u001b[4mb\u001b[24m"
+    ],
+    [
+      0.309705,
+      "\r\r\n"
+    ],
+    [
+      0.055392,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                \r \r"
+    ],
+    [
+      0.001041,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[1m~/dshb\u001b[0m(\u001b[01;35mmaster\u001b[00m|\u001b[34m✚8\u001b[00m\u001b[00m) \u001b[K\u001b[55C\u001b[22;30m10:06PM\u001b[00m\u001b[62D"
+    ],
+    [
+      1.609959,
+      "\u001b[4ml\u001b[24m"
+    ],
+    [
+      0.025032,
+      "\u0008\u001b[24m\u001b[32ml\u001b[32ms\u001b[39m"
+    ],
+    [
+      1.452310,
+      "\r\r\n"
+    ],
+    [
+      0.004770,
+      "LICENSE        README.md      \u001b[34mdshb\u001b[39;49m\u001b[0m           \u001b[34mlibs\u001b[39;49m\u001b[0m\r\nMakefile       \u001b[34mdoc\u001b[39;49m\u001b[0m            \u001b[34mdshb.xcodeproj\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000263,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                \r \r"
+    ],
+    [
+      0.001066,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[1m~/dshb\u001b[0m(\u001b[01;35mmaster\u001b[00m|\u001b[34m✚8\u001b[00m\u001b[00m) \u001b[K\u001b[55C\u001b[22;30m10:06PM\u001b[00m\u001b[62D"
+    ],
+    [
+      1.565432,
+      "\u001b[32mc\u001b[39m"
+    ],
+    [
+      0.045848,
+      "\u0008\u001b[32mc\u001b[32md\u001b[39m"
+    ],
+    [
+      0.744932,
+      " "
+    ],
+    [
+      0.575451,
+      "\u001b[4md\u001b[24m"
+    ],
+    [
+      0.065132,
+      "\u0008\u001b[4md\u001b[4ms\u001b[24m"
+    ],
+    [
+      0.135833,
+      "\u0008\u001b[4ms\u001b[4mh\u001b[24m"
+    ],
+    [
+      0.159984,
+      "\u0008\u001b[4mh\u001b[4mb\u001b[24m"
+    ],
+    [
+      0.309658,
+      "\r\r\n"
+    ],
+    [
+      0.054175,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                \r \r"
+    ],
+    [
+      0.000974,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[1m~/dshb/dshb\u001b[0m(\u001b[01;35mmaster\u001b[00m|\u001b[34m✚8\u001b[00m\u001b[00m) \u001b[K\u001b[50C\u001b[22;30m10:06PM\u001b[00m\u001b[57D"
+    ],
+    [
+      1.523462,
+      "\u001b[4m\u001b[33ml\u001b[24m\u001b[39m"
+    ],
+    [
+      0.046303,
+      "\u0008\u001b[24m\u001b[32ml\u001b[32ms\u001b[39m"
+    ],
+    [
+      1.343254,
+      "\r\r\n"
+    ],
+    [
+      0.004126,
+      "Widget.swift            WidgetMemory.swift      WidgetUITitle.swift\r\nWidgetBattery.swift     WidgetSystem.swift      main.swift\r\nWidgetCPU.swift         WidgetTemperature.swift\r\nWidgetFan.swift         WidgetUIStat.swift\r\n"
+    ],
+    [
+      0.000338,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                \r \r"
+    ],
+    [
+      0.001271,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[1m~/dshb/dshb\u001b[0m(\u001b[01;35mmaster\u001b[00m|\u001b[34m✚8\u001b[00m\u001b[00m) \u001b[K\u001b[50C\u001b[22;30m10:06PM\u001b[00m\u001b[57D"
+    ],
+    [
+      1.485788,
+      "\u001b[32mg\u001b[39m"
+    ],
+    [
+      0.056106,
+      "\u0008\u001b[32mg\u001b[32mi\u001b[39m"
+    ],
+    [
+      0.078825,
+      "\u0008\u0008\u001b[32mg\u001b[32mi\u001b[32mt\u001b[39m"
+    ],
+    [
+      0.103779,
+      " "
+    ],
+    [
+      0.072926,
+      "\u001b[4m\u001b[33ms\u001b[24m\u001b[39m"
+    ],
+    [
+      0.103769,
+      "\u0008\u001b[24m\u001b[39mst"
+    ],
+    [
+      0.103212,
+      "a"
+    ],
+    [
+      0.072827,
+      "t"
+    ],
+    [
+      0.071596,
+      "u"
+    ],
+    [
+      0.079675,
+      "s"
+    ],
+    [
+      1.302028,
+      "\r\r\n"
+    ],
+    [
+      0.006013,
+      "On branch master\r\n"
+    ],
+    [
+      0.000073,
+      "Your branch is up-to-date with 'origin/master'.\r\nChanges not staged for commit:\r\n  (use \"git add \u003cfile\u003e...\" to update what will be committed)\r\n"
+    ],
+    [
+      0.000007,
+      "  (use \"git checkout -- \u003cfile\u003e...\" to discard changes in working directory)\r\n\r\n\t\u001b[31mmodified:   Widget.swift\u001b[m\r\n\t\u001b[31mmodified:   WidgetCPU.swift\u001b[m\r\n"
+    ],
+    [
+      0.000003,
+      "\t\u001b[31mmodified:   WidgetMemory.swift\u001b[m\r\n"
+    ],
+    [
+      0.000002,
+      "\t\u001b[31mmodified:   WidgetSystem.swift\u001b[m\r\n"
+    ],
+    [
+      0.000003,
+      "\t\u001b[31mmodified:   WidgetTemperature.swift\u001b[m\r\n"
+    ],
+    [
+      0.000002,
+      "\t\u001b[31mmodified:   WidgetUIStat.swift\u001b[m\r\n"
+    ],
+    [
+      0.000007,
+      "\t\u001b[31mmodified:   WidgetUITitle.swift\u001b[m\r\n"
+    ],
+    [
+      0.000003,
+      "\t\u001b[31mmodified:   main.swift\u001b[m\r\n\r\n"
+    ],
+    [
+      0.000002,
+      "no changes added to commit (use \"git add\" and/or \"git commit -a\")\r\n"
+    ],
+    [
+      0.000417,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                \r \r"
+    ],
+    [
+      0.102860,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[1m~/dshb/dshb\u001b[0m(\u001b[01;35mmaster\u001b[00m|\u001b[34m✚8\u001b[00m\u001b[00m) \u001b[K\u001b[50C\u001b[22;30m10:06PM\u001b[00m\u001b[57D"
+    ],
+    [
+      1.461937,
+      "\u001b[32mg\u001b[39m"
+    ],
+    [
+      0.168033,
+      "\u0008\u001b[32mg\u001b[32mi\u001b[39m"
+    ],
+    [
+      0.079089,
+      "\u0008\u0008\u001b[32mg\u001b[32mi\u001b[32mt\u001b[39m"
+    ],
+    [
+      0.087961,
+      " "
+    ],
+    [
+      0.120055,
+      "\u001b[4m\u001b[33md\u001b[24m\u001b[39m"
+    ],
+    [
+      0.103065,
+      "\u0008\u001b[4m\u001b[33md\u001b[4m\u001b[33mi\u001b[24m\u001b[39m"
+    ],
+    [
+      0.088837,
+      "\u0008\u0008\u001b[24m\u001b[39md\u001b[24m\u001b[39mif"
+    ],
+    [
+      0.119492,
+      "f"
+    ],
+    [
+      1.606218,
+      "\r\r\n"
+    ],
+    [
+      0.006368,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000811,
+      "\u001b[1mdiff --git a/dshb/Widget.swift b/dshb/Widget.swift\u001b[m\u001b[m\r\n\u001b[1mindex 248e1c2..75327c5 100644\u001b[m\u001b[m\r\n\u001b[1m--- a/dshb/Widget.swift\u001b[m\u001b[m\r\n\u001b[1m+++ b/dshb/Widget.swift\u001b[m\u001b[m\r\n\u001b[36m@@ -28,6 +28,10 @@\u001b[m\u001b[m\r\n // MARK: PROPERTIES\u001b[m\u001b[m\r\n //------------------------------------------------------------------------------\u001b[m\u001b[m\r\n \u001b[m\u001b[m\r\n\u001b[32m+\u001b[m\u001b[32mimport Darwin.ncurses\u001b[m\u001b[m\r\n\u001b[32m+\u001b[m\u001b[m\r\n\u001b[32m+\u001b[m\u001b[32mimport SystemKit // beltex/SystemKit\u001b[m\u001b[m\r\n\u001b[32m+\u001b[m\u001b[m\r\n // Color pair refs\u001b[m\u001b[m\r\n let WidgetUIColorBackground : Int32 = 1\u001b[m\u001b[m\r\n let WidgetUIColorTitle      : Int32 = 2\u001b[m\u001b[m\r\n\u001b[1mdiff --git a/dshb/WidgetCPU.swift b/dshb/WidgetCPU.swift\u001b[m\u001b[m\r\n\u001b[1mindex 563bcd6..8dca770 100644\u001b[m\u001b[m\r\n\u001b[1m--- a/dshb/WidgetCPU.swift\u001b[m\u001b[m\r\n\u001b[1m+++ b/dshb/WidgetCPU.swift\u001b[m\u001b[m\r\n\u001b[36m@@ -24,6 +24,8 @@\u001b[m\u001b[m\r\n // OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\u001b[m\u001b[m\r\n // THE SOFTWARE.\u001b[m\u001b[m\r\n \u001b[m\u001b[m\r\n\u001b[32m+\u001b[m\u001b[32mimport SystemKit // beltex/SystemKit\u001b[m\u001b[m\r\n\u001b[32m+\u001b[m\u001b[m\r\n struct WidgetCPU: WidgetType {\u001b[m\u001b["
+    ],
+    [
+      0.000012,
+      "m\r\n     \u001b[m\u001b[m\r\n     private var widget: WidgetBase\u001b[m\u001b[m\r\n\u001b[1mdiff --git a/dshb/WidgetMemory.swift b/dshb/WidgetMemory.swift\u001b[m\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      2.672734,
+      "\r\u001b[K"
+    ],
+    [
+      0.000008,
+      "\u001b[1mindex f631d68..e92d100 100644\u001b[m\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.251139,
+      "\r\u001b[K"
+    ],
+    [
+      0.000010,
+      "\u001b[1m--- a/dshb/WidgetMemory.swift\u001b[m\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.033437,
+      "\r\u001b[K"
+    ],
+    [
+      0.000015,
+      "\u001b[1m+++ b/dshb/WidgetMemory.swift\u001b[m\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.034413,
+      "\r\u001b[K"
+    ],
+    [
+      0.000028,
+      "\u001b[36m@@ -26,6 +26,8 @@\u001b[m\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.033947,
+      "\r\u001b[K"
+    ],
+    [
+      0.000011,
+      " \u001b[m\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.034425,
+      "\r\u001b[K"
+    ],
+    [
+      0.000035,
+      " import Foundation\u001b[m\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.034472,
+      "\r\u001b[K \u001b[m\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.034453,
+      "\r\u001b[K"
+    ],
+    [
+      0.000012,
+      "\u001b[32m+\u001b[m\u001b[32mimport SystemKit // beltex/SystemKit\u001b[m\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.033655,
+      "\r\u001b[K"
+    ],
+    [
+      0.000010,
+      "\u001b[32m+\u001b[m\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.034645,
+      "\r\u001b[K struct WidgetMemory: WidgetType {\u001b[m\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.034407,
+      "\r\u001b[K"
+    ],
+    [
+      0.000009,
+      "     \u001b[m\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.034342,
+      "\r\u001b[K"
+    ],
+    [
+      0.000031,
+      "     private var widget: WidgetBase\u001b[m\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.033566,
+      "\r\u001b[K"
+    ],
+    [
+      0.000009,
+      "\u001b[1mdiff --git a/dshb/WidgetSystem.swift b/dshb/WidgetSystem.swift\u001b[m\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.034615,
+      "\r\u001b[K"
+    ],
+    [
+      0.000012,
+      "\u001b[1mindex 759be85..78a9e67 100644\u001b[m\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.034267,
+      "\r\u001b[K"
+    ],
+    [
+      0.000021,
+      "\u001b[1m--- a/dshb/WidgetSystem.swift\u001b[m\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.033405,
+      "\r\u001b[K"
+    ],
+    [
+      0.000024,
+      "\u001b[1m+++ b/dshb/WidgetSystem.swift\u001b[m\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.033713,
+      "\r\u001b[K"
+    ],
+    [
+      0.000011,
+      "\u001b[36m@@ -26,6 +26,8 @@\u001b[m\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.033551,
+      "\r\u001b[K"
+    ],
+    [
+      0.000010,
+      " \u001b[m\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.033366,
+      "\r\u001b[K"
+    ],
+    [
+      0.000009,
+      " import Foundation\u001b[m\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.034550,
+      "\r\u001b[K"
+    ],
+    [
+      0.000010,
+      " \u001b[m\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.034308,
+      "\r\u001b[K"
+    ],
+    [
+      0.000033,
+      "\u001b[32m+\u001b[m\u001b[32mimport SystemKit // beltex/SystemKit\u001b[m\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.034111,
+      "\r\u001b[K"
+    ],
+    [
+      0.000010,
+      "\u001b[32m+\u001b[m\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.034389,
+      "\r\u001b[K"
+    ],
+    [
+      0.000026,
+      " struct WidgetSystem: WidgetType {\u001b[m\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.033765,
+      "\r\u001b[K"
+    ],
+    [
+      0.000011,
+      "     \u001b[m\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.033859,
+      "\r\u001b[K"
+    ],
+    [
+      0.000041,
+      "     private var widget: WidgetBase\u001b[m\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.033927,
+      "\r\u001b[K"
+    ],
+    [
+      0.000054,
+      "\u001b[1mdiff --git a/dshb/WidgetTemperature.swift b/dshb/WidgetTemperature.swift\u001b[m\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.034210,
+      "\r\u001b[K"
+    ],
+    [
+      0.000012,
+      "\u001b[1mindex e8fe65c..c488a54 100644\u001b[m\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.034406,
+      "\r\u001b[K"
+    ],
+    [
+      0.000032,
+      "\u001b[1m--- a/dshb/WidgetTemperature.swift\u001b[m\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.033894,
+      "\r\u001b[K"
+    ],
+    [
+      0.000018,
+      "\u001b[1m+++ b/dshb/WidgetTemperature.swift\u001b[m\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.033708,
+      "\r\u001b[K"
+    ],
+    [
+      0.000056,
+      "\u001b[36m@@ -24,6 +24,8 @@\u001b[m\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.033466,
+      "\r\u001b[K"
+    ],
+    [
+      0.000033,
+      " // OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\u001b[m\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.034282,
+      "\r\u001b[K"
+    ],
+    [
+      0.000019,
+      " // THE SOFTWARE.\u001b[m\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      2.382890,
+      "\r\u001b[K"
+    ],
+    [
+      0.000009,
+      " \u001b[m\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.250977,
+      "\r\u001b[K"
+    ],
+    [
+      0.000009,
+      "\u001b[32m+\u001b[m\u001b[32mimport SMCKit //beltex/SMCKit\u001b[m\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.034569,
+      "\r\u001b[K"
+    ],
+    [
+      0.000010,
+      "\u001b[32m+\u001b[m\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.034343,
+      "\r\u001b[K"
+    ],
+    [
+      0.000008,
+      " struct WidgetTemperature: WidgetType {\u001b[m\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.034428,
+      "\r\u001b[K"
+    ],
+    [
+      0.000010,
+      " \u001b[m\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.034437,
+      "\r\u001b[K"
+    ],
+    [
+      0.000015,
+      "     private var widget: WidgetBase\u001b[m\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.034338,
+      "\r\u001b[K"
+    ],
+    [
+      0.000025,
+      "\u001b[1mdiff --git a/dshb/WidgetUIStat.swift b/dshb/WidgetUIStat.swift\u001b[m\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.034565,
+      "\r\u001b[K"
+    ],
+    [
+      0.000010,
+      "\u001b[1mindex 006ef13..a257c84 100644\u001b[m\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.034060,
+      "\r\u001b[K"
+    ],
+    [
+      0.000029,
+      "\u001b[1m--- a/dshb/WidgetUIStat.swift\u001b[m\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.034300,
+      "\r\u001b[K"
+    ],
+    [
+      0.000019,
+      "\u001b[1m+++ b/dshb/WidgetUIStat.swift\u001b[m\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.034417,
+      "\r\u001b[K"
+    ],
+    [
+      0.000058,
+      "\u001b[36m@@ -26,6 +26,9 @@\u001b[m\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.034545,
+      "\r\u001b[K"
+    ],
+    [
+      0.000010,
+      " \u001b[m\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.034379,
+      "\r\u001b[K"
+    ],
+    [
+      0.000011,
+      " import Foundation\u001b[m\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.033966,
+      "\r\u001b[K"
+    ],
+    [
+      0.000007,
+      " \u001b[m\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.034905,
+      "\r\u001b[K"
+    ],
+    [
+      0.000017,
+      "\u001b[32m+\u001b[m\u001b[32mimport Darwin.ncurses\u001b[m\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.034310,
+      "\r\u001b[K"
+    ],
+    [
+      0.000035,
+      "\u001b[32m+\u001b[m\u001b[32mimport Darwin\u001b[m\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.033593,
+      "\r\u001b[K"
+    ],
+    [
+      0.000010,
+      "\u001b[32m+\u001b[m\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.034500,
+      "\r\u001b[K"
+    ],
+    [
+      0.000049,
+      " //------------------------------------------------------------------------------\u001b[m\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.034483,
+      "\r\u001b[K"
+    ],
+    [
+      0.000010,
+      " // MARK: ENUMS\u001b[m\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.034203,
+      "\r\u001b[K"
+    ],
+    [
+      0.000085,
+      " //------------------------------------------------------------------------------\u001b[m\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.034401,
+      "\r\u001b[K"
+    ],
+    [
+      0.000110,
+      "\u001b[1mdiff --git a/dshb/WidgetUITitle.swift b/dshb/WidgetUITitle.swift\u001b[m\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.034212,
+      "\r\u001b[K"
+    ],
+    [
+      0.000051,
+      "\u001b[1mindex 1e64c8f..5df6360 100644\u001b[m\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.033416,
+      "\r\u001b[K"
+    ],
+    [
+      0.000025,
+      "\u001b[1m--- a/dshb/WidgetUITitle.swift\u001b[m\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.034288,
+      "\r\u001b[K"
+    ],
+    [
+      0.000041,
+      "\u001b[1m+++ b/dshb/WidgetUITitle.swift\u001b[m\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      2.377749,
+      "\r\u001b[K"
+    ],
+    [
+      0.000056,
+      "\u001b[36m@@ -24,6 +24,8 @@\u001b[m\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.250998,
+      "\r\u001b[K"
+    ],
+    [
+      0.000063,
+      " // OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\u001b[m\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.034504,
+      "\r\u001b[K"
+    ],
+    [
+      0.000011,
+      " // THE SOFTWARE.\u001b[m\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.033648,
+      "\r\u001b[K"
+    ],
+    [
+      0.000010,
+      " \u001b[m\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.033540,
+      "\r\u001b[K"
+    ],
+    [
+      0.000024,
+      "\u001b[32m+\u001b[m\u001b[32mimport Darwin.ncurses\u001b[m\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.034568,
+      "\r\u001b[K"
+    ],
+    [
+      0.000015,
+      "\u001b[32m+\u001b[m\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.034219,
+      "\r\u001b[K"
+    ],
+    [
+      0.000019,
+      " struct WidgetUITitle {\u001b[m\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.033346,
+      "\r\u001b[K"
+    ],
+    [
+      0.000010,
+      " \u001b[m\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.034015,
+      "\r\u001b[K"
+    ],
+    [
+      0.000044,
+      "     let name     : String\u001b[m\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.034329,
+      "\r\u001b[K"
+    ],
+    [
+      0.000051,
+      "\u001b[1mdiff --git a/dshb/main.swift b/dshb/main.swift\u001b[m\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.033702,
+      "\r\u001b[K"
+    ],
+    [
+      0.000039,
+      "\u001b[1mindex 28a47ef..ed10cbd 100644\u001b[m\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.034336,
+      "\r\u001b[K"
+    ],
+    [
+      0.000010,
+      "\u001b[1m--- a/dshb/main.swift\u001b[m\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.034022,
+      "\r\u001b[K"
+    ],
+    [
+      0.000010,
+      "\u001b[1m+++ b/dshb/main.swift\u001b[m\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.033898,
+      "\r\u001b[K"
+    ],
+    [
+      0.000009,
+      "\u001b[36m@@ -26,6 +26,11 @@\u001b[m\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.034376,
+      "\r\u001b[K \u001b[m\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.034500,
+      "\r\u001b[K"
+    ],
+    [
+      0.000012,
+      " import IOKit\u001b[m\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.034543,
+      "\r\u001b[K"
+    ],
+    [
+      0.000011,
+      " import Darwin.ncurses\u001b[m\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.034348,
+      "\r\u001b[K"
+    ],
+    [
+      0.000016,
+      "\u001b[32m+\u001b[m\u001b[32mimport Darwin\u001b[m\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.034502,
+      "\r\u001b[K"
+    ],
+    [
+      0.000010,
+      "\u001b[32m+\u001b[m\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.034517,
+      "\r\u001b[K"
+    ],
+    [
+      0.000042,
+      "\u001b[32m+\u001b[m\u001b[32mimport CommandLine // jatoben/CommandLine\u001b[m\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.034279,
+      "\r\u001b[K"
+    ],
+    [
+      0.000046,
+      "\u001b[32m+\u001b[m\u001b[32mimport SMCKit      // beltex/SMCKit\u001b[m\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.034428,
+      "\r\u001b[K"
+    ],
+    [
+      0.000046,
+      "\u001b[32m+\u001b[m\u001b[32mimport SystemKit   // beltex/SystemKit\u001b[m\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.033615,
+      "\r\u001b[K"
+    ],
+    [
+      0.000010,
+      " \u001b[m\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.034476,
+      "\r\u001b[K"
+    ],
+    [
+      0.000081,
+      " //------------------------------------------------------------------------------\u001b[m\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.034317,
+      "\r\u001b[K"
+    ],
+    [
+      0.000011,
+      " // MARK: GLOBAL PROPERTIES\u001b[m\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.033606,
+      "\r\u001b[K"
+    ],
+    [
+      0.000025,
+      "\u0007\r\u001b[K\u001b[7m(END) \u001b[27m\u001b[K"
+    ],
+    [
+      2.320686,
+      "\r\u001b[K\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000982,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                \r \r"
+    ],
+    [
+      0.103990,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[1m~/dshb/dshb\u001b[0m(\u001b[01;35mmaster\u001b[00m|\u001b[34m✚8\u001b[00m\u001b[00m) \u001b[K\u001b[50C\u001b[22;30m10:06PM\u001b[00m\u001b[57D"
+    ],
+    [
+      1.554788,
+      "\u001b[32ms\u001b[39m"
+    ],
+    [
+      0.087241,
+      "\u0008\u001b[1m\u001b[31ms\u001b[1m\u001b[31mp\u001b[0m\u001b[39m"
+    ],
+    [
+      0.064416,
+      "\u0008\u0008\u001b[1m\u001b[31ms\u001b[1m\u001b[31mp\u001b[1m\u001b[31ma\u001b[0m\u001b[39m"
+    ],
+    [
+      0.102609,
+      "\u0008\u0008\u0008\u001b[0m\u001b[32ms\u001b[0m\u001b[32mp\u001b[0m\u001b[32ma\u001b[32mm\u001b[39m"
+    ],
+    [
+      0.088677,
+      " "
+    ],
+    [
+      0.096345,
+      "-"
+    ],
+    [
+      0.167853,
+      "-"
+    ],
+    [
+      0.200064,
+      "i"
+    ],
+    [
+      0.072128,
+      "n"
+    ],
+    [
+      0.071966,
+      "s"
+    ],
+    [
+      0.071618,
+      "t"
+    ],
+    [
+      0.064094,
+      "a"
+    ],
+    [
+      0.064348,
+      "l"
+    ],
+    [
+      0.111708,
+      "l"
+    ],
+    [
+      1.557781,
+      "\r\r\n"
+    ],
+    [
+      0.021406,
+      "Cloning into '.spam/src/jatoben/CommandLine'...\r\n"
+    ],
+    [
+      0.421755,
+      "remote: Counting objects: 132, done.\u001b[K\r\nremote: Compressing objects:  11% (1/9)   \u001b[K\rremote: Compressing objects:  22% (2/9)   \u001b[K\r"
+    ],
+    [
+      0.000922,
+      "remote: Compressing objects:  33% (3/9)   \u001b[K\rremote: Compressing objects:  44% (4/9)   \u001b[K\rremote: Compressing objects:  55% (5/9)   \u001b[K\rremote: Compressing objects:  66% (6/9)   \u001b[K\rremote: Compressing objects:  77% (7/9)   \u001b[K\rremote: Compressing objects:  88% (8/9)   \u001b[K\rremote: Compressing objects: 100% (9/9)   \u001b[K\rremote: Compressing objects: 100% (9/9), done.\u001b[K\r\n"
+    ],
+    [
+      0.046425,
+      "Receiving objects:   0% (1/132)   \r"
+    ],
+    [
+      0.000006,
+      "Receiving objects:   1% (2/132)   \r"
+    ],
+    [
+      0.000041,
+      "Receiving objects:   2% (3/132)   \r"
+    ],
+    [
+      0.000037,
+      "Receiving objects:   3% (4/132)   \r"
+    ],
+    [
+      0.000058,
+      "Receiving objects:   4% (6/132)   \r"
+    ],
+    [
+      0.000018,
+      "Receiving objects:   5% (7/132)   \r"
+    ],
+    [
+      0.000040,
+      "Receiving objects:   6% (8/132)   \r"
+    ],
+    [
+      0.000054,
+      "Receiving objects:   7% (10/132)   \r"
+    ],
+    [
+      0.000011,
+      "Receiving objects:   8% (11/132)   \r"
+    ],
+    [
+      0.000045,
+      "Receiving objects:   9% (12/132)   \r"
+    ],
+    [
+      0.000051,
+      "Receiving objects:  10% (14/132)   \r"
+    ],
+    [
+      0.000020,
+      "Receiving objects:  11% (15/132)   \r"
+    ],
+    [
+      0.000040,
+      "Receiving objects:  12% (16/132)   \r"
+    ],
+    [
+      0.000055,
+      "Receiving objects:  13% (18/132)   \r"
+    ],
+    [
+      0.000020,
+      "Receiving objects:  14% (19/132)   \r"
+    ],
+    [
+      0.000053,
+      "Receiving objects:  15% (20/132)   \r"
+    ],
+    [
+      0.000054,
+      "Receiving objects:  16% (22/132)   \r"
+    ],
+    [
+      0.000029,
+      "Receiving objects:  17% (23/132)   \r"
+    ],
+    [
+      0.000043,
+      "Receiving objects:  18% (24/132)   \r"
+    ],
+    [
+      0.000042,
+      "Receiving objects:  19% (26/132)   \r"
+    ],
+    [
+      0.000028,
+      "Receiving objects:  20% (27/132)   \r"
+    ],
+    [
+      0.000026,
+      "Receiving objects:  21% (28/132)   \r"
+    ],
+    [
+      0.000058,
+      "Receiving objects:  22% (30/132)   \r"
+    ],
+    [
+      0.000028,
+      "Receiving objects:  23% (31/132)   \r"
+    ],
+    [
+      0.000021,
+      "Receiving objects:  24% (32/132)   \r"
+    ],
+    [
+      0.009541,
+      "Receiving objects:  25% (33/132)   \r"
+    ],
+    [
+      0.000050,
+      "Receiving objects:  26% (35/132)   \r"
+    ],
+    [
+      0.000017,
+      "Receiving objects:  27% (36/132)   \r"
+    ],
+    [
+      0.000030,
+      "Receiving objects:  28% (37/132)   \r"
+    ],
+    [
+      0.000129,
+      "Receiving objects:  29% (39/132)   \r"
+    ],
+    [
+      0.000005,
+      "Receiving objects:  30% (40/132)   \r"
+    ],
+    [
+      0.000146,
+      "Receiving objects:  31% (41/132)   \r"
+    ],
+    [
+      0.000070,
+      "Receiving objects:  32% (43/132)   \r"
+    ],
+    [
+      0.000004,
+      "Receiving objects:  33% (44/132)   \r"
+    ],
+    [
+      0.006446,
+      "Receiving objects:  34% (45/132)   \r"
+    ],
+    [
+      0.000159,
+      "Receiving objects:  35% (47/132)   \r"
+    ],
+    [
+      0.000065,
+      "Receiving objects:  36% (48/132)   \r"
+    ],
+    [
+      0.000005,
+      "Receiving objects:  37% (49/132)   \r"
+    ],
+    [
+      0.011310,
+      "Receiving objects:  38% (51/132)   \r"
+    ],
+    [
+      0.000007,
+      "Receiving objects:  39% (52/132)   \r"
+    ],
+    [
+      0.000075,
+      "Receiving objects:  40% (53/132)   \r"
+    ],
+    [
+      0.000038,
+      "Receiving objects:  41% (55/132)   \r"
+    ],
+    [
+      0.000309,
+      "Receiving objects:  42% (56/132)   \r"
+    ],
+    [
+      0.000006,
+      "Receiving objects:  43% (57/132)   \r"
+    ],
+    [
+      0.000075,
+      "Receiving objects:  44% (59/132)   \rReceiving objects:  45% (60/132)   \rReceiving objects:  46% (61/132)   \r"
+    ],
+    [
+      0.000008,
+      "Receiving objects:  47% (63/132)   \rReceiving objects:  48% (64/132)   \rReceiving objects:  49% (65/132)   \r"
+    ],
+    [
+      0.000077,
+      "Receiving objects:  50% (66/132)   \r"
+    ],
+    [
+      0.000009,
+      "Receiving objects:  51% (68/132)   \rReceiving objects:  52% (69/132)   \rReceiving objects:  53% (70/132)   \rReceiving objects:  54% (72/132)   \r"
+    ],
+    [
+      0.012738,
+      "Receiving objects:  55% (73/132)   \rReceiving objects:  56% (74/132)   \r"
+    ],
+    [
+      0.000010,
+      "Receiving objects:  57% (76/132)   \r"
+    ],
+    [
+      0.000200,
+      "Receiving objects:  58% (77/132)   \rReceiving objects:  59% (78/132)   \r"
+    ],
+    [
+      0.000087,
+      "Receiving objects:  60% (80/132)   \rReceiving objects:  61% (81/132)   \r"
+    ],
+    [
+      0.000067,
+      "Receiving objects:  62% (82/132)   \r"
+    ],
+    [
+      0.000011,
+      "Receiving objects:  63% (84/132)   \r"
+    ],
+    [
+      0.000072,
+      "Receiving objects:  64% (85/132)   \rReceiving objects:  65% (86/132)   \r"
+    ],
+    [
+      0.000068,
+      "Receiving objects:  66% (88/132)   \rReceiving objects:  67% (89/132)   \rReceiving objects:  68% (90/132)   \r"
+    ],
+    [
+      0.000126,
+      "Receiving objects:  69% (92/132)   \rReceiving objects:  70% (93/132)   \rReceiving objects:  71% (94/132)   \rReceiving objects:  72% (96/132)   \r"
+    ],
+    [
+      0.000089,
+      "Receiving objects:  73% (97/132)   \rReceiving objects:  74% (98/132)   \rReceiving objects:  75% (99/132)   \r"
+    ],
+    [
+      0.000008,
+      "Receiving objects:  76% (101/132)   \rReceiving objects:  77% (102/132)   \r"
+    ],
+    [
+      0.000004,
+      "Receiving objects:  78% (103/132)   \r"
+    ],
+    [
+      0.000018,
+      "Receiving objects:  79% (105/132)   \r"
+    ],
+    [
+      0.000008,
+      "Receiving objects:  80% (106/132)   \r"
+    ],
+    [
+      0.000071,
+      "Receiving objects:  81% (107/132)   \rReceiving objects:  82% (109/132)   \rReceiving objects:  83% (110/132)   \rReceiving objects:  84% (111/132)   \r"
+    ],
+    [
+      0.000006,
+      "Receiving objects:  85% (113/132)   \r"
+    ],
+    [
+      0.000061,
+      "Receiving objects:  86% (114/132)   \r"
+    ],
+    [
+      0.000045,
+      "Receiving objects:  87% (115/132)   \r"
+    ],
+    [
+      0.000104,
+      "Receiving objects:  88% (117/132)   \r"
+    ],
+    [
+      0.000096,
+      "Receiving objects:  89% (118/132)   \r"
+    ],
+    [
+      0.000152,
+      "Receiving objects:  90% (119/132)   \rReceiving objects:  91% (121/132)   \r"
+    ],
+    [
+      0.000025,
+      "Receiving objects:  92% (122/132)   \r"
+    ],
+    [
+      0.000018,
+      "Receiving objects:  93% (123/132)   \r"
+    ],
+    [
+      0.000153,
+      "Receiving objects:  94% (125/132)   \r"
+    ],
+    [
+      0.000010,
+      "Receiving objects:  95% (126/132)   \r"
+    ],
+    [
+      0.000052,
+      "Receiving objects:  96% (127/132)   \r"
+    ],
+    [
+      0.004407,
+      "remote: Total 132 (delta 1), reused 0 (delta 0), pack-reused 123\u001b[K\r\n"
+    ],
+    [
+      0.000112,
+      "Receiving objects:  97% (129/132)   \r"
+    ],
+    [
+      0.000073,
+      "Receiving objects:  98% (130/132)   \r"
+    ],
+    [
+      0.000103,
+      "Receiving objects:  99% (131/132)   \r"
+    ],
+    [
+      0.000004,
+      "Receiving objects: 100% (132/132)   \r"
+    ],
+    [
+      0.000015,
+      "Receiving objects: 100% (132/132), 43.89 KiB | 0 bytes/s, done.\r\n"
+    ],
+    [
+      0.000106,
+      "Resolving deltas:   0% (0/60)   \r"
+    ],
+    [
+      0.000287,
+      "Resolving deltas:   1% (1/60)   \r"
+    ],
+    [
+      0.000144,
+      "Resolving deltas:   3% (2/60)   \r"
+    ],
+    [
+      0.000286,
+      "Resolving deltas:  15% (9/60)   \r"
+    ],
+    [
+      0.000188,
+      "Resolving deltas:  20% (12/60)   \r"
+    ],
+    [
+      0.000044,
+      "Resolving deltas:  23% (14/60)   \r"
+    ],
+    [
+      0.000280,
+      "Resolving deltas:  31% (19/60)   \r"
+    ],
+    [
+      0.000068,
+      "Resolving deltas:  36% (22/60)   \r"
+    ],
+    [
+      0.000267,
+      "Resolving deltas:  48% (29/60)   \r"
+    ],
+    [
+      0.000280,
+      "Resolving deltas:  60% (36/60)   \r"
+    ],
+    [
+      0.000131,
+      "Resolving deltas:  65% (39/60)   \r"
+    ],
+    [
+      0.000021,
+      "Resolving deltas:  66% (40/60)   \r"
+    ],
+    [
+      0.000127,
+      "Resolving deltas:  71% (43/60)   \r"
+    ],
+    [
+      0.000120,
+      "Resolving deltas:  76% (46/60)   \r"
+    ],
+    [
+      0.000116,
+      "Resolving deltas:  81% (49/60)   \r"
+    ],
+    [
+      0.000005,
+      "Resolving deltas:  83% (50/60)   \r"
+    ],
+    [
+      0.000117,
+      "Resolving deltas:  88% (53/60)   \r"
+    ],
+    [
+      0.000086,
+      "Resolving deltas:  91% (55/60)   \r"
+    ],
+    [
+      0.000125,
+      "Resolving deltas: 100% (60/60)   \r"
+    ],
+    [
+      0.000029,
+      "Resolving deltas: 100% (60/60), done.\r\n"
+    ],
+    [
+      0.001827,
+      "Checking connectivity... "
+    ],
+    [
+      0.002675,
+      "done.\r\n"
+    ],
+    [
+      0.079024,
+      "Cloning into '.spam/src/beltex/SMCKit'...\r\n"
+    ],
+    [
+      0.419961,
+      "remote: Counting objects: 786, done.\u001b[K\r\n"
+    ],
+    [
+      0.064033,
+      "Receiving objects:   0% (1/786)   \r"
+    ],
+    [
+      0.000209,
+      "Receiving objects:   1% (8/786)   \r"
+    ],
+    [
+      0.000248,
+      "Receiving objects:   2% (16/786)   \r"
+    ],
+    [
+      0.000279,
+      "Receiving objects:   3% (24/786)   \r"
+    ],
+    [
+      0.000216,
+      "Receiving objects:   4% (32/786)   \r"
+    ],
+    [
+      0.012527,
+      "Receiving objects:   5% (40/786)   \r"
+    ],
+    [
+      0.000389,
+      "Receiving objects:   6% (48/786)   \r"
+    ],
+    [
+      0.000372,
+      "Receiving objects:   7% (56/786)   \r"
+    ],
+    [
+      0.000385,
+      "Receiving objects:   8% (63/786)   \r"
+    ],
+    [
+      0.000400,
+      "Receiving objects:   9% (71/786)   \r"
+    ],
+    [
+      0.125212,
+      "Receiving objects:  10% (79/786)   \r"
+    ],
+    [
+      0.000599,
+      "Receiving objects:  11% (87/786)   \r"
+    ],
+    [
+      0.000464,
+      "Receiving objects:  12% (95/786)   \r"
+    ],
+    [
+      0.000410,
+      "Receiving objects:  13% (103/786)   \r"
+    ],
+    [
+      0.000434,
+      "Receiving objects:  14% (111/786)   \r"
+    ],
+    [
+      0.000503,
+      "Receiving objects:  15% (118/786)   \r"
+    ],
+    [
+      0.000357,
+      "Receiving objects:  16% (126/786)   \r"
+    ],
+    [
+      0.000281,
+      "Receiving objects:  17% (134/786)   \r"
+    ],
+    [
+      0.000276,
+      "Receiving objects:  18% (142/786)   \r"
+    ],
+    [
+      0.000293,
+      "Receiving objects:  19% (150/786)   \r"
+    ],
+    [
+      0.000267,
+      "Receiving objects:  20% (158/786)   \r"
+    ],
+    [
+      0.000396,
+      "Receiving objects:  21% (166/786)   \r"
+    ],
+    [
+      0.000160,
+      "Receiving objects:  22% (173/786)   \r"
+    ],
+    [
+      0.053757,
+      "Receiving objects:  23% (181/786)   \r"
+    ],
+    [
+      0.000487,
+      "Receiving objects:  24% (189/786)   \r"
+    ],
+    [
+      0.000170,
+      "Receiving objects:  25% (197/786)   \r"
+    ],
+    [
+      0.004942,
+      "Receiving objects:  26% (205/786)   \r"
+    ],
+    [
+      0.005587,
+      "Receiving objects:  27% (213/786)   \r"
+    ],
+    [
+      0.000291,
+      "Receiving objects:  28% (221/786)   \r"
+    ],
+    [
+      0.000115,
+      "Receiving objects:  29% (228/786)   \r"
+    ],
+    [
+      0.000219,
+      "Receiving objects:  30% (236/786)   \r"
+    ],
+    [
+      0.042613,
+      "Receiving objects:  31% (244/786)   \r"
+    ],
+    [
+      0.028858,
+      "Receiving objects:  32% (252/786)   \r"
+    ],
+    [
+      0.000896,
+      "Receiving objects:  33% (260/786)   \r"
+    ],
+    [
+      0.001815,
+      "Receiving objects:  34% (268/786)   \r"
+    ],
+    [
+      0.018508,
+      "Receiving objects:  35% (276/786)   \r"
+    ],
+    [
+      0.041910,
+      "Receiving objects:  36% (283/786)   \r"
+    ],
+    [
+      0.000124,
+      "Receiving objects:  37% (291/786)   \r"
+    ],
+    [
+      0.000099,
+      "Receiving objects:  38% (299/786)   \r"
+    ],
+    [
+      0.021901,
+      "Receiving objects:  39% (307/786)   \r"
+    ],
+    [
+      0.087302,
+      "Receiving objects:  40% (315/786)   \r"
+    ],
+    [
+      0.000140,
+      "Receiving objects:  41% (323/786)   \r"
+    ],
+    [
+      0.000597,
+      "Receiving objects:  42% (331/786)   \r"
+    ],
+    [
+      0.000298,
+      "Receiving objects:  43% (338/786)   \r"
+    ],
+    [
+      0.000315,
+      "Receiving objects:  44% (346/786)   \r"
+    ],
+    [
+      0.000128,
+      "Receiving objects:  45% (354/786)   \r"
+    ],
+    [
+      0.000210,
+      "Receiving objects:  46% (362/786)   \r"
+    ],
+    [
+      0.000085,
+      "Receiving objects:  47% (370/786)   \r"
+    ],
+    [
+      0.000155,
+      "Receiving objects:  48% (378/786)   \r"
+    ],
+    [
+      0.000131,
+      "Receiving objects:  49% (386/786)   \r"
+    ],
+    [
+      0.000051,
+      "Receiving objects:  50% (393/786)   \r"
+    ],
+    [
+      0.000188,
+      "Receiving objects:  51% (401/786)   \r"
+    ],
+    [
+      0.000158,
+      "Receiving objects:  52% (409/786)   \r"
+    ],
+    [
+      0.010764,
+      "Receiving objects:  53% (417/786)   \r"
+    ],
+    [
+      0.000092,
+      "Receiving objects:  54% (425/786)   \r"
+    ],
+    [
+      0.000221,
+      "Receiving objects:  55% (433/786)   \r"
+    ],
+    [
+      0.000072,
+      "Receiving objects:  56% (441/786)   \r"
+    ],
+    [
+      0.000209,
+      "Receiving objects:  57% (449/786)   \r"
+    ],
+    [
+      0.000232,
+      "Receiving objects:  58% (456/786)   \r"
+    ],
+    [
+      0.000245,
+      "Receiving objects:  59% (464/786)   \r"
+    ],
+    [
+      0.070904,
+      "Receiving objects:  60% (472/786), 196.01 KiB | 356.00 KiB/s   \r"
+    ],
+    [
+      0.000357,
+      "Receiving objects:  61% (480/786), 196.01 KiB | 356.00 KiB/s   \r"
+    ],
+    [
+      0.000154,
+      "Receiving objects:  62% (488/786), 196.01 KiB | 356.00 KiB/s   \r"
+    ],
+    [
+      0.000155,
+      "Receiving objects:  63% (496/786), 196.01 KiB | 356.00 KiB/s   \r"
+    ],
+    [
+      0.000097,
+      "Receiving objects:  64% (504/786), 196.01 KiB | 356.00 KiB/s   \r"
+    ],
+    [
+      0.000112,
+      "Receiving objects:  65% (511/786), 196.01 KiB | 356.00 KiB/s   \r"
+    ],
+    [
+      0.000191,
+      "Receiving objects:  66% (519/786), 196.01 KiB | 356.00 KiB/s   \r"
+    ],
+    [
+      0.000131,
+      "Receiving objects:  67% (527/786), 196.01 KiB | 356.00 KiB/s   \r"
+    ],
+    [
+      0.000149,
+      "Receiving objects:  68% (535/786), 196.01 KiB | 356.00 KiB/s   \r"
+    ],
+    [
+      0.000101,
+      "Receiving objects:  69% (543/786), 196.01 KiB | 356.00 KiB/s   \r"
+    ],
+    [
+      0.000135,
+      "Receiving objects:  70% (551/786), 196.01 KiB | 356.00 KiB/s   \r"
+    ],
+    [
+      0.000130,
+      "Receiving objects:  71% (559/786), 196.01 KiB | 356.00 KiB/s   \r"
+    ],
+    [
+      0.000076,
+      "Receiving objects:  72% (566/786), 196.01 KiB | 356.00 KiB/s   \r"
+    ],
+    [
+      0.000124,
+      "Receiving objects:  73% (574/786), 196.01 KiB | 356.00 KiB/s   \r"
+    ],
+    [
+      0.007208,
+      "Receiving objects:  74% (582/786), 196.01 KiB | 356.00 KiB/s   \r"
+    ],
+    [
+      0.000141,
+      "Receiving objects:  75% (590/786), 196.01 KiB | 356.00 KiB/s   \r"
+    ],
+    [
+      0.000214,
+      "Receiving objects:  76% (598/786), 196.01 KiB | 356.00 KiB/s   \r"
+    ],
+    [
+      0.000168,
+      "Receiving objects:  77% (606/786), 196.01 KiB | 356.00 KiB/s   \r"
+    ],
+    [
+      0.000113,
+      "Receiving objects:  78% (614/786), 196.01 KiB | 356.00 KiB/s   \r"
+    ],
+    [
+      0.000098,
+      "Receiving objects:  79% (621/786), 196.01 KiB | 356.00 KiB/s   \r"
+    ],
+    [
+      0.000230,
+      "Receiving objects:  80% (629/786), 196.01 KiB | 356.00 KiB/s   \r"
+    ],
+    [
+      0.000173,
+      "Receiving objects:  81% (637/786), 196.01 KiB | 356.00 KiB/s   \r"
+    ],
+    [
+      0.000094,
+      "Receiving objects:  82% (645/786), 196.01 KiB | 356.00 KiB/s   \r"
+    ],
+    [
+      0.000103,
+      "Receiving objects:  83% (653/786), 196.01 KiB | 356.00 KiB/s   \r"
+    ],
+    [
+      0.000091,
+      "Receiving objects:  84% (661/786), 196.01 KiB | 356.00 KiB/s   \r"
+    ],
+    [
+      0.000215,
+      "Receiving objects:  85% (669/786), 196.01 KiB | 356.00 KiB/s   \r"
+    ],
+    [
+      0.000079,
+      "Receiving objects:  86% (676/786), 196.01 KiB | 356.00 KiB/s   \r"
+    ],
+    [
+      0.000286,
+      "Receiving objects:  87% (684/786), 196.01 KiB | 356.00 KiB/s   \r"
+    ],
+    [
+      0.000055,
+      "Receiving objects:  88% (692/786), 196.01 KiB | 356.00 KiB/s   \r"
+    ],
+    [
+      0.000225,
+      "Receiving objects:  89% (700/786), 196.01 KiB | 356.00 KiB/s   \r"
+    ],
+    [
+      0.000174,
+      "Receiving objects:  90% (708/786), 196.01 KiB | 356.00 KiB/s   \r"
+    ],
+    [
+      0.000199,
+      "Receiving objects:  91% (716/786), 196.01 KiB | 356.00 KiB/s   \r"
+    ],
+    [
+      0.033835,
+      "Receiving objects:  92% (724/786), 196.01 KiB | 356.00 KiB/s   \r"
+    ],
+    [
+      0.018296,
+      "Receiving objects:  93% (731/786), 196.01 KiB | 356.00 KiB/s   \r"
+    ],
+    [
+      0.000582,
+      "Receiving objects:  94% (739/786), 196.01 KiB | 356.00 KiB/s   \r"
+    ],
+    [
+      0.111073,
+      "Receiving objects:  95% (747/786), 196.01 KiB | 356.00 KiB/s   \r"
+    ],
+    [
+      0.349757,
+      "Receiving objects:  95% (748/786), 388.01 KiB | 360.00 KiB/s   \r"
+    ],
+    [
+      0.000321,
+      "Receiving objects:  96% (755/786), 388.01 KiB | 360.00 KiB/s   \r"
+    ],
+    [
+      0.019380,
+      "Receiving objects:  97% (763/786), 388.01 KiB | 360.00 KiB/s   \r"
+    ],
+    [
+      0.444706,
+      "Receiving objects:  98% (771/786), 388.01 KiB | 360.00 KiB/s   \r"
+    ],
+    [
+      0.035600,
+      "Receiving objects:  99% (779/786), 520.01 KiB | 329.00 KiB/s   \r"
+    ],
+    [
+      0.506431,
+      "Receiving objects:  99% (784/786), 580.01 KiB | 278.00 KiB/s   \r"
+    ],
+    [
+      0.701777,
+      "remote: Total 786 (delta 0), reused 0 (delta 0), pack-reused 786\u001b[K\r\n"
+    ],
+    [
+      0.000183,
+      "Receiving objects: 100% (786/786), 620.01 KiB | 228.00 KiB/s   \rReceiving objects: 100% (786/786), 638.68 KiB | 228.00 KiB/s, done.\r\n"
+    ],
+    [
+      0.000227,
+      "Resolving deltas:   0% (0/386)   \r"
+    ],
+    [
+      0.002137,
+      "Resolving deltas:   1% (6/386)   \r"
+    ],
+    [
+      0.001744,
+      "Resolving deltas:  11% (44/386)   \r"
+    ],
+    [
+      0.000150,
+      "Resolving deltas:  12% (48/386)   \r"
+    ],
+    [
+      0.000399,
+      "Resolving deltas:  15% (61/386)   \r"
+    ],
+    [
+      0.000172,
+      "Resolving deltas:  16% (65/386)   \r"
+    ],
+    [
+      0.000024,
+      "Resolving deltas:  17% (66/386)   \r"
+    ],
+    [
+      0.000280,
+      "Resolving deltas:  18% (72/386)   \r"
+    ],
+    [
+      0.000671,
+      "Resolving deltas:  24% (93/386)   \r"
+    ],
+    [
+      0.000959,
+      "Resolving deltas:  31% (122/386)   \r"
+    ],
+    [
+      0.000486,
+      "Resolving deltas:  35% (137/386)   \r"
+    ],
+    [
+      0.000302,
+      "Resolving deltas:  38% (148/386)   \r"
+    ],
+    [
+      0.000092,
+      "Resolving deltas:  39% (151/386)   \r"
+    ],
+    [
+      0.001017,
+      "Resolving deltas:  48% (188/386)   \r"
+    ],
+    [
+      0.000560,
+      "Resolving deltas:  53% (207/386)   \r"
+    ],
+    [
+      0.000245,
+      "Resolving deltas:  56% (217/386)   \r"
+    ],
+    [
+      0.000207,
+      "Resolving deltas:  57% (222/386)   \r"
+    ],
+    [
+      0.000017,
+      "Resolving deltas:  58% (224/386)   \r"
+    ],
+    [
+      0.000562,
+      "Resolving deltas:  63% (244/386)   \r"
+    ],
+    [
+      0.000235,
+      "Resolving deltas:  65% (252/386)   \r"
+    ],
+    [
+      0.001487,
+      "Resolving deltas:  79% (305/386)   \r"
+    ],
+    [
+      0.000180,
+      "Resolving deltas:  80% (309/386)   \r"
+    ],
+    [
+      0.000173,
+      "Resolving deltas:  81% (313/386)   \r"
+    ],
+    [
+      0.000155,
+      "Resolving deltas:  82% (318/386)   \r"
+    ],
+    [
+      0.000153,
+      "Resolving deltas:  83% (321/386)   \r"
+    ],
+    [
+      0.000144,
+      "Resolving deltas:  84% (325/386)   \r"
+    ],
+    [
+      0.000447,
+      "Resolving deltas:  86% (335/386)   \r"
+    ],
+    [
+      0.000106,
+      "Resolving deltas:  87% (336/386)   \r"
+    ],
+    [
+      0.000177,
+      "Resolving deltas:  88% (342/386)   \r"
+    ],
+    [
+      0.000109,
+      "Resolving deltas:  89% (346/386)   \r"
+    ],
+    [
+      0.000777,
+      "Resolving deltas:  92% (357/386)   \r"
+    ],
+    [
+      0.002939,
+      "Resolving deltas: 100% (386/386)   \r"
+    ],
+    [
+      0.000039,
+      "Resolving deltas: 100% (386/386), done.\r\n"
+    ],
+    [
+      0.003913,
+      "Checking connectivity... "
+    ],
+    [
+      0.002609,
+      "done.\r\n"
+    ],
+    [
+      0.076612,
+      "Cloning into '.spam/src/beltex/SystemKit'...\r\n"
+    ],
+    [
+      0.360327,
+      "remote: Counting objects: 596, done.\u001b[K\r\n"
+    ],
+    [
+      0.042202,
+      "Receiving objects:   0% (1/596)   \r"
+    ],
+    [
+      0.000136,
+      "Receiving objects:   1% (6/596)   \r"
+    ],
+    [
+      0.000165,
+      "Receiving objects:   2% (12/596)   \r"
+    ],
+    [
+      0.000162,
+      "Receiving objects:   3% (18/596)   \r"
+    ],
+    [
+      0.000189,
+      "Receiving objects:   4% (24/596)   \r"
+    ],
+    [
+      0.000151,
+      "Receiving objects:   5% (30/596)   \r"
+    ],
+    [
+      0.000155,
+      "Receiving objects:   6% (36/596)   \r"
+    ],
+    [
+      0.008060,
+      "Receiving objects:   7% (42/596)   \r"
+    ],
+    [
+      0.000169,
+      "Receiving objects:   8% (48/596)   \r"
+    ],
+    [
+      0.000168,
+      "Receiving objects:   9% (54/596)   \r"
+    ],
+    [
+      0.000198,
+      "Receiving objects:  10% (60/596)   \r"
+    ],
+    [
+      0.000175,
+      "Receiving objects:  11% (66/596)   \r"
+    ],
+    [
+      0.000176,
+      "Receiving objects:  12% (72/596)   \r"
+    ],
+    [
+      0.000159,
+      "Receiving objects:  13% (78/596)   \r"
+    ],
+    [
+      0.005582,
+      "Receiving objects:  14% (84/596)   \r"
+    ],
+    [
+      0.000172,
+      "Receiving objects:  15% (90/596)   \r"
+    ],
+    [
+      0.000495,
+      "Receiving objects:  16% (96/596)   \r"
+    ],
+    [
+      0.000304,
+      "Receiving objects:  17% (102/596)   \r"
+    ],
+    [
+      0.000443,
+      "Receiving objects:  18% (108/596)   \r"
+    ],
+    [
+      0.011714,
+      "Receiving objects:  19% (114/596)   \r"
+    ],
+    [
+      0.024598,
+      "Receiving objects:  20% (120/596)   \r"
+    ],
+    [
+      0.002157,
+      "Receiving objects:  21% (126/596)   \r"
+    ],
+    [
+      0.016938,
+      "Receiving objects:  22% (132/596)   \r"
+    ],
+    [
+      0.000080,
+      "Receiving objects:  23% (138/596)   \r"
+    ],
+    [
+      0.000014,
+      "Receiving objects:  24% (144/596)   \r"
+    ],
+    [
+      0.000092,
+      "Receiving objects:  25% (149/596)   \r"
+    ],
+    [
+      0.000018,
+      "Receiving objects:  26% (155/596)   \r"
+    ],
+    [
+      0.000005,
+      "Receiving objects:  27% (161/596)   \r"
+    ],
+    [
+      0.000078,
+      "Receiving objects:  28% (167/596)   \r"
+    ],
+    [
+      0.000150,
+      "Receiving objects:  29% (173/596)   \r"
+    ],
+    [
+      0.000083,
+      "Receiving objects:  30% (179/596)   \r"
+    ],
+    [
+      0.000228,
+      "Receiving objects:  31% (185/596)   \r"
+    ],
+    [
+      0.000063,
+      "Receiving objects:  32% (191/596)   \r"
+    ],
+    [
+      0.000109,
+      "Receiving objects:  33% (197/596)   \r"
+    ],
+    [
+      0.000276,
+      "Receiving objects:  34% (203/596)   \r"
+    ],
+    [
+      0.000108,
+      "Receiving objects:  35% (209/596)   \r"
+    ],
+    [
+      0.000011,
+      "Receiving objects:  36% (215/596)   \r"
+    ],
+    [
+      0.020120,
+      "Receiving objects:  37% (221/596)   \r"
+    ],
+    [
+      0.000036,
+      "Receiving objects:  38% (227/596)   \r"
+    ],
+    [
+      0.000148,
+      "Receiving objects:  39% (233/596)   \r"
+    ],
+    [
+      0.000144,
+      "Receiving objects:  40% (239/596)   \r"
+    ],
+    [
+      0.000056,
+      "Receiving objects:  41% (245/596)   \r"
+    ],
+    [
+      0.023905,
+      "Receiving objects:  42% (251/596)   \r"
+    ],
+    [
+      0.000202,
+      "Receiving objects:  43% (257/596)   \r"
+    ],
+    [
+      0.000042,
+      "Receiving objects:  44% (263/596)   \r"
+    ],
+    [
+      0.000421,
+      "Receiving objects:  45% (269/596)   \r"
+    ],
+    [
+      0.000020,
+      "Receiving objects:  46% (275/596)   \r"
+    ],
+    [
+      0.000243,
+      "Receiving objects:  47% (281/596)   \r"
+    ],
+    [
+      0.000024,
+      "Receiving objects:  48% (287/596)   \r"
+    ],
+    [
+      0.000015,
+      "Receiving objects:  49% (293/596)   \r"
+    ],
+    [
+      0.000068,
+      "Receiving objects:  50% (298/596)   \r"
+    ],
+    [
+      0.016613,
+      "Receiving objects:  51% (304/596)   \r"
+    ],
+    [
+      0.000141,
+      "Receiving objects:  52% (310/596)   \r"
+    ],
+    [
+      0.000072,
+      "Receiving objects:  53% (316/596)   \r"
+    ],
+    [
+      0.000159,
+      "Receiving objects:  54% (322/596)   \r"
+    ],
+    [
+      0.000075,
+      "Receiving objects:  55% (328/596)   \r"
+    ],
+    [
+      0.000208,
+      "Receiving objects:  56% (334/596)   \r"
+    ],
+    [
+      0.000041,
+      "Receiving objects:  57% (340/596)   \r"
+    ],
+    [
+      0.000033,
+      "Receiving objects:  58% (346/596)   \r"
+    ],
+    [
+      0.000052,
+      "Receiving objects:  59% (352/596)   \r"
+    ],
+    [
+      0.003975,
+      "Receiving objects:  60% (358/596)   \r"
+    ],
+    [
+      0.000036,
+      "Receiving objects:  61% (364/596)   \r"
+    ],
+    [
+      0.000081,
+      "Receiving objects:  62% (370/596)   \r"
+    ],
+    [
+      0.000160,
+      "Receiving objects:  63% (376/596)   \rReceiving objects:  64% (382/596)   \r"
+    ],
+    [
+      0.000044,
+      "Receiving objects:  65% (388/596)   \r"
+    ],
+    [
+      0.000067,
+      "Receiving objects:  66% (394/596)   \r"
+    ],
+    [
+      0.000007,
+      "Receiving objects:  67% (400/596)   \r"
+    ],
+    [
+      0.000003,
+      "Receiving objects:  68% (406/596)   \r"
+    ],
+    [
+      0.000021,
+      "Receiving objects:  69% (412/596)   \r"
+    ],
+    [
+      0.010923,
+      "Receiving objects:  70% (418/596)   \r"
+    ],
+    [
+      0.000241,
+      "Receiving objects:  71% (424/596)   \r"
+    ],
+    [
+      0.000101,
+      "Receiving objects:  72% (430/596)   \r"
+    ],
+    [
+      0.000480,
+      "Receiving objects:  73% (436/596)   \r"
+    ],
+    [
+      0.000214,
+      "Receiving objects:  74% (442/596)   \r"
+    ],
+    [
+      0.000116,
+      "Receiving objects:  75% (447/596)   \r"
+    ],
+    [
+      0.000148,
+      "Receiving objects:  76% (453/596)   \r"
+    ],
+    [
+      0.000213,
+      "Receiving objects:  77% (459/596)   \r"
+    ],
+    [
+      0.000125,
+      "Receiving objects:  78% (465/596)   \r"
+    ],
+    [
+      0.000121,
+      "Receiving objects:  79% (471/596)   \r"
+    ],
+    [
+      0.000255,
+      "Receiving objects:  80% (477/596)   \r"
+    ],
+    [
+      0.000016,
+      "Receiving objects:  81% (483/596)   \r"
+    ],
+    [
+      0.000014,
+      "Receiving objects:  82% (489/596)   \r"
+    ],
+    [
+      0.000014,
+      "Receiving objects:  83% (495/596)   \r"
+    ],
+    [
+      0.000004,
+      "Receiving objects:  84% (501/596)   \r"
+    ],
+    [
+      0.000150,
+      "Receiving objects:  85% (507/596)   \rReceiving objects:  86% (513/596)   \r"
+    ],
+    [
+      0.000062,
+      "Receiving objects:  87% (519/596)   \r"
+    ],
+    [
+      0.000101,
+      "Receiving objects:  88% (525/596)   \r"
+    ],
+    [
+      0.000146,
+      "Receiving objects:  89% (531/596)   \r"
+    ],
+    [
+      0.000106,
+      "Receiving objects:  90% (537/596)   \r"
+    ],
+    [
+      0.000194,
+      "Receiving objects:  91% (543/596)   \r"
+    ],
+    [
+      0.000198,
+      "Receiving objects:  92% (549/596)   \r"
+    ],
+    [
+      0.022276,
+      "Receiving objects:  93% (555/596)   \r"
+    ],
+    [
+      0.000572,
+      "Receiving objects:  94% (561/596)   \r"
+    ],
+    [
+      0.026219,
+      "Receiving objects:  95% (567/596)   \r"
+    ],
+    [
+      0.033493,
+      "Receiving objects:  96% (573/596)   \r"
+    ],
+    [
+      0.145272,
+      "Receiving objects:  97% (579/596)   \r"
+    ],
+    [
+      0.001184,
+      "Receiving objects:  98% (585/596)   \r"
+    ],
+    [
+      0.000205,
+      "Receiving objects:  99% (591/596)   \r"
+    ],
+    [
+      0.103233,
+      "remote: Total 596 (delta 0), reused 0 (delta 0), pack-reused 596\u001b[K\r\n"
+    ],
+    [
+      0.000319,
+      "Receiving objects: 100% (596/596)   \rReceiving objects: 100% (596/596), 404.96 KiB | 0 bytes/s, done.\r\n"
+    ],
+    [
+      0.000234,
+      "Resolving deltas:   0% (0/369)   \r"
+    ],
+    [
+      0.003500,
+      "Resolving deltas:  10% (39/369)   \r"
+    ],
+    [
+      0.000350,
+      "Resolving deltas:  13% (48/369)   \r"
+    ],
+    [
+      0.000911,
+      "Resolving deltas:  20% (75/369)   \r"
+    ],
+    [
+      0.000296,
+      "Resolving deltas:  22% (83/369)   \r"
+    ],
+    [
+      0.000335,
+      "Resolving deltas:  24% (91/369)   \r"
+    ],
+    [
+      0.000385,
+      "Resolving deltas:  27% (102/369)   \r"
+    ],
+    [
+      0.000289,
+      "Resolving deltas:  29% (109/369)   \r"
+    ],
+    [
+      0.000115,
+      "Resolving deltas:  30% (113/369)   \r"
+    ],
+    [
+      0.000993,
+      "Resolving deltas:  39% (144/369)   \r"
+    ],
+    [
+      0.000200,
+      "Resolving deltas:  40% (150/369)   \r"
+    ],
+    [
+      0.000820,
+      "Resolving deltas:  48% (179/369)   \r"
+    ],
+    [
+      0.000024,
+      "Resolving deltas:  49% (181/369)   \r"
+    ],
+    [
+      0.000282,
+      "Resolving deltas:  51% (189/369)   \r"
+    ],
+    [
+      0.000321,
+      "Resolving deltas:  54% (200/369)   \r"
+    ],
+    [
+      0.000105,
+      "Resolving deltas:  55% (203/369)   \r"
+    ],
+    [
+      0.000429,
+      "Resolving deltas:  58% (217/369)   \r"
+    ],
+    [
+      0.000012,
+      "Resolving deltas:  59% (218/369)   \r"
+    ],
+    [
+      0.000305,
+      "Resolving deltas:  61% (227/369)   \r"
+    ],
+    [
+      0.000515,
+      "Resolving deltas:  66% (247/369)   \r"
+    ],
+    [
+      0.001007,
+      "Resolving deltas:  77% (286/369)   \r"
+    ],
+    [
+      0.000120,
+      "Resolving deltas:  78% (291/369)   \r"
+    ],
+    [
+      0.000033,
+      "Resolving deltas:  79% (292/369)   \r"
+    ],
+    [
+      0.000140,
+      "Resolving deltas:  80% (297/369)   \r"
+    ],
+    [
+      0.000104,
+      "Resolving deltas:  81% (301/369)   \r"
+    ],
+    [
+      0.000538,
+      "Resolving deltas:  86% (321/369)   \r"
+    ],
+    [
+      0.000347,
+      "Resolving deltas:  90% (335/369)   \r"
+    ],
+    [
+      0.000017,
+      "Resolving deltas:  91% (336/369)   \r"
+    ],
+    [
+      0.000107,
+      "Resolving deltas:  92% (340/369)   \r"
+    ],
+    [
+      0.000156,
+      "Resolving deltas:  93% (345/369)   \r"
+    ],
+    [
+      0.000047,
+      "Resolving deltas:  94% (347/369)   \r"
+    ],
+    [
+      0.000147,
+      "Resolving deltas:  95% (351/369)   \r"
+    ],
+    [
+      0.000144,
+      "Resolving deltas:  96% (356/369)   \r"
+    ],
+    [
+      0.000165,
+      "Resolving deltas:  97% (359/369)   \r"
+    ],
+    [
+      0.000060,
+      "Resolving deltas:  98% (362/369)   \r"
+    ],
+    [
+      0.000455,
+      "Resolving deltas: 100% (369/369)   \r"
+    ],
+    [
+      0.000043,
+      "Resolving deltas: 100% (369/369), done.\r\n"
+    ],
+    [
+      0.002766,
+      "Checking connectivity... "
+    ],
+    [
+      0.002544,
+      "done.\r\n"
+    ],
+    [
+      0.081190,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                \r \r"
+    ],
+    [
+      0.001280,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[1m~/dshb/dshb\u001b[0m(\u001b[01;35mmaster\u001b[00m|\u001b[34m✚8\u001b[00m\u001b[00m) \u001b[K\u001b[50C\u001b[22;30m10:06PM\u001b[00m\u001b[57D"
+    ],
+    [
+      2.020511,
+      "\u001b[32ms\u001b[39m"
+    ],
+    [
+      0.063546,
+      "\u0008\u001b[4m\u001b[33ms\u001b[4m\u001b[33mp\u001b[24m\u001b[39m"
+    ],
+    [
+      0.095804,
+      "\u0008\u0008\u001b[4m\u001b[33ms\u001b[4m\u001b[33mp\u001b[4m\u001b[33ma\u001b[24m\u001b[39m"
+    ],
+    [
+      0.103113,
+      "\u0008\u0008\u0008\u001b[24m\u001b[32ms\u001b[24m\u001b[32mp\u001b[24m\u001b[32ma\u001b[32mm\u001b[39m"
+    ],
+    [
+      0.336010,
+      " "
+    ],
+    [
+      0.176761,
+      "-"
+    ],
+    [
+      0.135828,
+      "-"
+    ],
+    [
+      0.112102,
+      "c"
+    ],
+    [
+      0.063946,
+      "o"
+    ],
+    [
+      0.080049,
+      "m"
+    ],
+    [
+      0.087985,
+      "p"
+    ],
+    [
+      0.119949,
+      "i"
+    ],
+    [
+      0.079916,
+      "l"
+    ],
+    [
+      0.088159,
+      "e"
+    ],
+    [
+      0.119980,
+      " "
+    ],
+    [
+      0.119864,
+      "-"
+    ],
+    [
+      0.120316,
+      "-"
+    ],
+    [
+      0.080003,
+      "v"
+    ],
+    [
+      0.112058,
+      "e"
+    ],
+    [
+      0.071542,
+      "r"
+    ],
+    [
+      0.031889,
+      "b"
+    ],
+    [
+      0.072435,
+      "o"
+    ],
+    [
+      0.071778,
+      "s"
+    ],
+    [
+      0.051434,
+      "e"
+    ],
+    [
+      0.068870,
+      " "
+    ],
+    [
+      0.103804,
+      "-"
+    ],
+    [
+      0.143913,
+      "-"
+    ],
+    [
+      0.216601,
+      "o"
+    ],
+    [
+      0.087536,
+      "u"
+    ],
+    [
+      0.112257,
+      "t"
+    ],
+    [
+      0.016256,
+      "p"
+    ],
+    [
+      0.070880,
+      "u"
+    ],
+    [
+      0.071650,
+      "t"
+    ],
+    [
+      0.096706,
+      " "
+    ],
+    [
+      0.176605,
+      "\u001b[4m\u001b[33md\u001b[24m\u001b[39m"
+    ],
+    [
+      0.071423,
+      "\u0008\u001b[4m\u001b[33md\u001b[4m\u001b[33ms\u001b[24m\u001b[39m"
+    ],
+    [
+      0.096904,
+      "\u0008\u0008\u001b[24m\u001b[39md\u001b[24m\u001b[39msh"
+    ],
+    [
+      0.119967,
+      "b"
+    ],
+    [
+      1.405118,
+      "\r\r\n"
+    ],
+    [
+      0.024615,
+      "Compiling CommandLine…\r\n"
+    ],
+    [
+      0.835381,
+      "Compiling SMCKit…\r\n"
+    ],
+    [
+      1.211540,
+      "Compiling SystemKit…\r\n"
+    ],
+    [
+      1.827112,
+      "Compiling dshb…\r\n"
+    ],
+    [
+      0.226003,
+      "\u001b[1m\u003cunknown\u003e:0: \u001b[0;1;35mwarning: \u001b[0m\u001b[1mwill never be executed\r\n\u001b[0m\u001b[1m./main.swift:184:7: \u001b[0;1;30mnote: \u001b[0m\u001b[1mcondition always evaluates to true\r\n\u001b[0mwhile true {\r\n\u001b[0;1;32m      ^\r\n\u001b[0m"
+    ],
+    [
+      1.356534,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                \r \r"
+    ],
+    [
+      0.001354,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[1m~/dshb/dshb\u001b[0m(\u001b[01;35mmaster\u001b[00m|\u001b[34m✚8\u001b[00m\u001b[00m) \u001b[K\u001b[50C\u001b[22;30m10:06PM\u001b[00m\u001b[57D"
+    ],
+    [
+      1.175539,
+      "\u001b[32m.\u001b[39m"
+    ],
+    [
+      0.080783,
+      "\u0008\u001b[39m\u001b[4m.\u001b[4m/\u001b[24m"
+    ],
+    [
+      0.104030,
+      "\u0008\u0008\u001b[4m.\u001b[4m/\u001b[4md\u001b[24m"
+    ],
+    [
+      0.050356,
+      "\u0008\u001b[4md\u001b[4ms\u001b[24m"
+    ],
+    [
+      0.077550,
+      "\u0008\u001b[4ms\u001b[4mh\u001b[24m"
+    ],
+    [
+      0.111819,
+      "\u0008\u0008\u0008\u0008\u0008\u001b[24m\u001b[32m.\u001b[24m\u001b[32m/\u001b[24m\u001b[32md\u001b[24m\u001b[32ms\u001b[24m\u001b[32mh\u001b[32mb\u001b[39m"
+    ],
+    [
+      2.405503,
+      "\r\r\n"
+    ],
+    [
+      0.009023,
+      "\u001b[?1049h\u001b[1;30r\u001b(B\u001b[m\u001b[4l\u001b[?7h\u001b[?1h\u001b="
+    ],
+    [
+      0.000006,
+      "\u001b[?25l"
+    ],
+    [
+      0.017733,
+      "\u001b[39;49m\u001b[37m\u001b[40m\u001b[H\u001b[2J\u001b[37m\u001b[46mCPU\u001b[23X\u001b[1;27H\u001b[37m\u001b[40m \u001b[37m\u001b[46mMemory\u001b[20X\u001b[1;54H\u001b[37m\u001b[40m \u001b[37m\u001b[46mSystem\u001b[20X\r\u001b[2d\u001b[37m\u001b[40mSystem\u001b[2;26H% Free\u001b[2;52HGB Uptime\r\u001b[3dUser\u001b[3;26H% Wired\u001b[3;52HGB Processes\r\u001b[4dIdle\u001b[4;26H% Active\u001b[4;52HGB Threads\r\u001b[5dNice\u001b[5;26H% Inactive\u001b[5;52HGB Load Avg\u001b[6;28HCompressed\u001b[6;52HGB Mach factor\r\u001b[7d\u001b[37m\u001b[46mBattery\u001b[19X\u001b[7;27H\u001b[37m\u001b[40m \u001b[37m\u001b[46mTemperature\u001b[15X\u001b[7;54H\u001b[37m\u001b[40m \u001b[37m\u001b[46mFan\u001b[23X\r\u001b[8d\u001b[37m\u001b[40mCharge\u001b[8;26H% BATTERY\u001b[8;52H°C Left side\u001b[78GRPM\r\u001b[9dCapacity Degradation   mAh CPU_0_DIE\u001b[9;52H°C Right side\u001b[78GRPM\r\u001b[10dCycles\u001b[10;28HCPU_0_PROXIMITY\u001b[10;52H°C\r\u001b[11dTime Remaining\u001b[11;28HENCLOSURE_BASE_0\u001b[11;52H°C\u001b[12;28HENCLOSURE_BASE_1\u001b[12;52H°C\u001b[13;28HENCLOSURE_BASE_2\u001b[13;52H°C\u001b[14;28HHEATSINK_1\u001b[14;52H°C\u001b[15;28HHEATSINK_2\u001b[15;52H°C\u001b[16;28HMEM_SLOTS_PROXIMITY     °C\u001b[17;28HMEM_SLOT_0\u001b[17;52H°C\u001b[18;28HPALM_REST\u001b[18;52H°C\u001b[9;81H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.010877,
+      "\u001b[2;25H\u001b[37m\u001b[40m2% \u001b[30m\u001b[41mFree \u001b[2;48H\u001b[37m\u001b[40m3.18\u001b[2;70H35d 11h 50m\r\u001b[3d\u001b[30m\u001b[42mU\u001b[3;25H\u001b[37m\u001b[40m3% \u001b[30m\u001b[42mWire\u001b[3;48H\u001b[37m\u001b[40m3.08\u001b[78G309\r\u001b[4d\u001b[30m\u001b[42mIdle\u001b[19X\u001b[4;24H9\u001b[37m\u001b[40m3% \u001b[30m\u001b[43mActive      \u001b[4;48H\u001b[37m\u001b[40m8.00\u001b[77G1319\u001b[5;25H0\u001b[5;49H572M\u001b[5;66H1.24, 1.42,1.41\u001b[6;28H\u001b[30m\u001b[42mC\u001b[6;48H\u001b[37m\u001b[40m1.16\u001b[6;62H…  6.33, 6.40, 6.32\r\u001b[8d\u001b[30m\u001b[42mCharge\u001b[16X\u001b[8;23H\u001b[37m\u001b[40m 86% \u001b[30m\u001b[42mBATTER\u001b[8;50H\u001b[37m\u001b[40m31°C \u001b[30m\u001b[42mLeft side\u001b[8;73H\u001b[37m\u001b[40m2164\r\u001b[9d\u001b[30m\u001b[42mCapacity Degrada…  -48 mA\u001b[37m\u001b[40mh \u001b[30m\u001b[42mCPU_0_DIE  \u001b[9;50H\u001b[37m\u001b[40m56°C \u001b[30m\u001b[42mRight sid\u001b[9;73H\u001b[37m\u001b[40m2001\r\u001b[10d\u001b[30m\u001b[42mCy\u001b[10;25H\u001b[37m\u001b[40m94 \u001b[30m\u001b[42mCPU_0_P\u001b[10;50H\u001b[37m\u001b[40m39\u001b[11;23H7:54 \u001b[30m\u001b[42mENCLOS\u001b[11;50H\u001b[37m\u001b[40m32\u001b[12;28H\u001b[30m\u001b[42mENCLOS\u001b[12;50H\u001b[37m\u001b[40m32\u001b[13;28H\u001b[30m\u001b[42mENCLOS\u001b[13;50H\u001b[37m\u001b[40m31\u001b[14;28H\u001b[30m\u001b[42mHEATSIN\u001b[14;50H\u001b[37m\u001b[40m36\u001b[15;28H\u001b[30m\u001b[42mHEATSIN\u001b[15;50H\u001b[37m\u001b[40m35\u001b[16;28H\u001b[30m\u001b[42mMEM_SLO\u001b[16;50H\u001b[37m\u001b[40m39\u001b[17;28H\u001b[30m\u001b[42mMEM_SLO\u001b[17;50H\u001b[37m\u001b[40m37\u001b[18;28H"
+    ],
+    [
+      0.000012,
+      "\u001b[30m\u001b[42mPALM_R\u001b[18;50H\u001b[37m\u001b[40m31\u001b[9;81H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      1.004418,
+      "\u001b[2;25H\u001b[37m\u001b[40m1\r\u001b[3dU\u001b[3;25H2\u001b[4d\u00085\u001b[79G23\u001b[6;73H39\u001b[8d65\u001b[9;73H1999\u001b[15;34HN\u001b[15;51H4\u001b[9;81H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      1.001572,
+      "\u001b[2;25H\u001b[37m\u001b[40m0\u001b[3;51H7\u001b[4;25H\u001b[30m\u001b[42m6\u001b[4;40H\u001b[30m\u001b[43m \u001b[80G\u001b[37m\u001b[40m6\u001b[6;67H45, 6.41, 6.33\u001b[9;51H5\u001b[9;73H2002\u001b[15;34H\u001b[30m\u001b[42mN\u001b[15;51H\u001b[37m\u001b[40m5\u001b[9;81H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      1.001584,
+      "\u001b[6;68H\u001b[37m\u001b[40m8\u001b[80G4\u001b[8;75H56\u001b[9d\u00088 RPM\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      1.000339,
+      "\u001b[4;51H\u001b[37m\u001b[40m1\u001b[5;69H2\u001b[6;67H50\u001b[8;75H64\u001b[9;73H1992 RPM\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.378591,
+      "\u001b[30;1H\u001b[?12l\u001b[?25h\u001b[?1049l\r\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.001752,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                \r \r"
+    ],
+    [
+      0.001695,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[1m~/dshb/dshb\u001b[0m(\u001b[01;35mmaster\u001b[00m|\u001b[34m✚8\u001b[00m\u001b[00m) \u001b[K\u001b[50C\u001b[22;30m10:07PM\u001b[00m\u001b[57D"
+    ],
+    [
+      2.188777,
+      "\r\r\n"
+    ]
+  ]
+}
