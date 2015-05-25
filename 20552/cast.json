@@ -1,0 +1,746 @@
+{
+  "version": 1,
+  "width": 101,
+  "height": 54,
+  "duration": 59.700808,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.008309,
+      "\u001b[?1034h"
+    ],
+    [
+      0.000010,
+      "bash-3.2$ "
+    ],
+    [
+      1.871418,
+      "d"
+    ],
+    [
+      0.143905,
+      "o"
+    ],
+    [
+      0.143995,
+      "c"
+    ],
+    [
+      0.152326,
+      "k"
+    ],
+    [
+      0.127909,
+      "e"
+    ],
+    [
+      0.063780,
+      "r"
+    ],
+    [
+      0.159949,
+      "-"
+    ],
+    [
+      0.127828,
+      "c"
+    ],
+    [
+      0.103710,
+      "o"
+    ],
+    [
+      0.128366,
+      "m"
+    ],
+    [
+      0.120054,
+      "p"
+    ],
+    [
+      0.127947,
+      "o"
+    ],
+    [
+      0.127860,
+      "s"
+    ],
+    [
+      0.040051,
+      "e"
+    ],
+    [
+      0.224150,
+      " "
+    ],
+    [
+      0.143790,
+      "b"
+    ],
+    [
+      0.103682,
+      "u"
+    ],
+    [
+      0.128728,
+      "i"
+    ],
+    [
+      0.151930,
+      "l"
+    ],
+    [
+      0.159839,
+      "d"
+    ],
+    [
+      0.128218,
+      " "
+    ],
+    [
+      0.111771,
+      "w"
+    ],
+    [
+      0.055932,
+      "e"
+    ],
+    [
+      0.247547,
+      "b"
+    ],
+    [
+      0.480490,
+      "\r\n"
+    ],
+    [
+      0.205928,
+      "Building web...\r\n"
+    ],
+    [
+      0.129148,
+      "Step 0 : FROM node:latest\r\n"
+    ],
+    [
+      0.005748,
+      " ---\u003e 6d123ea65021\r\n"
+    ],
+    [
+      0.000168,
+      "Step 1 : RUN npm install debug express path elasticsearch forever node-jsx react gulp-sourcemaps gulp-babel babelify vinyl-source-stream gulp-nodemon gulp-sass\r\n"
+    ],
+    [
+      0.035441,
+      " ---\u003e Using cache\r\n"
+    ],
+    [
+      0.000125,
+      " ---\u003e 5f4eb6746116\r\n"
+    ],
+    [
+      0.000097,
+      "Step 2 : RUN npm --global install browserify gulp nodemon\r\n"
+    ],
+    [
+      0.031754,
+      " ---\u003e Using cache\r\n"
+    ],
+    [
+      0.000076,
+      " ---\u003e 4b1ecd39ad3e\r\n"
+    ],
+    [
+      0.000094,
+      "Step 3 : RUN npm link gulp\r\n"
+    ],
+    [
+      0.035479,
+      " ---\u003e Using cache\r\n"
+    ],
+    [
+      0.000188,
+      " ---\u003e 86a90688fefc\r\n"
+    ],
+    [
+      0.000157,
+      "Step 4 : RUN npm link browserify\r\n"
+    ],
+    [
+      0.033685,
+      " ---\u003e Using cache\r\n"
+    ],
+    [
+      0.000174,
+      " ---\u003e 9cf748faf5ab\r\n"
+    ],
+    [
+      0.000147,
+      "Step 5 : RUN npm link nodemon\r\n"
+    ],
+    [
+      0.033378,
+      " ---\u003e Using cache\r\n"
+    ],
+    [
+      0.000159,
+      " ---\u003e 7a81086373a1\r\n"
+    ],
+    [
+      0.000104,
+      "Step 6 : RUN mkdir /gunsnfun\r\n"
+    ],
+    [
+      0.031516,
+      " ---\u003e Using cache\r\n"
+    ],
+    [
+      0.000156,
+      " ---\u003e 004876688ffc\r\n"
+    ],
+    [
+      0.000138,
+      "Step 7 : EXPOSE 3069\r\n"
+    ],
+    [
+      0.037287,
+      " ---\u003e Using cache\r\n"
+    ],
+    [
+      0.000126,
+      " ---\u003e 1d9ae8d88d03\r\n"
+    ],
+    [
+      0.000096,
+      "Step 8 : CMD gulp --gulpfile /gunsnfun/static/gulpfile.js\r\n"
+    ],
+    [
+      0.035756,
+      " ---\u003e Using cache\r\n"
+    ],
+    [
+      0.000139,
+      " ---\u003e 46d5f0247763\r\n"
+    ],
+    [
+      0.000137,
+      "Successfully built 46d5f0247763\r\n"
+    ],
+    [
+      0.017126,
+      "bash-3.2$ "
+    ],
+    [
+      1.421287,
+      "d"
+    ],
+    [
+      0.119722,
+      "o"
+    ],
+    [
+      0.072331,
+      "c"
+    ],
+    [
+      0.135878,
+      "k"
+    ],
+    [
+      0.088203,
+      "e"
+    ],
+    [
+      0.063451,
+      "r"
+    ],
+    [
+      0.184438,
+      "-"
+    ],
+    [
+      0.143846,
+      "c"
+    ],
+    [
+      0.127898,
+      "o"
+    ],
+    [
+      0.112143,
+      "m"
+    ],
+    [
+      0.095884,
+      "p"
+    ],
+    [
+      0.119490,
+      "o"
+    ],
+    [
+      0.112757,
+      "s"
+    ],
+    [
+      0.047741,
+      "e"
+    ],
+    [
+      0.152113,
+      " "
+    ],
+    [
+      0.115450,
+      "u"
+    ],
+    [
+      0.116556,
+      "p"
+    ],
+    [
+      0.136255,
+      " "
+    ],
+    [
+      0.135923,
+      "w"
+    ],
+    [
+      0.055915,
+      "e"
+    ],
+    [
+      0.207978,
+      "b"
+    ],
+    [
+      0.183740,
+      "\r\n"
+    ],
+    [
+      0.258073,
+      "Recreating gunsnfun_elastic_1...\r\n"
+    ],
+    [
+      1.720266,
+      "Recreating gunsnfun_web_1...\r\n"
+    ],
+    [
+      1.248708,
+      "Attaching to gunsnfun_web_1\r\n"
+    ],
+    [
+      0.243488,
+      "\u001b[36mweb_1 | \u001b[0m[16:56:22] Working directory changed to /gunsnfun/static\r\n"
+    ],
+    [
+      1.848891,
+      "\u001b[36mweb_1 | \u001b[0m[16:56:24] Using gulpfile /gunsnfun/static/gulpfile.js\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[36mweb_1 | \u001b[0m[16:56:24] Starting 'demon'...\r\n\u001b[36mweb_1 | \u001b[0m[16:56:24] Finished 'demon' after 2.12 ms\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[36mweb_1 | \u001b[0m[16:56:24] Starting 'default'...\r\n"
+    ],
+    [
+      0.000023,
+      "\u001b[36mweb_1 | \u001b[0m[16:56:24] Finished 'default' after 26 μs\r\n"
+    ],
+    [
+      0.017070,
+      "\u001b[36mweb_1 | \u001b[0m[16:56:24] [nodemon] v1.3.7\r\n"
+    ],
+    [
+      0.000013,
+      "\u001b[36mweb_1 | \u001b[0m[16:56:24] [nodemon] to restart at any time, enter `rs`\r\n\u001b[36mweb_1 | \u001b[0m[16:56:24] [nodemon] watching: *.*\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[36mweb_1 | \u001b[0m[16:56:24] [nodemon] starting `node ./../server.js`\r\n"
+    ],
+    [
+      2.375667,
+      "\u001b[36mweb_1 | \u001b[0m[16:56:26] Using gulpfile /gunsnfun/static/gulpfile.js\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[36mweb_1 | \u001b[0m[16:56:26] Starting 'bamfify:js'...\r\n"
+    ],
+    [
+      0.383582,
+      "\u001b[36mweb_1 | \u001b[0m[16:56:26] Finished 'bamfify:js' after 397 ms\r\n"
+    ],
+    [
+      0.588687,
+      "\u001b[36mweb_1 | \u001b[0mElasticsearch INFO: 2015-05-25T16:56:27Z\r\n"
+    ],
+    [
+      0.000011,
+      "\u001b[36mweb_1 | \u001b[0m  Adding connection to http://elastic:9200/\r\n\u001b[36mweb_1 | \u001b[0m\r\n"
+    ],
+    [
+      1.455073,
+      "\u001b[36mweb_1 | \u001b[0m[16:56:28] Using gulpfile /gunsnfun/static/gulpfile.js\r\n\u001b[36mweb_1 | \u001b[0m[16:56:28] Starting 'bamfify-react:js'...\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[36mweb_1 | \u001b[0m[16:56:28] Finished 'bamfify-react:js' after 25 ms\r\n"
+    ],
+    [
+      4.550317,
+      "\u001b[36mweb_1 | \u001b[0m[16:56:33] Using gulpfile /gunsnfun/static/gulpfile.js\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[36mweb_1 | \u001b[0m[16:56:33] Starting 'bamfify:scss'...\r\n"
+    ],
+    [
+      0.036688,
+      "\u001b[36mweb_1 | \u001b[0m[16:56:33] Finished 'bamfify:scss' after 44 ms\r\n"
+    ],
+    [
+      0.208569,
+      "s"
+    ],
+    [
+      0.584108,
+      "o"
+    ],
+    [
+      0.215976,
+      " "
+    ],
+    [
+      0.127505,
+      "t"
+    ],
+    [
+      0.071888,
+      "h"
+    ],
+    [
+      0.096326,
+      "i"
+    ],
+    [
+      0.136177,
+      "s"
+    ],
+    [
+      0.063995,
+      " "
+    ],
+    [
+      0.128033,
+      "w"
+    ],
+    [
+      0.071918,
+      "o"
+    ],
+    [
+      0.128221,
+      "r"
+    ],
+    [
+      0.055604,
+      "k"
+    ],
+    [
+      0.144147,
+      "s"
+    ],
+    [
+      0.104089,
+      "."
+    ],
+    [
+      0.168036,
+      " "
+    ],
+    [
+      0.143988,
+      "l"
+    ],
+    [
+      0.112115,
+      "e"
+    ],
+    [
+      0.079949,
+      "t"
+    ],
+    [
+      0.112027,
+      "s"
+    ],
+    [
+      0.111771,
+      " "
+    ],
+    [
+      0.119886,
+      "t"
+    ],
+    [
+      0.151746,
+      "r"
+    ],
+    [
+      0.063960,
+      "y"
+    ],
+    [
+      0.168452,
+      " "
+    ],
+    [
+      0.567847,
+      "c"
+    ],
+    [
+      0.120092,
+      "h"
+    ],
+    [
+      0.095533,
+      "a"
+    ],
+    [
+      0.087955,
+      "n"
+    ],
+    [
+      0.080362,
+      "g"
+    ],
+    [
+      0.136156,
+      "i"
+    ],
+    [
+      0.080026,
+      "n"
+    ],
+    [
+      0.063818,
+      "g"
+    ],
+    [
+      0.112120,
+      " "
+    ],
+    [
+      0.079977,
+      "a"
+    ],
+    [
+      0.120018,
+      " "
+    ],
+    [
+      0.087477,
+      "f"
+    ],
+    [
+      0.104097,
+      "i"
+    ],
+    [
+      0.144049,
+      "l"
+    ],
+    [
+      0.104325,
+      "e"
+    ],
+    [
+      1.151889,
+      " "
+    ],
+    [
+      0.080090,
+      "a"
+    ],
+    [
+      0.159942,
+      "n"
+    ],
+    [
+      0.055986,
+      "d"
+    ],
+    [
+      0.104116,
+      " "
+    ],
+    [
+      0.112089,
+      "s"
+    ],
+    [
+      0.135361,
+      "a"
+    ],
+    [
+      0.079926,
+      "v"
+    ],
+    [
+      0.120565,
+      "i"
+    ],
+    [
+      0.096093,
+      "n"
+    ],
+    [
+      0.063980,
+      "g"
+    ],
+    [
+      1.343927,
+      "."
+    ],
+    [
+      0.207826,
+      "."
+    ],
+    [
+      0.143645,
+      "."
+    ],
+    [
+      4.068706,
+      "\u001b[36mweb_1 | \u001b[0m[16:56:46] [nodemon] restarting due to changes...\r\n"
+    ],
+    [
+      0.000011,
+      "\u001b[36mweb_1 | \u001b[0mrestarted!\r\n\u001b[36mweb_1 | \u001b[0m[16:56:46] [nodemon] starting `node ./../server.js`\r\n"
+    ],
+    [
+      2.245588,
+      "\u001b[36mweb_1 | \u001b[0m[16:56:49] Using gulpfile /gunsnfun/static/gulpfile.js\r\n"
+    ],
+    [
+      0.000020,
+      "\u001b[36mweb_1 | \u001b[0m[16:56:49] Starting 'bamfify:js'...\r\n"
+    ],
+    [
+      0.410855,
+      "\u001b[36mweb_1 | \u001b[0m[16:56:49] Finished 'bamfify:js' after 428 ms\r\n"
+    ],
+    [
+      0.655659,
+      "\u001b[36mweb_1 | \u001b[0mElasticsearch INFO: 2015-05-25T16:56:50Z\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[36mweb_1 | \u001b[0m  Adding connection to http://elastic:9200/\r\n\u001b[36mweb_1 | \u001b[0m\r\n"
+    ],
+    [
+      1.356675,
+      "\u001b[36mweb_1 | \u001b[0m[16:56:51] Using gulpfile /gunsnfun/static/gulpfile.js\r\n\u001b[36mweb_1 | \u001b[0m[16:56:51] Starting 'bamfify-react:js'...\r\n"
+    ],
+    [
+      0.017378,
+      "\u001b[36mweb_1 | \u001b[0m[16:56:51] Finished 'bamfify-react:js' after 20 ms\r\n"
+    ],
+    [
+      4.650296,
+      "\u001b[36mweb_1 | \u001b[0m[16:56:56] Using gulpfile /gunsnfun/static/gulpfile.js\r\n"
+    ],
+    [
+      0.003275,
+      "\u001b[36mweb_1 | \u001b[0m[16:56:56] Starting 'bamfify:scss'...\r\n"
+    ],
+    [
+      0.071681,
+      "\u001b[36mweb_1 | \u001b[0m[16:56:56] Finished 'bamfify:scss' after 37 ms\r\n"
+    ],
+    [
+      3.919036,
+      "t"
+    ],
+    [
+      0.151659,
+      "h"
+    ],
+    [
+      0.096023,
+      "a"
+    ],
+    [
+      0.064061,
+      "t"
+    ],
+    [
+      0.175996,
+      "'"
+    ],
+    [
+      0.072242,
+      "s"
+    ],
+    [
+      0.159542,
+      " "
+    ],
+    [
+      0.160193,
+      "n"
+    ],
+    [
+      0.103814,
+      "i"
+    ],
+    [
+      0.111962,
+      "f"
+    ],
+    [
+      0.192010,
+      "t"
+    ],
+    [
+      0.120059,
+      "y"
+    ],
+    [
+      2.727864,
+      "^C"
+    ],
+    [
+      0.000168,
+      "Gracefully stopping... (press Ctrl+C again to force)\r\n"
+    ],
+    [
+      0.036595,
+      "Stopping gunsnfun_web_1...\r\n"
+    ],
+    [
+      1.899162,
+      "^C"
+    ],
+    [
+      0.042254,
+      "Killing gunsnfun_web_1...\r\n"
+    ],
+    [
+      0.302878,
+      "bash-3.2$ "
+    ],
+    [
+      1.982876,
+      "exit\r\n"
+    ]
+  ]
+}
