@@ -1,0 +1,8946 @@
+{
+  "version": 1,
+  "width": 146,
+  "height": 42,
+  "duration": 619.679072,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.024611,
+      "\u001b[?1034h"
+    ],
+    [
+      0.000007,
+      "bash-3.2$ "
+    ],
+    [
+      2.018486,
+      "g"
+    ],
+    [
+      0.000014,
+      "cl"
+    ],
+    [
+      0.000004,
+      "o"
+    ],
+    [
+      0.000013,
+      "u"
+    ],
+    [
+      0.000004,
+      "d"
+    ],
+    [
+      0.000027,
+      " "
+    ],
+    [
+      0.000029,
+      "p"
+    ],
+    [
+      0.000011,
+      "re"
+    ],
+    [
+      0.000017,
+      "v"
+    ],
+    [
+      0.000006,
+      "ie"
+    ],
+    [
+      0.000022,
+      "w"
+    ],
+    [
+      0.000037,
+      " "
+    ],
+    [
+      0.000005,
+      "a"
+    ],
+    [
+      0.000017,
+      "p"
+    ],
+    [
+      0.000022,
+      "p"
+    ],
+    [
+      0.000013,
+      " "
+    ],
+    [
+      0.000038,
+      "d"
+    ],
+    [
+      0.000005,
+      "e"
+    ],
+    [
+      0.000024,
+      "p"
+    ],
+    [
+      0.000037,
+      "l"
+    ],
+    [
+      0.000005,
+      "o"
+    ],
+    [
+      0.000043,
+      "y"
+    ],
+    [
+      0.000022,
+      " "
+    ],
+    [
+      0.000018,
+      "a"
+    ],
+    [
+      0.000046,
+      "p"
+    ],
+    [
+      0.000005,
+      "p"
+    ],
+    [
+      0.000021,
+      "."
+    ],
+    [
+      0.000005,
+      "y"
+    ],
+    [
+      0.000026,
+      "a"
+    ],
+    [
+      0.000005,
+      "m"
+    ],
+    [
+      0.000021,
+      "l"
+    ],
+    [
+      1.132291,
+      "\r\n"
+    ],
+    [
+      31.017956,
+      "You are about to deploy the following modules:\r\n"
+    ],
+    [
+      0.000026,
+      " - sharp-technique-88621/default/20150527t105552  From: [/Users/sandeepdinesh/Dev/node-codelab-2015/app.yaml]\r\n"
+    ],
+    [
+      0.000086,
+      "Do you want to continue (Y/n)?  "
+    ],
+    [
+      7.068034,
+      "Y"
+    ],
+    [
+      0.247781,
+      "\r\n"
+    ],
+    [
+      0.000032,
+      "\r\n"
+    ],
+    [
+      4.938712,
+      "Updating module [default]..."
+    ],
+    [
+      1.003733,
+      "\rUpdating module [default].../"
+    ],
+    [
+      1.002836,
+      "\rUpdating module [default]...-"
+    ],
+    [
+      1.002265,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000011,
+      "\\"
+    ],
+    [
+      1.003873,
+      "\rUpdating module [default]...|"
+    ],
+    [
+      1.002170,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000008,
+      "/"
+    ],
+    [
+      1.000941,
+      "\rUpdating module [default]...-"
+    ],
+    [
+      1.004463,
+      "\rUpdating module [default]...\\"
+    ],
+    [
+      1.002608,
+      "\rUpdating module [default]...|"
+    ],
+    [
+      1.003910,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000008,
+      "/"
+    ],
+    [
+      1.003730,
+      "\rUpdating module [default]...-"
+    ],
+    [
+      0.288673,
+      "Pushing image to Google Container Registry...\r\n"
+    ],
+    [
+      0.714759,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000009,
+      "\\"
+    ],
+    [
+      1.005072,
+      "\rUpdating module [default]...|"
+    ],
+    [
+      0.470059,
+      "The push refers to a repository [gcr.io/_m_sdk/sharp-technique-88621.default.20150527t105552] (len: 1)\r\n"
+    ],
+    [
+      0.000217,
+      "Sending image list\r\n"
+    ],
+    [
+      0.532889,
+      "\rUpdating module [default].../"
+    ],
+    [
+      0.710722,
+      "Pushing repository gcr.io/_m_sdk/sharp-technique-88621.default.20150527t105552 (1 tags)\r\n"
+    ],
+    [
+      0.293688,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000010,
+      "-"
+    ],
+    [
+      0.394680,
+      "Image 541923dd11eb already pushed, skipping\r\n"
+    ],
+    [
+      0.000627,
+      "Image 11971b6377ef already pushed, skipping\r\n"
+    ],
+    [
+      0.007210,
+      "Image 511136ea3c5a already pushed, skipping\r\n"
+    ],
+    [
+      0.600107,
+      "\rUpdating module [default]...\\"
+    ],
+    [
+      1.003318,
+      "\rUpdating module [default]...|"
+    ],
+    [
+      0.757365,
+      "Pushing\r\n"
+    ],
+    [
+      0.246501,
+      "\rUpdating module [default].../"
+    ],
+    [
+      1.003065,
+      "\rUpdating module [default]...-"
+    ],
+    [
+      1.005063,
+      "\rUpdating module [default]...\\"
+    ],
+    [
+      0.523735,
+      "Buffering to disk: 557.1 kB\r"
+    ],
+    [
+      0.009286,
+      "Buffering to disk: 1.114 MB\r"
+    ],
+    [
+      0.004587,
+      "Buffering to disk: 1.671 MB\r"
+    ],
+    [
+      0.000196,
+      "Buffering to disk: 2.228 MB\r"
+    ],
+    [
+      0.010089,
+      "Buffering to disk: 2.785 MB\r"
+    ],
+    [
+      0.010119,
+      "Buffering to disk: 3.342 MB\r"
+    ],
+    [
+      0.000179,
+      "Buffering to disk: 3.899 MB\r"
+    ],
+    [
+      0.005454,
+      "Buffering to disk: 4.456 MB\r"
+    ],
+    [
+      0.007039,
+      "Buffering to disk: 5.014 MB\r"
+    ],
+    [
+      0.000207,
+      "Buffering to disk: 5.571 MB\r"
+    ],
+    [
+      0.002725,
+      "Buffering to disk: 6.128 MB\r"
+    ],
+    [
+      0.003299,
+      "Buffering to disk: 6.685 MB\r"
+    ],
+    [
+      0.006601,
+      "Buffering to disk: 7.242 MB\r"
+    ],
+    [
+      0.004328,
+      "Buffering to disk: 7.799 MB\r"
+    ],
+    [
+      0.003057,
+      "Buffering to disk: 8.356 MB\r"
+    ],
+    [
+      0.006423,
+      "Buffering to disk: 8.913 MB\r"
+    ],
+    [
+      0.000323,
+      "Buffering to disk:  9.47 MB\r"
+    ],
+    [
+      0.004435,
+      "Buffering to disk: 10.03 MB\r"
+    ],
+    [
+      0.000535,
+      "Buffering to disk: 10.58 MB\r"
+    ],
+    [
+      0.000443,
+      "Buffering to disk: 11.14 MB\r"
+    ],
+    [
+      0.004443,
+      "Buffering to disk:  11.7 MB\r"
+    ],
+    [
+      0.004081,
+      "Buffering to disk: 12.26 MB\r"
+    ],
+    [
+      0.011492,
+      "Buffering to disk: 12.81 MB\r"
+    ],
+    [
+      0.000316,
+      "Buffering to disk: 13.37 MB\r"
+    ],
+    [
+      0.000249,
+      "Buffering to disk: 13.93 MB\r"
+    ],
+    [
+      0.000148,
+      "Buffering to disk: 14.48 MB\r"
+    ],
+    [
+      0.003378,
+      "Buffering to disk: 15.04 MB\r"
+    ],
+    [
+      0.000200,
+      "Buffering to disk:  15.6 MB\r"
+    ],
+    [
+      0.005694,
+      "Buffering to disk: 16.15 MB\r"
+    ],
+    [
+      0.014516,
+      "Buffering to disk: 16.71 MB\r"
+    ],
+    [
+      0.009712,
+      "Buffering to disk: 17.27 MB\r"
+    ],
+    [
+      0.010248,
+      "Buffering to disk: 17.83 MB\r"
+    ],
+    [
+      0.005600,
+      "Buffering to disk: 18.38 MB\r"
+    ],
+    [
+      0.000198,
+      "Buffering to disk: 18.94 MB\r"
+    ],
+    [
+      0.014077,
+      "Buffering to disk:  19.5 MB\r"
+    ],
+    [
+      0.015991,
+      "Buffering to disk: 20.05 MB\r"
+    ],
+    [
+      0.020933,
+      "Buffering to disk: 20.61 MB\r"
+    ],
+    [
+      0.029055,
+      "Buffering to disk: 21.17 MB\r"
+    ],
+    [
+      0.020044,
+      "Buffering to disk: 21.73 MB\r"
+    ],
+    [
+      0.007734,
+      "Buffering to disk: 22.28 MB\r"
+    ],
+    [
+      0.014094,
+      "Buffering to disk: 22.84 MB\r"
+    ],
+    [
+      0.018471,
+      "Buffering to disk:  23.4 MB\r"
+    ],
+    [
+      0.019506,
+      "Buffering to disk: 23.95 MB\r"
+    ],
+    [
+      0.010439,
+      "Buffering to disk: 24.51 MB\r"
+    ],
+    [
+      0.019839,
+      "Buffering to disk: 25.07 MB\r"
+    ],
+    [
+      0.019899,
+      "Buffering to disk: 25.62 MB\r"
+    ],
+    [
+      0.024120,
+      "Buffering to disk: 26.18 MB\r"
+    ],
+    [
+      0.040743,
+      "Buffering to disk: 26.74 MB\r"
+    ],
+    [
+      0.029507,
+      "Buffering to disk:  27.3 MB\r"
+    ],
+    [
+      0.019281,
+      "Buffering to disk: 27.85 MB\r"
+    ],
+    [
+      0.006212,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000004,
+      "|"
+    ],
+    [
+      0.016834,
+      "Buffering to disk: 28.41 MB\r"
+    ],
+    [
+      0.017310,
+      "Buffering to disk: 28.97 MB\r"
+    ],
+    [
+      0.029687,
+      "Buffering to disk: 29.52 MB\r"
+    ],
+    [
+      0.021051,
+      "Buffering to disk: 30.08 MB\r"
+    ],
+    [
+      0.014191,
+      "Buffering to disk: 30.64 MB\r"
+    ],
+    [
+      0.000273,
+      "Buffering to disk:  31.2 MB\r"
+    ],
+    [
+      0.005274,
+      "Buffering to disk: 31.75 MB\r"
+    ],
+    [
+      0.000302,
+      "Buffering to disk: 32.31 MB\r"
+    ],
+    [
+      0.004921,
+      "Buffering to disk: 32.87 MB\r"
+    ],
+    [
+      0.000505,
+      "Buffering to disk: 33.42 MB\r"
+    ],
+    [
+      0.000387,
+      "Buffering to disk: 33.98 MB\r"
+    ],
+    [
+      0.000459,
+      "Buffering to disk: 34.54 MB\r"
+    ],
+    [
+      0.002961,
+      "Buffering to disk: 35.09 MB\r"
+    ],
+    [
+      0.000282,
+      "Buffering to disk: 35.65 MB\r"
+    ],
+    [
+      0.005399,
+      "Buffering to disk: 36.21 MB\r"
+    ],
+    [
+      0.000673,
+      "Buffering to disk: 36.77 MB\r"
+    ],
+    [
+      0.001018,
+      "Buffering to disk: 37.32 MB\r"
+    ],
+    [
+      0.000782,
+      "Buffering to disk: 37.88 MB\r"
+    ],
+    [
+      0.000249,
+      "Buffering to disk: 38.44 MB\r"
+    ],
+    [
+      0.000160,
+      "Buffering to disk: 38.99 MB\r"
+    ],
+    [
+      0.001137,
+      "Buffering to disk: 39.55 MB\r"
+    ],
+    [
+      0.006435,
+      "Buffering to disk: 40.11 MB\r"
+    ],
+    [
+      0.000245,
+      "Buffering to disk: 40.67 MB\r"
+    ],
+    [
+      0.003059,
+      "Buffering to disk: 41.22 MB\r"
+    ],
+    [
+      0.006320,
+      "Buffering to disk: 41.78 MB\r"
+    ],
+    [
+      0.000253,
+      "Buffering to disk: 42.34 MB\r"
+    ],
+    [
+      0.000178,
+      "Buffering to disk: 42.89 MB\r"
+    ],
+    [
+      0.000195,
+      "Buffering to disk: 43.45 MB\r"
+    ],
+    [
+      0.000183,
+      "Buffering to disk: 44.01 MB\r"
+    ],
+    [
+      0.003461,
+      "Buffering to disk: 44.56 MB\r"
+    ],
+    [
+      0.000170,
+      "Buffering to disk: 45.12 MB\r"
+    ],
+    [
+      0.000160,
+      "Buffering to disk: 45.68 MB\r"
+    ],
+    [
+      0.000159,
+      "Buffering to disk: 46.24 MB\r"
+    ],
+    [
+      0.005308,
+      "Buffering to disk: 46.79 MB\r"
+    ],
+    [
+      0.000247,
+      "Buffering to disk: 47.35 MB\r"
+    ],
+    [
+      0.000407,
+      "Buffering to disk: 47.91 MB\r"
+    ],
+    [
+      0.000559,
+      "Buffering to disk: 48.46 MB\r"
+    ],
+    [
+      0.002739,
+      "Buffering to disk: 49.02 MB\r"
+    ],
+    [
+      0.000213,
+      "Buffering to disk: 49.58 MB\r"
+    ],
+    [
+      0.000181,
+      "Buffering to disk: 50.14 MB\r"
+    ],
+    [
+      0.000169,
+      "Buffering to disk: 50.69 MB\r"
+    ],
+    [
+      0.000258,
+      "Buffering to disk: 51.25 MB\r"
+    ],
+    [
+      0.005607,
+      "Buffering to disk: 51.81 MB\r"
+    ],
+    [
+      0.000178,
+      "Buffering to disk: 52.36 MB\r"
+    ],
+    [
+      0.000165,
+      "Buffering to disk: 52.92 MB\r"
+    ],
+    [
+      0.000168,
+      "Buffering to disk: 53.48 MB\r"
+    ],
+    [
+      0.003528,
+      "Buffering to disk: 54.03 MB\r"
+    ],
+    [
+      0.000299,
+      "Buffering to disk: 54.59 MB\r"
+    ],
+    [
+      0.000234,
+      "Buffering to disk: 55.15 MB\r"
+    ],
+    [
+      0.005504,
+      "Buffering to disk: 55.71 MB\r"
+    ],
+    [
+      0.000215,
+      "Buffering to disk: 56.26 MB\r"
+    ],
+    [
+      0.009105,
+      "Buffering to disk: 56.82 MB\r"
+    ],
+    [
+      0.008268,
+      "Buffering to disk: 57.38 MB\r"
+    ],
+    [
+      0.001774,
+      "Buffering to disk: 57.93 MB\r"
+    ],
+    [
+      0.002246,
+      "Buffering to disk: 58.49 MB\r"
+    ],
+    [
+      0.004953,
+      "Buffering to disk: 59.05 MB\r"
+    ],
+    [
+      0.001506,
+      "Buffering to disk:  59.6 MB\r"
+    ],
+    [
+      0.005407,
+      "Buffering to disk: 60.16 MB\r"
+    ],
+    [
+      0.010306,
+      "Buffering to disk: 60.72 MB\r"
+    ],
+    [
+      0.003613,
+      "Buffering to disk: 61.28 MB\r"
+    ],
+    [
+      0.007391,
+      "Buffering to disk: 61.83 MB\r"
+    ],
+    [
+      0.000608,
+      "Buffering to disk: 62.39 MB\r"
+    ],
+    [
+      0.004389,
+      "Buffering to disk: 62.95 MB\r"
+    ],
+    [
+      0.000269,
+      "Buffering to disk:  63.5 MB\r"
+    ],
+    [
+      0.003064,
+      "Buffering to disk: 64.06 MB\r"
+    ],
+    [
+      0.003227,
+      "Buffering to disk: 64.62 MB\r"
+    ],
+    [
+      0.005033,
+      "Buffering to disk: 65.18 MB\r"
+    ],
+    [
+      0.003838,
+      "Buffering to disk: 65.73 MB\r"
+    ],
+    [
+      0.004353,
+      "Buffering to disk: 66.29 MB\r"
+    ],
+    [
+      0.003261,
+      "Buffering to disk: 66.85 MB\r"
+    ],
+    [
+      0.001073,
+      "Buffering to disk:  67.4 MB\r"
+    ],
+    [
+      0.003271,
+      "Buffering to disk: 67.96 MB\r"
+    ],
+    [
+      0.003858,
+      "Buffering to disk: 68.52 MB\r"
+    ],
+    [
+      0.003209,
+      "Buffering to disk: 69.07 MB\r"
+    ],
+    [
+      0.000248,
+      "Buffering to disk: 69.63 MB\r"
+    ],
+    [
+      0.004952,
+      "Buffering to disk: 70.19 MB\r"
+    ],
+    [
+      0.000314,
+      "Buffering to disk: 70.75 MB\r"
+    ],
+    [
+      0.000436,
+      "Buffering to disk:  71.3 MB\r"
+    ],
+    [
+      0.000299,
+      "Buffering to disk: 71.86 MB\r"
+    ],
+    [
+      0.005342,
+      "Buffering to disk: 72.42 MB\r"
+    ],
+    [
+      0.004142,
+      "Buffering to disk: 72.97 MB\r"
+    ],
+    [
+      0.000290,
+      "Buffering to disk: 73.53 MB\r"
+    ],
+    [
+      0.003271,
+      "Buffering to disk: 74.09 MB\r"
+    ],
+    [
+      0.000181,
+      "Buffering to disk: 74.65 MB\r"
+    ],
+    [
+      0.002105,
+      "Buffering to disk:  75.2 MB\r"
+    ],
+    [
+      0.004065,
+      "Buffering to disk: 75.76 MB\r"
+    ],
+    [
+      0.007632,
+      "Buffering to disk: 76.32 MB\r"
+    ],
+    [
+      0.000213,
+      "Buffering to disk: 76.87 MB\r"
+    ],
+    [
+      0.000971,
+      "Buffering to disk: 77.43 MB\r"
+    ],
+    [
+      0.004648,
+      "Buffering to disk: 77.99 MB\r"
+    ],
+    [
+      0.006233,
+      "Buffering to disk: 78.54 MB\r"
+    ],
+    [
+      0.005668,
+      "Buffering to disk:  79.1 MB\r"
+    ],
+    [
+      0.002719,
+      "Buffering to disk: 79.66 MB\r"
+    ],
+    [
+      0.005433,
+      "Buffering to disk: 80.22 MB\r"
+    ],
+    [
+      0.000235,
+      "Buffering to disk: 80.77 MB\r"
+    ],
+    [
+      0.005801,
+      "Buffering to disk: 81.33 MB\r"
+    ],
+    [
+      0.005280,
+      "Buffering to disk: 81.89 MB\r"
+    ],
+    [
+      0.000240,
+      "Buffering to disk: 82.44 MB\r"
+    ],
+    [
+      0.004427,
+      "Buffering to disk:    83 MB\r"
+    ],
+    [
+      0.001649,
+      "Buffering to disk: 83.56 MB\r"
+    ],
+    [
+      0.008347,
+      "Buffering to disk: 84.12 MB\r"
+    ],
+    [
+      0.004566,
+      "Buffering to disk: 84.67 MB\r"
+    ],
+    [
+      0.005500,
+      "Buffering to disk: 85.23 MB\r"
+    ],
+    [
+      0.015006,
+      "Buffering to disk: 85.79 MB\r"
+    ],
+    [
+      0.004738,
+      "Buffering to disk: 86.34 MB\r"
+    ],
+    [
+      0.000244,
+      "Buffering to disk:  86.9 MB\r"
+    ],
+    [
+      0.000281,
+      "Buffering to disk: 87.46 MB\r"
+    ],
+    [
+      0.010216,
+      "Buffering to disk: 88.01 MB\r"
+    ],
+    [
+      0.009590,
+      "Buffering to disk: 88.57 MB\r"
+    ],
+    [
+      0.010199,
+      "Buffering to disk: 89.13 MB\r"
+    ],
+    [
+      0.010802,
+      "Buffering to disk: 89.69 MB\r"
+    ],
+    [
+      0.002820,
+      "Buffering to disk: 90.24 MB\r"
+    ],
+    [
+      0.028533,
+      "Buffering to disk:  90.8 MB\r"
+    ],
+    [
+      0.020007,
+      "Buffering to disk: 91.36 MB\r"
+    ],
+    [
+      0.011774,
+      "Buffering to disk: 91.91 MB\r"
+    ],
+    [
+      0.006244,
+      "Buffering to disk: 92.47 MB\r"
+    ],
+    [
+      0.003300,
+      "Buffering to disk: 93.03 MB\r"
+    ],
+    [
+      0.007143,
+      "Buffering to disk: 93.59 MB\r"
+    ],
+    [
+      0.023397,
+      "Buffering to disk: 94.14 MB\r"
+    ],
+    [
+      0.076661,
+      "Buffering to disk:  94.7 MB\r"
+    ],
+    [
+      0.019436,
+      "Buffering to disk: 95.26 MB\r"
+    ],
+    [
+      0.005601,
+      "Buffering to disk: 95.81 MB\r"
+    ],
+    [
+      0.005812,
+      "Buffering to disk: 96.37 MB\r"
+    ],
+    [
+      0.002247,
+      "Buffering to disk: 96.93 MB\r"
+    ],
+    [
+      0.006057,
+      "Buffering to disk: 97.48 MB\r"
+    ],
+    [
+      0.004581,
+      "Buffering to disk: 98.04 MB\r"
+    ],
+    [
+      0.006329,
+      "Buffering to disk:  98.6 MB\r"
+    ],
+    [
+      0.000191,
+      "Buffering to disk: 99.16 MB\r"
+    ],
+    [
+      0.004234,
+      "Buffering to disk: 99.71 MB\r"
+    ],
+    [
+      0.000326,
+      "Buffering to disk: 100.3 MB\r"
+    ],
+    [
+      0.005308,
+      "Buffering to disk: 100.8 MB\r"
+    ],
+    [
+      0.000184,
+      "Buffering to disk: 101.4 MB\r"
+    ],
+    [
+      0.038598,
+      "Buffering to disk: 101.9 MB\r"
+    ],
+    [
+      0.016987,
+      "Buffering to disk: 102.5 MB\r"
+    ],
+    [
+      0.003383,
+      "Buffering to disk: 103.1 MB\r"
+    ],
+    [
+      0.003787,
+      "Buffering to disk: 103.6 MB\r"
+    ],
+    [
+      0.013629,
+      "Buffering to disk: 104.2 MB\r"
+    ],
+    [
+      0.020332,
+      "Buffering to disk: 104.7 MB\r"
+    ],
+    [
+      0.016038,
+      "Buffering to disk: 105.3 MB\r"
+    ],
+    [
+      0.010873,
+      "Buffering to disk: 105.8 MB\r"
+    ],
+    [
+      0.008929,
+      "Buffering to disk: 106.4 MB\r"
+    ],
+    [
+      0.010138,
+      "Buffering to disk:   107 MB\r"
+    ],
+    [
+      0.008361,
+      "Buffering to disk: 107.5 MB\r"
+    ],
+    [
+      0.017679,
+      "Buffering to disk: 108.1 MB\r"
+    ],
+    [
+      0.014591,
+      "Buffering to disk: 108.6 MB\r"
+    ],
+    [
+      0.009799,
+      "Buffering to disk: 109.2 MB\r"
+    ],
+    [
+      0.025393,
+      "Buffering to disk: 109.7 MB\r"
+    ],
+    [
+      0.011122,
+      "Buffering to disk: 110.3 MB\r"
+    ],
+    [
+      0.024521,
+      "Buffering to disk: 110.9 MB\r"
+    ],
+    [
+      0.018911,
+      "Buffering to disk: 111.4 MB\r"
+    ],
+    [
+      0.020045,
+      "Buffering to disk:   112 MB\r"
+    ],
+    [
+      0.006427,
+      "Buffering to disk: 112.5 MB\r"
+    ],
+    [
+      0.007344,
+      "Buffering to disk: 113.1 MB\r"
+    ],
+    [
+      0.005717,
+      "Buffering to disk: 113.6 MB\r"
+    ],
+    [
+      0.006501,
+      "Buffering to disk: 114.2 MB\r"
+    ],
+    [
+      0.009159,
+      "Buffering to disk: 114.8 MB\r"
+    ],
+    [
+      0.010438,
+      "Buffering to disk: 115.3 MB\r"
+    ],
+    [
+      0.004679,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000008,
+      "/"
+    ],
+    [
+      0.006460,
+      "Buffering to disk: 115.9 MB\r"
+    ],
+    [
+      0.029375,
+      "Buffering to disk: 116.4 MB\r"
+    ],
+    [
+      0.010328,
+      "Buffering to disk:   117 MB\r"
+    ],
+    [
+      0.009396,
+      "Buffering to disk: 117.5 MB\r"
+    ],
+    [
+      0.012548,
+      "Buffering to disk: 118.1 MB\r"
+    ],
+    [
+      0.009382,
+      "Buffering to disk: 118.7 MB\r"
+    ],
+    [
+      0.011536,
+      "Buffering to disk: 119.2 MB\r"
+    ],
+    [
+      0.010867,
+      "Buffering to disk: 119.8 MB\r"
+    ],
+    [
+      0.000749,
+      "Buffering to disk: 120.3 MB\r"
+    ],
+    [
+      0.012395,
+      "Buffering to disk: 120.9 MB\r"
+    ],
+    [
+      0.012183,
+      "Buffering to disk: 121.4 MB\r"
+    ],
+    [
+      0.008223,
+      "Buffering to disk:   122 MB\r"
+    ],
+    [
+      0.012173,
+      "Buffering to disk: 122.6 MB\r"
+    ],
+    [
+      0.019760,
+      "Buffering to disk: 123.1 MB\r"
+    ],
+    [
+      0.010692,
+      "Buffering to disk: 123.7 MB\r"
+    ],
+    [
+      0.010840,
+      "Buffering to disk: 124.2 MB\r"
+    ],
+    [
+      0.000616,
+      "Buffering to disk: 124.8 MB\r"
+    ],
+    [
+      0.001464,
+      "Buffering to disk: 125.3 MB\r"
+    ],
+    [
+      0.006484,
+      "Buffering to disk: 125.9 MB\r"
+    ],
+    [
+      0.000286,
+      "Buffering to disk: 126.5 MB\r"
+    ],
+    [
+      0.004022,
+      "Buffering to disk:   127 MB\r"
+    ],
+    [
+      0.001207,
+      "Buffering to disk: 127.6 MB\r"
+    ],
+    [
+      0.004898,
+      "Buffering to disk: 128.1 MB\r"
+    ],
+    [
+      0.000469,
+      "Buffering to disk: 128.7 MB\r"
+    ],
+    [
+      0.003536,
+      "Buffering to disk: 129.2 MB\r"
+    ],
+    [
+      0.002010,
+      "Buffering to disk: 129.8 MB\r"
+    ],
+    [
+      0.005601,
+      "Buffering to disk: 130.4 MB\r"
+    ],
+    [
+      0.004248,
+      "Buffering to disk: 130.9 MB\r"
+    ],
+    [
+      0.010737,
+      "Buffering to disk: 131.5 MB\r"
+    ],
+    [
+      0.007031,
+      "Buffering to disk:   132 MB\r"
+    ],
+    [
+      0.004304,
+      "Buffering to disk: 132.6 MB\r"
+    ],
+    [
+      0.001989,
+      "Buffering to disk: 133.1 MB\r"
+    ],
+    [
+      0.003949,
+      "Buffering to disk: 133.7 MB\r"
+    ],
+    [
+      0.002864,
+      "Buffering to disk: 134.3 MB\r"
+    ],
+    [
+      0.000184,
+      "Buffering to disk: 134.8 MB\r"
+    ],
+    [
+      0.006299,
+      "Buffering to disk: 135.4 MB\r"
+    ],
+    [
+      0.006432,
+      "Buffering to disk: 135.9 MB\r"
+    ],
+    [
+      0.000643,
+      "Buffering to disk: 136.5 MB\r"
+    ],
+    [
+      0.000767,
+      "Buffering to disk:   137 MB\r"
+    ],
+    [
+      0.012154,
+      "Buffering to disk: 137.6 MB\r"
+    ],
+    [
+      0.006400,
+      "Buffering to disk: 138.1 MB\r"
+    ],
+    [
+      0.023847,
+      "Buffering to disk: 138.7 MB\r"
+    ],
+    [
+      0.030565,
+      "Buffering to disk: 139.3 MB\r"
+    ],
+    [
+      0.005872,
+      "Buffering to disk: 139.8 MB\r"
+    ],
+    [
+      0.010916,
+      "Buffering to disk: 140.4 MB\r"
+    ],
+    [
+      0.002609,
+      "Buffering to disk: 140.9 MB\r"
+    ],
+    [
+      0.006005,
+      "Buffering to disk: 141.5 MB\r"
+    ],
+    [
+      0.000245,
+      "Buffering to disk:   142 MB\r"
+    ],
+    [
+      0.009604,
+      "Buffering to disk: 142.6 MB\r"
+    ],
+    [
+      0.027701,
+      "Buffering to disk: 143.2 MB\r"
+    ],
+    [
+      0.013116,
+      "Buffering to disk: 143.7 MB\r"
+    ],
+    [
+      0.023762,
+      "Buffering to disk: 144.3 MB\r"
+    ],
+    [
+      0.013873,
+      "Buffering to disk: 144.8 MB\r"
+    ],
+    [
+      0.011262,
+      "Buffering to disk: 145.4 MB\r"
+    ],
+    [
+      0.010927,
+      "Buffering to disk: 145.9 MB\r"
+    ],
+    [
+      0.011267,
+      "Buffering to disk: 146.5 MB\r"
+    ],
+    [
+      0.018550,
+      "Buffering to disk: 147.1 MB\r"
+    ],
+    [
+      0.019889,
+      "Buffering to disk: 147.6 MB\r"
+    ],
+    [
+      0.010023,
+      "Buffering to disk: 148.2 MB\r"
+    ],
+    [
+      0.010282,
+      "Buffering to disk: 148.7 MB\r"
+    ],
+    [
+      0.017382,
+      "Buffering to disk: 149.3 MB\r"
+    ],
+    [
+      0.016721,
+      "Buffering to disk: 149.8 MB\r"
+    ],
+    [
+      0.006036,
+      "Buffering to disk: 150.4 MB\r"
+    ],
+    [
+      0.010692,
+      "Buffering to disk:   151 MB\r"
+    ],
+    [
+      0.000137,
+      "Buffering to disk: 151.5 MB\r"
+    ],
+    [
+      0.002328,
+      "Buffering to disk: 152.1 MB\r"
+    ],
+    [
+      0.004364,
+      "Buffering to disk: 152.6 MB\r"
+    ],
+    [
+      0.006147,
+      "Buffering to disk: 153.2 MB\r"
+    ],
+    [
+      0.007712,
+      "Buffering to disk: 153.7 MB\r"
+    ],
+    [
+      0.007130,
+      "Buffering to disk: 154.3 MB\r"
+    ],
+    [
+      0.004930,
+      "Buffering to disk: 154.9 MB\r"
+    ],
+    [
+      0.011920,
+      "Buffering to disk: 155.4 MB\r"
+    ],
+    [
+      0.008263,
+      "Buffering to disk:   156 MB\r"
+    ],
+    [
+      0.005919,
+      "Buffering to disk: 156.5 MB\r"
+    ],
+    [
+      0.007301,
+      "Buffering to disk: 157.1 MB\r"
+    ],
+    [
+      0.006750,
+      "Buffering to disk: 157.6 MB\r"
+    ],
+    [
+      0.010027,
+      "Buffering to disk: 158.2 MB\r"
+    ],
+    [
+      0.034785,
+      "Buffering to disk: 158.8 MB\r"
+    ],
+    [
+      0.020389,
+      "Buffering to disk: 159.3 MB\r"
+    ],
+    [
+      0.030714,
+      "Buffering to disk: 159.9 MB\r"
+    ],
+    [
+      0.024055,
+      "Buffering to disk: 160.4 MB\r"
+    ],
+    [
+      0.030370,
+      "Buffering to disk:   161 MB\r"
+    ],
+    [
+      0.009903,
+      "Buffering to disk: 161.5 MB\r"
+    ],
+    [
+      0.011142,
+      "Buffering to disk: 162.1 MB\r"
+    ],
+    [
+      0.015935,
+      "Buffering to disk: 162.7 MB\r"
+    ],
+    [
+      0.018674,
+      "Buffering to disk: 163.2 MB\r"
+    ],
+    [
+      0.020671,
+      "Buffering to disk: 163.8 MB\r"
+    ],
+    [
+      0.010422,
+      "Buffering to disk: 164.3 MB\r"
+    ],
+    [
+      0.019106,
+      "Buffering to disk: 164.9 MB\r"
+    ],
+    [
+      0.010042,
+      "Buffering to disk: 165.4 MB\r"
+    ],
+    [
+      0.010672,
+      "Buffering to disk:   166 MB\r"
+    ],
+    [
+      0.056771,
+      "\rUpdating module [default]...-"
+    ],
+    [
+      0.031658,
+      "Buffering to disk: 166.6 MB\r"
+    ],
+    [
+      0.027123,
+      "Buffering to disk: 167.1 MB\r"
+    ],
+    [
+      0.003173,
+      "Buffering to disk: 167.7 MB\r"
+    ],
+    [
+      0.010647,
+      "Buffering to disk: 168.2 MB\r"
+    ],
+    [
+      0.011039,
+      "Buffering to disk: 168.8 MB\r"
+    ],
+    [
+      0.018272,
+      "Buffering to disk: 169.3 MB\r"
+    ],
+    [
+      0.020563,
+      "Buffering to disk: 169.9 MB\r"
+    ],
+    [
+      0.014421,
+      "Buffering to disk: 170.5 MB\r"
+    ],
+    [
+      0.015455,
+      "Buffering to disk:   171 MB\r"
+    ],
+    [
+      0.009667,
+      "Buffering to disk: 171.6 MB\r"
+    ],
+    [
+      0.000262,
+      "Buffering to disk: 172.1 MB\r"
+    ],
+    [
+      0.001754,
+      "Buffering to disk: 172.7 MB\r"
+    ],
+    [
+      0.008834,
+      "Buffering to disk: 173.2 MB\r"
+    ],
+    [
+      0.010937,
+      "Buffering to disk: 173.8 MB\r"
+    ],
+    [
+      0.012428,
+      "Buffering to disk: 174.4 MB\r"
+    ],
+    [
+      0.001724,
+      "Buffering to disk: 174.9 MB\r"
+    ],
+    [
+      0.028536,
+      "Buffering to disk: 175.5 MB\r"
+    ],
+    [
+      0.019798,
+      "Buffering to disk:   176 MB\r"
+    ],
+    [
+      0.006154,
+      "Buffering to disk: 176.6 MB\r"
+    ],
+    [
+      0.009362,
+      "Buffering to disk: 177.1 MB\r"
+    ],
+    [
+      0.004683,
+      "Buffering to disk: 177.7 MB\r"
+    ],
+    [
+      0.000846,
+      "Buffering to disk: 178.3 MB\r"
+    ],
+    [
+      0.005671,
+      "Buffering to disk: 178.8 MB\r"
+    ],
+    [
+      0.000513,
+      "Buffering to disk: 179.4 MB\r"
+    ],
+    [
+      0.004083,
+      "Buffering to disk: 179.9 MB\r"
+    ],
+    [
+      0.000265,
+      "Buffering to disk: 180.5 MB\r"
+    ],
+    [
+      0.005426,
+      "Buffering to disk:   181 MB\r"
+    ],
+    [
+      0.000322,
+      "Buffering to disk: 181.6 MB\r"
+    ],
+    [
+      0.003784,
+      "Buffering to disk: 182.2 MB\r"
+    ],
+    [
+      0.004909,
+      "Buffering to disk: 182.7 MB\r"
+    ],
+    [
+      0.000160,
+      "Buffering to disk: 183.3 MB\r"
+    ],
+    [
+      0.000137,
+      "Buffering to disk: 183.8 MB\r"
+    ],
+    [
+      0.000147,
+      "Buffering to disk: 184.4 MB\r"
+    ],
+    [
+      0.003898,
+      "Buffering to disk: 184.9 MB\r"
+    ],
+    [
+      0.003818,
+      "Buffering to disk: 185.5 MB\r"
+    ],
+    [
+      0.001762,
+      "Buffering to disk: 186.1 MB\r"
+    ],
+    [
+      0.000192,
+      "Buffering to disk: 186.6 MB\r"
+    ],
+    [
+      0.006440,
+      "Buffering to disk: 187.2 MB\r"
+    ],
+    [
+      0.003340,
+      "Buffering to disk: 187.7 MB\r"
+    ],
+    [
+      0.004326,
+      "Buffering to disk: 188.3 MB\r"
+    ],
+    [
+      0.000744,
+      "Buffering to disk: 188.8 MB\r"
+    ],
+    [
+      0.002600,
+      "Buffering to disk: 189.4 MB\r"
+    ],
+    [
+      0.002482,
+      "Buffering to disk:   190 MB\r"
+    ],
+    [
+      0.005448,
+      "Buffering to disk: 190.5 MB\r"
+    ],
+    [
+      0.001213,
+      "Buffering to disk: 191.1 MB\r"
+    ],
+    [
+      0.001041,
+      "Buffering to disk: 191.6 MB\r"
+    ],
+    [
+      0.005813,
+      "Buffering to disk: 192.2 MB\r"
+    ],
+    [
+      0.005159,
+      "Buffering to disk: 192.7 MB\r"
+    ],
+    [
+      0.000240,
+      "Buffering to disk: 193.3 MB\r"
+    ],
+    [
+      0.010495,
+      "Buffering to disk: 193.9 MB\r"
+    ],
+    [
+      0.000182,
+      "Buffering to disk: 194.4 MB\r"
+    ],
+    [
+      0.000172,
+      "Buffering to disk:   195 MB\r"
+    ],
+    [
+      0.000171,
+      "Buffering to disk: 195.5 MB\r"
+    ],
+    [
+      0.003909,
+      "Buffering to disk: 196.1 MB\r"
+    ],
+    [
+      0.000284,
+      "Buffering to disk: 196.6 MB\r"
+    ],
+    [
+      0.000225,
+      "Buffering to disk: 197.2 MB\r"
+    ],
+    [
+      0.000230,
+      "Buffering to disk: 197.8 MB\r"
+    ],
+    [
+      0.007106,
+      "Buffering to disk: 198.3 MB\r"
+    ],
+    [
+      0.000625,
+      "Buffering to disk: 198.9 MB\r"
+    ],
+    [
+      0.000558,
+      "Buffering to disk: 199.4 MB\r"
+    ],
+    [
+      0.007345,
+      "Buffering to disk:   200 MB\r"
+    ],
+    [
+      0.000301,
+      "Buffering to disk: 200.5 MB\r"
+    ],
+    [
+      0.000280,
+      "Buffering to disk: 201.1 MB\r"
+    ],
+    [
+      0.003763,
+      "Buffering to disk: 201.7 MB\r"
+    ],
+    [
+      0.005692,
+      "Buffering to disk: 202.2 MB\r"
+    ],
+    [
+      0.001161,
+      "Buffering to disk: 202.8 MB\r"
+    ],
+    [
+      0.001880,
+      "Buffering to disk: 203.3 MB\r"
+    ],
+    [
+      0.006337,
+      "Buffering to disk: 203.9 MB\r"
+    ],
+    [
+      0.000199,
+      "Buffering to disk: 204.4 MB\r"
+    ],
+    [
+      0.003863,
+      "Buffering to disk:   205 MB\r"
+    ],
+    [
+      0.006537,
+      "Buffering to disk: 205.6 MB\r"
+    ],
+    [
+      0.003784,
+      "Buffering to disk: 206.1 MB\r"
+    ],
+    [
+      0.006057,
+      "Buffering to disk: 206.7 MB\r"
+    ],
+    [
+      0.013741,
+      "Buffering to disk: 207.2 MB\r"
+    ],
+    [
+      0.044335,
+      "Buffering to disk: 207.8 MB\r"
+    ],
+    [
+      0.016087,
+      "Buffering to disk: 208.3 MB\r"
+    ],
+    [
+      0.007410,
+      "Buffering to disk: 208.6 MB\r"
+    ],
+    [
+      0.292607,
+      "Buffering to disk\r\n"
+    ],
+    [
+      0.215656,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000009,
+      "\\"
+    ],
+    [
+      0.314447,
+      "Pushing: [\u003e                                                  ] 526.3 kB/208.6 MB\r"
+    ],
+    [
+      0.105939,
+      "Pushing: [\u003e                                                  ] 1.061 MB/208.6 MB\r"
+    ],
+    [
+      0.194189,
+      "Pushing: [\u003e                                                  ] 1.613 MB/208.6 MB\r"
+    ],
+    [
+      0.085563,
+      "Pushing: [\u003e                                                  ] 2.139 MB/208.6 MB\r"
+    ],
+    [
+      0.083909,
+      "Pushing: [\u003e                                                  ] 2.664 MB/208.6 MB\r"
+    ],
+    [
+      0.066255,
+      "Pushing: [\u003e                                                  ] 3.192 MB/208.6 MB\r"
+    ],
+    [
+      0.079933,
+      "Pushing: [\u003e                                                  ] 3.724 MB/208.6 MB\r"
+    ],
+    [
+      0.074813,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000008,
+      "|"
+    ],
+    [
+      0.005531,
+      "Pushing: [=\u003e                                                 ] 4.272 MB/208.6 MB\r"
+    ],
+    [
+      0.073806,
+      "Pushing: [=\u003e                                                 ] 4.828 MB/208.6 MB\r"
+    ],
+    [
+      0.097832,
+      "Pushing: [=\u003e                                                 ]  5.36 MB/208.6 MB\r"
+    ],
+    [
+      0.107981,
+      "Pushing: [=\u003e                                                 ] 5.917 MB/208.6 MB\r"
+    ],
+    [
+      0.090311,
+      "Pushing: [=\u003e                                                 ] 6.454 MB/208.6 MB\r"
+    ],
+    [
+      0.099492,
+      "Pushing: [=\u003e                                                 ] 6.991 MB/208.6 MB\r"
+    ],
+    [
+      0.098890,
+      "Pushing: [=\u003e                                                 ]  7.54 MB/208.6 MB\r"
+    ],
+    [
+      0.058335,
+      "Pushing: [=\u003e                                                 ] 8.071 MB/208.6 MB\r"
+    ],
+    [
+      0.037401,
+      "Pushing: [==\u003e                                                ] 8.612 MB/208.6 MB\r"
+    ],
+    [
+      0.085437,
+      "Pushing: [==\u003e                                                ] 9.169 MB/208.6 MB\r"
+    ],
+    [
+      0.070282,
+      "Pushing: [==\u003e                                                ] 9.726 MB/208.6 MB\r"
+    ],
+    [
+      0.079901,
+      "Pushing: [==\u003e                                                ] 10.28 MB/208.6 MB\r"
+    ],
+    [
+      0.054572,
+      "Pushing: [==\u003e                                                ] 10.84 MB/208.6 MB\r"
+    ],
+    [
+      0.041822,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000006,
+      "/"
+    ],
+    [
+      0.037826,
+      "Pushing: [==\u003e                                                ] 11.38 MB/208.6 MB\r"
+    ],
+    [
+      0.090620,
+      "Pushing: [==\u003e                                                ] 11.93 MB/208.6 MB\r"
+    ],
+    [
+      0.102731,
+      "Pushing: [==\u003e                                                ] 12.46 MB/208.6 MB\r"
+    ],
+    [
+      0.074029,
+      "Pushing: [===\u003e                                               ] 13.01 MB/208.6 MB\r"
+    ],
+    [
+      0.102473,
+      "Pushing: [===\u003e                                               ] 13.57 MB/208.6 MB\r"
+    ],
+    [
+      0.099934,
+      "Pushing: [===\u003e                                               ] 14.13 MB/208.6 MB\r"
+    ],
+    [
+      0.096500,
+      "Pushing: [===\u003e                                               ] 14.68 MB/208.6 MB\r"
+    ],
+    [
+      0.083404,
+      "Pushing: [===\u003e                                               ] 15.24 MB/208.6 MB\r"
+    ],
+    [
+      0.064970,
+      "Pushing: [===\u003e                                               ] 15.79 MB/208.6 MB\r"
+    ],
+    [
+      0.071728,
+      "Pushing: [===\u003e                                               ] 16.33 MB/208.6 MB\r"
+    ],
+    [
+      0.059673,
+      "Pushing: [====\u003e                                              ] 16.86 MB/208.6 MB\r"
+    ],
+    [
+      0.043716,
+      "Pushing: [====\u003e                                              ]  17.4 MB/208.6 MB\r"
+    ],
+    [
+      0.049967,
+      "Pushing: [====\u003e                                              ] 17.95 MB/208.6 MB\r"
+    ],
+    [
+      0.025708,
+      "\rUpdating module [default]...-"
+    ],
+    [
+      0.014005,
+      "Pushing: [====\u003e                                              ] 18.49 MB/208.6 MB\r"
+    ],
+    [
+      0.046159,
+      "Pushing: [====\u003e                                              ] 19.02 MB/208.6 MB\r"
+    ],
+    [
+      0.040255,
+      "Pushing: [====\u003e                                              ] 19.55 MB/208.6 MB\r"
+    ],
+    [
+      0.039525,
+      "Pushing: [====\u003e                                              ] 20.09 MB/208.6 MB\r"
+    ],
+    [
+      0.044648,
+      "Pushing: [====\u003e                                              ] 20.62 MB/208.6 MB\r"
+    ],
+    [
+      0.035481,
+      "Pushing: [=====\u003e                                             ] 21.17 MB/208.6 MB\r"
+    ],
+    [
+      0.039754,
+      "Pushing: [=====\u003e                                             ] 21.71 MB/208.6 MB\r"
+    ],
+    [
+      0.054134,
+      "Pushing: [=====\u003e                                             ] 22.23 MB/208.6 MB\r"
+    ],
+    [
+      0.036304,
+      "Pushing: [=====\u003e                                             ] 22.77 MB/208.6 MB\r"
+    ],
+    [
+      0.043796,
+      "Pushing: [=====\u003e                                             ]  23.3 MB/208.6 MB\r"
+    ],
+    [
+      0.040084,
+      "Pushing: [=====\u003e                                             ] 23.83 MB/208.6 MB\r"
+    ],
+    [
+      0.041897,
+      "Pushing: [=====\u003e                                             ] 24.36 MB/208.6 MB\r"
+    ],
+    [
+      0.042560,
+      "Pushing: [=====\u003e                                             ] 24.89 MB/208.6 MB\r"
+    ],
+    [
+      0.065932,
+      "Pushing: [======\u003e                                            ] 25.41 MB/208.6 MB\r"
+    ],
+    [
+      0.055921,
+      "Pushing: [======\u003e                                            ] 25.94 MB/208.6 MB\r"
+    ],
+    [
+      0.062728,
+      "Pushing: [======\u003e                                            ] 26.46 MB/208.6 MB\r"
+    ],
+    [
+      0.056829,
+      "Pushing: [======\u003e                                            ] 26.99 MB/208.6 MB\r"
+    ],
+    [
+      0.054378,
+      "Pushing: [======\u003e                                            ] 27.52 MB/208.6 MB\r"
+    ],
+    [
+      0.055889,
+      "Pushing: [======\u003e                                            ] 28.04 MB/208.6 MB\r"
+    ],
+    [
+      0.050617,
+      "Pushing: [======\u003e                                            ] 28.57 MB/208.6 MB\r"
+    ],
+    [
+      0.049652,
+      "Pushing: [======\u003e                                            ] 29.11 MB/208.6 MB\r"
+    ],
+    [
+      0.034317,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000008,
+      "\\"
+    ],
+    [
+      0.019938,
+      "Pushing: [=======\u003e                                           ] 29.64 MB/208.6 MB\r"
+    ],
+    [
+      0.049796,
+      "Pushing: [=======\u003e                                           ] 30.16 MB/208.6 MB\r"
+    ],
+    [
+      0.099843,
+      "Pushing: [=======\u003e                                           ] 30.69 MB/208.6 MB\r"
+    ],
+    [
+      0.080826,
+      "Pushing: [=======\u003e                                           ] 31.25 MB/208.6 MB\r"
+    ],
+    [
+      0.099928,
+      "Pushing: [=======\u003e                                           ] 31.81 MB/208.6 MB\r"
+    ],
+    [
+      0.098935,
+      "Pushing: [=======\u003e                                           ] 32.37 MB/208.6 MB\r"
+    ],
+    [
+      0.105533,
+      "Pushing: [=======\u003e                                           ] 32.92 MB/208.6 MB\r"
+    ],
+    [
+      0.100492,
+      "Pushing: [========\u003e                                          ] 33.48 MB/208.6 MB\r"
+    ],
+    [
+      0.102271,
+      "Pushing: [========\u003e                                          ] 34.04 MB/208.6 MB\r"
+    ],
+    [
+      0.107842,
+      "Pushing: [========\u003e                                          ] 34.59 MB/208.6 MB\r"
+    ],
+    [
+      0.103989,
+      "Pushing: [========\u003e                                          ] 35.15 MB/208.6 MB\r"
+    ],
+    [
+      0.033404,
+      "\rUpdating module [default]...|"
+    ],
+    [
+      0.073203,
+      "Pushing: [========\u003e                                          ] 35.71 MB/208.6 MB\r"
+    ],
+    [
+      0.124002,
+      "Pushing: [========\u003e                                          ] 36.26 MB/208.6 MB\r"
+    ],
+    [
+      0.117912,
+      "Pushing: [========\u003e                                          ] 36.82 MB/208.6 MB\r"
+    ],
+    [
+      0.067409,
+      "Pushing: [========\u003e                                          ] 37.38 MB/208.6 MB\r"
+    ],
+    [
+      0.110051,
+      "Pushing: [=========\u003e                                         ] 37.94 MB/208.6 MB\r"
+    ],
+    [
+      0.107707,
+      "Pushing: [=========\u003e                                         ] 38.49 MB/208.6 MB\r"
+    ],
+    [
+      0.102096,
+      "Pushing: [=========\u003e                                         ] 39.05 MB/208.6 MB\r"
+    ],
+    [
+      0.043136,
+      "Pushing: [=========\u003e                                         ] 39.61 MB/208.6 MB\r"
+    ],
+    [
+      0.037022,
+      "Pushing: [=========\u003e                                         ] 40.16 MB/208.6 MB\r"
+    ],
+    [
+      0.043893,
+      "Pushing: [=========\u003e                                         ] 40.72 MB/208.6 MB\r"
+    ],
+    [
+      0.060156,
+      "Pushing: [=========\u003e                                         ] 41.28 MB/208.6 MB\r"
+    ],
+    [
+      0.051537,
+      "Pushing: [==========\u003e                                        ] 41.84 MB/208.6 MB\r"
+    ],
+    [
+      0.064448,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000013,
+      "/"
+    ],
+    [
+      0.033344,
+      "Pushing: [==========\u003e                                        ] 42.39 MB/208.6 MB\r"
+    ],
+    [
+      0.091144,
+      "Pushing: [==========\u003e                                        ] 42.94 MB/208.6 MB\r"
+    ],
+    [
+      0.095198,
+      "Pushing: [==========\u003e                                        ]  43.5 MB/208.6 MB\r"
+    ],
+    [
+      0.104736,
+      "Pushing: [==========\u003e                                        ] 44.05 MB/208.6 MB\r"
+    ],
+    [
+      0.108349,
+      "Pushing: [==========\u003e                                        ] 44.61 MB/208.6 MB\r"
+    ],
+    [
+      0.097754,
+      "Pushing: [==========\u003e                                        ] 45.17 MB/208.6 MB\r"
+    ],
+    [
+      0.099917,
+      "Pushing: [==========\u003e                                        ] 45.72 MB/208.6 MB\r"
+    ],
+    [
+      0.103024,
+      "Pushing: [===========\u003e                                       ] 46.28 MB/208.6 MB\r"
+    ],
+    [
+      0.100485,
+      "Pushing: [===========\u003e                                       ] 46.84 MB/208.6 MB\r"
+    ],
+    [
+      0.100099,
+      "Pushing: [===========\u003e                                       ] 47.39 MB/208.6 MB\r"
+    ],
+    [
+      0.069179,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000007,
+      "-"
+    ],
+    [
+      0.046184,
+      "Pushing: [===========\u003e                                       ] 47.95 MB/208.6 MB\r"
+    ],
+    [
+      0.105304,
+      "Pushing: [===========\u003e                                       ] 48.51 MB/208.6 MB\r"
+    ],
+    [
+      0.098930,
+      "Pushing: [===========\u003e                                       ] 49.07 MB/208.6 MB\r"
+    ],
+    [
+      0.126958,
+      "Pushing: [===========\u003e                                       ] 49.62 MB/208.6 MB\r"
+    ],
+    [
+      0.098095,
+      "Pushing: [============\u003e                                      ] 50.18 MB/208.6 MB\r"
+    ],
+    [
+      0.075572,
+      "Pushing: [============\u003e                                      ] 50.74 MB/208.6 MB\r"
+    ],
+    [
+      0.109820,
+      "Pushing: [============\u003e                                      ] 51.29 MB/208.6 MB\r"
+    ],
+    [
+      0.106308,
+      "Pushing: [============\u003e                                      ] 51.85 MB/208.6 MB\r"
+    ],
+    [
+      0.084074,
+      "Pushing: [============\u003e                                      ] 52.41 MB/208.6 MB\r"
+    ],
+    [
+      0.043857,
+      "Pushing: [============\u003e                                      ] 52.97 MB/208.6 MB\r"
+    ],
+    [
+      0.035807,
+      "Pushing: [============\u003e                                      ] 53.52 MB/208.6 MB\r"
+    ],
+    [
+      0.045710,
+      "Pushing: [============\u003e                                      ] 54.08 MB/208.6 MB\r"
+    ],
+    [
+      0.025284,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000005,
+      "\\"
+    ],
+    [
+      0.034503,
+      "Pushing: [=============\u003e                                     ] 54.64 MB/208.6 MB\r"
+    ],
+    [
+      0.054146,
+      "Pushing: [=============\u003e                                     ] 55.19 MB/208.6 MB\r"
+    ],
+    [
+      0.096189,
+      "Pushing: [=============\u003e                                     ] 55.75 MB/208.6 MB\r"
+    ],
+    [
+      0.090235,
+      "Pushing: [=============\u003e                                     ] 56.29 MB/208.6 MB\r"
+    ],
+    [
+      0.053848,
+      "Pushing: [=============\u003e                                     ] 56.81 MB/208.6 MB\r"
+    ],
+    [
+      0.060550,
+      "Pushing: [=============\u003e                                     ] 57.36 MB/208.6 MB\r"
+    ],
+    [
+      0.065254,
+      "Pushing: [=============\u003e                                     ] 57.92 MB/208.6 MB\r"
+    ],
+    [
+      0.064487,
+      "Pushing: [==============\u003e                                    ] 58.48 MB/208.6 MB\r"
+    ],
+    [
+      0.059578,
+      "Pushing: [==============\u003e                                    ] 59.04 MB/208.6 MB\r"
+    ],
+    [
+      0.086112,
+      "Pushing: [==============\u003e                                    ] 59.59 MB/208.6 MB\r"
+    ],
+    [
+      0.049488,
+      "Pushing: [==============\u003e                                    ] 60.13 MB/208.6 MB\r"
+    ],
+    [
+      0.064045,
+      "Pushing: [==============\u003e                                    ] 60.69 MB/208.6 MB\r"
+    ],
+    [
+      0.050586,
+      "Pushing: [==============\u003e                                    ] 61.24 MB/208.6 MB\r"
+    ],
+    [
+      0.055526,
+      "Pushing: [==============\u003e                                    ]  61.8 MB/208.6 MB\r"
+    ],
+    [
+      0.050044,
+      "Pushing: [==============\u003e                                    ] 62.36 MB/208.6 MB\r"
+    ],
+    [
+      0.047889,
+      "Pushing: [===============\u003e                                   ] 62.91 MB/208.6 MB\r"
+    ],
+    [
+      0.021437,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000010,
+      "|"
+    ],
+    [
+      0.027895,
+      "Pushing: [===============\u003e                                   ] 63.47 MB/208.6 MB\r"
+    ],
+    [
+      0.053204,
+      "Pushing: [===============\u003e                                   ] 64.02 MB/208.6 MB\r"
+    ],
+    [
+      0.069087,
+      "Pushing: [===============\u003e                                   ] 64.57 MB/208.6 MB\r"
+    ],
+    [
+      0.103828,
+      "Pushing: [===============\u003e                                   ]  65.1 MB/208.6 MB\r"
+    ],
+    [
+      0.081169,
+      "Pushing: [===============\u003e                                   ] 65.65 MB/208.6 MB\r"
+    ],
+    [
+      0.099425,
+      "Pushing: [===============\u003e                                   ] 66.21 MB/208.6 MB\r"
+    ],
+    [
+      0.106631,
+      "Pushing: [================\u003e                                  ] 66.77 MB/208.6 MB\r"
+    ],
+    [
+      0.099728,
+      "Pushing: [================\u003e                                  ] 67.33 MB/208.6 MB\r"
+    ],
+    [
+      0.093885,
+      "Pushing: [================\u003e                                  ] 67.88 MB/208.6 MB\r"
+    ],
+    [
+      0.106765,
+      "Pushing: [================\u003e                                  ] 68.44 MB/208.6 MB\r"
+    ],
+    [
+      0.111412,
+      "Pushing: [================\u003e                                  ]    69 MB/208.6 MB\r"
+    ],
+    [
+      0.051793,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000014,
+      "/"
+    ],
+    [
+      0.061711,
+      "Pushing: [================\u003e                                  ] 69.55 MB/208.6 MB\r"
+    ],
+    [
+      0.114806,
+      "Pushing: [================\u003e                                  ] 70.11 MB/208.6 MB\r"
+    ],
+    [
+      0.123550,
+      "Pushing: [================\u003e                                  ] 70.67 MB/208.6 MB\r"
+    ],
+    [
+      0.068739,
+      "Pushing: [=================\u003e                                 ] 71.22 MB/208.6 MB\r"
+    ],
+    [
+      0.101428,
+      "Pushing: [=================\u003e                                 ] 71.78 MB/208.6 MB\r"
+    ],
+    [
+      0.105312,
+      "Pushing: [=================\u003e                                 ] 72.34 MB/208.6 MB\r"
+    ],
+    [
+      0.098960,
+      "Pushing: [=================\u003e                                 ]  72.9 MB/208.6 MB\r"
+    ],
+    [
+      0.061442,
+      "Pushing: [=================\u003e                                 ] 73.45 MB/208.6 MB\r"
+    ],
+    [
+      0.030205,
+      "Pushing: [=================\u003e                                 ] 74.01 MB/208.6 MB\r"
+    ],
+    [
+      0.044805,
+      "Pushing: [=================\u003e                                 ] 74.57 MB/208.6 MB\r"
+    ],
+    [
+      0.054513,
+      "Pushing: [==================\u003e                                ] 75.12 MB/208.6 MB\r"
+    ],
+    [
+      0.060241,
+      "Pushing: [==================\u003e                                ] 75.68 MB/208.6 MB\r"
+    ],
+    [
+      0.077668,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000007,
+      "-"
+    ],
+    [
+      0.012861,
+      "Pushing: [==================\u003e                                ] 76.24 MB/208.6 MB\r"
+    ],
+    [
+      0.090005,
+      "Pushing: [==================\u003e                                ] 76.77 MB/208.6 MB\r"
+    ],
+    [
+      0.109193,
+      "Pushing: [==================\u003e                                ] 77.32 MB/208.6 MB\r"
+    ],
+    [
+      0.080311,
+      "Pushing: [==================\u003e                                ] 77.88 MB/208.6 MB\r"
+    ],
+    [
+      0.099927,
+      "Pushing: [==================\u003e                                ] 78.41 MB/208.6 MB\r"
+    ],
+    [
+      0.089901,
+      "Pushing: [==================\u003e                                ] 78.94 MB/208.6 MB\r"
+    ],
+    [
+      0.098746,
+      "Pushing: [===================\u003e                               ] 79.48 MB/208.6 MB\r"
+    ],
+    [
+      0.104208,
+      "Pushing: [===================\u003e                               ] 80.02 MB/208.6 MB\r"
+    ],
+    [
+      0.092991,
+      "Pushing: [===================\u003e                               ] 80.55 MB/208.6 MB\r"
+    ],
+    [
+      0.093520,
+      "Pushing: [===================\u003e                               ]  81.1 MB/208.6 MB\r"
+    ],
+    [
+      0.094849,
+      "Pushing: [===================\u003e                               ] 81.65 MB/208.6 MB\r"
+    ],
+    [
+      0.034064,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000007,
+      "\\"
+    ],
+    [
+      0.071786,
+      "Pushing: [===================\u003e                               ] 82.18 MB/208.6 MB\r"
+    ],
+    [
+      0.099441,
+      "Pushing: [===================\u003e                               ] 82.72 MB/208.6 MB\r"
+    ],
+    [
+      0.087163,
+      "Pushing: [===================\u003e                               ] 83.26 MB/208.6 MB\r"
+    ],
+    [
+      0.093456,
+      "Pushing: [====================\u003e                              ] 83.79 MB/208.6 MB\r"
+    ],
+    [
+      0.090000,
+      "Pushing: [====================\u003e                              ] 84.33 MB/208.6 MB\r"
+    ],
+    [
+      0.094272,
+      "Pushing: [====================\u003e                              ] 84.87 MB/208.6 MB\r"
+    ],
+    [
+      0.069514,
+      "Pushing: [====================\u003e                              ] 85.39 MB/208.6 MB\r"
+    ],
+    [
+      0.030783,
+      "Pushing: [====================\u003e                              ] 85.95 MB/208.6 MB\r"
+    ],
+    [
+      0.109428,
+      "Pushing: [====================\u003e                              ]  86.5 MB/208.6 MB\r"
+    ],
+    [
+      0.066830,
+      "Pushing: [====================\u003e                              ] 87.03 MB/208.6 MB\r"
+    ],
+    [
+      0.021861,
+      "Pushing: [====================\u003e                              ] 87.59 MB/208.6 MB\r"
+    ],
+    [
+      0.056964,
+      "Pushing: [=====================\u003e                             ] 88.12 MB/208.6 MB\r"
+    ],
+    [
+      0.047235,
+      "Pushing: [=====================\u003e                             ] 88.66 MB/208.6 MB\r"
+    ],
+    [
+      0.051706,
+      "Pushing: [=====================\u003e                             ] 89.19 MB/208.6 MB\r"
+    ],
+    [
+      0.010289,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000010,
+      "|"
+    ],
+    [
+      0.035817,
+      "Pushing: [=====================\u003e                             ] 89.74 MB/208.6 MB\r"
+    ],
+    [
+      0.055501,
+      "Pushing: [=====================\u003e                             ] 90.27 MB/208.6 MB\r"
+    ],
+    [
+      0.063920,
+      "Pushing: [=====================\u003e                             ] 90.81 MB/208.6 MB\r"
+    ],
+    [
+      0.066559,
+      "Pushing: [=====================\u003e                             ] 91.36 MB/208.6 MB\r"
+    ],
+    [
+      0.069235,
+      "Pushing: [======================\u003e                            ]  91.9 MB/208.6 MB\r"
+    ],
+    [
+      0.053963,
+      "Pushing: [======================\u003e                            ] 92.44 MB/208.6 MB\r"
+    ],
+    [
+      0.050263,
+      "Pushing: [======================\u003e                            ]    93 MB/208.6 MB\r"
+    ],
+    [
+      0.060252,
+      "Pushing: [======================\u003e                            ] 93.56 MB/208.6 MB\r"
+    ],
+    [
+      0.049776,
+      "Pushing: [======================\u003e                            ] 94.11 MB/208.6 MB\r"
+    ],
+    [
+      0.055562,
+      "Pushing: [======================\u003e                            ] 94.65 MB/208.6 MB\r"
+    ],
+    [
+      0.044103,
+      "Pushing: [======================\u003e                            ] 95.21 MB/208.6 MB\r"
+    ],
+    [
+      0.056291,
+      "Pushing: [======================\u003e                            ] 95.77 MB/208.6 MB\r"
+    ],
+    [
+      0.054336,
+      "Pushing: [=======================\u003e                           ] 96.32 MB/208.6 MB\r"
+    ],
+    [
+      0.050025,
+      "Pushing: [=======================\u003e                           ] 96.88 MB/208.6 MB\r"
+    ],
+    [
+      0.045089,
+      "Pushing: [=======================\u003e                           ] 97.43 MB/208.6 MB\r"
+    ],
+    [
+      0.049887,
+      "Pushing: [=======================\u003e                           ] 97.99 MB/208.6 MB\r"
+    ],
+    [
+      0.050248,
+      "Pushing: [=======================\u003e                           ] 98.55 MB/208.6 MB\r"
+    ],
+    [
+      0.054387,
+      "Pushing: [=======================\u003e                           ]  99.1 MB/208.6 MB\r"
+    ],
+    [
+      0.037868,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000007,
+      "/"
+    ],
+    [
+      0.012099,
+      "Pushing: [=======================\u003e                           ] 99.64 MB/208.6 MB\r"
+    ],
+    [
+      0.055845,
+      "Pushing: [========================\u003e                          ] 100.2 MB/208.6 MB\r"
+    ],
+    [
+      0.054662,
+      "Pushing: [========================\u003e                          ] 100.8 MB/208.6 MB\r"
+    ],
+    [
+      0.049751,
+      "Pushing: [========================\u003e                          ] 101.3 MB/208.6 MB\r"
+    ],
+    [
+      0.051413,
+      "Pushing: [========================\u003e                          ] 101.8 MB/208.6 MB\r"
+    ],
+    [
+      0.184623,
+      "Pushing: [========================\u003e                          ] 102.4 MB/208.6 MB\r"
+    ],
+    [
+      0.069297,
+      "Pushing: [========================\u003e                          ] 102.9 MB/208.6 MB\r"
+    ],
+    [
+      0.090745,
+      "Pushing: [========================\u003e                          ] 103.5 MB/208.6 MB\r"
+    ],
+    [
+      0.153534,
+      "Pushing: [========================\u003e                          ]   104 MB/208.6 MB\r"
+    ],
+    [
+      0.047858,
+      "Pushing: [=========================\u003e                         ] 104.5 MB/208.6 MB\r"
+    ],
+    [
+      0.112787,
+      "Pushing: [=========================\u003e                         ] 105.1 MB/208.6 MB\r"
+    ],
+    [
+      0.122053,
+      "\rUpdating module [default]...-"
+    ],
+    [
+      0.065513,
+      "Pushing: [=========================\u003e                         ] 105.6 MB/208.6 MB\r"
+    ],
+    [
+      0.058025,
+      "Pushing: [=========================\u003e                         ] 106.1 MB/208.6 MB\r"
+    ],
+    [
+      0.260306,
+      "Pushing: [=========================\u003e                         ] 106.7 MB/208.6 MB\r"
+    ],
+    [
+      0.053296,
+      "Pushing: [=========================\u003e                         ] 107.2 MB/208.6 MB\r"
+    ],
+    [
+      0.060251,
+      "Pushing: [=========================\u003e                         ] 107.8 MB/208.6 MB\r"
+    ],
+    [
+      0.056090,
+      "Pushing: [=========================\u003e                         ] 108.3 MB/208.6 MB\r"
+    ],
+    [
+      0.054469,
+      "Pushing: [==========================\u003e                        ] 108.8 MB/208.6 MB\r"
+    ],
+    [
+      0.270767,
+      "Pushing: [==========================\u003e                        ] 109.3 MB/208.6 MB\r"
+    ],
+    [
+      0.038748,
+      "Pushing: [==========================\u003e                        ] 109.9 MB/208.6 MB\r"
+    ],
+    [
+      0.049968,
+      "Pushing: [==========================\u003e                        ] 110.4 MB/208.6 MB\r"
+    ],
+    [
+      0.035577,
+      "Pushing: [==========================\u003e                        ]   111 MB/208.6 MB\r"
+    ],
+    [
+      0.001736,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000005,
+      "\\"
+    ],
+    [
+      0.040392,
+      "Pushing: [==========================\u003e                        ] 111.5 MB/208.6 MB\r"
+    ],
+    [
+      0.345459,
+      "Pushing: [==========================\u003e                        ] 112.1 MB/208.6 MB\r"
+    ],
+    [
+      0.365209,
+      "Pushing: [==========================\u003e                        ] 112.6 MB/208.6 MB\r"
+    ],
+    [
+      0.047228,
+      "Pushing: [===========================\u003e                       ] 113.1 MB/208.6 MB\r"
+    ],
+    [
+      0.074301,
+      "Pushing: [===========================\u003e                       ] 113.7 MB/208.6 MB\r"
+    ],
+    [
+      0.080107,
+      "Pushing: [===========================\u003e                       ] 114.2 MB/208.6 MB\r"
+    ],
+    [
+      0.050337,
+      "\rUpdating module [default]...|"
+    ],
+    [
+      0.024196,
+      "Pushing: [===========================\u003e                       ] 114.7 MB/208.6 MB\r"
+    ],
+    [
+      0.053032,
+      "Pushing: [===========================\u003e                       ] 115.3 MB/208.6 MB\r"
+    ],
+    [
+      0.058202,
+      "Pushing: [===========================\u003e                       ] 115.8 MB/208.6 MB\r"
+    ],
+    [
+      0.074638,
+      "Pushing: [===========================\u003e                       ] 116.4 MB/208.6 MB\r"
+    ],
+    [
+      0.055551,
+      "Pushing: [============================\u003e                      ] 116.9 MB/208.6 MB\r"
+    ],
+    [
+      0.060096,
+      "Pushing: [============================\u003e                      ] 117.4 MB/208.6 MB\r"
+    ],
+    [
+      0.049205,
+      "Pushing: [============================\u003e                      ]   118 MB/208.6 MB\r"
+    ],
+    [
+      0.064269,
+      "Pushing: [============================\u003e                      ] 118.5 MB/208.6 MB\r"
+    ],
+    [
+      0.059841,
+      "Pushing: [============================\u003e                      ]   119 MB/208.6 MB\r"
+    ],
+    [
+      0.066706,
+      "Pushing: [============================\u003e                      ] 119.6 MB/208.6 MB\r"
+    ],
+    [
+      0.079685,
+      "Pushing: [============================\u003e                      ] 120.1 MB/208.6 MB\r"
+    ],
+    [
+      0.055432,
+      "Pushing: [============================\u003e                      ] 120.7 MB/208.6 MB\r"
+    ],
+    [
+      0.048850,
+      "Pushing: [=============================\u003e                     ] 121.2 MB/208.6 MB\r"
+    ],
+    [
+      0.065200,
+      "Pushing: [=============================\u003e                     ] 121.7 MB/208.6 MB\r"
+    ],
+    [
+      0.054712,
+      "Pushing: [=============================\u003e                     ] 122.3 MB/208.6 MB\r"
+    ],
+    [
+      0.066268,
+      "Pushing: [=============================\u003e                     ] 122.8 MB/208.6 MB\r"
+    ],
+    [
+      0.059858,
+      "Pushing: [=============================\u003e                     ] 123.4 MB/208.6 MB\r"
+    ],
+    [
+      0.007496,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000006,
+      "/"
+    ],
+    [
+      0.056673,
+      "Pushing: [=============================\u003e                     ] 123.9 MB/208.6 MB\r"
+    ],
+    [
+      0.053959,
+      "Pushing: [=============================\u003e                     ] 124.5 MB/208.6 MB\r"
+    ],
+    [
+      0.053198,
+      "Pushing: [=============================\u003e                     ]   125 MB/208.6 MB\r"
+    ],
+    [
+      0.062654,
+      "Pushing: [==============================\u003e                    ] 125.6 MB/208.6 MB\r"
+    ],
+    [
+      0.060208,
+      "Pushing: [==============================\u003e                    ] 126.1 MB/208.6 MB\r"
+    ],
+    [
+      0.048146,
+      "Pushing: [==============================\u003e                    ] 126.7 MB/208.6 MB\r"
+    ],
+    [
+      0.053631,
+      "Pushing: [==============================\u003e                    ] 127.3 MB/208.6 MB\r"
+    ],
+    [
+      0.053892,
+      "Pushing: [==============================\u003e                    ] 127.8 MB/208.6 MB\r"
+    ],
+    [
+      0.061591,
+      "Pushing: [==============================\u003e                    ] 128.3 MB/208.6 MB\r"
+    ],
+    [
+      0.095781,
+      "Pushing: [==============================\u003e                    ] 128.9 MB/208.6 MB\r"
+    ],
+    [
+      0.086167,
+      "Pushing: [===============================\u003e                   ] 129.4 MB/208.6 MB\r"
+    ],
+    [
+      0.080475,
+      "Pushing: [===============================\u003e                   ] 129.9 MB/208.6 MB\r"
+    ],
+    [
+      0.103851,
+      "Pushing: [===============================\u003e                   ] 130.5 MB/208.6 MB\r"
+    ],
+    [
+      0.085584,
+      "Pushing: [===============================\u003e                   ] 131.1 MB/208.6 MB\r"
+    ],
+    [
+      0.048615,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000008,
+      "-"
+    ],
+    [
+      0.017138,
+      "Pushing: [===============================\u003e                   ] 131.6 MB/208.6 MB\r"
+    ],
+    [
+      0.100362,
+      "Pushing: [===============================\u003e                   ] 132.1 MB/208.6 MB\r"
+    ],
+    [
+      0.095046,
+      "Pushing: [===============================\u003e                   ] 132.7 MB/208.6 MB\r"
+    ],
+    [
+      0.069708,
+      "Pushing: [===============================\u003e                   ] 133.2 MB/208.6 MB\r"
+    ],
+    [
+      0.059316,
+      "Pushing: [================================\u003e                  ] 133.8 MB/208.6 MB\r"
+    ],
+    [
+      0.053891,
+      "Pushing: [================================\u003e                  ] 134.3 MB/208.6 MB\r"
+    ],
+    [
+      0.079801,
+      "Pushing: [================================\u003e                  ] 134.9 MB/208.6 MB\r"
+    ],
+    [
+      0.060643,
+      "Pushing: [================================\u003e                  ] 135.4 MB/208.6 MB\r"
+    ],
+    [
+      0.056444,
+      "Pushing: [================================\u003e                  ]   136 MB/208.6 MB\r"
+    ],
+    [
+      0.066637,
+      "Pushing: [================================\u003e                  ] 136.6 MB/208.6 MB\r"
+    ],
+    [
+      0.069104,
+      "Pushing: [================================\u003e                  ] 137.1 MB/208.6 MB\r"
+    ],
+    [
+      0.115421,
+      "Pushing: [================================\u003e                  ] 137.6 MB/208.6 MB\r"
+    ],
+    [
+      0.158045,
+      "\rUpdating module [default]...\\"
+    ],
+    [
+      0.180468,
+      "Pushing: [=================================\u003e                 ] 138.2 MB/208.6 MB\r"
+    ],
+    [
+      0.070266,
+      "Pushing: [=================================\u003e                 ] 138.7 MB/208.6 MB\r"
+    ],
+    [
+      0.128073,
+      "Pushing: [=================================\u003e                 ] 139.2 MB/208.6 MB\r"
+    ],
+    [
+      0.160537,
+      "Pushing: [=================================\u003e                 ] 139.8 MB/208.6 MB\r"
+    ],
+    [
+      0.041572,
+      "Pushing: [=================================\u003e                 ] 140.3 MB/208.6 MB\r"
+    ],
+    [
+      0.198967,
+      "Pushing: [=================================\u003e                 ] 140.8 MB/208.6 MB\r"
+    ],
+    [
+      0.100501,
+      "Pushing: [=================================\u003e                 ] 141.4 MB/208.6 MB\r"
+    ],
+    [
+      0.122866,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000007,
+      "|"
+    ],
+    [
+      0.022740,
+      "Pushing: [==================================\u003e                ] 141.9 MB/208.6 MB\r"
+    ],
+    [
+      0.259266,
+      "Pushing: [==================================\u003e                ] 142.5 MB/208.6 MB\r"
+    ],
+    [
+      0.071082,
+      "Pushing: [==================================\u003e                ]   143 MB/208.6 MB\r"
+    ],
+    [
+      0.119515,
+      "Pushing: [==================================\u003e                ] 143.5 MB/208.6 MB\r"
+    ],
+    [
+      0.114446,
+      "Pushing: [==================================\u003e                ] 144.1 MB/208.6 MB\r"
+    ],
+    [
+      0.055343,
+      "Pushing: [==================================\u003e                ] 144.6 MB/208.6 MB\r"
+    ],
+    [
+      0.173804,
+      "Pushing: [==================================\u003e                ] 145.1 MB/208.6 MB\r"
+    ],
+    [
+      0.119111,
+      "Pushing: [==================================\u003e                ] 145.7 MB/208.6 MB\r"
+    ],
+    [
+      0.068080,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000011,
+      "/"
+    ],
+    [
+      0.179786,
+      "Pushing: [===================================\u003e               ] 146.2 MB/208.6 MB\r"
+    ],
+    [
+      0.150575,
+      "Pushing: [===================================\u003e               ] 146.8 MB/208.6 MB\r"
+    ],
+    [
+      0.138044,
+      "Pushing: [===================================\u003e               ] 147.3 MB/208.6 MB\r"
+    ],
+    [
+      0.161327,
+      "Pushing: [===================================\u003e               ] 147.8 MB/208.6 MB\r"
+    ],
+    [
+      0.209324,
+      "Pushing: [===================================\u003e               ] 148.3 MB/208.6 MB\r"
+    ],
+    [
+      0.055057,
+      "Pushing: [===================================\u003e               ] 148.9 MB/208.6 MB\r"
+    ],
+    [
+      0.108506,
+      "\rUpdating module [default]...-"
+    ],
+    [
+      0.060993,
+      "Pushing: [===================================\u003e               ] 149.4 MB/208.6 MB\r"
+    ],
+    [
+      0.063456,
+      "Pushing: [===================================\u003e               ] 149.9 MB/208.6 MB\r"
+    ],
+    [
+      0.067532,
+      "Pushing: [====================================\u003e              ] 150.5 MB/208.6 MB\r"
+    ],
+    [
+      0.072709,
+      "Pushing: [====================================\u003e              ]   151 MB/208.6 MB\r"
+    ],
+    [
+      0.070385,
+      "Pushing: [====================================\u003e              ] 151.6 MB/208.6 MB\r"
+    ],
+    [
+      0.071570,
+      "Pushing: [====================================\u003e              ] 152.1 MB/208.6 MB\r"
+    ],
+    [
+      0.063930,
+      "Pushing: [====================================\u003e              ] 152.7 MB/208.6 MB\r"
+    ],
+    [
+      0.065684,
+      "Pushing: [====================================\u003e              ] 153.2 MB/208.6 MB\r"
+    ],
+    [
+      0.064802,
+      "Pushing: [====================================\u003e              ] 153.7 MB/208.6 MB\r"
+    ],
+    [
+      0.075024,
+      "Pushing: [====================================\u003e              ] 154.3 MB/208.6 MB\r"
+    ],
+    [
+      0.054898,
+      "Pushing: [=====================================\u003e             ] 154.8 MB/208.6 MB\r"
+    ],
+    [
+      0.066167,
+      "Pushing: [=====================================\u003e             ] 155.3 MB/208.6 MB\r"
+    ],
+    [
+      0.068640,
+      "Pushing: [=====================================\u003e             ] 155.9 MB/208.6 MB\r"
+    ],
+    [
+      0.070385,
+      "Pushing: [=====================================\u003e             ] 156.4 MB/208.6 MB\r"
+    ],
+    [
+      0.066835,
+      "\rUpdating module [default]...\\"
+    ],
+    [
+      0.003247,
+      "Pushing: [=====================================\u003e             ]   157 MB/208.6 MB\r"
+    ],
+    [
+      0.064805,
+      "Pushing: [=====================================\u003e             ] 157.5 MB/208.6 MB\r"
+    ],
+    [
+      0.062248,
+      "Pushing: [=====================================\u003e             ]   158 MB/208.6 MB\r"
+    ],
+    [
+      0.078601,
+      "Pushing: [======================================\u003e            ] 158.6 MB/208.6 MB\r"
+    ],
+    [
+      0.078761,
+      "Pushing: [======================================\u003e            ] 159.1 MB/208.6 MB\r"
+    ],
+    [
+      0.086160,
+      "Pushing: [======================================\u003e            ] 159.6 MB/208.6 MB\r"
+    ],
+    [
+      0.114419,
+      "Pushing: [======================================\u003e            ] 160.2 MB/208.6 MB\r"
+    ],
+    [
+      0.095863,
+      "Pushing: [======================================\u003e            ] 160.7 MB/208.6 MB\r"
+    ],
+    [
+      0.074132,
+      "Pushing: [======================================\u003e            ] 161.2 MB/208.6 MB\r"
+    ],
+    [
+      0.069582,
+      "Pushing: [======================================\u003e            ] 161.7 MB/208.6 MB\r"
+    ],
+    [
+      0.055921,
+      "Pushing: [======================================\u003e            ] 162.3 MB/208.6 MB\r"
+    ],
+    [
+      0.059402,
+      "Pushing: [=======================================\u003e           ] 162.8 MB/208.6 MB\r"
+    ],
+    [
+      0.054787,
+      "Pushing: [=======================================\u003e           ] 163.4 MB/208.6 MB\r"
+    ],
+    [
+      0.065509,
+      "Pushing: [=======================================\u003e           ] 163.9 MB/208.6 MB\r"
+    ],
+    [
+      0.040128,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000008,
+      "|"
+    ],
+    [
+      0.040675,
+      "Pushing: [=======================================\u003e           ] 164.4 MB/208.6 MB\r"
+    ],
+    [
+      0.089931,
+      "Pushing: [=======================================\u003e           ]   165 MB/208.6 MB\r"
+    ],
+    [
+      0.039919,
+      "Pushing: [=======================================\u003e           ] 165.5 MB/208.6 MB\r"
+    ],
+    [
+      0.049803,
+      "Pushing: [=======================================\u003e           ]   166 MB/208.6 MB\r"
+    ],
+    [
+      0.059433,
+      "Pushing: [=======================================\u003e           ] 166.6 MB/208.6 MB\r"
+    ],
+    [
+      0.055283,
+      "Pushing: [========================================\u003e          ] 167.1 MB/208.6 MB\r"
+    ],
+    [
+      0.019674,
+      "Pushing: [========================================\u003e          ] 167.7 MB/208.6 MB\r"
+    ],
+    [
+      0.030496,
+      "Pushing: [========================================\u003e          ] 168.2 MB/208.6 MB\r"
+    ],
+    [
+      0.070439,
+      "Pushing: [========================================\u003e          ] 168.7 MB/208.6 MB\r"
+    ],
+    [
+      0.064228,
+      "Pushing: [========================================\u003e          ] 169.3 MB/208.6 MB\r"
+    ],
+    [
+      0.065343,
+      "Pushing: [========================================\u003e          ] 169.8 MB/208.6 MB\r"
+    ],
+    [
+      0.062613,
+      "Pushing: [========================================\u003e          ] 170.3 MB/208.6 MB\r"
+    ],
+    [
+      0.091814,
+      "Pushing: [========================================\u003e          ] 170.9 MB/208.6 MB\r"
+    ],
+    [
+      0.029769,
+      "Pushing: [=========================================\u003e         ] 171.4 MB/208.6 MB\r"
+    ],
+    [
+      0.050277,
+      "Pushing: [=========================================\u003e         ]   172 MB/208.6 MB\r"
+    ],
+    [
+      0.050489,
+      "Pushing: [=========================================\u003e         ] 172.5 MB/208.6 MB\r"
+    ],
+    [
+      0.049477,
+      "Pushing: [=========================================\u003e         ] 173.1 MB/208.6 MB\r"
+    ],
+    [
+      0.059624,
+      "Pushing: [=========================================\u003e         ] 173.6 MB/208.6 MB\r"
+    ],
+    [
+      0.024756,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000008,
+      "/"
+    ],
+    [
+      0.051198,
+      "Pushing: [=========================================\u003e         ] 174.1 MB/208.6 MB\r"
+    ],
+    [
+      0.049415,
+      "Pushing: [=========================================\u003e         ] 174.7 MB/208.6 MB\r"
+    ],
+    [
+      0.049576,
+      "Pushing: [==========================================\u003e        ] 175.2 MB/208.6 MB\r"
+    ],
+    [
+      0.057722,
+      "Pushing: [==========================================\u003e        ] 175.8 MB/208.6 MB\r"
+    ],
+    [
+      0.048027,
+      "Pushing: [==========================================\u003e        ] 176.3 MB/208.6 MB\r"
+    ],
+    [
+      0.049669,
+      "Pushing: [==========================================\u003e        ] 176.8 MB/208.6 MB\r"
+    ],
+    [
+      0.040511,
+      "Pushing: [==========================================\u003e        ] 177.4 MB/208.6 MB\r"
+    ],
+    [
+      0.050072,
+      "Pushing: [==========================================\u003e        ] 177.9 MB/208.6 MB\r"
+    ],
+    [
+      0.042823,
+      "Pushing: [==========================================\u003e        ] 178.5 MB/208.6 MB\r"
+    ],
+    [
+      0.046324,
+      "Pushing: [==========================================\u003e        ] 179.1 MB/208.6 MB\r"
+    ],
+    [
+      0.045551,
+      "Pushing: [===========================================\u003e       ] 179.6 MB/208.6 MB\r"
+    ],
+    [
+      0.044799,
+      "Pushing: [===========================================\u003e       ] 180.2 MB/208.6 MB\r"
+    ],
+    [
+      0.054936,
+      "Pushing: [===========================================\u003e       ] 180.7 MB/208.6 MB\r"
+    ],
+    [
+      0.045390,
+      "Pushing: [===========================================\u003e       ] 181.3 MB/208.6 MB\r"
+    ],
+    [
+      0.046958,
+      "Pushing: [===========================================\u003e       ] 181.8 MB/208.6 MB\r"
+    ],
+    [
+      0.048031,
+      "Pushing: [===========================================\u003e       ] 182.4 MB/208.6 MB\r"
+    ],
+    [
+      0.049200,
+      "Pushing: [===========================================\u003e       ]   183 MB/208.6 MB\r"
+    ],
+    [
+      0.039818,
+      "Pushing: [===========================================\u003e       ] 183.5 MB/208.6 MB\r"
+    ],
+    [
+      0.045813,
+      "Pushing: [============================================\u003e      ] 184.1 MB/208.6 MB\r"
+    ],
+    [
+      0.040297,
+      "Pushing: [============================================\u003e      ] 184.6 MB/208.6 MB\r"
+    ],
+    [
+      0.045332,
+      "Pushing: [============================================\u003e      ] 185.2 MB/208.6 MB\r"
+    ],
+    [
+      0.008606,
+      "\rUpdating module [default]...-"
+    ],
+    [
+      0.029952,
+      "Pushing: [============================================\u003e      ] 185.7 MB/208.6 MB\r"
+    ],
+    [
+      0.037783,
+      "Pushing: [============================================\u003e      ] 186.3 MB/208.6 MB\r"
+    ],
+    [
+      0.041985,
+      "Pushing: [============================================\u003e      ] 186.9 MB/208.6 MB\r"
+    ],
+    [
+      0.045970,
+      "Pushing: [============================================\u003e      ] 187.4 MB/208.6 MB\r"
+    ],
+    [
+      0.048560,
+      "Pushing: [=============================================\u003e     ]   188 MB/208.6 MB\r"
+    ],
+    [
+      0.042051,
+      "Pushing: [=============================================\u003e     ] 188.5 MB/208.6 MB\r"
+    ],
+    [
+      0.043322,
+      "Pushing: [=============================================\u003e     ] 189.1 MB/208.6 MB\r"
+    ],
+    [
+      0.045918,
+      "Pushing: [=============================================\u003e     ] 189.6 MB/208.6 MB\r"
+    ],
+    [
+      0.049655,
+      "Pushing: [=============================================\u003e     ] 190.2 MB/208.6 MB\r"
+    ],
+    [
+      0.041396,
+      "Pushing: [=============================================\u003e     ] 190.8 MB/208.6 MB\r"
+    ],
+    [
+      0.043784,
+      "Pushing: [=============================================\u003e     ] 191.3 MB/208.6 MB\r"
+    ],
+    [
+      0.043072,
+      "Pushing: [=============================================\u003e     ] 191.9 MB/208.6 MB\r"
+    ],
+    [
+      0.041634,
+      "Pushing: [==============================================\u003e    ] 192.4 MB/208.6 MB\r"
+    ],
+    [
+      0.045751,
+      "Pushing: [==============================================\u003e    ]   193 MB/208.6 MB\r"
+    ],
+    [
+      0.045360,
+      "Pushing: [==============================================\u003e    ] 193.5 MB/208.6 MB\r"
+    ],
+    [
+      0.042747,
+      "Pushing: [==============================================\u003e    ] 194.1 MB/208.6 MB\r"
+    ],
+    [
+      0.052054,
+      "Pushing: [==============================================\u003e    ] 194.7 MB/208.6 MB\r"
+    ],
+    [
+      0.044719,
+      "Pushing: [==============================================\u003e    ] 195.2 MB/208.6 MB\r"
+    ],
+    [
+      0.050020,
+      "Pushing: [==============================================\u003e    ] 195.8 MB/208.6 MB\r"
+    ],
+    [
+      0.042881,
+      "Pushing: [===============================================\u003e   ] 196.3 MB/208.6 MB\r"
+    ],
+    [
+      0.042032,
+      "Pushing: [===============================================\u003e   ] 196.9 MB/208.6 MB\r"
+    ],
+    [
+      0.046001,
+      "Pushing: [===============================================\u003e   ] 197.4 MB/208.6 MB\r"
+    ],
+    [
+      0.036002,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000008,
+      "\\"
+    ],
+    [
+      0.012870,
+      "Pushing: [===============================================\u003e   ]   198 MB/208.6 MB\r"
+    ],
+    [
+      0.054171,
+      "Pushing: [===============================================\u003e   ] 198.6 MB/208.6 MB\r"
+    ],
+    [
+      0.050479,
+      "Pushing: [===============================================\u003e   ] 199.1 MB/208.6 MB\r"
+    ],
+    [
+      0.042795,
+      "Pushing: [===============================================\u003e   ] 199.7 MB/208.6 MB\r"
+    ],
+    [
+      0.047492,
+      "Pushing: [===============================================\u003e   ] 200.2 MB/208.6 MB\r"
+    ],
+    [
+      0.034888,
+      "Pushing: [================================================\u003e  ] 200.8 MB/208.6 MB\r"
+    ],
+    [
+      0.044427,
+      "Pushing: [================================================\u003e  ] 201.3 MB/208.6 MB\r"
+    ],
+    [
+      0.049808,
+      "Pushing: [================================================\u003e  ] 201.9 MB/208.6 MB\r"
+    ],
+    [
+      0.045956,
+      "Pushing: [================================================\u003e  ] 202.5 MB/208.6 MB\r"
+    ],
+    [
+      0.039293,
+      "Pushing: [================================================\u003e  ]   203 MB/208.6 MB\r"
+    ],
+    [
+      0.044748,
+      "Pushing: [================================================\u003e  ] 203.6 MB/208.6 MB\r"
+    ],
+    [
+      0.046073,
+      "Pushing: [================================================\u003e  ] 204.1 MB/208.6 MB\r"
+    ],
+    [
+      0.044732,
+      "Pushing: [=================================================\u003e ] 204.7 MB/208.6 MB\r"
+    ],
+    [
+      0.042987,
+      "Pushing: [=================================================\u003e ] 205.2 MB/208.6 MB\r"
+    ],
+    [
+      0.046888,
+      "Pushing: [=================================================\u003e ] 205.8 MB/208.6 MB\r"
+    ],
+    [
+      0.040290,
+      "Pushing: [=================================================\u003e ] 206.3 MB/208.6 MB\r"
+    ],
+    [
+      0.041861,
+      "Pushing: [=================================================\u003e ] 206.9 MB/208.6 MB\r"
+    ],
+    [
+      0.048080,
+      "Pushing: [=================================================\u003e ] 207.4 MB/208.6 MB\r"
+    ],
+    [
+      0.039428,
+      "Pushing: [=================================================\u003e ] 207.9 MB/208.6 MB\r"
+    ],
+    [
+      0.055614,
+      "Pushing: [=================================================\u003e ] 208.5 MB/208.6 MB\r"
+    ],
+    [
+      0.130375,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000012,
+      "|"
+    ],
+    [
+      0.670218,
+      "Pushing: [==================================================\u003e] 208.6 MB/208.6 MB\r"
+    ],
+    [
+      0.332407,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000008,
+      "/"
+    ],
+    [
+      0.366180,
+      "Image successfully pushed\r\n"
+    ],
+    [
+      0.000260,
+      "Pushing\r\n"
+    ],
+    [
+      0.637118,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000008,
+      "-"
+    ],
+    [
+      1.003836,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000011,
+      "\\"
+    ],
+    [
+      0.029807,
+      "Buffering to disk: 557.1 kB\r"
+    ],
+    [
+      0.000210,
+      "Buffering to disk: 1.114 MB\r"
+    ],
+    [
+      0.000968,
+      "Buffering to disk: 1.671 MB\r"
+    ],
+    [
+      0.000388,
+      "Buffering to disk: 2.228 MB\r"
+    ],
+    [
+      0.002438,
+      "Buffering to disk: 2.785 MB\r"
+    ],
+    [
+      0.000199,
+      "Buffering to disk: 3.342 MB\r"
+    ],
+    [
+      0.000163,
+      "Buffering to disk: 3.899 MB\r"
+    ],
+    [
+      0.000161,
+      "Buffering to disk: 4.456 MB\r"
+    ],
+    [
+      0.000154,
+      "Buffering to disk: 5.014 MB\r"
+    ],
+    [
+      0.000173,
+      "Buffering to disk: 5.571 MB\r"
+    ],
+    [
+      0.004735,
+      "Buffering to disk: 6.128 MB\r"
+    ],
+    [
+      0.000237,
+      "Buffering to disk: 6.685 MB\r"
+    ],
+    [
+      0.000205,
+      "Buffering to disk: 7.242 MB\r"
+    ],
+    [
+      0.000181,
+      "Buffering to disk: 7.799 MB\r"
+    ],
+    [
+      0.004322,
+      "Buffering to disk: 8.356 MB\r"
+    ],
+    [
+      0.004475,
+      "Buffering to disk: 8.913 MB\r"
+    ],
+    [
+      0.005303,
+      "Buffering to disk:  9.47 MB\r"
+    ],
+    [
+      0.000562,
+      "Buffering to disk: 10.03 MB\r"
+    ],
+    [
+      0.004066,
+      "Buffering to disk: 10.58 MB\r"
+    ],
+    [
+      0.000202,
+      "Buffering to disk: 11.14 MB\r"
+    ],
+    [
+      0.011374,
+      "Buffering to disk:  11.7 MB\r"
+    ],
+    [
+      0.034319,
+      "Buffering to disk: 12.26 MB\r"
+    ],
+    [
+      0.022568,
+      "Buffering to disk: 12.81 MB\r"
+    ],
+    [
+      0.031014,
+      "Buffering to disk: 13.37 MB\r"
+    ],
+    [
+      0.040683,
+      "Buffering to disk: 13.93 MB\r"
+    ],
+    [
+      0.037159,
+      "Buffering to disk: 14.48 MB\r"
+    ],
+    [
+      0.008642,
+      "Buffering to disk: 15.04 MB\r"
+    ],
+    [
+      0.014748,
+      "Buffering to disk:  15.6 MB\r"
+    ],
+    [
+      0.024872,
+      "Buffering to disk: 16.15 MB\r"
+    ],
+    [
+      0.019894,
+      "Buffering to disk: 16.71 MB\r"
+    ],
+    [
+      0.017652,
+      "Buffering to disk: 17.27 MB\r"
+    ],
+    [
+      0.027600,
+      "Buffering to disk: 17.83 MB\r"
+    ],
+    [
+      0.024138,
+      "Buffering to disk: 18.38 MB\r"
+    ],
+    [
+      0.025981,
+      "Buffering to disk:  18.6 MB\r"
+    ],
+    [
+      0.039809,
+      "Buffering to disk\r\n"
+    ],
+    [
+      0.450550,
+      "Pushing: [\u003e                                                  ] 214.5 kB/18.6 MB\r"
+    ],
+    [
+      0.044498,
+      "Pushing: [=\u003e                                                 ] 411.1 kB/18.6 MB\r"
+    ],
+    [
+      0.040250,
+      "Pushing: [=\u003e                                                 ] 607.7 kB/18.6 MB\r"
+    ],
+    [
+      0.029332,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000007,
+      "|"
+    ],
+    [
+      0.010376,
+      "Pushing: [==\u003e                                                ] 804.4 kB/18.6 MB\r"
+    ],
+    [
+      0.044391,
+      "Pushing: [==\u003e                                                ] 1.001 MB/18.6 MB\r"
+    ],
+    [
+      0.014927,
+      "Pushing: [===\u003e                                               ] 1.198 MB/18.6 MB\r"
+    ],
+    [
+      0.210430,
+      "Pushing: [===\u003e                                               ] 1.394 MB/18.6 MB\r"
+    ],
+    [
+      0.025492,
+      "Pushing: [====\u003e                                              ] 1.591 MB/18.6 MB\r"
+    ],
+    [
+      0.019106,
+      "Pushing: [====\u003e                                              ] 1.787 MB/18.6 MB\r"
+    ],
+    [
+      0.024940,
+      "Pushing: [=====\u003e                                             ] 1.984 MB/18.6 MB\r"
+    ],
+    [
+      0.041016,
+      "Pushing: [=====\u003e                                             ] 2.181 MB/18.6 MB\r"
+    ],
+    [
+      0.032245,
+      "Pushing: [======\u003e                                            ] 2.377 MB/18.6 MB\r"
+    ],
+    [
+      0.037309,
+      "Pushing: [======\u003e                                            ] 2.574 MB/18.6 MB\r"
+    ],
+    [
+      0.035328,
+      "Pushing: [=======\u003e                                           ]  2.77 MB/18.6 MB\r"
+    ],
+    [
+      0.036309,
+      "Pushing: [=======\u003e                                           ] 2.967 MB/18.6 MB\r"
+    ],
+    [
+      0.023517,
+      "Pushing: [========\u003e                                          ] 3.164 MB/18.6 MB\r"
+    ],
+    [
+      0.024778,
+      "Pushing: [=========\u003e                                         ]  3.36 MB/18.6 MB\r"
+    ],
+    [
+      0.028821,
+      "Pushing: [=========\u003e                                         ] 3.557 MB/18.6 MB\r"
+    ],
+    [
+      0.031110,
+      "Pushing: [==========\u003e                                        ] 3.753 MB/18.6 MB\r"
+    ],
+    [
+      0.031446,
+      "Pushing: [==========\u003e                                        ]  3.95 MB/18.6 MB\r"
+    ],
+    [
+      0.028881,
+      "Pushing: [===========\u003e                                       ] 4.147 MB/18.6 MB\r"
+    ],
+    [
+      0.035172,
+      "Pushing: [===========\u003e                                       ] 4.343 MB/18.6 MB\r"
+    ],
+    [
+      0.024870,
+      "Pushing: [============\u003e                                      ]  4.54 MB/18.6 MB\r"
+    ],
+    [
+      0.030320,
+      "Pushing: [============\u003e                                      ] 4.737 MB/18.6 MB\r"
+    ],
+    [
+      0.062357,
+      "Pushing: [=============\u003e                                     ] 4.933 MB/18.6 MB\r"
+    ],
+    [
+      0.033806,
+      "Pushing: [=============\u003e                                     ]  5.13 MB/18.6 MB\r"
+    ],
+    [
+      0.028863,
+      "Pushing: [==============\u003e                                    ] 5.326 MB/18.6 MB\r"
+    ],
+    [
+      0.033691,
+      "Pushing: [==============\u003e                                    ] 5.523 MB/18.6 MB\r"
+    ],
+    [
+      0.034197,
+      "Pushing: [===============\u003e                                   ]  5.72 MB/18.6 MB\r"
+    ],
+    [
+      0.020455,
+      "\rUpdating module [default].../"
+    ],
+    [
+      0.010410,
+      "Pushing: [===============\u003e                                   ] 5.916 MB/18.6 MB\r"
+    ],
+    [
+      0.079309,
+      "Pushing: [================\u003e                                  ] 6.113 MB/18.6 MB\r"
+    ],
+    [
+      0.016395,
+      "Pushing: [================\u003e                                  ] 6.309 MB/18.6 MB\r"
+    ],
+    [
+      0.215279,
+      "Pushing: [=================\u003e                                 ] 6.506 MB/18.6 MB\r"
+    ],
+    [
+      0.020083,
+      "Pushing: [==================\u003e                                ] 6.703 MB/18.6 MB\r"
+    ],
+    [
+      0.024313,
+      "Pushing: [==================\u003e                                ] 6.899 MB/18.6 MB\r"
+    ],
+    [
+      0.019795,
+      "Pushing: [===================\u003e                               ] 7.096 MB/18.6 MB\r"
+    ],
+    [
+      0.025165,
+      "Pushing: [===================\u003e                               ] 7.292 MB/18.6 MB\r"
+    ],
+    [
+      0.020144,
+      "Pushing: [====================\u003e                              ] 7.489 MB/18.6 MB\r"
+    ],
+    [
+      0.016502,
+      "Pushing: [====================\u003e                              ] 7.686 MB/18.6 MB\r"
+    ],
+    [
+      0.023619,
+      "Pushing: [=====================\u003e                             ] 7.882 MB/18.6 MB\r"
+    ],
+    [
+      0.022816,
+      "Pushing: [=====================\u003e                             ] 8.079 MB/18.6 MB\r"
+    ],
+    [
+      0.031349,
+      "Pushing: [======================\u003e                            ] 8.275 MB/18.6 MB\r"
+    ],
+    [
+      0.020942,
+      "Pushing: [======================\u003e                            ] 8.472 MB/18.6 MB\r"
+    ],
+    [
+      0.029925,
+      "Pushing: [=======================\u003e                           ] 8.669 MB/18.6 MB\r"
+    ],
+    [
+      0.019870,
+      "Pushing: [=======================\u003e                           ] 8.865 MB/18.6 MB\r"
+    ],
+    [
+      0.030103,
+      "Pushing: [========================\u003e                          ] 9.062 MB/18.6 MB\r"
+    ],
+    [
+      0.032854,
+      "Pushing: [========================\u003e                          ] 9.258 MB/18.6 MB\r"
+    ],
+    [
+      0.252360,
+      "Pushing: [=========================\u003e                         ] 9.455 MB/18.6 MB\r"
+    ],
+    [
+      0.025030,
+      "Pushing: [=========================\u003e                         ] 9.652 MB/18.6 MB\r"
+    ],
+    [
+      0.042726,
+      "Pushing: [==========================\u003e                        ] 9.848 MB/18.6 MB\r"
+    ],
+    [
+      0.025712,
+      "\rUpdating module [default]...-"
+    ],
+    [
+      0.016837,
+      "Pushing: [===========================\u003e                       ] 10.04 MB/18.6 MB\r"
+    ],
+    [
+      0.987890,
+      "\rUpdating module [default]...\\"
+    ],
+    [
+      1.001415,
+      "\rUpdating module [default]...|"
+    ],
+    [
+      1.004139,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000008,
+      "/"
+    ],
+    [
+      1.003650,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000012,
+      "-"
+    ],
+    [
+      0.652446,
+      "Pushing: [===========================\u003e                       ] 10.24 MB/18.6 MB\r"
+    ],
+    [
+      0.019618,
+      "Pushing: [============================\u003e                      ] 10.44 MB/18.6 MB\r"
+    ],
+    [
+      0.020283,
+      "Pushing: [============================\u003e                      ] 10.63 MB/18.6 MB\r"
+    ],
+    [
+      0.016336,
+      "Pushing: [=============================\u003e                     ] 10.83 MB/18.6 MB\r"
+    ],
+    [
+      0.021065,
+      "Pushing: [=============================\u003e                     ] 11.03 MB/18.6 MB\r"
+    ],
+    [
+      0.016538,
+      "Pushing: [==============================\u003e                    ] 11.22 MB/18.6 MB\r"
+    ],
+    [
+      0.027101,
+      "Pushing: [==============================\u003e                    ] 11.41 MB/18.6 MB\r"
+    ],
+    [
+      0.009585,
+      "Pushing: [===============================\u003e                   ]  11.6 MB/18.6 MB\r"
+    ],
+    [
+      0.028953,
+      "Pushing: [===============================\u003e                   ]  11.8 MB/18.6 MB\r"
+    ],
+    [
+      0.024245,
+      "Pushing: [================================\u003e                  ] 11.98 MB/18.6 MB\r"
+    ],
+    [
+      0.021062,
+      "Pushing: [================================\u003e                  ] 12.18 MB/18.6 MB\r"
+    ],
+    [
+      0.020010,
+      "Pushing: [=================================\u003e                 ] 12.37 MB/18.6 MB\r"
+    ],
+    [
+      0.015394,
+      "Pushing: [=================================\u003e                 ] 12.56 MB/18.6 MB\r"
+    ],
+    [
+      0.008022,
+      "Pushing: [==================================\u003e                ] 12.75 MB/18.6 MB\r"
+    ],
+    [
+      0.022106,
+      "Pushing: [==================================\u003e                ] 12.94 MB/18.6 MB\r"
+    ],
+    [
+      0.029469,
+      "Pushing: [===================================\u003e               ] 13.13 MB/18.6 MB\r"
+    ],
+    [
+      0.024951,
+      "Pushing: [===================================\u003e               ] 13.31 MB/18.6 MB\r"
+    ],
+    [
+      0.020827,
+      "Pushing: [====================================\u003e              ]  13.5 MB/18.6 MB\r"
+    ],
+    [
+      0.006016,
+      "\rUpdating module [default]...\\"
+    ],
+    [
+      0.014370,
+      "Pushing: [====================================\u003e              ] 13.69 MB/18.6 MB\r"
+    ],
+    [
+      0.024413,
+      "Pushing: [=====================================\u003e             ] 13.88 MB/18.6 MB\r"
+    ],
+    [
+      0.019591,
+      "Pushing: [=====================================\u003e             ] 14.07 MB/18.6 MB\r"
+    ],
+    [
+      0.017869,
+      "Pushing: [======================================\u003e            ] 14.26 MB/18.6 MB\r"
+    ],
+    [
+      0.021775,
+      "Pushing: [======================================\u003e            ] 14.47 MB/18.6 MB\r"
+    ],
+    [
+      0.020098,
+      "Pushing: [=======================================\u003e           ] 14.67 MB/18.6 MB\r"
+    ],
+    [
+      0.019586,
+      "Pushing: [=======================================\u003e           ] 14.86 MB/18.6 MB\r"
+    ],
+    [
+      0.020716,
+      "Pushing: [========================================\u003e          ] 15.05 MB/18.6 MB\r"
+    ],
+    [
+      0.028606,
+      "Pushing: [========================================\u003e          ] 15.24 MB/18.6 MB\r"
+    ],
+    [
+      0.026916,
+      "Pushing: [=========================================\u003e         ] 15.44 MB/18.6 MB\r"
+    ],
+    [
+      0.015111,
+      "Pushing: [==========================================\u003e        ] 15.65 MB/18.6 MB\r"
+    ],
+    [
+      0.018607,
+      "Pushing: [==========================================\u003e        ] 15.83 MB/18.6 MB\r"
+    ],
+    [
+      0.022208,
+      "Pushing: [===========================================\u003e       ] 16.02 MB/18.6 MB\r"
+    ],
+    [
+      0.018026,
+      "Pushing: [===========================================\u003e       ] 16.21 MB/18.6 MB\r"
+    ],
+    [
+      0.021140,
+      "Pushing: [============================================\u003e      ]  16.4 MB/18.6 MB\r"
+    ],
+    [
+      0.020278,
+      "Pushing: [============================================\u003e      ] 16.61 MB/18.6 MB\r"
+    ],
+    [
+      0.024030,
+      "Pushing: [=============================================\u003e     ] 16.81 MB/18.6 MB\r"
+    ],
+    [
+      0.020205,
+      "Pushing: [=============================================\u003e     ]    17 MB/18.6 MB\r"
+    ],
+    [
+      0.022256,
+      "Pushing: [==============================================\u003e    ] 17.19 MB/18.6 MB\r"
+    ],
+    [
+      0.020863,
+      "Pushing: [==============================================\u003e    ] 17.37 MB/18.6 MB\r"
+    ],
+    [
+      0.016695,
+      "Pushing: [===============================================\u003e   ] 17.56 MB/18.6 MB\r"
+    ],
+    [
+      0.019891,
+      "Pushing: [===============================================\u003e   ] 17.75 MB/18.6 MB\r"
+    ],
+    [
+      0.020663,
+      "Pushing: [================================================\u003e  ] 17.96 MB/18.6 MB\r"
+    ],
+    [
+      0.024499,
+      "Pushing: [================================================\u003e  ] 18.14 MB/18.6 MB\r"
+    ],
+    [
+      0.024727,
+      "Pushing: [=================================================\u003e ] 18.33 MB/18.6 MB\r"
+    ],
+    [
+      0.024770,
+      "Pushing: [=================================================\u003e ] 18.52 MB/18.6 MB\r"
+    ],
+    [
+      0.453934,
+      "\rUpdating module [default]...|"
+    ],
+    [
+      0.552735,
+      "Pushing: [==================================================\u003e]  18.6 MB/18.6 MB\r"
+    ],
+    [
+      0.360601,
+      "Image successfully pushed\r\n"
+    ],
+    [
+      0.000296,
+      "Pushing\r\n"
+    ],
+    [
+      0.090353,
+      "\rUpdating module [default].../"
+    ],
+    [
+      1.003559,
+      "\rUpdating module [default]...-"
+    ],
+    [
+      1.004131,
+      "\rUpdating module [default]...\\"
+    ],
+    [
+      0.498565,
+      "Buffering to disk: 1.024 kB\r"
+    ],
+    [
+      0.002186,
+      "Buffering to disk\r\n"
+    ],
+    [
+      0.303665,
+      "Pushing: [=========================\u003e                         ]    512 B/1.024 kB\r"
+    ],
+    [
+      0.000423,
+      "Pushing: [==================================================\u003e] 1.024 kB/1.024 kB\r"
+    ],
+    [
+      0.197111,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000013,
+      "|"
+    ],
+    [
+      0.733437,
+      "Pushing: [==================================================\u003e] 1.024 kB/1.024 kB\r"
+    ],
+    [
+      0.270276,
+      "\rUpdating module [default].../"
+    ],
+    [
+      0.259131,
+      "Image successfully pushed\r\n"
+    ],
+    [
+      0.000250,
+      "Pushing\r\n"
+    ],
+    [
+      0.744242,
+      "\rUpdating module [default]...-"
+    ],
+    [
+      1.004506,
+      "\rUpdating module [default]...\\"
+    ],
+    [
+      0.113849,
+      "Buffering to disk: 1.024 kB\r"
+    ],
+    [
+      0.001574,
+      "Buffering to disk\r\n"
+    ],
+    [
+      0.286502,
+      "Pushing: [=========================\u003e                         ]    512 B/1.024 kB\r"
+    ],
+    [
+      0.000297,
+      "Pushing: [==================================================\u003e] 1.024 kB/1.024 kB\r"
+    ],
+    [
+      0.600291,
+      "\rUpdating module [default]...|"
+    ],
+    [
+      0.188573,
+      "Pushing: [==================================================\u003e] 1.024 kB/1.024 kB\r"
+    ],
+    [
+      0.347287,
+      "Image successfully pushed\r\n"
+    ],
+    [
+      0.000214,
+      "Pushing\r\n"
+    ],
+    [
+      0.467033,
+      "\rUpdating module [default].../"
+    ],
+    [
+      1.004332,
+      "\rUpdating module [default]...-"
+    ],
+    [
+      0.302253,
+      "Buffering to disk: 1.024 kB\r"
+    ],
+    [
+      0.000344,
+      "Buffering to disk\r\n"
+    ],
+    [
+      0.279363,
+      "Pushing: [=========================\u003e                         ]    512 B/1.024 kB\r"
+    ],
+    [
+      0.000500,
+      "Pushing: [==================================================\u003e] 1.024 kB/1.024 kB\r"
+    ],
+    [
+      0.418900,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000011,
+      "\\"
+    ],
+    [
+      0.195819,
+      "Pushing: [==================================================\u003e] 1.024 kB/1.024 kB\r"
+    ],
+    [
+      0.355462,
+      "Image successfully pushed\r\n"
+    ],
+    [
+      0.000280,
+      "Pushing\r\n"
+    ],
+    [
+      0.451897,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000010,
+      "|"
+    ],
+    [
+      1.002774,
+      "\rUpdating module [default].../"
+    ],
+    [
+      0.022851,
+      "Buffering to disk: 1.024 kB\r"
+    ],
+    [
+      0.004978,
+      "Buffering to disk\r\n"
+    ],
+    [
+      0.975218,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000007,
+      "-"
+    ],
+    [
+      0.289935,
+      "Pushing: [=========================\u003e                         ]    512 B/1.024 kB\r"
+    ],
+    [
+      0.000251,
+      "Pushing: [==================================================\u003e] 1.024 kB/1.024 kB\r"
+    ],
+    [
+      0.712458,
+      "\rUpdating module [default]...\\"
+    ],
+    [
+      0.247426,
+      "Pushing: [==================================================\u003e] 1.024 kB/1.024 kB\r"
+    ],
+    [
+      0.451201,
+      "Image successfully pushed\r\n"
+    ],
+    [
+      0.000429,
+      "Pushing\r\n"
+    ],
+    [
+      0.305131,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000008,
+      "|"
+    ],
+    [
+      0.999524,
+      "Buffering to disk: 1.024 kB\r"
+    ],
+    [
+      0.001593,
+      "Buffering to disk\r\n"
+    ],
+    [
+      0.003651,
+      "\rUpdating module [default].../"
+    ],
+    [
+      0.388363,
+      "Pushing: [=========================\u003e                         ]    512 B/1.024 kB\r"
+    ],
+    [
+      0.000227,
+      "Pushing: [==================================================\u003e] 1.024 kB/1.024 kB\r"
+    ],
+    [
+      0.615094,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000010,
+      "-"
+    ],
+    [
+      0.153860,
+      "Pushing: [==================================================\u003e] 1.024 kB/1.024 kB\r"
+    ],
+    [
+      0.421278,
+      "Image successfully pushed\r\n"
+    ],
+    [
+      0.000216,
+      "Pushing\r\n"
+    ],
+    [
+      0.428048,
+      "\rUpdating module [default]...\\"
+    ],
+    [
+      1.004742,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000008,
+      "|"
+    ],
+    [
+      0.141785,
+      "Buffering to disk: 1.024 kB\r"
+    ],
+    [
+      0.000182,
+      "Buffering to disk\r\n"
+    ],
+    [
+      0.275212,
+      "Pushing: [=========================\u003e                         ]    512 B/1.024 kB\r"
+    ],
+    [
+      0.001073,
+      "Pushing: [==================================================\u003e] 1.024 kB/1.024 kB\r"
+    ],
+    [
+      0.585583,
+      "\rUpdating module [default].../"
+    ],
+    [
+      0.684387,
+      "Pushing: [==================================================\u003e] 1.024 kB/1.024 kB\r"
+    ],
+    [
+      0.320312,
+      "\rUpdating module [default]...-"
+    ],
+    [
+      0.227985,
+      "Image successfully pushed\r\n"
+    ],
+    [
+      0.000256,
+      "Pushing\r\n"
+    ],
+    [
+      0.772800,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000018,
+      "\\"
+    ],
+    [
+      0.689783,
+      "Buffering to disk: 1.024 kB\r"
+    ],
+    [
+      0.000852,
+      "Buffering to disk\r\n"
+    ],
+    [
+      0.313324,
+      "\rUpdating module [default]...|"
+    ],
+    [
+      0.014150,
+      "Pushing: [=========================\u003e                         ]    512 B/1.024 kB\r"
+    ],
+    [
+      0.000239,
+      "Pushing: [==================================================\u003e] 1.024 kB/1.024 kB\r"
+    ],
+    [
+      0.807951,
+      "Pushing: [==================================================\u003e] 1.024 kB/1.024 kB\r"
+    ],
+    [
+      0.178327,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000008,
+      "/"
+    ],
+    [
+      0.337757,
+      "Image successfully pushed\r\n"
+    ],
+    [
+      0.000120,
+      "Pushing\r\n"
+    ],
+    [
+      0.666106,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000009,
+      "-"
+    ],
+    [
+      1.003333,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000006,
+      "\\"
+    ],
+    [
+      0.374038,
+      "Buffering to disk: 1.024 kB\r"
+    ],
+    [
+      0.005701,
+      "Buffering to disk\r\n"
+    ],
+    [
+      0.284760,
+      "Pushing: [=========================\u003e                         ]    512 B/1.024 kB\r"
+    ],
+    [
+      0.000200,
+      "Pushing: [==================================================\u003e] 1.024 kB/1.024 kB\r"
+    ],
+    [
+      0.338071,
+      "\rUpdating module [default]...|"
+    ],
+    [
+      0.819432,
+      "Pushing: [==================================================\u003e] 1.024 kB/1.024 kB\r"
+    ],
+    [
+      0.184101,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000010,
+      "/"
+    ],
+    [
+      0.414044,
+      "Image successfully pushed\r\n"
+    ],
+    [
+      0.000268,
+      "Pushing\r\n"
+    ],
+    [
+      0.588419,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000006,
+      "-"
+    ],
+    [
+      0.965292,
+      "Buffering to disk: 3.072 kB\r"
+    ],
+    [
+      0.005188,
+      "Buffering to disk\r\n"
+    ],
+    [
+      0.034057,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000010,
+      "\\"
+    ],
+    [
+      0.489312,
+      "Pushing: [========\u003e                                          ]    512 B/3.072 kB\r"
+    ],
+    [
+      0.000280,
+      "Pushing: [================\u003e                                  ] 1.024 kB/3.072 kB\r"
+    ],
+    [
+      0.000327,
+      "Pushing: [=========================\u003e                         ] 1.546 kB/3.072 kB\r"
+    ],
+    [
+      0.000270,
+      "Pushing: [=================================\u003e                 ] 2.048 kB/3.072 kB\r"
+    ],
+    [
+      0.000322,
+      "Pushing: [=========================================\u003e         ]  2.56 kB/3.072 kB\r"
+    ],
+    [
+      0.000250,
+      "Pushing: [==================================================\u003e] 3.072 kB/3.072 kB\r"
+    ],
+    [
+      0.511908,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000009,
+      "|"
+    ],
+    [
+      0.477732,
+      "Pushing: [==================================================\u003e] 3.072 kB/3.072 kB\r"
+    ],
+    [
+      0.526086,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000010,
+      "/"
+    ],
+    [
+      1.001152,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000015,
+      "-"
+    ],
+    [
+      1.002738,
+      "\rUpdating module [default]...\\"
+    ],
+    [
+      0.851785,
+      "Image successfully pushed\r\n"
+    ],
+    [
+      0.000392,
+      "Pushing\r\n"
+    ],
+    [
+      0.150586,
+      "\rUpdating module [default]...|"
+    ],
+    [
+      1.004500,
+      "\rUpdating module [default].../"
+    ],
+    [
+      0.766184,
+      "Buffering to disk: 557.1 kB\r"
+    ],
+    [
+      0.006699,
+      "Buffering to disk: 1.114 MB\r"
+    ],
+    [
+      0.005692,
+      "Buffering to disk: 1.671 MB\r"
+    ],
+    [
+      0.010192,
+      "Buffering to disk: 2.228 MB\r"
+    ],
+    [
+      0.004065,
+      "Buffering to disk: 2.785 MB\r"
+    ],
+    [
+      0.005960,
+      "Buffering to disk: 3.342 MB\r"
+    ],
+    [
+      0.009453,
+      "Buffering to disk: 3.899 MB\r"
+    ],
+    [
+      0.004105,
+      "Buffering to disk: 4.456 MB\r"
+    ],
+    [
+      0.006540,
+      "Buffering to disk: 5.014 MB\r"
+    ],
+    [
+      0.000170,
+      "Buffering to disk: 5.571 MB\r"
+    ],
+    [
+      0.000191,
+      "Buffering to disk: 6.128 MB\r"
+    ],
+    [
+      0.001794,
+      "Buffering to disk: 6.685 MB\r"
+    ],
+    [
+      0.007580,
+      "Buffering to disk: 7.242 MB\r"
+    ],
+    [
+      0.010172,
+      "Buffering to disk: 7.799 MB\r"
+    ],
+    [
+      0.004086,
+      "Buffering to disk: 8.356 MB\r"
+    ],
+    [
+      0.006025,
+      "Buffering to disk: 8.913 MB\r"
+    ],
+    [
+      0.001273,
+      "Buffering to disk:  9.47 MB\r"
+    ],
+    [
+      0.008132,
+      "Buffering to disk: 10.03 MB\r"
+    ],
+    [
+      0.004462,
+      "Buffering to disk: 10.58 MB\r"
+    ],
+    [
+      0.005842,
+      "Buffering to disk: 11.14 MB\r"
+    ],
+    [
+      0.007845,
+      "Buffering to disk:  11.7 MB\r"
+    ],
+    [
+      0.002387,
+      "Buffering to disk: 12.26 MB\r"
+    ],
+    [
+      0.009362,
+      "Buffering to disk: 12.81 MB\r"
+    ],
+    [
+      0.000199,
+      "Buffering to disk: 13.37 MB\r"
+    ],
+    [
+      0.010455,
+      "Buffering to disk: 13.93 MB\r"
+    ],
+    [
+      0.000158,
+      "Buffering to disk: 14.48 MB\r"
+    ],
+    [
+      0.000139,
+      "Buffering to disk: 15.04 MB\r"
+    ],
+    [
+      0.009131,
+      "Buffering to disk:  15.6 MB\r"
+    ],
+    [
+      0.000192,
+      "Buffering to disk: 16.15 MB\r"
+    ],
+    [
+      0.003682,
+      "Buffering to disk: 16.71 MB\r"
+    ],
+    [
+      0.007060,
+      "Buffering to disk: 17.27 MB\r"
+    ],
+    [
+      0.003568,
+      "Buffering to disk: 17.83 MB\r"
+    ],
+    [
+      0.005576,
+      "Buffering to disk: 18.38 MB\r"
+    ],
+    [
+      0.001890,
+      "Buffering to disk: 18.94 MB\r"
+    ],
+    [
+      0.008138,
+      "Buffering to disk:  19.5 MB\r"
+    ],
+    [
+      0.004352,
+      "Buffering to disk: 20.05 MB\r"
+    ],
+    [
+      0.000175,
+      "Buffering to disk: 20.61 MB\r"
+    ],
+    [
+      0.005453,
+      "Buffering to disk: 21.17 MB\r"
+    ],
+    [
+      0.000284,
+      "Buffering to disk: 21.73 MB\r"
+    ],
+    [
+      0.000533,
+      "Buffering to disk: 22.28 MB\r"
+    ],
+    [
+      0.003515,
+      "Buffering to disk: 22.84 MB\r"
+    ],
+    [
+      0.005860,
+      "Buffering to disk:  23.4 MB\r"
+    ],
+    [
+      0.010605,
+      "Buffering to disk: 23.95 MB\r"
+    ],
+    [
+      0.000603,
+      "Buffering to disk: 24.51 MB\r"
+    ],
+    [
+      0.002525,
+      "Buffering to disk: 25.07 MB\r"
+    ],
+    [
+      0.006488,
+      "Buffering to disk: 25.62 MB\r"
+    ],
+    [
+      0.000205,
+      "Buffering to disk: 26.18 MB\r"
+    ],
+    [
+      0.001244,
+      "Buffering to disk: 26.74 MB\r"
+    ],
+    [
+      0.005761,
+      "Buffering to disk:  27.3 MB\r"
+    ],
+    [
+      0.013150,
+      "Buffering to disk: 27.85 MB\r"
+    ],
+    [
+      0.000887,
+      "\rUpdating module [default]...-"
+    ],
+    [
+      0.002270,
+      "Buffering to disk: 28.41 MB\r"
+    ],
+    [
+      0.006412,
+      "Buffering to disk: 28.97 MB\r"
+    ],
+    [
+      0.000221,
+      "Buffering to disk: 29.52 MB\r"
+    ],
+    [
+      0.003241,
+      "Buffering to disk: 30.08 MB\r"
+    ],
+    [
+      0.005672,
+      "Buffering to disk: 30.64 MB\r"
+    ],
+    [
+      0.004871,
+      "Buffering to disk:  31.2 MB\r"
+    ],
+    [
+      0.005152,
+      "Buffering to disk: 31.75 MB\r"
+    ],
+    [
+      0.005183,
+      "Buffering to disk: 32.31 MB\r"
+    ],
+    [
+      0.000221,
+      "Buffering to disk: 32.87 MB\r"
+    ],
+    [
+      0.007318,
+      "Buffering to disk: 33.42 MB\r"
+    ],
+    [
+      0.011534,
+      "Buffering to disk: 33.98 MB\r"
+    ],
+    [
+      0.000158,
+      "Buffering to disk: 34.54 MB\r"
+    ],
+    [
+      0.006720,
+      "Buffering to disk: 35.09 MB\r"
+    ],
+    [
+      0.000622,
+      "Buffering to disk: 35.65 MB\r"
+    ],
+    [
+      0.002660,
+      "Buffering to disk: 36.21 MB\r"
+    ],
+    [
+      0.006382,
+      "Buffering to disk: 36.77 MB\r"
+    ],
+    [
+      0.000188,
+      "Buffering to disk: 37.32 MB\r"
+    ],
+    [
+      0.003794,
+      "Buffering to disk: 37.88 MB\r"
+    ],
+    [
+      0.005439,
+      "Buffering to disk: 38.44 MB\r"
+    ],
+    [
+      0.002557,
+      "Buffering to disk: 38.99 MB\r"
+    ],
+    [
+      0.007738,
+      "Buffering to disk: 39.55 MB\r"
+    ],
+    [
+      0.000190,
+      "Buffering to disk: 40.11 MB\r"
+    ],
+    [
+      0.000181,
+      "Buffering to disk: 40.67 MB\r"
+    ],
+    [
+      0.009385,
+      "Buffering to disk: 41.22 MB\r"
+    ],
+    [
+      0.003174,
+      "Buffering to disk: 41.78 MB\r"
+    ],
+    [
+      0.006963,
+      "Buffering to disk: 42.34 MB\r"
+    ],
+    [
+      0.000323,
+      "Buffering to disk: 42.89 MB\r"
+    ],
+    [
+      0.000295,
+      "Buffering to disk: 43.45 MB\r"
+    ],
+    [
+      0.001976,
+      "Buffering to disk: 44.01 MB\r"
+    ],
+    [
+      0.007495,
+      "Buffering to disk: 44.56 MB\r"
+    ],
+    [
+      0.000747,
+      "Buffering to disk: 45.12 MB\r"
+    ],
+    [
+      0.000485,
+      "Buffering to disk: 45.68 MB\r"
+    ],
+    [
+      0.003006,
+      "Buffering to disk: 46.24 MB\r"
+    ],
+    [
+      0.000201,
+      "Buffering to disk: 46.79 MB\r"
+    ],
+    [
+      0.005482,
+      "Buffering to disk: 47.35 MB\r"
+    ],
+    [
+      0.000178,
+      "Buffering to disk: 47.91 MB\r"
+    ],
+    [
+      0.000157,
+      "Buffering to disk: 48.46 MB\r"
+    ],
+    [
+      0.000146,
+      "Buffering to disk: 49.02 MB\r"
+    ],
+    [
+      0.003623,
+      "Buffering to disk: 49.58 MB\r"
+    ],
+    [
+      0.000190,
+      "Buffering to disk: 50.14 MB\r"
+    ],
+    [
+      0.000232,
+      "Buffering to disk: 50.69 MB\r"
+    ],
+    [
+      0.006061,
+      "Buffering to disk: 51.25 MB\r"
+    ],
+    [
+      0.000184,
+      "Buffering to disk: 51.81 MB\r"
+    ],
+    [
+      0.009450,
+      "Buffering to disk: 52.36 MB\r"
+    ],
+    [
+      0.002245,
+      "Buffering to disk: 52.92 MB\r"
+    ],
+    [
+      0.012232,
+      "Buffering to disk: 53.48 MB\r"
+    ],
+    [
+      0.005170,
+      "Buffering to disk: 54.03 MB\r"
+    ],
+    [
+      0.000195,
+      "Buffering to disk: 54.59 MB\r"
+    ],
+    [
+      0.000190,
+      "Buffering to disk: 55.15 MB\r"
+    ],
+    [
+      0.003606,
+      "Buffering to disk: 55.71 MB\r"
+    ],
+    [
+      0.000577,
+      "Buffering to disk: 56.26 MB\r"
+    ],
+    [
+      0.006060,
+      "Buffering to disk: 56.82 MB\r"
+    ],
+    [
+      0.000302,
+      "Buffering to disk: 57.38 MB\r"
+    ],
+    [
+      0.003127,
+      "Buffering to disk: 57.93 MB\r"
+    ],
+    [
+      0.006999,
+      "Buffering to disk: 58.49 MB\r"
+    ],
+    [
+      0.000301,
+      "Buffering to disk: 59.05 MB\r"
+    ],
+    [
+      0.002510,
+      "Buffering to disk:  59.6 MB\r"
+    ],
+    [
+      0.000366,
+      "Buffering to disk: 60.16 MB\r"
+    ],
+    [
+      0.005570,
+      "Buffering to disk: 60.72 MB\r"
+    ],
+    [
+      0.000264,
+      "Buffering to disk: 61.28 MB\r"
+    ],
+    [
+      0.003734,
+      "Buffering to disk: 61.83 MB\r"
+    ],
+    [
+      0.003636,
+      "Buffering to disk: 62.39 MB\r"
+    ],
+    [
+      0.006842,
+      "Buffering to disk: 62.95 MB\r"
+    ],
+    [
+      0.000159,
+      "Buffering to disk:  63.5 MB\r"
+    ],
+    [
+      0.009888,
+      "Buffering to disk: 64.06 MB\r"
+    ],
+    [
+      0.000150,
+      "Buffering to disk: 64.62 MB\r"
+    ],
+    [
+      0.006577,
+      "Buffering to disk: 65.18 MB\r"
+    ],
+    [
+      0.000263,
+      "Buffering to disk: 65.73 MB\r"
+    ],
+    [
+      0.000214,
+      "Buffering to disk: 66.29 MB\r"
+    ],
+    [
+      0.003689,
+      "Buffering to disk: 66.85 MB\r"
+    ],
+    [
+      0.000200,
+      "Buffering to disk:  67.4 MB\r"
+    ],
+    [
+      0.006608,
+      "Buffering to disk:  67.7 MB\r"
+    ],
+    [
+      0.063834,
+      "Buffering to disk\r\n"
+    ],
+    [
+      0.403625,
+      "Pushing: [\u003e                                                  ] 525.1 kB/67.7 MB\r"
+    ],
+    [
+      0.055279,
+      "Pushing: [\u003e                                                  ]  1.05 MB/67.7 MB\r"
+    ],
+    [
+      0.079157,
+      "Pushing: [=\u003e                                                 ] 1.576 MB/67.7 MB\r"
+    ],
+    [
+      0.160448,
+      "\rUpdating module [default]...\\"
+    ],
+    [
+      0.077090,
+      "Pushing: [=\u003e                                                 ]   2.1 MB/67.7 MB\r"
+    ],
+    [
+      0.053086,
+      "Pushing: [=\u003e                                                 ] 2.635 MB/67.7 MB\r"
+    ],
+    [
+      0.055464,
+      "Pushing: [==\u003e                                                ] 3.159 MB/67.7 MB\r"
+    ],
+    [
+      0.053933,
+      "Pushing: [==\u003e                                                ] 3.685 MB/67.7 MB\r"
+    ],
+    [
+      0.056314,
+      "Pushing: [===\u003e                                               ] 4.209 MB/67.7 MB\r"
+    ],
+    [
+      0.060294,
+      "Pushing: [===\u003e                                               ] 4.737 MB/67.7 MB\r"
+    ],
+    [
+      0.055060,
+      "Pushing: [===\u003e                                               ]  5.28 MB/67.7 MB\r"
+    ],
+    [
+      0.055153,
+      "Pushing: [====\u003e                                              ] 5.807 MB/67.7 MB\r"
+    ],
+    [
+      0.049845,
+      "Pushing: [====\u003e                                              ] 6.333 MB/67.7 MB\r"
+    ],
+    [
+      0.064059,
+      "Pushing: [=====\u003e                                             ] 6.861 MB/67.7 MB\r"
+    ],
+    [
+      0.059349,
+      "Pushing: [=====\u003e                                             ] 7.385 MB/67.7 MB\r"
+    ],
+    [
+      0.057164,
+      "Pushing: [=====\u003e                                             ] 7.916 MB/67.7 MB\r"
+    ],
+    [
+      0.049311,
+      "Pushing: [======\u003e                                            ] 8.443 MB/67.7 MB\r"
+    ],
+    [
+      0.053952,
+      "Pushing: [======\u003e                                            ] 8.973 MB/67.7 MB\r"
+    ],
+    [
+      0.053535,
+      "Pushing: [=======\u003e                                           ] 9.499 MB/67.7 MB\r"
+    ],
+    [
+      0.072456,
+      "Pushing: [=======\u003e                                           ] 10.03 MB/67.7 MB\r"
+    ],
+    [
+      0.060226,
+      "Pushing: [=======\u003e                                           ] 10.55 MB/67.7 MB\r"
+    ],
+    [
+      0.018106,
+      "\rUpdating module [default]...|"
+    ],
+    [
+      0.034383,
+      "Pushing: [========\u003e                                          ] 11.09 MB/67.7 MB\r"
+    ],
+    [
+      0.047825,
+      "Pushing: [========\u003e                                          ] 11.64 MB/67.7 MB\r"
+    ],
+    [
+      0.059944,
+      "Pushing: [========\u003e                                          ] 12.17 MB/67.7 MB\r"
+    ],
+    [
+      0.040260,
+      "Pushing: [=========\u003e                                         ]  12.7 MB/67.7 MB\r"
+    ],
+    [
+      0.048273,
+      "Pushing: [=========\u003e                                         ] 13.23 MB/67.7 MB\r"
+    ],
+    [
+      0.030676,
+      "Pushing: [==========\u003e                                        ] 13.76 MB/67.7 MB\r"
+    ],
+    [
+      0.044085,
+      "Pushing: [==========\u003e                                        ] 14.32 MB/67.7 MB\r"
+    ],
+    [
+      0.046863,
+      "Pushing: [==========\u003e                                        ] 14.84 MB/67.7 MB\r"
+    ],
+    [
+      0.044221,
+      "Pushing: [===========\u003e                                       ] 15.37 MB/67.7 MB\r"
+    ],
+    [
+      0.053983,
+      "Pushing: [===========\u003e                                       ] 15.91 MB/67.7 MB\r"
+    ],
+    [
+      0.061311,
+      "Pushing: [============\u003e                                      ] 16.44 MB/67.7 MB\r"
+    ],
+    [
+      0.057531,
+      "Pushing: [============\u003e                                      ] 16.96 MB/67.7 MB\r"
+    ],
+    [
+      0.056565,
+      "Pushing: [============\u003e                                      ] 17.51 MB/67.7 MB\r"
+    ],
+    [
+      0.045752,
+      "Pushing: [=============\u003e                                     ] 18.04 MB/67.7 MB\r"
+    ],
+    [
+      0.069075,
+      "Pushing: [=============\u003e                                     ] 18.59 MB/67.7 MB\r"
+    ],
+    [
+      0.050741,
+      "Pushing: [==============\u003e                                    ] 19.12 MB/67.7 MB\r"
+    ],
+    [
+      0.043926,
+      "Pushing: [==============\u003e                                    ] 19.65 MB/67.7 MB\r"
+    ],
+    [
+      0.025684,
+      "Pushing: [==============\u003e                                    ] 20.19 MB/67.7 MB\r"
+    ],
+    [
+      0.029068,
+      "Pushing: [===============\u003e                                   ] 20.73 MB/67.7 MB\r"
+    ],
+    [
+      0.025512,
+      "Pushing: [===============\u003e                                   ] 21.28 MB/67.7 MB\r"
+    ],
+    [
+      0.023908,
+      "Pushing: [================\u003e                                  ] 21.81 MB/67.7 MB\r"
+    ],
+    [
+      0.024321,
+      "Pushing: [================\u003e                                  ] 22.35 MB/67.7 MB\r"
+    ],
+    [
+      0.039230,
+      "\rUpdating module [default].../"
+    ],
+    [
+      0.002733,
+      "Pushing: [================\u003e                                  ] 22.88 MB/67.7 MB\r"
+    ],
+    [
+      0.049378,
+      "Pushing: [=================\u003e                                 ] 23.41 MB/67.7 MB\r"
+    ],
+    [
+      0.056469,
+      "Pushing: [=================\u003e                                 ] 23.94 MB/67.7 MB\r"
+    ],
+    [
+      0.058638,
+      "Pushing: [==================\u003e                                ] 24.48 MB/67.7 MB\r"
+    ],
+    [
+      0.061408,
+      "Pushing: [==================\u003e                                ] 25.03 MB/67.7 MB\r"
+    ],
+    [
+      0.054421,
+      "Pushing: [==================\u003e                                ] 25.56 MB/67.7 MB\r"
+    ],
+    [
+      0.045606,
+      "Pushing: [===================\u003e                               ]  26.1 MB/67.7 MB\r"
+    ],
+    [
+      0.060054,
+      "Pushing: [===================\u003e                               ] 26.62 MB/67.7 MB\r"
+    ],
+    [
+      0.052798,
+      "Pushing: [====================\u003e                              ] 27.16 MB/67.7 MB\r"
+    ],
+    [
+      0.060815,
+      "Pushing: [====================\u003e                              ] 27.69 MB/67.7 MB\r"
+    ],
+    [
+      0.050462,
+      "Pushing: [====================\u003e                              ] 28.21 MB/67.7 MB\r"
+    ],
+    [
+      0.055915,
+      "Pushing: [=====================\u003e                             ] 28.74 MB/67.7 MB\r"
+    ],
+    [
+      0.039814,
+      "Pushing: [=====================\u003e                             ] 29.27 MB/67.7 MB\r"
+    ],
+    [
+      0.060109,
+      "Pushing: [======================\u003e                            ]  29.8 MB/67.7 MB\r"
+    ],
+    [
+      0.061955,
+      "Pushing: [======================\u003e                            ] 30.33 MB/67.7 MB\r"
+    ],
+    [
+      0.059516,
+      "Pushing: [======================\u003e                            ] 30.86 MB/67.7 MB\r"
+    ],
+    [
+      0.052858,
+      "Pushing: [=======================\u003e                           ] 31.39 MB/67.7 MB\r"
+    ],
+    [
+      0.052661,
+      "Pushing: [=======================\u003e                           ] 31.91 MB/67.7 MB\r"
+    ],
+    [
+      0.056740,
+      "Pushing: [=======================\u003e                           ] 32.44 MB/67.7 MB\r"
+    ],
+    [
+      0.012193,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000018,
+      "-"
+    ],
+    [
+      0.047400,
+      "Pushing: [========================\u003e                          ] 32.96 MB/67.7 MB\r"
+    ],
+    [
+      0.066973,
+      "Pushing: [========================\u003e                          ] 33.49 MB/67.7 MB\r"
+    ],
+    [
+      0.080261,
+      "Pushing: [=========================\u003e                         ] 34.03 MB/67.7 MB\r"
+    ],
+    [
+      0.063134,
+      "Pushing: [=========================\u003e                         ] 34.56 MB/67.7 MB\r"
+    ],
+    [
+      0.061995,
+      "Pushing: [=========================\u003e                         ] 35.08 MB/67.7 MB\r"
+    ],
+    [
+      0.072499,
+      "Pushing: [==========================\u003e                        ] 35.61 MB/67.7 MB\r"
+    ],
+    [
+      0.064910,
+      "Pushing: [==========================\u003e                        ] 36.16 MB/67.7 MB\r"
+    ],
+    [
+      0.066083,
+      "Pushing: [===========================\u003e                       ] 36.69 MB/67.7 MB\r"
+    ],
+    [
+      0.050161,
+      "Pushing: [===========================\u003e                       ] 37.22 MB/67.7 MB\r"
+    ],
+    [
+      0.057566,
+      "Pushing: [===========================\u003e                       ] 37.75 MB/67.7 MB\r"
+    ],
+    [
+      0.061104,
+      "Pushing: [============================\u003e                      ]  38.3 MB/67.7 MB\r"
+    ],
+    [
+      0.052021,
+      "Pushing: [============================\u003e                      ] 38.83 MB/67.7 MB\r"
+    ],
+    [
+      0.060070,
+      "Pushing: [=============================\u003e                     ] 39.36 MB/67.7 MB\r"
+    ],
+    [
+      0.053536,
+      "Pushing: [=============================\u003e                     ]  39.9 MB/67.7 MB\r"
+    ],
+    [
+      0.059924,
+      "Pushing: [=============================\u003e                     ] 40.43 MB/67.7 MB\r"
+    ],
+    [
+      0.086264,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000007,
+      "\\"
+    ],
+    [
+      0.023590,
+      "Pushing: [==============================\u003e                    ] 40.99 MB/67.7 MB\r"
+    ],
+    [
+      0.057706,
+      "Pushing: [==============================\u003e                    ] 41.51 MB/67.7 MB\r"
+    ],
+    [
+      0.048631,
+      "Pushing: [===============================\u003e                   ] 42.05 MB/67.7 MB\r"
+    ],
+    [
+      0.060659,
+      "Pushing: [===============================\u003e                   ] 42.59 MB/67.7 MB\r"
+    ],
+    [
+      0.047788,
+      "Pushing: [===============================\u003e                   ] 43.12 MB/67.7 MB\r"
+    ],
+    [
+      0.051059,
+      "Pushing: [================================\u003e                  ] 43.65 MB/67.7 MB\r"
+    ],
+    [
+      0.031034,
+      "Pushing: [================================\u003e                  ] 44.18 MB/67.7 MB\r"
+    ],
+    [
+      0.050185,
+      "Pushing: [=================================\u003e                 ] 44.72 MB/67.7 MB\r"
+    ],
+    [
+      0.039303,
+      "Pushing: [=================================\u003e                 ] 45.26 MB/67.7 MB\r"
+    ],
+    [
+      0.047308,
+      "Pushing: [=================================\u003e                 ] 45.78 MB/67.7 MB\r"
+    ],
+    [
+      0.053221,
+      "Pushing: [==================================\u003e                ] 46.31 MB/67.7 MB\r"
+    ],
+    [
+      0.043148,
+      "Pushing: [==================================\u003e                ] 46.84 MB/67.7 MB\r"
+    ],
+    [
+      0.056238,
+      "Pushing: [==================================\u003e                ] 47.37 MB/67.7 MB\r"
+    ],
+    [
+      0.048385,
+      "Pushing: [===================================\u003e               ]  47.9 MB/67.7 MB\r"
+    ],
+    [
+      0.051373,
+      "Pushing: [===================================\u003e               ] 48.45 MB/67.7 MB\r"
+    ],
+    [
+      0.054209,
+      "Pushing: [====================================\u003e              ] 48.98 MB/67.7 MB\r"
+    ],
+    [
+      0.050053,
+      "Pushing: [====================================\u003e              ] 49.51 MB/67.7 MB\r"
+    ],
+    [
+      0.055789,
+      "Pushing: [====================================\u003e              ] 50.06 MB/67.7 MB\r"
+    ],
+    [
+      0.055727,
+      "Pushing: [=====================================\u003e             ] 50.59 MB/67.7 MB\r"
+    ],
+    [
+      0.052987,
+      "Pushing: [=====================================\u003e             ] 51.14 MB/67.7 MB\r"
+    ],
+    [
+      0.023184,
+      "\rUpdating module [default]...|"
+    ],
+    [
+      0.032666,
+      "Pushing: [======================================\u003e            ] 51.67 MB/67.7 MB\r"
+    ],
+    [
+      0.081648,
+      "Pushing: [======================================\u003e            ]  52.2 MB/67.7 MB\r"
+    ],
+    [
+      0.073685,
+      "Pushing: [======================================\u003e            ] 52.75 MB/67.7 MB\r"
+    ],
+    [
+      0.060717,
+      "Pushing: [=======================================\u003e           ] 53.28 MB/67.7 MB\r"
+    ],
+    [
+      0.059752,
+      "Pushing: [=======================================\u003e           ]  53.8 MB/67.7 MB\r"
+    ],
+    [
+      0.053666,
+      "Pushing: [========================================\u003e          ] 54.34 MB/67.7 MB\r"
+    ],
+    [
+      0.080089,
+      "Pushing: [========================================\u003e          ] 54.87 MB/67.7 MB\r"
+    ],
+    [
+      0.122859,
+      "Pushing: [========================================\u003e          ] 55.42 MB/67.7 MB\r"
+    ],
+    [
+      0.042686,
+      "Pushing: [=========================================\u003e         ] 55.96 MB/67.7 MB\r"
+    ],
+    [
+      0.030191,
+      "Pushing: [=========================================\u003e         ] 56.51 MB/67.7 MB\r"
+    ],
+    [
+      0.039825,
+      "Pushing: [==========================================\u003e        ] 57.06 MB/67.7 MB\r"
+    ],
+    [
+      0.020426,
+      "Pushing: [==========================================\u003e        ] 57.61 MB/67.7 MB\r"
+    ],
+    [
+      0.033424,
+      "Pushing: [==========================================\u003e        ] 58.13 MB/67.7 MB\r"
+    ],
+    [
+      0.030797,
+      "Pushing: [===========================================\u003e       ] 58.66 MB/67.7 MB\r"
+    ],
+    [
+      0.036392,
+      "Pushing: [===========================================\u003e       ] 59.21 MB/67.7 MB\r"
+    ],
+    [
+      0.029448,
+      "Pushing: [============================================\u003e      ] 59.73 MB/67.7 MB\r"
+    ],
+    [
+      0.032110,
+      "Pushing: [============================================\u003e      ] 60.28 MB/67.7 MB\r"
+    ],
+    [
+      0.028278,
+      "Pushing: [============================================\u003e      ] 60.82 MB/67.7 MB\r"
+    ],
+    [
+      0.043364,
+      "Pushing: [=============================================\u003e     ] 61.37 MB/67.7 MB\r"
+    ],
+    [
+      0.060136,
+      "Pushing: [=============================================\u003e     ] 61.89 MB/67.7 MB\r"
+    ],
+    [
+      0.009751,
+      "\rUpdating module [default].../"
+    ],
+    [
+      0.047075,
+      "Pushing: [==============================================\u003e    ] 62.44 MB/67.7 MB\r"
+    ],
+    [
+      0.093466,
+      "Pushing: [==============================================\u003e    ] 62.99 MB/67.7 MB\r"
+    ],
+    [
+      0.065981,
+      "Pushing: [==============================================\u003e    ] 63.54 MB/67.7 MB\r"
+    ],
+    [
+      0.069407,
+      "Pushing: [===============================================\u003e   ] 64.07 MB/67.7 MB\r"
+    ],
+    [
+      0.071632,
+      "Pushing: [===============================================\u003e   ]  64.6 MB/67.7 MB\r"
+    ],
+    [
+      0.058838,
+      "Pushing: [================================================\u003e  ] 65.13 MB/67.7 MB\r"
+    ],
+    [
+      0.054020,
+      "Pushing: [================================================\u003e  ] 65.68 MB/67.7 MB\r"
+    ],
+    [
+      0.059777,
+      "Pushing: [================================================\u003e  ]  66.2 MB/67.7 MB\r"
+    ],
+    [
+      0.060323,
+      "Pushing: [=================================================\u003e ] 66.73 MB/67.7 MB\r"
+    ],
+    [
+      0.059848,
+      "Pushing: [=================================================\u003e ] 67.26 MB/67.7 MB\r"
+    ],
+    [
+      0.361974,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000011,
+      "-"
+    ],
+    [
+      0.673431,
+      "Pushing: [==================================================\u003e]  67.7 MB/67.7 MB\r"
+    ],
+    [
+      0.330068,
+      "\rUpdating module [default]...\\"
+    ],
+    [
+      0.075170,
+      "Image successfully pushed\r\n"
+    ],
+    [
+      0.000363,
+      "Pushing\r\n"
+    ],
+    [
+      0.928166,
+      "\rUpdating module [default]...|"
+    ],
+    [
+      0.953591,
+      "Buffering to disk: 557.1 kB\r"
+    ],
+    [
+      0.005023,
+      "Buffering to disk: 1.114 MB\r"
+    ],
+    [
+      0.003105,
+      "Buffering to disk: 1.671 MB\r"
+    ],
+    [
+      0.004845,
+      "Buffering to disk: 2.228 MB\r"
+    ],
+    [
+      0.010072,
+      "Buffering to disk: 2.785 MB\r"
+    ],
+    [
+      0.003185,
+      "Buffering to disk: 3.342 MB\r"
+    ],
+    [
+      0.006998,
+      "Buffering to disk: 3.899 MB\r"
+    ],
+    [
+      0.006514,
+      "Buffering to disk: 4.456 MB\r"
+    ],
+    [
+      0.003224,
+      "Buffering to disk: 5.014 MB\r"
+    ],
+    [
+      0.001377,
+      "Buffering to disk: 5.571 MB\r"
+    ],
+    [
+      0.002333,
+      "Buffering to disk: 6.128 MB\r"
+    ],
+    [
+      0.001673,
+      "\rUpdating module [default].../"
+    ],
+    [
+      0.005268,
+      "Buffering to disk: 6.685 MB\r"
+    ],
+    [
+      0.003408,
+      "Buffering to disk: 7.242 MB\r"
+    ],
+    [
+      0.008226,
+      "Buffering to disk: 7.799 MB\r"
+    ],
+    [
+      0.008529,
+      "Buffering to disk: 8.356 MB\r"
+    ],
+    [
+      0.003667,
+      "Buffering to disk: 8.913 MB\r"
+    ],
+    [
+      0.005252,
+      "Buffering to disk:  9.47 MB\r"
+    ],
+    [
+      0.009993,
+      "Buffering to disk: 10.03 MB\r"
+    ],
+    [
+      0.009332,
+      "Buffering to disk: 10.58 MB\r"
+    ],
+    [
+      0.007603,
+      "Buffering to disk: 11.14 MB\r"
+    ],
+    [
+      0.007233,
+      "Buffering to disk:  11.7 MB\r"
+    ],
+    [
+      0.003039,
+      "Buffering to disk: 12.26 MB\r"
+    ],
+    [
+      0.005503,
+      "Buffering to disk: 12.81 MB\r"
+    ],
+    [
+      0.001635,
+      "Buffering to disk: 13.37 MB\r"
+    ],
+    [
+      0.002417,
+      "Buffering to disk: 13.93 MB\r"
+    ],
+    [
+      0.007056,
+      "Buffering to disk: 14.48 MB\r"
+    ],
+    [
+      0.000310,
+      "Buffering to disk: 15.04 MB\r"
+    ],
+    [
+      0.005992,
+      "Buffering to disk:  15.6 MB\r"
+    ],
+    [
+      0.003921,
+      "Buffering to disk: 16.15 MB\r"
+    ],
+    [
+      0.006514,
+      "Buffering to disk: 16.71 MB\r"
+    ],
+    [
+      0.013119,
+      "Buffering to disk: 17.27 MB\r"
+    ],
+    [
+      0.005907,
+      "Buffering to disk: 17.83 MB\r"
+    ],
+    [
+      0.006393,
+      "Buffering to disk: 18.38 MB\r"
+    ],
+    [
+      0.003655,
+      "Buffering to disk: 18.94 MB\r"
+    ],
+    [
+      0.001863,
+      "Buffering to disk:  19.5 MB\r"
+    ],
+    [
+      0.002142,
+      "Buffering to disk: 20.05 MB\r"
+    ],
+    [
+      0.006978,
+      "Buffering to disk: 20.61 MB\r"
+    ],
+    [
+      0.000205,
+      "Buffering to disk: 21.17 MB\r"
+    ],
+    [
+      0.000213,
+      "Buffering to disk: 21.73 MB\r"
+    ],
+    [
+      0.000155,
+      "Buffering to disk: 22.28 MB\r"
+    ],
+    [
+      0.002449,
+      "Buffering to disk: 22.84 MB\r"
+    ],
+    [
+      0.007112,
+      "Buffering to disk:  23.4 MB\r"
+    ],
+    [
+      0.010506,
+      "Buffering to disk: 23.95 MB\r"
+    ],
+    [
+      0.006593,
+      "Buffering to disk: 24.51 MB\r"
+    ],
+    [
+      0.003179,
+      "Buffering to disk: 25.07 MB\r"
+    ],
+    [
+      0.001873,
+      "Buffering to disk: 25.62 MB\r"
+    ],
+    [
+      0.002014,
+      "Buffering to disk: 26.18 MB\r"
+    ],
+    [
+      0.003395,
+      "Buffering to disk: 26.74 MB\r"
+    ],
+    [
+      0.006142,
+      "Buffering to disk:  27.3 MB\r"
+    ],
+    [
+      0.005987,
+      "Buffering to disk: 27.85 MB\r"
+    ],
+    [
+      0.006437,
+      "Buffering to disk: 28.41 MB\r"
+    ],
+    [
+      0.003851,
+      "Buffering to disk: 28.97 MB\r"
+    ],
+    [
+      0.003942,
+      "Buffering to disk: 29.52 MB\r"
+    ],
+    [
+      0.001873,
+      "Buffering to disk: 30.08 MB\r"
+    ],
+    [
+      0.008670,
+      "Buffering to disk: 30.64 MB\r"
+    ],
+    [
+      0.012788,
+      "Buffering to disk:  31.2 MB\r"
+    ],
+    [
+      0.006209,
+      "Buffering to disk: 31.75 MB\r"
+    ],
+    [
+      0.004613,
+      "Buffering to disk: 32.31 MB\r"
+    ],
+    [
+      0.000262,
+      "Buffering to disk: 32.87 MB\r"
+    ],
+    [
+      0.005182,
+      "Buffering to disk: 33.42 MB\r"
+    ],
+    [
+      0.005164,
+      "Buffering to disk: 33.98 MB\r"
+    ],
+    [
+      0.004085,
+      "Buffering to disk: 34.54 MB\r"
+    ],
+    [
+      0.005273,
+      "Buffering to disk: 35.09 MB\r"
+    ],
+    [
+      0.002777,
+      "Buffering to disk: 35.65 MB\r"
+    ],
+    [
+      0.002569,
+      "Buffering to disk: 36.21 MB\r"
+    ],
+    [
+      0.005252,
+      "Buffering to disk: 36.77 MB\r"
+    ],
+    [
+      0.000220,
+      "Buffering to disk: 37.32 MB\r"
+    ],
+    [
+      0.004601,
+      "Buffering to disk: 37.88 MB\r"
+    ],
+    [
+      0.008528,
+      "Buffering to disk: 38.44 MB\r"
+    ],
+    [
+      0.007140,
+      "Buffering to disk: 38.99 MB\r"
+    ],
+    [
+      0.005426,
+      "Buffering to disk: 39.55 MB\r"
+    ],
+    [
+      0.003147,
+      "Buffering to disk: 40.11 MB\r"
+    ],
+    [
+      0.002416,
+      "Buffering to disk: 40.67 MB\r"
+    ],
+    [
+      0.001630,
+      "Buffering to disk: 41.22 MB\r"
+    ],
+    [
+      0.007357,
+      "Buffering to disk: 41.78 MB\r"
+    ],
+    [
+      0.004400,
+      "Buffering to disk: 42.04 MB\r"
+    ],
+    [
+      0.059968,
+      "Buffering to disk\r\n"
+    ],
+    [
+      0.319404,
+      "Pushing: [\u003e                                                  ] 431.5 kB/42.04 MB\r"
+    ],
+    [
+      0.042096,
+      "Pushing: [=\u003e                                                 ]   852 kB/42.04 MB\r"
+    ],
+    [
+      0.074985,
+      "Pushing: [=\u003e                                                 ] 1.272 MB/42.04 MB\r"
+    ],
+    [
+      0.036503,
+      "Pushing: [==\u003e                                                ] 1.693 MB/42.04 MB\r"
+    ],
+    [
+      0.063879,
+      "Pushing: [==\u003e                                                ] 2.114 MB/42.04 MB\r"
+    ],
+    [
+      0.041590,
+      "Pushing: [===\u003e                                               ] 2.535 MB/42.04 MB\r"
+    ],
+    [
+      0.040856,
+      "Pushing: [===\u003e                                               ] 2.976 MB/42.04 MB\r"
+    ],
+    [
+      0.003115,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000005,
+      "-"
+    ],
+    [
+      0.043741,
+      "Pushing: [====\u003e                                              ] 3.397 MB/42.04 MB\r"
+    ],
+    [
+      0.040456,
+      "Pushing: [====\u003e                                              ] 3.822 MB/42.04 MB\r"
+    ],
+    [
+      0.042878,
+      "Pushing: [=====\u003e                                             ] 4.242 MB/42.04 MB\r"
+    ],
+    [
+      0.056898,
+      "Pushing: [=====\u003e                                             ] 4.667 MB/42.04 MB\r"
+    ],
+    [
+      0.040017,
+      "Pushing: [======\u003e                                            ] 5.117 MB/42.04 MB\r"
+    ],
+    [
+      0.043810,
+      "Pushing: [======\u003e                                            ] 5.537 MB/42.04 MB\r"
+    ],
+    [
+      0.034995,
+      "Pushing: [=======\u003e                                           ] 5.984 MB/42.04 MB\r"
+    ],
+    [
+      0.042488,
+      "Pushing: [=======\u003e                                           ] 6.411 MB/42.04 MB\r"
+    ],
+    [
+      0.042521,
+      "Pushing: [========\u003e                                          ] 6.832 MB/42.04 MB\r"
+    ],
+    [
+      0.046382,
+      "Pushing: [========\u003e                                          ] 7.254 MB/42.04 MB\r"
+    ],
+    [
+      0.049974,
+      "Pushing: [=========\u003e                                         ] 7.675 MB/42.04 MB\r"
+    ],
+    [
+      0.043640,
+      "Pushing: [=========\u003e                                         ] 8.101 MB/42.04 MB\r"
+    ],
+    [
+      0.045442,
+      "Pushing: [==========\u003e                                        ] 8.539 MB/42.04 MB\r"
+    ],
+    [
+      0.040682,
+      "Pushing: [==========\u003e                                        ]  8.96 MB/42.04 MB\r"
+    ],
+    [
+      0.043134,
+      "Pushing: [===========\u003e                                       ] 9.412 MB/42.04 MB\r"
+    ],
+    [
+      0.046780,
+      "Pushing: [===========\u003e                                       ]  9.84 MB/42.04 MB\r"
+    ],
+    [
+      0.044350,
+      "Pushing: [============\u003e                                      ] 10.28 MB/42.04 MB\r"
+    ],
+    [
+      0.054807,
+      "Pushing: [============\u003e                                      ]  10.7 MB/42.04 MB\r"
+    ],
+    [
+      0.041395,
+      "Pushing: [=============\u003e                                     ] 11.13 MB/42.04 MB\r"
+    ],
+    [
+      0.043453,
+      "Pushing: [=============\u003e                                     ] 11.55 MB/42.04 MB\r"
+    ],
+    [
+      0.043188,
+      "Pushing: [==============\u003e                                    ] 11.97 MB/42.04 MB\r"
+    ],
+    [
+      0.043271,
+      "Pushing: [==============\u003e                                    ] 12.39 MB/42.04 MB\r"
+    ],
+    [
+      0.029919,
+      "\rUpdating module [default]...\\"
+    ],
+    [
+      0.010438,
+      "Pushing: [===============\u003e                                   ] 12.82 MB/42.04 MB\r"
+    ],
+    [
+      0.032888,
+      "Pushing: [===============\u003e                                   ] 13.25 MB/42.04 MB\r"
+    ],
+    [
+      0.039852,
+      "Pushing: [================\u003e                                  ] 13.69 MB/42.04 MB\r"
+    ],
+    [
+      0.017992,
+      "Pushing: [================\u003e                                  ] 14.14 MB/42.04 MB\r"
+    ],
+    [
+      0.042150,
+      "Pushing: [=================\u003e                                 ] 14.56 MB/42.04 MB\r"
+    ],
+    [
+      0.037643,
+      "Pushing: [=================\u003e                                 ] 14.98 MB/42.04 MB\r"
+    ],
+    [
+      0.038250,
+      "Pushing: [==================\u003e                                ]  15.4 MB/42.04 MB\r"
+    ],
+    [
+      0.043585,
+      "Pushing: [==================\u003e                                ] 15.83 MB/42.04 MB\r"
+    ],
+    [
+      0.047634,
+      "Pushing: [===================\u003e                               ] 16.25 MB/42.04 MB\r"
+    ],
+    [
+      0.045832,
+      "Pushing: [===================\u003e                               ] 16.68 MB/42.04 MB\r"
+    ],
+    [
+      0.046813,
+      "Pushing: [====================\u003e                              ] 17.11 MB/42.04 MB\r"
+    ],
+    [
+      0.047245,
+      "Pushing: [====================\u003e                              ] 17.56 MB/42.04 MB\r"
+    ],
+    [
+      0.029828,
+      "Pushing: [=====================\u003e                             ] 17.99 MB/42.04 MB\r"
+    ],
+    [
+      0.042212,
+      "Pushing: [=====================\u003e                             ] 18.41 MB/42.04 MB\r"
+    ],
+    [
+      0.051021,
+      "Pushing: [======================\u003e                            ] 18.83 MB/42.04 MB\r"
+    ],
+    [
+      0.041964,
+      "Pushing: [======================\u003e                            ] 19.27 MB/42.04 MB\r"
+    ],
+    [
+      0.042659,
+      "Pushing: [=======================\u003e                           ] 19.72 MB/42.04 MB\r"
+    ],
+    [
+      0.019866,
+      "Pushing: [=======================\u003e                           ] 20.16 MB/42.04 MB\r"
+    ],
+    [
+      0.021609,
+      "Pushing: [========================\u003e                          ] 20.61 MB/42.04 MB\r"
+    ],
+    [
+      0.014293,
+      "Pushing: [=========================\u003e                         ] 21.04 MB/42.04 MB\r"
+    ],
+    [
+      0.016534,
+      "Pushing: [=========================\u003e                         ] 21.48 MB/42.04 MB\r"
+    ],
+    [
+      0.022955,
+      "Pushing: [==========================\u003e                        ] 21.93 MB/42.04 MB\r"
+    ],
+    [
+      0.019913,
+      "Pushing: [==========================\u003e                        ] 22.35 MB/42.04 MB\r"
+    ],
+    [
+      0.019951,
+      "Pushing: [===========================\u003e                       ] 22.77 MB/42.04 MB\r"
+    ],
+    [
+      0.036812,
+      "Pushing: [===========================\u003e                       ]  23.2 MB/42.04 MB\r"
+    ],
+    [
+      0.049208,
+      "Pushing: [============================\u003e                      ] 23.62 MB/42.04 MB\r"
+    ],
+    [
+      0.039792,
+      "Pushing: [============================\u003e                      ] 24.05 MB/42.04 MB\r"
+    ],
+    [
+      0.040827,
+      "Pushing: [=============================\u003e                     ] 24.48 MB/42.04 MB\r"
+    ],
+    [
+      0.044414,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000006,
+      "|"
+    ],
+    [
+      0.002896,
+      "Pushing: [=============================\u003e                     ]  24.9 MB/42.04 MB\r"
+    ],
+    [
+      0.042792,
+      "Pushing: [==============================\u003e                    ] 25.33 MB/42.04 MB\r"
+    ],
+    [
+      0.043905,
+      "Pushing: [==============================\u003e                    ] 25.76 MB/42.04 MB\r"
+    ],
+    [
+      0.035258,
+      "Pushing: [===============================\u003e                   ]  26.2 MB/42.04 MB\r"
+    ],
+    [
+      0.040630,
+      "Pushing: [===============================\u003e                   ] 26.62 MB/42.04 MB\r"
+    ],
+    [
+      0.041680,
+      "Pushing: [================================\u003e                  ] 27.04 MB/42.04 MB\r"
+    ],
+    [
+      0.048744,
+      "Pushing: [================================\u003e                  ] 27.47 MB/42.04 MB\r"
+    ],
+    [
+      0.049584,
+      "Pushing: [=================================\u003e                 ] 27.91 MB/42.04 MB\r"
+    ],
+    [
+      0.039628,
+      "Pushing: [=================================\u003e                 ] 28.34 MB/42.04 MB\r"
+    ],
+    [
+      0.040838,
+      "Pushing: [==================================\u003e                ] 28.77 MB/42.04 MB\r"
+    ],
+    [
+      0.036746,
+      "Pushing: [==================================\u003e                ] 29.19 MB/42.04 MB\r"
+    ],
+    [
+      0.034973,
+      "Pushing: [===================================\u003e               ] 29.63 MB/42.04 MB\r"
+    ],
+    [
+      0.047728,
+      "Pushing: [===================================\u003e               ] 30.06 MB/42.04 MB\r"
+    ],
+    [
+      0.152954,
+      "Pushing: [====================================\u003e              ] 30.51 MB/42.04 MB\r"
+    ],
+    [
+      0.300660,
+      "Pushing: [====================================\u003e              ] 30.93 MB/42.04 MB\r"
+    ],
+    [
+      0.037261,
+      "Pushing: [=====================================\u003e             ] 31.36 MB/42.04 MB\r"
+    ],
+    [
+      0.006985,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000006,
+      "/"
+    ],
+    [
+      0.962605,
+      "Pushing: [=====================================\u003e             ] 31.78 MB/42.04 MB\r"
+    ],
+    [
+      0.041656,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000007,
+      "-"
+    ],
+    [
+      0.001465,
+      "Pushing: [======================================\u003e            ]  32.2 MB/42.04 MB\r"
+    ],
+    [
+      0.277400,
+      "Pushing: [======================================\u003e            ] 32.65 MB/42.04 MB\r"
+    ],
+    [
+      0.048985,
+      "Pushing: [=======================================\u003e           ] 33.07 MB/42.04 MB\r"
+    ],
+    [
+      0.058066,
+      "Pushing: [=======================================\u003e           ] 33.52 MB/42.04 MB\r"
+    ],
+    [
+      0.056341,
+      "Pushing: [========================================\u003e          ] 33.95 MB/42.04 MB\r"
+    ],
+    [
+      0.139694,
+      "Pushing: [========================================\u003e          ]  34.4 MB/42.04 MB\r"
+    ],
+    [
+      0.419589,
+      "\rUpdating module [default]...\\"
+    ],
+    [
+      0.090337,
+      "Pushing: [=========================================\u003e         ] 34.84 MB/42.04 MB\r"
+    ],
+    [
+      0.039420,
+      "Pushing: [=========================================\u003e         ] 35.26 MB/42.04 MB\r"
+    ],
+    [
+      0.137130,
+      "Pushing: [==========================================\u003e        ] 35.69 MB/42.04 MB\r"
+    ],
+    [
+      0.039483,
+      "Pushing: [==========================================\u003e        ] 36.11 MB/42.04 MB\r"
+    ],
+    [
+      0.040391,
+      "Pushing: [===========================================\u003e       ] 36.53 MB/42.04 MB\r"
+    ],
+    [
+      0.199499,
+      "Pushing: [===========================================\u003e       ] 36.95 MB/42.04 MB\r"
+    ],
+    [
+      0.050044,
+      "Pushing: [============================================\u003e      ]  37.4 MB/42.04 MB\r"
+    ],
+    [
+      0.063528,
+      "Pushing: [=============================================\u003e     ] 37.84 MB/42.04 MB\r"
+    ],
+    [
+      0.060270,
+      "Pushing: [=============================================\u003e     ] 38.26 MB/42.04 MB\r"
+    ],
+    [
+      0.283421,
+      "\rUpdating module [default]...|"
+    ],
+    [
+      0.196596,
+      "Pushing: [==============================================\u003e    ]  38.7 MB/42.04 MB\r"
+    ],
+    [
+      0.049490,
+      "Pushing: [==============================================\u003e    ] 39.13 MB/42.04 MB\r"
+    ],
+    [
+      0.037118,
+      "Pushing: [===============================================\u003e   ] 39.58 MB/42.04 MB\r"
+    ],
+    [
+      0.049376,
+      "Pushing: [===============================================\u003e   ] 40.01 MB/42.04 MB\r"
+    ],
+    [
+      0.044507,
+      "Pushing: [================================================\u003e  ] 40.45 MB/42.04 MB\r"
+    ],
+    [
+      0.065278,
+      "Pushing: [================================================\u003e  ]  40.9 MB/42.04 MB\r"
+    ],
+    [
+      0.089966,
+      "Pushing: [=================================================\u003e ] 41.32 MB/42.04 MB\r"
+    ],
+    [
+      0.044447,
+      "Pushing: [=================================================\u003e ] 41.74 MB/42.04 MB\r"
+    ],
+    [
+      0.426351,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000007,
+      "/"
+    ],
+    [
+      0.689230,
+      "Pushing: [==================================================\u003e] 42.04 MB/42.04 MB\r"
+    ],
+    [
+      0.313293,
+      "\rUpdating module [default]...-"
+    ],
+    [
+      0.417090,
+      "Image successfully pushed\r\n"
+    ],
+    [
+      0.000423,
+      "Pushing tag for rev [b20b7361cf50] on {https://gcr.io/v1/repositories/_m_sdk/sharp-technique-88621.default.20150527t105552/tags/latest}\r\n"
+    ],
+    [
+      0.586326,
+      "\rUpdating module [default]...\\"
+    ],
+    [
+      1.004036,
+      "\rUpdating module [default]...|"
+    ],
+    [
+      1.001221,
+      "\rUpdating module [default].../"
+    ],
+    [
+      1.000767,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000016,
+      "-"
+    ],
+    [
+      1.002037,
+      "\rUpdating module [default]...\\"
+    ],
+    [
+      1.002277,
+      "\rUpdating module [default]...|"
+    ],
+    [
+      1.003630,
+      "\rUpdating module [default].../"
+    ],
+    [
+      1.003117,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000006,
+      "-"
+    ],
+    [
+      1.003930,
+      "\rUpdating module [default]...\\"
+    ],
+    [
+      1.002872,
+      "\rUpdating module [default]...|"
+    ],
+    [
+      1.004702,
+      "\rUpdating module [default].../"
+    ],
+    [
+      1.004194,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000008,
+      "-"
+    ],
+    [
+      1.001640,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000007,
+      "\\"
+    ],
+    [
+      1.002744,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000008,
+      "|"
+    ],
+    [
+      1.004139,
+      "\rUpdating module [default].../"
+    ],
+    [
+      1.001557,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000008,
+      "-"
+    ],
+    [
+      1.002412,
+      "\rUpdating module [default]...\\"
+    ],
+    [
+      1.003336,
+      "\rUpdating module [default]...|"
+    ],
+    [
+      1.004951,
+      "\rUpdating module [default].../"
+    ],
+    [
+      1.003612,
+      "\rUpdating module [default]...-"
+    ],
+    [
+      1.004251,
+      "\rUpdating module [default]...\\"
+    ],
+    [
+      1.004673,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000008,
+      "|"
+    ],
+    [
+      1.001605,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000008,
+      "/"
+    ],
+    [
+      1.002346,
+      "\rUpdating module [default]...-"
+    ],
+    [
+      1.003582,
+      "\rUpdating module [default]...\\"
+    ],
+    [
+      1.002762,
+      "\rUpdating module [default]...|"
+    ],
+    [
+      1.000726,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000008,
+      "/"
+    ],
+    [
+      1.003265,
+      "\rUpdating module [default]...-"
+    ],
+    [
+      1.003186,
+      "\rUpdating module [default]...\\"
+    ],
+    [
+      1.003955,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000008,
+      "|"
+    ],
+    [
+      1.004526,
+      "\rUpdating module [default].../"
+    ],
+    [
+      1.003817,
+      "\rUpdating module [default]...-"
+    ],
+    [
+      1.004316,
+      "\rUpdating module [default]...\\"
+    ],
+    [
+      1.003321,
+      "\rUpdating module [default]...|"
+    ],
+    [
+      1.002084,
+      "\rUpdating module [default].../"
+    ],
+    [
+      1.004714,
+      "\rUpdating module [default]...-"
+    ],
+    [
+      1.002854,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000007,
+      "\\"
+    ],
+    [
+      1.001648,
+      "\rUpdating module [default]...|"
+    ],
+    [
+      1.003680,
+      "\rUpdating module [default].../"
+    ],
+    [
+      1.004954,
+      "\rUpdating module [default]...-"
+    ],
+    [
+      1.003356,
+      "\rUpdating module [default]...\\"
+    ],
+    [
+      1.003551,
+      "\rUpdating module [default]...|"
+    ],
+    [
+      1.004494,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000009,
+      "/"
+    ],
+    [
+      1.002115,
+      "\rUpdating module [default]...-"
+    ],
+    [
+      1.001703,
+      "\rUpdating module [default]...\\"
+    ],
+    [
+      1.004124,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000009,
+      "|"
+    ],
+    [
+      1.002308,
+      "\rUpdating module [default].../"
+    ],
+    [
+      1.003529,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000017,
+      "-"
+    ],
+    [
+      1.002789,
+      "\rUpdating module [default]...\\"
+    ],
+    [
+      1.003722,
+      "\rUpdating module [default]...|"
+    ],
+    [
+      1.004579,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000020,
+      "/"
+    ],
+    [
+      1.002618,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000009,
+      "-"
+    ],
+    [
+      1.002848,
+      "\rUpdating module [default]...\\"
+    ],
+    [
+      1.004191,
+      "\rUpdating module [default]...|"
+    ],
+    [
+      1.002655,
+      "\rUpdating module [default].../"
+    ],
+    [
+      1.002250,
+      "\rUpdating module [default]...-"
+    ],
+    [
+      1.005020,
+      "\rUpdating module [default]...\\"
+    ],
+    [
+      1.004238,
+      "\rUpdating module [default]...|"
+    ],
+    [
+      1.004098,
+      "\rUpdating module [default].../"
+    ],
+    [
+      1.004600,
+      "\rUpdating module [default]...-"
+    ],
+    [
+      1.002152,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000011,
+      "\\"
+    ],
+    [
+      1.001661,
+      "\rUpdating module [default]...|"
+    ],
+    [
+      1.005070,
+      "\rUpdating module [default].../"
+    ],
+    [
+      1.003816,
+      "\rUpdating module [default]...-"
+    ],
+    [
+      1.003992,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000006,
+      "\\"
+    ],
+    [
+      1.000472,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000009,
+      "|"
+    ],
+    [
+      1.000235,
+      "\rUpdating module [default].../"
+    ],
+    [
+      1.004282,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000040,
+      "-"
+    ],
+    [
+      1.004451,
+      "\rUpdating module [default]...\\"
+    ],
+    [
+      1.002952,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000008,
+      "|"
+    ],
+    [
+      1.003641,
+      "\rUpdating module [default].../"
+    ],
+    [
+      1.003903,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000008,
+      "-"
+    ],
+    [
+      1.004789,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000008,
+      "\\"
+    ],
+    [
+      1.002783,
+      "\rUpdating module [default]...|"
+    ],
+    [
+      1.005208,
+      "\rUpdating module [default].../"
+    ],
+    [
+      1.005009,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000011,
+      "-"
+    ],
+    [
+      1.003748,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000008,
+      "\\"
+    ],
+    [
+      1.003268,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000008,
+      "|"
+    ],
+    [
+      1.004772,
+      "\rUpdating module [default].../"
+    ],
+    [
+      1.003490,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000014,
+      "-"
+    ],
+    [
+      1.003431,
+      "\rUpdating module [default]...\\"
+    ],
+    [
+      1.004695,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000012,
+      "|"
+    ],
+    [
+      1.004234,
+      "\rUpdating module [default].../"
+    ],
+    [
+      1.003602,
+      "\rUpdating module [default]...-"
+    ],
+    [
+      1.003532,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000012,
+      "\\"
+    ],
+    [
+      1.002773,
+      "\rUpdating module [default]...|"
+    ],
+    [
+      1.004343,
+      "\rUpdating module [default].../"
+    ],
+    [
+      1.002551,
+      "\rUpdating module [default]...-"
+    ],
+    [
+      1.004285,
+      "\rUpdating module [default]...\\"
+    ],
+    [
+      1.002973,
+      "\rUpdating module [default]...|"
+    ],
+    [
+      1.002056,
+      "\rUpdating module [default].../"
+    ],
+    [
+      1.004305,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000008,
+      "-"
+    ],
+    [
+      1.002667,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000008,
+      "\\"
+    ],
+    [
+      1.004195,
+      "\rUpdating module [default]...|"
+    ],
+    [
+      1.004460,
+      "\rUpdating module [default].../"
+    ],
+    [
+      1.004545,
+      "\rUpdating module [default]...-"
+    ],
+    [
+      1.003361,
+      "\rUpdating module [default]...\\"
+    ],
+    [
+      1.004183,
+      "\rUpdating module [default]...|"
+    ],
+    [
+      1.004556,
+      "\rUpdating module [default].../"
+    ],
+    [
+      1.003896,
+      "\rUpdating module [default]...-"
+    ],
+    [
+      1.003126,
+      "\rUpdating module [default]...\\"
+    ],
+    [
+      1.003255,
+      "\rUpdating module [default]...|"
+    ],
+    [
+      1.003988,
+      "\rUpdating module [default].../"
+    ],
+    [
+      1.002547,
+      "\rUpdating module [default]...-"
+    ],
+    [
+      1.002455,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000007,
+      "\\"
+    ],
+    [
+      1.002573,
+      "\rUpdating module [default]...|"
+    ],
+    [
+      1.002782,
+      "\rUpdating module [default].../"
+    ],
+    [
+      1.002415,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000010,
+      "-"
+    ],
+    [
+      1.002416,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000010,
+      "\\"
+    ],
+    [
+      1.004882,
+      "\rUpdating module [default]...|"
+    ],
+    [
+      1.003076,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000013,
+      "/"
+    ],
+    [
+      1.000392,
+      "\rUpdating module [default]...-"
+    ],
+    [
+      1.003603,
+      "\rUpdating module [default]...\\"
+    ],
+    [
+      1.003441,
+      "\rUpdating module [default]...|"
+    ],
+    [
+      1.003642,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000008,
+      "/"
+    ],
+    [
+      1.003914,
+      "\rUpdating module [default]...-"
+    ],
+    [
+      1.004586,
+      "\rUpdating module [default]...\\"
+    ],
+    [
+      1.002460,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000011,
+      "|"
+    ],
+    [
+      1.004366,
+      "\rUpdating module [default].../"
+    ],
+    [
+      1.004279,
+      "\rUpdating module [default]...-"
+    ],
+    [
+      1.004175,
+      "\rUpdating module [default]...\\"
+    ],
+    [
+      1.001150,
+      "\rUpdating module [default]...|"
+    ],
+    [
+      1.002902,
+      "\rUpdating module [default].../"
+    ],
+    [
+      1.004110,
+      "\rUpdating module [default]...-"
+    ],
+    [
+      1.004996,
+      "\rUpdating module [default]...\\"
+    ],
+    [
+      1.002980,
+      "\rUpdating module [default]...|"
+    ],
+    [
+      1.002291,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000022,
+      "/"
+    ],
+    [
+      1.002610,
+      "\rUpdating module [default]...-"
+    ],
+    [
+      1.002887,
+      "\rUpdating module [default]...\\"
+    ],
+    [
+      1.004642,
+      "\rUpdating module [default]...|"
+    ],
+    [
+      1.004613,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000011,
+      "/"
+    ],
+    [
+      1.003701,
+      "\rUpdating module [default]...-"
+    ],
+    [
+      1.003895,
+      "\rUpdating module [default]...\\"
+    ],
+    [
+      1.002717,
+      "\rUpdating module [default]...|"
+    ],
+    [
+      1.002462,
+      "\rUpdating module [default].../"
+    ],
+    [
+      1.004063,
+      "\rUpdating module [default]...-"
+    ],
+    [
+      1.001615,
+      "\rUpdating module [default]...\\"
+    ],
+    [
+      1.001011,
+      "\rUpdating module [default]...|"
+    ],
+    [
+      1.004298,
+      "\rUpdating module [default].../"
+    ],
+    [
+      1.004381,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000008,
+      "-"
+    ],
+    [
+      1.003032,
+      "\rUpdating module [default]...\\"
+    ],
+    [
+      1.002671,
+      "\rUpdating module [default]...|"
+    ],
+    [
+      1.004528,
+      "\rUpdating module [default].../"
+    ],
+    [
+      1.002826,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000029,
+      "-"
+    ],
+    [
+      1.002038,
+      "\rUpdating module [default]...\\"
+    ],
+    [
+      1.004141,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000009,
+      "|"
+    ],
+    [
+      1.004655,
+      "\rUpdating module [default].../"
+    ],
+    [
+      1.002313,
+      "\rUpdating module [default]...-"
+    ],
+    [
+      1.003818,
+      "\rUpdating module [default]...\\"
+    ],
+    [
+      1.002664,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000010,
+      "|"
+    ],
+    [
+      1.002078,
+      "\rUpdating module [default].../"
+    ],
+    [
+      1.003892,
+      "\rUpdating module [default]...-"
+    ],
+    [
+      1.003050,
+      "\rUpdating module [default]...\\"
+    ],
+    [
+      1.002739,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000008,
+      "|"
+    ],
+    [
+      1.004375,
+      "\rUpdating module [default].../"
+    ],
+    [
+      1.004900,
+      "\rUpdating module [default]...-"
+    ],
+    [
+      1.003854,
+      "\rUpdating module [default]...\\"
+    ],
+    [
+      1.004060,
+      "\rUpdating module [default]...|"
+    ],
+    [
+      1.003114,
+      "\rUpdating module [default].../"
+    ],
+    [
+      1.004410,
+      "\rUpdating module [default]...-"
+    ],
+    [
+      1.002196,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000007,
+      "\\"
+    ],
+    [
+      1.001904,
+      "\rUpdating module [default]...|"
+    ],
+    [
+      1.001692,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000011,
+      "/"
+    ],
+    [
+      1.002887,
+      "\rUpdating module [default]...-"
+    ],
+    [
+      1.003086,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000007,
+      "\\"
+    ],
+    [
+      1.003646,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000008,
+      "|"
+    ],
+    [
+      1.003036,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000013,
+      "/"
+    ],
+    [
+      1.004229,
+      "\rUpdating module [default]...-"
+    ],
+    [
+      1.004789,
+      "\rUpdating module [default]...\\"
+    ],
+    [
+      1.004951,
+      "\rUpdating module [default]...|"
+    ],
+    [
+      1.002067,
+      "\rUpdating module [default].../"
+    ],
+    [
+      1.001282,
+      "\rUpdating module [default]...-"
+    ],
+    [
+      1.003943,
+      "\rUpdating module [default]...\\"
+    ],
+    [
+      1.002650,
+      "\rUpdating module [default]...|"
+    ],
+    [
+      1.001854,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000008,
+      "/"
+    ],
+    [
+      1.003834,
+      "\rUpdating module [default]...-"
+    ],
+    [
+      1.001689,
+      "\rUpdating module [default]...\\"
+    ],
+    [
+      1.004856,
+      "\rUpdating module [default]...|"
+    ],
+    [
+      1.004917,
+      "\rUpdating module [default].../"
+    ],
+    [
+      1.004683,
+      "\rUpdating module [default]...-"
+    ],
+    [
+      1.004792,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000011,
+      "\\"
+    ],
+    [
+      1.001958,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000007,
+      "|"
+    ],
+    [
+      1.004773,
+      "\rUpdating module [default].../"
+    ],
+    [
+      1.003028,
+      "\rUpdating module [default]...-"
+    ],
+    [
+      1.003273,
+      "\rUpdating module [default]...\\"
+    ],
+    [
+      1.005171,
+      "\rUpdating module [default]...|"
+    ],
+    [
+      1.004649,
+      "\rUpdating module [default].../"
+    ],
+    [
+      1.001861,
+      "\rUpdating module [default]...-"
+    ],
+    [
+      1.001087,
+      "\rUpdating module [default]...\\"
+    ],
+    [
+      1.004081,
+      "\rUpdating module [default]...|"
+    ],
+    [
+      1.004752,
+      "\rUpdating module [default].../"
+    ],
+    [
+      1.000437,
+      "\rUpdating module [default]...-"
+    ],
+    [
+      1.003516,
+      "\rUpdating module [default]...\\"
+    ],
+    [
+      1.000719,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000014,
+      "|"
+    ],
+    [
+      1.003501,
+      "\rUpdating module [default].../"
+    ],
+    [
+      1.002984,
+      "\rUpdating module [default]...-"
+    ],
+    [
+      1.003881,
+      "\rUpdating module [default]...\\"
+    ],
+    [
+      1.005199,
+      "\rUpdating module [default]...|"
+    ],
+    [
+      1.004410,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000009,
+      "/"
+    ],
+    [
+      1.004526,
+      "\rUpdating module [default]...-"
+    ],
+    [
+      1.001896,
+      "\rUpdating module [default]...\\"
+    ],
+    [
+      1.003567,
+      "\rUpdating module [default]...|"
+    ],
+    [
+      1.002758,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000010,
+      "/"
+    ],
+    [
+      1.002694,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000010,
+      "-"
+    ],
+    [
+      1.004069,
+      "\rUpdating module [default]...\\"
+    ],
+    [
+      1.002721,
+      "\rUpdating module [default]...|"
+    ],
+    [
+      1.001753,
+      "\rUpdating module [default].../"
+    ],
+    [
+      1.004772,
+      "\rUpdating module [default]...-"
+    ],
+    [
+      1.003497,
+      "\rUpdating module [default]...\\"
+    ],
+    [
+      1.004699,
+      "\rUpdating module [default]...|"
+    ],
+    [
+      1.001630,
+      "\rUpdating module [default].../"
+    ],
+    [
+      1.002390,
+      "\rUpdating module [default]...-"
+    ],
+    [
+      1.003985,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000010,
+      "\\"
+    ],
+    [
+      1.004830,
+      "\rUpdating module [default]...|"
+    ],
+    [
+      1.002798,
+      "\rUpdating module [default].../"
+    ],
+    [
+      1.004898,
+      "\rUpdating module [default]...-"
+    ],
+    [
+      1.004487,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000011,
+      "\\"
+    ],
+    [
+      1.003975,
+      "\rUpdating module [default]...|"
+    ],
+    [
+      1.003315,
+      "\rUpdating module [default].../"
+    ],
+    [
+      1.002908,
+      "\rUpdating module [default]...-"
+    ],
+    [
+      1.000356,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000022,
+      "\\"
+    ],
+    [
+      1.001615,
+      "\rUpdating module [default]...|"
+    ],
+    [
+      1.003851,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000009,
+      "/"
+    ],
+    [
+      1.003398,
+      "\rUpdating module [default]...-"
+    ],
+    [
+      1.003302,
+      "\rUpdating module [default]...\\"
+    ],
+    [
+      1.003973,
+      "\rUpdating module [default]...|"
+    ],
+    [
+      1.003698,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000006,
+      "/"
+    ],
+    [
+      1.001733,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000010,
+      "-"
+    ],
+    [
+      1.004650,
+      "\rUpdating module [default]...\\"
+    ],
+    [
+      1.002972,
+      "\rUpdating module [default]...|"
+    ],
+    [
+      1.000272,
+      "\rUpdating module [default].../"
+    ],
+    [
+      1.003665,
+      "\rUpdating module [default]...-"
+    ],
+    [
+      1.003189,
+      "\rUpdating module [default]...\\"
+    ],
+    [
+      1.002103,
+      "\rUpdating module [default]...|"
+    ],
+    [
+      1.002358,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000008,
+      "/"
+    ],
+    [
+      1.004770,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000011,
+      "-"
+    ],
+    [
+      1.004856,
+      "\rUpdating module [default]...\\"
+    ],
+    [
+      1.004526,
+      "\rUpdating module [default]...|"
+    ],
+    [
+      1.003258,
+      "\rUpdating module [default].../"
+    ],
+    [
+      1.002897,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000016,
+      "-"
+    ],
+    [
+      1.004968,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000009,
+      "\\"
+    ],
+    [
+      1.002609,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000076,
+      "|"
+    ],
+    [
+      1.000103,
+      "\rUpdating module [default].../"
+    ],
+    [
+      1.002578,
+      "\rUpdating module [default]...-"
+    ],
+    [
+      1.004496,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000008,
+      "\\"
+    ],
+    [
+      1.002312,
+      "\rUpdating module [default]...|"
+    ],
+    [
+      1.001177,
+      "\rUpdating module [default].../"
+    ],
+    [
+      1.004765,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000011,
+      "-"
+    ],
+    [
+      1.004491,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000016,
+      "\\"
+    ],
+    [
+      1.002094,
+      "\rUpdating module [default]...|"
+    ],
+    [
+      1.005046,
+      "\rUpdating module [default].../"
+    ],
+    [
+      1.003933,
+      "\rUpdating module [default]...-"
+    ],
+    [
+      1.001990,
+      "\rUpdating module [default]...\\"
+    ],
+    [
+      1.003754,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000030,
+      "|"
+    ],
+    [
+      1.002851,
+      "\rUpdating module [default].../"
+    ],
+    [
+      1.002003,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000009,
+      "-"
+    ],
+    [
+      1.004978,
+      "\rUpdating module [default]...\\"
+    ],
+    [
+      1.002146,
+      "\rUpdating module [default]...|"
+    ],
+    [
+      1.000599,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000016,
+      "/"
+    ],
+    [
+      1.004939,
+      "\rUpdating module [default]...-"
+    ],
+    [
+      1.004303,
+      "\rUpdating module [default]...\\"
+    ],
+    [
+      1.004402,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000011,
+      "|"
+    ],
+    [
+      1.002911,
+      "\rUpdating module [default].../"
+    ],
+    [
+      1.003318,
+      "\rUpdating module [default]...-"
+    ],
+    [
+      1.003586,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000013,
+      "\\"
+    ],
+    [
+      1.002603,
+      "\rUpdating module [default]...|"
+    ],
+    [
+      1.004435,
+      "\rUpdating module [default].../"
+    ],
+    [
+      1.003685,
+      "\rUpdating module [default]...-"
+    ],
+    [
+      1.002272,
+      "\rUpdating module [default]...\\"
+    ],
+    [
+      1.002715,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000010,
+      "|"
+    ],
+    [
+      1.003532,
+      "\rUpdating module [default].../"
+    ],
+    [
+      1.003754,
+      "\rUpdating module [default]...-"
+    ],
+    [
+      1.005186,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000020,
+      "\\"
+    ],
+    [
+      1.004469,
+      "\rUpdating module [default]...|"
+    ],
+    [
+      1.003273,
+      "\rUpdating module [default].../"
+    ],
+    [
+      1.000135,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000035,
+      "-"
+    ],
+    [
+      1.003163,
+      "\rUpdating module [default]...\\"
+    ],
+    [
+      1.004153,
+      "\rUpdating module [default]...|"
+    ],
+    [
+      1.002233,
+      "\rUpdating module [default].../"
+    ],
+    [
+      1.003463,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000006,
+      "-"
+    ],
+    [
+      1.003459,
+      "\rUpdating module [default]...\\"
+    ],
+    [
+      1.003022,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000013,
+      "|"
+    ],
+    [
+      1.005241,
+      "\rUpdating module [default].../"
+    ],
+    [
+      0.486023,
+      "^C"
+    ],
+    [
+      0.000229,
+      "\r\n\r\nCommand killed by keyboard interrupt\r\n\r\n"
+    ],
+    [
+      0.010325,
+      "\r\n"
+    ],
+    [
+      0.000121,
+      "bash-3.2$ "
+    ],
+    [
+      0.908621,
+      "\u0007"
+    ],
+    [
+      0.992232,
+      "gcloud preview app deploy app.yaml"
+    ],
+    [
+      1.911400,
+      "\r\n"
+    ],
+    [
+      1.143477,
+      "You are about to deploy the following modules:\r\n"
+    ],
+    [
+      0.000031,
+      " - sharp-technique-88621/default/20150527t110256  From: [/Users/sandeepdinesh/Dev/node-codelab-2015/app.yaml]\r\n"
+    ],
+    [
+      0.000077,
+      "Do you want to continue (Y/n)?  "
+    ],
+    [
+      1.928798,
+      "Y"
+    ],
+    [
+      0.887784,
+      "\r\n"
+    ],
+    [
+      0.000042,
+      "\r\n"
+    ],
+    [
+      5.258552,
+      "Updating module [default]..."
+    ],
+    [
+      1.002546,
+      "\rUpdating module [default].../"
+    ],
+    [
+      1.003652,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000117,
+      "-"
+    ],
+    [
+      1.000896,
+      "\rUpdating module [default]...\\"
+    ],
+    [
+      1.000126,
+      "\rUpdating module [default]...|"
+    ],
+    [
+      1.002350,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000007,
+      "/"
+    ],
+    [
+      1.003095,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000016,
+      "-"
+    ],
+    [
+      1.002031,
+      "\rUpdating module [default]...\\"
+    ],
+    [
+      0.282085,
+      "Pushing image to Google Container Registry...\r\n"
+    ],
+    [
+      0.718578,
+      "\rUpdating module [default]...|"
+    ],
+    [
+      0.885398,
+      "The push refers to a repository [gcr.io/_m_sdk/sharp-technique-88621.default.20150527t110256] (len: 1)\r\n"
+    ],
+    [
+      0.000299,
+      "Sending image list\r\n"
+    ],
+    [
+      0.117611,
+      "\rUpdating module [default].../"
+    ],
+    [
+      1.004417,
+      "\rUpdating module [default]...-"
+    ],
+    [
+      0.015029,
+      "Pushing repository gcr.io/_m_sdk/sharp-technique-88621.default.20150527t110256 (1 tags)\r\n"
+    ],
+    [
+      0.401762,
+      "Image 511136ea3c5a already pushed, skipping\r\n"
+    ],
+    [
+      0.000267,
+      "Image 794478bb53cf already pushed, skipping\r\n"
+    ],
+    [
+      0.009213,
+      "Image 11971b6377ef already pushed, skipping\r\n"
+    ],
+    [
+      0.017651,
+      "Image 541923dd11eb already pushed, skipping\r\n"
+    ],
+    [
+      0.001273,
+      "Image 5dc73f95f873 already pushed, skipping\r\n"
+    ],
+    [
+      0.390149,
+      "Image dfc1f6ebc3c8 already pushed, skipping\r\n"
+    ],
+    [
+      0.029416,
+      "Image 0e0bf317aa0b already pushed, skipping\r\n"
+    ],
+    [
+      0.007294,
+      "Image 1eecf90d499b already pushed, skipping\r\n"
+    ],
+    [
+      0.041940,
+      "Image d579dbe02fb7 already pushed, skipping\r\n"
+    ],
+    [
+      0.081282,
+      "Image 2bee9a93246e already pushed, skipping\r\n"
+    ],
+    [
+      0.009520,
+      "\rUpdating module [default]...\\"
+    ],
+    [
+      0.250832,
+      "Image b62c4c483651 already pushed, skipping\r\n"
+    ],
+    [
+      0.080323,
+      "Image e677e0e99e95 already pushed, skipping\r\n"
+    ],
+    [
+      0.000205,
+      "Image 83c14fceeef5 already pushed, skipping\r\n"
+    ],
+    [
+      0.208534,
+      "Image a1fcc65b034d already pushed, skipping\r\n"
+    ],
+    [
+      0.111234,
+      "Image b20b7361cf50 already pushed, skipping\r\n"
+    ],
+    [
+      0.350950,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000007,
+      "|"
+    ],
+    [
+      1.003137,
+      "\rUpdating module [default].../"
+    ],
+    [
+      1.004945,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000010,
+      "-"
+    ],
+    [
+      0.510294,
+      "Image 9ae8139a04e6 already pushed, skipping\r\n"
+    ],
+    [
+      0.000245,
+      "Pushing tag for rev [b20b7361cf50] on {https://gcr.io/v1/repositories/_m_sdk/sharp-technique-88621.default.20150527t110256/tags/latest}\r\n"
+    ],
+    [
+      0.494198,
+      "\rUpdating module [default]...\\"
+    ],
+    [
+      1.002472,
+      "\rUpdating module [default]...|"
+    ],
+    [
+      1.001385,
+      "\rUpdating module [default].../"
+    ],
+    [
+      1.000151,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000006,
+      "-"
+    ],
+    [
+      1.002780,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000020,
+      "\\"
+    ],
+    [
+      1.001925,
+      "\rUpdating module [default]...|"
+    ],
+    [
+      1.003010,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000007,
+      "/"
+    ],
+    [
+      1.001741,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000021,
+      "-"
+    ],
+    [
+      1.002390,
+      "\rUpdating module [default]...\\"
+    ],
+    [
+      1.004065,
+      "\rUpdating module [default]...|"
+    ],
+    [
+      1.002174,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000010,
+      "/"
+    ],
+    [
+      1.004339,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000012,
+      "-"
+    ],
+    [
+      1.002943,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000008,
+      "\\"
+    ],
+    [
+      1.004698,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000009,
+      "|"
+    ],
+    [
+      1.000873,
+      "\rUpdating module [default].../"
+    ],
+    [
+      1.004495,
+      "\rUpdating module [default]...-"
+    ],
+    [
+      1.004692,
+      "\rUpdating module [default]...\\"
+    ],
+    [
+      1.000602,
+      "\rUpdating module [default]...|"
+    ],
+    [
+      1.004208,
+      "\rUpdating module [default].../"
+    ],
+    [
+      1.003020,
+      "\rUpdating module [default]...-"
+    ],
+    [
+      1.002947,
+      "\rUpdating module [default]...\\"
+    ],
+    [
+      1.004089,
+      "\rUpdating module [default]...|"
+    ],
+    [
+      1.003501,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000011,
+      "/"
+    ],
+    [
+      1.002202,
+      "\rUpdating module [default]...-"
+    ],
+    [
+      1.003323,
+      "\rUpdating module [default]...\\"
+    ],
+    [
+      1.001600,
+      "\rUpdating module [default]...|"
+    ],
+    [
+      1.004516,
+      "\rUpdating module [default].../"
+    ],
+    [
+      1.002123,
+      "\rUpdating module [default]...-"
+    ],
+    [
+      1.003199,
+      "\rUpdating module [default]...\\"
+    ],
+    [
+      1.001856,
+      "\rUpdating module [default]...|"
+    ],
+    [
+      1.004532,
+      "\rUpdating module [default].../"
+    ],
+    [
+      1.004440,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000011,
+      "-"
+    ],
+    [
+      1.003263,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000008,
+      "\\"
+    ],
+    [
+      1.003961,
+      "\rUpdating module [default]...|"
+    ],
+    [
+      1.003711,
+      "\rUpdating module [default].../"
+    ],
+    [
+      1.005158,
+      "\rUpdating module [default]...-"
+    ],
+    [
+      1.004772,
+      "\rUpdating module [default]...\\"
+    ],
+    [
+      1.004809,
+      "\rUpdating module [default]...|"
+    ],
+    [
+      1.004037,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000010,
+      "/"
+    ],
+    [
+      1.004158,
+      "\rUpdating module [default]...-"
+    ],
+    [
+      1.002990,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000011,
+      "\\"
+    ],
+    [
+      1.003715,
+      "\rUpdating module [default]...|"
+    ],
+    [
+      1.002093,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000008,
+      "/"
+    ],
+    [
+      1.004168,
+      "\rUpdating module [default]...-"
+    ],
+    [
+      1.003176,
+      "\rUpdating module [default]...\\"
+    ],
+    [
+      1.005054,
+      "\rUpdating module [default]...|"
+    ],
+    [
+      1.002244,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000010,
+      "/"
+    ],
+    [
+      1.003453,
+      "\rUpdating module [default]...-"
+    ],
+    [
+      1.001546,
+      "\rUpdating module [default]...\\"
+    ],
+    [
+      1.001301,
+      "\rUpdating module [default]...|"
+    ],
+    [
+      1.003737,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000008,
+      "/"
+    ],
+    [
+      1.003772,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000008,
+      "-"
+    ],
+    [
+      1.003527,
+      "\rUpdating module [default]...\\"
+    ],
+    [
+      1.002265,
+      "\rUpdating module [default]...|"
+    ],
+    [
+      1.003751,
+      "\rUpdating module [default].../"
+    ],
+    [
+      1.001773,
+      "\rUpdating module [default]...-"
+    ],
+    [
+      1.004736,
+      "\rUpdating module [default]...\\"
+    ],
+    [
+      1.002846,
+      "\rUpdating module [default]...|"
+    ],
+    [
+      1.002852,
+      "\rUpdating module [default].../"
+    ],
+    [
+      1.005119,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000010,
+      "-"
+    ],
+    [
+      1.002590,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000045,
+      "\\"
+    ],
+    [
+      1.002908,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000011,
+      "|"
+    ],
+    [
+      1.003470,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000008,
+      "/"
+    ],
+    [
+      1.003839,
+      "\rUpdating module [default]...-"
+    ],
+    [
+      1.003950,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000009,
+      "\\"
+    ],
+    [
+      1.002050,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000013,
+      "|"
+    ],
+    [
+      1.004188,
+      "\rUpdating module [default].../"
+    ],
+    [
+      1.004747,
+      "\rUpdating module [default]...-"
+    ],
+    [
+      1.004567,
+      "\rUpdating module [default]...\\"
+    ],
+    [
+      1.001648,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000009,
+      "|"
+    ],
+    [
+      1.004917,
+      "\rUpdating module [default].../"
+    ],
+    [
+      1.001867,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000036,
+      "-"
+    ],
+    [
+      1.004706,
+      "\rUpdating module [default]...\\"
+    ],
+    [
+      1.003787,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000025,
+      "|"
+    ],
+    [
+      1.003958,
+      "\rUpdating module [default].../"
+    ],
+    [
+      1.001344,
+      "\rUpdating module [default]...-"
+    ],
+    [
+      1.004442,
+      "\rUpdating module [default]...\\"
+    ],
+    [
+      1.000776,
+      "\rUpdating module [default]...|"
+    ],
+    [
+      1.004488,
+      "\rUpdating module [default].../"
+    ],
+    [
+      1.004754,
+      "\rUpdating module [default]...-"
+    ],
+    [
+      1.004658,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000006,
+      "\\"
+    ],
+    [
+      1.004564,
+      "\rUpdating module [default]...|"
+    ],
+    [
+      1.000778,
+      "\rUpdating module [default].../"
+    ],
+    [
+      1.003024,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000006,
+      "-"
+    ],
+    [
+      1.001293,
+      "\rUpdating module [default]...\\"
+    ],
+    [
+      1.000496,
+      "\rUpdating module [default]...|"
+    ],
+    [
+      1.003345,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000006,
+      "/"
+    ],
+    [
+      1.004442,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000006,
+      "-"
+    ],
+    [
+      1.001026,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000007,
+      "\\"
+    ],
+    [
+      1.000099,
+      "\rUpdating module [default]...|"
+    ],
+    [
+      1.002163,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000006,
+      "/"
+    ],
+    [
+      1.002945,
+      "\rUpdating module [default]...-"
+    ],
+    [
+      1.004730,
+      "\rUpdating module [default]...\\"
+    ],
+    [
+      1.004871,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000008,
+      "|"
+    ],
+    [
+      1.004218,
+      "\rUpdating module [default].../"
+    ],
+    [
+      1.001749,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000007,
+      "-"
+    ],
+    [
+      1.004035,
+      "\rUpdating module [default]...\\"
+    ],
+    [
+      1.003280,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000007,
+      "|"
+    ],
+    [
+      1.001514,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000007,
+      "/"
+    ],
+    [
+      1.003120,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000013,
+      "-"
+    ],
+    [
+      1.003997,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000007,
+      "\\"
+    ],
+    [
+      1.003520,
+      "\rUpdating module [default]...|"
+    ],
+    [
+      1.004889,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000009,
+      "/"
+    ],
+    [
+      1.005060,
+      "\rUpdating module [default]...-"
+    ],
+    [
+      1.000723,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000007,
+      "\\"
+    ],
+    [
+      1.002434,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000010,
+      "|"
+    ],
+    [
+      1.000758,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000008,
+      "/"
+    ],
+    [
+      1.000377,
+      "\rUpdating module [default]...-"
+    ],
+    [
+      1.002843,
+      "\rUpdating module [default]...\\"
+    ],
+    [
+      1.000736,
+      "\rUpdating module [default]...|"
+    ],
+    [
+      1.004286,
+      "\rUpdating module [default].../"
+    ],
+    [
+      1.004648,
+      "\rUpdating module [default]...-"
+    ],
+    [
+      1.000287,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000013,
+      "\\"
+    ],
+    [
+      1.003570,
+      "\rUpdating module [default]...|"
+    ],
+    [
+      1.005191,
+      "\rUpdating module [default].../"
+    ],
+    [
+      1.003968,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000010,
+      "-"
+    ],
+    [
+      1.004493,
+      "\rUpdating module [default]...\\"
+    ],
+    [
+      1.005030,
+      "\rUpdating module [default]...|"
+    ],
+    [
+      1.000211,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000011,
+      "/"
+    ],
+    [
+      1.004174,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000008,
+      "-"
+    ],
+    [
+      1.004858,
+      "\rUpdating module [default]...\\"
+    ],
+    [
+      1.005046,
+      "\rUpdating module [default]...|"
+    ],
+    [
+      1.002704,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000008,
+      "/"
+    ],
+    [
+      1.004815,
+      "\rUpdating module [default]...-"
+    ],
+    [
+      1.001769,
+      "\rUpdating module [default]...\\"
+    ],
+    [
+      1.004182,
+      "\rUpdating module [default]...|"
+    ],
+    [
+      1.000167,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000011,
+      "/"
+    ],
+    [
+      1.003971,
+      "\rUpdating module [default]...-"
+    ],
+    [
+      1.004895,
+      "\rUpdating module [default]...\\"
+    ],
+    [
+      1.000418,
+      "\rUpdating module [default]...|"
+    ],
+    [
+      1.001392,
+      "\rUpdating module [default]..."
+    ],
+    [
+      0.000009,
+      "/"
+    ],
+    [
+      1.003411,
+      "\rUpdating module [default]...-"
+    ],
+    [
+      1.001939,
+      "\rUpdating module [default]...\\"
+    ],
+    [
+      1.004390,
+      "\rUpdating module [default]...|"
+    ],
+    [
+      1.000696,
+      "\rUpdating module [default].../"
+    ],
+    [
+      1.001370,
+      "\rUpdating module [default]...-"
+    ],
+    [
+      0.881272,
+      "^C"
+    ],
+    [
+      0.000256,
+      "\r\n\r\nCommand killed by keyboard interrupt\r\n\r\n"
+    ],
+    [
+      0.008310,
+      "\r\n"
+    ],
+    [
+      0.000077,
+      "bash-3.2$ "
+    ],
+    [
+      1.429543,
+      "e"
+    ],
+    [
+      0.199980,
+      "x"
+    ],
+    [
+      0.087754,
+      "i"
+    ],
+    [
+      0.152079,
+      "t"
+    ],
+    [
+      0.127892,
+      "\r\n"
+    ],
+    [
+      0.000123,
+      "exit\r\n"
+    ]
+  ]
+}
