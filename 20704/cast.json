@@ -1,0 +1,502 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 24,
+  "duration": 45.891751,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.211696,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000076,
+      "\u001b]2;eddy@eddy-arch-laptop: ~/Documents/ProgrammingLanguage/hw1\u0007"
+    ],
+    [
+      0.000003,
+      "\u001b]1;..gLanguage/hw1\u0007"
+    ],
+    [
+      0.183477,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[0;38;5;231;48;5;31;1m eddy \u001b[0;38;5;31;48;5;240;22m \u001b[0;38;5;250;48;5;240m~ \u001b[0;38;5;245;48;5;240;22m \u001b[0;38;5;250;48;5;240mDocuments \u001b[0;38;5;245;48;5;240;22m \u001b[0;38;5;250;48;5;240mProgrammingLanguage \u001b[0;38;5;245;48;5;240;22m \u001b[0;38;5;252;48;5;240;1mhw1 \u001b[0;38;5;240;49;22m \u001b[0m"
+    ],
+    [
+      0.000011,
+      "\u001b[K\u001b[27C\u001b[0m\u001b[27D"
+    ],
+    [
+      0.000084,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.768496,
+      "c"
+    ],
+    [
+      0.068756,
+      "\u0008ca"
+    ],
+    [
+      0.277348,
+      "t"
+    ],
+    [
+      0.236731,
+      " "
+    ],
+    [
+      0.292793,
+      "r"
+    ],
+    [
+      0.176368,
+      "u"
+    ],
+    [
+      0.100726,
+      "n"
+    ],
+    [
+      0.166565,
+      "n"
+    ],
+    [
+      0.557821,
+      "er.sh\u001b[1m \u001b[0m"
+    ],
+    [
+      0.596801,
+      "\u0008\u001b[0m \u0008"
+    ],
+    [
+      0.000003,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000059,
+      "\r\r\n"
+    ],
+    [
+      0.000661,
+      "\u001b]2;cat runner.sh\u0007"
+    ],
+    [
+      0.000002,
+      "\u001b]1;cat\u0007"
+    ],
+    [
+      0.000791,
+      "#!/bin/sh\r\necho [PROCESS]  http://www.atmovies.com.tw/showtime/theater_t06608_a06.html\r\n./showtime.pl http://www.atmovies.com.tw/showtime/theater_t06608_a06.html\r\necho [PROCESS]  http://www.atmovies.com.tw/showtime/theater_t06607_a06.html\r\n./showtime.pl http://www.atmovies.com.tw/showtime/theater_t06607_a06.html\r\necho [PROCESS]  http://www.atmovies.com.tw/showtime/theater_t06609_a06.html\r\n./showtime.pl http://www.atmovies.com.tw/showtime/theater_t06609_a06.html\r\n"
+    ],
+    [
+      0.000087,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000061,
+      "\u001b]2;eddy@eddy-arch-laptop: ~/Documents/ProgrammingLanguage/hw1\u0007"
+    ],
+    [
+      0.000002,
+      "\u001b]1;..gLanguage/hw1\u0007"
+    ],
+    [
+      0.187962,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[0;38;5;231;48;5;31;1m eddy \u001b[0;38;5;31;48;5;240;22m \u001b[0;38;5;250;48;5;240m~ \u001b[0;38;5;245;48;5;240;22m \u001b[0;38;5;250;48;5;240mDocuments \u001b[0;38;5;245;48;5;240;22m \u001b[0;38;5;250;48;5;240mProgrammingLanguage \u001b[0;38;5;245;48;5;240;22m \u001b[0;38;5;252;48;5;240;1mhw1 \u001b[0;38;5;240;49;22m \u001b[0m"
+    ],
+    [
+      0.000014,
+      "\u001b[K\u001b[27C\u001b[0m\u001b[27D"
+    ],
+    [
+      0.000079,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.731133,
+      "c"
+    ],
+    [
+      0.142711,
+      "\u0008ca"
+    ],
+    [
+      0.184935,
+      "t"
+    ],
+    [
+      0.319289,
+      " "
+    ],
+    [
+      0.522748,
+      "."
+    ],
+    [
+      0.196527,
+      "p"
+    ],
+    [
+      0.075643,
+      "l"
+    ],
+    [
+      0.275629,
+      "\u0008\u0008\u0008showtime.pl\u001b[1m \u001b[0m"
+    ],
+    [
+      1.655582,
+      "\u0008\u001b[0m|"
+    ],
+    [
+      0.665360,
+      " "
+    ],
+    [
+      0.242041,
+      "l"
+    ],
+    [
+      0.151336,
+      "e"
+    ],
+    [
+      0.131069,
+      "s"
+    ],
+    [
+      0.176423,
+      "s"
+    ],
+    [
+      0.231893,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000013,
+      "\r\r\n"
+    ],
+    [
+      0.000651,
+      "\u001b]2;cat showtime.pl | less -F\u0007\u001b]1;cat\u0007"
+    ],
+    [
+      0.001121,
+      "\u001b[?1049h\u001b[?1h\u001b=\r#!/bin/perl\u001b[m\r\nuse File::Fetch;\u001b[m\r\n\u001b[m\r\nif($#ARGV != 0){\u001b[m\r\n    print \"usage: $0 URL\\n\";\u001b[m\r\n    exit 0;\u001b[m\r\n}\u001b[m\r\n\u001b[m\r\nmy $ff = File::Fetch-\u003enew(uri =\u003e $ARGV[0]);\u001b[m\r\nmy $where = $ff-\u003efetch() or die $ff-\u003eerror();\u001b[m\r\n\u001b[m\r\nopen(FILE, \"\u003c\", $where) or die exit 1;\u001b[m\r\nmy @lines = \u003cFILE\u003e;\u001b[m\r\nclose(FILE);\u001b[m\r\n\u001b[m\r\nmy $content = join('',@lines);\u001b[m\r\n\u001b[m\r\nwhile($content =~ m/\u001b[m\r\n    \u003cdiv\\s class=\"showtime_box\"\u003e\\s*\u001b[m\r\n      \u003cdiv\\s class=\"film_title\"\u003e\\s*\u001b[m\r\n        (?:\u003cimg[^\u003e]*\u003e)*(?:\u003c\\/img\u003e)*\\s*\u001b[m\r\n        \u003ca[^\u003e]*\u003e([^\u003c]*)\u003c\\/a\u003e\\s*\u001b[m\r\n      \u003c\\/div\u003e\\s*\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      1.576289,
+      "\r\u001b[K      \u003cdiv\\s class=\"showtime_poster\"\u003e\\s*\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.630049,
+      "\r\u001b[K        \u003ca[^\u003e]*\u003e\\s*\u003cimg[^\u003e]*\u003e\\s*\u003c\\/a\u003e\\s*(?:\u003cbr\u003e)*\\s*(?:\u003c\\/br\u003e)*\\s*\u003cimg[^\u003e]*\u003e\\s*(\u001b[m \u0008:\u001b[K"
+    ],
+    [
+      0.312651,
+      "\r\u001b[K?:\u003c\\/img\u003e)*[^\u003c]*\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.242181,
+      "\r\u001b[K      \u003c\\/div\u003e\\s*\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.212041,
+      "\r\u001b[K      \u003cdiv[^\u003e]*\u003e\\s*\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.216875,
+      "\r\u001b[K        \u003cdiv[^\u003e]*\u003e\\s*\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.206458,
+      "\r\u001b[K          \u003cdiv[^\u003e]*\u003e\\s*(?:\u003cfont[^\u003e]*\u003e)*([^\u003c]*)*(?:\u003c\\/font\u003e)*\\s*\u003c\\/div\u003e\\s*\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.227243,
+      "\r\u001b[K          (?:(?:\u003cul\u003e)|(?:\u003cUL\u003e))\\s*\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.206808,
+      "\r\u001b[K            ((?:\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.221864,
+      "\r\u001b[K              (?:(?:\u003cli\u003e)|(?:\u003cLI\u003e))\\s*\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.221888,
+      "\r\u001b[K                (?:\u003ca[^\u003e]*\u003e)*\\s*\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.181504,
+      "\r\u001b[K                  [^\u003c]*\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.211858,
+      "\r\u001b[K                  (?:\u003cfont[^\u003e]*\u003e[^\u003e]*\u003e)*\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.221892,
+      "\r\u001b[K                  [^\u003c]*\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.211798,
+      "\r\u001b[K                (?:\u003c\\/a\u003e)*\\s*\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.206808,
+      "\r\u001b[K              (?:(?:\u003c\\/li\u003e)|(?:\u003c\\/LI\u003e))\\s*\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.211737,
+      "\r\u001b[K            )*)\\s*\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.216857,
+      "\r\u001b[K          (?:(?:\u003c\\/ul\u003e)|(?:\u003c\\/UL\u003e))\\s*\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.186704,
+      "\r\u001b[K    /sxgi){\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.201613,
+      "\r\u001b[K    print \"$1\\n\";\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.221927,
+      "\r\u001b[K        print \"$2\\n\";\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.226716,
+      "\r\u001b[K    my $time = $3;\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.201817,
+      "\r\u001b[K    while($time =~ m/\u003cLI\u003e(?:\u003ca[^\u003e]*\u003e)*([^\u003c\u0026]*)([^\u003c]*)(?:\u003cfont[^\u003e]*\u003e[^\u003e]*\u003e)*[^\u003c]*\u001b[m \u0008:\u001b[K"
+    ],
+    [
+      0.211718,
+      "\r\u001b[K(?:\u003c\\/a\u003e)*\\s*\u003c\\/LI\u003e/ig){\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.211947,
+      "\r\u001b[K        $t = $1;\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.232087,
+      "\r\u001b[K        $t =~ s/^\\s+|\\s+$//g;\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.181443,
+      "\r\u001b[K        print \"$t\\n\";\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.211882,
+      "\r\u001b[K    }\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.221853,
+      "\r\u001b[K    print \"\\n\";\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.221849,
+      "\r\u001b[K}\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.221780,
+      "\r\u001b[K\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.231981,
+      "\r\u001b[Kexit 0;\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.264191,
+      "\r\u001b[K\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.201705,
+      "\r\u001b[K\u0007\r\u001b[K\u001b[7m(END)\u001b[27m\u001b[K"
+    ],
+    [
+      0.250602,
+      "\r\u001b[K\u0007\r\u001b[K\u001b[7m(END)\u001b[27m\u001b[K"
+    ],
+    [
+      1.325990,
+      "\r\u001b[K\u001b[?1l\u001b\u003e\u001b[?1049l"
+    ],
+    [
+      0.000379,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r\u001b]2;eddy@eddy-arch-laptop: ~/Documents/ProgrammingLanguage/hw1\u0007\u001b]1;..gLanguage/hw1\u0007"
+    ],
+    [
+      0.183171,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[0;38;5;231;48;5;31;1m eddy \u001b[0;38;5;31;48;5;240;22m \u001b[0;38;5;250;48;5;240m~ \u001b[0;38;5;245;48;5;240;22m \u001b[0;38;5;250;48;5;240mDocuments \u001b[0;38;5;245;48;5;240;22m \u001b[0;38;5;250;48;5;240mProgrammingLanguage \u001b[0;38;5;245;48;5;240;22m \u001b[0;38;5;252;48;5;240;1mhw1 \u001b[0;38;5;240;49;22m \u001b[0m\u001b[K\u001b[27C\u001b[0m\u001b[27D\u001b[?1h\u001b="
+    ],
+    [
+      2.195860,
+      "."
+    ],
+    [
+      0.085717,
+      "\u0008./"
+    ],
+    [
+      0.665586,
+      "r"
+    ],
+    [
+      0.100638,
+      "u"
+    ],
+    [
+      0.162419,
+      "nner.sh\u001b[1m \u001b[0m"
+    ],
+    [
+      1.350484,
+      "\u0008\u001b[0m|"
+    ],
+    [
+      0.352706,
+      " "
+    ],
+    [
+      0.242790,
+      "l"
+    ],
+    [
+      0.151319,
+      "e"
+    ],
+    [
+      0.180692,
+      "s"
+    ],
+    [
+      0.186423,
+      "s"
+    ],
+    [
+      0.274057,
+      "\u001b[?1l\u001b\u003e\r\r\n"
+    ],
+    [
+      0.000939,
+      "\u001b]2;./runner.sh | less -F\u0007\u001b]1;./runner.sh|\u0007"
+    ],
+    [
+      0.002066,
+      "\u001b[?1049h\u001b[?1h\u001b=\r"
+    ],
+    [
+      0.002769,
+      "[PROCESS] http://www.atmovies.com.tw/showtime/theater_t06608_a06.html\u001b[m\r\n"
+    ],
+    [
+      0.587840,
+      "明日世界\u001b[m\r\n\u001b[m\r\n10：30\u001b[m\r\n13：00\u001b[m\r\n15：30\u001b[m\r\n18：00\u001b[m\r\n20：30\u001b[m\r\n23：00\u001b[m\r\n\u001b[m\r\n明日世界\u001b[m\r\n\u001b[m\r\n11：30\u001b[m\r\n14：00\u001b[m\r\n16：30\u001b[m\r\n19：00\u001b[m\r\n21：30\u001b[m\r\n00：00\u001b[m\r\n\u001b[m\r\n麻辣賤諜\u001b[m\r\n\u001b[m\r\n10：40\u001b[m\r\n12：50\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      1.950532,
+      "\r\u001b[K"
+    ],
+    [
+      0.000042,
+      "14：10\u001b[m\r\n15：00\u001b[m\r\n16：20\u001b[m\r\n17：10\u001b[m\r\n18：30\u001b[m\r\n19：20\u001b[m\r\n\u001b[m\r\n麻辣賤諜\u001b[m\r\n\u001b[m\r\n20：40\u001b[m\r\n21：30\u001b[m\r\n23：00\u001b[m\r\n23：40\u001b[m\r\n\u001b[m\r\n歌喉讚2\u001b[m\r\n\u001b[m\r\n10：20\u001b[m\r\n11：30\u001b[m\r\n12：30\u001b[m\r\n13：40\u001b[m\r\n14：40\u001b[m\r\n15：50\u001b[m\r\n16：50\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      1.104953,
+      "\r\u001b[K18：00\u001b[m\r\n19：00\u001b[m\r\n\u001b[m\r\n歌喉讚2\u001b[m\r\n\u001b[m\r\n20：10\u001b[m\r\n21：10\u001b[m\r\n22：20\u001b[m\r\n23：20\u001b[m\r\n\u001b[m\r\n瘋狂麥斯：憤怒道\u001b[m\r\n\u001b[m\r\n10：50\u001b[m\r\n13：10\u001b[m\r\n14：20\u001b[m\r\n15：30\u001b[m\r\n16：40\u001b[m\r\n17：50\u001b[m\r\n19：00\u001b[m\r\n20：10\u001b[m\r\n\u001b[m\r\n瘋狂麥斯：憤怒道\u001b[m\r\n\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      1.173924,
+      "\r\u001b[K21：20\u001b[m\r\n22：30\u001b[m\r\n23：40\u001b[m\r\n\u001b[m\r\n缺角一族\u001b[m\r\n\u001b[m\r\n12：40\u001b[m\r\n\u001b[m\r\n復仇者聯盟2：奧創紀元\u001b[m\r\n\u001b[m\r\n13：00\u001b[m\r\n14：40\u001b[m\r\n15：40\u001b[m\r\n18：20\u001b[m\r\n20：00\u001b[m\r\n21：00\u001b[m\r\n23：40\u001b[m\r\n\u001b[m\r\n玩命關頭7\u001b[m\r\n\u001b[m\r\n17：20\u001b[m\r\n22：40\u001b[m\r\n\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      1.154782,
+      "\r\u001b[K明日世界\u001b[m\r\n\u001b[m\r\n14：40\u001b[m\r\n17：10\u001b[m\r\n19：40\u001b[m\r\n22：10\u001b[m\r\n\u001b[m\r\n麻辣賤諜\u001b[m\r\n\u001b[m\r\n13：30\u001b[m\r\n15：40\u001b[m\r\n17：50\u001b[m\r\n20：00\u001b[m\r\n22：10\u001b[m\r\n\u001b[m\r\n[PROCESS] http://www.atmovies.com.tw/showtime/theater_t06607_a06.html\u001b[m\r\n明日世界\u001b[m\r\n\u001b[m\r\n10：00\u001b[m\r\n12：20\u001b[m\r\n14：40\u001b[m\r\n15：50\u001b[m\r\n17：00\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      1.083926,
+      "\r\u001b[K18：10\u001b[m\r\n19：20\u001b[m\r\n21：40\u001b[m\r\n00：00\u001b[m\r\n\u001b[m\r\n麻辣賤諜\u001b[m\r\n\u001b[m\r\n11：40\u001b[m\r\n13：15\u001b[m\r\n14：25\u001b[m\r\n16：55\u001b[m\r\n19：25\u001b[m\r\n20：30\u001b[m\r\n21：55\u001b[m\r\n00：25\u001b[m\r\n\u001b[m\r\n誰說軍中沒有鬼\u001b[m\r\n\u001b[m\r\n14：30\u001b[m\r\n18：25\u001b[m\r\n22：40\u001b[m\r\n\u001b[m\r\n歌喉讚2\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      1.103857,
+      "\r\u001b[K\u001b[m\r\n10：00\u001b[m\r\n12：15\u001b[m\r\n13：25\u001b[m\r\n14：35\u001b[m\r\n15：40\u001b[m\r\n16：50\u001b[m\r\n19：05\u001b[m\r\n21：20\u001b[m\r\n22：25\u001b[m\r\n23：35\u001b[m\r\n\u001b[m\r\n瘋狂麥斯：憤怒道\u001b[m\r\n\u001b[m\r\n10：20\u001b[m\r\n12：40\u001b[m\r\n15：00\u001b[m\r\n18：20\u001b[m\r\n19：40\u001b[m\r\n22：00\u001b[m\r\n00：20\u001b[m\r\n\u001b[m\r\n復仇者聯盟2：奧創紀元\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      1.074012,
+      "\r\u001b[K\u001b[m\r\n10：35\u001b[m\r\n18：00\u001b[m\r\n20：40\u001b[m\r\n23：20\u001b[m\r\n\u001b[m\r\n要聽神明的話\u001b[m\r\n\u001b[m\r\n15：45\u001b[m\r\n17：55\u001b[m\r\n20：10\u001b[m\r\n23：00\u001b[m\r\n\u001b[m\r\n玩命關頭7\u001b[m\r\n\u001b[m\r\n13：00\u001b[m\r\n20：05\u001b[m\r\n00：20\u001b[m\r\n\u001b[m\r\n寄生獸：完結篇\u001b[m\r\n\u001b[m\r\n12：15\u001b[m\r\n16：10\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      1.083989,
+      "\r\u001b[K\u001b[m\r\n總統遊戲\u001b[m\r\n\u001b[m\r\n11：35\u001b[m\r\n\u001b[m\r\n辣味雙拼\u001b[m\r\n\u001b[m\r\n09：50\u001b[m\r\n\u001b[m\r\n時空永恆的愛戀\u001b[m\r\n\u001b[m\r\n10：40\u001b[m\r\n\u001b[m\r\n缺角一族\u001b[m\r\n\u001b[m\r\n10：10\u001b[m\r\n\u001b[m\r\n[PROCESS] http://www.atmovies.com.tw/showtime/theater_t06609_a06.html\u001b[m\r\n誰說軍中沒有鬼\u001b[m\r\n\u001b[m\r\n12：50\u001b[m\r\n14：35\u001b[m\r\n19：10\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      1.038413,
+      "\r\u001b[K"
+    ],
+    [
+      0.000029,
+      "20：55\u001b[m\r\n22：40\u001b[m\r\n\u001b[m\r\n明日世界\u001b[m\r\n\u001b[m\r\n11：20\u001b[m\r\n13：55\u001b[m\r\n16：30\u001b[m\r\n19：05\u001b[m\r\n21：40\u001b[m\r\n\u001b[m\r\n要聽神明的話\u001b[m\r\n\u001b[m\r\n10：35\u001b[m\r\n15：50\u001b[m\r\n18：10\u001b[m\r\n20：30\u001b[m\r\n\u001b[m\r\n歌喉讚2\u001b[m\r\n\u001b[m\r\n10：00\u001b[m\r\n11：25\u001b[m\r\n12：20\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.962767,
+      "\r\u001b[K"
+    ],
+    [
+      0.000141,
+      "13：45\u001b[m\r\n14：40\u001b[m\r\n17：00\u001b[m\r\n18：25\u001b[m\r\n19：20\u001b[m\r\n20：45\u001b[m\r\n21：45\u001b[m\r\n23：05\u001b[m\r\n\u001b[m\r\n瘋狂麥斯：憤怒道\u001b[m\r\n\u001b[m\r\n10：40\u001b[m\r\n13：05\u001b[m\r\n15：30\u001b[m\r\n20：20\u001b[m\r\n22：45\u001b[m\r\n\u001b[m\r\n麻辣賤諜\u001b[m\r\n\u001b[m\r\n10：15\u001b[m\r\n11：30\u001b[m\r\n12：35\u001b[m\r\n13：50\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.838448,
+      "\r\u001b[K"
+    ],
+    [
+      0.000031,
+      "15：05\u001b[m\r\n16：15\u001b[m\r\n17：30\u001b[m\r\n18：40\u001b[m\r\n19：55\u001b[m\r\n21：05\u001b[m\r\n22：20\u001b[m\r\n23：30\u001b[m\r\n\u001b[m\r\n寄生獸：完結篇\u001b[m\r\n\u001b[m\r\n17：55\u001b[m\r\n\u001b[m\r\n時空永恆的愛戀\u001b[m\r\n\u001b[m\r\n16：10\u001b[m\r\n\u001b[m\r\n5月一號\u001b[m\r\n\u001b[m\r\n10：30\u001b[m\r\n\u001b[m\r\n復仇者聯盟2：奧創紀元\u001b[m\r\n\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.880532,
+      "\r\u001b[K"
+    ],
+    [
+      0.000005,
+      "13：00\u001b[m\r\n16：25\u001b[m\r\n22：50\u001b[m\r\n\u001b[m\r\n明日世界\u001b[m\r\n\u001b[m\r\n10：05\u001b[m\r\n12：40\u001b[m\r\n15：15\u001b[m\r\n17：50\u001b[m\r\n20：25\u001b[m\r\n23：00\u001b[m\r\n\u001b[m\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[7m(END)\u001b[27m\u001b[K"
+    ],
+    [
+      1.164428,
+      "\r\u001b[K\u0007\r\u001b[K\u001b[7m(END)\u001b[27m\u001b[K"
+    ],
+    [
+      0.579838,
+      "\r\u001b[K\u001b[?1l\u001b\u003e\u001b[?1049l"
+    ],
+    [
+      0.000344,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r\u001b]2;eddy@eddy-arch-laptop: ~/Documents/ProgrammingLanguage/hw1\u0007\u001b]1;..gLanguage/hw1\u0007"
+    ],
+    [
+      0.188239,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[0;38;5;231;48;5;31;1m eddy \u001b[0;38;5;31;48;5;240;22m \u001b[0;38;5;250;48;5;240m~ \u001b[0;38;5;245;48;5;240;22m \u001b[0;38;5;250;48;5;240mDocuments \u001b[0;38;5;245;48;5;240;22m \u001b[0;38;5;250;48;5;240mProgrammingLanguage \u001b[0;38;5;245;48;5;240;22m \u001b[0;38;5;252;48;5;240;1mhw1 \u001b[0;38;5;240;49;22m \u001b[0m\u001b[K\u001b[27C\u001b[0m\u001b[27D\u001b[?1h\u001b="
+    ],
+    [
+      1.486409,
+      "\r\r\n"
+    ]
+  ]
+}
