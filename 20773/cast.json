@@ -1,0 +1,482 @@
+{
+  "version": 1,
+  "width": 238,
+  "height": 59,
+  "duration": 42.408582,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "screen-256color",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      2.515927,
+      "\u001b[1m\u001b[3m%\u001b[23m\u001b[1m\u001b[0m                                                                                                                                                                                                                                             \r \r"
+    ],
+    [
+      0.000518,
+      "\u001bk..ata_collector\u001b\\"
+    ],
+    [
+      0.511413,
+      "\r\u001b[0m\u001b[23m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m\u001b[39m MrD@fringe \u001b[44m\u001b[30m⮀\u001b[30m ~/Inzpiral/frogmi/data_collector \u001b[43m\u001b[34m⮀\u001b[30m ⭠ develop* \u001b[49m\u001b[33m⮀\u001b[39m "
+    ],
+    [
+      0.000028,
+      "\u001b[K"
+    ],
+    [
+      0.000165,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.151639,
+      "b"
+    ],
+    [
+      0.095066,
+      "\u0008bu"
+    ],
+    [
+      0.123598,
+      "n"
+    ],
+    [
+      0.112295,
+      "d"
+    ],
+    [
+      0.101156,
+      "l"
+    ],
+    [
+      0.135153,
+      "e"
+    ],
+    [
+      0.127855,
+      " "
+    ],
+    [
+      0.097409,
+      "e"
+    ],
+    [
+      0.281176,
+      "x"
+    ],
+    [
+      0.247125,
+      "e"
+    ],
+    [
+      0.315088,
+      "c"
+    ],
+    [
+      0.258682,
+      " "
+    ],
+    [
+      0.123962,
+      "c"
+    ],
+    [
+      0.090001,
+      "a"
+    ],
+    [
+      0.078742,
+      "p"
+    ],
+    [
+      0.247180,
+      " "
+    ],
+    [
+      0.079664,
+      "s"
+    ],
+    [
+      0.179272,
+      "t"
+    ],
+    [
+      0.056303,
+      "a"
+    ],
+    [
+      0.247833,
+      "g"
+    ],
+    [
+      0.101108,
+      "i"
+    ],
+    [
+      0.123637,
+      "n"
+    ],
+    [
+      0.101273,
+      "g"
+    ],
+    [
+      0.157456,
+      " "
+    ],
+    [
+      0.180013,
+      "d"
+    ],
+    [
+      0.089969,
+      "e"
+    ],
+    [
+      0.067496,
+      "p"
+    ],
+    [
+      0.079013,
+      "l"
+    ],
+    [
+      0.123564,
+      "o"
+    ],
+    [
+      0.393527,
+      "t"
+    ],
+    [
+      0.618972,
+      "\u0008 \u0008"
+    ],
+    [
+      0.269955,
+      "y"
+    ],
+    [
+      0.213762,
+      " "
+    ],
+    [
+      0.528750,
+      "B"
+    ],
+    [
+      0.112504,
+      "R"
+    ],
+    [
+      0.201984,
+      "A"
+    ],
+    [
+      0.169203,
+      "N"
+    ],
+    [
+      0.191373,
+      "C"
+    ],
+    [
+      0.202452,
+      "H"
+    ],
+    [
+      0.709549,
+      "="
+    ],
+    [
+      0.370278,
+      "d"
+    ],
+    [
+      0.079000,
+      "e"
+    ],
+    [
+      0.213625,
+      "v"
+    ],
+    [
+      0.066996,
+      "e"
+    ],
+    [
+      0.169103,
+      "l"
+    ],
+    [
+      0.596428,
+      "o"
+    ],
+    [
+      0.168503,
+      "p"
+    ],
+    [
+      0.439185,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000080,
+      "\r\r\n"
+    ],
+    [
+      0.001637,
+      "\u001bkbundle\u001b\\"
+    ],
+    [
+      3.988410,
+      "There was a problem tracking statistics, please report to https://github.com/capistrano/stats\r\n"
+    ],
+    [
+      0.002228,
+      "\u001b[0;34;49mINFO\u001b[0m [\u001b[0;32;49mc253830d\u001b[0m] Running \u001b[1;33;49m/usr/bin/env mkdir -p /tmp/data_collector/\u001b[0m as \u001b[0;34;49mdeployer\u001b[0m@\u001b[0;34;49mdata-collector.neo.staging.frogmi.com\u001b[0m\r\n"
+    ],
+    [
+      0.275827,
+      "\u001b[0;34;49mINFO\u001b[0m [\u001b[0;32;49mc253830d\u001b[0m] Finished in 0.275 seconds with exit status 0 (\u001b[1;32;49msuccessful\u001b[0m).\r\n"
+    ],
+    [
+      0.404073,
+      "\u001b[0;34;49mINFO\u001b[0m Uploading /tmp/data_collector/git-ssh.sh 100.0%\r\n"
+    ],
+    [
+      0.438791,
+      "\u001b[0;34;49mINFO\u001b[0m [\u001b[0;32;49m3cc31664\u001b[0m] Running \u001b[1;33;49m/usr/bin/env chmod +x /tmp/data_collector/git-ssh.sh\u001b[0m as \u001b[0;34;49mdeployer\u001b[0m@\u001b[0;34;49mdata-collector.neo.staging.frogmi.com\u001b[0m\r\n"
+    ],
+    [
+      0.273267,
+      "\u001b[0;34;49mINFO\u001b[0m [\u001b[0;32;49m3cc31664\u001b[0m] Finished in 0.273 seconds with exit status 0 (\u001b[1;32;49msuccessful\u001b[0m).\r\n"
+    ],
+    [
+      0.001570,
+      "\u001b[0;34;49mINFO\u001b[0m [\u001b[0;32;49m2d376097\u001b[0m] Running \u001b[1;33;49m/usr/bin/env git ls-remote --heads git@github.com:neoFrogmi/data_collector.git\u001b[0m as \u001b[0;34;49mdeployer\u001b[0m@\u001b[0;34;49mdata-collector.neo.staging.frogmi.com\u001b[0m\r\n"
+    ],
+    [
+      0.845274,
+      "\u001b[0;34;49mINFO\u001b[0m [\u001b[0;32;49m2d376097\u001b[0m] Finished in 0.845 seconds with exit status 0 (\u001b[1;32;49msuccessful\u001b[0m).\r\n"
+    ],
+    [
+      0.002342,
+      "\u001b[0;34;49mINFO\u001b[0m [\u001b[0;32;49m049cf118\u001b[0m] Running \u001b[1;33;49m/usr/bin/env mkdir -p /home/deployer/app/data_collector/shared /home/deployer/app/data_collector/releases\u001b[0m as \u001b[0;34;49mdeployer\u001b[0m@\u001b[0;34;49mdata-collector.neo.staging.frogmi.com\u001b[0m\r\n"
+    ],
+    [
+      0.272370,
+      "\u001b[0;34;49mINFO\u001b[0m [\u001b[0;32;49m049cf118\u001b[0m] Finished in 0.272 seconds with exit status 0 (\u001b[1;32;49msuccessful\u001b[0m).\r\n"
+    ],
+    [
+      0.002226,
+      "\u001b[0;34;49mINFO\u001b[0m [\u001b[0;32;49ma2b89ced\u001b[0m] Running \u001b[1;33;49m/usr/bin/env mkdir -p /home/deployer/app/data_collector/shared/bin /home/deployer/app/data_collector/shared/log /home/deployer/app/data_collector/shared/tmp/pids /home/deployer/app/data_collector/shared/tmp/cache /home/deployer/app/data_collector/shared/tmp/sockets /home/deployer/app/data_collector/shared/vendor/bundle /home/deployer/app/data_collector/shared/public/system\u001b[0m as \u001b[0;34;49mdeployer\u001b[0m@\u001b[0;34;49mdata-collector.neo.staging.frogmi."
+    ],
+    [
+      0.000013,
+      "com\u001b[0m\r\n"
+    ],
+    [
+      0.270951,
+      "\u001b[0;34;49mINFO\u001b[0m [\u001b[0;32;49ma2b89ced\u001b[0m] Finished in 0.270 seconds with exit status 0 (\u001b[1;32;49msuccessful\u001b[0m).\r\n"
+    ],
+    [
+      0.816353,
+      "\u001b[0;34;49mINFO\u001b[0m [\u001b[0;32;49mceebb340\u001b[0m] Running \u001b[1;33;49m/usr/bin/env sudo /usr/bin/monit stop sidekiq_data_collector\u001b[0m as \u001b[0;34;49mdeployer\u001b[0m@\u001b[0;34;49mdata-collector.neo.staging.frogmi.com\u001b[0m\r\n"
+    ],
+    [
+      0.285137,
+      "\u001b[0;34;49mINFO\u001b[0m [\u001b[0;32;49mceebb340\u001b[0m] Finished in 0.285 seconds with exit status 0 (\u001b[1;32;49msuccessful\u001b[0m).\r\n"
+    ],
+    [
+      0.271919,
+      "\u001b[0;34;49mINFO\u001b[0m The repository mirror is at /home/deployer/app/data_collector/repo\r\n"
+    ],
+    [
+      0.270694,
+      "\u001b[0;34;49mINFO\u001b[0m [\u001b[0;32;49mb1963353\u001b[0m] Running \u001b[1;33;49m/usr/bin/env git remote update\u001b[0m as \u001b[0;34;49mdeployer\u001b[0m@\u001b[0;34;49mdata-collector.neo.staging.frogmi.com\u001b[0m\r\n"
+    ],
+    [
+      0.809737,
+      "\u001b[0;34;49mINFO\u001b[0m [\u001b[0;32;49mb1963353\u001b[0m] Finished in 0.809 seconds with exit status 0 (\u001b[1;32;49msuccessful\u001b[0m).\r\n"
+    ],
+    [
+      0.310015,
+      "\u001b[0;34;49mINFO\u001b[0m [\u001b[0;32;49m5492e01a\u001b[0m] Running \u001b[1;33;49m/usr/bin/env mkdir -p /home/deployer/app/data_collector/releases/20150529171612\u001b[0m as \u001b[0;34;49mdeployer\u001b[0m@\u001b[0;34;49mdata-collector.neo.staging.frogmi.com\u001b[0m\r\n"
+    ],
+    [
+      0.273393,
+      "\u001b[0;34;49mINFO\u001b[0m [\u001b[0;32;49m5492e01a\u001b[0m] Finished in 0.273 seconds with exit status 0 (\u001b[1;32;49msuccessful\u001b[0m).\r\n"
+    ],
+    [
+      0.001503,
+      "\u001b[0;34;49mINFO\u001b[0m [\u001b[0;32;49m0ff434e6\u001b[0m] Running \u001b[1;33;49m/usr/bin/env git archive develop | tar -x -f - -C /home/deployer/app/data_collector/releases/20150529171612\u001b[0m as \u001b[0;34;49mdeployer\u001b[0m@\u001b[0;34;49mdata-collector.neo.staging.frogmi.com\u001b[0m\r\n"
+    ],
+    [
+      0.287422,
+      "\u001b[0;34;49mINFO\u001b[0m [\u001b[0;32;49m0ff434e6\u001b[0m] Finished in 0.287 seconds with exit status 0 (\u001b[1;32;49msuccessful\u001b[0m).\r\n"
+    ],
+    [
+      0.818153,
+      "\u001b[0;34;49mINFO\u001b[0m [\u001b[0;32;49mb1614705\u001b[0m] Running \u001b[1;33;49m/usr/bin/env echo \"52c414a\" \u003e\u003e REVISION\u001b[0m as \u001b[0;34;49mdeployer\u001b[0m@\u001b[0;34;49mdata-collector.neo.staging.frogmi.com\u001b[0m\r\n"
+    ],
+    [
+      0.272442,
+      "\u001b[0;34;49mINFO\u001b[0m [\u001b[0;32;49mb1614705\u001b[0m] Finished in 0.272 seconds with exit status 0 (\u001b[1;32;49msuccessful\u001b[0m).\r\n"
+    ],
+    [
+      0.003331,
+      "\u001b[0;34;49mINFO\u001b[0m [\u001b[0;32;49m2b7430f0\u001b[0m] Running \u001b[1;33;49m/usr/bin/env mkdir -p /home/deployer/app/data_collector/releases/20150529171612 /home/deployer/app/data_collector/releases/20150529171612 /home/deployer/app/data_collector/releases/20150529171612/tmp /home/deployer/app/data_collector/releases/20150529171612/tmp /home/deployer/app/data_collector/releases/20150529171612/tmp /home/deployer/app/data_collector/releases/20150529171612/vendor /home/deployer/app/data_collector/releases/20150529171612/pub"
+    ],
+    [
+      0.000064,
+      "lic\u001b[0m as \u001b[0;34;49mdeployer\u001b[0m@\u001b[0;34;49mdata-collector.neo.staging.frogmi.com\u001b[0m\r\n"
+    ],
+    [
+      0.274737,
+      "\u001b[0;34;49mINFO\u001b[0m [\u001b[0;32;49m2b7430f0\u001b[0m] Finished in 0.274 seconds with exit status 0 (\u001b[1;32;49msuccessful\u001b[0m).\r\n"
+    ],
+    [
+      0.542693,
+      "\u001b[0;34;49mINFO\u001b[0m [\u001b[0;32;49m64062afd\u001b[0m] Running \u001b[1;33;49m/usr/bin/env ln -s /home/deployer/app/data_collector/shared/bin /home/deployer/app/data_collector/releases/20150529171612/bin\u001b[0m as \u001b[0;34;49mdeployer\u001b[0m@\u001b[0;34;49mdata-collector.neo.staging.frogmi.com\u001b[0m\r\n"
+    ],
+    [
+      0.272366,
+      "\u001b[0;34;49mINFO\u001b[0m [\u001b[0;32;49m64062afd\u001b[0m] Finished in 0.272 seconds with exit status 0 (\u001b[1;32;49msuccessful\u001b[0m).\r\n"
+    ],
+    [
+      0.541172,
+      "\u001b[0;34;49mINFO\u001b[0m [\u001b[0;32;49m8f16dbaf\u001b[0m] Running \u001b[1;33;49m/usr/bin/env ln -s /home/deployer/app/data_collector/shared/log /home/deployer/app/data_collector/releases/20150529171612/log\u001b[0m as \u001b[0;34;49mdeployer\u001b[0m@\u001b[0;34;49mdata-collector.neo.staging.frogmi.com\u001b[0m\r\n"
+    ],
+    [
+      0.271153,
+      "\u001b[0;34;49mINFO\u001b[0m [\u001b[0;32;49m8f16dbaf\u001b[0m] Finished in 0.270 seconds with exit status 0 (\u001b[1;32;49msuccessful\u001b[0m).\r\n"
+    ],
+    [
+      0.567639,
+      "\u001b[0;34;49mINFO\u001b[0m [\u001b[0;32;49ma724ccf4\u001b[0m] Running \u001b[1;33;49m/usr/bin/env ln -s /home/deployer/app/data_collector/shared/tmp/pids /home/deployer/app/data_collector/releases/20150529171612/tmp/pids\u001b[0m as \u001b[0;34;49mdeployer\u001b[0m@\u001b[0;34;49mdata-collector.neo.staging.frogmi.com\u001b[0m\r\n"
+    ],
+    [
+      0.274523,
+      "\u001b[0;34;49mINFO\u001b[0m [\u001b[0;32;49ma724ccf4\u001b[0m] Finished in 0.275 seconds with exit status 0 (\u001b[1;32;49msuccessful\u001b[0m).\r\n"
+    ],
+    [
+      0.553864,
+      "\u001b[0;34;49mINFO\u001b[0m [\u001b[0;32;49mc6193981\u001b[0m] Running \u001b[1;33;49m/usr/bin/env ln -s /home/deployer/app/data_collector/shared/tmp/cache /home/deployer/app/data_collector/releases/20150529171612/tmp/cache\u001b[0m as \u001b[0;34;49mdeployer\u001b[0m@\u001b[0;34;49mdata-collector.neo.staging.frogmi.com\u001b[0m\r\n"
+    ],
+    [
+      0.276646,
+      "\u001b[0;34;49mINFO\u001b[0m [\u001b[0;32;49mc6193981\u001b[0m] Finished in 0.276 seconds with exit status 0 (\u001b[1;32;49msuccessful\u001b[0m).\r\n"
+    ],
+    [
+      0.553074,
+      "\u001b[0;34;49mINFO\u001b[0m [\u001b[0;32;49m4f77fa3a\u001b[0m] Running \u001b[1;33;49m/usr/bin/env ln -s /home/deployer/app/data_collector/shared/tmp/sockets /home/deployer/app/data_collector/releases/20150529171612/tmp/sockets\u001b[0m as \u001b[0;34;49mdeployer\u001b[0m@\u001b[0;34;49mdata-collector.neo.staging.frogmi.com\u001b[0m\r\n"
+    ],
+    [
+      0.275214,
+      "\u001b[0;34;49mINFO\u001b[0m [\u001b[0;32;49m4f77fa3a\u001b[0m] Finished in 0.273 seconds with exit status 0 (\u001b[1;32;49msuccessful\u001b[0m).\r\n"
+    ],
+    [
+      0.570222,
+      "\u001b[0;34;49mINFO\u001b[0m [\u001b[0;32;49me41d0830\u001b[0m] Running \u001b[1;33;49m/usr/bin/env ln -s /home/deployer/app/data_collector/shared/vendor/bundle /home/deployer/app/data_collector/releases/20150529171612/vendor/bundle\u001b[0m as \u001b[0;34;49mdeployer\u001b[0m@\u001b[0;34;49mdata-collector.neo.staging.frogmi.com\u001b[0m\r\n"
+    ],
+    [
+      0.273285,
+      "\u001b[0;34;49mINFO\u001b[0m [\u001b[0;32;49me41d0830\u001b[0m] Finished in 0.273 seconds with exit status 0 (\u001b[1;32;49msuccessful\u001b[0m).\r\n"
+    ],
+    [
+      0.548614,
+      "\u001b[0;34;49mINFO\u001b[0m [\u001b[0;32;49m1bc815c5\u001b[0m] Running \u001b[1;33;49m/usr/bin/env ln -s /home/deployer/app/data_collector/shared/public/system /home/deployer/app/data_collector/releases/20150529171612/public/system\u001b[0m as \u001b[0;34;49mdeployer\u001b[0m@\u001b[0;34;49mdata-collector.neo.staging.frogmi.com\u001b[0m\r\n"
+    ],
+    [
+      0.272316,
+      "\u001b[0;34;49mINFO\u001b[0m [\u001b[0;32;49m1bc815c5\u001b[0m] Finished in 0.272 seconds with exit status 0 (\u001b[1;32;49msuccessful\u001b[0m).\r\n"
+    ],
+    [
+      0.275038,
+      "\u001b[0;34;49mINFO\u001b[0m [\u001b[0;32;49mbd85d70f\u001b[0m] Running \u001b[1;33;49m/opt/rbenv/bin/rbenv exec bundle install --path /home/deployer/app/data_collector/shared/bundle --without development test --deployment --quiet\u001b[0m as \u001b[0;34;49mdeployer\u001b[0m@\u001b[0;34;49mdata-collector.neo.staging.frogmi.com\u001b[0m\r\n"
+    ],
+    [
+      0.637600,
+      "\u001b[0;34;49mINFO\u001b[0m [\u001b[0;32;49mbd85d70f\u001b[0m] Finished in 0.637 seconds with exit status 0 (\u001b[1;32;49msuccessful\u001b[0m).\r\n"
+    ],
+    [
+      1.176354,
+      "\u001b[0;34;49mINFO\u001b[0m Deployment not recorded: Application DataCollector (Production) does not exist.\r\n"
+    ],
+    [
+      0.002020,
+      "\u001b[0;34;49mINFO\u001b[0m [\u001b[0;32;49m9a8a3178\u001b[0m] Running \u001b[1;33;49m/usr/bin/env ln -s /home/deployer/app/data_collector/releases/20150529171612 /home/deployer/app/data_collector/releases/current\u001b[0m as \u001b[0;34;49mdeployer\u001b[0m@\u001b[0;34;49mdata-collector.neo.staging.frogmi.com\u001b[0m\r\n"
+    ],
+    [
+      0.275908,
+      "\u001b[0;34;49mINFO\u001b[0m [\u001b[0;32;49m9a8a3178\u001b[0m] Finished in 0.275 seconds with exit status 0 (\u001b[1;32;49msuccessful\u001b[0m).\r\n"
+    ],
+    [
+      0.001461,
+      "\u001b[0;34;49mINFO\u001b[0m [\u001b[0;32;49m110b2516\u001b[0m] Running \u001b[1;33;49m/usr/bin/env mv /home/deployer/app/data_collector/releases/current /home/deployer/app/data_collector\u001b[0m as \u001b[0;34;49mdeployer\u001b[0m@\u001b[0;34;49mdata-collector.neo.staging.frogmi.com\u001b[0m\r\n"
+    ],
+    [
+      0.275246,
+      "\u001b[0;34;49mINFO\u001b[0m [\u001b[0;32;49m110b2516\u001b[0m] Finished in 0.275 seconds with exit status 0 (\u001b[1;32;49msuccessful\u001b[0m).\r\n"
+    ],
+    [
+      0.002014,
+      "\u001b[0;34;49mINFO\u001b[0m [\u001b[0;32;49md5566d96\u001b[0m] Running \u001b[1;33;49m/usr/bin/env sudo /usr/bin/monit start sidekiq_data_collector\u001b[0m as \u001b[0;34;49mdeployer\u001b[0m@\u001b[0;34;49mdata-collector.neo.staging.frogmi.com\u001b[0m\r\n"
+    ],
+    [
+      0.289289,
+      "\u001b[0;34;49mINFO\u001b[0m [\u001b[0;32;49md5566d96\u001b[0m] Finished in 0.289 seconds with exit status 0 (\u001b[1;32;49msuccessful\u001b[0m).\r\n"
+    ],
+    [
+      0.406016,
+      "\u001b[0;34;49mINFO\u001b[0m Keeping 5 of 6 deployed releases on data-collector.neo.staging.frogmi.com\r\n"
+    ],
+    [
+      0.003729,
+      "\u001b[0;34;49mINFO\u001b[0m [\u001b[0;32;49ma1072b0a\u001b[0m] Running \u001b[1;33;49m/usr/bin/env rm -rf /home/deployer/app/data_collector/releases/20150528153724\u001b[0m as \u001b[0;34;49mdeployer\u001b[0m@\u001b[0;34;49mdata-collector.neo.staging.frogmi.com\u001b[0m\r\n"
+    ],
+    [
+      0.281828,
+      "\u001b[0;34;49mINFO\u001b[0m [\u001b[0;32;49ma1072b0a\u001b[0m] Finished in 0.282 seconds with exit status 0 (\u001b[1;32;49msuccessful\u001b[0m).\r\n"
+    ],
+    [
+      0.820098,
+      "\u001b[0;34;49mINFO\u001b[0m [\u001b[0;32;49me71dbcc8\u001b[0m] Running \u001b[1;33;49m/opt/rbenv/bin/rbenv exec bundle exec pumactl -S /home/deployer/app/data_collector/shared/tmp/pids/data_collector_puma.state restart\u001b[0m as \u001b[0;34;49mdeployer\u001b[0m@\u001b[0;34;49mdata-collector.neo.staging.frogmi.com\u001b[0m\r\n"
+    ],
+    [
+      0.858029,
+      "\u001b[0;34;49mINFO\u001b[0m [\u001b[0;32;49me71dbcc8\u001b[0m] Finished in 0.857 seconds with exit status 0 (\u001b[1;32;49msuccessful\u001b[0m).\r\n"
+    ],
+    [
+      0.272387,
+      "\u001b[0;34;49mINFO\u001b[0m [\u001b[0;32;49m9ba34bc3\u001b[0m] Running \u001b[1;33;49m/usr/bin/env echo \"Branch develop (at 52c414a) deployed as release 20150529171612 by MrD\" \u003e\u003e /home/deployer/app/data_collector/revisions.log\u001b[0m as \u001b[0;34;49mdeployer\u001b[0m@\u001b[0;34;49mdata-collector.neo.staging.frogmi.com\u001b[0m\r\n"
+    ],
+    [
+      0.271770,
+      "\u001b[0;34;49mINFO\u001b[0m [\u001b[0;32;49m9ba34bc3\u001b[0m] Finished in 0.271 seconds with exit status 0 (\u001b[1;32;49msuccessful\u001b[0m).\r\n"
+    ],
+    [
+      0.077807,
+      "\u001b[1m\u001b[3m%\u001b[23m\u001b[1m\u001b[0m                                                                                                                                                                                                                                             \r \r"
+    ],
+    [
+      0.000531,
+      "\u001bk..ata_collector\u001b\\"
+    ],
+    [
+      0.369615,
+      "\r\u001b[0m\u001b[23m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m\u001b[39m MrD@fringe \u001b[44m\u001b[30m⮀\u001b[30m ~/Inzpiral/frogmi/data_collector \u001b[43m\u001b[34m⮀\u001b[30m ⭠ develop* \u001b[49m\u001b[33m⮀\u001b[39m \u001b[K"
+    ],
+    [
+      0.000078,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      4.843903,
+      "\r\r\n"
+    ]
+  ]
+}
