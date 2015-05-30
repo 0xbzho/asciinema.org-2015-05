@@ -1,0 +1,254 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 24,
+  "duration": 20.258405,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.097223,
+      "\u001b]0;betatester@ks-book: ~\u0007betatester@ks-book:~$ "
+    ],
+    [
+      1.385179,
+      "exit"
+    ],
+    [
+      0.341433,
+      "\u0008\u0008\u0008\u0008less ~/sources.list "
+    ],
+    [
+      0.405111,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008sed -i \"s/ua.archive.ubuntu.com/old-releases.ubuntu.com/g\" \r ~/sources.list"
+    ],
+    [
+      2.736637,
+      "\r\n"
+    ],
+    [
+      0.004076,
+      "\u001b]0;betatester@ks-book: ~\u0007betatester@ks-book:~$ "
+    ],
+    [
+      1.041346,
+      "l"
+    ],
+    [
+      0.159356,
+      "e"
+    ],
+    [
+      0.601800,
+      "s"
+    ],
+    [
+      0.154811,
+      "s"
+    ],
+    [
+      2.145181,
+      " "
+    ],
+    [
+      0.793313,
+      "~"
+    ],
+    [
+      0.291299,
+      "/"
+    ],
+    [
+      0.534212,
+      "s"
+    ],
+    [
+      0.213548,
+      "e"
+    ],
+    [
+      0.427695,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.295454,
+      "o"
+    ],
+    [
+      0.162423,
+      "urces.list "
+    ],
+    [
+      0.431023,
+      "\r\n"
+    ],
+    [
+      0.017173,
+      "\u001b[?1049h\u001b[?1h\u001b=\r"
+    ],
+    [
+      0.000357,
+      "# deb cdrom:[Ubuntu 14.04 LTS _Trusty Tahr_ - Release amd64 (20140417)]/ trusty  \u0008main restricted"
+    ],
+    [
+      0.000014,
+      "\r\n\r\n# See http://help.ubuntu.com/community/UpgradeNotes for how to upgrade to\r\n"
+    ],
+    [
+      0.000013,
+      "# newer versions of the distribution.\r\n"
+    ],
+    [
+      0.000008,
+      "deb http://old-releases.ubuntu.com/ubuntu/ trusty main restricted\r\n"
+    ],
+    [
+      0.000008,
+      "deb-src http://old-releases.ubuntu.com/ubuntu/ trusty main restricted"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000018,
+      "## Major bug fix updates produced after the final release of the"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "## distribution."
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "deb http://old-releases.ubuntu.com/ubuntu/ trusty-updates main restricted"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000035,
+      "deb-src http://old-releases.ubuntu.com/ubuntu/ trusty-updates main restricted\r\n\r\n## N.B. software from this repository is ENTIRELY UNSUPPORTED by the Ubuntu"
+    ],
+    [
+      0.000014,
+      "\r\n## team. Also, please note that software in universe WILL NOT receive any\r\n"
+    ],
+    [
+      0.000008,
+      "## review or updates from the Ubuntu security team.\r\n"
+    ],
+    [
+      0.000007,
+      "deb http://old-releases.ubuntu.com/ubuntu/ trusty universe"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "deb-src http://old-releases.ubuntu.com/ubuntu/ trusty universe"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "deb http://old-releases.ubuntu.com/ubuntu/ trusty-updates universe"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "deb-src http://old-releases.ubuntu.com/ubuntu/ tr"
+    ],
+    [
+      0.000145,
+      "usty-updates universe"
+    ],
+    [
+      0.000010,
+      "\r\n\r\n"
+    ],
+    [
+      0.000014,
+      "## N.B. software from this repository is ENTIRELY UNSUPPORTED by the Ubuntu \r\n"
+    ],
+    [
+      0.000008,
+      "## team, and may not be under a free licence. Please satisfy yourself as to \r\n"
+    ],
+    [
+      0.000017,
+      "\u001b[7m/home/betatester/sources.list\u001b[27m\u001b[K"
+    ],
+    [
+      1.315686,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K## your rights to use the software. Also, please note that software in \r\n:\u001b[K"
+    ],
+    [
+      0.792716,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K## multiverse WILL NOT receive any review or updates from the Ubuntu\r\n:\u001b[K"
+    ],
+    [
+      1.131225,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u001b[H\u001bMmain restricted\r\n\u001b[24;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.272716,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u001b[H\u001bM# deb cdrom:[Ubuntu 14.04 LTS _Trusty Tahr_ - Release amd64 (20140417)]/ trusty \u001b[24;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.254598,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u0007\r\u001b[K:\u001b[K"
+    ],
+    [
+      1.808692,
+      "\r\u001b[K\u001b[?1l\u001b\u003e\u001b[?1049l"
+    ],
+    [
+      0.000504,
+      "\u001b]0;betatester@ks-book: ~\u0007betatester@ks-book:~$ "
+    ],
+    [
+      1.758690,
+      "e"
+    ],
+    [
+      0.185371,
+      "x"
+    ],
+    [
+      0.194914,
+      "i"
+    ],
+    [
+      0.140370,
+      "t"
+    ],
+    [
+      0.163573,
+      "\r\nexit\r\n"
+    ]
+  ]
+}
