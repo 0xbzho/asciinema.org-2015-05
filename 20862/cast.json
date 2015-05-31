@@ -1,0 +1,286 @@
+{
+  "version": 1,
+  "width": 79,
+  "height": 22,
+  "duration": 11.128255,
+  "command": "/usr/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "rxvt-unicode-256color",
+    "SHELL": "/usr/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.394359,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[m                                                                              \r \r"
+    ],
+    [
+      0.000021,
+      "\u001b]1;pts/4@x59sl\u0007"
+    ],
+    [
+      0.000086,
+      "\u001b]2;i@x59sl:~\u0007"
+    ],
+    [
+      0.026315,
+      "\r\u001b[m\u001b[27m\u001b[24m\u001b[J\u001b[30m\u001b[47m ~ \u001b[00m \u001b[01;31m\u003e \u001b[00m"
+    ],
+    [
+      0.000646,
+      "\u001b[K\u001b[72C \u0008\u001b[72D"
+    ],
+    [
+      0.643642,
+      "v"
+    ],
+    [
+      0.039437,
+      "\u0008vd"
+    ],
+    [
+      0.130045,
+      "\u001b[K\r\r\n\u001b]1;pts/4@x59sl*\u0007\u001b]2;i@x59sl:~"
+    ],
+    [
+      0.003717,
+      " (vd)"
+    ],
+    [
+      0.000550,
+      "\u0007"
+    ],
+    [
+      0.022375,
+      "\u001b[?1049h\u001b[1;22r\u001b[m\u001b(B\u001b[4l\u001b[?7h\u001b[?1000h"
+    ],
+    [
+      0.000314,
+      "\u001b[39;49m\u001b[39;49m\u001b[m\u001b(B\u001b[H\u001b[2J\u001b[22d\u001b[;1m\u001b(B\u001b[38;5;110m\u003e \u001b[39;49m\u001b[m\u001b(B"
+    ],
+    [
+      0.002159,
+      "\u001b[H\u001b[;1m\u001b(B\u001b[38;5;161m\u001b[48;5;236m \u001b[39;49m\u001b[m\u001b(B /home/i/Downloads/ghost-0.6.4/content/themes/casper/assets/css\r\n\u001b[;1m\u001b(B\u001b[38;5;161m\u001b[48;5;236m \u001b[39;49m\u001b[m\u001b(B /home/i/github/octopress\r\n\u001b[;1m\u001b(B\u001b[38;5;161m\u001b[48;5;236m \u001b[39;49m\u001b[m\u001b(B /home/i/github/Casper/assets/css\r\n\u001b[;1m\u001b(B\u001b[38;5;161m\u001b[48;5;236m \u001b[39;49m\u001b[m\u001b(B /home/i/github/blog/_sass\r\n\u001b[;1m\u001b(B\u001b[38;5;161m\u001b[48;5;236m \u001b[39;49m\u001b[m\u001b(B /home/i/github/Casper\r\n\u001b[;1m\u001b(B\u001b[38;5;161m\u001b[48;5;236m \u001b[39;49m\u001b[m\u001b(B /home/i/github/blog/_site/assets/css\r\n\u001b[;1m\u001b(B\u001b[38;5;161m\u001b[48;5;236m \u001b[39;49m\u001b[m\u001b(B /home/i/github/blog/_plugins\r\n\u001b[;1m\u001b(B\u001b[38;5;161m\u001b[48;5;236m \u001b[39;49m\u001b[m\u001b(B /home/i/Downloads/php\r\n\u001b[;1m\u001b(B\u001b[38;5;161m\u001b[48;5;236m \u001b[39;49m\u001b[m\u001b(B /home/i/Dropbox/notes\r\n\u001b[;1m\u001b(B\u001b[38;5;161m\u001b[48;5;236m \u001b[39;49m\u001b[m\u001b(B /home/i/work/streambuilder_admin\r\n\u001b[;1m\u001b(B\u001b[38;5;161m\u001b[48;5;236m \u001b[39;49m\u001b[m\u001b(B /home/i/tmp/journals\r\n\u001b[;1m\u001b(B\u001b[38;5;161m\u001b[48;5;236m \u001b[39;49m\u001b[m\u001b(B /home/i/work/univ/journals_import\r\n\u001b[;1m\u001b(B\u001b[38;5;161m\u001b[48;5;236m \u001b[39;49m\u001b[m\u001b(B /home/i/tmp/journals/html_backup\r\n\u001b[;1m\u001b(B\u001b[38;5;161m\u001b[48;5;236m \u001b[39;49m\u001b[m\u001b(B /home/i/tmp/max/css\r\n\u001b[;1m\u001b(B\u001b[38;5;161m\u001b[48;5;236m \u001b[39;49m\u001b[m\u001b(B /home/i/tmp/max/js\r\n\u001b[;1m\u001b(B\u001b[38;5;161m\u001b[48;5;236m \u001b[39;49m\u001b[m\u001b(B /home/i/tmp/max\r\n\u001b[;1m\u001b(B\u001b[38;5;161m\u001b[48;5;236m \u001b[39;49m\u001b[m\u001b(B /home/i/work/univ\r\n\u001b[;1m\u001b(B\u001b[38;5;161m\u001b[48;5;236m \u001b[39;49m\u001b[m\u001b(B /home/i/github/blog/_site\r\n\u001b[;1m\u001b(B\u001b[38;5;161m\u001b[48;5;236m \u001b[39;49m\u001b[m\u001b(B /home/i/github/blog\r\n\u001b[;1m\u001b(B\u001b[38;5;161m\u001b[48;5;236m\u003e\u001b[38;5;254m\u001b[48;5;236m /home/i\n\u001b[3G\u001b[m\u001b(B\u001b[38;5;144m53/53\n\u001b[3G\u001b[39;49m\u001b[m\u001b(B"
+    ],
+    [
+      0.402828,
+      "\u001b[;1m\u001b(Bd\u001b[m\u001b(B\u001b[1;11H\u001b[38;5;108mD\u001b[1;54H\u001b[39;49m\u001b[m\u001b(B\u001b[K\u001b[2;18Hlearn-vimscript-the-t\u001b[38;5;108md\u001b[39;49m\u001b[m\u001b(Bd-way\u001b[3;11H\u001b[38;5;108mD\u001b[39;49m\u001b[m\u001b(Bownloads/ghost-0.6.4/core/shared\u001b[4;11Hwork/help\u001b[38;5;108md\u001b[39;49m\u001b[m\u001b(Besk/app/controllers\u001b[5;11Hwork/help\u001b[38;5;108md\u001b[39;49m\u001b[m\u001b(Besk/app/services\u001b[6;11Hwork/streambuil\u001b[38;5;108md\u001b[39;49m\u001b[m\u001b(Ber_admin\u001b[K\u001b[7;11Hwork/help\u001b[38;5;108md\u001b[39;49m\u001b[m\u001b(Besk/lib/tasks\u001b[8;11Hwork/help\u001b[38;5;108md\u001b[39;49m\u001b[m\u001b(Besk/app/views\u001b[9;11Hgithub/\u001b[38;5;108md\u001b[39;49m\u001b[m\u001b(Botfiles/.conky\u001b[10;11Hgithub/blog/_inclu\u001b[38;5;108md\u001b[39;49m\u001b[m\u001b(Bes\u001b[K\u001b[11;11Hgithub/\u001b[38;5;108md\u001b[39;49m\u001b[m\u001b(Botfiles/.i3\u001b[12;11H\u001b[38;5;108mD\u001b[39;49m\u001b[m\u001b(Bropbox/notes/blog\u001b[K\u001b[13;11Hgithub/\u001b[38;5;108md\u001b[39;49m\u001b[m\u001b(Botfiles\u001b[K\u001b[14;11Hwork/help\u001b[38;5;108md\u001b[39;49m\u001b[m\u001b(Besk\u001b[15;11H\u001b[38;5;108mD\u001b[39;49m\u001b[m\u001b(Bownloads/php\u001b[16;11H\u001b[38;5;108mD\u001b[39;49m\u001b[m\u001b(Bropbox/notes\u001b[17;11H.vim/plugge\u001b[38;5;108md\u001b[18;11HD\u001b[39;49m\u001b[m\u001b(Bownloads\u001b[K\u001b[19;11H\u001b[38;5;108mD\u001b[39;49m\u001b[m\u001b(Bropbox\u001b[K\n\u001b[4G\u001b[;1m\u001b(B\u001b[38;5;254m\u001b[48;5;236metc/su\u001b[38;5;151m\u001b[48;5;236md\u001b[38;5;254m\u001b[48;5;236moers.d\n\u001b[3G\u001b[m\u001b(B\u001b[38;5;144m21\n\u0008\u001b[39;49m\u001b[m\u001b(B"
+    ],
+    [
+      0.159037,
+      "\u001b[;1m\u001b(Bo\u001b[m\u001b(B\u001b[1;8r\u001b[1;1H\u001b[4T\u001b[1;22r\u001b[5;1H\u001b[K\n\u001b[K\n\u001b[K\u001b[8;21H\u001b[38;5;108mesk/app/co\u001b[9;11HDro\u001b[39;49m\u001b[m\u001b(Bpbox/notes/blog\u001b[K\u001b[10;11H\u001b[38;5;108mDro\u001b[39;49m\u001b[m\u001b(Bpbox/notes\u001b[K\u001b[11;11H\u001b[38;5;108mDro\u001b[39;49m\u001b[m\u001b(Bpbox\u001b[K\n\u001b[12G\u001b[38;5;108mo\u001b[39;49m\u001b[m\u001b(Bwnloads/ghost-0.6.4/content/themes/casper/assets/css\u001b[13;11H\u001b[38;5;108mDo\u001b[39;49m\u001b[m\u001b(Bwnloads/ghost-0.6.4/content/themes/casper\u001b[14;11H\u001b[38;5;108mDo\u001b[39;49m\u001b[m\u001b(Bwnloads/ghost-0.6.4/core/shared\u001b[15;11Hgithub/\u001b[38;5;108mdo\u001b[39;49m\u001b[m\u001b(Btfiles/.conky\u001b[16;11Hgithub/\u001b[38;5;108mdo\u001b[39;49m\u001b[m\u001b(Btfiles/.i3\u001b[17;11Hgithub/\u001b[38;5;108mdo\u001b[39;49m\u001b[m\u001b(Btfiles\u001b[18;12H\u001b[38;5;108mo\u001b[20G\u001b[39;49m\u001b[m\u001b(B/php\u001b[19;12H\u001b[38;5;108mo\u001b[39;49m\u001b[m\u001b(Bwnloads\u001b[20;11H\u001b[;1m\u001b(B\u001b[38;5;151m\u001b[48;5;236mo\n\u001b[3G\u001b[m\u001b(B\u001b[38;5;144m13\n\u001b[39;49m\u001b[m\u001b(B"
+    ],
+    [
+      0.089918,
+      "\u001b[;1m\u001b(Bt\u001b[m\u001b(B\u001b[12;19r\u001b[12;1H\u001b[3T\u001b[1;22r\u001b[1;14r\u001b[1;1H\u001b[4T\u001b[1;22r\u001b[12;31H\u001b[38;5;108mnt\u001b[13;14Hpbox/not\u001b[14;14Hpbox/not\u001b[15;11H\u001b[39;49m\u001b[m\u001b(BDownloa\u001b[38;5;108mds/ghost\u001b[16;11H\u001b[39;49m\u001b[m\u001b(BDownloa\u001b[38;5;108mds/ghost\u001b[17;11H\u001b[39;49m\u001b[m\u001b(BDownloa\u001b[38;5;108mds/ghost\n\u001b[20Gt\n\u0008t\n\u001b[4G\u001b[;1m\u001b(B\u001b[38;5;254m\u001b[48;5;236mhome/i/github/\u001b[38;5;151m\u001b[48;5;236mdot\u001b[38;5;254m\u001b[48;5;236mfiles\n\u001b[3G\u001b[m\u001b(B\u001b[38;5;144m9/53\u001b[39;49m\u001b[m\u001b(B\u001b[K\n\u0008"
+    ],
+    [
+      0.149225,
+      "\u001b[;1m\u001b(Bf\u001b[m\u001b(B"
+    ],
+    [
+      0.000651,
+      "\r\u001b[12d\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\u001b[18;21H\u001b[38;5;108mf\n\u0008f\n\u0008\u001b[;1m\u001b(B\u001b[38;5;151m\u001b[48;5;236mf\n\u001b[3G\u001b[m\u001b(B\u001b[38;5;144m3\n\u001b[7G\u001b[39;49m\u001b[m\u001b(B"
+    ],
+    [
+      0.047312,
+      "\u001b[18;22H\u001b[38;5;108mi\n\u0008i\n\u0008\u001b[;1m\u001b(B\u001b[38;5;151m\u001b[48;5;236mi\n\n\u001b[7G\u001b[39;49mi\u001b[m\u001b(B"
+    ],
+    [
+      0.743873,
+      "\u001b[?1000l\u001b[22;1H\u001b[r\u001b[?1049l\r\u001b\u003e"
+    ],
+    [
+      0.041292,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[m                                                                              \r \r"
+    ],
+    [
+      0.000125,
+      "\u001b]1;pts/4@x59sl\u0007"
+    ],
+    [
+      0.000074,
+      "\u001b]2;i@x59sl:~/github/dotfiles"
+    ],
+    [
+      0.000098,
+      "\u0007"
+    ],
+    [
+      0.053604,
+      "\r\u001b[m\u001b[27m\u001b[24m\u001b[J\u001b[30m\u001b[47m ~/github/dotfiles \u001b[00m \u001b[01;31m\u003e \u001b[00m"
+    ],
+    [
+      0.000011,
+      "\u001b[K\u001b[47C\u001b[01;31m*\u001b[00m\u001b[01;32m+\u001b[00m \u001b[01;33mmaster\u001b[00m \u0008\u001b[56D"
+    ],
+    [
+      2.153133,
+      "c"
+    ],
+    [
+      0.047893,
+      "\u0008cd"
+    ],
+    [
+      0.081534,
+      "\u001b[K\r\r\n\u001b]1;pts/4@x59sl*\u0007\u001b]2;i@x59sl:~/github/dotfiles"
+    ],
+    [
+      0.003317,
+      " (cd)"
+    ],
+    [
+      0.000552,
+      "\u0007"
+    ],
+    [
+      0.033869,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[m                                                                              \r \r\u001b]1;pts/4@x59sl\u0007\u001b]2;i@x59sl:~"
+    ],
+    [
+      0.000015,
+      "\u0007"
+    ],
+    [
+      0.024267,
+      "\r\u001b[m\u001b[27m\u001b[24m\u001b[J\u001b[30m\u001b[47m ~ \u001b[00m \u001b[01;31m\u003e \u001b[00m"
+    ],
+    [
+      0.000013,
+      "\u001b[K\u001b[72C \u0008\u001b[72D"
+    ],
+    [
+      0.400547,
+      "v"
+    ],
+    [
+      0.529468,
+      "\u0008v\u001b[K\r\r\n\u001b]1;pts/4@x59sl*\u0007\u001b]2;i@x59sl:~"
+    ],
+    [
+      0.003145,
+      " (v)"
+    ],
+    [
+      0.000478,
+      "\u0007"
+    ],
+    [
+      0.023541,
+      "\u001b[?1049h\u001b[1;22r\u001b[m\u001b(B\u001b[4l\u001b[?7h\u001b[?1000h"
+    ],
+    [
+      0.003241,
+      "\u001b[39;49m\u001b[39;49m\u001b[m\u001b(B\u001b[H\u001b[2J\u001b[22d\u001b[;1m\u001b(B\u001b[38;5;110m\u003e \u001b[39;49m\u001b[m\u001b(B"
+    ],
+    [
+      0.001959,
+      "\u001b[H\u001b[;1m\u001b(B\u001b[38;5;161m\u001b[48;5;236m \u001b[39;49m\u001b[m\u001b(B /home/i/work/univ/univ/settings.py\r\n\u001b[;1m\u001b(B\u001b[38;5;161m\u001b[48;5;236m \u001b[39;49m\u001b[m\u001b(B /home/i/work/univ/sci/fields.py\r\n\u001b[;1m\u001b(B\u001b[38;5;161m\u001b[48;5;236m \u001b[39;49m\u001b[m\u001b(B /home/i/.vim/plugged/vim-airline/doc/airline.txt\r\n\u001b[;1m\u001b(B\u001b[38;5;161m\u001b[48;5;236m \u001b[39;49m\u001b[m\u001b(B /home/i/.vim/plugged/nerdtree/doc/NERD_tree.txt\r\n\u001b[;1m\u001b(B\u001b[38;5;161m\u001b[48;5;236m \u001b[39;49m\u001b[m\u001b(B /home/i/work/univ/sci/models.py\r\n\u001b[;1m\u001b(B\u001b[38;5;161m\u001b[48;5;236m \u001b[39;49m\u001b[m\u001b(B /home/i/work/univ/journals_import/journals_save.py\r\n\u001b[;1m\u001b(B\u001b[38;5;161m\u001b[48;5;236m \u001b[39;49m\u001b[m\u001b(B /home/i/work/univ/journals_import/journals_load.py\r\n\u001b[;1m\u001b(B\u001b[38;5;161m\u001b[48;5;236m \u001b[39;49m\u001b[m\u001b(B /home/i/work/univ/manage.py\r\n\u001b[;1m\u001b(B\u001b[38;5;161m\u001b[48;5;236m \u001b[39;49m\u001b[m\u001b(B /home/i/github/blog/_layouts/post.html\r\n\u001b[;1m\u001b(B\u001b[38;5;161m\u001b[48;5;236m \u001b[39;49m\u001b[m\u001b(B /home/i/.vim/cache/junkfile/2015/05/2015-05-31-213927.markdown\r\n\u001b[;1m\u001b(B\u001b[38;5;161m\u001b[48;5;236m \u001b[39;49m\u001b[m\u001b(B /home/i/.i3/config\r\n\u001b[;1m\u001b(B\u001b[38;5;161m\u001b[48;5;236m \u001b[39;49m\u001b[m\u001b(B /home/i/.Xdefaults\r\n\u001b[;1m\u001b(B\u001b[38;5;161m\u001b[48;5;236m \u001b[39;49m\u001b[m\u001b(B /home/i/.vim/cache/junkfile/2015/05/2015-05-31-232313.js\r\n\u001b[;1m\u001b(B\u001b[38;5;161m\u001b[48;5;236m \u001b[39;49m\u001b[m\u001b(B /home/i/github/blog/_posts/2015-05-31-setup-review-2015-1.markdown\r\n\u001b[;1m\u001b(B\u001b[38;5;161m\u001b[48;5;236m \u001b[39;49m\u001b[m\u001b(B /home/i/.vim/plugged/neomru.vim/doc/neomru.txt\r\n\u001b[;1m\u001b(B\u001b[38;5;161m\u001b[48;5;236m \u001b[39;49m\u001b[m\u001b(B /home/i/github/dotfiles/.vim/plugins.vim\r\n\u001b[;1m\u001b(B\u001b[38;5;161m\u001b[48;5;236m \u001b[39;49m\u001b[m\u001b(B /home/i/github/dotfiles/.zsh/functions.zsh\r\n\u001b[;1m\u001b(B\u001b[38;5;161m\u001b[48;5;236m \u001b[39;49m\u001b[m\u001b(B /home/i/github/dotfiles/.zsh/plugins/fzf.zsh\r\n\u001b[;1m\u001b(B\u001b[38;5;161m\u001b[48;5;236m \u001b[39;49m\u001b[m\u001b(B /home/i/github/dotfiles/.vimrc\r\n\u001b[;1m\u001b(B\u001b[38;5;161m\u001b[48;5;236m\u003e\u001b[38;5;254m\u001b[48;5;236m /home/i/github/blog/_config.yml\n\u001b[3G\u001b[m\u001b(B\u001b[38;5;144m185/185\n\u001b[3G\u001b[39;49m\u001b[m\u001b(B"
+    ],
+    [
+      0.439126,
+      "\u001b[;1m\u001b(Bi\u001b[m\u001b(B"
+    ],
+    [
+      0.002337,
+      "\u001b[1;9H\u001b[38;5;108mi\u001b[39;49m\u001b[m\u001b(B/Dropbox/slim.conf\u001b[K\n\u001b[4Getc/\u001b[38;5;108mi\u001b[39;49m\u001b[m\u001b(Bfplugd/ifplugd.conf\u001b[K\n\u001b[4Gusr/share/fortune/deb\u001b[38;5;108mi\u001b[39;49m\u001b[m\u001b(Ban\u001b[K\u001b[4;9H\u001b[38;5;108mi\u001b[39;49m\u001b[m\u001b(B/tmp/FirstLab.java\u001b[K\n\u001b[4Gusr/share/fortune/ha\u001b[38;5;108mi\u001b[39;49m\u001b[m\u001b(Bku\u001b[K\u001b[6;9H\u001b[38;5;108mi\u001b[39;49m\u001b[m\u001b(B/.i3/conky-i3bar\u001b[K\u001b[7;9H\u001b[38;5;108mi\u001b[39;49m\u001b[m\u001b(B/tmp/result.txt\u001b[K\u001b[8;9H\u001b[38;5;108mi\u001b[39;49m\u001b[m\u001b(B/.conky/conkyrc\u001b[K\u001b[9;9H\u001b[38;5;108mi\u001b[39;49m\u001b[m\u001b(B/tmp/process.rb\u001b[K\u001b[10;9H\u001b[38;5;108mi\u001b[39;49m\u001b[m\u001b(B/.ssh/config\u001b[K\u001b[11;9H\u001b[38;5;108mi\u001b[39;49m\u001b[m\u001b(B/.git\n\u001b[9G\u001b[38;5;108mi\u001b[39;49m\u001b[m\u001b(B/.i3/worken\u001b[13;9H\u001b[38;5;108mi\u001b[39;49m\u001b[m\u001b(B/.i3/config\u001b[K\u001b[14;9H\u001b[38;5;108mi\u001b[39;49m\u001b[m\u001b(B/.Xdefaults\u001b[K\n\u001b[4Gvar/log/fa\u001b[38;5;108mi\u001b[39;49m\u001b[m\u001b(Bllog\u001b[K\u001b[16;9H\u001b[38;5;108mi\u001b[39;49m\u001b[m\u001b(B/tmp/text\u001b[K\u001b[17;9H\u001b[38;5;108mi\u001b[39;49m\u001b[m\u001b(B/.zshenv\u001b[K\u001b[18;9H\u001b[38;5;108mi\u001b[39;49m\u001b[m\u001b(B/tmp/sql\u001b[K\n\u001b[4Getc/sl\u001b[38;5;108mi\u001b[39;49m\u001b[m\u001b(Bm.conf\u001b[K\u001b[20;9H\u001b[;1m\u001b(B\u001b[38;5;151m\u001b[48;5;236mi\u001b[38;5;254m\u001b[48;5;236m/.zshrc\u001b[39;49m\u001b[m\u001b(B\u001b[K\n\u001b[4G\u001b[38;5;144m78\n\u0008\u0008\u001b[39;49m\u001b[m\u001b(B"
+    ],
+    [
+      0.044556,
+      "\u001b[;1m\u001b(B3\u001b[m\u001b(B"
+    ],
+    [
+      0.000840,
+      "\u001b[H\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\u001b[9;10H\u001b[38;5;108m/tmp/journals/html_backup/27853\u001b[39;49m\u001b[m\u001b(B.html\u001b[10;9Hi/g\u001b[38;5;108mithub/blog/_posts/2015-05-3\u001b[39;49m\u001b[m\u001b(B1-setup-review-2015-1.markdown\u001b[11;9Hi/.vim/cache/junkf\u001b[38;5;108mile/2015/05/2015-05-3\u001b[39;49m\u001b[m\u001b(B1-213927.markdown\u001b[12;9Hi/.vim/cache/junkf\u001b[38;5;108mile/2015/05/2015-05-3\u001b[39;49m\u001b[m\u001b(B1-232313.js\n\u001b[3Gfugitive:///home/i/work/univ/.g\u001b[38;5;108mit//2471ad9ba141bc3\u001b[39;49m\u001b[m\u001b(Bd044641d632d871074306e207/\n\u001b[3Gfugitive:///home/i/work/univ/.g\u001b[38;5;108mit//668fd9c83\u001b[39;49m\u001b[m\u001b(B07085c7b427ef57c9837b2cef1b4494\n\u001b[3Gfugitive:///home/i/work/univ/.g\u001b[38;5;108mit//2c3\u001b[39;49m\u001b[m\u001b(Baa594b3afbc824cba13a13e84f468889a7873\u001b[16;9Hi/github/dotfiles/.\u001b[38;5;108mi3\u001b[39;49m\u001b[m\u001b(B/config\u001b[17;9Hi/.\u001b[38;5;108mi3\u001b[39;49m\u001b[m\u001b(B/dmenu_search.sh\u001b[18;9Hi/.\u001b[38;5;108mi3\u001b[39;49m\u001b[m\u001b(B/conky-i3bar\n\u001b[4Ghome/i/.\u001b[38;5;108mi3\u001b[39;49m\u001b[m\u001b(B/worken\u001b[20;9H\u001b[;1m\u001b(B\u001b[38;5;254m\u001b[48;5;236mi/.\u001b[38;5;151m\u001b[48;5;236mi3\u001b[38;5;254m\u001b[48;5;236m/config\n\u001b[4G\u001b[m\u001b(B\u001b[38;5;144m2/185\u001b[39;49m\u001b[m\u001b(B\u001b[K\n\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.152212,
+      "\u001b[;1m\u001b(Bc\u001b[m\u001b(B\u001b[1;16r\u001b[1;1H\u001bM\u001b[1;22r\u001b[10;1H\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\u001b[15;47H\u001b[38;5;108m07085c\u001b[16;41Haa594b3afbc\u001b[17;14H/dmenu_searc\u001b[18;11H\u001b[39;49m\u001b[m\u001b(Bgithub/dotfiles/.\u001b[38;5;108mi3/c\u001b[39;49m\u001b[m\u001b(Bonfig\u001b[19;14H\u001b[38;5;108m/c\u001b[39;49m\u001b[m\u001b(Bonky-i3bar\u001b[20;14H\u001b[;1m\u001b(B\u001b[38;5;151m\u001b[48;5;236m/c\n\u001b[3G\u001b[m\u001b(B\u001b[38;5;144m6/185\u001b[39;49m\u001b[m\u001b(B\u001b[K\n\u0008\u0008"
+    ],
+    [
+      0.024481,
+      "\u001b[;1m\u001b(Bo\u001b[m\u001b(B\r\u001b[15d\u001b[K\n\u001b[K\n\u001b[K\u001b[18;32H\u001b[38;5;108mo\u001b[19;16Ho\n\u0008\u001b[;1m\u001b(B\u001b[38;5;151m\u001b[48;5;236mo\n\u001b[3G\u001b[m\u001b(B\u001b[38;5;144m3\n\u001b[7G\u001b[39;49m\u001b[m\u001b(B"
+    ],
+    [
+      0.078972,
+      "\u001b[;1m\u001b(Bn\u001b[m\u001b(B"
+    ],
+    [
+      0.000061,
+      "\u001b[18;33H\u001b[38;5;108mn\u001b[19;17Hn\n\u0008\u001b[;1m\u001b(B\u001b[38;5;151m\u001b[48;5;236mn\n\n\u001b[8G\u001b[39;49m\u001b[m\u001b(B"
+    ],
+    [
+      0.239634,
+      "\u001b[?1000l\u001b[22;1H\u001b[r\u001b[?1049l\r\u001b\u003e"
+    ],
+    [
+      1.118600,
+      "\u001b[?1049h\u001b[?1h\u001b="
+    ],
+    [
+      0.000010,
+      "\u001b[2;1H▽\u001b[6n\u001b[2;1H  \u001b[1;1H"
+    ],
+    [
+      0.001208,
+      "\u001b[1;22r\u001b[?12;25h\u001b[?12l\u001b[?25h\u001b[27m\u001b[23m\u001b[m\u001b[38;5;188m\u001b[48;5;233m\u001b[H\u001b[2J\u001b[?25l\u001b[22;1H\"~/.i3/config\""
+    ],
+    [
+      0.001062,
+      " 212L, 7149C"
+    ],
+    [
+      0.940260,
+      "\u001b[\u003ec"
+    ],
+    [
+      0.055094,
+      "\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1;1H\u001b[38;5;59m\u001b[48;5;233m  1 \u001b[m\u001b[38;5;188m\u001b[48;5;233m\u001b[38;5;244m# i3 config file (v4)\u001b[m\u001b[38;5;188m\u001b[48;5;233m\r\n\u001b[38;5;59m\u001b[48;5;233m  2 \u001b[m\u001b[38;5;188m\u001b[48;5;233m\u001b[38;5;244m#\u001b[m\u001b[38;5;188m\u001b[48;5;233m\r\n\u001b[38;5;59m\u001b[48;5;233m  3 \u001b[m\u001b[38;5;188m\u001b[48;5;233m\u001b[38;5;244m# Please see http://i3wm.org/docs/userguide.html for a complete reference!\u001b[m\u001b[38;5;188m\u001b[48;5;233m\r\n\u001b[38;5;59m\u001b[48;5;233m  4 \r\n  5 \u001b[m\u001b[38;5;188m\u001b[48;5;233mset $mod Mod1\r\n\u001b[38;5;59m\u001b[48;5;233m  6 \r\n  7 \u001b[m\u001b[38;5;188m\u001b[48;5;233mfont pango:Terminus 12px\r\n\u001b[38;5;59m\u001b[48;5;233m  8 \r\n  9 \u001b[m\u001b[38;5;188m\u001b[48;5;233m\u001b[38;5;244m# Use Mouse+$mod to drag floating windows to their wanted position\u001b[m\u001b[38;5;188m\u001b[48;5;233m\r\n\u001b[38;5;59m\u001b[48;5;233m 10 \u001b[m\u001b[38;5;188m\u001b[48;5;233mfloating_modifier $mod\r\n\u001b[38;5;59m\u001b[48;5;233m 11 \r\n 12 \u001b[m\u001b[38;5;188m\u001b[48;5;233mfocus_follows_mouse yes\r\n\u001b[38;5;59m\u001b[48;5;233m 13 \u001b[m\u001b[38;5;188m\u001b[48;5;233m\u001b[38;5;244m# start a terminal\u001b[m\u001b[38;5;188m\u001b[48;5;233m\r\n\u001b[38;5;59m\u001b[48;5;233m 14 \u001b[m\u001b[38;5;188m\u001b[48;5;233mbindsym $mod+Return exec i3-sensible-terminal\r\n\u001b[38;5;59m\u001b[48;5;233m 15 \r\n 16 \u001b[m\u001b[38;5;188m\u001b[48;5;233m\u001b[38;5;244m# kill focused window\u001b[m\u001b[38;5;188m\u001b[48;5;233m\r\n\u001b[38;5;59m\u001b[48;5;233m 17 \u001b[m\u001b[38;5;188m\u001b[48;5;233mbindsym $mod+Shift+q kill\r\n\u001b[38;5;59m\u001b[48;5;233m 18 \r\n 19 \u001b[m\u001b[38;5;188m\u001b[48;5;233m\u001b[38;5;244m# start dmenu (a program launcher)\u001b[m\u001b[38;5;188m\u001b[48;5;233m\r\n\u001b[38;5;59m\u001b[48;5;233m 20 \u001b[m\u001b[38;5;188m\u001b[48;5;233mbindsym $mod+d exec --no-startup-id i3-dmenu-desktop\r\n\u001b[1m\u001b[38;5;195m\u001b[48;5;25m NORMAL \u001b[m\u001b[38;5;188m\u001b[48;5;233m\u001b[38;5;25m\u001b[48;5;236m▸\u001b[m\u001b[38;5;188m\u001b[48;5;233m\u001b[38;5;236m\u001b[48;5;233m▸\u001b[m\u001b[38;5;188m\u001b[48;5;233m\u001b[38;5;240m\u001b[48;5;233m .i3/config                                  \u001b[m\u001b[38;5;188m\u001b[48;5;233m\u001b[38;5;233m\u001b[48;5;233m◂\u001b[m\u001b[38;5;188m\u001b[48;5;233m\u001b[38;5;240m\u001b[48;5;233m conf \u001b[m\u001b[38;5;188m\u001b[48;5;233m\u001b[38;5;236m\u001b[48;5;233m◂\u001b[m\u001b[38;5;188m\u001b[48;5;233m\u001b[38;5;25m\u001b[48;5;236m◂\u001b[m\u001b[38;5;188m\u001b[48;5;233m\u001b[38;5;195m\u001b[48;5;25m  0%  1/212: 1 \u001b[1;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.571481,
+      "\u001b[?25l\u001b[m\u001b[38;5;188m\u001b[48;5;233m\u001b[22;69H:\u001b[1;5H\u001b[22;1H\u001b[K\u001b[22;1H:\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.192280,
+      "q\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.239452,
+      "\r"
+    ],
+    [
+      0.039053,
+      "\u001b[?25l"
+    ],
+    [
+      0.000011,
+      "\u001b[22;1H\u001b[K\u001b[22;1H\u001b[?1l\u001b\u003e\u001b[?12l\u001b[?25h\u001b[r\u001b[?1049l"
+    ],
+    [
+      0.004019,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[m                                                                              \r \r"
+    ],
+    [
+      0.000012,
+      "\u001b]1;pts/4@x59sl\u0007"
+    ],
+    [
+      0.000310,
+      "\u001b]2;i@x59sl:~\u0007"
+    ],
+    [
+      0.027199,
+      "\r\u001b[m\u001b[27m\u001b[24m\u001b[J\u001b[30m\u001b[47m ~ \u001b[00m \u001b[01;31m\u003e \u001b[00m"
+    ],
+    [
+      0.000011,
+      "\u001b[K\u001b[72C \u0008\u001b[72D"
+    ],
+    [
+      0.689394,
+      "\u001b[K\r\r\n"
+    ]
+  ]
+}
